@@ -1,0 +1,2549 @@
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31708
+Lunes, 31 de julio de 2017
+I. COMUNIDAD DE CASTILLA Y LEÓN
+A. DISPOSICIONES GENERALES
+CONSEJERÍA DE EDUCACIÓN
+DECRETO 16/2017, de 27 de julio, por el que se establece el currículo 
+correspondiente al título de Técnico Superior en Centrales Eléctricas en la Comunidad 
+de Castilla y León.
+La Constitución Española reserva al Estado en el artículo 149.1.30.ª la competencia 
+exclusiva en materia de regulación de las condiciones de obtención, expedición y 
+homologación de títulos académicos y profesionales y normas básicas para el desarrollo 
+del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones 
+de los poderes públicos en esta materia.
+El Estatuto de Autonomía de Castilla y León, en su artículo 73.1, atribuye a la 
+Comunidad de Castilla y León la competencia de desarrollo legislativo y ejecución de 
+la enseñanza en toda su extensión, niveles y grados, modalidades y especialidades de 
+acuerdo con lo dispuesto en la normativa estatal.
+La Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de Formación 
+Profesional, establece en el artículo 10.1, que la Administración General del Estado 
+determinará los títulos y los certificados de profesionalidad que constituirán las ofertas de 
+formación profesional referidos al Catálogo Nacional de Cualificaciones Profesionales, y 
+en el apartado 2 que las Administraciones educativas, en el ámbito de sus competencias, 
+podrán ampliar los contenidos de los correspondientes títulos de formación profesional.
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación, tras su modificación por la 
+Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa, establece 
+en el artículo 6.bis.4 que, en relación con la formación profesional, el Gobierno fijará los 
+objetivos, competencias, contenidos, resultados de aprendizaje y criterios de evaluación 
+del currículo básico, y en el artículo 39.6 que el Gobierno establecerá las titulaciones 
+correspondientes a los estudios de formación profesional, así como los aspectos básicos 
+del currículo de cada una de ellas. 
+El Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación 
+general de la formación profesional del sistema educativo, define en el artículo 9 la estructura 
+de los títulos de formación profesional tomando como base el Catálogo Nacional de 
+Cualificaciones Profesionales, las directrices fijadas por la Unión Europea y otros aspectos 
+de interés social, y en el artículo 7 concreta los elementos que definen el perfil profesional 
+de dichos títulos, que incluirá la competencia general, las competencias profesionales, 
+personales y sociales, las cualificaciones profesionales y, en su caso, las unidades de 
+competencia, cuando se refieran al Catálogo Nacional de Cualificaciones Profesionales 
+incluidas en los títulos. Por otro lado, en el artículo 8.2, dispone que las Administraciones 
+educativas establecerán los currículos correspondientes respetando lo en él dispuesto y 
+en las normas que regulen las diferentes enseñanzas de formación profesional.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31709
+Lunes, 31 de julio de 2017
+El Real Decreto 258/2011, de 28 de febrero, establece el título de Técnico Superior 
+en Centrales Eléctricas y se fijan sus enseñanzas mínimas.
+El presente decreto establece el currículo correspondiente al título de Técnico 
+Superior en Centrales Eléctricas en la Comunidad de Castilla y León, teniendo en cuenta 
+los principios generales que han de orientar la actividad educativa según lo previsto 
+en el artículo 1 de la Ley Orgánica 2/2006, de 3 de mayo, y pretende dar respuesta a 
+las necesidades generales de cualificación de los recursos humanos en el sector de la 
+producción de energía eléctrica.
+En el proceso de elaboración de este decreto se ha recabado dictamen del Consejo 
+Escolar de Castilla y León e informe del Consejo de Formación Profesional de Castilla 
+y León.
+En su virtud, la Junta de Castilla y León, a propuesta del Consejero de Educación, de 
+acuerdo con el dictamen del Consejo Consultivo de Castilla y León, y previa deliberación 
+del Consejo de Gobierno en su reunión de 27 de julio de 2017
+DISPONE
+Artículo 1. Objeto y ámbito de aplicación.
+El presente decreto tiene por objeto establecer el currículo correspondiente al título 
+de Técnico Superior en Centrales Eléctricas en la Comunidad de Castilla y León. 
+Artículo 2. Identificación del título y referentes de formación.
+1. El título de Técnico Superior en Centrales Eléctricas queda identificado en la 
+Comunidad de Castilla y León por los elementos determinados en el artículo 2 del Real 
+Decreto 258/2011, de 28 de febrero, por el que se establece el citado título y se fijan sus 
+enseñanzas mínimas, y por un código, de la forma siguiente:
+FAMILIA PROFESIONAL: Energía y Agua.
+DENOMINACIÓN: Centrales Eléctricas.
+NIVEL: Formación Profesional de Grado Superior.
+DURACIÓN: 2.000 horas.
+REFERENTE EUROPEO: CINE-5b (Clasificación Internacional Normalizada de la 
+Educación).
+CÓDIGO: ENA02S.
+2. El currículo del ciclo formativo que conduce al título de Técnico Superior en 
+Centrales Eléctricas tomará como referentes de formación los aspectos relativos al 
+perfil profesional del título determinado por la competencia general, las competencias 
+profesionales, personales y sociales, y la relación de cualificaciones y unidades de 
+competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el 
+título, así como los aspectos referentes al entorno profesional y la prospectiva del título 
+en el sector o sectores, establecidos en los artículos 3 a 8 del Real Decreto 258/2011, 
+de 28 de febrero.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31710
+Lunes, 31 de julio de 2017
+Artículo 3. Módulos profesionales del ciclo formativo.
+Los módulos profesionales que componen el ciclo formativo que conduce a la 
+obtención del título de Técnico Superior en Centrales Eléctricas serán los siguientes:
+a)	Los módulos profesionales que se establecen en el artículo 10 del Real Decreto 
+258/2011, de 28 de febrero, y que se indican a continuación: 
+0668. Sistemas eléctricos en centrales.
+0669. Subestaciones eléctricas.
+0670. Telecontrol y automatismos.
+0671. Prevención de riesgos eléctricos.
+0672. Centrales de producción eléctrica.
+0673. Operación en centrales eléctricas.
+0674. Mantenimiento de centrales eléctricas.
+0675. Coordinación de equipos humanos.
+0676. Proyecto de centrales eléctricas.
+0677. Formación y orientación laboral.
+0678. Empresa e iniciativa emprendedora.
+0679. Formación en centros de trabajo.
+b)	El módulo profesional que se establece como propio de la Comunidad de Castilla 
+y León:
+CL18. Elementos de centrales y subestaciones eléctricas.
+Artículo 4. Objetivos, contenidos, duración y orientaciones pedagógicas y 
+metodológicas de cada módulo profesional.
+1. Los objetivos de los módulos profesionales relacionados en el artículo 3.a), 
+expresados en términos de resultados de aprendizaje, y los criterios de evaluación, son 
+los que se establecen en el anexo I del Real Decreto 258/2011, de 28 de febrero.
+2. Por su parte, los contenidos, la duración y las orientaciones pedagógicas y 
+metodológicas de los módulos profesionales relacionados en el artículo 3.a) son los que 
+se establecen en el Anexo I de este decreto, excepto el módulo profesional «Proyecto 
+de centrales eléctricas» sobre el que el citado anexo solo determina la duración y las 
+orientaciones pedagógicas y metodológicas, y el módulo profesional «Formación en 
+centros de trabajo» sobre el que solo determina la duración.
+3. Los objetivos del módulo profesional indicado en el artículo 3.b) expresados en 
+términos de resultados de aprendizaje, y los criterios de evaluación, así como la duración, 
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31711
+Lunes, 31 de julio de 2017
+los contenidos y las orientaciones pedagógicas y metodológicas, son los que se establecen 
+en el Anexo I de este decreto junto al resto de módulos profesionales.
+Artículo 5. Módulo profesional de «Formación en centros de trabajo» y «Proyecto de 
+centrales eléctricas».
+1. El programa formativo del módulo profesional «Formación en centros de trabajo» 
+se particularizará para cada alumno y se elaborará teniendo en cuenta las características 
+del centro de trabajo. Deberá recoger las actividades formativas que permitan ejecutar 
+o completar la competencia profesional correspondiente al título, los resultados de 
+aprendizaje y los criterios de evaluación previstos en el anexo I Real Decreto 258/2011, 
+de 28 de febrero.
+2. El módulo profesional de «Proyecto de centrales eléctricas» se definirá de acuerdo 
+con las características de la actividad laboral del ámbito del ciclo formativo y con aspectos 
+relativos al ejercicio profesional y a la gestión empresarial. Tendrá por objeto la integración 
+de las diversas capacidades y conocimientos del currículo del ciclo formativo, contemplará 
+las variables tecnológicas y organizativas relacionadas con el título, y deberá ajustarse 
+a los resultados de aprendizaje y criterios de evaluación previstos en el anexo I del Real 
+Decreto 258/2011, de 28 de febrero.
+El departamento de la familia profesional de Energía y Agua determinará, en el marco 
+de la programación general anual, los proyectos que se propondrán para su desarrollo por 
+el alumnado. Los proyectos también podrán ser propuestos por el alumnado, en cuyo caso 
+se requerirá la aceptación del departamento.
+Con carácter general, el módulo profesional «Proyecto de centrales eléctricas» se 
+desarrollará simultáneamente al módulo profesional «Formación en centros de trabajo», 
+salvo que concurran otras circunstancias que no lo permitan. 
+Artículo 6. Organización y distribución de los módulos profesionales. 
+1. Los módulos profesionales que forman las enseñanzas del ciclo formativo de 
+técnico superior en centrales eléctricas, cuando se oferten en régimen presencial, se 
+organizan en dos cursos académicos. Su distribución en cada uno de los cursos y la 
+asignación horaria semanal se recoge en el Anexo II de este decreto.
+2. El período de realización del módulo profesional de «Formación en centros de 
+trabajo» establecido en el Anexo II para el tercer trimestre, podrá comenzar en el segundo 
+trimestre si han transcurrido veintidós semanas lectivas a contar desde el inicio del curso 
+escolar.
+Artículo 7. Metodología.
+1. La metodología didáctica aplicada al ciclo formativo de técnico superior en centrales 
+eléctricas integrará los aspectos científicos, tecnológicos y organizativos que en cada caso 
+correspondan, con el fin de que el alumnado adquiera una visión global de los procesos 
+productivos propios de la actividad profesional.
+2. En el desarrollo de las enseñanzas correspondientes al ciclo formativo se deben 
+aplicar metodologías activas de aprendizaje que favorezcan: 
+a)	La participación, implicación y compromiso del alumnado en las tareas y su 
+resolución de una manera creativa, innovadora y autónoma, estimulando su 
+motivación.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31712
+Lunes, 31 de julio de 2017
+b)	La realización de proyectos o actividades coordinadas en los que intervengan 
+diferentes módulos interrelacionando aquellos que permitan completar las 
+competencias profesionales del ciclo formativo.
+c)	 La evaluación de las actitudes que el profesorado considere imprescindibles para 
+el desempeño de una profesión y la integración en una sociedad cívica y ética.
+d)	La adquisición de competencias, tanto técnicas asociadas a los módulos 
+profesionales que configuran el ciclo formativo, como interpersonales o sociales 
+(competencia digital, trabajo colaborativo, en equipo o cooperativo, otros). 
+e)	El desarrollo de trabajos en el aula que versen sobre actividades que supongan 
+al alumnado el ensayo de rutinas y destrezas de pensamiento y ejecución de 
+tareas que simulen el ambiente real de trabajo en torno al perfil profesional del 
+título, apoyándose en un aprendizaje basado en proyectos, retos o la resolución 
+de problemas complejos que estimulen al alumnado.
+f)	 La comprobación del nivel adquirido por el alumnado en las competencias 
+asociadas al módulo profesional cursado, mediante la elaboración de pruebas 
+con un componente práctico que evidencie dicho desempeño profesional. 
+Artículo 8. Adaptaciones metodológicas y curriculares.
+1. Con objeto de ofrecer a todas las personas la oportunidad de adquirir una formación 
+básica, ampliar y renovar sus conocimientos, habilidades y destrezas de modo permanente 
+y facilitar el acceso a las enseñanzas de formación profesional, la consejería competente 
+en materia de educación podrá flexibilizar la oferta del ciclo formativo de técnico superior 
+en centrales eléctricas permitiendo, principalmente a las personas adultas, la posibilidad 
+de combinar el estudio y la formación con la actividad laboral o con otras actividades, 
+respondiendo así a las necesidades e intereses personales.
+2. También se podrá adecuar las enseñanzas de este ciclo formativo a las 
+características de la educación a distancia, así como a las características del alumnado 
+con necesidades específicas de apoyo educativo para que se garantice su acceso, 
+permanencia y progresión en el ciclo formativo.
+Artículo 9. Requisitos de los centros para impartir estas enseñanzas.
+Todos los centros de titularidad pública o privada que ofrezcan enseñanzas 
+conducentes a la obtención del título de Técnico Superior en Centrales Eléctricas se 
+ajustarán a lo establecido en la Ley Orgánica 2/2006, de 3 de mayo, de Educación y 
+en las normas que lo desarrollen, y en todo caso, deberán cumplir los requisitos que se 
+establecen en el artículo 46 del Real Decreto 1147/2011, de 29 de julio, por el que se 
+establece la ordenación general de la formación profesional del sistema educativo, en 
+el Real Decreto 258/2011, de 28 de febrero, en este decreto, y en lo establecido en la 
+normativa que los desarrolle.
+Artículo 10. Profesorado. 
+1. Los aspectos referentes al profesorado con atribución docente en los módulos 
+profesionales del ciclo formativo de técnico superior en centrales eléctricas, relacionados 
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31713
+Lunes, 31 de julio de 2017
+en el artículo 3.a), son los establecidos en el artículo 12 del Real Decreto 258/2011, de 
+28 de febrero.
+2. Las especialidades y, en su caso, las titulaciones del profesorado con atribución 
+docente en el módulo profesional incluido en el artículo 3.b), son las que se determinan en 
+el Anexo III del presente decreto. En todo caso, se exigirá que las enseñanzas conducentes 
+a las titulaciones citadas engloben los objetivos del módulo profesional y si dichos objetivos 
+no estuvieran incluidos además de la titulación deberá acreditarse mediante «certificación» 
+una experiencia laboral de, al menos, tres años en el sector vinculado a la familia profesional 
+realizando actividades productivas en empresas relacionadas implícitamente con los 
+resultados de aprendizaje. 
+Artículo 11. Espacios y equipamientos. 
+Los espacios y equipamientos necesarios para el desarrollo de las enseñanzas 
+del ciclo formativo de técnico superior en centrales eléctricas son los establecidos en el 
+artículo 11 del Real Decreto 258/2011, de 28 de febrero.
+Artículo 12. Accesos y vinculación a otros estudios, y correspondencia de módulos 
+profesionales con las unidades de competencia.
+El acceso y vinculación a otros estudios, y la correspondencia de los módulos 
+profesionales indicados en el artículo 3.a) con las unidades de competencia son los que 
+se establecen en el capítulo IV del Real Decreto 258/2011, de 28 de febrero. 
+Artículo 13. Autonomía de los centros.
+1. Los centros educativos dispondrán de la necesaria autonomía pedagógica, de 
+organización y de gestión económica, para el desarrollo de las enseñanzas del ciclo 
+formativo de técnico superior en centrales eléctricas, y su adaptación a las características 
+concretas del entorno socioeconómico, cultural y profesional. 
+2. Los centros autorizados para impartir el ciclo formativo concretarán y desarrollarán 
+el currículo mediante las programaciones didácticas de cada uno de los módulos 
+profesionales que componen el ciclo formativo en los términos establecidos en el Real 
+Decreto 258/2011, de 28 de febrero, en este decreto, en el marco general del proyecto 
+educativo de centro y en función de las características de su entorno productivo. 
+Las programaciones didácticas incluirán, al menos, los aspectos siguientes: 
+a)	Los objetivos del módulo profesional: Objetivos generales del currículo que 
+desarrolla el módulo y las competencias profesionales, personales y sociales 
+vinculadas al módulo. 
+b)	Las competencias y contenidos de carácter transversal.
+c)	 La organización, secuenciación y temporalización de las unidades didácticas, 
+indicando los contenidos mínimos de referencia.
+d)	La duración de los contenidos de prevención de riesgos laborales de nivel básico 
+en función del sector, de acuerdo con lo establecido en el artículo 35 del Real 
+Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de los 
+Servicios de Prevención.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31714
+Lunes, 31 de julio de 2017
+e)	La metodología didáctica.
+f)	 Los criterios de evaluación y calificación del módulo y resultados de aprendizaje 
+mínimos exigibles para obtener la evaluación positiva en el módulo profesional.
+g)	Los procedimientos e instrumentos de evaluación. Actividades de recuperación, 
+pérdida de evaluación continua y reclamaciones.
+h)	La atención a la diversidad y, en su caso, adaptación de acceso al currículo.
+i)	 Las actividades complementarias y extraescolares relacionadas con el módulo 
+profesional. 
+j)	 Los materiales y recursos didácticos.
+3. La consejería competente en materia de educación favorecerá la elaboración de 
+proyectos de innovación, así como de modelos de programación docente y de materiales 
+didácticos que faciliten al profesorado el desarrollo del currículo.
+4. De conformidad con el artículo 120.4 de la Ley Orgánica 2/2006, de 3 de mayo, 
+los centros, en el ejercicio de su autonomía, podrán adoptar experimentaciones, planes de 
+trabajo, formas de organización, normas de convivencia y ampliación del calendario escolar 
+o del horario lectivo de áreas o materias, en los términos que establezca la consejería 
+competente en materia de educación y dentro de las posibilidades que permita la normativa 
+aplicable, incluida la laboral, sin que, en ningún caso, se impongan aportaciones a las 
+familias ni exigencias para la citada consejería. 
+Artículo 14. Enseñanzas impartidas en lenguas extranjeras o en lenguas cooficiales 
+de otras comunidades autónomas.
+1. Teniendo en cuenta que la promoción de la enseñanza y el aprendizaje de lenguas 
+y de la diversidad lingüística debe de constituir una prioridad de la acción comunitaria en el 
+ámbito de la educación y la formación, la consejería competente en materia de educación 
+podrá autorizar que todos o determinados módulos profesionales del currículo se impartan 
+en lenguas extranjeras o en lenguas cooficiales de otra comunidad autónoma, sin perjuicio 
+de lo que se establezca al respecto en su normativa específica y sin que ello suponga 
+modificación de currículo establecido en el presente decreto.
+2. Los centros autorizados deberán incluir en su proyecto educativo los elementos 
+más significativos de su proyecto lingüístico autorizado.
+Artículo 15. Oferta a distancia del título.
+1. Los módulos profesionales que forman las enseñanzas del ciclo formativo de 
+técnico superior en centrales eléctricas podrán ofertarse a distancia, siempre que se 
+garantice que el alumnado puede conseguir los resultados de aprendizaje de los mismos, 
+de acuerdo con lo dispuesto en el Real Decreto 258/2011, de 28 de febrero, y en este 
+decreto.
+2. La consejería competente en materia de educación establecerá los módulos 
+profesionales susceptibles de ser impartidos a distancia y el porcentaje de horas de cada 
+uno de ellos que tienen que impartirse en régimen presencial.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31715
+Lunes, 31 de julio de 2017
+DISPOSICIONES ADICIONALES
+Primera. Calendario de implantación.
+La implantación del currículo establecido en este decreto tendrá lugar en el curso 
+escolar 2017/2018 para el primer curso del ciclo formativo y en el curso escolar 2018/2019 
+para el segundo curso del ciclo formativo.
+Segunda. Titulaciones equivalentes y vinculación con capacitaciones profesionales.
+1. Las titulaciones equivalentes y vinculación con capacitaciones profesionales son 
+las que se establecen en la disposición adicional tercera del Real Decreto 258/2011, de 
+28 de febrero.
+2. La formación establecida en el presente decreto en el módulo profesional de 
+«Formación y orientación laboral», incluye un mínimo de cincuenta horas, que capacita 
+para llevar a cabo responsabilidades profesionales equivalentes a las que precisan las 
+actividades de nivel básico en prevención de riesgos laborales, establecidas en el Real 
+Decreto 39/1997, de 17 de enero.
+Tercera. Certificación académica de superación del nivel básico en prevención de 
+riesgos laborales.
+La consejería competente en materia de educación expedirá una certificación 
+académica de la formación de nivel básico en prevención de riesgos laborales al alumnado 
+que haya superado el bloque B del módulo profesional de «Formación y orientación 
+laboral», de conformidad con la Orden EDU/2205/2009, de 26 de noviembre, por la que se 
+regula el procedimiento para la certificación de la formación de nivel básico en prevención 
+de riesgos laborales para el alumnado que supere el módulo profesional de Formación y 
+Orientación Laboral de ciclos formativos de Formación Profesional Inicial. 
+Cuarta. Equivalencia a efectos de docencia en los procedimientos selectivos de 
+ingreso en el Cuerpo de Profesores Técnicos de Formación Profesional.
+En los procesos selectivos convocados por la consejería competente en materia de 
+educación, el título de Técnico Superior o Técnico especialista se declara equivalente a 
+los exigidos para el acceso al Cuerpo de Profesores Técnicos de Formación Profesional, 
+cuando el titulado haya ejercido como profesor interino en centros educativos públicos 
+dependientes de la citada consejería y en la especialidad docente a la que pretenda 
+acceder durante un período mínimo de dos años antes del 31 de agosto de 2007. 
+DISPOSICIÓN DEROGATORIA
+Derogación normativa.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo 
+establecido en el presente decreto.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31716
+Lunes, 31 de julio de 2017
+DISPOSICIONES FINALES
+Primera. Desarrollo normativo.
+Se faculta al titular de la consejería competente en materia de educación para dictar 
+cuantas disposiciones sean precisas para la interpretación, aplicación y desarrollo de lo 
+dispuesto en este decreto.
+Segunda. Entrada en vigor.
+El presente decreto entrará en vigor a los veinte días de su publicación en el «Boletín 
+Oficial de Castilla y León».
+Valladolid, 27 de julio de 2017.
+El Presidente de la Junta 
+de Castilla y León,
+Fdo.: Juan Vicente Herrera Campo
+El Consejero de Educación,
+Fdo.: Fernando Rey Martínez
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31717
+Lunes, 31 de julio de 2017
+ANEXO I
+Objetivos, contenidos, duración y orientaciones pedagógicas y metodológicas 
+de los módulos profesionales
+Módulo profesional: Sistemas eléctricos en centrales.
+Equivalencia en créditos ECTS: 10.
+Código: 0668.
+Duración: 192 horas.
+Contenidos:
+1. Características de los sistemas eléctricos:
+– 	 Características del sistema eléctrico. Tipos de redes eléctricas. Red eléctrica 
+nacional.
+– 	 Descripción del sistema eléctrico.
+– 	 Subsistemas de generación. Tipos de generadores. Características y utilización. 
+Subsistemas de transporte. Tipos y sistemas. Subsistemas de distribución. Tipos 
+y características. Distribución en alta tensión. Distribución en media. Distribución 
+en baja.
+– 	 Constitución de las redes de distribución. Partes. Características.
+– 	 Elementos de un sistema eléctrico. Subestación. Línea de transporte. Centro de 
+reparto. Línea de distribución. Centro de transformación. Líneas de distribución 
+de baja tensión.
+– 	 Simbología eléctrica de alta y media tensión. Interpretación de planos. Normas 
+de aplicación.
+– 	 Tipos de líneas en las redes de distribución. Aéreas y subterráneas. Características 
+diferenciadoras. Normativa específica de Centrales, Subestaciones y Centros de 
+Transformación. RAT.
+– 	 Tipos de conexión de las redes de distribución: red radial, red en anillo, red en 
+huso normal, red en huso apoyado y red en baja tensión.
+– 	 Tipos de esquemas en redes de baja tensión en función de su conexión a tierra. 
+Características y utilización.
+– 	 Estudio y clasificación de los sistemas HVDC. Configuraciones punto a punto, 
+multiterminal y unitaria. Tipos de conexión. Monopolar. Bipolar. Homopolar.
+– 	 Caracterización de elementos de sistemas HVDC. Convertidores, filtros, 
+reactancias de suavizado, condensadores, líneas de CC, interruptores. Sistemas 
+de puesta a tierra. Seccionadores de aislamiento. Seccionadores de puesta a 
+tierra. Pararrayos-autoválvulas. Elementos de control en sistemas HVDC. 
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31718
+Lunes, 31 de julio de 2017
+2. Clasificación de los materiales eléctricos y magnéticos utilizados en centrales 
+eléctricas:
+– 	 Características fundamentales de los materiales. Materiales conductores. Fuerza 
+eléctrica: Ley de Coulomb, Ley de Ohm, corriente en conductores metálicos y 
+efecto Joule. Consecuencias y aplicaciones.
+– 	 Conductores para instalaciones de enlace e interior. Designación normalizada de 
+conductores. Composición. Tipos. Colores normalizados. Materiales aislantes. 
+Características de los materiales aislantes.
+– 	 Conductores para redes aéreas de distribución de energía eléctrica. Naturaleza 
+y características. Conductores aluminio-acero. Red trenzada.
+– 	 Conductores para redes subterráneas de distribución de energía eléctrica. 
+Características y constitución de los cables subterráneos. Envolventes. 
+Empalmes.
+– 	 Condensadores. Capacidad. Características. Tipos. Aplicaciones. Conexionado.
+– 	 Aisladores. Funcionalidad y materiales empleados. Parámetros característicos 
+de un aislador. Clasificación de los aisladores. Herrajes. Elección del número 
+de elementos de una cadena de aisladores en función del grado de aislamiento 
+requerido para la línea.
+– 	 Materiales magnéticos. Conceptos generales del magnetismo. Curva de imanación 
+de los materiales ferromagnéticos. Tipos de comportamiento magnético. Ciclo de 
+histéresis. Tipos de materiales ferromagnéticos. Influencia de la tensión en las 
+características magnéticas. Pérdidas magnéticas. Circuito magnético.
+– 	 Electroimán. Tipos. Cálculo de la fuerza de tracción de electroimanes. 
+Utilización.
+3. Cálculo de circuitos en instalaciones eléctricas trifásicas y monofásicas:
+– 	 Valores característicos de la corriente alterna. Comportamiento de los receptores 
+elementales (resistencia, bobina pura y condensador) en corriente alterna 
+monofásica.
+– 	 Circuitos con resistencia, bobinas y condensadores con acoplamiento serie, 
+paralelo o mixto en corriente alterna monofásica.
+– 	 Potencia en corriente alterna monofásica. Factor de potencia.
+– 	 Resolución de circuitos de corriente alterna monofásica. Características 
+especiales, resonancia inductiva, resonancia capacitiva.
+– 	 Sistemas trifásicos. Conexión de generadores trifásicos. Conexión de receptores 
+trifásicos. Potencia en sistemas trifásicos. Corrección del factor de potencia.
+– 	 Sistemas trifásicos equilibrados y desequilibrados. Conexión a tierra.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31719
+Lunes, 31 de julio de 2017
+– 	 Cálculos característicos en sistemas trifásicos equilibrados. Tensión y potencias 
+trifásicas. Caída de tensión en líneas eléctricas. Intensidades en fase y en línea. 
+Cálculos básicos en sistemas trifásicos desequilibrados.
+– 	 Cálculos de secciones en líneas eléctricas equilibradas. Cálculo de la sección de 
+los conductores de una instalación teniendo en cuenta el calentamiento. Cálculo 
+de la sección de los conductores de una instalación teniendo en cuenta la caída 
+de tensión. Secciones normalizadas.
+– 	 Reglamentación eléctrica. Reglamento Electrotécnico de Baja Tensión. 
+Reglamento de Líneas Eléctricas de Alta Tensión. Reglamento de Centrales y 
+Centros de Transformación.
+4. Características eléctricas de las máquinas eléctricas rotativas y estáticas:
+– 	 Clasificación de máquinas eléctricas. Máquinas rotativas. Máquinas estáticas. 
+Generadores eléctricos. Tipos de generadores eléctricos. Funciones generales 
+de los generadores eléctricos. Funcionamiento del generador síncrono.
+– 	 Constitución del generador síncrono. Funcionamiento del generador asíncrono. 
+Constitución del generador asíncrono. Funcionamiento del generador de corriente 
+continua. Constitución del generador de corriente continua. Características del 
+generador de corriente continua. Conexionado y aplicación de una amplidina.
+– 	 Alternadores. Funciones del alternador. Constitución del alternador. Características 
+generales de la excitación. Sistemas auxiliares del alternador. Funcionamiento 
+del alternador. Características del alternador. Regulación del alternador.
+– 	 Motores eléctricos. Funciones generales de motores eléctricos. Características 
+generales de motores eléctricos. Partes fundamentales de un motor eléctrico. 
+Tipos de motores eléctricos. Funcionamiento de los motores de corriente alterna. 
+Características de los motores de corriente alterna. Constitución de los motores 
+de corriente alterna. Constitución de los motores eléctricos de corriente continua. 
+Funcionamiento de los motores eléctricos de corriente continua. Características 
+de los motores de corriente continua.
+– 	 La placa de características en las máquinas rotativas. Normativa.
+– 	 Cálculos básicos de las máquinas rotativas. Par. Velocidad. Tensión. Intensidad. 
+Resistencia de aislamiento. Factor de potencia. Curvas características.
+– 	 Transformadores. Funciones de los transformadores. Tipos de transformadores. 
+Constitución de transformadores. Funcionamiento de los transformadores. 
+Características eléctricas de los transformadores. Análisis de la placa 
+de características. Regulación de los transformadores. Transformadores 
+especiales.
+– 	 Cálculos básicos de los transformadores. Ensayos. Curvas características. 
+Tensión. Intensidad. Potencia. Relación de transformación. Tensión de 
+cortocircuito.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31720
+Lunes, 31 de julio de 2017
+– 	 Elementos auxiliares de las máquinas. Arrancadores. Reguladores de velocidad. 
+Aparamenta. Protecciones. Conexionado.
+– 	 Puesta en marcha de generadores eléctricos de corriente continua. Tipos y 
+características. Puesta en marcha de los alternadores. Precauciones y técnicas. 
+Puesta en marcha de motores eléctricos. Arranques. Control de velocidad. Puesta 
+en marcha de transformadores. Conexionado en línea.
+5. Características de la aparamenta y protecciones eléctricas:
+– 	 Tipos de protecciones eléctricas en centrales eléctricas y subestaciones. 
+Problemas fundamentales de la aparamenta. El arco eléctrico. Ruptura de un 
+circuito de corriente alterna. Ruptura en el aire. Ruptura en el aceite. Ruptura 
+mediante aire comprimido. Ruptura en hexafluoruro de azufre. Ruptura en el 
+vacío. Ruptura estática.
+– 	 Tipos de aparatos de corte. Seccionadores. Interruptores. Interruptores-
+seccionadores. Interruptores automáticos o disyuntores.
+– 	 Cortacircuitos fusibles. Clasificación. Características constructivas.
+– 	 Cálculo básico de corrientes de cortocircuito. Componentes asimétricas. 
+Cortocircuito monofásico a tierra. Cortocircuito entre fases. Conceptos básicos 
+en la elección de un interruptor. Poder de corte y poder de conexión.
+– 	 Aparamenta para protección y medida. Aspectos generales de protección de 
+equipos. Pararrayos autoválvula. Transformadores de tensión para medida y 
+protección. Transformadores de intensidad para medida y protección. Relés de 
+protección. Tipos. Protecciones digitales.
+– 	 Magnitudes fundamentales de la aparamenta en centrales y subestaciones. 
+Magnitudes eléctricas. Magnitudes mecánicas.
+– 	 Aparamenta de medida. Celdas de medida. Medida de magnitudes fundamentales 
+eléctricas.
+– 	 OCR (Órgano de Corte de Red) y Seccionalizadores de Alta Tensión.
+– 	 Conectores y manguitos de empalme en Alta Tensión. Fundamento y exposición 
+de modelos según tensión, potencia, otros.
+– 	 Embarrados de Alta Tensión. Fundamentos, tipos y características.
+– 	 Reactancia o Resistencia limitadora de Intensidad de cortocircuito en 
+transformadores de potencia.
+– 	 Baterías de condensadores para control de la energía reactiva en Alta Tensión.
+– 	 SIPCO (Sistema Integrado de Protección y Control).
+6. Configuración de sistemas auxiliares de respaldo:
+– 	 Sistemas auxiliares de respaldo. Definición. Tipos. Armarios de servicios 
+auxiliares.
+– 	 Servicios auxiliares de corriente alterna. Tipos. Características. Utilización.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31721
+Lunes, 31 de julio de 2017
+– 	 Servicios auxiliares de corriente continua. Tipos. Características. Utilización.
+– 	 Esquemas de servicios auxiliares. Alimentación de servicios auxiliares.
+– 	 Circuitos alimentados por los servicios auxiliares. Tipos y características.
+– 	 Actuación de los servicios auxiliares. Procedimientos.
+– 	 Acumuladores. Función. Construcción. Tipos. Características.
+– 	 Rectificadores. Función. Construcción. Tipos. Características.
+7. Realización de medidas eléctricas:
+– 	 Errores en las medidas. Metodologías. Errores típicos. Sensibilidad.
+– 	 Precisión de los aparatos de medida. Normas generales para la toma de medidas 
+eléctricas.
+– 	 Instrumentos de medida analógicos y digitales. El polímetro. El osciloscopio. 
+Ventajas e inconvenientes. Utilización. Características. Sistemas de medida.
+– 	 Medidas eléctricas fundamentales. Medida de intensidad. Medida de tensión. 
+Medidas de potencia. Medidas de energía. Medida de la frecuencia. Medida del 
+factor de potencia. Medida de la resistencia eléctrica.
+– 	 Interpretación de resultados. Medidas visuales. Medidas gráficas. Sistemas 
+informáticos de medida.
+– 	 Analizadores de redes. Utilización. Tipos. Características. Análisis de 
+resultados.
+8. Características de los parámetros de calidad de la energía eléctrica:
+– 	 Normativa relacionada con la calidad de la energía eléctrica.
+– 	 Características de la alimentación en baja y en media tensión. Frecuencia. 
+Amplitud de la tensión suministrada.
+– 	 Calidad de energía eléctrica. Variaciones de la tensión suministrada. Variaciones 
+rápidas de tensión. Huecos de tensión. Interrupciones breves de la tensión 
+suministrada. Interrupciones largas de la tensión suministrada. Sobretensiones 
+temporales en la red. Entre fases y tierra. Sobretensiones transitorias entre fases 
+y tierra. Desequilibrio de la tensión suministrada. Tensiones armónicas. Tensiones 
+interarmónicas. Transmisión de señales de información por la red. Continuidad 
+del suministro.
+– 	 Responsabilidades en el cumplimiento de la calidad.
+– 	 Perturbaciones provocadas e inducidas por instalaciones receptoras. Tipos de 
+receptores. Ruido eléctrico.
+– 	 Problemas causados por una mala calidad de la energía eléctrica.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31722
+Lunes, 31 de julio de 2017
+– 	 Equipos para mejorar la calidad de la energía eléctrica. Filtros de armónicos 
+(pasivos y activos). Transformadores de aislamiento. Transformadores ferro-
+resonantes. Fuentes ininterrumpibles (SAI). Compensadores estáticos. Interruptor 
+automático de estado sólido.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional da respuesta a la necesidad de proporcionar los fundamentos 
+eléctricos y magnéticos que intervienen en los sistemas y equipos instalados en una central 
+eléctrica.
+La definición de estas funciones incluye aspectos como:
+– 	 Calcular instalaciones eléctricas trifásicas y monofásicas.
+– 	 Dimensionar máquinas eléctricas.
+– 	 Dimensionar aparamenta eléctrica y de respaldo utilizadas en centrales 
+eléctricas.
+– 	 Medir parámetros eléctricos en alta y media tensión.
+Las actividades profesionales asociadas a esta función se aplican en:
+– 	 Supervisión y control de sistemas eléctricos en centrales eléctricas.
+– 	 Valorar la calidad de la energía eléctrica y sus normas.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+a), b), c), d), e), f), g), h), i), k), l) del ciclo formativo, y las competencias a), b), c), d), f) y 
+h) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+– 	 Reconocer los sistemas eléctricos.
+– 	 Reconocer las leyes y principios de la electricidad y el electromagnetismo 
+necesarios en las instalaciones de centrales eléctricas.
+– 	 Realización de cálculos de circuitos eléctricos de CA monofásica y de CA 
+trifásica.
+– 	 Dimensionar la aparamenta y las máquinas eléctricas, su comportamiento y 
+características de funcionamiento.
+– 	 Identificar y seleccionar los sistemas auxiliares de respaldo.
+– 	 Realizar medidas eléctricas.
+– 	 Aplicar la normativa relacionada con la calidad de la energía eléctrica.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31723
+Lunes, 31 de julio de 2017
+Módulo profesional: Subestaciones eléctricas.
+Equivalencia en créditos ECTS: 11.
+Código: 0669.
+Duración: 192 horas.
+Contenidos:
+1. Caracterización de subestaciones eléctricas:
+– 	 Red eléctrica. Subsistemas de generación, transporte y distribución.
+– 	 Características básicas de las subestaciones eléctricas. Tipos y configuraciones 
+de subestaciones. Clasificación. Subestaciones de generación, de transformación 
+y de maniobra, subestaciones de interior y de intemperie.
+– 	 Función de las subestaciones eléctricas dentro del sistema de transporte de 
+energía. Subestaciones en centrales. Subestaciones en parques.
+– 	 Principales 
+componentes. 
+Embarrados, 
+seccionadores, 
+transformadores, 
+interruptores. Protecciones y su selectividad. Características. Tipos. Utilización. 
+Precauciones de montaje. Transformadores de potencia, transformadores para 
+medida e instrumentación, pararrayos.
+– 	 Red de puesta a tierra. Tipos y características.
+– 	 Reglamentación técnica y de seguridad.
+– 	 Normativa aplicable. Reglamento de Alta Tensión. REBT. Reglamento de 
+centrales, subestaciones y centros de transformación.
+– 	 Normativa técnica particular de compañías eléctricas.
+2. Interpretación de proyectos de subestaciones:
+– 	 Proyectos de subestaciones eléctricas. Proyectos Tipo. Partes del mismo.
+– 	 Simbología técnica de aplicación en la representación gráfica de planos. 
+Esquemas unifilares de las distintas tipologías de subestaciones. Simbología 
+UNE, DIN y ASA, entre otras. Esquemas unifilares de las distintas tipologías de 
+subestaciones.
+– 	 Fases de montaje de una subestación. Preparación de terrenos, obra civil, red de 
+tierra y puesta en obra de equipos, entre otros.
+– 	 Elaboración de esquemas y documentos relativos a las subestaciones. Esquemas 
+unifilares, planos de distribución en planta, croquis de situación, entre otros. 
+Memorias descriptivas. Cálculos justificativos.
+– 	 Interpretación de esquemas y planos con ayuda de CAD. Manejo de programas 
+de CAD. (multisim y autocad, entre otros).
+– 	 Gestión de documentos técnicos y administrativos vinculados con el montaje de 
+subestaciones. Utilización de herramientas informáticas.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31724
+Lunes, 31 de julio de 2017
+3. Planificación de procesos de montaje en subestaciones:
+– 	 El proyecto técnico aplicado al montaje. Partes del proyecto. Características 
+específicas del montaje de subestaciones.
+– 	 Planificación del montaje de subestaciones eléctricas. Preparación de terrenos, 
+obra civil, red de tierra, puesta en obra de equipos. Desplazamiento e izado de 
+equipos. Técnicas y operaciones de ensamblado, asentamiento, alineación y 
+sujeción.
+– 	 Normativa aplicable al montaje de subestaciones eléctricas. Reglamentación 
+general: Nacional, Autonómica y Local. Reglamentación propia de la compañía 
+distribuidora. Normativa de calidad, ISO 9.000, ISO 14000 y EFQM. Normas 
+UNE-EN, Normas CEI, entre otras.
+– 	 Fases del plan de montaje en subestaciones.Tipos, características. Metodologías. 
+Cronogramas.
+– 	 Técnicas de montaje. Tensado, ensamblaje, nivelado, anclaje, conexionado. 
+Especificaciones metodológicas para el montaje, fijación y conexionado de los 
+diferentes componentes de la subestación. Maquinaria y equipos utilizados en la 
+fase de montaje.
+– 	 Recursos humanos para el montaje de subestaciones eléctricas: titulados 
+superiores, titulados medios, técnicos superiores y técnicos medios, entre otros. 
+Jerarquización.
+– 	 Plan de seguridad y salud laboral. Ley de prevención de riesgos laborales.
+4. Programación de planes de montaje:
+– 	 Plan de aprovisionamiento. Control logístico. Técnicas de aprovisionamiento.
+– 	 Plan de demanda, aprovisionamiento, almacenaje y puesta en obra de equipos 
+propios a las subestaciones eléctricas. Técnicas. El almacén de obra. Almacenaje 
+de equipos y herramientas. Características y seguridad.
+– 	 Coordinación de equipos y herramientas para el montaje. Metodologías de 
+aplicación.
+– 	 Plan de calidad en el montaje de subestaciones eléctricas. Aplicación de normas 
+de calidad al almacenaje de productos.
+– 	 Plan de seguridad en el montaje de subestaciones eléctricas.
+– 	 Software informático de planificación asistida. Aplicaciones informáticas. Equipos 
+informáticos portátiles. Equipos de comunicación.
+– 	 Visualización e interpretación de gráficos digitalizados. Tipos. Características. 
+Presentación.
+– 	 Operaciones básicas con archivos informáticos. Equipos de almacenamiento 
+de datos. Tipos de archivos informáticos. Seguridad de almacenaje de datos. 
+Software antivirus.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31725
+Lunes, 31 de julio de 2017
+5. Planificación de la supervisión y control del montaje y puesta en servicio de las 
+instalaciones de subestaciones:
+– 	 Montaje de los elementos principales de una subestación. Montaje específico del 
+embarrado, autoválvulas, seccionadores, transformadores, interruptores.
+– 	 Procedimientos de montaje de líneas de alta tensión. Cálculo mecánico y eléctrico. 
+Precauciones y características.
+– 	 Tareas de montaje y conexión de transformadores. Transformadores de potencia, 
+de medida y auxiliares. Ensayos. Puesta en marcha.
+– 	 Proceso de montaje de embarrado, conexionado y confección de red de tierra. 
+Cálculo mecánico y eléctrico. Precauciones. Puesta en servicio.
+– 	 Operaciones de montaje de los equipos de regulación y control. Cálculo de 
+elementos. Puesta en servicio. Conexionado. Coordinación con otros equipos 
+locales y/o remotos.
+– 	 Simulación de montaje de una subestación. Manejo de simulador informático.
+6. Replanteo de la obra civil en el montaje de subestaciones:
+– 	 Configuraciones y tipos de obras en subestaciones.
+– 	 Ubicación de los principales equipos de las subestaciones. Embarrado, 
+autoválvulas, seccionadores, transformadores, interruptores, entre otros.
+– 	 Obra civil. Replanteo, movimientos de tierra, y cimentaciones, entre otros.
+– 	 Situación y funciones específicas de los componentes básicos de una subestación 
+eléctrica. Líneas de entrada y salida, celdas, módulos híbridos, transformadores, 
+embarrados, red de tierras, y baterías, entre otros.
+– 	 Tecnología GIS (Sistemas de Información Geográfica). Fundamentos 
+y aplicaciones. Estudio del SF6 como aislante eléctrico. Componentes 
+principales.
+– 	 Esquemas de subestaciones eléctricas. Identificación de bloques principales. 
+Entrada, salida, barras, transformador, protecciones, y medida, entre otros.
+7. Planificación de programas de mantenimiento, recursos y protocolos:
+– 	 Documentos técnicos vinculados al mantenimiento de una subestación eléctrica. 
+Proyecto. Plan prevención de riesgos laborales. Plan de mantenimiento. 
+Elaboración de diagramas de planificación del mantenimiento.
+– 	 Mantenimiento de equipos eléctricos y electrónicos de subestaciones. 
+Precauciones generales y específicas.
+– 	 Necesidad del mantenimiento de los elementos constitutivos de una subestación  
+eléctrica. Líneas de entrada y salida, celdas, módulos híbridos, transformadores, 
+embarrados, red de tierras, y baterías, entre otros.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31726
+Lunes, 31 de julio de 2017
+– 	 Puntos críticos de una subestación susceptibles de sufrir averías. Conexiones, 
+uniones, empalmes y elementos móviles, entre otros.
+– 	 Averías en subestaciones. Causas y efectos principales. Fatiga mecánica y 
+térmica, fricciones y desgastes, entre otros.
+– 	 Detección de averías. Procedimientos de diagnóstico. Medidas directas e 
+indirectas de tensión, intensidad y temperatura. Métodos directos e indirectos. 
+Históricos de averías. Equipos de medida eléctricos, mecánicos y térmicos.
+– 	 Mantenimiento preventivo. Plan de seguridad. Puesta en descargo de 
+instalaciones. Equipos de protección individual. Mantenimiento predictivo.
+– 	 Propiedades físicas, químicas y ambientales del hexafluoruro de azufre (SF6).
+– 	 Cuestiones medioambientales relacionadas con el uso del SF6 en equipos de 
+conmutación de alta tensión.
+8. Operaciones de mantenimiento en subestaciones:
+– 	 Normativa aplicable al mantenimiento de subestaciones eléctricas. Ley de 
+prevención de riesgos laborales. Normas propias de la compañía suministradora. 
+Reglas de oro en trabajos de alta tensión.
+– 	 Equipos de una subestación eléctrica susceptibles de mantenimiento de primer 
+nivel. Transformadores, baterías, condensadores, e interruptores, entre otros.
+– 	 Procedimientos de descargo en las instalaciones y equipos de las subestaciones. 
+Seguridad en el mantenimiento. Descargo de instalaciones. Secuencia de 
+operaciones para realizar un descargo.
+– 	 Fases de operaciones de mantenimiento específico en sistemas eléctricos, 
+electrónicos de control. Mantenimiento de interruptores, seccionador y sistemas 
+de control.
+– 	 Necesidades 
+del 
+mantenimiento 
+correctivo. 
+Técnicas 
+de 
+diagnóstico. 
+Procedimientos de operación.
+– 	 Restitución del servicio en una subestación. Proceso a seguir para la energización 
+de instalaciones descargadas.
+9. Realización de las operaciones fundamentales de los sistemas, equipos e 
+instrumentos de subestaciones eléctricas:
+– 	 Técnicas de operación en sistemas. Técnicas de operación en equipos. 
+Operaciones específicas en equipos de potencia. Operaciones específicas en 
+sistemas de control.
+– 	 Requisitos de seguridad para operar sobre los diferentes equipos. Técnicas 
+específicas de seguridad y prevención en los procesos de operación. Seguridad 
+en elementos con tensión. Seguridad en equipos a la intemperie.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31727
+Lunes, 31 de julio de 2017
+– 	 Secuencias de actuaciones en los sistemas de subestaciones eléctricas. 
+Secuencias de actuación en equipos. Procedimientos en equipos de protección 
+de subestaciones. Procedimientos en equipos de control.
+– 	 Instrumentos empleados en las operaciones de sistemas. Instrumentos y equipos 
+usuales en operaciones de subestaciones. Equipos de medidas. Equipos de 
+gestión.
+– 	 Documentación propia de equipo o sistemas. Documentos técnicos. Manuales 
+técnicos de operación de subestaciones.
+– 	 Normas específicas de riesgos profesionales y seguridad en los procesos de 
+operación de subestaciones.
+– 	 Operaciones sobre interruptores. Operaciones sobre seccionadores. Operaciones 
+en tomas de tierra. Operaciones mecánicas de instalaciones y equipos. 
+Operaciones eléctricas de circuitos. Maniobras específicas en interruptores. 
+Tipos de tomas de tierra. Características y precauciones.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar la gestión 
+del montaje y mantenimiento de subestaciones eléctricas.
+La definición de estas funciones incluye aspectos como:
+– 	 Documentar los proyectos de subestaciones para su ejecución.
+– 	 Aplicar la normativa específica a las subestaciones eléctricas.
+– 	 Elaborar documentación de apoyo para la coordinación del montaje y 
+mantenimiento de subestaciones eléctricas.
+– 	 Optimizar recursos en los procesos de montaje y mantenimiento.
+– 	 Planificar pruebas para asegurar la calidad y seguridad de las instalaciones.
+Las actividades profesionales asociadas a esta función se aplican en:
+– 	 Confección de unidades de obra y coste de montaje de instalaciones.
+– 	 Elaboración de documentación técnica y gráfica a partir de los datos obtenidos, 
+cumpliendo la normativa y requerimientos del proyecto.
+– 	 Desarrollo, coordinación y supervisión de las intervenciones del montaje y 
+mantenimiento de los equipos e instalaciones.
+– 	 Gestión del montaje y del mantenimiento de los equipos e instalaciones.
+– 	 Verificación de la funcionalidad del proceso de montaje y mantenimiento.
+– 	 Elaboración y/o tramitación de la documentación técnica y administrativa.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31728
+Lunes, 31 de julio de 2017
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+j), k) y l) del ciclo formativo, y las competencias g) y h) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+– 	 El reconocimiento de las características técnicas y constructivas de los elementos 
+y máquinas empleados en subestaciones.
+– 	 La gestión y desarrollo de procesos del montaje y mantenimiento de subestaciones 
+eléctricas.
+– 	 La elaboración de planes de montaje y mantenimiento.
+– 	 La confección de especificaciones técnicas del montaje y mantenimiento.
+– 	 La realización de operaciones de mantenimiento de primer nivel.
+– 	 El establecimiento de los protocolos de pruebas de las instalaciones de acuerdo 
+a las condiciones del proyecto.
+– 	 La preparación del manual de instrucciones de los equipos e instalaciones.
+Módulo profesional: Telecontrol y automatismos.
+Equivalencia en créditos ECTS: 11.
+Código: 0670.
+Duración: 224 horas.
+Contenidos:
+1. Caracterización de los elementos de instrumentación y medida utilizados en 
+instalaciones de generación de energía eléctrica:
+– 	 Transductores de variables físicas y eléctricas de tensión e intensidad continua y 
+alterna. Clasificación. Clasificación atendiendo a criterios de tensión, intensidad 
+alterna, intensidad continua, temperatura, presión, caudal, nivel, velocidad de 
+giro, velocidad del viento, posición lineal y angular, vibraciones, deformación 
+estructural, pH y otros.
+– 	 Composición y funcionamiento de los transductores. Propiedades y 
+características. Conexión de diversos tipos de transductores a centrales de 
+medida. Identificación de señales generadas por el transductor.
+– 	 Cálculo de valores máximo, medio y eficaz.
+– 	 Obtención de los valores característicos de una red eléctrica a partir de los 
+valores instantáneos de tensión e intensidad, potencia activa y reactiva, factor de 
+potencia, frecuencia y fase.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31729
+Lunes, 31 de julio de 2017
+– 	 Acondicionadores de señal para transductores y centrales de adquisición de 
+medidas. Amplificación de señal. Conversión a digital. Transmisión de la señal a 
+la estación de medida.
+2. Verificación y montaje de accionamientos para instalaciones de generación de 
+energía eléctrica:
+– 	 Accionamientos tipo todo o nada. Conexión, instalación, funcionamiento y 
+propiedades de accionamientos todo-nada. Electroimanes. Motores eléctricos. 
+Continua. Alterna. Accionamientos neumáticos. Accionamientos hidráulicos.
+– 	 Calculo de fuerza par y velocidad de actuación de los distintos tipos de 
+accionamientos.
+– 	 Montaje de accionamientos de todo-nada, motores y actuadores.
+– 	 Accionamientos de control proporcional o servocontrolados. Circuitos electrónicos 
+asociados. Válvulas de control proporcional. Conexión de accionamientos de 
+control proporcional. Verificación de la respuesta: curvas características. Sistemas 
+calibrados, reguladores y servosistemas.
+3. Control de equipamiento eléctrico y electrónico:
+– 	 Ajuste del alternador. Función de las partes del alternador. Parámetros básicos 
+del alternador. Sistemas de excitación y potencia.
+– 	 Ajustes de la excitación. Partes de la excitación. Parámetros de control. Control 
+de par-velocidad. Ajuste de frecuencia. Conexión a línea.
+– 	 Configurado de equipos eléctricos de potencia en alta tensión de la central. 
+Selección de interruptores generales. Selección de interruptores de control. Salto 
+fortuito de protecciones. Compatibilidad y selectividad. Elementos de control de 
+protecciones.
+– 	 Ajustes de los acumuladores. Configuración de acumuladores. Conexión de 
+acumuladores. Elementos de carga y protección. Tipos de acumuladores. 
+Aplicaciones.
+– 	 Ajustes de los rectificadores. Rectificadores compactos. Configuración de 
+rectificadores. Parámetros de potencia y señal. Efectos transitorios de rectificadores 
+de potencia. Elementos de los rectificadores de alta tensión. Precauciones. 
+Instalación de sistemas de rectificación en centrales. Características y elementos 
+auxiliares.
+– 	 Sistemas de megafonía en centrales eléctricas. Configuración y ajustes. Sistemas 
+de telefonía y comunicaciones en centrales. Precauciones técnicas. Reparación, 
+mantenimiento y sustitución de elementos de megafonía.
+– 	 Características específicas de las instalaciones de alumbrado. Equipos de 
+alumbrado de emergencia. Precauciones. Normas específicas. REBT. Reglamento 
+de alta tensión. Características de las luminarias. Emplazamiento. Mantenimiento 
+de instalaciones de alumbrado de emergencia.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31730
+Lunes, 31 de julio de 2017
+4. Equipamiento eléctrico y electrónico de control en centrales:
+– 	 Variadores de frecuencia con y sin conexión a red. Parámetros básicos de 
+configuración. Módulos de E/S. Módulo de potencia. Módulo de control. El bus 
+de continua. Compatibilidad electromagnética de variadores.
+– 	 Verificación de las señales características. Control PWM. Señal trifásica de un 
+control PWM. Control de flujo vectorial.
+– 	 Autómata programable (PLC) y otros equipos basados en microprocesadores 
+y microcontroladores utilizados para el control automático y servocontrol. 
+Módulos de E/S. Salidas analógicas. Salidas digitales. Conexionado de PLC. 
+Comunicación. Interconexionado en red.
+– 	 Periféricos y tarjetas de entrada y salida. Módulos específicos de variables 
+digitales. Módulos específicos de variables analógicas. Conexionado de módulos. 
+Interconexionado de sistemas.
+– 	 Configuración de parámetros de funcionamiento y alarmas.
+– 	 Equipos de diálogo hombre-máquina. Pantallas táctiles. Configuración.
+5. Configuración de instalaciones automatizadas de aplicación en procesos de 
+centrales:
+– 	 Sistemas de control de variables físicas con realimentación negativa. 
+Funcionamiento básico de sistemas de control realimentados. Esquema de 
+bloques. Curvas de respuesta características de un control proporcional.
+– 	 Control proporcional integral y derivativo (PID). Control P. Control I. Control D. 
+Ajustes. Características fundamentales. Aplicaciones en sistemas de centrales 
+eléctricas.
+– 	 Sistemas de control óptimo y adaptativo implementados a base de tecnología 
+de lógica difusa (fuzzy). Análisis de la respuesta comparativa de sistemas ante 
+diversas condiciones de funcionamiento.
+– 	 Configuración de sistemas automáticos de control de lógica difusa.
+– 	 Actuaciones de control local en parques eólicos. Parámetros característicos de 
+control. Parametrización.
+– 	 Actuaciones 
+de 
+control 
+local 
+de 
+parques 
+fotovoltaicos. 
+Parámetros 
+característicos.
+– 	 Simulación de actuaciones de control local de centrales hidráulicas. Elementos 
+de control. Simulación de actuaciones de control local de centrales térmicas. 
+Elementos de control.
+– 	 Elementos de control y maniobra en subestaciones eléctricas. Parámetros 
+característicos de control. Ajustes. Visualización de datos.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31731
+Lunes, 31 de julio de 2017
+6. Caracterización de sistemas de transmisión y comunicación para el telecontrol de 
+procesos automáticos en centrales:
+– 	 Medios de transmisión. Cable coaxial. Cable de pares. PLC (power line 
+communication). Fibra óptica. Espacio radioeléctrico.
+– 	 Propiedades de los medios de transmisión. Características. Características 
+eléctricas y mecánicas. Ventajas e inconvenientes.
+– 	 Buses de campo. Bus can. Modbus. Fieldbus. Profibus 485, 422 y similares. 
+Características técnicas. Normas de comunicación.
+– 	 Sistemas de transmisión. Características. Utilización.
+– 	 Aplicaciones de buses de campo en centrales eléctricas. Transmisión de señales 
+radioeléctricas y de radiodifusión.
+– 	 Control de subestaciones eléctricas. Nivel de campo. Nivel de bahía. Nivel de 
+control.
+– 	 Red de área local (LAN). Descripción de una red ethernet industrial. Componentes 
+básicos de hardware. Componentes de software (modelo de capas). Configuración 
+de una red de área local.
+– 	 Redes de área extensa (WAN) e Internet. Componentes. Descripción. Tipos.
+– 	 Configuración. Sistemas DSL. Descripción. Sistemas de modulación. Tipos de 
+sistemas: ADSL, HDSL, SDSL.
+– 	 Técnicas de telecontrol en centrales eléctricas. Control de centrales térmicas, 
+solares, hidráulicas y eólicas. Características básicas.
+7. Utilización de aplicaciones de control automático con software tipo SCADA:
+– 	 Aplicaciones Scada (Supervisor y Control And Data Acquisition). Componentes 
+del software. Infraestructura y comunicación.
+– 	 Características del software Scada. Editor gráfico. Sinópticos del proceso. 
+Módulos del proceso. Bases de datos. Gráficos de tendencias. Gestión de 
+alarmas. Arquitecturas: monolítica, distribuida y a través de red. Tratamiento de 
+señales. Amplificación. Muestreo. 
+– 	 Interfaces gráficos en aplicaciones Scada. Tipos de paneles de control. Gráficos 
+de alarmas. Gráficos de procesos y de gestión. Gráficos de mantenimiento y de 
+detección de averías.
+– 	 Técnicas de adquisición de datos. Puntos. Tipos de puntos. Objetos. Tipos de 
+objetos. Adquisición de datos a distancia. Adquisición de señales de registro.
+– 	 Aplicaciones en centrales de generación. Paneles Scada. Paneles Scada en 
+centrales eléctricas térmicas. Paneles Scada en centrales eólicas. Paneles Scada 
+en centrales fotovoltaicas.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31732
+Lunes, 31 de julio de 2017
+– 	 Centro de control Scada de centrales hidráulicas, eólicas, etc. (COC, CORE, 
+etc.) y Centro de control de STs/STRs (COD).
+– 	 Cuadro de Control de una central eléctrica, Cuadro de Control de una ST/STR.- 
+Sistema convencional o tradicional, sistema mixto (convencional e integrado 
+conviviendo) y Sistemas modernos (control integrado).
+– 	 Técnicas de simulación de centrales eléctricas con sistemas Scada. Seguridad y 
+vulnerabilidad del sistema.
+8. Verificación de redes de vigilancia y control de accesos utilizando sistemas de 
+seguridad y alarma:
+– 	 Sistemas de alarma. Descripción y funcionamiento. Control de accesos y 
+presencia. Tipos. Características. Utilización y configuraciones básicas.
+– 	 Instalación de sistemas de alarma y control de accesos. Funcionamiento de los 
+sistemas de alarma. Circuito cerrado de televisión. Descripción de circuitos y 
+señales. Montaje de un circuito cerrado de televisión. Vigilancia de espacios 
+mediante CCTV.
+– 	 Cámaras IP. Funcionamiento. Tipo. Utilización.
+– 	 Instalación y conexionado de cámaras IP. Configuración.
+– 	 Operación y vigilancia de espacios mediante cámaras IP. Características y 
+precauciones.
+– 	 Instalación de circuitos cerrados de televisión. Elementos. Técnicas.
+– 	 Instalaciones de control de accesos con circuito cerrado de televisión. Control de 
+accesos. Elementos. Tipos. Configuraciones.
+– 	 Seguridad en el control por Internet. Sistemas de encriptación. Sistemas de 
+control de accesos por Internet.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar la función 
+de configurar sistemas de telecontrol, circuitos cerrados de televisión y vigilancia, así como, 
+poner en marcha equipos de potencia y control, aplicados a centrales eléctricas.
+La función de telecontrol de centrales incluye aspectos como:
+– 	 Operar sistemas de potencia en centrales.
+– 	 Configurar elementos del control de sistemas integrados en centrales.
+– 	 Configurar elementos y sistemas eléctricos y electrónicos.
+– 	 Aplicar sistemas Scada al control de procesos.
+– 	 Implementar los sistemas de vigilancia y alarmas en centrales eléctricas.
+– 	 Montar y mantener de circuitos cerrados de televisión aplicados a centrales 
+eléctricas.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31733
+Lunes, 31 de julio de 2017
+Las actividades profesionales asociadas a esta función se aplican en:
+– 	 La definición de las especificaciones de los sistemas de control y telecontrol.
+– 	 La manipulación de actuadores típicos de centrales a distancia o localmente.
+– 	 La elaboración de documentación gráfica y esquemas a partir de los datos 
+obtenidos, cumpliendo la normativa.
+– 	 El desarrollo, coordinación y supervisión de actuadores.
+– 	 La verificación del funcionamiento de una instalación de telecontrol.
+– 	 La confección de paneles de control de sistemas en centrales utilizando software 
+Scada.
+– 	 El montaje de alarmas y sistemas de circuito cerrado de televisión.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+a), b), g), h), i), k) y l) del ciclo formativo y las competencias a), b), f) y h) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional están relacionados con:
+– 	 Seleccionar los elementos, constituyentes de sistemas de telecontrol en 
+centrales.
+– 	 Configurar los actuadores y sus métodos de control.
+– 	 Dimensionar y ajustar elementos de potencia de las instalaciones.
+– 	 Configurar los sistemas de transmisión utilizados en telecontrol de centrales 
+eléctricas.
+– 	 Preparar sistemas de simulación de control de centrales utilizando software 
+Scada.
+– 	 Montar alarmas en centrales y subestaciones.
+– 	 Montar circuitos cerrados de televisión.
+– 	 Montar de sistemas de vigilancia utilizando cámaras IP.
+Módulo profesional: Prevención de riesgos eléctricos.
+Equivalencia en créditos ECTS: 4.
+Código: 0671.
+Duración: 64 horas.
+Contenidos:
+1. Caracterización de los efectos fisiológicos de la corriente eléctrica sobre el cuerpo 
+humano:
+– 	 Factores que influyen en el efecto eléctrico: tipo de corriente, intensidad, duración 
+del contacto, recorrido a través del cuerpo, impedancia del cuerpo humano, 
+tensión, frecuencia.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31734
+Lunes, 31 de julio de 2017
+– 	 Contactos directos e indirectos.
+– 	 Choque eléctrico y arco eléctrico.
+– 	 Corriente alterna: umbral de percepción. Umbral de reacción. Umbral de no soltar. 
+Umbral de fibrilación ventricular.
+– 	 Efectos directos: fibrilación ventricular, fallo cardiaco, asfixia, paro respiratorio, 
+calambres, contracciones musculares, tetanización muscular y quemaduras.
+– 	 Efectos indirectos: golpes contra objetos y caídas.
+– 	 Efectos secundarios. Precoces y tardíos. Daño cerebral, embolia, trombos, 
+quemaduras internas, gangrenas, problemas renales y trastornos mentales.
+2. Evaluación de riesgos en trabajos en presencia de tensión eléctrica:
+– 	 Identificación y evaluación de riesgos en alta tensión.
+– 	 Riesgos de origen mecánico.
+– 	 Riesgos de tipo eléctrico: exposición a campos electromagnéticos. Electricidad 
+estática.
+– 	 Incendios, deflagraciones y detonaciones. Triángulo de fuego. Clases de fuego.
+– 	 Riesgos de explosión e incendios.
+– 	 Riesgos medioambientales: vertidos de gas, inducciones magnéticas. Protección 
+de la avifauna.
+– 	 Riesgos asociados a las áreas de trabajo.
+3. Protocolos de seguridad de conexión y desconexión eléctrica:
+– 	 Tipos de suministro eléctrico.
+– 	 Interrupción y reposición de tensión bajo protocolos de seguridad.
+– 	 Maniobras seguras para dejar sin tensión eléctrica una instalación.
+– 	 Puestas a tierra y en cortocircuito.
+– 	 Maniobras seguras en la reposición de tensión.
+– 	 Normativa eléctrica, de seguridad y medioambiental. Las cinco reglas de oro.
+4. Clasificación de equipos de seguridad en trabajos en presencia de tensión 
+eléctrica:
+– 	 Equipos de protección individual y colectiva. Pantallas, cubiertas, vainas, pinzas, 
+puntas de prueba, pértigas aislantes, banquetas, alfombras, plataformas de 
+trabajo, guantes, gafas y cascos, entre otros.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31735
+Lunes, 31 de julio de 2017
+– 	 Equipos auxiliares de seguridad. banquetas, alfombrillas, puesta a tierra 
+portátiles.
+– 	 Sistemas de señalización.
+– 	 Selección, inspección y mantenimiento de equipos. Tipos y utilización.
+– 	 Información, formación y promoción.
+– 	 Normativa sobre equipos de prevención. Carteles de divulgación y normas 
+internas.
+5. Protocolos de seguridad y medidas de prevención en trabajos en presencia de 
+tensión eléctrica:
+– 	 Prevención, protección y extinción de incendios.
+– 	 Medidas preventivas contra los contactos indirectos; separación de circuitos, 
+pequeñas tensiones de seguridad, aislamiento de protección, doble aislamiento, 
+inaccesibilidad simultánea de elementos conductores y masas, recubrimientos 
+de las masas con aislamiento de protección, conexiones equipotenciales e 
+interruptor diferencial.
+– 	 Medidas preventivas contra los contactos directos: alejamiento de partes 
+activas de la instalación, interposición de obstáculos, barreras o envolventes y 
+recubrimiento de las partes activas.
+– 	 Trabajos en media tensión: descargo y energización en celdas prefabricadas de MT.
+– 	 Trabajos en alta tensión. Trabajos en proximidad. Procedimientos y métodos de 
+trabajo.
+– 	 Influencia de las condiciones climatológicas en la seguridad eléctrica.
+– 	 Maniobras, mediciones, ensayos y verificaciones. Reposición de fusibles. Cables, 
+conectores y terminales.
+– 	 Planes de seguridad.
+– 	 Impacto ambiental. Vertidos al medio, polución y efecto invernadero.
+6. Emergencias en trabajos en presencia de tensión eléctrica:
+– 	 Plan de emergencias. Equipos de intervención.
+– 	 Accidentes: electrocución, asfixia, parada respiratoria. Actuación PAS: Protección 
+del accidentado. Valoración del accidente.
+– 	 Primeros auxilios en caso de accidente eléctrico: criterios básicos de actuación. 
+Coordinación de la intervención.
+– 	 Planes de evacuación. Equipos de intervención.
+– 	 Informes y valoración de daños.
+– 	 Sistemas de comunicación. Solicitud de ayuda.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31736
+Lunes, 31 de julio de 2017
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación básica necesaria que capacita al 
+alumno para los trabajos que se realicen en las instalaciones eléctricas de los lugares de 
+trabajo, o en la proximidad de las mismas en el ámbito de la normativa existente sobre 
+disposiciones mínimas para la protección de la salud y seguridad de los trabajadores frente 
+al riesgo eléctrico.
+La prevención de riesgos eléctricos incluye aspectos como:
+– 	 Evaluar y prevenir de riesgos eléctricos.
+– 	 Ejecutar protocolos reglamentarios en trabajos en presencia de tensión 
+eléctrica.
+– 	 Seleccionar y utilizar equipos y medidas preventivas.
+– 	 Colaborar y participar en labores de información, formación, inspección y 
+mantenimiento de los equipos y medidas preventivas.
+– 	 Colaborar en las actuaciones ante accidentes y emergencias.
+Las actividades profesionales asociadas a esta función se aplican en:
+– 	 Prevención de riesgos eléctricos en actividades de montaje.
+– 	 Prevención del riesgo eléctrico en operaciones en centrales y subestaciones.
+– 	 Prevención en el mantenimiento generalmente en centrales y subestaciones 
+eléctricas.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+c), d), e), f), j), k), l), m) y ñ) del ciclo formativo, y las competencias c), d), e), g), h), i) y k) 
+del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+– 	 La realización de evaluaciones de riesgos en diferentes recintos y situaciones en 
+presencia de tensión eléctrica.
+– 	 La identificación, inspección y mantenimiento de equipos de protección.
+– 	 La realización de maniobras (reales o simuladas) de conexión y desconexión 
+eléctrica según protocolos de seguridad.
+– 	 La realización de mediciones, ensayos y verificaciones.
+– 	 La evaluación de planes de seguridad de centrales eléctricas y elaboración de la 
+documentación relacionada.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31737
+Lunes, 31 de julio de 2017
+Módulo profesional: Centrales de producción eléctrica.
+Equivalencia en créditos ECTS: 15.
+Código: 0672.
+Duración: 192 horas.
+Contenidos:
+1. Clasificación de las centrales de producción eléctrica:
+– 	 Transformación de la energía. Principios generales de funcionamiento de 
+centrales eléctricas. Procesos de producción de energía eléctrica.
+– 	 Funcionamiento de centrales hidroeléctricas. Tipos. Características.
+– 	 Funcionamiento de centrales termoeléctricas convencionales. Tipos de 
+centrales termoeléctricas. Procesos de centrales termoeléctricas en régimen de 
+funcionamiento estable.
+– 	 Funcionamiento de centrales de ciclo combinado. Tipos. Características.
+– 	 Funcionamiento de centrales nucleares. Tipos. Características.
+– 	 Funcionamiento de centrales termosolares. Tipos. Características.
+– 	 Funcionamiento de centrales con motores de combustión interna. Funcionamiento 
+de centrales térmicas de combustibles líquidos y gaseosos. Combustibles. Gases. 
+Tipos. Características.
+– 	 Sistemas de cogeneración. Sistemas eólicos. Otras tecnologías de producción 
+eléctrica.
+– 	 Hibridación de tecnologías. Tecnologías termosolar-gas. Gas-carbón.
+– 	 Parque de producción energético en España. Estadística y futuro del mercado.
+2. Calcular parámetros de circuitos e instalaciones térmicas:
+– 	 Parámetros físicos y químicos. Fundamentos. Temperatura. Valor del pH. 
+Presión. Reacciones químicas. Medida de las variables de un proceso. Principios 
+y equipos de medida. Presión, nivel, caudal y temperatura, entre otras.
+– 	 Tipos de combustibles. Almacenamiento. Distribución. Características.
+– 	 Cálculos de suministros de combustibles. Cálculos para PCS. Cálculos para PCI. 
+Seguridad en el suministro.
+– 	 Combustión. Reacciones de combustión. Combustión incompleta. Combustión 
+de partícula de carbón.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31738
+Lunes, 31 de julio de 2017
+– 	 Estados de la materia, cambios de estado, calor latente y sensible. Vapor de agua 
+saturado, sobrecalentado, recalentado y expansionado. Volúmenes específicos 
+de vapor.
+– 	 Esquemas de circuitos de agua-vapor. Simbología. Representación gráfica.
+– 	 Esquemas de circuitos aire-gas. Simbología. Representación gráfica. Proceso de 
+acondicionamiento de aire. Diagrama psicrométrico.
+– 	 Concepto de entalpía y entropía. Diagramas y ciclos termodinámicos. (Carnot, 
+Rankine, Brayton y Hirn) aplicados a centrales térmicas. Ciclo de Bryton para las 
+turbinas de gas, generador de vapor y turbina de vapor.
+– 	 Cálculos básicos en circuitos de transmisión del calor. Radiación, convección 
+y conducción. Calor específico. Relación entre la presión y la temperatura del 
+vapor. Cálculo de caudal. Cálculo de potencias. Cálculo de rendimientos.
+3. Identificación de equipos y componentes utilizados en procesos térmicos y 
+fluídricos:
+– 	 Sistemas de tratamiento de agua. Sistemas para control y tratamiento de efluentes. 
+Descalcificadores y desmineralizadores. Desgasificación térmica y por aditivos. 
+Filtrado. Ionización. Cambiadores iónicos. Características y funcionamiento. 
+Regeneración de resinas. Parámetros de calidad del agua. Ósmosis inversa. 
+Recuperación de condensados. Régimen de purgas que se deben realizar.
+– 	 Conocimiento de materiales. Estructura. Propiedades mecánicas. Defectos de 
+homogeneidad. Tipos de defecto en la obtención y transformación. Ensayos 
+destructivos. Ensayos no destructivos.
+– 	 Fenómenos de corrosión en los materiales metálicos. Corrosión electroquímica. 
+Corrosión seca. Velocidad de corrosión. Medida. Pasividad. Ataques por 
+corrosión.
+– 	 Equipos y materiales utilizados en procesos físicos-químicos. Normas de 
+seguridad.
+– 	 Estática y dinámica de fluidos. Hidrostática. Hidrodinámica. Principio de 
+Arquímedes. Teorema de Bernouilli. Régimen laminar y turbulento.
+– 	 Transporte de fluidos. Tuberías. Parámetros de cálculo de tuberías. Diámetro. 
+Pérdidas de carga. Velocidad.
+– 	 Bombas. Tipología, características y aplicación. Curvas características. 
+Componentes mecánicos. Tipos y características de cierres, rodamientos, 
+cojinetes y su lubricación.
+– 	 Ventiladores. Tipología, características y aplicación. Curvas características.
+– 	 Compresores. Tipología, características y aplicación. Curvas características.
+– 	 Válvulas. Tipología y características de los filtros. Eyectores. Eductores. Tipología 
+y características.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31739
+Lunes, 31 de julio de 2017
+– 	 Intercambiadores de calor. Condensadores. Evaporadores. Intercambiadores de 
+placas. Tipología, características y aplicación.
+– 	 Depósitos de combustible. Tipología. Características de tuberías, elementos 
+pasivos.
+4. Identificación de sistemas y componentes de centrales hidroeléctricas:
+– 	 Conceptos hidráulicos fundamentales aplicados a centrales hidroeléctricas: nivel, 
+cota, aforo, caudal, carga, pérdida de carga y salto de agua.
+– 	 Tipos de centrales hidroeléctricas. Configuración. Presión. Características. 
+Utilización.
+– 	 Presas y embalses. Parámetros de los embalses. Tipos de presas y elementos 
+asociados. Concepto y funciones de la presa. Zonas estructurales. Clasificación. 
+Aliviaderos. Depósitos o cámaras de carga. Canales. Tuberías forzadas. 
+Chimeneas de equilibrio. Desagües de fondo y medio fondo. Galerías de 
+inspección. Escala de peces. Compuertas y ataguías.
+– 	 Componentes de las centrales según sus características constructivas. Tipos. 
+Características. Utilización.
+– 	 Tipos de turbinas hidráulicas. Características. Escalonamientos y etapas. Sistemas 
+de arranque de turbina y sistema de lubricación, refrigeración y estanqueidad 
+de cojinetes. Sistemas de regulación de velocidad de las turbinas hidráulicas. 
+Protecciones de las turbinas hidráulicas.
+– 	 Fenómenos anómalos en conducciones hidráulicas. Cavitación y golpe de 
+ariete.
+5. Reconocimiento de sistemas y componentes de centrales térmicas:
+– 	 Molinos, tipología, características y funcionamiento.
+– 	 Sistema de combustibles de carbón a quemadores. Componentes. Características. 
+Esquemas. Órganos de regulación de llama.
+– 	 Sistemas de combustibles líquidos. Componentes. Características.
+– 	 La caldera y sus sistemas auxiliares. Calderines. Tipos de calderas. Circuitos 
+agua-vapor y aire-gases.
+– 	 Turbina de vapor. Sistemas de lubricación. Sistemas de control y protecciones. 
+Circuito de vapor y servicios auxiliares. Vapor principal y recalentado.
+– 	 Sistemas para depuración de emisiones. Precipitador electrostático.
+– 	 Sistemas de condensado y agua de alimentación. Funciones. Diagramas de flujo. 
+Componentes. Sistemas auxiliares. Agua de servicios. Aire comprimido. Aire de 
+instrumentación.
+– 	 Planta de desulfuración. Reducción de emisiones de NOx. Procesos de captura 
+de CO2. Precipitador electrostático.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31740
+Lunes, 31 de julio de 2017
+6. Distinción de sistemas utilizados en centrales de ciclo combinado:
+– 	 Procesos básicos de centrales de ciclo combinado. Características y diferencias 
+con otras centrales.
+– 	 Sistema de combustibles y sus componentes. Estación de regulación y medida 
+(ERM) de gas natural en centrales termoeléctricas de ciclo combinado. Gasificación 
+del carbón. Proceso y equipos utilizados.
+– 	 Componentes de los sistemas de distribución. Conducciones. Bombas.
+– 	 Elementos de las centrales. Caldera y sistemas auxiliares.
+– 	 Sistemas para depuración de emisiones. Planta de desulfuración y reducción de 
+emisiones de NOx.
+– 	 Configuración de centrales de ciclo combinado. Sistemas de condensado y agua 
+de alimentación. Funciones. Diagramas de flujo. Componentes. Circuito de vapor 
+y servicios auxiliares. Vapor principal y recalentado.
+– 	 Turbina de gas: tipología y componentes. Control y protecciones.
+7. Particularización de sistemas y equipos de producción eléctrica con motores de 
+combustión interna:
+– 	 Generación de energía con motores de combustión interna. Viabilidad. 
+Características. Utilización.
+– 	 Tipología y características de los motores de combustión interna. Clases.
+– 	 Tipos de combustibles utilizados en motores. Características. Fundamentos. 
+Acondicionamiento.
+– 	 Componentes de los motores de combustión interna. Diferencias sustanciales 
+con motores industriales.
+– 	 Regulación de motores térmicos. Elementos de control de velocidad. Elementos 
+de control de par.
+– 	 Lubricantes para motores. Características. Tipos. Utilización. Almacenamiento. 
+Reciclado.
+– 	 Sistemas de refrigeración. Radiadores. Refrigerantes. Intercambiadores de calor. 
+Torres de enfriamiento.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional es un módulo complementario, dando respuesta a la 
+necesidad de proporcionar una adecuada formación para la comprensión del funcionamiento 
+de los distintos tipos de sistemas de producción eléctrica utilizados en centrales eléctricas 
+de tipo convencional.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31741
+Lunes, 31 de julio de 2017
+La definición de estas funciones incluye aspectos como:
+– 	 Identificar los tipos de centrales productoras de energía eléctrica.
+– 	 Identificar equipos utilizados en los procesos térmicos de centrales.
+– 	 Configurar los componentes y los equipos de transporte y control de fluidos.
+– 	 Reconocer los sistemas y componentes de centrales hidroeléctricas.
+– 	 Identificar equipos y elementos de centrales de ciclo combinado.
+– 	 Reconocer centrales productoras de energía que utiliza motores de combustión 
+interna.
+Las actividades profesionales asociadas a esta función se aplican en:
+– 	 Identificación de sistemas en centrales térmicas.
+– 	 Identificación de sistemas de centrales hidráulicas.
+– 	 Reconocimiento de elementos y equipos de centrales de ciclo combinado.
+– 	 Evaluación el funcionamiento de centrales de producción por motores de 
+combustión interna.
+La formación del módulo contribuye a alcanzar los objetivos generales a), b), g), h), 
+i), k) y l) del ciclo formativo y las competencias a), b), f) y h) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo versarán sobre:
+– 	 El reconocimiento de los tipos de centrales de producción eléctrica.
+– 	 La relación de los fundamentos físicos y químicos que intervienen en las centrales 
+de energía.
+– 	 La descripción de los fundamentos fluidos y de producción y transmisión de calor 
+y transmisión de fluidos.
+– 	 La caracterización de las centrales térmicas convencionales.
+– 	 La identificación del funcionamiento de las centrales de ciclo combinado.
+– 	 La relación de los sistemas e instalaciones de las centrales de producción eléctrica 
+con motores de combustión interna.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31742
+Lunes, 31 de julio de 2017
+Módulo profesional: Operación en centrales eléctricas.
+Equivalencia en créditos ECTS: 15.
+Código: 0673.
+Duración: 189 horas.
+Contenidos:
+1. Caracterización de las operaciones en centrales eléctricas:
+– 	 Organización general de las centrales y funciones básicas de las diferentes áreas 
+de responsabilidad.
+– 	 Departamentos en centrales eléctricas. Departamentos de operación, 
+mantenimiento, control de calidad, control medioambiental, prevención de 
+riesgos, servicios químicos, combustibles, vigilancia y auscultación de presas. 
+Interrelaciones entre las distintas áreas de centrales eléctricas.
+– 	 Coordinación de la actuación de las distintas áreas de centrales eléctricas.
+2. Funcionamiento de centrales en régimen estable:
+– 	 Sistemas de control de agua de alimentación y agua motriz, control de presiones 
+y temperaturas, sistema fluido de control de turbina, control de carga y control de 
+tensión. Documentación gráfica de una central.
+– 	 Sistemas de alta, media y baja tensión, corriente continua, tensión segura, grupos 
+auxiliares, alumbrado, megafonía y telefonía. Tipos y características básicas.
+– 	 Sistemas de recepción, almacenamiento y control de combustibles. Control de 
+combustibles líquidos, sólidos y gaseosos.
+– 	 Plantas de tratamiento de agua. Sistema de agua bruta. Sistemas para 
+desmineralización, sistemas para monitorización de la calidad. Tratamiento del 
+agua del ciclo y sistemas para control y tratamiento de efluentes.
+– 	 Generadores de vapor por combustión y por recuperación de calor. Sistemas 
+auxiliares.
+– 	 Quemadores, economizador, evaporador, sobrecalentador y recalentador. 
+Sistemas de monitorización y regulación de la combustión, estaciones de 
+atemperación, sistemas de soplado y circuitos de aire y gases.
+– 	 Ciclos de vapor y sus servicios auxiliares. Foco frío, calentadores de agua, 
+intercambiadores de calor, bombas de condensado y bombas de alimentación de 
+caldera. Turbina principal. Sistemas de lubricación y control, circuitos auxiliares 
+de refrigeración, agua de servicios, aire comprimido y aire de instrumentación.
+– 	 Sistemas de control medioambiental de una central. Tecnologías disponibles 
+para la reducción de vertidos contaminantes. Caudales ecológicos. Emisiones 
+de NOX, SOX y COX, y vertidos contaminantes.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31743
+Lunes, 31 de julio de 2017
+– 	 Producción hidroeléctrica. Sistemas tecnológicos de centrales hidroeléctricas. 
+Configuraciones de sistemas de presa y embalse. Sistemas y equipos principales 
+del grupo hidráulico turbina-alternador.
+– 	 Sistemas y equipos auxiliares de centrales. Sistemas de refrigeración, agua de 
+servicios, aire comprimido y aire de instrumentación.
+3. Reconocimiento de maniobras de operación en centrales termoeléctricas 
+convencionales o de ciclo combinado:
+– 	 Maniobras previas de alineación de equipos de centrales termoeléctricas 
+convencionales. Maniobras en centrales de ciclo combinado para arranques. 
+Llenados de caldera. Comprobaciones de estado de equipos. Operaciones en 
+sistemas de recepción, almacenamiento y control de combustibles líquidos, 
+sólidos y gaseosos. Precauciones y características. Operaciones en la plantas 
+de tratamiento de agua.
+– 	 Operaciones en calderas. Operaciones de purgas. Encendidos de calderas 
+de centrales termoeléctricas convencionales y quemadores de turbinas de 
+gas. Pruebas hidráulicas o de estanqueidad de calderas o tuberías a presión. 
+Operaciones de llenado, venteo o drenaje de caldera. Estabilidad de la combustión 
+y calidad de llamas. Limpieza interior de calderas.
+– 	 Procedimientos para obtención de vapor con los combustibles de encendido en 
+el caso de centrales termoeléctricas. Operaciones y parámetros característicos 
+del ciclo de agua y vapor.
+– 	 Arranques de calderas. Arranques de turbinas. Parámetros relevantes. Tiempos, 
+ritmos, ajustes y condiciones de arranque de calderas. Ajustes y condiciones 
+de arranque de turbinas, prestando. Gradientes de temperatura. Expansiones 
+diferenciales.
+– 	 Maniobras de rodaje de los turbo grupos. Sincronización de turbogrupos. 
+Operaciones de sincronización de centrales a red. Valores aceptables. Control de 
+parámetros eléctricos. Equipos de medida específicos. Operaciones en sistemas 
+de alta, media, baja tensión y corriente continua. Precauciones.
+– 	 Acoplamiento de los turbogrupos en centrales termoeléctricas. Tipos. 
+Características. Precauciones. Procedimientos.
+– 	 Operaciones de arranque completo de centrales hidráulicas. Tipos. Características. 
+Procedimientos. Precauciones.
+– 	 Variación de carga de turbogrupos de centrales termoeléctricas convencionales 
+y de ciclo combinado. Variación de carga en centrales hidráulicas. Maniobras en 
+interruptores y seccionadores. Precauciones.
+– 	 Operaciones en sistemas de control medioambiental. Operaciones con 
+residuos sólidos. Operaciones con residuos líquidos. Operaciones con residuos 
+gaseosos.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31744
+Lunes, 31 de julio de 2017
+4. Comportamiento de una central eléctrica ante situaciones de operación 
+anómalas:
+– 	 Comportamiento de la turbina principal y la turbina auxiliar en caso de un fallo 
+total de tensión. Tipos de fallos. Seguimiento de anomalías.
+– 	 Sistema de control y lubricación de la turbina principal y la turbina auxiliar. 
+Comportamiento del sistema de lubricación y sellado de hidrógeno del alternador 
+en caso de fallo total de tensión.
+– 	 Alimentación de emergencia de sistemas y equipos de la central en caso de fallo 
+general de tensión.
+– 	 Procedimientos de actuación en caso de rotura de tuberías a presión. Tuberías a 
+presión en el interior de calderas.
+– 	 Procedimientos de actuación en caso de disparo de caldera. Rechazo parcial de 
+carga o disparo de grupo.
+– 	 Procedimientos de actuación en caso de derrame de combustibles líquidos o 
+productos contaminantes. Precauciones y tipos de contaminantes.
+– 	 Procedimientos de actuación en caso de incendio. Equipos contra incendios. 
+Procedimientos de actuación en caso de accidente personal. Tipos de accidentes 
+personales.
+5. Operaciones de centrales eléctricas:
+– 	 Simulación de centrales eléctricas.
+– 	 Maniobras en centrales. Maniobras de rodaje de turbinas. Maniobras en válvulas, 
+compuertas y ataguías. Maniobras de arranque de calderas.
+– 	 Arranque de calderas. Tipos de arranque de calderas: frío, templado y caliente.
+– 	 Operador industrial de calderas. Conducción de calderas. Primera puesta en 
+marcha e inspecciones. Puesta en servicio y fuera de servicio.
+– 	 Maniobras de sincronización y acoplamiento de las centrales a la red de 
+evacuación. Maniobras para la variación de carga de una central. Maniobras de 
+desacoplamiento de centrales de la red de evacuación y parada.
+– 	 Diagnóstico de disfunciones y desequilibrios en centrales.
+– 	 Actuaciones en caso de riesgo potencial en centrales. Situaciones de riesgo 
+potencial en centrales. Riesgos para personas o proceso.
+– 	 Seguridad en la operación de centrales.
+6. Maniobras para la inhabilitación temporal de centrales y su descargo:
+– 	 Riesgos profesionales derivados de las maniobras de operación de centrales.
+– 	 Elementos de seguridad para operación de calderas, válvulas, bombas, 
+compuertas, ataguías y sistemas auxiliares.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31745
+Lunes, 31 de julio de 2017
+– 	 Elementos de seguridad para operación en el grupo turbogenerador y sistemas 
+auxiliares. Riesgos eléctricos. Riesgos eléctricos durante las maniobras de 
+operación de centrales. Riesgos eléctricos durante los procesos de arranque y 
+parada. Riesgos eléctricos en situaciones anómalas de funcionamiento.
+– 	 Riesgos térmicos y mecánicos. Riesgos térmicos y mecánicos durante las 
+maniobras de operación de centrales. Riesgos térmicos y mecánicos durante los 
+procesos de arranque y parada. Riesgos térmicos y mecánicos en situaciones 
+anómalas de funcionamiento.
+– 	 Sustancias y materiales peligrosos existentes en las centrales. Precauciones que 
+se deben adoptar. Tipos y precauciones.
+– 	 Procedimientos para alinear equipos o sistemas.
+– 	 Arranque y parada en condición segura. Planes de seguridad de las instalaciones 
+en las maniobras de operación. Normativa aplicable.
+– 	 Procedimientos de descargo o inhabilitación de equipos o sistemas.
+– 	 Seguridad para las personas, el medio ambiente, los equipos y el proceso. 
+Comprobaciones y pruebas que se deben realizar en equipos y sistemas 
+inhabilitados. Señalización. Comprobaciones y protocolos para la puesta en 
+servicio de un equipo inhabilitado.
+7. Actuaciones a realizar frente a situaciones de emergencias en centrales 
+termoeléctricas:
+– 	 Planes de emergencia en centrales. Partes de un plan de emergencia de centrales 
+eléctricas. Recursos materiales de un plan de emergencia.
+– 	 Difusión de un plan de emergencia interior a otros operarios.
+– 	 Actuación ante un accidente o una contingencia. Medidas de protección, 
+valoración, ayuda y primeros auxilios.
+– 	 Identificación de emergencias.
+– 	 Equipos de emergencia. Equipos de emergencia de activación automática. 
+Equipos de emergencia de activación manual.
+– 	 Procedimientos generales en caso de emergencia. Procedimientos para la 
+activación de la alerta. Procedimientos de actuación ante situaciones de 
+emergencia.
+– 	 Coordinación ante situaciones de emergencia. Coordinación de equipos internos. 
+Coordinación de equipos externos. Grandes emergencias.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional da respuesta a las operaciones de sistemas y equipos que 
+existen en centrales termoeléctricas convencionales, de ciclo combinado, de motores de 
+combustión interna e hidroeléctrica.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31746
+Lunes, 31 de julio de 2017
+La definición de estas funciones incluye aspectos como:
+– 	 Gestionar las operaciones básicas de centrales termoeléctricas convencionales, 
+de ciclo combinado, de motores de combustión interna o hidráulicas.
+– 	 Operar la central en situación de régimen estable.
+– 	 Maniobrar los equipos de la central.
+– 	 Actuar en situaciones de emergencia.
+– 	 Maniobrar en períodos de inhabilitación o descargo.
+Las actividades profesionales asociadas a esta función se aplican en:
+– 	 Gestión de las operaciones básicas de la central.
+– 	 Intervención en las operaciones en centrales termoeléctricas convencionales, 
+ciclo combinado, de motores de combustión interna e hidráulicas.
+– 	 Colaboración en los planes de autoprotección.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+b), g), h), i), k) y l) del ciclo formativo y las competencias b), f) y h) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+– 	 La gestión de operaciones en centrales.
+– 	 La identificación del funcionamiento de centrales en régimen estable.
+– 	 La planificación de las maniobras en centrales.
+– 	 La actuación en situaciones de emergencia.
+– 	 La operación en centrales.
+– 	 La realización de los descargos o inhabilitación de equipo o sistema.
+– 	 La puesta en marcha de planes de autoprotección.
+Módulo profesional: Mantenimiento de centrales eléctricas.
+Equivalencia en créditos ECTS: 14.
+Código: 0674.
+Duración: 210 horas.
+Contenidos:
+1. Planificación del mantenimiento de equipos e instalaciones de centrales:
+– 	 Definición de un plan de mantenimiento. Instalaciones. Interpretación de planos 
+y esquemas.
+– 	 Definición de mantenimiento. Tipos de mantenimiento. Mantenimiento en 
+centrales.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31747
+Lunes, 31 de julio de 2017
+– 	 Conceptos básicos. Fiabilidad, disponibilidad, mantenibilidad y confiabilidad.
+– 	 El mantenimiento preventivo. Tipos de mantenimiento preventivo. Función y 
+características.
+– 	 Procedimientos generales de mantenimiento. Normas de aplicación.
+– 	 Mantenimiento basado en la fiabilidad (RCM).
+– 	 Herramientas de gestión y organización del mantenimiento. Software de 
+aplicación.
+– 	 Gestión de recursos humanos. Planes de gestión.
+2. Realización del mantenimiento de equipos e instalaciones eléctricas:
+– 	 Fundamentos 
+del 
+mantenimiento 
+eléctrico. 
+Características 
+generales. 
+Características específicas de sus elementos.
+– 	 Instrumentos de medida aplicados al mantenimiento. Medidas de magnitudes 
+eléctricas. Equipos portátiles de registro de datos. Sistemas de registro de datos. 
+Interpretación de valores registrados.
+– 	 Mantenimiento de componentes eléctricos. Mantenimiento de equipos eléctricos 
+(transformadores, alternador excitatriz, elementos de corte, baterías y cargadores, 
+barras y aparellaje, líneas y elementos asociados, cabinas de media y baja 
+tensión, y motores). Mantenimiento de instalaciones eléctricas (protecciones 
+eléctricas y puestas a tierra, entre otros). Sistemas de regulación, mando, control 
+y supervisión aplicados al mantenimiento. Sistemas de adquisición de datos.
+– 	 Técnicas de diagnóstico y localización de averías. Reparación de averías. 
+Compatibilidad de elementos.
+– 	 Mantenimiento de equipos y elementos. Procedimientos y medios.
+– 	 Gestión económica del mantenimiento. Suministros.
+3. Realización del mantenimiento mecánico:
+– 	 Fundamentos del mantenimiento mecánico.
+– 	 Metrología y ajustes: equipos de medida. Incertidumbres de la medida.
+– 	 Diagnóstico de averías en tuberías y soldaduras. Técnicas de soldadura. 
+Máquinas-herramientas.
+– 	 Aislamiento y protección. Vulcanizado. Tipos. Características. Utilización. Normas 
+de aplicación.
+– 	 Técnicas de mantenimiento predictivo. Medida y análisis de vibraciones. Equipos. 
+Utilización y errores.
+– 	 Ensayos no destructivos. Ensayos destructivos. Análisis de resultados.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31748
+Lunes, 31 de julio de 2017
+– 	 Mantenimiento de elementos mecánicos utilizados en centrales. Mantenimiento 
+de equipos mecánicos (válvulas y actuadores, bombas, compresores, conductos, 
+compuertas, motores de combustión interna, puentes, grúas, cojinetes, lubricación, 
+sopladores, tanques, turbinas y ventiladores).
+4. Supervisión del mantenimiento en centrales:
+– 	 Técnicas de control para el mantenimiento preventivo y predictivo. Tipos. 
+Procedimientos. Hojas de control. Plan de mantenimiento.
+– 	 Pruebas funcionales de los equipos y elementos. Tipos. Características.
+– 	 Procedimientos de gestión del mantenimiento. Técnicas. Modelos.
+– 	 Normas de gestión aplicadas al mantenimiento. Normas ISO y EFQM.
+– 	 Técnicas de medida. Control de medida.
+5. Elaboración de la documentación asociada a la gestión del mantenimiento:
+– 	 Documentos del mantenimiento. Fichas. Pedidos. Órdenes.
+– 	 Procedimientos de mejora del mantenimiento. Análisis de resultados. Análisis de 
+averías. Indicadores de procedimiento.
+– 	 Elaboración de informes. Documentación de histórico de averías y sustitución de 
+elementos.
+– 	 Aplicaciones informáticas: base de datos e históricos.
+– 	 Manuales de calidad. Normas de aplicación. Modelos.
+– 	 Manuales de procedimientos. Mapa de procesos. Manual de procesos. Indicadores 
+de procesos. Criterios de aceptación.
+6. Colaboración en una operación de gran parada:
+– 	 Objetivos para la gestión de grandes paradas. Paradas programadas. Paradas 
+fortuitas.
+– 	 Planificación de grandes paradas. Criterios. Procedimientos. Actuaciones. 
+Información.
+– 	 Trabajos previos a la gran parada. Definición de trabajos previos. Control de 
+trabajos.
+– 	 Planificación de trabajos.
+– 	 Gestión de material. Control de almacén. Control de stock.
+– 	 Seguridad y medio ambiente. Control medioambiental.
+– 	 Métodos de puesta en marcha. Finalización de la parada. Actuaciones previas. 
+Valores de aceptación.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31749
+Lunes, 31 de julio de 2017
+7. Prevención de riesgos laborales y de protección ambiental:
+– 	 Identificación de riesgos.
+– 	 Determinación de las medidas de prevención de riesgos laborales.
+– 	 Prevención de riesgos laborales en los procesos de montaje y mantenimiento.
+– 	 Equipos de protección individual. Características y criterios de utilización.
+– 	 Protección colectiva.
+– 	 Cumplimiento de la normativa de prevención de riesgos laborales.
+– 	 Cumplimiento de la normativa de protección ambiental.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar la función 
+de planificar y realizar el mantenimiento de centrales eléctricas.
+La definición de estas funciones incluye aspectos como:
+– 	 Realizar la documentación técnica de las instalaciones.
+– 	 Elaborar memorias y manuales sobre mantenimiento de equipos e instalaciones 
+de centrales eléctricas.
+– 	 Planificar el mantenimiento de centrales eléctricas.
+– 	 Realizar el mantenimiento de primer nivel en centrales termoeléctricas.
+– 	 Supervisar el mantenimiento.
+– 	 Optimizar recursos en los procesos de ejecución del mantenimiento.
+– 	 Planificar pruebas de instalaciones.
+Las actividades profesionales asociadas a esta función se aplican en:
+– 	 Definición de especificaciones de la instalación y ubicación de los equipos.
+– 	 Confección de unidades de obra y coste de mantenimiento de instalaciones.
+– 	 Elaboración de documentación gráfica y esquemas a partir de los datos obtenidos, 
+cumpliendo la normativa.
+– 	 Desarrollo, coordinación y supervisión de las intervenciones de mantenimiento 
+de las instalaciones y equipos.
+– 	 Gestión del mantenimiento y la reparación de instalaciones y equipos.
+– 	 Verificación la funcionalidad de la instalación o equipo desarrollando procedimientos 
+de configuración y puesta en marcha.
+– 	 Elaboración de la documentación técnica y administrativa.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31750
+Lunes, 31 de julio de 2017
+La formación del módulo profesional contribuye a alcanzar los objetivos b), c), d), e), 
+g), h), i), m), n) y ñ) del ciclo formativo y las competencias b), c), d), f), i) y k) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional están relacionados con:
+– 	 La identificación de elementos, máquinas y desarrollo de procesos del 
+mantenimiento, utilizando como recurso la documentación técnica.
+– 	 La elaboración de planes de mantenimiento.
+– 	 El reconocimiento de especificaciones técnicas del mantenimiento y el seguimiento 
+del protocolo de pruebas de las instalaciones.
+– 	 La preparación del manual de instrucciones de los equipos e instalaciones.
+– 	 El desarrollo de hipótesis de disfunción en las instalaciones.
+– 	 La elaboración de procedimientos para la localización de averías.
+– 	 La planificación de grandes paradas en centrales eléctricas.
+– 	 La realización de operaciones de mantenimiento del equipo mecánico.
+– 	 La realización de operaciones de mantenimiento del equipo e instalaciones 
+eléctricas.
+Módulo profesional: Coordinación de equipos humanos.
+Equivalencia en créditos ECTS: 4.
+Código: 0675.
+Duración: 63 horas.
+Contenidos:
+1. Reconocimiento de los puestos de trabajo. Estructura organizativa de una central 
+eléctrica:
+– 	 Estructura organizativa de centrales. Tipología de centrales. Centrales 
+termoeléctricas. Centrales hidroeléctricas.
+– 	 Proceso de producción. Red eléctrica y despacho de energía. Estructura 
+organizativa.
+– 	 Funciones profesionales necesarias para la explotación de cada tipo de central. 
+Aéreas y departamentos.
+– 	 Organización del personal. Organigramas.
+– 	 Gestión de la producción. Necesidad de atención a las instalaciones las 
+veinticuatro horas del día.
+– 	 Centros de información y coordinación. Salas de control.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31751
+Lunes, 31 de julio de 2017
+2. Elaboración de planes de formación para equipos de centrales:
+– 	 La acción formativa. Características. Diseño. Adecuación a los puestos de 
+trabajo.
+– 	 Estudio de necesidades de formación del personal. Métodos de detección de 
+necesidades. Encuestas de satisfacción. Análisis de indicadores de procesos.
+– 	 Programación de formación continua adaptada al puesto de trabajo. Tipos. 
+Características. Normas de uso.
+– 	 Técnicas de entrenamiento y evaluación en el puesto de trabajo. Evaluación de 
+resultados. Análisis de la formación.
+– 	 Planes de actuación. Rediseño de la formación. Adaptación del programa 
+formativo.
+– 	 Evaluación de la formación. Método directo. Método indirecto. Indicadores de 
+formación. Análisis de resultados.
+3. Aplicación de metodologías de transmisión de la información en procesos 
+industriales. Técnicas de comunicación:
+– 	 Importancia de la transmisión. Información relevante al puesto de trabajo. La 
+comunicación.
+– 	 Técnicas de transmisión de información. Tipos y diferencias. Objetivos 
+fundamentales. Utilización.
+– 	 Protocolos para el relevo de equipos a turnos. Documentación. Turnos. Información 
+y documentación de turnos.
+– 	 Documento de incidencias en los procesos de supervisión. Documentación de 
+operación de centrales eléctricas.
+– 	 Destinatarios de la información relevante y los medios de transmisión. 
+Caracterización. Órdenes y protocolos.
+– 	 Gestionado de los documentos administrativos. Almacén de documentación. 
+Histórico.
+4. Coordinación de trabajos del equipo humano:
+– 	 Gestión de operaciones y personal implicado. El equipo humano. El jefe de 
+grupo.
+– 	 Trabajo en equipo. Liderazgo. Motivación. Gestión del estrés y error humano.
+– 	 Técnicas de comunicación. Relevos. Registro de actuaciones. Control de 
+procesos.
+– 	 El estrés. Factores significativos. Técnicas y metodologías de control del estrés.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31752
+Lunes, 31 de julio de 2017
+– 	 El error humano. Factores que interfieren en el trabajo en equipo. Técnicas de 
+corrección de errores. Normas de calidad aplicadas a procesos.
+– 	 Sistemas integrales de gestión. Gestión de la calidad total. Gestión de residuos. 
+Gestión medioambiental. Gestión de seguridad y salud laboral.
+– 	 Técnicas de resolución de conflictos. Metodologías.
+– 	 Equipos de telecomunicación para coordinación del equipo. Comunicaciones 
+directas e indirectas. Tipos de comunicación. Ventajas e inconvenientes.
+5. Aplicación de gestión de la calidad en la información y comunicación entre 
+diferentes servicios:
+– 	 Normas de gestión de calidad. Norma ISO9000 y EFQM.
+– 	 Procesos de gestión aplicada a la central. Manual de calidad en centrales. 
+Modelos. Procedimientos. Indicadores. Mapa de procesos.
+– 	 Plan de coordinación. Cronogramas. Tipo. Análisis. Coordinación de la operación 
+con el mantenimiento preventivo. Coordinación en otras intervenciones.
+– 	 Plan de coordinación de tareas entre diferentes equipos. Gestión de personal 
+en parada de la central y operaciones asociadas. Gestión de equipos en 
+operaciones de mantenimiento correctivo. Gestión de equipos en reparación de 
+averías. Gestión de equipos en la intervención en la caldera. Gestión de equipos 
+en la intervención en el turbogenerador. Gestión de equipos en la intervención 
+en los sistemas auxiliares de aire, vapor y combustible. Gestión de equipos en la 
+intervención en turbinas hidráulicas. Gestión de equipos en la intervención en las 
+instalaciones exteriores de centrales hidroeléctricas.
+– 	 Conformidad de trabajos de mantenimiento. Modelos y fichas. Señales y 
+documentación de descargo de equipos. Organización de personal. Gestión de 
+la documentación.
+– 	 Participación del equipo humano en la mejora de procedimientos de intervención. 
+Participación del equipo en la mejora de los procedimientos de operación, de 
+seguridad o de emergencia. Técnica de organización de personal. Gestión de 
+grupos.
+– 	 Órdenes de trabajo en casos prácticos. Maniobras de pruebas. Planificación del 
+trabajo de revisiones programadas. Cronogramas específicos en las revisiones. 
+Análisis de resultados.
+6. Contratas y servicios de asistencia externa en centrales eléctricas:
+– 	 Tareas habituales de las contratas y servicios de asistencia externa. Tipos de 
+contrataciones.
+– 	 Modalidades de contratación. Proceso de contratación. Base jurídica.
+– 	 Procedimientos de control de los medios empleados de la contratación. Control 
+de servicio.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31753
+Lunes, 31 de julio de 2017
+– 	 Marco de trabajo del personal externo a la central.
+– 	 Sistemas de supervisión, chequeo y certificación. Pruebas y sistemas para la 
+conformidad de tareas.
+– 	 Documentación final. Informes y certificados.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar la función 
+de coordinar los distintos equipos humanos de las centrales desde el punto de vista de la 
+organización, información y formación.
+La definición de estas funciones incluye aspectos como:
+– 	 Aplicar técnicas de gestión de personal.
+– 	 Gestionar la coordinación de equipos.
+– 	 Aplicar y procedimentar sistemas de gestión de calidad aplicados a los equipos.
+– 	 Identificar los sistemas de contratación externa para gestión de la formación.
+Las actividades profesionales asociadas a esta función se aplican en:
+– 	 Aplicación de planes de formación de personal.
+– 	 Coordinación de equipos humanos.
+– 	 Implantación de procedimientos de calidad asociados a la gestión de equipos.
+– 	 Gestión de contratos y servicios realizados por empresas externas.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+e), m) n) y ñ) del ciclo formativo y las competencias d), i), j) y k) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional están relacionados con:
+– 	 Identificar puestos de trabajo en centrales eléctricas.
+– 	 Elaborar planes de formación.
+– 	 Aplicar técnicas de comunicación.
+– 	 Coordinar equipos humanos.
+– 	 Aplicar normas de calidad en procesos de gestión de personal.
+– 	 Elaborar contratos y servicios de empresas externas a la central.
+– 	 Planificación de grandes paradas en centrales eléctricas.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31754
+Lunes, 31 de julio de 2017
+Módulo profesional: Proyecto de centrales eléctricas.
+Equivalencia en créditos ECTS: 5.
+Código: 0676.
+Duración: 30 horas.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional complementa la formación establecida para el resto de los 
+módulos profesionales que integran el título en las funciones de análisis del contexto, 
+diseño del proyecto y organización de la ejecución.
+La función de análisis del contexto incluye las subfunciones de recopilación de 
+información, identificación de necesidades y gestión de personal.
+La función de diseño del proyecto tiene como objetivo establecer las líneas generales 
+para dar respuesta a las necesidades planteadas concretando los aspectos relevantes 
+para su realización. Incluye las subfunciones de definición del proyecto, planificación de la 
+intervención y elaboración de la documentación.
+La función de organización de la ejecución incluye las subfunciones de programación 
+de actividades, gestión de recursos y supervisión de la intervención.
+Las actividades profesionales asociadas a estas funciones se desarrollan en el sector 
+de generación de energía eléctrica.
+La formación del módulo profesional se relaciona con la totalidad de los objetivos 
+generales del ciclo y las competencias profesionales, personales y sociales del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional están relacionadas con:
+– 	 La responsabilidad y la autoevaluación del trabajo realizado.
+– 	 La autonomía y la iniciativa personal.
+– 	 El uso de las Tecnologías de la Información y de la Comunicación.
+La metodología aplicada en este módulo profesional debe favorecer experiencias de 
+aprendizaje fundamentadas en el conocimiento de:
+– 	 Técnicas de análisis, investigación, búsqueda y recopilación de información.
+– 	 Búsqueda de recursos bibliográficos.
+– 	 Planificación, matriz, diseño, viabilidad y oportunidad, conclusiones y aportaciones 
+personales, manejo de normativa aplicable, desarrollo del proyecto.
+También será necesaria la utilización de software específico, como procesadores de 
+texto, hojas de cálculo, programas de diseño asistido por ordenador, programas de cálculo 
+específicos y otros en la redacción del documento final, realizando su implementación en 
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31755
+Lunes, 31 de julio de 2017
+el módulo profesional, para la consecución de los objetivos específicos relacionados con 
+el tipo de proyecto que desarrolle el alumnado.
+Los trabajos a realizar sobre soporte informático se llevarán a cabo, de forma 
+individual. El alumnado deberá ser capaz de trabajar con autonomía y creatividad bajo los 
+parámetros de la calidad exigida, siempre bajo la orientación del profesor-tutor.
+Las características del módulo profesional son conducentes a aplicar una metodología 
+interdisciplinar que favorezca el carácter global del aprendizaje en los tipos de proyecto 
+que así lo requieran; o bien que desarrolle metodologías que favorezcan la investigación, 
+la innovación o el desarrollo de algún aspecto concreto relacionado con las variables 
+tecnológicas y organizativas relacionadas con los proyectos en el sector de la ganadero, 
+ya sea desde el punto de vista técnico o de gestión.
+Se propone que las tecnologías de la información y la comunicación, sean un 
+instrumento habitual, tanto por parte del profesor-tutor como por parte del alumnado, de 
+forma que éste adopte actitudes activas respecto de su propio aprendizaje mediante la 
+búsqueda bibliográfica y consulta en páginas web de toda la información necesaria para el 
+desarrollo del proyecto y como herramienta para facilitar la acción tutorial.
+El proyecto será realizado por el alumnado, de forma individual, preferentemente 
+durante el tercer trimestre del segundo curso. El alumnado será tutorizado por un profesor, 
+que imparta docencia en segundo curso del ciclo formativo, de las especialidades de 
+«Instalaciones Electrotécnicas», «Instalación y Mantenimiento de Equipos Térmicos 
+y de Fluidos», «Sistemas Electrotécnicos y Automáticos», «Sistemas Electrónicos» 
+y «Organización y Proyectos de Sistemas Energéticos» de acuerdo con lo establecido 
+en el anexo III A) del Real Decreto 258/2011, de 28 de febrero. No obstante, dado que 
+los resultados de aprendizaje y criterios de evaluación de este módulo profesional 
+complementan los del resto de los módulos profesionales del ciclo y tiene un carácter 
+integrador de los mismos, sería conveniente la colaboración de todos los profesores con 
+atribución docente en el ciclo formativo.
+Módulo profesional: Formación y orientación laboral.
+Equivalencia en créditos ECTS: 5.
+Código: 0677.
+Duración: 96 horas.
+Contenidos:
+BLOQUE A: Formación, Legislación y Relaciones Laborales. 
+Duración: 46 horas.
+1. Búsqueda activa de empleo:
+– 	 Valoración de la importancia de la formación permanente para la trayectoria 
+laboral y profesional del Técnico Superior en Centrales Eléctricas.
+– 	 Análisis de los intereses, aptitudes y motivaciones personales para la carrera 
+profesional.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31756
+Lunes, 31 de julio de 2017
+– 	 Identificación de los itinerarios formativos relacionados con el Técnico Superior 
+en Centrales Eléctricas.
+– 	 Responsabilidad sobre el propio aprendizaje. Conocimiento de los requerimientos 
+y de los frutos previstos.
+– 	 Definición y análisis del sector profesional del Técnico Superior en Centrales 
+Eléctricas. Yacimientos de empleo.
+– 	 Proceso de búsqueda de empleo en pequeñas, medianas y grandes empresas 
+del sector.
+– 	 Oportunidades de aprendizaje y empleo en Europa. Programas europeos. 
+Europass, Ploteus.
+– 	 Valoración de la empleabilidad y adaptación como factores clave para responder 
+a las exigencias del mercado laboral.
+– 	 Técnicas e instrumentos de búsqueda de empleo. Fuentes de información. El 
+proceso de selección.
+– 	 Oportunidades de autoempleo y empleo en Europa.
+– 	 El proceso de toma de decisiones.
+– 	 La igualdad de oportunidades en el acceso al empleo.
+2. Gestión del conflicto y equipos de trabajo:
+– 	 Valoración de las ventajas e inconvenientes del trabajo de equipo para la eficacia 
+de la organización.
+– 	 Concepto y tipos de equipos de trabajo. Formación y funcionamiento de equipos 
+eficaces.
+– 	 Equipos en el sector de la producción de energía eléctrica según las funciones 
+que desempeñan.
+– 	 La participación en el equipo de trabajo. Los roles grupales. Barreras a la 
+participación en el equipo.
+– 	 Técnicas de participación y dinámicas de grupo.
+– 	 Conflicto: características, fuentes y etapas. 
+– 	 Métodos para la resolución o supresión del conflicto: mediación, conciliación y 
+arbitraje.
+– 	 La comunicación en la empresa. El lenguaje asertivo. La toma de decisiones y la 
+negociación como habilidades sociales para el trabajo en equipo. 
+– 	 El mobbing. Detección, métodos para su prevención y erradicación.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31757
+Lunes, 31 de julio de 2017
+3. Contrato de trabajo:
+– 	 La organización política del Estado Español. Organismos laborales existentes en 
+España.
+– 	 El derecho del trabajo. Normas fundamentales.
+– 	 Órganos de la administración y jurisdicción laboral.
+– 	 Análisis de la relación laboral individual.
+– 	 Modalidades de contrato de trabajo y medidas de fomento de la contratación.
+– 	 Derechos y deberes derivados de la relación laboral. El tiempo de trabajo. Análisis 
+del recibo de salarios. Liquidación de haberes.
+– 	 Modificación, suspensión y extinción del contrato de trabajo.
+– 	 Valoración de las medidas para la conciliación familiar y profesional.
+– 	 Representación de los trabajadores en la empresa.
+– 	 Negociación colectiva como medio para la conciliación de los intereses de 
+trabajadores y empresarios.
+– 	 Medidas de conflicto colectivo. Procedimientos de solución.
+– 	 Análisis de un convenio colectivo aplicable al ámbito profesional del Técnico 
+Superior en Centrales Eléctricas.
+– 	 Beneficios para los trabajadores en las nuevas organizaciones: flexibilidad y 
+beneficios sociales, entre otros.
+4. Seguridad Social, empleo y desempleo:
+– 	 La Seguridad Social como pilar del Estado Social de Derecho.
+– 	 Estructura del Sistema de la Seguridad Social. Regímenes.
+– 	 Determinación de las principales obligaciones de empresarios y trabajadores en 
+materia de Seguridad Social: afiliación, altas, bajas y cotización. Cálculo de bases 
+de cotización a la Seguridad Social y determinación de cuotas en un supuesto 
+sencillo.
+– 	 Prestaciones de la Seguridad Social. Situaciones protegibles en la protección 
+por desempleo. Cálculo de una prestación por desempleo de nivel contributivo 
+básico.
+BLOQUE B: Prevención de Riesgos Laborales.
+Duración: 50 horas.
+5. Evaluación de riesgos profesionales:
+– 	 Importancia de la cultura preventiva en todas las fases de la actividad. 
+Sensibilización, a través de las estadísticas de siniestralidad nacional y en Castilla 
+y León, de la necesidad de hábitos y actuaciones seguras.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31758
+Lunes, 31 de julio de 2017
+– 	 Valoración de la relación entre trabajo y salud.
+– 	 El riesgo profesional. Mapa de riesgos. Análisis de factores de riesgo.
+– 	 La evaluación de riesgos en la empresa como elemento básico de la actividad 
+preventiva.
+– 	 Análisis de riesgos ligados a las condiciones de seguridad.
+– 	 Análisis de riesgos ligados a las condiciones ambientales. Agentes físicos, 
+químicos y biológicos.
+– 	 Análisis de riesgos ligados a las condiciones ergonómicas y psicosociales.
+– 	 Riesgos específicos en el sector de generación de energía eléctrica.
+– 	 Técnicas de evaluación de riesgos.
+– 	 Condiciones de trabajo y seguridad.
+– 	 Determinación de los posibles daños a la salud del trabajador que pueden 
+derivarse de las situaciones de riesgo detectadas.
+– 	 Los accidentes de trabajo, las enfermedades profesionales y otras patologías.
+6. Planificación de la prevención de riesgos en la empresa. Prevención integrada:
+– 	 Marco jurídico en materia de prevención de riesgos laborales.
+– 	 Derechos y deberes en materia de prevención de riesgos laborales. 
+Responsabilidades legales.
+– 	 Gestión de la prevención en la empresa. Documentación.
+– 	 Organismos públicos relacionados con la prevención de riesgos laborales.
+– 	 Planificación de la prevención en la empresa. Secuenciación de actuaciones.
+– 	 Definición del contenido del Plan de Prevención de un centro de trabajo relacionado 
+con el sector profesional.
+– 	 Planes de emergencia y de evacuación en entornos de trabajo.
+– 	 Elaboración de un plan de emergencia en una empresa del sector.
+7. Aplicación de medidas de prevención y protección en la empresa:
+– 	 Técnicas de lucha contra los daños profesionales. Seguridad en el trabajo. 
+Higiene industrial y otros.
+– 	 Determinación de las medidas de prevención y protección individual y colectiva.
+– 	 Señalización de seguridad.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31759
+Lunes, 31 de julio de 2017
+– 	 Protocolo de actuación ante una situación de emergencia.
+– 	 Primeros auxilios. Conceptos básicos. Aplicación de técnicas de primeros 
+auxilios.
+– 	 Vigilancia de la salud de los trabajadores.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para que el alumno pueda 
+insertarse laboralmente y desarrollar su carrera profesional en el sector.
+La formación de este módulo profesional contribuye a alcanzar los objetivos generales 
+o), p), q), r), s), t), u) y v) del ciclo formativo, y las competencias de operador de centrales 
+eléctricas l), m), n), ñ), o), p) y q) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+– 	 El manejo de las fuentes de información sobre el sistema educativo y laboral, en 
+especial en lo referente a las empresas del sector.
+– 	 La realización de pruebas de orientación y dinámicas sobre la propia personalidad 
+y el desarrollo de las habilidades sociales.
+– 	 La preparación y realización de currículos (CV) y entrevistas de trabajo.
+– 	 La identificación de la normativa laboral que afecta a los trabajadores del sector, 
+manejo de los contratos más comúnmente utilizados y lectura comprensiva de 
+los convenios colectivos de aplicación.
+– 	 La resolución de supuestos prácticos sencillos sobre materias de índole laboral y 
+de Seguridad Social.
+– 	 La cumplimentación de recibos de salario de diferentes características y otros 
+documentos relacionados.
+– 	 El análisis de la Ley de Prevención de Riesgos Laborales que le permita la 
+evaluación de los riesgos derivados de las actividades desarrolladas en su sector 
+productivo, y colaboración en la definición de un plan de prevención para una 
+pequeña empresa, así como en la elaboración de las medidas necesarias para 
+su puesta en funcionamiento.
+– 	 En este módulo, especialmente en el Bloque B, Prevención de Riesgos Laborales, 
+se tratan contenidos que están relacionados con otros módulos profesionales, 
+por lo que sería recomendable la realización coordinada de las programaciones 
+didácticas en dichas materias. Es aconsejable que el profesor que imparte el 
+módulo profesional de «Formación y orientación laboral» se centre en los 
+aspectos puramente legales, mientras que los profesores de la Familia Profesional 
+enfoquen desde un punto de vista técnico los riesgos específicos del sector y las 
+medidas de prevención y protección de los mismos, de cara a la elaboración de 
+planes de prevención de riesgos laborales.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31760
+Lunes, 31 de julio de 2017
+Módulo profesional: Empresa e iniciativa emprendedora.
+Equivalencia en créditos ECTS: 4.
+Código: 0678.
+Duración: 63 horas.
+Contenidos:
+1. Iniciativa emprendedora:
+– 	 Innovación y desarrollo económico. Principales características de la innovación 
+en la  producción de la electricidad (materiales, tecnología y organización de la 
+producción, entre otros).
+– 	 El trabajo por cuenta propia como fuente de creación de empleo y bienestar 
+social.
+– 	 La cultura emprendedora. El emprendedor. Factores claves de los emprendedores: 
+iniciativa, creatividad y formación.
+– 	 Desarrollo del espíritu emprendedor a través del fomento de las actitudes de 
+creatividad, iniciativa, autonomía y responsabilidad.
+– 	 La actuación de los emprendedores como empleados de una empresa relacionada 
+con la generación de energía eléctrica.
+– 	 La actuación de los emprendedores como empresarios en el sector de la 
+producción de energía.
+– 	 Análisis de las oportunidades de negocio en el sector de la producción de 
+energía.
+– 	 El empresario. Requisitos para el ejercicio de la actividad empresarial. Aptitudes 
+y actitudes.
+– 	 Plan de empresa: la idea de negocio en el ámbito de la generación de 
+electricidad.
+– 	 Búsqueda de ideas de negocio. Análisis y viabilidad de las mismas.
+2. La empresa y su entorno:
+– 	 Concepto de empresa.
+– 	 Estructura organizativa de la empresa. Organigrama.
+– 	 Funciones básicas de la empresa: comercial, técnica, social, financiera y 
+administrativa.
+– 	 La empresa como sistema.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31761
+Lunes, 31 de julio de 2017
+– 	 Análisis del entorno general de una empresa relacionada con la producción de 
+energía.
+– 	 Análisis del entorno específico de una empresa relacionada con la generación de 
+electricidad.
+– 	 Relaciones con clientes, proveedores y competidores.
+– 	 Análisis DAFO.
+– 	 Relaciones de una  empresa de producción eléctrica con su entorno.
+– 	 Relaciones de una  empresa de producción eléctrica con el conjunto de la 
+sociedad. La responsabilidad social de la empresa, planes de igualdad, acciones 
+de igualdad y mejora continua. La ética empresarial en empresas del sector. 
+– 	 El estudio de mercado. Variables del marketing mix: precio, producto, comunicación 
+y distribución.
+– 	 El balance social: los costes y los beneficios sociales. 
+– 	 Cultura empresarial e imagen corporativa.
+3. Creación y puesta en marcha de una empresa:
+– 	 Tipos de empresa. 
+– 	 Elección de la forma jurídica. Ventajas e inconvenientes de las distintas formas 
+jurídicas con especial atención a la responsabilidad legal.
+– 	 La franquicia como forma de empresa.
+– 	 La fiscalidad en las empresas.
+– 	 Trámites administrativos para la constitución y puesta en marcha de una empresa. 
+Relación con organismos oficiales.
+– 	 Vías externas de asesoramiento y gestión. La ventanilla única empresarial.
+– 	 Pan de inversiones y gastos.
+– 	 Las fuentes de financiación. El plan financiero.
+– 	 Subvenciones y ayudas destinadas a la creación de empresas  en el sector de la 
+producción de energía.
+– 	 Viabilidad económica y viabilidad financiera de una empresa relacionada con la 
+generación de energía eléctrica.
+– 	 Plan de empresa. Elección de la forma jurídica, estudio de viabilidad económica 
+y financiera, trámites administrativos y gestión de ayudas y subvenciones.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31762
+Lunes, 31 de julio de 2017
+4. Función administrativa:
+– 	 Concepto de contabilidad y nociones básicas.
+– 	 Cuentas anuales obligatorias.
+– 	 Análisis de la información contable.
+– 	 Ratios. Cálculo de coste, beneficio y umbral de rentabilidad.
+– 	 Obligaciones fiscales de las empresas. Principales impuestos aplicables a las 
+empresas del sector.
+– 	 Gestión administrativa de una empresa de producción de electricidad. Documentos 
+básicos utilizados en la actividad económica de la empresa: nota de pedido, 
+albarán, factura, letra de cambio, cheque y otros.
+– 	 Gestión de aprovisionamiento. Valoración de existencias. Volumen óptimo de 
+pedido.
+– 	 Elaboración de un plan de empresa.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desarrollar la propia 
+iniciativa en el ámbito empresarial, tanto hacia el autoempleo como hacia la asunción de 
+responsabilidades y funciones en el empleo por cuenta ajena.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+v) y w) del ciclo formativo, y las competencias q) y r) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+– 	 El manejo de las fuentes de información sobre el sector de generación de energía, 
+incluyendo el análisis de los procesos de innovación sectorial en marcha.
+– 	 La realización de casos y dinámicas de grupo que permitan comprender y valorar 
+las actitudes de los emprendedores y ajustar la necesidad de los mismos al sector 
+de los servicios relacionados con los procesos de generación de electricidad.
+– 	 La utilización de programas de gestión administrativa para pymes del sector.
+– 	 La realización de un proyecto de plan de empresa relacionada con el título de 
+centrales eléctricas y que incluya todas las facetas de puesta en marcha de 
+un negocio: viabilidad, organización de la producción y los recursos humanos, 
+acción comercial, control administrativo y financiero, así como justificación de su 
+responsabilidad social.
+– 	 Utilización de la herramienta «Aprende a Emprender».
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31763
+Lunes, 31 de julio de 2017
+Módulo profesional: Formación en centros de trabajo.
+Equivalencia en créditos ECTS: 22.
+Código: 0679.
+Duración: 380 horas.
+Este módulo profesional contribuye a completar las competencias y objetivos 
+generales, propios de este título, que se han alcanzado en el centro educativo o a desarrollar 
+competencias características difíciles de conseguir en el mismo.
+Módulo profesional: Elementos de centrales y subestaciones eléctricas.
+Código: CL18. 
+Resultados de aprendizaje y criterios de evaluación:
+1. Determina los elementos de maniobra y protección que configuran las centrales y 
+subestaciones eléctricas.
+Criterios de evaluación:
+a)	Se han seleccionado los elementos de maniobra adecuados en distintas 
+operaciones de conexión y acoplamiento en centrales y subestaciones 
+eléctricas.
+b)	Se han calculado las características de elementos de protección frente a 
+cortocircuitos en subestaciones eléctricas.
+c)	 Se han establecido las características de los elementos de protección frente a 
+sobretensiones en subestaciones eléctricas.
+d)	Se han efectuado las pruebas de funcionamiento de los elementos de maniobra 
+y protección, previas a su instalación, siguiendo las indicaciones del fabricante y 
+las establecidas reglamentariamente.
+e)	Se han concretado los elementos de conexión, maniobra y protección más 
+adecuados en  operaciones de conexión y acoplamiento en centrales y 
+subestaciones eléctricas mediante equipos didácticos y programas de simulación, 
+según los reglamentos y protocolos de actuación.
+2. Caracteriza los transformadores de potencia y de medida en subestaciones 
+eléctricas analizando anteproyectos o condiciones dadas y seleccionando los elementos 
+más adecuados en cada caso.
+Criterios de evaluación:
+a)	Se han realizado los cálculos necesarios para determinar las características 
+del transformador de potencia más adecuado  en cada caso, en función de la 
+demanda de potencia y las características de la subestación eléctrica.
+b)	Se han concretado los parámetros de los transformadores de tensión e 
+intensidad idóneos en varios supuestos de medidas en centrales y subestaciones 
+eléctricas.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31764
+Lunes, 31 de julio de 2017
+c)	 Se han realizado los ensayos de funcionamiento de transformadores de potencia 
+con carga resistiva, inductiva y capacitiva, contrastando su respuesta en cada 
+caso.
+d)	Se han ejecutado acoplamientos en paralelo de transformadores, respetando las 
+condiciones necesarias y según protocolos y normas establecidas.
+e)	Se han efectuado ensayos de protección frente a distintas perturbaciones 
+(sobreintensidad, sobretensión, respuesta de conexión) empleando dispositivos 
+adecuados en cada caso.
+f)	 Se han realizado conjuntos de ensayos y pruebas de mantenimiento empleando 
+instrumentación y protocolos adecuados.
+3. Realiza operaciones de montaje de estructuras de soporte y conexionado de 
+líneas en redes eléctricas.
+Criterios de evaluación:
+a)	Se han utilizado las técnicas adecuadas para la realización de las operaciones 
+auxiliares de carga y descarga del material empleado en las redes eléctricas.
+b)	Se han efectuado las operaciones auxiliares necesarias para llevar a cabo el 
+montaje de apoyos de una instalación en una red eléctrica aérea de alta tensión, 
+siguiendo las normas y protocolos establecidos.
+c)	 Se ha realizado el izado, aplomo y montaje de las estructuras de soporte  y 
+elementos de maniobra y protección (crucetas, aisladores, seccionadores, 
+circuitos de protección). 
+d)	Se ha realizado y el tendido y tensado de los conductores en una línea eléctrica 
+aérea siguiendo las normas y protocolos establecidos.
+e)	Se han realizado operaciones auxiliares (tendido, amarre, empalme y tensión 
+de los conductores, engrapado) en el tendido de cables en redes eléctricas, 
+siguiendo las normas y protocolos establecidos.
+f)	 Se ha montado la instalación de redes de toma de tierra en el ámbito  de las 
+subestaciones  eléctricas, siguiendo las normas y protocolos establecidos.
+g)	Se han aplicado las normas de seguridad que se deben tener en cuenta según el 
+marco normativo y el reglamento vigente, relacionándolos con su uso habitual.
+Duración: 105 horas.
+Contenidos:
+1. Elementos de maniobra y protección que configuran las centrales y subestaciones 
+eléctricas:
+– 	 Barras colectoras. Configuraciones habituales. Simple, doble y anillo.
+– 	 Interruptores y seccionadores en AT.
+– 	 Protección frente a sobreintensidades. Relés de protección.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31765
+Lunes, 31 de julio de 2017
+– 	 Elementos en subestaciones convencionales (AIS), blindadas (GIS) e híbridas 
+(HIS). Evolución tecnológica.
+– 	 Niveles de aislamiento en redes de transporte y distribución. Procedimientos de 
+coordinación de aislamiento. 
+– 	 Protecciones 
+frente 
+a 
+sobretensiones: 
+pararrayos 
+y 
+apantallamientos. 
+Determinación y cálculo de puestas a tierra.
+2. Transformadores de potencia y de medida en subestaciones eléctricas:
+– 	 Aspectos constructivos. Elementos y accesorios.
+– 	 Sistemas de refrigeración. Función de la refrigeración. Tipos. Elementos del 
+sistema.
+– 	 Elementos de conexión. Bornas y pasatapas. 
+– 	 Conexión de transformadores de medida. Tipología y características.
+– 	 Regulación de tensión. Regulación en  vacío. Regulación de tensión en carga.
+– 	 Acoplamiento de transformadores de potencia. Requisitos principales.
+– 	 Mantenimiento de Transformadores de potencia. Aspectos generales. 
+Inspecciones.
+– 	 Mantenimiento 
+sin 
+descargo. 
+Termografía. 
+Análisis 
+de 
+elementos. 
+Monitorización.
+– 	 Mantenimiento con descargo.  Mediciones de valores de resistencia en 
+arrollamientos y aislamiento. Respuesta en frecuencia. Revisiones de elementos 
+constructivos y sistemas de regulación y refrigeración.
+3. Operaciones de montaje de estructuras de soporte y conexionado de líneas en 
+redes eléctricas.
+– 	 Carga y descarga del material empleado en redes eléctricas.
+– 	 Montaje de estructuras de soporte en instalaciones de redes eléctricas de alta 
+tensión.
+– 	 Izado, aplomado y montaje de las estructuras de soporte y elementos de maniobra 
+y protección. 
+– 	 Tendido y tensado de los conductores en una línea eléctrica de alta tensión y 
+subestaciones.
+– 	 Instalación de redes de toma de tierra en el ámbito  de las subestaciones  
+eléctricas.
+– 	 Seguridad en operaciones de montaje.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31766
+Lunes, 31 de julio de 2017
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional capacita para desempeñar las funciones de montaje, 
+supervisión y mantenimiento de transformadores, elementos de soporte, protección y 
+maniobra en el ámbito de subestaciones y centrales eléctricas.
+La definición de estas funciones incluye aspectos como:
+– 	 Determinar características y seleccionar elementos de centrales y subestaciones 
+eléctricas.
+– 	 Efectuar pruebas de funcionamiento de elementos de maniobra y protección.
+– 	 Ejecutar en ensayos y pruebas de mantenimiento en transformadores de 
+potencia.
+– 	 Instalar redes de toma de tierra en el ámbito  de las subestaciones  eléctricas.
+Las actividades profesionales asociadas a esta función se aplican en:
+– 	 Configurar, calcular y seleccionar los elementos y sistemas propios de las 
+instalaciones comunes de telecomunicaciones.
+– 	 Organizar y montar instalaciones en el ámbito de subestaciones y centrales 
+eléctricas.
+– 	 Verificación de la funcionalidad del proceso de montaje y mantenimiento.
+– 	 Desarrollar, coordinar y supervisar las intervenciones de montaje y/o mantenimiento 
+de las instalaciones y equipos.
+– 	 Gestión del mantenimiento y la reparación de instalaciones y equipos, diseñando 
+las operaciones de comprobación, sustitución de sus elementos y ajustes de los 
+equipos, en condiciones de calidad, seguridad y respeto al medio ambiente.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales: 
+a), b), c), d), e), f), i), j), k), m), ñ) y o) del ciclo formativo y las competencias a), b), c), d), 
+g), h), y k) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+– 	 Identificar las tipologías de instalaciones en el ámbito de subestaciones y centrales 
+eléctricas.
+– 	 Configurar y seleccionar los sistemas y elementos de la instalación.
+– 	 Respetar y hacer cumplir de la normativa correspondiente en el diseño y en el 
+desarrollo de la instalación.
+– 	 Planificar el montaje y la verificación de instalaciones tipo.
+– 	 Desarrollar procedimientos de configuración y puesta en marcha.
+– 	 Elaborar planes de mantenimiento.
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31767
+Lunes, 31 de julio de 2017
+ANEXO II
+Organización y distribución horaria
+Centro Educativo
+Centro de 
+Trabajo
+Módulos profesionales
+Duración 
+del 
+currículo
+(horas)
+Curso 1.º
+horas/semanales
+Curso 2.º
+1.º y 2.º
+trimestres
+horas/semanales
+3.er
+trimestre
+horas
+0668. 	 Sistemas eléctricos en centrales.
+192
+6
+0669. 	 Subestaciones eléctricas.
+192
+6
+0670.	 Telecontrol y automatismos.
+224
+7
+0671. 	 Prevención de riesgos eléctricos.
+64
+2
+0672. 	 Centrales de producción eléctrica.
+192
+6
+0673. 	 Operación en centrales eléctricas.
+189
+9
+0674. 	 Mantenimiento de centrales 
+eléctricas.
+210
+10
+0675. 	 Coordinación de equipos humanos.
+63
+3
+0676. 	 Proyecto de centrales eléctricas.
+30
+30
+0677. 	 Formación y orientación laboral.
+96
+3
+0678. 	 Empresa e iniciativa emprendedora.
+63
+3
+0679. 	 Formación en centros de trabajo.
+380
+380
+CL18. 	 Elementos de centrales y 
+subestaciones eléctricas.
+105
+5
+TOTAL
+2.000
+30
+30
+410
+CV: BOCYL-D-31072017-3
+
+Boletín Oficial de Castilla y León
+Núm. 145
+http://bocyl.jcyl.es
+D.L.: BU 10-1979 - ISSN 1989-8959
+Pág. 31768
+Lunes, 31 de julio de 2017
+ANEXO III
+Especialidades y titulaciones del profesorado en el módulo profesional 
+«Elementos de centrales y subestaciones eléctricas»
+1. Especialidades del profesorado con atribución docente en el módulo profesional 
+«Elementos de centrales y subestaciones eléctricas» del ciclo formativo de Técnico 
+Superior en Centrales Eléctricas. 
+Módulo profesional
+Especialidad del profesorado
+Cuerpo
+CL18. Elementos de centrales y 
+subestaciones eléctricas.
+– 	Instalaciones Electrotécnicas.
+– 	Sistemas Electrotécnicos y 
+Automatizados.
+– 	Catedrático de Enseñanza Secundaria.
+– 	Profesor de Enseñanza Secundaria.
+– 	Profesor Técnico de Formación Profesional.
+2. Titulaciones requeridas para impartir el módulo profesional «Elementos de centrales 
+y subestaciones eléctricas» que conforma el título en los centros de titularidad privada, de 
+otras Administraciones distintas de la educativa y orientaciones para la Administración 
+educativa. 
+Módulo profesional
+Titulaciones
+CL18. Elementos de centrales y 
+subestaciones eléctricas.
+– 	Licenciado, Ingeniero, Arquitecto o título de Grado correspondiente, u 
+otros títulos equivalentes a efectos de docencia.
+– 	Diplomado, Ingeniero Técnico o Arquitecto Técnico o el título de grado 
+correspondiente u otros títulos equivalentes.
+CV: BOCYL-D-31072017-3

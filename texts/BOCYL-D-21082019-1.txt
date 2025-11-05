@@ -1,0 +1,2968 @@
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40586
+Miércoles, 21 de agosto de 2019
+I. COMUNIDAD DE CASTILLA Y LEÓN
+A. DISPOSICIONES GENERALES
+CONSEJERÍA DE EDUCACIÓN
+DECRETO 29/2019, de 19 de agosto, por el que se establece el currículo 
+correspondiente al título de Técnico Superior en Desarrollo de Proyectos de Instalaciones 
+Térmicas y de Fluidos en la Comunidad de Castilla y León.
+La Constitución Española reserva al Estado en el artículo 149.1.30.ª la competencia 
+exclusiva en materia de regulación de las condiciones de obtención, expedición y 
+homologación de títulos académicos y profesionales y normas básicas para el desarrollo 
+del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones 
+de los poderes públicos en esta materia.
+El Estatuto de Autonomía de Castilla y León, en su artículo 73.1, atribuye a la 
+Comunidad de Castilla y León la competencia de desarrollo legislativo y ejecución de 
+la enseñanza en toda su extensión, niveles y grados, modalidades y especialidades de 
+acuerdo con lo dispuesto en la normativa estatal.
+La Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación 
+Profesional, establece en el artículo 10.1 que la Administración General del Estado 
+determinará los títulos y los certificados de profesionalidad, que constituirán las ofertas de 
+formación profesional referidos al Catálogo Nacional de Cualificaciones Profesionales, y 
+en el apartado 2 que las Administraciones educativas, en el ámbito de sus competencias, 
+podrán ampliar los contenidos de los correspondientes títulos de formación profesional.
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación, tras su modificación por la 
+Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa, establece 
+en el artículo 6.bis.4 que, en relación con la formación profesional, el Gobierno fijará los 
+objetivos, competencias, contenidos, resultados de aprendizaje y criterios de evaluación 
+del currículo básico, y en el artículo 39.6 que el Gobierno establecerá las titulaciones 
+correspondientes a los estudios de formación profesional, así como los aspectos básicos 
+del currículo de cada una de ellas. 
+El Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación 
+general de la formación profesional del sistema educativo, define en el artículo 9 la estructura 
+de los títulos de formación profesional tomando como base el Catálogo Nacional de 
+Cualificaciones Profesionales, las directrices fijadas por la Unión Europea y otros aspectos 
+de interés social, y en el artículo 7 concreta los elementos que definen el perfil profesional 
+de dichos títulos, que incluirá la competencia general, las competencias profesionales, 
+personales y sociales, las cualificaciones profesionales y, en su caso, las unidades de 
+competencia, cuando se refieran al Catálogo Nacional de Cualificaciones Profesionales 
+incluidas en los títulos. Por otro lado, en el artículo 8.2, dispone que las Administraciones 
+educativas establecerán los currículos correspondientes respetando lo en él dispuesto y 
+en las normas que regulen las diferentes enseñanzas de formación profesional.
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40587
+Miércoles, 21 de agosto de 2019
+Mediante Real Decreto 219/2008, de 15 de febrero, se establece el título de Técnico 
+Superior en Desarrollo de Proyectos de Instalaciones Térmicas y de Fluidos y se fijan 
+sus enseñanzas mínimas, indicando en el artículo 1.2 que lo en él dispuesto sustituye a 
+la regulación del título de Técnico Superior en Desarrollo de Proyectos de Instalaciones 
+de Fluidos, Térmicas y de Manutención, contenida en el Real Decreto 2042/1995, de 
+22 de diciembre, por el que se establece el citado título y las correspondientes enseñanzas 
+mínimas.
+El presente decreto establece el currículo correspondiente al título de Técnico Superior 
+en Desarrollo de Proyectos de Instalaciones Térmicas y de Fluidos en la Comunidad de 
+Castilla y León, teniendo en cuenta los principios generales que han de orientar la actividad 
+educativa según lo previsto en el artículo 1 de la Ley Orgánica 2/2006, de 3 de mayo, y 
+pretende dar respuesta a las necesidades generales de cualificación de las personas.
+De acuerdo con los principios de necesidad y eficacia, este decreto se dicta en 
+atención al cumplimiento y desarrollo de la normativa estatal básica y viene motivado por una 
+razón de interés general al ser el objetivo básico del currículo en él establecido hacer frente 
+a las actuales necesidades de formación de personas técnicas cuya competencia general 
+consiste en desarrollar proyectos y planificar el montaje de las instalaciones térmicas y de 
+fluidos en edificios y procesos industriales, de conformidad con los reglamentos y normas 
+establecidas, siguiendo los protocolos de calidad, de seguridad y de prevención de riesgos 
+laborales y respeto ambiental, de acuerdo con el desarrollo económico y social de Castilla 
+y León.
+En relación con el principio de proporcionalidad este decreto contiene la regulación 
+imprescindible para atender la necesidad que el interés general requiere y es acorde con 
+el sistema constitucional de distribución de competencias puesto que, una vez aprobado 
+por la Administración General del Estado un determinado título oficial y el currículo básico, 
+compete a la Administración educativa autonómica el establecimiento de un currículo propio 
+para Castilla y León en los términos determinados en la norma estatal y de acuerdo con 
+el porcentaje de configuración autonómica en ella determinado. Asimismo, la regulación 
+responde a una de las acciones incluidas en el programa operativo 19/L4 del Plan General 
+de Formación Profesional contenido en la II Estrategia Integrada de Empleo, Formación 
+Profesional, Prevención de Riesgos Laborales e Igualdad y Conciliación en el Empleo, 
+2016-2020, aprobada por el Acuerdo del Diálogo Social de Castilla y León autorizado el 
+27 de enero de 2016 por la Junta de Castilla y León, que consiste en la elaboración de 
+nuevos currículos, adaptados a las características socioeconómicas de Castilla y León, 
+a medida que se vayan publicando los nuevos títulos de formación profesional, con la 
+colaboración de los agentes económicos y sociales de nuestra Comunidad.
+A fin de garantizar el principio de seguridad jurídica este decreto se ha elaborado 
+de manera coherente con el resto del ordenamiento jurídico, fundamentalmente con la 
+normativa estatal básica en la materia.
+En relación con el principio de eficiencia ha de ponerse de manifiesto que la aprobación 
+de este decreto no impone nuevas cargas administrativas y su aplicación supondrá una 
+correcta racionalización de los recursos públicos.
+En aplicación del principio de transparencia se ha posibilitado en la tramitación 
+de este decreto la participación de los ciudadanos en la elaboración de su contenido a 
+través de la plataforma de Gobierno Abierto y se han llevado a cabo todos los trámites 
+establecidos tanto en la normativa estatal básica como autonómica relacionados con la 
+citada participación.
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40588
+Miércoles, 21 de agosto de 2019
+En este sentido, de conformidad con el artículo 76.1 de la Ley 3/2001, del Gobierno y 
+de la Administración de la Comunidad de Castilla y León, en el procedimiento de elaboración 
+del presente decreto se han sustanciado los trámites de consulta pública previa en atención 
+al artículo 75.2 de la citada ley en relación con el artículo 133.1 de la Ley 39/2015, de 1 de 
+octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y de 
+audiencia de acuerdo con el artículo 75.5 de la Ley 3/2001, de 3 de julio, a través de su 
+publicación en el Portal de Gobierno Abierto de la Junta de Castilla y León, donde también 
+se ha dado el trámite de participación ciudadana de conformidad con el artículo 75.4 de la 
+Ley 3/20001, de 3 de julio, en relación con el artículo 16 de la Ley 3/2015, de 4 de marzo, 
+de Transparencia y Participación Ciudadana de Castilla y León. 
+Por otro lado, en la preparación de este decreto se ha contado con la colaboración de 
+profesorado de las especialidades con atribución docente en los módulos profesionales del 
+ciclo formativo correspondiente al título de Técnico Superior en Desarrollo de Proyectos de 
+Instalaciones Térmicas y de Fluidos de los centros educativos de Castilla y León. Asimismo 
+se ha recabado dictamen del Consejo Escolar de Castilla y León de conformidad con el 
+artículo 8.1.a) de la Ley 3/1999, de 17 de marzo, del Consejo Escolar de Castilla y León, 
+e informe del Consejo de Formación Profesional de Castilla y León de conformidad con el 
+artículo 2.g) del Decreto 82/2000, de 27 de abril, de creación de este Consejo.
+En su virtud, la Junta de Castilla y León, a propuesta de la Consejera de Educación, 
+de acuerdo con el dictamen del Consejo Consultivo de Castilla y León, y previa deliberación 
+del Consejo de Gobierno en su reunión de 19 de agosto de 2019
+DISPONE
+Artículo 1. Objeto y ámbito de aplicación.
+El presente decreto tiene por objeto establecer el currículo correspondiente al título 
+de Técnico Superior en Desarrollo de Proyectos de Instalaciones Térmicas y de Fluidos en 
+la Comunidad de Castilla y León. 
+Artículo 2. Identificación del título y referentes de formación.
+1. El título de Técnico Superior en Desarrollo de Proyectos de Instalaciones Térmicas 
+y de Fluidos queda identificado en la Comunidad de Castilla y León por los elementos 
+determinados en el artículo 2 del Real Decreto 219/2008, de 15 de febrero, por el que se 
+establece el citado título y se fijan sus enseñanzas mínimas, y por un código, de la forma 
+siguiente:
+
+FAMILIA PROFESIONAL: Instalación y Mantenimiento.
+
+DENOMINACIÓN: Desarrollo de Proyectos de Instalaciones Térmicas y de 
+Fluidos.
+
+NIVEL: Formación Profesional de Grado Superior.
+
+DURACIÓN: 2.000 horas.
+
+REFERENTE EUROPEO: CINE-5b (Clasificación Internacional Normalizada de 
+la Educación).
+
+CÓDIGO: IMA01S.
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40589
+Miércoles, 21 de agosto de 2019
+2. El currículo del ciclo formativo que conduce al título de Técnico Superior en 
+Desarrollo de Proyectos de Instalaciones Térmicas y de Fluidos tomará como referentes 
+de formación los aspectos relativos al perfil profesional del título determinado por la 
+competencia general, las competencias profesionales, personales y sociales, y la relación 
+de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones 
+Profesionales incluidas en el título, así como los aspectos referentes al entorno profesional 
+y la prospectiva del título en el sector o sectores, establecidos en los artículos 3 a 8 del 
+Real Decreto 219/2008, de 15 de febrero.
+Artículo 3. Módulos profesionales del ciclo formativo.
+Los módulos profesionales que componen el ciclo formativo que conduce a la 
+obtención del título de Técnico Superior en Desarrollo de Proyectos de Instalaciones 
+Térmicas y de Fluidos serán los siguientes:
+a)	 Los módulos profesionales establecidos en el artículo 10 del Real Decreto 219/2008, 
+de 15 de febrero, y que se indican a continuación: 
+
+0120. Sistemas eléctricos y automáticos.
+
+0121. Equipos e instalaciones térmicas.
+
+0122. Procesos de montaje de instalaciones.
+
+0123. Representación gráfica de instalaciones.
+
+0124. Energías renovables y eficiencia energética.
+
+0125. Configuración de instalaciones de climatización, calefacción y ACS.
+
+0126. Configuración de instalaciones frigoríficas.
+
+0127. Configuración de instalaciones de fluidos.
+
+0128. Planificación del montaje de instalaciones.
+
+0129. Proyecto de instalaciones térmicas y de fluidos.
+
+0130. Formación y orientación laboral.
+
+0131. Empresa e iniciativa emprendedora.
+
+0132. Formación en centros de trabajo.
+b)	El módulo profesional que se establece como propio de la Comunidad de Castilla 
+y León:
+
+CL23. Inglés para desarrollo de proyectos de instalaciones térmicas y de 
+fluidos.
+Artículo 4. Objetivos, contenidos, duración y orientaciones pedagógicas y 
+metodológicas de cada módulo profesional.
+1. Los objetivos de los módulos profesionales relacionados en el artículo 3.a), 
+expresados en términos de resultados de aprendizaje, y los criterios de evaluación, son 
+los que se establecen en el anexo I del Real Decreto 219/2008, de 15 de febrero.
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40590
+Miércoles, 21 de agosto de 2019
+2. Por su parte, los contenidos, la duración y las orientaciones pedagógicas y 
+metodológicas, de los módulos profesionales relacionados en el artículo 3.a), son los que 
+se establecen en el Anexo I de este decreto, excepto el módulo profesional «Proyecto de 
+instalaciones térmicas y de fluidos» sobre el que el citado anexo solo determina la duración 
+y las orientaciones pedagógicas y metodológicas, y el módulo profesional «Formación en 
+centros de trabajo» sobre el que solo determina la duración.
+3. Los objetivos del módulo profesional indicado en el artículo 3.b) expresados en 
+términos de resultados de aprendizaje y criterios de evaluación, así como la duración, los 
+contenidos y las orientaciones pedagógicas y metodológicas, son los que se establecen 
+en el Anexo I de este decreto junto al resto de módulos profesionales.
+Artículo 5. Módulos profesionales de «Formación en centros de trabajo» y de 
+«Proyecto de instalaciones térmicas y de fluidos».
+1. El programa formativo del módulo profesional «Formación en centros de trabajo» 
+se particularizará para cada alumno y se elaborará teniendo en cuenta las características 
+del centro de trabajo. Deberá recoger las actividades formativas que permitan ejecutar 
+o completar la competencia profesional correspondiente al título, los resultados de 
+aprendizaje y los criterios de evaluación previstos en el anexo I del Real Decreto 219/2008, 
+de 15 de febrero.
+2. El módulo profesional de «Proyecto de instalaciones térmicas y de fluidos.» se 
+definirá de acuerdo con las características de la actividad laboral del ámbito del ciclo 
+formativo y con aspectos relativos al ejercicio profesional y a la gestión empresarial. Tendrá 
+por objeto la integración de las diversas capacidades y conocimientos del currículo del 
+ciclo formativo, contemplará las variables tecnológicas y organizativas relacionadas con el 
+título, y deberá ajustarse a los resultados de aprendizaje y criterios de evaluación previstos 
+en el anexo I del Real Decreto 219/2008, de 15 de febrero.
+El departamento de la familia profesional de Instalación y Mantenimiento determinará, 
+en el marco de la programación general anual, los proyectos que se propondrán para su 
+desarrollo por el alumnado. Los proyectos también podrán ser propuestos por el alumnado, 
+en cuyo caso se requerirá la aceptación del departamento.
+Con carácter general, el módulo profesional «Proyecto de instalaciones térmicas y 
+de fluidos» se desarrollará simultáneamente al módulo profesional «Formación en centros 
+de trabajo», salvo que concurran otras circunstancias que no lo permitan. 
+Artículo 6. Organización y distribución de los módulos profesionales. 
+1. Los módulos profesionales que forman las enseñanzas del ciclo formativo de 
+técnico superior en desarrollo de proyectos de instalaciones térmicas y de fluidos, cuando 
+se oferten en régimen presencial, se organizan en dos cursos académicos. Su distribución 
+en cada uno de los cursos y la asignación horaria semanal se recoge en el Anexo II de 
+este decreto.
+2. El período de realización del módulo profesional de «Formación en centros de 
+trabajo» establecido en el Anexo II para el tercer trimestre, podrá comenzar en el segundo 
+trimestre si han transcurrido veintidós semanas lectivas a contar desde el inicio del curso 
+escolar.
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40591
+Miércoles, 21 de agosto de 2019
+Artículo 7. Metodología.
+1. La metodología didáctica aplicada al ciclo formativo de técnico superior en 
+desarrollo de proyectos de instalaciones térmicas y de fluidos integrará los aspectos 
+científicos, tecnológicos y organizativos que en cada caso correspondan, con el fin de que 
+el alumnado adquiera una visión global de los procesos productivos propios de la actividad 
+profesional.
+2. En el desarrollo de las enseñanzas correspondientes al ciclo formativo se deben 
+aplicar metodologías activas de aprendizaje que favorezcan: 
+a)	La participación, implicación y compromiso del alumnado en las tareas y su 
+resolución de una manera creativa, innovadora y autónoma, estimulando su 
+motivación.
+b)	La realización de proyectos o actividades coordinadas en los que intervengan 
+diferentes módulos interrelacionando aquellos que permitan completar las 
+competencias profesionales del ciclo formativo.
+c)	 La evaluación de las actitudes que el profesorado considere imprescindibles para 
+el desempeño de una profesión y la integración en una sociedad cívica y ética.
+d)	La adquisición de competencias, tanto técnicas asociadas a los módulos 
+profesionales que configuran el ciclo formativo, como interpersonales o sociales 
+(competencia digital, trabajo colaborativo, en equipo o cooperativo, otros). 
+e)	El desarrollo de trabajos en el aula que versen sobre actividades que supongan 
+al alumnado el ensayo de rutinas y destrezas de pensamiento y ejecución de 
+tareas que simulen el ambiente real de trabajo en torno al perfil profesional del 
+título, apoyándose en un aprendizaje basado en proyectos, retos o la resolución 
+de problemas complejos que estimulen al alumnado.
+f)	 La comprobación del nivel adquirido por el alumnado en las competencias 
+asociadas al módulo profesional cursado, mediante la elaboración de pruebas 
+con un componente práctico que evidencie dicho desempeño profesional. 
+Artículo 8. Adaptaciones metodológicas y curriculares.
+1. Con objeto de ofrecer a todas las personas la oportunidad de adquirir una 
+formación básica, ampliar y renovar sus conocimientos, habilidades y destrezas de modo 
+permanente y facilitar el acceso a las enseñanzas de formación profesional, la consejería 
+competente en materia de educación podrá flexibilizar la oferta del ciclo formativo de técnico 
+superior en desarrollo de proyectos de instalaciones térmicas y de fluidos permitiendo, 
+principalmente a las personas adultas, la posibilidad de combinar el estudio y la formación 
+con la actividad laboral o con otras actividades, respondiendo así a las necesidades e 
+intereses personales.
+2. También se podrá adecuar las enseñanzas de este ciclo formativo a las 
+características de la educación a distancia, así como a las características del alumnado 
+con necesidades específicas de apoyo educativo para que se garantice su acceso, 
+permanencia y progresión en el ciclo formativo.
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40592
+Miércoles, 21 de agosto de 2019
+Artículo 9. Requisitos de los centros para impartir estas enseñanzas.
+Todos los centros de titularidad pública o privada que ofrezcan enseñanzas 
+conducentes a la obtención del título de Técnico Superior en Desarrollo de Proyectos de 
+Instalaciones Térmicas y de Fluidos se ajustarán a lo establecido en la Ley Orgánica 2/2006, 
+de 3 de mayo, de Educación y en las normas que lo desarrollen, y en todo caso deberán 
+cumplir los requisitos que se establecen en el artículo 46 del Real Decreto 1147/2011, de 
+29 de julio, por el que se establece la ordenación general de la formación profesional del 
+sistema educativo, en el Real Decreto 219/2008, de 15 de febrero, en este decreto, y en lo 
+establecido en la normativa que los desarrolle.
+Artículo 10. Profesorado. 
+1. Los aspectos referentes al profesorado con atribución docente en los módulos 
+profesionales del ciclo formativo de técnico superior en desarrollo de proyectos de 
+instalaciones térmicas y de fluidos, relacionados en el artículo 3.a), son los establecidos 
+en el artículo 12 del Real Decreto 219/2008, de 15 de febrero.
+2. Las especialidades y, en su caso, las titulaciones del profesorado con atribución 
+docente en el módulo profesional incluido en el artículo 3.b), son las que se determinan en 
+el Anexo III del presente decreto. En todo caso, se exigirá que las enseñanzas conducentes 
+a las titulaciones citadas engloben los objetivos del módulo profesional y si dichos 
+objetivos no estuvieran incluidos, además de la titulación deberá acreditarse mediante 
+«certificación», una experiencia laboral de, al menos, tres años en el sector vinculado 
+a la familia profesional, realizando actividades productivas en empresas relacionadas 
+implícitamente con los resultados de aprendizaje.
+Artículo 11. Espacios y equipamientos. 
+Los espacios y equipamientos necesarios para el desarrollo de las enseñanzas del 
+ciclo formativo de técnico superior en desarrollo de proyectos de instalaciones térmicas 
+y de fluidos son los establecidos en el artículo 11 del Real Decreto 219/2008, de 15 de 
+febrero. 
+Artículo 12. Accesos y vinculación a otros estudios, y correspondencia de módulos 
+profesionales con las unidades de competencia.
+El acceso y vinculación a otros estudios, y la correspondencia de los módulos 
+profesionales con las unidades de competencia son los que se establecen en el 
+capítulo IV del Real Decreto 219/2008, de 15 de febrero.
+Artículo 13. Autonomía de los centros.
+1. Los centros educativos dispondrán de la necesaria autonomía pedagógica, de 
+organización y de gestión económica, para el desarrollo de las enseñanzas del ciclo 
+formativo de técnico superior en desarrollo de proyectos de instalaciones térmicas y 
+de fluidos, y su adaptación a las características concretas del entorno socioeconómico, 
+cultural y profesional. 
+2. Los centros autorizados para impartir el ciclo formativo concretarán y desarrollarán 
+el currículo mediante las programaciones didácticas de cada uno de los módulos 
+profesionales que componen el ciclo formativo en los términos establecidos en el Real 
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40593
+Miércoles, 21 de agosto de 2019
+Decreto 219/2008, de 15 de febrero, en este decreto, en el marco general del proyecto 
+educativo de centro y en función de las características de su entorno productivo. 
+Las programaciones didácticas incluirán, al menos, los aspectos siguientes:
+a)	Los objetivos del módulo profesional: objetivos generales del currículo que 
+desarrolla el módulo y las competencias profesionales, personales y sociales 
+vinculadas al módulo. 
+b)	Las competencias y contenidos de carácter transversal.
+c)	 La organización, secuenciación y temporalización de las unidades didácticas, 
+indicando los contenidos mínimos de referencia.
+d)	La duración de los contenidos de prevención de riesgos laborales de nivel básico 
+en función del sector, de acuerdo con lo establecido en el artículo 35 del Real 
+Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de los 
+Servicios de Prevención.
+e)	La metodología didáctica.
+f)	 Los criterios de evaluación y calificación del módulo y resultados de aprendizaje 
+mínimos exigibles para obtener la evaluación positiva en el módulo profesional.
+g)	Los procedimientos e instrumentos de evaluación. Actividades de recuperación, 
+pérdida de evaluación continua y reclamaciones.
+h)	La atención a la diversidad y, en su caso, adaptación de acceso al currículo.
+i)	 Las actividades complementarias y extraescolares relacionadas con el módulo 
+profesional. 
+j)	 Los materiales y recursos didácticos.
+3. La consejería competente en materia de educación favorecerá la elaboración de 
+proyectos de innovación, así como de modelos de programación docente y de materiales 
+didácticos que faciliten al profesorado el desarrollo del currículo.
+4. De conformidad con el artículo 120.4 de la Ley Orgánica 2/2006, de 3 de mayo, 
+los centros, en el ejercicio de su autonomía, podrán adoptar experimentaciones, planes de 
+trabajo, formas de organización, normas de convivencia y ampliación del calendario escolar 
+o del horario lectivo de áreas o materias, en los términos que establezca la consejería 
+competente en materia de educación y dentro de las posibilidades que permita la normativa 
+aplicable, incluida la laboral, sin que, en ningún caso, se impongan aportaciones a las 
+familias ni exigencias para la citada consejería. 
+Artículo 14. Enseñanzas impartidas en lenguas extranjeras o en lenguas cooficiales 
+de otras comunidades autónomas.
+1. Teniendo en cuenta que la promoción de la enseñanza y el aprendizaje de lenguas 
+y de la diversidad lingüística debe de constituir una prioridad de la acción comunitaria en el 
+ámbito de la educación y la formación, la consejería competente en materia de educación 
+podrá autorizar que todos o determinados módulos profesionales del currículo se impartan 
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40594
+Miércoles, 21 de agosto de 2019
+en lenguas extranjeras o en lenguas cooficiales de otra comunidad autónoma, sin perjuicio 
+de lo que se establezca al respecto en su normativa específica y sin que ello suponga 
+modificación de currículo establecido en el presente decreto.
+2. Los centros autorizados deberán incluir en su proyecto educativo los elementos 
+más significativos de su proyecto lingüístico autorizado.
+Artículo 15. Oferta a distancia del título.
+1. Los módulos profesionales que forman las enseñanzas del ciclo formativo 
+de técnico superior en desarrollo de proyectos de instalaciones térmicas y de fluidos, 
+podrán ofertarse a distancia, siempre que se garantice que el alumnado puede conseguir 
+los resultados de aprendizaje de los mismos, de acuerdo con lo dispuesto en el Real 
+Decreto 219/2008, de 15 de febrero, y en este decreto.
+2. La consejería competente en materia de educación establecerá los módulos 
+profesionales susceptibles de ser impartidos a distancia y el porcentaje de horas de cada 
+uno de ellos que tienen que impartirse en régimen presencial.
+DISPOSICIONES ADICIONALES
+Primera. Calendario de implantación.
+La implantación del currículo establecido en este decreto tendrá lugar en el curso 
+escolar 2019/2020 para el primer curso del ciclo formativo y en el curso escolar 2020/2021 
+para el segundo curso del ciclo formativo.
+Segunda. Titulaciones equivalentes y vinculación con capacitaciones profesionales. 
+1. Las titulaciones equivalentes y vinculación con capacitaciones profesionales son 
+las que se establecen en la disposición adicional tercera del Real Decreto 219/2008, de 
+15 de febrero.
+2. La formación establecida en el presente decreto en el módulo profesional de 
+«Formación y orientación laboral», incluye un mínimo de cincuenta horas, que capacita 
+para llevar a cabo responsabilidades profesionales equivalentes a las que precisan las 
+actividades de nivel básico en prevención de riesgos laborales, establecidas en el Real 
+Decreto 39/1997, de 17 de enero. 
+Tercera. Certificación académica de superación del nivel básico en prevención de 
+riesgos laborales. 
+La consejería competente en materia de educación expedirá una certificación 
+académica de la formación de nivel básico en prevención de riesgos laborales al alumnado 
+que haya superado el bloque B del módulo profesional «Formación y orientación laboral», 
+de conformidad con la Orden EDU/2205/2009, de 26 de noviembre, por la que se regula 
+el procedimiento para la certificación de la formación de nivel básico en prevención de 
+riesgos laborales para el alumnado que supere el módulo profesional de Formación y 
+Orientación Laboral de ciclos formativos de Formación Profesional Inicial.
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40595
+Miércoles, 21 de agosto de 2019
+Cuarta. Equivalencia a efectos de docencia en los procedimientos selectivos de 
+ingreso en el Cuerpo de Profesores Técnicos de Formación Profesional.
+En los procesos selectivos convocados por la consejería competente en materia de 
+educación, el título de Técnico Superior o Técnico Especialista se declara equivalente a 
+los exigidos para el acceso al Cuerpo de Profesores Técnicos de Formación Profesional, 
+cuando el titulado haya ejercido como profesor interino en centros educativos públicos 
+dependientes de la citada consejería y en la especialidad docente a la que pretenda 
+acceder durante un período mínimo de dos años antes del 31 de agosto de 2007. 
+DISPOSICIÓN DEROGATORIA
+Derogación normativa.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo 
+establecido en el presente decreto. 
+DISPOSICIONES FINALES
+Primera. Desarrollo normativo.
+Se faculta a la persona titular de la consejería competente en materia de educación 
+para dictar cuantas disposiciones sean precisas para la interpretación, aplicación y 
+desarrollo de lo dispuesto en este decreto.
+Segunda. Entrada en vigor.
+El presente decreto entrará en vigor a los veinte días de su publicación en el Boletín 
+Oficial de Castilla y León.
+Valladolid, 19 de agosto de 2019.
+El Presidente 
+de la Junta de Castilla y León,
+Fdo.: Alfonso Fernández Mañueco
+La Consejera 
+de Educación,
+Fdo.: Rocío Lucas Navas
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40596
+Miércoles, 21 de agosto de 2019
+ANEXO I
+Objetivos, contenidos, duración y orientaciones pedagógicas 
+y metodológicas de los módulos profesionales
+Módulo profesional: Sistemas eléctricos y automáticos.
+Equivalencia en créditos ECTS: 10.
+Código: 0120.
+Duración: 192 horas.
+Contenidos:
+1. Selección de máquinas eléctricas y sus sistemas auxiliares:
+–
+– Interpretación de esquemas. Sistemas monofásicos. Sistemas trifásicos.
+–
+– Elementos de los circuitos: interruptores, conmutadores, pulsadores, relés, 
+contactores, temporizadores, detectores, entre otros.
+–
+– Componentes pasivos: resistencias, bobinas y condensadores.
+–
+– Identificación, descripción y aplicaciones de las máquinas (cc, ca) y sistemas 
+auxiliares.
+–
+– Transformadores monofásicos y trifásicos. Tipos, características y ensayos.
+–
+– Motores de corriente continua y de corriente alterna. Tipos, características y 
+aplicaciones.
+–
+– Selección de sistemas de arranque y control.
+–
+– Determinación de dispositivos de protección.
+–
+– Sistemas electrónicos de variación de velocidad de motores.
+–
+– Elaboración de esquemas de conexión.
+–
+– Medida y verificación de parámetros de funcionamiento.
+–
+– Condiciones de seguridad.
+–
+– Componentes semiconductores: Diodos, transistores, tiristores y componentes 
+optoelectrónicos.
+–
+– Valoración de la importancia del conocimiento de la simbología empleada en los 
+esquemas para la correcta comprensión del sistema que se representa.
+–
+– Cuidado por la conservación y limpieza de los aparatos de medida y verificación.
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40597
+Miércoles, 21 de agosto de 2019
+2. Configuración de instalaciones eléctricas de alimentación y control:
+–
+– Normas y reglamentos aplicables.
+–
+– Aplicación de la normativa de instalaciones eléctricas de baja tensión. REBT 
+vigente.
+–
+– Protecciones. Tipos y características. Aplicaciones.
+–
+– Determinación de las canalizaciones.
+–
+– Selección de conductores eléctricos.
+–
+– Selección de componentes auxiliares..
+–
+– Elaboración de esquemas de fuerza y maniobra de instalaciones. Automatismos 
+eléctricos básicos.
+–
+– Montaje de cuadros eléctricos. Tipología y características.
+–
+– Montaje y conexionado de elementos de protección, mando y señalización. 
+Montaje de instalaciones. Técnicas y procedimientos.
+–
+– Descripción de la secuencia de funcionamiento del sistema.
+–
+– Tecnologías de automatización neumática, hidráulica y eléctrica. Circuitos 
+básicos.
+–
+– Métodos de cálculo para el dimensionado y selección de protecciones, 
+canalizaciones, conductores y componentes auxiliares de la instalación.
+–
+– Procedimientos de montaje y conexionado de instalaciones y sus componentes.
+–
+– Medida y verificación de parámetros eléctricos en las instalaciones.
+–
+– Análisis de disfunciones y diagnóstico de averías. Mantenimiento de sistemas.
+3. Montaje de sistemas de regulación y control:
+–
+– Principios de automatización.
+–
+– Procesos continuos. Características.
+–
+– Procesos secuenciales. Características.
+–
+– Álgebra lógica. Funciones y variables.
+–
+– Determinación de circuitos lógicos elementales.
+–
+– Interpretación, elaboración y descripción de funcionamiento de esquemas 
+utilizando la simbología adecuada.
+–
+– Ejecución del montaje y conexionado de sistemas de regulación y control de 
+instalaciones térmicas y de fluidos.
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40598
+Miércoles, 21 de agosto de 2019
+–
+– Documentación del proceso seguido en el montaje de los sistemas automáticos.
+–
+– Lazos de regulación (bucle cerrado, abierto, entre otros).
+–
+– Tipos de regulación: P, PI y PID. Funciones de transferencia. Realimentación.
+–
+– Estabilidad de los sistemas.
+–
+– Aplicaciones en las instalaciones.
+–
+– Selección de componentes de los sistemas de regulación.
+–
+– Elaboración de esquemas. Simbología.
+–
+– Medida de parámetros de funcionamiento de las instalaciones.
+–
+– Introducción al sistema SCADA.
+–
+– Respeto por las normas de uso de instalaciones y de los recursos.
+–
+– Respeto por los tiempos estipulados para la realización de la actividad.
+4. Verificación del funcionamiento de sistemas de regulación y control:
+–
+– Instrumentos de medida. Pruebas y medidas. Atención en la realización de 
+pruebas y mediciones ajustándose a los protocolos establecidos.
+–
+– Pruebas de seguridad.
+–
+– Elementos de protección.
+–
+– Secuencia de funcionamiento.
+–
+– Realización de las operaciones de medida, comprobación y verificación sobre 
+una instalación térmica y de fluidos en funcionamiento.
+–
+– Documentación del proceso seguido en la realización de pruebas y medidas.
+5. Localización de averías en sistemas automáticos:
+–
+– Procedimientos de intervención.
+–
+– Identificación de los síntomas y elaboración de hipótesis sobre las posibles 
+causas que generan la disfunción o avería.
+–
+– Medición de parámetros característicos.
+–
+– Disfunciones.
+–
+– Documentación.
+–
+– Cumplimiento de los tiempos asignados a la localización de la disfunción o avería.
+–
+– Normas de seguridad en la localización de averías.
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40599
+Miércoles, 21 de agosto de 2019
+6. Reparación de averías en sistemas automáticos:
+–
+– Procedimientos de intervención. Elaboración del procedimiento de intervención 
+para efectuar reparaciones.
+–
+– Ajuste de parámetros.
+–
+– Equipos y herramientas.
+–
+– Sustitución de elementos.
+–
+– Elaboración de documentación del proceso seguido en la corrección de averías 
+y disfunciones.
+–
+– Interés por cumplir los tiempos asignados a la resolución de la disfunción o avería.
+7. Configuración de sistemas automáticos programables:
+–
+– Interpretación, elaboración y descripción de funcionamiento de esquemas de 
+sistemas automáticos. Regulación y control.
+–
+– Tipos de autómatas programables.
+–
+– Selección de autómatas programables y elementos periféricos.
+–
+– Variables del sistema.
+–
+– Elementos de un sistema automático programable.
+–
+– Esquemas de sistemas automáticos. Regulación y control.
+–
+– Características y selección de autómatas programables.
+–
+– Interés por la innovación, la investigación y el desarrollo de sistemas automáticos 
+programables aplicados en instalaciones térmicas y de fluidos.
+8. Puesta en marcha de sistemas automáticos programables:
+–
+– Diagramas de flujo.
+–
+– Realización de la puesta en servicio de sistemas automáticos programables de 
+instalaciones térmicas y de fluidos por medios telemáticos.
+–
+– Ajustes mediante monitorización, telemando y telegestión.
+–
+– Resolución de contingencias y elaboración de documentación del sistema 
+automático programable.
+–
+– Conexionado de los sistemas automáticos programables.
+–
+– Programación de autómatas. Verificación de programas.
+–
+– Conexionado de autómatas y elementos periféricos.
+–
+– Programas de control.
+–
+– Elaboración de documentación del sistema automático programable.
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40600
+Miércoles, 21 de agosto de 2019
+9. Montaje de sistemas automáticos programables:
+–
+– Esquemas de instalación. Conexionado de los sistemas automáticos 
+programables.
+–
+– Conexionado de redes. Comprobaciones.
+–
+– Conexionado de elementos de control. Ajustes.
+–
+– Resolución de contingencias. Documentación.
+–
+– Interés por manipular cuidadosamente componentes y autómatas para evitar su 
+deterioro.
+–
+– Atención en la prevención de los riesgos durante las fases de montaje y prueba 
+de sistemas.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar las 
+funciones de desarrollo de proyectos de instalaciones, y de montaje y mantenimiento de 
+instalaciones térmicas y de fluidos, y los subprocesos de sistemas automáticos asociados 
+a las instalaciones.
+La función de desarrollo de proyectos incluye aspectos como:
+–
+– La configuración de las instalaciones eléctricas asociadas a instalaciones 
+térmicas y de fluidos.
+–
+– La configuración de sistemas de control mediante autómatas programables.
+–
+– La programación de los autómatas programables.
+–
+– La configuración de sistemas de regulación y control de las instalaciones.
+–
+– La interpretación y representación de esquemas eléctricos.
+–
+– La selección de componentes de las instalaciones.
+La función de montaje y mantenimiento incluye aspectos como:
+–
+– El montaje de cuadros y sistemas eléctricos.
+–
+– El montaje de sistemas de regulación, control y programación.
+–
+– La verificación de los parámetros de funcionamiento, regulación y control.
+–
+– El análisis de disfunciones y diagnóstico de averías.
+Las actividades profesionales asociadas a estas funciones se aplican en:
+–
+– El desarrollo de proyectos de instalaciones térmicas y de fluidos.
+–
+– El montaje de las instalaciones térmicas y de fluidos.
+–
+– El mantenimiento de las instalaciones térmicas y de fluidos.
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40601
+Miércoles, 21 de agosto de 2019
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+a), b), c), f), g), h), i) y j) del ciclo formativo y las competencias profesionales, personales y 
+sociales a), b), d), j), m), ñ) y q) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional están relacionados con:
+–
+– La configuración de instalaciones eléctricas a partir de un anteproyecto.
+–
+– La configuración de sistemas de regulación y control de las instalaciones térmicas 
+y de fluidos.
+–
+– El montaje de las instalaciones eléctricas, su ajuste y regulación.
+–
+– La verificación de los parámetros de los sistemas eléctricos de instalaciones 
+montadas.
+Módulo profesional: Equipos e instalaciones térmicas.
+Equivalencia en créditos: ECTS: 14. 
+Código: 0121.
+Duración: 224 horas.
+Contenidos:
+1. Calculo de instalaciones térmicas:
+–
+– Aplicación de termotecnia a instalaciones térmicas:
+–
+– Magnitudes, unidades y conversión entre los sistemas de unidades.
+–
+– Energía y calor. Transmisión de calor. Calor específico, sensible y latente.
+–
+– Comportamiento de los gases perfectos.
+–
+– Termodinámica y procesos térmicos. Conceptos de entalpía y entropía.
+–
+– Cálculo de aislamiento térmico y características de los aislamientos. 
+Calorifugado de tuberías.
+–
+– Aislamiento acústico. Tuberías tratadas con material absorbente. Atenuadores 
+y silenciadores.
+–
+– Cálculo de cargas térmicas de instalaciones de frío, climatización y calefacción.
+–
+– Programas informáticos de cálculo de instalaciones térmicas.
+–
+– Identificación de los parámetros para la generación de calor:
+–
+– Teoría de la combustión. Generación de calor.
+–
+– Clasificación de los combustibles. Almacenamiento y redes de combustibles 
+sólidos, líquidos y gaseosos.
+–
+– Características de los combustibles. Poder calorífico.
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40602
+Miércoles, 21 de agosto de 2019
+–
+– Índice de combustión. Emisiones contaminantes. Pérdida por humos. 
+Rendimiento.
+–
+– Locales de instalación. Requisitos de configuración. Ventilación y evacuación.
+–
+– Determinación de las condiciones de calidad del aire interior y confort en 
+instalaciones térmicas:
+–
+– Identificación de las propiedades del aire húmedo.
+–
+– Uso del diagrama psicrométrico.
+–
+– Representación de mezclas de aire en el diagrama psicrométrico.
+–
+– Cálculo de necesidades de ventilación.
+–
+– Medida de los parámetros del aire.
+–
+– Programas informáticos de aplicación.
+–
+– Interpretación de los ciclos frigoríficos:
+–
+– Identificación en diagramas frigoríficos de los parámetros característicos de 
+las instalaciones. Compresión simple y múltiple. Absorción.
+–
+– Tablas de refrigerantes y su uso: presentación general de las tablas. Utilización 
+en ciclos de refrigeración.
+–
+– Estudio de los ciclos frigoríficos y sus parámetros de funcionamiento.
+–
+– Incidencia de la modificación de las variables del ciclo sobre la eficiencia 
+energética y otros factores.
+–
+– Aplicación de los fluidos refrigerantes y lubricantes:
+–
+– Clasificación de refrigerantes en función de sus características.
+–
+– Uso de fluidos secundarios sin cambio de estado.
+–
+– Lubricantes según el tipo de refrigerante. Miscibilidad y solubilidad.
+–
+– Mezclas de refrigerantes, características y deslizamiento.
+–
+– Factores de protección medioambiental, ODP, GWP, TEWI.
+–
+– Representación gráfica de esquemas frigoríficos, de climatización (calefacción, 
+refrigeración y ventilación) y ACS:
+–
+– Simbología normalizada utilizada en instalaciones frigoríficas, de climatización, 
+ACS y de ventilación.
+–
+– Interpretación y realización de esquemas de instalaciones frigoríficas, de 
+climatización, ACS y de ventilación.
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40603
+Miércoles, 21 de agosto de 2019
+–
+– Normalización.
+–
+– Aplicación de programas informáticos para la realización de esquemas de 
+instalaciones.
+2. Identificación y cálculo de los componentes de instalaciones de producción de 
+calor y ACS:
+–
+– Clasificación de las instalaciones térmicas según aplicación.
+–
+– Generadores de calor. Calderas (Murales electrónicas a gas, Estancas, de 
+condensación y de bajo NOx) y quemadores. Bombas de calor. Tipología, cálculo 
+y selección.
+–
+– Elementos de instalaciones de producción de calor por combustión. Calderas y 
+quemadores. Vasos de expansión. Chimeneas. Bombas y circuladores. Depósitos 
+acumuladores. Elementos auxiliares. Cálculo y selección.
+–
+– Elementos de evacuación y ventilación de los PDC (Productos Derivados de la 
+Combustión).
+–
+– Emisores, intercambiadores de calor y elementos terminales. Cálculo y selección.
+–
+– Dispositivos de control y seguridad.
+–
+– Reglamentación (RITE, RIGLO, RIP, entre otros).
+3. Descripción y cálculo de los componentes de instalaciones frigoríficas:
+–
+– Cámaras frigoríficas. Tipos y aplicaciones.
+–
+– Clasificación y características de los compresores frigoríficos. Selección. 
+Variación de capacidad.
+–
+– Condensadores y torres de enfriamiento de agua. Clasificación y funcionamiento. 
+Cálculo y selección.
+–
+– Evaporadores e intercambiadores de calor. Clasificación y funcionamiento. 
+Sistemas de desescarche. Cálculo y selección.
+–
+– Dispositivos de expansión (válvula de expansión termostática, válvula de 
+expansión electrónica, tubo capilar, entre otros). Cálculo y selección.
+–
+– Valvulería, (válvulas de presión constante, válvulas de retención, válvulas de 
+seguridad, válvulas motorizadas, entre otros). Cálculo y selección.
+–
+– Cálculo de tuberías de refrigerante.
+–
+– Elementos anexos al circuito. Filtros. Separadores de aceite. Recipientes de 
+líquido. Silenciadores. Separadores de aspiración.
+–
+– Sistemas de ahorro energético.
+–
+– Reglamentación.
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40604
+Miércoles, 21 de agosto de 2019
+4. Identificación y cálculo de componentes y equipos en instalaciones de climatización 
+y ventilación:
+–
+– Clasificación de las instalaciones de climatización y ventilación.
+–
+– Partes y elementos constituyentes.
+–
+– Dimensionado y selección de equipos.
+–
+– Plantas enfriadoras. Bombas de calor.
+–
+– Equipos de absorción.
+–
+– Unidades de tratamiento de aire.
+–
+– Distribución de aire en los locales. Rejillas y difusores. Unidades terminales.
+–
+– Reglamentación.
+5. Cálculo de redes de transporte de fluidos en instalaciones térmicas y de ventilación:
+–
+– Mecánica de fluidos aplicada al cálculo de instalaciones.
+–
+– Identificación y análisis de las características de los materiales utilizados en 
+tuberías para instalaciones térmicas.
+–
+– Bombas y ventiladores. Clasificación, características y selección.
+–
+– Diseño y cálculo de redes de conductos. Pérdida de carga, velocidad y caudal.
+–
+– Diseño y cálculo de redes de tuberías. Pérdida de carga, velocidad y caudal.
+–
+– Tipos de bombas para fluidos. Campo de aplicación. Curva característica de una 
+bomba.
+–
+– Diseño y cálculo de redes de GN, GLP y Gasóleo. Pérdida de carga, velocidad 
+y caudal.
+6. Configuración de instalaciones de protección contra incendios:
+–
+– Comportamiento del fuego.
+–
+– Cálculo de la carga de incendio de un local o edificio y clasificación del mismo.
+–
+– Clasificación de los sistemas de detección y de alarma de incendio.
+–
+– Clasificación de los sistemas de extinción portátil.
+–
+– Clasificación y cálculo de los sistemas de extinción automática.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional es un módulo de soporte por lo que contiene la formación 
+común necesaria para desempeñar las funciones de planificación, montaje y mantenimiento, 
+y se aplica en los procesos de las instalaciones térmicas y de fluidos.
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40605
+Miércoles, 21 de agosto de 2019
+La planificación, montaje y mantenimiento de las instalaciones térmicas y de fluidos 
+incluye aspectos como:
+–
+– La identificación de los equipos y de las instalaciones.
+–
+– La definición de aspectos y características técnicas de los equipos.
+–
+– La planificación del montaje de las instalaciones.
+–
+– El cumplimiento de la reglamentación vigente.
+Las actividades profesionales asociadas a estas funciones se aplican en:
+–
+– La configuración y cálculo de instalaciones térmicas y de fluidos a partir de un 
+anteproyecto.
+–
+– La supervisión del montaje de instalaciones térmicas y de fluidos.
+–
+– El mantenimiento de instalaciones térmicas y de fluidos.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales a), 
+b), c), d), e), f), g), h), i), j), k), m) y p) del ciclo formativo y las competencias profesionales, 
+personales y sociales a), b), c), d), e), f), g), i), j), m) y ñ) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+–
+– El cálculo de cargas térmicas sobre supuestos de instalaciones de calefacción, 
+refrigeración y climatización.
+–
+– El cálculo de redes de distribución de aire en instalaciones de climatización.
+–
+– El cálculo de instalaciones de calefacción por diferentes sistemas de distribución.
+–
+– La elaboración del ciclo frigorífico de instalaciones frigoríficas.
+–
+– El dimensionado de máquinas hidráulicas en instalaciones de bombeo, de 
+climatización y de calefacción.
+–
+– El cálculo de instalaciones contra incendio.
+–
+– El cálculo de los componentes de instalaciones frigoríficas, de climatización y de 
+calefacción.
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40606
+Miércoles, 21 de agosto de 2019
+Módulo profesional: Procesos de montaje de instalaciones.
+Equivalencia en créditos ECTS: 13.
+Código: 0122.
+Duración: 224 horas.
+Contenidos:
+1. Identificación de materiales y tratamientos anticorrosivos y antioxidantes:
+–
+– Propiedades generales de materiales.
+–
+– Tratamientos térmicos.
+–
+– Materiales utilizados en instalaciones térmicas. Ventajas e inconvenientes.
+–
+– Tuberías. Materiales, características y dimensiones.
+–
+– Corrosión y oxidación. Protección de materiales.
+–
+– Corrosión galvánica en las instalaciones.
+–
+– Accesorios para tubería utilizada en instalaciones térmicas y de fluidos.
+2. Mecanizado y conformado de materiales aplicados en los procesos de montaje de 
+instalaciones térmicas y de fluidos:
+–
+– Equipos y herramientas de mecanizado (clasificación, utilización).
+–
+– Instrumentos de medición y comparación.
+–
+– Operaciones de trazado según documentación gráfica.
+–
+– Operaciones de marcado según documentación gráfica.
+–
+– Conocimiento de tipos de roscas.
+–
+– Operaciones de cortado, taladrado y roscado (interior y exterior), curvado, 
+ensanchado y soldado, de tuberías de plásticos y de acero, tanto eléctrico como 
+de calefacción (negro).
+–
+– Curvado, abocardado abocinado (para conexiones SAE) y ensanchado de 
+tuberías de cobre.
+–
+– Trazado, corte y construcción de conductos de aire a partir de plancha (método 
+del tramo recto y por tapas).
+–
+– Mecanizado en conductos de chapa y de otros materiales rígidos para ventilación 
+y extracción.
+–
+– Medidas de seguridad en operaciones de mecanizado y conformado.
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40607
+Miércoles, 21 de agosto de 2019
+3. Ejecución de uniones no soldadas:
+–
+– Uniones no soldadas y tipos de materiales.
+–
+– Secuencia de operaciones.
+–
+– Preparación de las zonas de unión.
+–
+– Elección y manejo de herramientas.
+–
+– Operaciones de roscado, atornillado, pegado, engatillado, remachado, 
+abocardado y ensanchado.
+–
+– Uniones Press-Fitting. Para instalaciones de agua en tuberías de cobre y 
+elementos de medición en instalaciones frigoríficas.
+–
+– Medidas de seguridad en operaciones de uniones no soldadas.
+–
+– Normas de utilización de medios, equipos y espacios.
+4. Soldadura aplicada en los procesos de montaje de instalaciones térmicas y de 
+fluidos:
+–
+– Materiales base según tipo de soldadura.
+–
+– Tipos de soldadura y simbología utilizada.
+–
+– Selección de soldadura en función de los materiales.
+–
+– Soldadura eléctrica (principios, procedimientos y herramientas).
+–
+– Soldadura MIG, TIG (principios, procedimientos, herramientas).
+–
+– Soldadura por termofusión (procedimientos, componentes).
+–
+– Soldadura por llama (oxiacetileno, butano, entre otros).
+–
+– Parámetros para la ejecución de la soldadura.
+–
+– Procedimientos de soldadura.
+–
+– Medidas de seguridad en operaciones de soldadura. Elementos de protección 
+personal, en las operaciones de soldadura.
+–
+– Normas de utilización de medios, equipos y espacios.
+5. Montaje básico de equipos frigoríficos:
+–
+– Técnicas de replanteo y ubicación de equipos, líneas, entre otros.
+–
+– Cimentaciones y bancadas de compresores herméticos y soportes para unidades 
+condensadoras y evaporadoras.
+–
+– Soportes y fijaciones de equipos y líneas de fluidos en general.
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40608
+Miércoles, 21 de agosto de 2019
+–
+– Asentamiento, fijación, nivelación y montaje de antivibradores en compresores y 
+de pequeñas máquinas en general.
+–
+– Montaje de líneas de refrigerantes y circuitos asociados.
+–
+– Montaje de elementos asociados (filtros, visores, válvulas de expansión, válvulas, 
+depósitos de líquido, presostatos, válvulas solenoides, llave de carga entre otros).
+–
+– Calorifugado de líneas y elementos asociados.
+–
+– Medidas de seguridad en operaciones de montaje de instalaciones.
+6. Montaje básico de equipos y elementos de instalaciones de producción de calor 
+y de fluidos:
+–
+– Técnicas de replanteo y ubicación de equipos, líneas, entre otros.
+–
+– Cimentaciones y bancadas de calderas individuales, calentadores, entre otros.
+–
+– Soportes y fijaciones de equipos y líneas de fluidos en general.
+–
+– Asentamiento, fijación, nivelación de calderas individuales, calentadores y 
+elementos de la instalación.
+–
+– Montaje de líneas de calefacción, ACS y combustibles.
+–
+– Montaje de líneas de gas natural, G.L.P, Para redes de AP/MPB/MPA/BP.
+–
+– Montaje de elementos asociados (unidades terminales, purgadores, detentores, 
+válvulas de zona, llaves de paso (normales y termostáticas) válvulas de reglaje, 
+tapones, válvulas, entre otros).
+–
+– Medidas de seguridad en operaciones de montaje de instalaciones.
+7. Realización de pruebas de estanqueidad de instalaciones térmicas y de fluidos:
+–
+– Pruebas de estanqueidad (prueba de vacío de las instalaciones frigoríficas 
+y pruebas de presión en las instalaciones de calefacción y ACS). Equipos e 
+instrumentos de medida de presión.
+–
+– Normativa de aplicación.
+–
+– Medidas de seguridad.
+8. Montaje de sistemas eléctricos asociados a instalaciones térmicas básicas:
+–
+– Protecciones eléctricas en la instalación térmica.
+–
+– Tipos de arranque de compresores monofásicos y trifásicos.
+–
+– Elaboración e interpretación de los esquemas eléctricos de la instalación.
+–
+– Montaje y conexión de elementos de las instalaciones (presostatos, termostatos, 
+sondas de presión y temperatura, válvulas solenoides, termopares, entre otros).
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40609
+Miércoles, 21 de agosto de 2019
+–
+– Conexión de elementos de desescarche por resistencia eléctrica.
+–
+– Mando de las instalaciones mediante autómatas programables.
+9. Puesta en marcha de instalaciones térmicas:
+–
+– Secuencia de puesta en funcionamiento.
+–
+– Técnicas de localización y reparación de fugas de fluido en las instalaciones.
+–
+– Verificación del conexionado eléctrico previos a la puesta en funcionamiento.
+–
+– Puentes manométricos.
+–
+– Deshidratado, vacío y carga de circuito frigorífico.
+–
+– Llenado, purgado de instalaciones de calefacción y ACS.
+–
+– Parámetros de funcionamiento de instalaciones térmicas.
+–
+– Ajustes y correcciones posteriores a la puesta en funcionamiento de la instalación 
+según criterios de eficiencia energética.
+–
+– Medidas de seguridad en operaciones de puesta en funcionamiento.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional es un módulo de soporte por lo que contiene la formación 
+básica necesaria para desempeñar la función del montaje y se aplica a las instalaciones 
+térmicas y de fluidos.
+La función del montaje de las instalaciones térmicas y de fluidos incluye aspectos 
+como:
+La aplicación de las técnicas de conformado y unión de materiales.
+–
+– La ejecución de las operaciones de montaje de pequeñas instalaciones térmicas 
+y de fluidos.
+–
+– La selección y utilización de herramientas y equipos de medida.
+–
+– La puesta en marcha de pequeñas instalaciones.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+a), h), i), k), l) y m) del ciclo formativo y las competencias profesionales, personales y 
+sociales a), b), e), f), g), h), j), m), ñ), o), p), q) y r) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional están relacionados con:
+–
+– El proceso de adaptación del alumno a las actividades que se desarrollarán en 
+los talleres.
+–
+– La realización de las técnicas de conformado y unión teniendo en cuenta la 
+disponibilidad de espacios y de los recursos humanos y materiales.
+–
+– El montaje de pequeñas instalaciones térmicas y de fluidos, utilizando como 
+recursos las instalaciones, herramientas y equipos tanto de uso común como 
+específicos de este tipo de instalaciones.
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40610
+Miércoles, 21 de agosto de 2019
+Módulo profesional: Representación gráfica de instalaciones.
+Equivalencia en créditos ECTS: 7.
+Código: 0123.
+Duración: 128 horas.
+Contenidos:
+1. Representación de elementos y equipos de instalaciones térmicas y de fluidos:
+–
+– Documentación gráfica. Normas generales de representación. Normativa técnica, 
+UNE, EN, ISO.
+–
+– Metrotecnia y elementos de medida (calibre o pie de rey, medidores láser, etc.).
+–
+– Planos de edificación. Plano de situación. Plantas. Alzados. Secciones. Detalles 
+constructivos. Elementos de la edificación relacionados con las instalaciones 
+térmicas (locales, salas de calderas, terrazas, etc.).
+–
+– Sistemas de representación.
+–
+– Simbología: neumática, hidráulica, eléctrica, entre otros.
+–
+– Especificaciones técnicas.
+–
+– Terminología y simbología de instalaciones: caloríficas, frigoríficas, climatización-
+ventilación, redes de fluidos y sistemas asociados.
+–
+– Utilización de TIC.
+2. Elaboración de esquemas de instalaciones térmicas y de fluidos:
+–
+– Programas informáticos de aplicación.
+–
+– Diagramas de bloques. Jerarquía. Conexiones.
+–
+– Bibliotecas de símbolos.
+–
+– Utilización de herramientas de edición.
+–
+– Esquemas de principio para instalaciones (frío y climatización, agua y gas, 
+energía solar térmica, etc.).
+–
+– Esquemas eléctricos.
+–
+– Sistemas de automatización y control.
+–
+– Esquemas de regulación y control.
+3. Elaboración de planos generales de instalaciones térmicas y de fluidos:
+–
+– Programas informáticos de aplicación.
+–
+– Dibujo en 2D.
+–
+– Elaboración e inserción de bloques.
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40611
+Miércoles, 21 de agosto de 2019
+–
+– Utilización de capas.
+–
+– Normas generales de representación gráfica:
+–
+– Formatos.
+–
+– Escalas.
+–
+– Tipos de líneas.
+–
+– Vistas.
+–
+– Acotación.
+–
+– Planos de conjuntos de máquinas.
+–
+– Normativa específica de aplicación a las instalaciones térmicas y de fluidos:
+–
+– Disposición de elementos.
+–
+– Trazado de redes.
+–
+– Ubicación de equipos.
+–
+– Elementos singulares.
+4. Elaboración de planos de detalle e isometrías de instalaciones térmicas y de 
+fluidos:
+–
+– Programas informáticos de aplicación.
+–
+– Dibujo en 3D.
+–
+– Elementos estructurales de construcción mecánica.
+–
+– Isometrías de redes de fluidos.
+–
+– Isometrías para el montaje de instalaciones.
+–
+– Adaptación de normas tecnológicas de aplicación.
+–
+– Normas de representación gráfica:
+–
+– Identificación de materiales.
+–
+– Cortes, secciones y roturas.
+–
+– Indicaciones y leyendas.
+–
+– Elaboración de detalles constructivos. Indicaciones para el montaje.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional es un módulo de soporte por lo que contiene la formación 
+necesaria para desempeñar la función de diseño aplicada en los procesos de las 
+instalaciones térmicas y de fluidos en edificios y procesos industriales.
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40612
+Miércoles, 21 de agosto de 2019
+La representación gráfica de instalaciones asociada a la función de diseño incluye 
+aspectos como:
+–
+– La identificación de máquinas y equipos de las instalaciones.
+–
+– El análisis de la documentación técnica.
+–
+– El desarrollo de planos y esquemas de instalaciones térmicas.
+Las actividades profesionales asociadas a esta función se aplican en:
+–
+– Desarrollo de proyectos de instalaciones térmicas.
+–
+– Planificación del montaje y del mantenimiento.
+–
+– Gestión del montaje y del mantenimiento.
+–
+– Supervisión del montaje y del mantenimiento de instalaciones.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+a), b), e), g) y h) y las competencias profesionales, personales y sociales a), c), i), j), m), 
+ñ) y r) del título.
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar 
+los objetivos del módulo profesional versarán sobre:
+–
+– La identificación de la simbología de los elementos y componentes de los equipos 
+de instalaciones térmicas.
+–
+– El análisis del funcionamiento de las instalaciones.
+–
+– La representación de piezas y esquemas de instalaciones de equipos y máquinas 
+aplicando técnicas de CAD.
+–
+– La elaboración de planos de conjunto y de detalles de instalaciones térmicas.
+–
+– La aplicación de programas informáticos en el trazado de diagramas de principio 
+de instalaciones térmicas.
+Módulo profesional: Energías renovables y eficiencia energética.
+Equivalencia en créditos ECTS: 4.
+Código: 0124.
+Duración: 96 horas.
+Contenidos:
+1. Cálculo del ahorro energético y la emisión de gases de instalaciones de energías 
+renovables comparándolas con instalaciones convencionales:
+–
+– Análisis de las Fuentes de Energía:
+–
+– Recursos energéticos disponibles para instalaciones térmicas.
+–
+– Impacto medioambiental de las energías convencionales.
+–
+– Evaluación del potencial de la energía solar térmica.
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40613
+Miércoles, 21 de agosto de 2019
+–
+– Evaluación del potencial de la energía geotérmica.
+–
+– Evaluación del potencial de la energía procedente de la biomasa.
+–
+– Aprovechamiento de la energía residual en instalaciones térmicas.
+–
+– Cálculo de la producción equivalente de emisiones de CO2.
+–
+– Rendimiento energético en instalaciones térmicas.
+–
+– Equipos para la generación de calor y frío. Prestaciones.
+–
+– Contribución de la regulación y el control de las instalaciones a la mejora de la 
+eficiencia energética.
+–
+– Contabilización de consumos de instalaciones térmicas.
+–
+– Recuperación de energía en instalaciones térmicas. Valoración del ahorro 
+energético.
+–
+– Contribución a la reducción de emisiones.
+–
+– Programas informáticos específicos para el cálculo del ahorro energético.
+2. Cálculo de pérdidas de radiación solar para instalaciones solares térmicas:
+–
+– Condiciones del entorno.
+–
+– Análisis del emplazamiento.
+–
+– Características físicas y astronómicas del sol. Movimiento solar diario y estacional.
+–
+– Estudio de sombras. Obstáculos. Cartas solares.
+–
+– Estudio de pérdidas por orientación e inclinación.
+–
+– Tablas de radiación.
+–
+– Cálculo de la energía incidente.
+–
+– Elaboración de la memoria justificativa.
+3. Cálculo de radiación absorbida en instalaciones solares térmicas:
+–
+– Análisis de características constructivas de un captador solar. Efecto invernadero.
+–
+– Principio de funcionamiento del captador de placa plana.
+–
+– Componentes de un captador. Revestimientos.
+–
+– Ecuación de rendimiento de un captador. Factores que intervienen.
+–
+– Análisis de curvas de rendimiento.
+–
+– Cálculo de la radiación absorbida por un captador. Curva de rendimiento.
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40614
+Miércoles, 21 de agosto de 2019
+–
+– Cálculo de necesidades térmicas de una instalación según reglamentación 
+vigente.
+–
+– Principio de funcionamiento del captador de tubo de vacío.
+–
+– Captadores de piscina.
+4. Dimensionado de instalaciones solares en edificios aplicando criterios de eficiencia 
+energética:
+–
+– Estudio de la eficiencia energética de las instalaciones térmicas. Rendimiento 
+energético de los equipos. Inspecciones y procedimientos de verificación de la 
+eficiencia energética. Aplicación de criterios de eficiencia energética.
+–
+– Sistema de almacenamiento, distribución y control en instalaciones solares 
+térmicas.
+–
+– Intercambiadores de calor.
+–
+– Determinación del volumen de acumulación. Selección de acumuladores. Zonas 
+geográficas.
+–
+– Distribución de captadores.
+–
+– Equilibrado hidráulico de la instalación.
+–
+– Cálculo de tuberías y circuladores.
+–
+– Determinación de sistemas de regulación.
+–
+– Cálculo de vaso de expansión.
+–
+– Válvulas de seguridad, antirretorno. Protección contra hielo y exceso de 
+temperatura.
+–
+– Sistemas de distribución centralizados y descentralizados. Instalaciones 
+colectivas e individuales.
+–
+– Memoria de la instalación. Planos. Presupuestos.
+–
+– Programas informáticos específicos para la selección de componentes.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación común necesaria para desempeñar 
+las funciones de diseño, montaje y mantenimiento, y se aplica en los procesos de las 
+instalaciones de energías renovables y el ahorro energético de las instalaciones térmicas.
+El diseño, montaje y mantenimiento de las instalaciones térmicas y de fluidos incluye 
+aspectos como:
+–
+– La identificación de los equipos y de las instalaciones.
+–
+– La definición de aspectos y características técnicas de los equipos.
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40615
+Miércoles, 21 de agosto de 2019
+–
+– La configuración de las instalaciones solares térmicas.
+–
+– El cumplimiento de la reglamentación vigente.
+Las actividades profesionales asociadas a estas funciones se aplican en:
+–
+– La configuración y cálculo de instalaciones solares térmicas.
+–
+– El cálculo de los consumos energéticos de las instalaciones térmicas.
+–
+– La mejora de la eficiencia energética de las instalaciones térmicas.
+–
+– La supervisión del montaje de instalaciones térmicas y de fluidos.
+–
+– El mantenimiento de instalaciones térmicas y de fluidos.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+a), b), c), d), e), f), g), h), j), k), m) y o) del ciclo formativo y las competencias profesionales, 
+personales y sociales a), b), c), d), e), f), g), h), i), j), k), l), m), ñ) y q) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+–
+– La valoración de la contribución a la mejora de la eficiencia energética de las 
+fuentes de energía renovable.
+–
+– El cálculo del ahorro energético y de la reducción de emisiones de las distintas 
+instalaciones térmicas.
+–
+– El cálculo de las pérdidas por sombras y orientación e inclinación y la energía 
+disponible de los captadores solares térmicos.
+–
+– El dimensionado de equipos y la configuración de instalaciones solares térmicas.
+Módulo profesional: Configuración de instalaciones de climatización, 
+calefacción y ACS.
+Equivalencia en créditos ECTS: 10.
+Código: 0125.
+Duración: 168 horas.
+Contenidos:
+1. Determinación de las características generales de instalaciones de climatización, 
+calefacción y ACS en función de los criterios de diseño:
+–
+– Documentación técnica.
+–
+– Demanda de potencia térmica. Demanda por estancias. Horario de ocupación. 
+Simultaniedades.
+–
+– Cálculo de necesidades en instalaciones de climatización, calefacción y ACS.
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40616
+Miércoles, 21 de agosto de 2019
+–
+– Cálculo de necesidades en instalaciones de ventilación. Calidad del aire. Nuevas 
+tendencias.
+–
+– Cálculo de las necesidades de alimentación de combustibles líquidos, gaseosos 
+y sólidos.
+–
+– Aislamiento térmico. Materiales. Sistemas constructivos más usuales.
+–
+– Reglamentos de aplicación.
+–
+– Control de legionelosis.
+2. Configuración y selección de equipos y elementos de instalaciones térmicas:
+–
+– Instalaciones de climatización, calefacción y ACS:
+–
+– Tipología y características técnicas de los equipos y elementos constituyentes.
+–
+– Cálculo y dimensionado.
+–
+– Selección de equipos.
+–
+– Instalaciones solares térmicas:
+–
+– Cálculo y dimensionado. 
+–
+– Criterios de seguridad. Aplicación. 
+–
+– Croquis de distribución de equipos. 
+–
+– Redes de tuberías y conductos para la distribución de fluidos caloportadores.
+–
+– Programas informáticos.
+–
+– Redes de suministro de combustibles líquidos, gaseosos y sólidos:
+–
+– Cálculo y dimensionado.
+–
+– Criterios de seguridad. Aplicación.
+–
+– Croquis de distribución y suministro de combustibles líquidos, gaseosos y 
+sólidos.
+–
+– Redes de tuberías y conductos para la distribución de combustibles. líquidos, 
+gaseosos y sólidos.
+–
+– Redes de agua para instalaciones de climatización, calefacción y ACS:
+–
+– Identificación y análisis de las características de los materiales utilizados en 
+tuberías. 
+–
+– Cálculo de redes de tuberías. Pérdidas de carga, velocidades, entre otros. 
+Equilibrado hidráulico. 
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40617
+Miércoles, 21 de agosto de 2019
+–
+– Elementos de instalaciones de agua, bombas, circuladores, depósitos 
+acumuladores y vasos de expansión. 
+–
+– Selección de los elementos de seguridad y control.
+–
+– Redes de conductos de aire:
+–
+– Cálculo y trazado de conductos de aire. Conductos de impulsión, retorno, 
+extracción y renovación.
+–
+– Selección de ventiladores.
+–
+– Selección de rejillas y difusores.
+–
+– Dimensionado y selección de equipos de recuperación de energía en 
+instalaciones térmicas.
+–
+– Dimensionado y selección de otros componentes de instalaciones de aire 
+acondicionado y ventilación.
+–
+– Programas informáticos.
+3. Representación gráfica de instalaciones térmicas:
+–
+– Representación de instalaciones de climatización.
+–
+– Representación de instalaciones de calefacción.
+–
+– Representación de instalaciones de suministro de combustibles líquidos, 
+gaseosos y sólidos.
+–
+– Representación de instalaciones de ACS.
+–
+– Representación de instalaciones solares.
+–
+– Representación de redes de agua para instalaciones térmicas.
+–
+– Representación de redes de conductos de aire.
+–
+– Dibujo Asistido por Ordenador. Programas informáticos. Impresión de planos.
+4. Elaboración de presupuestos de instalaciones térmicas:
+–
+– Mediciones. Criterios de medición. 
+–
+– Presupuestos. Capítulos. Unidades de obra. Criterios para la valoración. 
+–
+– Aplicaciones informáticas. Uso de bases de datos de precios.
+5. Proyectos de instalaciones térmicas en edificios:
+–
+– Normas aplicables a la redacción de proyectos.
+–
+– Reglamentación aplicable a proyectos de instalaciones térmicas.
+–
+– Documentos del proyecto.
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40618
+Miércoles, 21 de agosto de 2019
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación común necesaria para desempeñar 
+las funciones de configuración, montaje y mantenimiento, y se aplica en los procesos de 
+las instalaciones térmicas y de fluidos en los edificios.
+La configuración, montaje y mantenimiento de las instalaciones térmicas y de fluidos 
+incluye aspectos como:
+–
+– El cálculo de necesidades térmicas.
+–
+– El dimensionado y selección de equipos.
+–
+– La selección y dimensionado de suministro de combustibles líquidos, gaseosos 
+y sólidos.
+–
+– La configuración de instalaciones de suministro de combustibles líquidos, 
+gaseosos y sólidos.
+–
+– La configuración de instalaciones térmicas y de fluidos.
+–
+– La elaboración de la documentación técnica necesaria.
+–
+– El cumplimiento de la reglamentación vigente.
+Las actividades profesionales asociadas a estas funciones se aplican en:
+–
+– La configuración y cálculo de instalaciones térmicas, de fluidos y combustibles a 
+partir de un anteproyecto.
+–
+– La supervisión del montaje de instalaciones térmicas, de fluidos y de combustibles.
+–
+– El mantenimiento de instalaciones térmicas y de fluidos.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+a), b), c), d), e), f), g), h), j), m), ñ) y o) del ciclo formativo y las competencias profesionales, 
+personales y sociales a), b), c), d), f), g), i), j), l), m) y ñ) del título.
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar 
+los objetivos del módulo profesional versarán sobre:
+–
+– El establecimiento del programa de necesidades de instalaciones térmicas.
+–
+– La selección de equipos y elementos necesarios en las instalaciones térmicas.
+–
+– La selección de equipos y elementos necesarios para el suministro de 
+combustibles.
+–
+– La configuración de instalaciones térmicas en edificios.
+–
+– La representación de los planos necesarios para la ejecución de instalaciones 
+térmicas.
+–
+– La elaboración de la documentación técnica necesaria.
+–
+– La elaboración de la documentación técnica para legalizar las instalaciones.
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40619
+Miércoles, 21 de agosto de 2019
+Módulo profesional: Configuración de instalaciones frigoríficas.
+Equivalencia en créditos ECTS: 10.
+Código: 0126.
+Duración: 126 horas.
+Contenidos:
+1. Determinación de las características generales de instalaciones frigoríficas en 
+función de los criterios de diseño:
+–
+– Documentación técnica.
+–
+– Cálculo de necesidades en instalaciones frigoríficas.
+–
+– Determinación de la potencia necesaria.
+–
+– Aislamiento térmico. Materiales.
+–
+– Reglamentos de aplicación.
+–
+– Esquemas de distribución de equipos.
+–
+– Evolución tecnológica.
+2. Configuración de redes de tuberías de refrigerante y fluidos secundarios:
+–
+– Selección de equipos y elementos de las instalaciones frigoríficas:
+–
+– Instalaciones frigoríficas. Tipología y características técnicas de los equipos y 
+elementos constituyentes.
+–
+– Dimensionado y selección de equipos y componentes.
+–
+– Criterios de seguridad. Aplicación.
+–
+– Redes de tuberías de refrigerante para instalaciones frigoríficas:
+–
+– Identificación y análisis de las características de los materiales utilizados en 
+tuberías en función del tipo de refrigerante utilizado.
+–
+– Cálculo de redes de tuberías. Pérdidas de carga, velocidades, entre otros.
+–
+– Redes de tuberías de fluidos secundarios para instalaciones frigoríficas:
+–
+– Identificación y análisis de las características de los materiales utilizados en 
+tuberías en fluidos secundarios para instalaciones frigoríficas.
+–
+– Cálculo de redes de tuberías. Pérdidas de carga, velocidades, entre otros. 
+Equilibrado hidráulico.
+–
+– Elementos de instalaciones, bombas, depósitos, acumuladores y vasos de 
+expansión.
+–
+– Selección de los elementos de seguridad y control.
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40620
+Miércoles, 21 de agosto de 2019
+3. Representación gráfica de instalaciones frigoríficas:
+–
+– Simbología normalizada. Interpretación de planos.
+–
+– Esquemas de distribución. Planos generales.
+–
+– Planos de detalle. Planos de montaje. Isometrías.
+–
+– Dibujo Asistido por Ordenador. Programas informáticos.
+–
+– Impresión de planos.
+4. Elaboración de presupuestos de instalaciones frigoríficas:
+–
+– Mediciones. Criterios de medición.
+–
+– Presupuestos. Capítulos. Unidades de obra. Criterios para la valoración.
+–
+– Aplicaciones informáticas. Uso de bases de datos de precios.
+5. Redacción de proyectos de instalaciones frigoríficas:
+–
+– Normas aplicables a la redacción de proyectos.
+–
+– Reglamentación aplicable a proyectos de instalaciones frigoríficas.
+–
+– Documentos del proyecto.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación común necesaria para desempeñar 
+las funciones de configuración, montaje y mantenimiento, y se aplica en los procesos de 
+las instalaciones frigoríficas.
+La configuración, montaje y mantenimiento de las instalaciones frigoríficas incluye 
+aspectos como:
+–
+– El cálculo de necesidades frigoríficas.
+–
+– El dimensionado y selección de equipos.
+–
+– La configuración de instalaciones frigoríficas.
+–
+– La elaboración de la documentación técnica necesaria.
+–
+– El cumplimiento de la reglamentación vigente.
+Las actividades profesionales asociadas a estas funciones se aplican en:
+–
+– La configuración y cálculo de instalaciones frigoríficas a partir de un anteproyecto.
+–
+– La supervisión del montaje de instalaciones frigoríficas.
+–
+– El mantenimiento de instalaciones frigoríficas.
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40621
+Miércoles, 21 de agosto de 2019
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+a), b), c), d), e), f), g), h), j), m), ñ) y o) del ciclo formativo y las competencias profesionales, 
+personales y sociales a), b), c), d), f), g), i), j), l), m) y ñ) del título.
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar 
+los objetivos del módulo profesional versarán sobre:
+–
+– El establecimiento del programa de necesidades de instalaciones frigoríficas.
+–
+– La selección de equipos y elementos necesarios en las instalaciones frigoríficas.
+–
+– La configuración de instalaciones frigoríficas.
+–
+– La elaboración de la documentación técnica de instalaciones frigoríficas.
+Módulo profesional: Configuración de instalaciones de fluidos.
+Equivalencia en créditos ECTS: 10.
+Código: 0127.
+Duración: 126 horas.
+1. Cálculo de las necesidades de instalaciones de fluidos (aire comprimido, red de 
+extinción contra incendios, abastecimiento de combustibles líquidos, gaseosos y sólidos, 
+entre otras):
+–
+– Documentación técnica.
+–
+– Tipos de instalaciones de fluidos.
+–
+– Cálculo de necesidades en instalaciones de fluidos.
+–
+– Soluciones de configuración y viabilidad.
+–
+– Programas informáticos.
+–
+– Reglamentos de aplicación.
+2. Configuración de redes de distribución de fluidos y abastecimiento de combustibles 
+líquidos, gaseosos y sólidos:
+–
+– Equipos y elementos de redes de distribución de fluidos:
+–
+– Tipología y características técnicas de equipos y elementos constituyentes.
+–
+– Dimensionado y selección de equipos y componentes de cada instalación.
+–
+– Criterios de seguridad. Aplicación.
+–
+– Croquis de distribución de equipos.
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40622
+Miércoles, 21 de agosto de 2019
+–
+– Redes de tuberías de fluidos y abastecimiento de combustibles líquidos, gaseosos 
+y sólidos:
+–
+– Identificación y análisis de las características de los materiales utilizados en 
+tuberías en función del tipo de fluido.
+–
+– Cálculo de redes de tuberías. Pérdidas de carga, velocidades, entre otros. 
+Equilibrado hidráulico.
+–
+– Elementos de instalaciones, compresores, bombas, depósitos, acumuladores, 
+vasos de expansión, entre otros.
+–
+– Selección de los elementos de seguridad y control.
+3. Representación gráfica de instalaciones de fluidos y abastecimiento de 
+combustibles líquidos, gaseosos y sólidos:
+–
+– Simbología normalizada. Interpretación de planos.
+–
+– Esquemas de distribución. Planos generales.
+–
+– Planos de detalle. Planos de montaje. Isometrías. 
+–
+– Dibujo asistido por ordenador. Programas informáticos. Impresión de planos.
+–
+– Confección de boletines de instalación.
+4. Elaboración de mediciones y valoraciones de instalaciones frigoríficas, de fluidos 
+y abastecimiento de combustibles líquidos, gaseosos y sólidos:
+–
+– Mediciones. Criterios de medición. 
+–
+– Presupuestos. Capítulos. Unidades de obra. Criterios para la valoración. 
+–
+– Aplicaciones informáticas. Uso de bases de datos de precios.
+5. Redacción de proyectos de instalaciones de fluidos y abastecimiento de 
+combustibles líquidos, gaseosos y sólidos:
+–
+– Normas aplicables a la redacción de proyectos. 
+–
+– Reglamentación aplicable a proyectos de instalaciones de fluidos.
+–
+– Documentos del proyecto.
+Orientaciones pedagógicas. 
+Este módulo profesional contiene la formación común necesaria para desempeñar 
+las funciones de configuración, montaje y mantenimiento, y se aplica en los procesos de 
+las instalaciones de fluidos.
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40623
+Miércoles, 21 de agosto de 2019
+La configuración, montaje y mantenimiento de las instalaciones de fluidos incluye 
+aspectos como:
+–
+– El análisis y valoración de diversas opciones para la configuración de instalaciones 
+de fluidos. 
+–
+– El dimensionado de las redes y selección de materiales.
+–
+– El dimensionado y selección de los equipos de instalaciones de fluidos y 
+abastecimiento de combustibles líquidos, gaseosos y sólidos.
+–
+– La elaboración de la documentación técnica necesaria.
+–
+– El cumplimiento de la reglamentación vigente.
+Las actividades profesionales asociadas a estas funciones se aplican en:
+–
+– La configuración y cálculo de instalaciones de fluidos y abastecimiento de 
+combustibles líquidos, gaseosos y sólidos a partir de un anteproyecto.
+–
+– La supervisión del montaje de instalaciones de fluidos y abastecimiento de 
+combustibles líquidos, gaseosos y sólidos.
+–
+– El mantenimiento de instalaciones fluidos y abastecimiento de combustibles 
+líquidos, gaseosos y sólidos.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+a), b), c), d), e), f), g), h), j), m), ñ) y o) del ciclo formativo y las competencias profesionales, 
+personales y sociales a), b), c), d), f), g), i) j), l), m) y ñ) del título.
+Las líneas de actuación en el proceso enseñanza aprendizaje que permiten alcanzar 
+los objetivos del módulo profesional versarán sobre:
+–
+– La selección de materiales adecuados para los diferentes tipos de redes de 
+fluidos de acuerdo con la reglamentación vigente.
+–
+– La selección de equipos y elementos necesarios en las instalaciones de fluidos y 
+abastecimiento de combustibles líquidos, gaseosos y sólidos.
+–
+– La configuración de instalaciones de fluidos y abastecimiento de combustibles 
+líquidos, gaseosos y sólidos.
+–
+– La elaboración de la documentación técnica para las instalaciones de fluidos y 
+abastecimiento de combustibles líquidos, gaseosos y sólidos.
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40624
+Miércoles, 21 de agosto de 2019
+Módulo profesional: Planificación del montaje de instalaciones.
+Equivalencia en créditos ECTS: 6.
+Código: 0128.
+Duración: 105 horas.
+Contenidos:
+1. Selección de documentación para la planificación del montaje:
+–
+– Estudio de seguridad. Evaluación de impacto ambiental.
+–
+– Partes generales de Proyectos. Memoria. Pliego de condiciones. Planos. 
+Mediciones y presupuesto.
+–
+– Memoria técnica: Justificación. Memoria descriptiva.
+–
+– Cálculos. Planos y esquemas.
+–
+– Certificaciones.
+–
+– Aplicación de las TIC en la búsqueda y acopio de información.
+2. Determinación de procesos de montaje:
+–
+– Procesos. Diagrama de las fases. Relaciones entre las fases.
+–
+– Características de las fases.
+–
+– Unidades de obra. Caracterización.
+–
+– Criterios de calidad, seguridad y respeto al medio ambiente.
+–
+– Aplicación de las TIC en la elaboración de los procesos de montaje.
+3. Elaboración de planes de montaje de instalaciones:
+–
+– Normas de seguridad y prevención de riesgos.
+–
+– Normas medioambientales en instalaciones térmicas y de fluidos.
+–
+– Especificaciones técnicas de montaje.
+–
+– Caracterización de actividades:
+–
+– Tiempos de ejecución.
+–
+– Recursos.
+–
+– Condiciones de seguridad.
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40625
+Miércoles, 21 de agosto de 2019
+–
+– Técnicas de programación:
+–
+– Diagramas de programación y control.
+–
+– Determinación del camino crítico.
+–
+– Tiempos de ejecución.
+–
+– Aplicaciones informáticas.
+–
+– Control del plan de montaje. Procedimientos para el seguimiento y control. 
+Contingencias. Alternativas.
+–
+– Ensayos y pruebas de las instalaciones.
+4. Programación del aprovisionamiento y almacenamiento:
+–
+– Homologación. Especificaciones técnicas.
+–
+– Medios de suministro de material.
+–
+– Plazos de entrega y calidad en el suministro.
+–
+– Sistemas de almacenaje. Condiciones de almacenamiento.
+–
+– Control de existencias.
+–
+– Sistemas informatizados de aprovisionamiento y almacenamiento.
+5. Elaboración de presupuestos de montaje:
+–
+– Unidades de obra. Mediciones.
+–
+– Cálculos parciales y totales de las instalaciones.
+–
+– Presupuesto general.
+–
+– Sistemas informatizados de elaboración de presupuestos.
+6. Elaboración de manuales de instrucciones de servicio de instalaciones:
+–
+– Manuales de operación. Especificaciones de los fabricantes.
+–
+– Manual de instrucciones de servicio. Normativa de aplicación.
+–
+– Puntos de inspección. Periodicidad.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar la función 
+de planificar el montaje aplicada en los procesos de las instalaciones térmicas y de fluidos 
+en edificios y procesos industriales.
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40626
+Miércoles, 21 de agosto de 2019
+La función de planificar el montaje incluye aspectos como:
+–
+– El análisis de la documentación técnica de las instalaciones.
+–
+– La elaboración de memorias y manuales para el montaje de instalaciones.
+–
+– La preparación de presupuestos de unidades de obra.
+–
+– La optimización de recursos en los procesos de ejecución del montaje.
+Las actividades profesionales asociadas a esta función se aplican en:
+–
+– Desarrollo de proyectos de instalaciones térmicas.
+–
+– Planificación del montaje.
+–
+– Gestión del montaje.
+–
+– Supervisión del montaje.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+a), e), f), g), h), i), j), k), l), m), n), o), p) y r) del ciclo formativo de desarrollo de proyectos de 
+instalaciones térmicas y de fluidos y las competencias profesionales, personales y sociales 
+a), b), c), e), f), g), h), i), j), k), l), m), n), o), p), q) y s) del título.
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar 
+los objetivos del módulo profesional versarán sobre:
+–
+– La identificación de elementos, máquinas y desarrollo de procesos de montaje, 
+utilizando como recurso la documentación técnica del proyecto.
+–
+– La elaboración de planes de montaje teniendo en cuenta la normativa vigente de 
+control de calidad, de prevención de riesgos y de gestión e impacto medioambiental, 
+utilizando como recurso los diagramas de programación y control.
+–
+– La elaboración de presupuestos de unidades de obra y aprovisionamiento de 
+materiales utilizando como recurso la documentación técnica del proyecto.
+–
+– Las especificaciones técnicas de montaje y seguimiento de pruebas de las 
+instalaciones de acuerdo a las condiciones del proyecto.
+–
+– La preparación del manual de instrucciones de las instalaciones térmicas 
+utilizando la información técnica de los equipos.
+Módulo profesional: Proyecto de instalaciones térmicas y de fluidos.
+Equivalencia en créditos ECTS: 5.
+Código: 0129.
+Duración: 30 horas.
+Orientaciones pedagógicas y metodológicas.
+Este módulo complementa la formación de otros módulos profesionales en las 
+funciones de diseño y planificación del montaje de instalaciones térmicas y de fluidos.
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40627
+Miércoles, 21 de agosto de 2019
+La función de diseño tiene como objetivo configurar las instalaciones, elaborar la 
+documentación necesaria para el proyecto, teniendo en cuenta criterios de eficiencia 
+energética, medioambientales y respetando la reglamentación vigente.
+La función de planificación tiene como objetivo establecer los criterios organizativos 
+del proceso; incluye las subfunciones de elaboración de instrucciones de trabajo, asignación 
+de recursos humanos, organización y optimización de procesos.
+Las actividades profesionales asociadas a estas funciones se desarrollan en los 
+subsectores de calefacción y ACS, refrigeración y climatización tanto en el sector industrial 
+como en el sector de edificación y obra civil.
+Por sus propias características, la formación del módulo profesional se relaciona con 
+todos los objetivos generales del ciclo y todas las competencias profesionales, personales 
+y sociales.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional están relacionadas con:
+–
+– La responsabilidad y la autoevaluación del trabajo realizado.
+–
+– La autonomía y la iniciativa.
+–
+– El uso de las tecnologías de la información y de la comunicación.
+–
+– El estímulo de la actividad emprendedora.
+–
+– La innovación en planteamiento y objetivos.
+La metodología aplicada en este módulo profesional debe favorecer experiencias de 
+aprendizaje fundamentadas en el conocimiento de: 
+–
+– Técnicas de análisis, investigación, búsqueda y recopilación de información. 
+–
+– Búsqueda de recursos bibliográficos. 
+–
+– Planificación, matriz, diseño, viabilidad y oportunidad, conclusiones y aportaciones 
+personales, manejo de normativa aplicable, desarrollo del proyecto. 
+También será necesaria la utilización de software específico, como procesadores de 
+texto, hojas de cálculo, programas de diseño asistido por ordenador, programas de cálculo 
+específicos y otros en la redacción del documento final, realizando su implementación en 
+el módulo profesional, para la consecución de los objetivos específicos relacionados con 
+el tipo de proyecto que desarrolle el alumnado. 
+Los trabajos a realizar sobre soporte informático se llevarán a cabo, de forma 
+individual. El alumnado deberá ser capaz de trabajar con autonomía y creatividad bajo los 
+parámetros de la calidad exigida, siempre bajo la orientación del profesor-tutor. 
+Las características del módulo profesional son conducentes a aplicar una metodología 
+interdisciplinar que favorezca el carácter global del aprendizaje en los tipos de proyecto 
+que así lo requieran; o bien que desarrolle metodologías que favorezcan la investigación, 
+la innovación o el desarrollo de algún aspecto concreto relacionado con las variables 
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40628
+Miércoles, 21 de agosto de 2019
+tecnológicas y organizativas relacionadas con los proyectos en el sector profesional del 
+técnico superior en desarrollo de proyectos de instalaciones térmicas y de fluidos, ya sea 
+desde el punto de vista técnico o de gestión. 
+Se propone que las tecnologías de la información y la comunicación, sean un 
+instrumento habitual, tanto por parte del profesor-tutor como por parte del alumnado, de 
+forma que éste adopte actitudes activas respecto de su propio aprendizaje mediante la 
+búsqueda bibliográfica y consulta en páginas web de toda la información necesaria para el 
+desarrollo del proyecto y como herramienta para facilitar la acción tutorial.
+El proyecto será realizado por el alumno, de forma individual preferentemente, 
+durante el tercer trimestre del segundo curso. El alumno será tutorizado por un profesor, 
+que imparta docencia en segundo curso del ciclo formativo, de las especialidades de 
+«Organización y Proyectos de Sistemas Energéticos» e «Instalación y Mantenimiento de 
+Equipos Térmicos y de Fluidos», de acuerdo con lo establecido en el Anexo III A) del Real 
+Decreto 219/2008, de 15 de febrero. No obstante, dado que los resultados de aprendizaje 
+y criterios de evaluación de este módulo complementan los del resto de los módulos 
+profesionales del ciclo y tiene un carácter integrador de los mismos, sería conveniente la 
+colaboración de todos los profesores con atribución docente en el ciclo formativo.
+Módulo profesional: Formación y orientación laboral.
+Equivalencia en créditos ECTS: 5.
+Código: 0130.
+Duración: 96 horas.
+Contenidos:
+BLOQUE A: Formación, legislación y relaciones laborales. 
+Duración: 46 horas.
+1. Búsqueda activa de empleo:
+–
+– Valoración de la importancia de la formación permanente para la trayectoria laboral 
+y profesional del técnico superior en desarrollo de proyectos de instalaciones 
+térmicas y de fluidos.
+–
+– Análisis de los intereses, aptitudes y motivaciones personales para la carrera 
+profesional.
+–
+– Identificación de los itinerarios formativos relacionados con el técnico superior en 
+desarrollo de proyectos de instalaciones térmicas y de fluidos.
+–
+– Definición y análisis del sector profesional del técnico superior en desarrollo de 
+proyectos de instalaciones térmicas y de fluidos. Yacimientos de empleo.
+–
+– Proceso de búsqueda de empleo en pequeñas, medianas y grandes empresas 
+del sector.
+–
+– Oportunidades de aprendizaje y empleo en Europa. Programas europeos.
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40629
+Miércoles, 21 de agosto de 2019
+–
+– Valoración de la empleabilidad y adaptación como factores clave para responder 
+a las exigencias del mercado laboral.
+–
+– Técnicas e instrumentos de búsqueda de empleo. Fuentes de información. El 
+proceso de selección.
+–
+– Oportunidades de autoempleo.
+–
+– El proceso de toma de decisiones.
+–
+– Normativa laboral sobre igualdad de oportunidades entre mujeres y hombres en 
+el acceso al empleo.
+2. Gestión del conflicto y equipos de trabajo:
+–
+– Valoración de las ventajas e inconvenientes del trabajo en equipo para la eficacia 
+de la organización.
+–
+– Concepto y tipos de equipos de trabajo. Formación y funcionamiento de equipos 
+eficaces.
+–
+– Equipos en el sector de la instalación  y mantenimiento según las funciones que 
+desempeñan.
+–
+– La participación en el equipo de trabajo. Los roles grupales. Barreras a la 
+participación en el equipo.
+–
+– Técnicas de participación y dinámicas de grupo.
+–
+– Conflicto: características, fuentes y etapas. 
+–
+– Métodos para la resolución o supresión del conflicto: mediación, conciliación y 
+arbitraje.
+–
+– La comunicación en la empresa. Lenguaje inclusivo escrito y verbal. La toma de 
+decisiones y la negociación como habilidades sociales para el trabajo en equipo 
+–
+– El mobbing. Detección, métodos para su prevención y erradicación.
+3. Contrato de trabajo:
+–
+– La organización política del Estado Español. Organismos laborales existentes en 
+España.
+–
+– El derecho del trabajo. Normas fundamentales.
+–
+– Órganos de la administración y jurisdicción laboral.
+–
+– Análisis de la relación laboral individual.
+–
+– Modalidades del contrato de trabajo y medidas de fomento de la contratación.
+–
+– Derechos y deberes derivados de la relación laboral. El tiempo de trabajo. Análisis 
+del recibo de salarios. Liquidación de haberes.
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40630
+Miércoles, 21 de agosto de 2019
+–
+– Modificación, suspensión y extinción del contrato de trabajo.
+–
+– Valoración de las medidas para la conciliación familiar y profesional.
+–
+– Representación de los trabajadores en la empresa.
+–
+– Negociación colectiva como medio para la conciliación de los intereses de 
+trabajadores y empresarios.
+–
+– Medidas de conflicto colectivo. Procedimientos de solución.
+–
+– Análisis de un convenio colectivo aplicable al ámbito profesional del técnico 
+superior en desarrollo de proyectos de instalaciones térmicas y de fluidos.
+–
+– Beneficios para los trabajadores en las nuevas organizaciones: flexibilidad, 
+beneficios sociales, entre otros.
+4. Seguridad Social, empleo y desempleo:
+–
+– La Seguridad Social como pilar del Estado Social de Derecho.
+–
+– Estructura del Sistema de la Seguridad Social. Regímenes.
+–
+– Determinación de las principales obligaciones de empresarios y trabajadores en 
+materia de Seguridad Social: afiliación, altas, bajas y cotización. Cálculo de bases 
+de cotización a la Seguridad Social y determinación de cuotas en un supuesto 
+sencillo.
+–
+– Prestaciones de la Seguridad Social. Situaciones protegibles en la protección 
+por desempleo. Cálculo de una prestación por desempleo de nivel contributivo 
+básico.
+BLOQUE B: Prevención de riesgos laborales.
+Duración: 50 horas.
+5. Evaluación de riesgos profesionales:
+–
+– Importancia de la cultura preventiva en todas las fases de la actividad. 
+Sensibilización, a través de las estadísticas de siniestralidad nacional y en Castilla 
+y León, de la necesidad de hábitos y actuaciones seguras.
+–
+– Valoración de la relación entre trabajo y salud.
+–
+– El riesgo profesional. Mapa de riesgos. Análisis de factores de riesgo.
+–
+– La evaluación de riesgos en la empresa como elemento básico de la actividad 
+preventiva.
+–
+– Análisis de riesgos ligados a las condiciones de seguridad.
+–
+– Análisis de riesgos ligados a las condiciones ambientales. Agentes físicos, 
+químicos y biológicos.
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40631
+Miércoles, 21 de agosto de 2019
+–
+– Análisis de riesgos ligados a las condiciones ergonómicas y psicosociales.
+–
+– Riesgos específicos en el sector de la instalación y el mantenimiento.
+–
+– Técnicas de evaluación de riesgos.
+–
+– Condiciones de seguridad y salud en los lugares de trabajo.
+–
+– Determinación de los posibles daños a la salud del trabajador que pueden 
+derivarse de las situaciones de riesgo detectadas.
+–
+– Los accidentes de trabajo, las enfermedades profesionales y otras patologías.
+6. Planificación de la prevención de riesgos en la empresa. Prevención integrada:
+–
+– Marco jurídico en materia de prevención de riesgos laborales.
+–
+– Derechos y deberes en materia de prevención de riesgos laborales. 
+Responsabilidades legales.
+–
+– Gestión de la prevención en la empresa. Documentación.
+–
+– Organismos públicos relacionados con la prevención de riesgos laborales.
+–
+– Planificación de la prevención en la empresa. Secuenciación de actuaciones.
+–
+– Definición del contenido del Plan de Prevención de un centro de trabajo 
+relacionado con el sector profesional.
+–
+– Planes de emergencia y de evacuación en entornos de trabajo.
+–
+– Elaboración de un plan de emergencia en una empresa del sector.
+7. Aplicación de medidas de prevención y protección en la empresa:
+–
+– Técnicas de lucha contra los daños profesionales. Seguridad en el trabajo. 
+Higiene industrial y otros.
+–
+– Determinación de las medidas de prevención y protección individual y colectiva.
+–
+– Señalización de seguridad.
+–
+– Protocolo de actuación ante una situación de emergencias.
+–
+– Primeros auxilios. Conceptos básicos. Aplicación de técnicas de primeros auxilios.
+–
+– Vigilancia de la salud de los trabajadores y especificidades de la salud laboral de 
+las trabajadoras.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para que el alumno 
+pueda insertarse laboralmente y desarrollar su carrera profesional en el sector de las 
+instalacioanes térmicas y de fluidos.
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40632
+Miércoles, 21 de agosto de 2019
+La formación de este módulo profesional contribuye a alcanzar los objetivos generales 
+n), o), p), q), r), s) y t) del ciclo formativo y las competencias n), o), p), q), r), s), t), u), v) y 
+w) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+–
+– El manejo de las fuentes de información sobre el sistema educativo y laboral, en 
+especial en lo referente a las empresas del sector de las instalaciones térmicas 
+y de fluidos.
+–
+– La realización de pruebas de orientación y dinámicas sobre la propia personalidad 
+y el desarrollo de las habilidades sociales.
+–
+– La preparación y realización de currículos (CVs) y entrevistas de trabajo.
+–
+– La identificación de la normativa laboral que afecta a los trabajadores del sector, 
+manejo de los contratos más comúnmente utilizados y lectura comprensiva de 
+los convenios colectivos de aplicación.
+–
+– La resolución de supuestos prácticos sencillos sobre materias de índole laboral 
+y de Seguridad Social.
+–
+– La cumplimentación de recibos de salario de diferentes características y otros 
+documentos relacionados.
+–
+– El análisis de la Ley de Prevención de Riesgos Laborales que le permita la 
+evaluación de los riesgos derivados de las actividades desarrolladas en su 
+sector productivo, y colaborar en la definición de un plan de prevención para una 
+pequeña empresa, así como en la elaboración de las medidas necesarias para 
+su implementación.
+–
+– En este módulo, especialmente en el bloque B «Prevención de riesgos laborales», 
+se tratan contenidos que están relacionados con otros módulos profesionales, 
+por lo que sería recomendable la realización coordinada de las programaciones 
+didácticas en dichas materias. Es aconsejable que el profesor que imparte el 
+módulo profesional «0130. Formación y orientación laboral» se centre en los 
+aspectos puramente legales, mientras que los profesores de la Familia Profesional 
+enfoquen desde un punto de vista técnico los riesgos específicos del sector y las 
+medidas de prevención y protección de los mismos, de cara a la elaboración de 
+planes de prevención de riesgos laborales.
+Módulo profesional: Empresa e iniciativa emprendedora.
+Equivalencia en créditos ECTS: 4.
+Código: 0131.
+Duración: 63 horas.
+Contenidos:
+1. Iniciativa emprendedora:
+–
+– Innovación y desarrollo económico. Principales características de la innovación 
+en las instalaciones térmicas y de fluidos (materiales, tecnología y organización 
+de la producción, entre otros).
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40633
+Miércoles, 21 de agosto de 2019
+–
+– El trabajo por cuenta propia como fuente de creación de empleo y bienestar 
+social.
+–
+– La cultura emprendedora. El emprendedor. Factores claves de los emprendedores: 
+iniciativa, creatividad y formación.
+–
+– Desarrollo del espíritu emprendedor a través del fomento de las actitudes de 
+creatividad, iniciativa, autonomía y responsabilidad.
+–
+– La actuación de los emprendedores como empleados de una pyme del sector de 
+instalación y mantenimiento.
+–
+– La actuación de los emprendedores como empresarios en el sector de instalación 
+y mantenimiento.
+–
+– Análisis de las oportunidades de negocio en el sector de las instalaciones 
+térmicas y de fluidos.
+–
+– El empresario. Requisitos para el ejercicio de la actividad empresarial. Aptitudes 
+y actitudes.
+–
+– Plan de empresa: la idea de negocio en el ámbito de las instalaciones térmicas 
+y de fluidos.
+–
+– Búsqueda de ideas de negocio. Análisis y viabilidad de las mismas.
+2. La empresa y su entorno:
+–
+– Concepto de empresa.
+–
+– Estructura organizativa de la empresa. Organigrama.
+–
+– Funciones básicas de la empresa: comercial, técnica, social, financiera y 
+administrativa.
+–
+– La empresa como sistema.
+–
+– Análisis del entorno general y específico de una pyme relacionada con las 
+instalaciones térmicas y de fluidos.
+–
+– Relaciones con clientes, proveedores y competidores.
+–
+– Análisis DAFO.
+–
+– Relaciones de una pyme de instalaciones térmicas y de fluidos con su entorno.
+–
+– Relaciones de una pyme de instalaciones térmicas y de fluidos con el conjunto 
+de la sociedad. 
+–
+– La responsabilidad social de la empresa, planes de igualdad, acciones de 
+igualdad y mejora continua. La ética empresarial en empresas del sector.
+–
+– El estudio de mercado. Variables del marketing mix: precio, producto, comunicación 
+y distribución.
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40634
+Miércoles, 21 de agosto de 2019
+–
+– El balance social: los costes y los beneficios sociales. 
+–
+– Cultura empresarial e imagen corporativa.
+3. Creación y puesta en marcha de una empresa:
+–
+– Tipos de empresa.
+–
+– Elección de la forma jurídica. Ventajas e inconvenientes de las distintas formas 
+jurídicas con especial atención a la responsabilidad legal.
+–
+– La franquicia como forma de empresa.
+–
+– La fiscalidad en las empresas.
+–
+– Trámites administrativos para la constitución y puesta en marcha de una empresa. 
+Relación con organismos oficiales.
+–
+– Vías externas de asesoramiento y gestión. La ventanilla única empresarial.
+–
+– Pan de inversiones y gastos.
+–
+– Las fuentes de financiación. El plan financiero.
+–
+– Subvenciones y ayudas destinadas a la creación de empresas en el sector de la 
+instalación y el mantenimiento.
+–
+– Viabilidad económica y viabilidad financiera de una pyme relacionada con las 
+instalaciones térmicas y de fluidos. Comercialización y marketing.
+–
+– Plan de empresa: la idea de negocio en el sector de la instalación y el 
+mantenimiento. 
+–
+– Elección de la forma jurídica, estudio de viabilidad económica y financiera, 
+trámites administrativos y gestión de ayudas y subvenciones.
+4. Función administrativa:
+–
+– Concepto de contabilidad y nociones básicas.
+–
+– Cuentas anuales obligatorias.
+–
+– Análisis de la información contable.
+–
+– Ratios. Cálculo de coste, beneficio y umbral de rentabilidad.
+–
+– Obligaciones fiscales de las empresas. Principales impuestos aplicables a las 
+empresas del sector.
+–
+– Gestión administrativa de una empresa de instalaciones térmicas y de fluidos.
+–
+– Documentos básicos utilizados en la actividad económica de la empresa: nota de 
+pedido, albarán, factura, letra de cambio, cheque y otros.
+–
+– Gestión de aprovisionamiento. Valoración de existencias. Volumen óptimo de 
+pedido.
+–
+– Elaboración de un plan de empresa.
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40635
+Miércoles, 21 de agosto de 2019
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desarrollar la propia 
+iniciativa en el ámbito empresarial, tanto hacia el autoempleo como hacia la asunción de 
+responsabilidades y funciones en el empleo por cuenta ajena.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+n), o), p), q), r), s) y t) del ciclo formativo, y las competencias n), o), p), q), r), s), t), u), v) 
+y w) del título.
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar 
+los objetivos del módulo profesional versarán sobre:
+–
+– El manejo de las fuentes de información sobre el sector de instalaciones térmicas 
+y de fluidos, incluyendo el análisis de los procesos de innovación sectorial en 
+marcha.
+–
+– La realización de casos y dinámicas de grupo que permitan comprender y valorar 
+las actitudes de los emprendedores y ajustar la necesidad de los mismos al sector 
+de los servicios relacionados con los procesos de las instalaciones térmicas y de 
+fluidos.
+–
+– La utilización de programas de gestión administrativa para pymes del sector.
+–
+– La realización de un proyecto de plan de empresa relacionada con las instalaciones 
+térmicas y de fluidos y que incluya todas las facetas de puesta en marcha de 
+un negocio: viabilidad, organización de la producción y los recursos humanos, 
+acción comercial, control administrativo y financiero, así como justificación de su 
+responsabilidad social.
+–
+– Utilización de la herramienta «Aprende a Emprender».
+Módulo profesional: Formación en centros de trabajo.
+Equivalencia en créditos ECTS: 22.
+Código: 0132.
+Duración: 380 horas.
+Este módulo profesional contribuye a completar las competencias, propias de 
+este título, que se han alcanzado en el centro educativo o a desarrollar competencias 
+características difíciles de conseguir en el mismo.
+Módulo profesional: Inglés para desarrollo de proyectos de instalaciones 
+térmicas y de fluidos.
+Código: CL23. 
+Resultados de aprendizaje y criterios de evaluación:
+1. Se comunica oralmente con un interlocutor en lengua extranjera interpretando 
+y transmitiendo la información necesaria para establecer los términos que delimiten una 
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40636
+Miércoles, 21 de agosto de 2019
+relación profesional dentro del sector de las empresas del sector de las instalaciones 
+térmicas y de fluidos.
+Criterios de evaluación: 
+a)	Se ha pedido información telefónica sobre un aspecto puntual de una actividad 
+propia del sector, aplicando las fórmulas establecidas y utilizando el léxico 
+adecuado.
+b)	Se ha dado la información requerida a través del teléfono, escogiendo las fórmulas 
+y léxico necesarios para expresarla con la mayor precisión y concreción.
+c)	 Se han identificado los datos claves para descifrar un mensaje grabado 
+relacionado con una actividad profesional habitual del sector de la instalación y 
+el mantenimiento.
+d)	Se ha pedido información, en una comunicación cara a cara, sobre un aspecto 
+puntual de una actividad propia del sector definiendo de entre las fórmulas 
+preestablecidas las más adecuadas.
+e)	Se ha proporcionado información sobre un aspecto puntual de una actividad 
+propia del sector definiendo de entre las fórmulas preestablecidas las más 
+adecuadas.
+f)	 Se ha interpretado la información recibida en una reunión de trabajo.
+g)	Se ha transmitido dicha información seleccionando el registro adecuado.
+2. Interpreta información escrita en lengua extranjera en el ámbito económico, jurídico 
+y financiero propio del sector de las empresas del sector de las instalaciones térmicas y 
+de fluidos, analizando los datos fundamentales para llevar a cabo las acciones oportunas.
+Criterios de evaluación: 
+a)	Se han buscado datos claves en un texto informativo en lengua extranjera sobre 
+el sector de las empresas del sector de las instalaciones térmicas y de fluidos.
+b)	Se han clasificado los datos de dicho texto según su importancia dentro del sector 
+de las empresas del sector de las instalaciones térmicas y de fluidos.
+c)	 Se ha sintetizado el texto.
+d)	Se ha traducido con exactitud cualquier escrito referente al sector profesional.
+3. Redacta y/o cumplimenta documentos e informes propios del sector en lengua 
+extranjera con corrección, precisión, coherencia y cohesión, solicitando y/o facilitando una 
+información de tipo general o detallada.
+Criterios de evaluación: 
+a)	Se han cumplimentado documentos comerciales y de gestión específicos del 
+sector de las empresas del sector de las instalaciones térmicas y de fluidos.
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40637
+Miércoles, 21 de agosto de 2019
+b)	Se ha elaborado un informe claro, conciso y preciso según su finalidad y/o 
+destinatario, utilizando estructuras y nexos preestablecidos, basándose en datos 
+recibidos en distintos contextos (conferencia, documentos, seminario, reunión).
+4. Analiza las normas de protocolo del país del idioma extranjero, con el fin de dar 
+una adecuada imagen en las relaciones profesionales establecidas con dicho país.
+Criterios de evaluación: 
+a)	Se ha presentado a sí mismo ante una supuesta visita a una empresa extranjera
+b)	Ha informado y se ha informado utilizando el lenguaje con corrección y propiedad, 
+y observando las normas de comportamiento que requiera el caso, de acuerdo 
+con el protocolo profesional establecido en el país.
+Duración: 42 horas.
+Contenidos:
+1. Comprensión y producción de mensajes orales: 
+–
+– Conversaciones telefónicas o a través de video-conferencia.
+–
+– Empleo de las destrezas y técnicas básicas para desenvolverse en situaciones 
+de carácter comercial y técnico en el sector de las empresas del sector de las 
+instalaciones térmicas y de fluido.
+–
+– Participación en conversaciones telefónicas dentro de un contexto de negocios. 
+–
+– Vocabulario necesario para mantener una conversación en el ámbito comercial. 
+2. Interpretación de mensajes escritos: 
+–
+– Análisis de los elementos morfosintácticos que aparecen en los documentos y 
+textos empleados como elementos de trabajo.
+–
+– Terminología específica del desarrollo de proyectos de instalaciones térmicas y 
+de fluidos.
+–
+– Fórmulas y frases hechas utilizadas en la comunicación escrita.
+–
+– Comprensión e interpretación de planos, esquemas  y normas técnicas
+3. Emisión de textos escritos: 
+–
+– Redacción de todo tipo de correspondencia comercial: faxes, informes, notas, 
+correo electrónico, entre otros. 
+4. Realización de exposiciones:
+–
+– Grupos de trabajo para elaborar exposiciones orales sobre algunos de los temas 
+tratados en los demás módulos.
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40638
+Miércoles, 21 de agosto de 2019
+–
+– Simulación de una ponencia para un congreso relativo a temas del sector de las 
+empresas relacionadas con las instalaciones térmicas y de fluidos.
+–
+– Elaboración de debates sobre temas de actualidad en el sector de las empresas 
+del sector de las instalaciones térmicas y de fluidos.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional mantiene como principal objetivo la formación necesaria 
+para el uso de la lengua inglesa en el desempeño de actividades relacionadas con el 
+sector de las empresas del sector de las instalaciones térmicas y de fluidos, sirviendo, 
+además para profundizar y ampliar en aspectos prácticos de la especialidad.
+El profesorado debe trasladar los contenidos de sus enseñanzas al ámbito de la 
+especialidad, proponiendo actividades para  reforzar el aspecto oral de la lengua inglesa, 
+sin descuidar por ello el uso de la lengua escrita. El desarrollo de las clases, será totalmente 
+en inglés. 
+Se han de potenciar, por tanto, la realización de exposiciones orales partiendo de:
+–
+– Audición de grabaciones audio/video procedentes de la vida cotidiana y del sector 
+de la instalación y el mantenimiento.
+–
+– Textos escritos procedentes de medios de comunicación, internet, organismos 
+internacionales, entre otros.
+Siguiendo en la misma línea, el profesorado propondrá actividades de trabajo que 
+promuevan el desarrollo de las siguientes destrezas:
+–
+– Simulaciones de comunicación telefónica y cara a cara con proveedores y 
+clientes.
+–
+– Recreación de situaciones reales en una empresa o entidad cuya actividad se 
+relacione directamente con las instalaciones térmicas y de fluidos.
+–
+– Creación de conversaciones que provoquen debates en el grupo acerca del 
+funcionamiento de una pyme o entidad relacionada directamente con las 
+instalaciones térmicas y de fluidos.
+–
+– Grabación de situaciones de comunicación o intervenciones profesionales por 
+parte del alumno.
+–
+– Producción y comprensión de textos y mensajes orales, incluso como apoyo de 
+futuras intervenciones profesionales.
+–
+– Fomento del trabajo autónomo por parte del alumnado.
+–
+– Interpretación de normas, planos y esquemas.
+Este módulo debe reforzar la posibilidad de que el alumnado afronte con garantías 
+de éxito su trabajo ante grupos y colectivos con los que debe emplear la lengua inglesa. 
+De ahí la necesidad de  practicar las situaciones cotidianas y ocasionales que los 
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40639
+Miércoles, 21 de agosto de 2019
+profesionales conocen bien empleando exposiciones comprensivas y haciendo uso de 
+lenguajes técnicos relacionados directamente con las instalaciones térmicas y de fluidos.
+Con todo lo anterior se pretende conseguir que el alumnado tenga una actitud 
+positiva hacia los aprendizajes y sea capaz de comprender la gran necesidad del uso de 
+la lengua inglesa en el desempeño de su labor profesional en actividades de instalaciones 
+térmicas y de fluidos. Esta actitud debe formar parte de la evaluación del alumnado y, por 
+tanto, deberá impregnar la actuación y metodología didáctica del profesorado.
+A la hora de impartir este módulo profesional, se tendrá en cuenta la necesidad de 
+coordinación en contenidos, procesos y actividades procedimentales, con el profesorado 
+que imparta todos los módulos profesionales. 
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+Pág. 40640
+Miércoles, 21 de agosto de 2019
+ANEXO II
+Organización y distribución horaria
+Módulos profesionales
+Duración 
+del 
+currículo
+(horas)
+Centro Educativo
+Centro de 
+Trabajo
+Curso 1.º
+horas/semanales
+Curso 2.º
+1.º y 2.º
+trimestres
+horas/semanales
+3.er trimestre
+horas
+0120. Sistemas eléctricos y automáticos.
+192
+6
+0121. Equipos e instalaciones térmicas.
+224
+7
+0122. Procesos de montaje de 
+instalaciones.
+224
+7
+0123. Representación gráfica de 
+instalaciones.
+128
+4
+0124. Energías renovables y eficiencia 
+energética.
+96
+3
+0125. Configuración de instalaciones de 
+climatización, calefacción y ACS.
+168
+8
+0126. Configuración de instalaciones 
+frigoríficas.
+126
+6
+0127. Configuración de instalaciones de 
+fluidos.
+126
+6
+0128. Planificación del montaje de 
+instalaciones.
+105
+5
+0129. Proyecto de instalaciones térmicas y 
+de fluidos.
+30
+30
+0130. Formación y orientación laboral.
+96
+3
+0131. Empresa e iniciativa emprendedora.
+63
+3
+0132. Formación en centros de trabajo.
+380
+380
+CL23. Inglés para desarrollo de proyectos 
+de instalaciones térmicas y de 
+fluidos.
+42
+2
+TOTAL
+2.000
+30
+30
+410
+CV: BOCYL-D-21082019-1
+
+Boletín Oficial de Castilla y León
+Núm. 160
+http://bocyl.jcyl.es
+D.L.: BU 10-1979 - ISSN 1989-8959
+Pág. 40641
+Miércoles, 21 de agosto de 2019
+ANEXO III
+Especialidades y titulaciones del profesorado en el módulo profesional 
+«Inglés para desarrollo de proyectos de instalaciones térmicas y de fluidos»
+1. Especialidades del profesorado con atribución docente en el módulo profesional 
+«Inglés para desarrollo de proyectos de instalaciones térmicas y de fluidos» del ciclo 
+formativo de técnico superior en desarrollo de proyectos de instalaciones térmicas y de 
+fluidos.
+Módulo profesional
+Especialidad 
+del profesorado
+Cuerpo
+CL23. Inglés para desarrollo de 
+proyectos de instalaciones 
+térmicas y de fluidos.
+−	 Inglés.
+−	 Catedrático de Enseñanza 
+Secundaria.
+−	 Profesor de Enseñanza Secundaria.
+2. Titulaciones requeridas para impartir el módulo profesional «Inglés para desarrollo 
+de proyectos de instalaciones térmicas y de fluidos» que conforma el título en los centros 
+de titularidad privada, de otras Administraciones distintas de la educativa y orientaciones 
+para la Administración educativa.
+Módulo profesional
+Titulaciones
+CL23. Inglés para desarrollo de proyectos de 
+instalaciones térmicas y de fluidos.
+−	 Licenciado, Ingeniero, Arquitecto o Título de 
+Grado correspondiente, u otros títulos equiva­
+lentes a efectos de docencia.
+CV: BOCYL-D-21082019-1

@@ -1,0 +1,2605 @@
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 53956
+Miércoles, 7 de agosto de 2013
+I. COMUNIDAD DE CASTILLA Y LEÓN
+A. DISPOSICIONES GENERALES
+CONSEJERÍA DE EDUCACIÓN
+DECRETO 48/2013, de 31 de julio, por el que se establece el currículo correspondiente 
+al título de Técnico Superior en Mantenimiento Electrónico en la Comunidad de Castilla y 
+León.
+El artículo 73.1 del Estatuto de Autonomía de Castilla y León, atribuye a la Comunidad 
+de Castilla y León la competencia de desarrollo legislativo y ejecución de la enseñanza 
+en toda su extensión, niveles y grados, modalidades y especialidades, de acuerdo con 
+el derecho a la educación que todos los ciudadanos tienen, según lo establecido en el 
+artículo 27 de la Constitución Española y las leyes orgánicas que lo desarrollan.
+La Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación 
+Profesional, establece en el artículo 10.1 que la Administración General del Estado, 
+determinará los títulos y los certificados de profesionalidad, que constituirán las ofertas de 
+formación profesional referidas al Catálogo Nacional de Cualificaciones Profesionales.
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación, determina en su artículo 39.6 
+que el Gobierno, establecerá las titulaciones correspondientes a los estudios de formación 
+profesional, así como los aspectos básicos del currículo de cada una de ellas.
+El Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación 
+general de la formación profesional del sistema educativo, define en el artículo 9, la 
+estructura de los títulos de formación profesional, tomando como base el Catálogo 
+Nacional de Cualificaciones Profesionales, las directrices fijadas por la Unión Europea 
+y otros aspectos de interés social. El artículo 7 concreta los elementos que definen el 
+perfil profesional de dichos títulos, que incluirá la competencia general, las competencias 
+profesionales, personales y sociales, las cualificaciones profesionales y, en su caso, las 
+unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas 
+en los títulos.
+Por otro lado, el artículo 8 del Real Decreto 1147/2011, de 29 de julio, dispone que 
+las Administraciones educativas establecerán los currículos correspondientes respetando 
+lo en él dispuesto y en las normas que regulen las diferentes enseñanzas de formación 
+profesional.
+El Real Decreto-Ley 14/2012, de 20 de abril, de medidas urgentes de racionalización 
+del gasto público en el ámbito educativo dispone en el artículo 5, que todas las disposiciones 
+contempladas en el Real Decreto 1147/2011, de 29 de julio, por el que se establece la 
+ordenación general de la formación profesional del sistema educativo, a excepción de la 
+disposición adicional séptima, serán de aplicación en el curso 2014/2015. Asimismo, los 
+ciclos formativos de grado medio y grado superior cuya implantación estuviera prevista para 
+el curso escolar 2012/2013 se implantarán en el curso escolar 2014-2015. No obstante, 
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 53957
+Miércoles, 7 de agosto de 2013
+establece la posibilidad de que las administraciones educativas anticipen la implantación 
+de las medidas que consideren necesarias en los cursos anteriores, lo que se realiza en 
+el presente decreto.
+El Real Decreto 1578/2011, de 4 de noviembre, establece el título de Técnico Superior 
+en Mantenimiento Electrónico y fija sus enseñanzas mínimas, disponiendo en el artículo 1, 
+que sustituye a la regulación del título de Técnico Superior en Desarrollo de Productos 
+Electrónicos, contenida en el Real Decreto 620/1995, de 21 de abril.
+El presente decreto establece el currículo correspondiente al título de Técnico 
+Superior en Mantenimiento Electrónico en la Comunidad de Castilla y León, teniendo 
+en cuenta los principios generales que han de orientar la actividad educativa, según lo 
+previsto en el artículo 1 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación. Pretende 
+dar respuesta a las necesidades generales de cualificación de los recursos humanos para 
+su incorporación a la estructura productiva de la Comunidad de Castilla y León.
+En el proceso de elaboración de este decreto se ha recabado dictamen del Consejo 
+Escolar de Castilla y León e informe del Consejo de Formación Profesional de Castilla y 
+León.
+En su virtud, la Junta de Castilla y León, a propuesta del Consejero de Educación, y 
+previa deliberación del Consejo de Gobierno en su reunión de 31 de julio de 2013
+DISPONE
+Artículo 1. Objeto y ámbito de aplicación.
+El presente decreto tiene por objeto establecer el currículo del título de Técnico 
+Superior en Mantenimiento Electrónico en la Comunidad de Castilla y León. 
+Artículo 2. Identificación del título.
+El título de Técnico Superior en Mantenimiento Electrónico queda identificado en la 
+Comunidad de Castilla y León por los elementos determinados en el artículo 2 del Real 
+Decreto 1578/2011, de 4 de noviembre, por el que se establece el citado título y se fijan 
+sus enseñanzas mínimas, y por un código, de la forma siguiente:
+FAMILIA PROFESIONAL: Electricidad y Electrónica.
+DENOMINACIÓN: Mantenimiento Electrónico.
+NIVEL: Formación Profesional de Grado Superior.
+DURACIÓN: 2.000 horas.
+REFERENTE EUROPEO: CINE-5b (Clasificación Internacional Normalizada de la 
+Educación).
+CÓDIGO: ELE03S.
+NIVEL DEL MARCO ESPAÑOL DE CUALIFICACIONES PARA LA EDUCACIÓN 
+SUPERIOR: Nivel 1 Técnico Superior.
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 53958
+Miércoles, 7 de agosto de 2013
+Artículo 3. Referentes de la formación.
+1. Los aspectos relativos al perfil profesional del título de Técnico Superior en 
+Mantenimiento Electrónico determinado por la competencia general, por las competencias 
+profesionales, personales y sociales, y por la relación de cualificaciones y unidades de 
+competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título, 
+así como los aspectos referentes al entorno profesional y la prospectiva del título en el 
+sector o sectores, son los que se especifican en los artículos 3 a 8 del Real Decreto 
+1578/2011, de 4 de noviembre.
+2. El aspecto relativo al entorno productivo en Castilla y León es el que se especifica 
+en el Anexo I.
+Artículo 4. Objetivos generales.
+Los objetivos generales del ciclo formativo de Técnico Superior en Mantenimiento 
+Electrónico son los establecidos en el artículo 9 del Real Decreto 1578/2011, de 4 de 
+noviembre. 
+Artículo 5. Principios metodológicos generales.
+1. La metodología didáctica de las enseñanzas de formación profesional integrará 
+los aspectos científicos, tecnológicos y organizativos que en cada caso correspondan, con 
+el fin de que el alumnado adquiera una visión global de los procesos productivos propios 
+de la actividad profesional correspondiente.
+2. Las enseñanzas de formación profesional para personas adultas se organizarán 
+con una metodología flexible y abierta, basada en el autoaprendizaje.
+Artículo 6. Módulos profesionales del ciclo formativo.
+Los módulos profesionales que componen el ciclo formativo de Técnico Superior 
+en Mantenimiento Electrónico son los establecidos en el artículo 10 del Real Decreto 
+1578/2011, de 4 de noviembre:
+1051. Circuitos electrónicos analógicos.
+1052. Equipos microprogramables.
+1053. Mantenimiento de equipos de radiocomunicaciones.
+1054. Mantenimiento de equipos de voz y datos.
+1055. Mantenimiento de equipos de electrónica industrial.
+1056. Mantenimiento de equipos de audio.
+1057. Mantenimiento de equipos de vídeo.
+1058. Técnicas y procesos de montaje y mantenimiento de equipos electrónicos.
+1059. Infraestructuras y desarrollo del mantenimiento electrónico.
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 53959
+Miércoles, 7 de agosto de 2013
+1060. Proyecto de mantenimiento electrónico.
+1061. Formación y orientación laboral.
+1062. Empresa e iniciativa emprendedora.
+1063. Formación en centros de trabajo.
+Artículo 7. Objetivos, contenidos, duración y orientaciones pedagógicas y 
+metodológicas de cada módulo profesional.
+1. Los objetivos de los módulos profesionales relacionados en el artículo 6, expresados 
+en términos de resultados de aprendizaje, y los criterios de evaluación, son los que se 
+establecen en el Anexo I del Real Decreto 1578/2011, de 4 de noviembre.
+2. Por su parte, los contenidos, la duración y las orientaciones pedagógicas 
+y metodológicas de los módulos profesionales «Circuitos electrónicos analógicos», 
+«Equipos microprogramables», «Mantenimiento de equipos de radiocomunicaciones», 
+«Mantenimiento de equipos de voz y datos», «Mantenimiento de equipos de electrónica 
+industrial», «Mantenimiento de equipos de audio», «Mantenimiento de equipos de 
+vídeo», «Técnicas y procesos de montaje y mantenimiento de equipos electrónicos», 
+«Infraestructuras y desarrollo del mantenimiento electrónico», «Formación y orientación 
+laboral» y «Empresa e iniciativa emprendedora», son los que se establecen en el Anexo II. 
+Asimismo, en el citado Anexo se establece la duración y las orientaciones pedagógicas y 
+metodológicas del módulo profesional «Proyecto de mantenimiento electrónico», así como 
+la duración del módulo profesional «Formación en centros de trabajo».
+Artículo 8. Módulos profesionales de «Formación en centros de trabajo» y «Proyecto 
+de mantenimiento electrónico».
+1. El programa formativo del módulo profesional «Formación en centros de trabajo» 
+será individualizado para cada alumno y se elaborará teniendo en cuenta las características 
+del centro de trabajo. Deberá recoger las actividades formativas que permitan ejecutar o 
+completar la competencia profesional correspondiente al título, los resultados de aprendizaje 
+y los criterios de evaluación previstos en el Anexo I del Real Decreto 1578/2011, de 4 de 
+noviembre.
+2. El módulo profesional de «Proyecto de mantenimiento electrónico» se definirá de 
+acuerdo con las características de la actividad laboral del ámbito del ciclo formativo y con 
+aspectos relativos al ejercicio profesional y a la gestión empresarial. Tendrá por objeto la 
+integración de las diversas capacidades y conocimientos del currículo del ciclo formativo, 
+contemplará las variables tecnológicas y organizativas relacionadas con el título, y deberá 
+ajustarse a los resultados de aprendizaje y criterios de evaluación previstos en el Anexo I 
+del Real Decreto 1578/2011, de 4 de noviembre.
+El departamento de la familia profesional de Electricidad y Electrónica determinará, 
+en el marco de la programación general anual, los proyectos que se propondrán para su 
+desarrollo por el alumnado. Los proyectos también podrán ser propuestos por el alumnado, 
+en cuyo caso se requerirá la aceptación del departamento.
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 53960
+Miércoles, 7 de agosto de 2013
+Con carácter general, el módulo profesional «Proyecto de mantenimiento electrónico» 
+se desarrollará simultáneamente al módulo profesional «Formación en centros de trabajo», 
+salvo que concurran otras circunstancias que no lo permitan.
+El módulo profesional de «Proyecto de mantenimiento electrónico» puede ser 
+equivalente con el desarrollo de un proyecto de innovación, en el que participe el alumnado, 
+cuando tenga un componente integrador de los contenidos de los módulos profesionales 
+que constituyen el ciclo formativo.
+Artículo 9. Organización y distribución horaria. 
+1. Los módulos profesionales que forman las enseñanzas del ciclo formativo de 
+Técnico Superior en Mantenimiento Electrónico, cuando se oferte en régimen presencial, se 
+organizan en dos cursos académicos. Su distribución en cada uno de ellos y la asignación 
+horaria semanal se recoge en el Anexo III.
+2. El período de realización del módulo profesional de «Formación en centros de 
+trabajo» establecido en el Anexo III para el tercer trimestre, podrá comenzar en el segundo 
+trimestre si han transcurrido veintidós semanas lectivas a contar desde el inicio del curso 
+escolar.
+Artículo 10. Adaptaciones curriculares.
+1. Con objeto de ofrecer a todas las personas la oportunidad de adquirir una formación 
+básica, ampliar y renovar sus conocimientos, habilidades y destrezas de modo permanente 
+y facilitar el acceso a las enseñanzas de formación profesional, la consejería competente 
+en materia de educación podrá flexibilizar la oferta del ciclo formativo de Técnico Superior 
+en Mantenimiento Electrónico permitiendo, principalmente a los adultos, la posibilidad 
+de combinar el estudio y la formación con la actividad laboral o con otras actividades, 
+respondiendo así a las necesidades e intereses personales.
+2. También se podrá adecuar las enseñanzas de este ciclo formativo a las 
+características de la educación a distancia, así como a las características del alumnado 
+con necesidades específicas de apoyo educativo para que se garantice su acceso, 
+permanencia y progresión en el ciclo formativo.
+Artículo 11. Accesos y vinculación a otros estudios, y correspondencia de módulos 
+profesionales con las unidades de competencia.
+El acceso y vinculación a otros estudios, y la correspondencia de los módulos 
+profesionales con las unidades de competencia son los que se establecen en el capítulo IV 
+del Real Decreto 1578/2011, de 4 de noviembre.
+Artículo 12. Enseñanzas impartidas en lenguas extranjeras o en lenguas cooficiales 
+de otras comunidades autónomas.
+1. Teniendo en cuenta que la promoción de la enseñanza y el aprendizaje de lenguas 
+y de la diversidad lingüística debe constituir una prioridad de la acción comunitaria en el 
+ámbito de la educación y la formación, la consejería competente en materia de educación 
+podrá autorizar que todos o determinados módulos profesionales del currículo se impartan 
+en lenguas extranjeras o en lenguas cooficiales de otra comunidad autónoma, sin perjuicio 
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 53961
+Miércoles, 7 de agosto de 2013
+de lo que se establezca en su normativa específica y sin que ello suponga modificación del 
+currículo establecido en el presente decreto.
+2. Los centros autorizados deberán incluir en su proyecto educativo los elementos 
+más significativos de su proyecto lingüístico autorizado.
+Artículo 13. Oferta a distancia del título.
+1. Los módulos profesionales que forman las enseñanzas del ciclo formativo de 
+Técnico Superior en Mantenimiento Electrónico podrán ofertarse a distancia, siempre 
+que se garantice que el alumnado puede conseguir los resultados de aprendizaje de los 
+mismos, de acuerdo con lo dispuesto en el Real Decreto 1578/2011, de 4 de noviembre, 
+y en este decreto.
+2. La consejería competente en materia de educación establecerá los módulos 
+profesionales susceptibles de ser impartidos a distancia y el porcentaje de horas de cada 
+uno de ellos que tienen que impartirse en régimen presencial.
+Artículo 14. Requisitos de los centros para impartir estas enseñanzas.
+Todos los centros de titularidad pública o privada que ofrezcan enseñanzas 
+conducentes a la obtención del título de Técnico Superior en Mantenimiento Electrónico 
+se ajustarán a lo establecido en la Ley Orgánica 2/2006, de 3 de mayo, de Educación y 
+en las normas que lo desarrollen, y en todo caso, deberán cumplir los requisitos que se 
+establecen en el artículo 46 del Real Decreto 1147/2011, de 29 de julio, por el que se 
+establece la ordenación general de la formación profesional del sistema educativo, en 
+el Real Decreto 1578/2011, de 4 de noviembre, en este decreto y en lo establecido en la 
+normativa que los desarrolle.
+Artículo 15. Profesorado. 
+Los aspectos referentes al profesorado con atribución docente en los módulos 
+profesionales del ciclo formativo de Técnico Superior en Mantenimiento Electrónico, 
+relacionados en el artículo 6, son los establecidos en el artículo 12 del Real Decreto 
+1578/2011, de 4 de noviembre.
+Artículo 16. Espacios y equipamientos. 
+Los espacios y equipamientos necesarios para el desarrollo de las enseñanzas del 
+ciclo formativo de Técnico Superior en Mantenimiento Electrónico son los establecidos en 
+el artículo 11 del Real Decreto 1578/2011, de 4 de noviembre.
+Artículo 17. Autonomía de los centros.
+1. Los centros educativos dispondrán de la necesaria autonomía pedagógica, de 
+organización y de gestión económica, para el desarrollo de las enseñanzas y su adaptación 
+a las características concretas del entorno socioeconómico, cultural y profesional. Los 
+centros autorizados para impartir el ciclo formativo concretarán y desarrollarán el currículo 
+mediante las programaciones didácticas de cada uno de los módulos profesionales que 
+componen el ciclo formativo en los términos establecidos en el Real Decreto 1578/2011, 
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 53962
+Miércoles, 7 de agosto de 2013
+de 4 de noviembre, en este decreto, en el marco general del proyecto educativo de centro 
+y en función de las características del alumnado y de su entorno productivo. 
+2. La consejería competente en materia de educación favorecerá la elaboración de 
+proyectos de innovación, así como de modelos de programación docente y de materiales 
+didácticos que faciliten al profesorado el desarrollo del currículo.
+3. Los centros, en el ejercicio de su autonomía, podrán desarrollar experiencias, 
+planes de trabajo, formas de organización o ampliación del horario escolar en los términos 
+que establezca la consejería competente en materia de educación, sin que, en ningún 
+caso, se impongan aportaciones ni exigencias a las familias o al alumnado.
+DISPOSICIONES ADICIONALES
+Primera. Calendario de implantación.
+1. La implantación del currículo establecido en este decreto tendrá lugar en el curso 
+escolar 2013/2014 para el primer curso del ciclo formativo y en el curso escolar 2014/2015 
+para el segundo curso del ciclo formativo.
+2. El alumnado de primer curso del ciclo formativo de grado superior «Técnico 
+Superior en Desarrollo de Productos Electrónicos» que cursó estas enseñanzas de 
+acuerdo al currículo establecido en el Real Decreto 193/1996, de 9 de febrero, por el que 
+se establece el currículo del ciclo formativo de grado superior correspondiente al título 
+de Técnico Superior en Desarrollo de Productos Electrónicos, y que deba repetir en el 
+curso 2013/2014, se matriculará de acuerdo con el nuevo currículo, teniendo en cuenta su 
+calendario de implantación.
+3. En el curso 2013/2014, el alumnado de segundo curso del ciclo formativo de 
+grado superior «Técnico Superior en Desarrollo de Productos Electrónicos» que cursó 
+estas enseñanzas de acuerdo al currículo establecido en el Real Decreto 193/1996, de 
+9 de febrero, y tenga módulos profesionales pendientes de primero se matricularán, 
+excepcionalmente, de estos módulos profesionales de acuerdo con el currículo que el 
+alumnado venía cursado. En este caso, se arbitrarán las medidas adecuadas que permitan 
+la recuperación de las enseñanzas correspondientes.
+4. En el curso 2014/2015, el alumnado del ciclo formativo de grado superior «Técnico 
+Superior en Desarrollo de Productos Electrónicos» que cursó estas enseñanzas de acuerdo 
+al currículo establecido en el Real Decreto 193/1996, de 9 de febrero, y tenga módulos 
+profesionales pendientes de segundo curso se podrán matricular, excepcionalmente, 
+de estos módulos profesionales de acuerdo con el currículo que los alumnos venían 
+cursando.
+5. A efectos de lo indicado en los apartados 3 y 4, el departamento de familia profesional 
+propondrá al alumnado un plan de trabajo, con expresión de las capacidades terminales 
+y los criterios de evaluación exigibles y de las actividades recomendadas, y programarán 
+pruebas parciales y finales para evaluar los módulos profesionales pendientes.
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 53963
+Miércoles, 7 de agosto de 2013
+Segunda. Titulaciones equivalentes y vinculación con capacitaciones profesionales.
+1. Las titulaciones equivalentes y vinculación con capacitaciones profesionales son 
+las que se establecen en la disposición adicional tercera del Real Decreto 1578/2011, de 
+4 de noviembre.
+2. La formación establecida en el presente decreto en el módulo profesional de 
+«Formación y orientación laboral», incluye un mínimo de 50 horas, que capacita para llevar 
+a cabo responsabilidades profesionales equivalentes a las que precisan las actividades de 
+nivel básico en prevención de riesgos laborales, establecidas en el Real Decreto 39/1997, 
+de 17 de enero, por el que se aprueba el Reglamento de los Servicios de Prevención.
+Tercera. Certificación académica de superación del nivel básico en prevención de 
+riesgos laborales.
+La consejería competente en materia de educación expedirá una certificación 
+académica de la formación de nivel básico en prevención de riesgos laborales, al alumnado 
+que haya superado el bloque B del módulo profesional de «Formación y Orientación 
+laboral», de acuerdo con el procedimiento que se establezca al efecto.
+Cuarta. Equivalencia a efectos de docencia en los procedimientos selectivos de 
+ingreso en el Cuerpo de Profesores Técnicos de Formación Profesional.
+En los procesos selectivos convocados por la consejería competente en materia de 
+educación, el título de Técnico Superior o de Técnico Especialista se declara equivalente 
+a los exigidos para el acceso al Cuerpo de Profesores Técnicos de Formación Profesional, 
+cuando el titulado haya ejercido como profesor interino en centros educativos públicos 
+dependientes de la citada consejería y en la especialidad docente a la que pretenda 
+acceder durante un período mínimo de dos años antes del 31 de agosto de 2007. 
+Quinta. Accesibilidad universal en las enseñanzas de este título.
+La consejería competente en materia de educación adoptará las medidas necesarias 
+para que el alumnado pueda acceder y cursar este ciclo formativo en las condiciones 
+establecidas en la disposición final décima de la Ley 51/2003, de 2 de diciembre, de 
+igualdad de oportunidades, no discriminación y accesibilidad universal de las personas 
+con discapacidad. 
+Sexta. Autorización de los centros educativos.
+Todos los centros de titularidad pública o privada que, en la fecha de entrada en vigor 
+de este decreto, tengan autorizadas enseñanzas conducentes a la obtención del título de 
+Técnico Superior en Desarrollo de Productos Electrónicos, regulado en el Real Decreto 
+620/1995, de 21 de abril, quedarán autorizados para impartir el título de Técnico Superior 
+en Mantenimiento Electrónico que se establece en el Real Decreto 1578/2011, de 4 de 
+noviembre.
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 53964
+Miércoles, 7 de agosto de 2013
+DISPOSICIÓN DEROGATORIA
+Derogación normativa.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo 
+establecido en el presente decreto. 
+DISPOSICIONES FINALES
+Primera. Desarrollo normativo.
+Se faculta al titular de la consejería competente en materia de educación para dictar 
+cuantas disposiciones sean precisas para la interpretación, aplicación y desarrollo de lo 
+dispuesto en este decreto.
+Segunda. Entrada en vigor.
+El presente decreto entrará en vigor el día siguiente al de su publicación en el «Boletín 
+Oficial de Castilla y León».
+Valladolid, 31 de julio de 2013.
+El Presidente de la Junta 
+de Castilla y León,
+Fdo.: Juan Vicente Herrera Campo
+El Consejero de Educación,
+Fdo.: Juan José Mateos Otero
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 53965
+Miércoles, 7 de agosto de 2013
+ANEXO I
+ENTORNO PRODUCTIVO DE CASTILLA Y LEÓN
+El perfil profesional de este título, dentro del sector terciario, evoluciona hacia un 
+técnico superior con gran especialización en la supervisión, reparación y mantenimiento 
+de infraestructuras y equipos de telecomunicaciones, sistemas de seguridad electrónica, 
+redes de comunicación, equipos de domótica e inmótica, sistemas de telefonía, equipos 
+de sonido e imagen, sistemas informáticos y equipos electrónicos industriales, con un 
+incremento en el desempeño de funciones de gestión, planificación, calidad y prevención 
+de riesgos laborales.
+El Técnico de Grado Superior de Mantenimiento Electrónico en nuestra comunidad, 
+podrá desempeñar su labor en el mantenimiento y la reparación de sistemas informáticos 
+y equipos electrónicos industriales, muy utilizados en el sector de la automoción, 
+agroalimentario, energético, entre otros.
+La gran extensión geográfica de nuestra comunidad y la dispersión de su población 
+hacen que la supervisión, el mantenimiento y reparación de las instalaciones de 
+comunicaciones y la distribución de la señal de radio, TV, banda ancha y telefonía móvil 
+sea particularmente extensa y compleja, siendo necesario en muchos casos, la utilización 
+de técnicas y procedimientos concretos para la integración de estos sistemas, así como 
+el uso de equipamiento de comprobación y medida específico, para lo que se precisan 
+técnicos superiores con la cualificación que aporta este ciclo.
+Otra parte no menos importante de actividad económica en nuestra comunidad 
+se sustenta en instalaciones alejadas de los grandes núcleos de población: granjas 
+agropecuarias, centros de turismo rural, centrales de producción de energía: minicentrales 
+hidráulicas, instalaciones eólicas y fotovoltaicas y centros de captación y tratamiento 
+de aguas. El mantenimiento y reparación de las instalaciones de comunicaciones, son 
+especialmente relevantes en cuanto a seguridad (video-vigilancia), control remoto de 
+instalaciones, configuración remota de equipos, toma y registro de datos.
+El mantenimiento y la reparación de las estaciones base de telefonía móvil, tienen 
+gran importancia ya que dan cobertura telefónica a toda la comunidad y también permiten 
+llevar la banda ancha a zonas donde no llega la ADSL y de manera particular en esta 
+comunidad, mediante la utilización de la tecnología WIMAX-LMDS que comparte ubicación 
+con algunas estaciones base telefonía móvil.
+Por otro lado la reparación y el mantenimiento de equipos y sistemas, tanto 
+informáticos como de telecomunicación, conlleva un cambio en los procesos tradicionales 
+de comunicación, dando lugar a la convergencia en una única red: voz, video y datos que 
+se transmiten sobre la misma infraestructura física. Criterios de calidad de servicio y de 
+organización en colas de prioridad establecen, ya en el presente, las pautas que deben 
+seguir las comunicaciones.
+También hay que tener presente que en nuestra comunidad existe un número 
+elevado de microempresas y pequeñas y medianas empresas que se dedican a actividades 
+relacionadas con la reparación y el mantenimiento de equipos electrónicos tanto industriales 
+como de consumo, por lo que es muy importante la formación en relación con la empresa 
+y la iniciativa emprendedora dado que algunos alumnos pueden encontrar su inserción 
+laboral mediante el autoempleo.
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 53966
+Miércoles, 7 de agosto de 2013
+Este ciclo formativo capacita al futuro profesional para mantener equipos electrónicos 
+de potencia y control, equipos con circuitos de electrónica digital microprogramable, equipos 
+de telecomunicación, equipos de imagen y sonido y para gestionar y supervisar los procesos 
+de mantenimiento de estaciones base de telefonía y los sistemas de telecomunicación de 
+red telefónica. 
+ANEXO II
+CONTENIDOS, DURACIÓN Y ORIENTACIONES PEDAGÓGICAS Y METODOLÓGICAS 
+DE LOS MÓDULOS PROFESIONALES
+Módulo profesional: Circuitos electrónicos analógicos.
+Equivalencia en créditos ECTS: 14
+Código: 1051
+Duración: 224 horas
+Contenidos:
+1.  Caracterización de componentes electrónicos:
+− Componentes electrónicos pasivos y activos. Parámetros fundamentales 
+de los componentes electrónicos. Resistencias. Condensadores. Bobinas y 
+transformadores. Relés. Resonadores cerámicos. Cristales de cuarzo y otros. 
+Diodos. Transistores (bipolares, FET y MOSFET). Diac. Tiristor. Triac y otros. 
+Tipos, características y aplicaciones. 
+− Simbología normalizada. Interpretación de esquemas. Librerías. Software 
+específico.
+− Componentes optoelectrónicos. Tipos, características y aplicaciones. Sensores y 
+transductores de magnitudes físicas.
+− Funcionamiento de los componentes electrónicos. Métodos de comprobación 
+con señal continua y alterna. Elementos complementarios: cables, conectores, 
+zócalos, radiadores, circuitos impresos y otros. Medida de parámetros básicos de 
+componentes electrónicos. Reactancia. Tipos: reactancia inductiva y reactancia 
+capacitiva. Impedancia. Tipos: impedancia de entrada e impedancia de salida. 
+Ganancia. Otros.
+− Técnicas de comprobación de componentes. Medidas de parámetros básicos. 
+Precauciones.
+2. Aplicación de técnicas de medida y visualización de señales eléctricas 
+analógicas:
+− Magnitudes eléctricas básicas. Fenómenos físicos. Inducción magnética. Campo 
+eléctrico y magnético. Características de las señales eléctricas. Naturaleza de 
+la electricidad. Tipos de materiales eléctricos. Conductores, semiconductores y 
+aislantes.
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 53967
+Miércoles, 7 de agosto de 2013
+− Características de las señales eléctricas. Parámetros. Voltaje, corriente, 
+resistencia y potencia. Relaciones entre magnitudes eléctricas básicas. Ley de 
+Ohm. Relación voltaje-corriente-resistencia. Relación corriente-campo magnético. 
+Relación tensión-campo eléctrico.
+− Funcionamiento y aplicaciones de los generadores de señales eléctricas 
+básicas. Baterías, dinamo y alternador. Fuente de alimentación y generador de 
+funciones.
+− Equipos de medida de ondas eléctricas. Polímetro. Osciloscopio. Técnicas de 
+medida.
+− Medidas de magnitudes eléctricas básicas. Medida de tensión. Medida de 
+corriente. Otras.
+− Criterios de calidad y seguridad en los procesos de medida. Precauciones en el 
+manejo de equipos de medida.
+− Relación entre medidas eléctricas y fenómenos físicos. Tipos de señales 
+eléctricas y electrónicas. Corriente continua y corriente alterna. Parámetros y 
+características de señales eléctricas. Amplitud, frecuencia y fase. Ondas simples. 
+Ondas complejas.
+3. Determinación de la estructura de circuitos analógicos:
+− Bloques funcionales de circuitos electrónicos. Características técnicas de los 
+bloques funcionales. Rectificadores de media onda y onda completa y circuitos 
+de alimentación. Filtrado, estabilización y regulación. Otros.
+− Fuentes de alimentación lineales y conmutadas. Convertidores DC/DC. 
+Convertidores DC/AC. Aplicaciones. Funcionamiento. Proceso de señales.
+− Circuitos electrónicos básicos. Amplificadores. Clases de amplificación (A, B, 
+C y AB, entre otros). Amplificadores con transistores: tipos de amplificadores 
+básicos (emisor común, colector común y base común). Filtros. Características y 
+aplicaciones. Funcionamiento. Acoplamiento entre etapas. Proceso de señales.
+− Osciladores. Tipos. Características.
+− Circuitos con amplificadores operacionales. Realimentación. Amplificador 
+inversor y no inversor. Sumador y restador. Comparador. Otros. Estructuras 
+típicas. Funcionamiento, características y aplicaciones. 
+− Filtros. Tipos de filtros según su respuesta en frecuencia (paso bajo, paso alto, 
+paso banda y elimina banda). Filtros activos y pasivos. Filtros LC y RC. Filtros 
+con resonador cerámico. Filtros digitales. 
+− Manipulación de circuitos electrónicos. Medidas de protección personal. 
+Protección de los equipos. Protección electrostática.
+− Montaje rápido de circuitos electrónicos. Simulación. Software específico de 
+simulación y comprobación.
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 53968
+Miércoles, 7 de agosto de 2013
+− Medidas en circuitos electrónicos. Medida de tensiones. Medida de señales 
+características. Parámetros de funcionamiento de amplificadores. Impedancia de 
+entrada y salida, ganancia, ancho de banda, distorsión y desfase. Parámetros de 
+funcionamiento de filtros. Ancho de banda, orden de un filtro y factor de calidad. 
+Generadores de señal. Multivibradores, osciladores y temporizadores. Tipos. 
+Estructuras típicas, funcionamiento, características y aplicaciones. 
+− Otros circuitos electrónicos.
+4. Propuesta de soluciones con circuitos electrónicos analógicos:
+− Técnicas de selección de circuitos electrónicos. Identificación de características. 
+− Criterios de diseño de circuitos analógicos. Identificación de características clave. 
+Selección del tipo y estructura del circuito.
+− Métodos de representación de circuitos electrónicos. Esquemas eléctricos. 
+Croquis.
+− Cálculos básicos de circuitos electrónicos. Polarizaciones, frecuencia de 
+resonancia y ganancia, entre otros. Selección de materiales y componentes. 
+Diseño de circuitos electrónicos analógicos. Aplicaciones de circuitos propuestos 
+por los fabricantes.
+− Programas informáticos de diseño y simulación de circuitos analógicos. Captura 
+de esquemas. Instrumentación virtual. 
+− Optimización de circuitos electrónicos mediante virtualización. 
+− Montaje rápido de circuitos electrónicos. Placas de prototipos.
+5. Verificación del funcionamiento de circuitos electrónicos analógicos:
+− Documentación técnica de componentes electrónicos. Hojas de características. 
+Esquemas de aplicaciones típicas.
+− Análisis del funcionamiento de circuitos electrónicos a través de su documentación 
+técnica. Esquema de bloques, esquema eléctrico, tensiones de alimentación y 
+oscilogramas.
+− Comprobación de circuitos electrónicos analógicos. División funcional del 
+circuito. Definición de puntos de control. Acciones a realizar en cada punto de 
+control. Seguimiento de señales. Comprobación funcional. Selección de equipos 
+y técnicas de medida según la tipología de los circuitos electrónicos. Técnicas de 
+ajuste. 
+− Medidas de parámetros. Tensión de salida. Corriente máxima. Factor de rizado. 
+Protección ante cortocircuitos. Frecuencia de resonancia y frecuencia de corte. 
+Otras.
+− Ajuste de circuitos electrónicos analógicos. Identificación de los puntos de ajuste. 
+Secuencia de ajuste. Verificación de funcionamiento tras el ajuste.
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 53969
+Miércoles, 7 de agosto de 2013
+6. Elaboración de documentación de circuitos electrónicos:
+− Simbología normalizada en electrónica. 
+− Documentación escrita de circuitos electrónicos. Manual de servicio. 
+− Descripción del funcionamiento, proceso de ajuste, lista de materiales y guía de 
+detección de fallos, otros.
+− Planos y esquemas. Diagrama de bloques, esquema eléctrico, diagrama de 
+conexionado y diagrama de montaje.
+− Documentación gráfica de circuitos electrónicos. Bibliotecas de componentes.
+− Representación de circuitos electrónicos. Planos y jerárquicos. Herramientas 
+informáticas de aplicación. 
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional da respuesta a la necesidad de proporcionar una adecuada 
+base teórica y práctica para la comprensión de las funciones y características de los 
+componentes y circuitos analógicos utilizados en los equipos electrónicos.
+La definición de estas funciones incluye aspectos como:
+− Identificar prácticamente los fundamentos de electricidad, electrónica y 
+electromagnetismo.
+− Identificar prácticamente las principales características de los componentes 
+electrónicos analógicos.
+− Identificar prácticamente las principales características de los circuitos electrónicos 
+analógicos.
+− Configurar y analizar circuitos electrónicos analógicos.
+Las actividades profesionales asociadas a esta función se aplican en:
+− Identificación de componentes electrónicos analógicos.
+− Análisis y medición de circuitos analógicos.
+− Configuración de circuitos analógicos.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+a), b), c), d), e) y v) del ciclo formativo, y las competencias a), b), c) y p) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+− Identificar los fundamentos de circuitos electrónicos básicos.
+− Calcular parámetros básicos de circuitos analógicos.
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 53970
+Miércoles, 7 de agosto de 2013
+− Configurar circuitos electrónicos analógicos.
+− Seleccionar componentes y materiales electrónicos.
+− Conexionar equipos e instrumentos de medida y visualización.
+− Realizar e interpretar medidas.
+− Montar y verificar la funcionalidad de los circuitos electrónicos analógicos.
+− Representar gráficamente esquemas electrónicos con la simbología adecuada.
+− Utilizar herramientas informáticas para elaborar la documentación técnica, diseño, 
+optimización y verificación de los circuitos electrónicos.
+La prevención en riesgos laborales y protección medioambiental será transversal al 
+resto de los contenidos tratados en el módulo.
+Módulo profesional: Equipos microprogramables. 
+Equivalencia en créditos ECTS: 14 
+Código: 1052 
+Duración: 224 horas 
+Contenidos: 
+1. Identificación de componentes de electrónica digital: 
+− Funciones lógicas. Tipos de familias lógicas. Algebra de Boole. Inversores y 
+puertas lógicas. Sistemas numéricos de codificación. Sistema binario, octal, 
+decimal y hexadecimal. 
+− Circuitos combinacionales. Codificadores. Decodificadores. Multiplexores. 
+Comparadores. Convertidores de código. Otros. Lógica aritmética. 
+− Tipos de circuitos combinacionales: función y aplicación. 
+− Simbología de componentes de electrónica digital. Representación gráfica. 
+Software específico para diseño y simulación.
+− Interpretación de esquemas. 
+2. Montaje de circuitos digitales combinacionales: 
+− Parámetros característicos de las familias lógicas de electrónica digital. Técnicas 
+de medida. Herramientas, sonda lógica y analizador lógico. 
+− Montaje de circuitos combinacionales. Sumadores. Restadores. ALU. Simuladores 
+software. 
+− Características técnicas. Documentación. Hojas de características. 
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 53971
+Miércoles, 7 de agosto de 2013
+− Aplicaciones de los circuitos electrónicos combinacionales. Codificadores. 
+Decodificadores. Multiplexores. Comparadores. Convertidores de código. Otros. 
+− Aplicaciones en equipos electrónicos de los integrados digitales. Funciones.
+3. Montaje de circuitos digitales secuenciales: 
+− Lógica secuencial. Circuitos secuenciales básicos. Biestables: RS, T, D, JK. 
+Funcionamiento. Características. 
+− Contadores. Funcionamiento. Circuitos típicos de aplicación. 
+− Secuencias lógicas de funcionamiento. 
+− Montaje de circuitos secuenciales. Simulación de circuitos. Interpretación de 
+esquemas. 
+− Registros. Funcionamiento. Tipos de registros. Software de simulación. 
+− Verificación del funcionamiento de circuitos secuenciales. Cronogramas. 
+Analizador de estados lógicos. 
+− Aplicaciones de circuitos secuenciales. Temporizadores. Contadores. Otros.
+4. Configuración de dispositivos y periféricos y auxiliares: 
+− Bloques funcionales de dispositivos periféricos y auxiliares en sistemas 
+microprocesados. Esquemas eléctricos. Interpretación. Simbología.
+− Memorias. Tipos. RAM. ROM, PROM, EPROM. EEPROM. Otros. Señales de 
+control. Buses. Programación de memorias. 
+− Multivibradores. 
+Circuitos 
+PLL. 
+Tipos. 
+Características. 
+Parámetros 
+de 
+funcionamiento. 
+− Convertidores de datos (DAC-ADC). Análisis de entradas y salidas en conversores 
+DAC-ADC. Parámetros de funcionamiento. 
+− Dispositivos de entrada y salida. Teclados. Visualizadores. Parámetros de 
+funcionamiento. 
+− Puertos de comunicaciones. Controladores de bus. Buses. Tipos. RS232. RS485. 
+Centronics. USB. Firewire. Otros. Características. 
+− Parámetros de funcionamiento. Configuración de teclados. Configuración de 
+displays. Otros.
+5. Configuración de circuitos digitales microprogramables: 
+− Arquitectura de microprocesadores. Unidad de control, registros internos, buses 
+e interrupciones. Microcontroladores. Bloques. Documentación técnica. Juego 
+de instrucciones.
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 53972
+Miércoles, 7 de agosto de 2013
+− Tipos de circuitos microprogramables. PIC. Arquitectura. Características. PAL. 
+GAL. PLD. Otros. 
+− Técnicas de carga de programas en circuitos microprogramables. Volcado de 
+programas por puerto serie y otros.
+− Lenguajes de programación aplicados a los microcontroladores. Técnicas 
+de programación. Algoritmos de programación. Programación estructurada. 
+Programación modular.
+− Entornos de edición y análisis del código de programa. Elaboración de 
+programas. 
+− Montaje de circuitos microprogramables. Conexión a periféricos. Circuitos de 
+aplicación. 
+− Verificación de circuitos microprogramables. Herramientas de análisis y 
+verificación. 
+− Herramientas de depuración. Depuradores. 
+6. Mantenimiento de circuitos electrónicos digitales:
+− Tipología de averías en circuitos electrónicos digitales y microprogramables. 
+Fallos de comunicación. Bloqueos de programa. Ausencia de señales de salida. 
+Otros.
+− Localización de averías en circuitos electrónicos digitales y microprogramables. 
+Esquemas para la localización de averías. Estadísticas de averías. Alimentación. 
+Fallos de programa. Pruebas, medidas y procedimientos. Averías físicas y lógicas. 
+Control de puertos. 
+− Localización de averías en circuitos electrónicos combinacionales y secuenciales. 
+Alimentación. Circuitos auxiliares. Pruebas, medidas y procedimientos. Averías 
+físicas y lógicas. 
+− Instrumentación de laboratorio utilizada en la reparación de averías en circuitos 
+digitales y microprogramables. 
+− Programas emuladores, simuladores, depuradores y otros. Técnicas de 
+depuración de programas de circuitos microprogramables.
+− Análisis de entradas y salidas en equipos con circuitos de electrónica digital 
+microprogramable. 
+− Prevención de daños por descargas electrostáticas. 
+− Herramientas software para la elaboración de informes. 
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 53973
+Miércoles, 7 de agosto de 2013
+Orientaciones pedagógicas y metodológicas. 
+Este módulo profesional contiene la formación necesaria para desempeñar las 
+funciones de configuración, programación y mantenimiento de equipos con circuitos de 
+electrónica digital y microprogramable.
+La definición de estas funciones incluye aspectos como: 
+– 	 Mantener en estado de funcionamiento óptimo los equipos electrónicos digitales 
+y microprogramables. 
+– 	 Instalar mejoras físicas y lógicas en elementos microprogramables. 
+– 	 Diagnosticar averías en equipos electrónicos digitales y microprogramables. 
+– 	 Reparar averías en equipos electrónicos digitales y microprogramables. 
+– 	 Restablecer 
+y/o 
+poner 
+en 
+marcha 
+equipos 
+electrónicos 
+digitales 
+y 
+microprogramables. 
+Las actividades profesionales asociadas a esta función se aplican en: 
+– 	 Mantenimiento preventivo de equipos digitales y microprogramables. 
+– 	 Actualización y reconfiguración lógica de equipos microprogramables. 
+– 	 Reparación de equipos digitales y microprogramables. 
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+e), f), m), n), o), p) y v) del ciclo formativo, y las competencias c), d), i), j), k), l) y p) del 
+título. 
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre: 
+– 	 Reconocimiento de bloques funcionales y componentes de circuitos 
+combinacionales y secuenciales. 
+– 	 Configuración de dispositivos auxiliares en sistemas microprocesados y 
+microprogramables. 
+– 	 Simulación de circuitos microprogramables. 
+– 	 Montaje y verificación del funcionamiento de circuitos combinacionales, 
+secuenciales y microprogramables. 
+– 	 Programación de dispositivos microprogramables. 
+– 	 Reparación de circuitos electrónicos digitales. 
+La prevención en riesgos laborales y protección medioambiental será transversal al 
+resto de los contenidos tratados en el módulo.
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 53974
+Miércoles, 7 de agosto de 2013
+Módulo profesional: Mantenimiento de equipos de radiocomunicaciones.
+Equivalencia en créditos ECTS: 9
+Código: 1053
+Duración: 160 horas
+Contenidos:
+1. 
+Determinación 
+de 
+los 
+bloques 
+constructivos 
+de 
+los 
+equipos 
+de 
+radiocomunicaciones:
+− Bloques de equipos de radiocomunicaciones. Módulos de entrada de 
+audiofrecuencia y radiofrecuencia. Mezcladores. Oscilador local. Amplificadores 
+de frecuencia intermedia. Control automático de frecuencia y ganancia. Otros.
+− Modulación de amplitud. Banda lateral única (BLU-SSB). Doble banda lateral. 
+Banda base. Modulación de frecuencia. Modulación de fase. Espectro de 
+radiofrecuencia.
+− Señales moduladas digitalmente. Características. Tipos. Modulación por amplitud 
+de pulso (ASK), frecuencia (FSK), fase (PSK) y otras. Conversión A/D y D/A. 
+Codificación de adaptación al medio.
+− Equipos y técnicas de medida de módulos de radiocomunicaciones. Visualización 
+de señales. Herramientas de autodiagnóstico.
+− Análisis e interpretación de señales, parámetros, valores y magnitudes. Manejo 
+de manuales de servicio.
+− Características de los módulos de radiofrecuencia. Moduladores y demoduladores. 
+Filtros. Adaptación de impedancias. Amplificadores de radiofrecuencia. Otros. 
+Medidas específicas.
+2. Verificación del funcionamiento de equipos de radiocomunicaciones:
+− Estructura de los sistemas de radiocomunicaciones. Composición. Características 
+técnicas. Ondas electromagnéticas. Tipos. Propagación. Reflexión y difracción, 
+refracción 
+y 
+dispersión. 
+Equipos 
+de 
+radiocomunicaciones. 
+Tipología. 
+Documentación de equipos de radiocomunicaciones analógicos y digitales. 
+Manuales de servicio. Interpretación de esquemas. Simbología normalizada.
+− Equipos de radiodifusión AM, FM y TV. Módulos PLL. Excitadores. Decodificadores. 
+Moduladores. Otros. Estándar DVB-T y DVB-S (difusión de vídeo digital terrestre 
+y vía satélite). 
+− Antenas y sistemas radiantes. Tipos, características y aplicaciones.
+− Accesorios. Cables. Conectores.
+− Comunicaciones terrestres de corto alcance (microfonía e intercomunicación 
+inalámbrica) y largo alcance. Equipos analógicos (banda ancha y espectro 
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 53975
+Miércoles, 7 de agosto de 2013
+expandido, entre otros) y digitales. Radares. Radionavegación. Servicios 
+específicos. Microondas. Modos de trabajo. Dúplex. Semi-dúplex. Full-dúplex. 
+Otros.
+− Comunicaciones vía satélite. Equipos. Interconexión. Aplicaciones y formas de 
+trabajo. Necesidades de mantenimiento. Cables y conectores. Posicionamiento 
+global. Constelaciones de satélites. Coberturas. Medida de parámetros. Control 
+remoto e interconexión redundante. Interfaces de acceso remoto. Técnicas. 
+Comandos específicos.
+− Herramientas software de seguimiento. Software de visualización de señales. 
+Equipos. Interpretación de parámetros. 
+3. Optimización del funcionamiento de equipos de radiocomunicaciones:
+− Ampliación de equipos. Posibilidades y necesidades de la ampliación. 
+Comprobación de la compatibilidad de los elementos hardware. Módulos de 
+control remoto. Métodos comparativos de características. 
+− Técnicas de carga de software y firmware, local y remota. Enlaces por medios 
+guiados. Línea telefónica, TCP/IP y otros. Enlaces no guiados. Radio analógica y 
+digital, GSM, vía satélite y otros.
+− Herramientas de ajuste y reconfiguración mediante accesos remotos y locales. 
+Procedimientos específicos de ajuste y reconfiguración en equipos analógicos y 
+digitales. Emisores. Receptores. Reemisores. Radioenlaces. Otros.
+− Técnicas de verificación de funcionalidades. Medidas y comprobaciones. 
+Interacción con el sistema. 
+− Optimización e integración de funcionalidades. Ajuste de elementos.
+− Normativa de prevención en la verificación de la funcionalidad. Niveles de 
+radiación. Compatibilidad electromagnética. Potencias máximas. Otras.
+− Documentación del plan de calidad. Informes. Medidas. Herramientas software 
+de elaboración de documentación. Histórico de software. Versiones. Mejoras del 
+plan de mantenimiento predictivo. 
+4. Prevención de disfunciones en equipos y módulos:
+− Conexionado de equipos de estaciones base, de radiodifusión y de repetidores. 
+Accesorios. Líneas y conectores. Interfaces. Antenas. Características estructurales 
+y funcionales de los equipos de radio analógica, digital y vía satélite. Estaciones 
+base. Repetidores fijos. Repetidores transportables. Radares. Transpondedores. 
+Otros. 
+− Medición de parámetros de radiofrecuencia. Magnitudes. Métodos de contraste 
+de medidas. Tablas. Programas de comparación y análisis de desviaciones. 
+Particularidades de aplicación de equipos de medida de parámetros de 
+radiocomunicaciones. 
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 53976
+Miércoles, 7 de agosto de 2013
+− Valores de potencia reflejada (ROE) en antena. Valores ROE en líneas de 
+transmisión. Técnicas de contraste de valores.
+− Medida de frecuencias de trabajo, potencia y armónicos, entre otros. Herramientas 
+de autotest. Generadores sintetizados de RF. Cargas. Accesorios.
+− Modos de trabajo. Comunicación semidúplex y dúplex. Otras. Técnicas de 
+verificación de transmisión y recepción.
+− Ejecución de operaciones de mantenimiento preventivo ante averías y 
+disfunciones. Ajustes. Cables, conectores y accesorios. Normativa y medidas de 
+seguridad en la realización de las operaciones de mantenimiento.
+− Documentación del plan de calidad. Informes. Parte de preventivo. Formularios 
+de pedido. Mejoras del plan de mantenimiento. Herramientas software de 
+elaboración de documentación. Actualización de esquemas.
+5. Detección de averías en equipos y sistemas:
+− Asociación y contraste de síntomas de averías en equipos de radiocomunicaciones. 
+Relación con diagramas de bloques según las características de los equipos.
+− Métodos de comprobación de averías en equipos de radiocomunicaciones 
+analógicos y digitales. Análisis de órdenes de trabajo. Manuales de servicio. 
+Sistemas de alimentación. Simuladores.
+− Métodos de medida en equipos de radiocomunicaciones celulares, de alta 
+frecuencia y digitales, entre otros. Analizadores de espectro, medidores de 
+potencia, analizadores analógicos y digitales. Analizadores de comunicaciones. 
+Herramientas software. Accesorios. Procedimientos de actuación y contraste en 
+las medidas de diagnóstico. Herramientas y elementos específicos.
+− Herramientas software y hardware de diagnóstico. Software de visualización. 
+Software de análisis. Medidas y parámetros.
+− Averías típicas en equipos de radiodifusión, repetidores, equipos de estaciones 
+base del estándar tetra, radioenlaces, voz y datos, telemetría y radares, entre 
+otros. Métodos de determinación y contraste. Diagramas de bloques. Análisis 
+de los módulos de entrada, audio, vídeo, datos, interfaces radio y salida, entre 
+otros. Análisis de averías en equipos de medida de radiofrecuencia. Analizadores. 
+Generadores de señal. Monitorización. Otros. Ajustes. 
+− Protección frente a descargas electrostáticas. Equipos y medios. Dispositivos. 
+Características. Técnicas y formas de actuación en el diagnóstico de averías.
+− Herramientas software de elaboración de documentación. Programas informáticos 
+para la elaboración de presupuestos. Informes.
+6. Restitución del funcionamiento de equipos de radiocomunicaciones:
+− Secuencias de montaje de componentes electrónicos en equipos de 
+radiocomunicaciones. Herramientas específicas de calibración. Sujeción, 
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 53977
+Miércoles, 7 de agosto de 2013
+conexionado y soldadura. Conectores. Elementos periféricos. Accesorios y 
+elementos auxiliares.
+− Módulos de sustitución. Manuales de servicio. Características físicas y técnicas. 
+Compatibilidad.
+− Sustitución de elementos y módulos. Recintos de comprobación de 
+equipos. 
+Protección 
+contra 
+interferencias. 
+Inmunidad 
+radioeléctrica. 
+Cámaras semianecoicas. Sistemas de alimentación. Características. Filtros 
+antiparasitarios.
+− Medidores de señales analógicas y digitales (analog and digital radio test set). 
+Monitores y visualizadores de señal. Analizadores ROE. Medidores de potencia. 
+Ajustes de calibración. Métodos de ajuste en equipos de RF, analógicos PMR 
+y digitales. Radares. Transpondedores. Equipos de radionavegación y de 
+posicionamiento global. Equipos de radiodifusión terrestre y vía satélite. Equipos 
+de telefonía GSM/UMTS y de datos. Equipos celulares privados de estándar tetra. 
+Repetidores y radioenlaces. Manuales de servicio. Módulos y etapas. Controlador 
+local, equipos máster y unidades de RF. Ajustes específicos.
+− Ajustes en módulos de entrada, PLL, tratamiento de señal y salida, entre otros. 
+Herramientas software de ajuste local y remoto. Herramientas específicas. 
+Métodos de contraste de medidas.
+− Estándares de señalización: CTCSS, DCS, DTMF y otros. Pruebas funcionales 
+de equipos de RF. Módulos de entrada. Etapas de radiofrecuencia. Módulos de 
+secrafonía. Etapas de salida.
+− Integración del equipo en el sistema. Método de comprobación del sistema. 
+Monitorización remota de señales de autotest. Métodos de contraste de 
+especificaciones técnicas. Herramientas software de verificación y medida. 
+Equipos de medida. Utilización e interpretación de señales y parámetros. 
+− Documentación del plan de calidad. Informe de parámetros y medidas de puesta 
+en marcha. Pruebas de aceptación. Herramientas software de elaboración de 
+documentación.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar la función 
+de planificación y realización del mantenimiento preventivo, diagnóstico, localización y 
+reparación de averías, actualización y optimización de elementos hardware y software y 
+la puesta en servicio de equipos y sistemas de radiocomunicaciones analógicas, digitales, 
+estaciones base, radioenlaces y de radiodifusión.
+La definición de estas funciones incluye aspectos como:
+− Mantener en estado de funcionamiento óptimo los equipos y sistemas electrónicos 
+de radiocomunicaciones.
+− Diagnosticar 
+averías 
+en 
+los 
+equipos 
+y 
+sistemas 
+electrónicos 
+de 
+radiocomunicaciones.
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 53978
+Miércoles, 7 de agosto de 2013
+− Actualizar 
+los 
+elementos 
+hardware 
+de 
+los 
+equipos 
+electrónicos 
+de 
+radiocomunicaciones.
+− Reparar elementos mecánicos y electrónicos de los equipos y sistemas de 
+radiocomunicaciones.
+− Restablecer y/o poner en marcha los equipos y sistemas electrónicos de 
+radiocomunicaciones.
+Las actividades profesionales asociadas a esta función se aplican en:
+− Mantenimiento preventivo de los equipos y sistemas de radiocomunicaciones y 
+de radiodifusión.
+− Diagnóstico de disfunciones e intervenciones de reconfiguración de los equipos.
+− Reparación de averías en equipos y sistemas de radiocomunicaciones y de 
+radiodifusión. 
+− Reconfiguración de los equipos y sistemas de radiocomunicaciones y de 
+radiodifusión.
+− Puesta en servicio de equipos, estaciones base de radiocomunicaciones y 
+sistemas de radiodifusión.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+e), f), h), i), l), m), n), ñ), o), p) y v) del ciclo formativo, y las competencias c), d), e), f), h), 
+i), j), k), l) y p) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre: 
+− Identificación 
+de 
+la 
+composición 
+de 
+los 
+equipos 
+electrónicos 
+de 
+radiocomunicaciones.
+− Verificación del funcionamiento de los equipos de radiocomunicaciones.
+− Diagnóstico y localización de averías y disfunciones en los equipos y sistemas de 
+radiocomunicaciones.
+− Reparación de los equipos y sistemas de radiocomunicaciones.
+− Realización de pruebas funcionales de los equipos de radiocomunicaciones.
+La prevención en riesgos laborales y protección medioambiental será transversal al 
+resto de los contenidos tratados en el módulo.
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 53979
+Miércoles, 7 de agosto de 2013
+Módulo profesional: Mantenimiento de equipos de voz y datos.
+Equivalencia en créditos ECTS: 9
+Código: 1054
+Duración: 192 horas
+Contenidos:
+1. Identificación de equipos de voz y datos:
+− Bloques funcionales de centralitas hardware. Interfaces físicos. Procesado de 
+señales, características y parámetros. Fuentes de alimentación específicas. 
+Bloques de las centralitas inalámbricas DECT. Bloques de los enlaces y 
+generadores de GSM.
+− Bloques de equipos de transmisión de redes ópticas, redes cableadas e 
+inalámbricas. Interfaces. Unidad de control multipunto (MCU-MIP). Amplificadores. 
+Routers. Switches. Características. Tipos. Interfaces. Puntos de acceso.
+− Parámetros de las centralitas telefónicas. Voltajes de línea, impedancias, 
+frecuencias de tono y llamadas, etc. Parámetros de equipos de transmisión. 
+Potencia de entrada. Potencia de salida. Factor de ruido. Ganancia.
+− Bloques funcionales y módulos de los equipos de datos. Placa base. Procesador. 
+Memoria. Entradas y salidas. Discos Duros. Interfaces. Características. Tipos. 
+Fabricantes.
+− Periféricos. Definición. Tipos. Periféricos de entrada: ratón, teclado, webcam, 
+escáner, entre otros. Periféricos de salida: monitor, impresora, otros. Periféricos de 
+almacenamiento. Periféricos de comunicación: módem, tarjeta de red, adaptador 
+bluetooth, etc.
+− Equipos y dispositivos de almacenamiento de datos. Características. Tipos. 
+Discos duros, sistemas ópticos, memorias flash, entre otros.
+2. Verificación del funcionamiento de equipos de transmisión, voz y datos.
+– 	 Introducción a los sistemas de telefonía. Características técnicas. Tipos de líneas: 
+analógicas, digitales y ADSL. Adaptadores, interfaces de RDSI. Centralitas 
+PBX. Centralitas híbridas IP. Características. Composición. Puertos. Técnicas 
+de conexión de centralitas a las redes de operadores. Conexión con redes de 
+usuario. Conexionado de terminales telefónicos. Otros.
+– 	 Configuración de la centralita telefónica. Módulos, Configuración de módulos IP. 
+Software de configuración. Terminales IP. 
+– 	 Centralitas telefónicas inalámbricas. Características. Conexión con redes 
+de operadores. Conexión con centralitas híbridas. Configuración. Antenas. 
+Repetidores. Otros.
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 53980
+Miércoles, 7 de agosto de 2013
+– 	 Parámetros característicos de centralitas telefónicas. Niveles de señal. Calidad 
+de la señal. Equipos. Técnicas de medida.
+– 	 Equipos de transmisión en redes de datos. Tipos. Características. Enrutadores. 
+Conmutadores. Amplificadores ópticos. Concentradores. Otros.
+– 	 Configuración de equipos de transmisión. Módulos. Procesamiento. Interfaces. 
+Memorias. Carga del sistema operativo. Arquitectura de routers, switches y otros. 
+Instrucciones de configuración de enrutamiento. Tipos de redes. Estándares. 
+Características. LAN, MAN, WAN, VLAN, otras. Modelo OSI. Protocolo TCP/IP, 
+entre otros.
+– 	 Parámetros eléctricos y ópticos de los equipos de transmisión. Instrucciones de 
+conectividad. Potencia de emisión. Potencia de recepción. Ganancia. Tramas. 
+Monitorización software. Interpretación. Instrucciones de conectividad. Comandos 
+de seguridad. Administración remota. Conexiones seguras: https, ssh, VPN y 
+otras.
+– 	 Servidores. Configuración. Equipos de almacenamiento en red. Configuración. 
+Tecnologías de almacenamiento directo (DAS), conexión de redes de área de 
+almacenamiento (SAN), dispositivos de almacenamiento en red (NAS), entre 
+otras. Características. Topología. Elementos. Parámetros. Seguridad. Interfaces 
+de conexión.
+– 	 Equipos y técnicas de medida de módulos de transmisión, voz y datos. Visualización 
+de señales, herramientas de autodiagnóstico. Análisis e interpretación de señales, 
+parámetros, valores y magnitudes. Manejo de manuales de servicio.
+3. Realización del mantenimiento preventivo en equipos y módulos:
+– 	 Principales parámetros según tipos de líneas telefónicas. Nivel. Impedancia. 
+Margen de ruido. Atenuación. Corriente de línea. Técnicas de comprobación y 
+medida.
+– 	 Comprobación de la señalización, conmutación y enrutamiento con terminales 
+telefónicos. Terminales analógicos. Terminales digitales específicos. Terminales 
+inalámbricos. DECT. Wi-Fi. Terminales IP. SoftPhone. Protocolos. PoE.
+– 	 Integración de subsistemas telefónicos locales. Generadores de línea. Enlaces 
+locales de línea. Repetidores. Puertos de conexión y monitorización de estados. 
+Módulos DECT incorporados en centralitas PBX. Parámetros de las centralitas 
+inalámbricas. Parámetros de subsistemas telefónicos. 
+– 	 Comprobación de la señalización de estado en equipos de transmisión. 
+Interpretación de secuencias y carencias. Monitorización. Control de errores. 
+Contadores de tráfico. Filtrado broadcast y multicast. Conmutación por pérdida 
+de señal (LOS). Conmutación en sistemas redundantes. 
+– 	 Técnicas de mantenimiento preventivo en equipos de transmisión de datos. 
+Programas de testeo de paquetes de red. Analizador de paquetes de red.
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 53981
+Miércoles, 7 de agosto de 2013
+– 	 Comprobación de parámetros de servidores. Carga del sistema operativo. Carga 
+de aplicaciones y servicios. Sistemas de almacenamiento. Local y remoto. RAID 
+y NAS. Configuración de seguridad. Herramientas Software de comprobación.
+– 	 Informes. Medidas. Herramientas software de elaboración de documentación. 
+Histórico de Software. Versiones. Mejoras del plan de mantenimiento. 
+4. Optimización del funcionamiento de equipos y sistemas:
+– 	 Elementos hardware de centralitas telefónicas. Módulos de megafonía. Módulos 
+de grabación. Música en espera. Ampliación de tarjetas de memoria. Módulos 
+de puertos de comunicaciones con otros dispositivos. Porteros y video-porteros. 
+Módulos de activación de relés. Mensajería vocal. Otros.
+– 	 Técnicas de instalación de software (drivers) de control de elementos software. 
+Carga en modo local. Carga de forma remota. Proceso. 
+– 	 Configuración de parámetros de módulos adicionales en centralitas telefónicas. 
+Técnicas de integración y reconocimiento de módulos. Activación de módulos. 
+Programación de funciones en memoria. Comprobación de los parámetros.
+– 	 Sistemas de acceso local y remoto a centralitas telefónicas, equipos de transmisión 
+y de datos. Cambio de parámetros. Características de los accesos por cable. 
+Características de los accesos inalámbricos. Técnicas de acceso. Configuración. 
+Puertos de configuración. Características. Software específico. Configuración 
+virtual.
+– 	 Tipologías de pruebas de carga máxima. Software de testeo de equipos de 
+datos y almacenamiento. Calidad del servicio (QoS). Definición. Características. 
+Implementación en dispositivos de almacenamiento. Técnicas de medición del 
+rendimiento de sistemas y componentes (programas Benchmark). 
+– 	 Técnicas de comprobación de nuevas funcionalidades. Reconfiguración. 
+Procedimientos. Secuencias. Contraste. Medidas y comprobaciones. Interacción 
+con el sistema. Verificación de la funcionalidad e integración. Mejoras 
+conseguidas.
+– 	 Documentación de las nuevas funcionalidades. Historiales e informes hardware. 
+Histórico de software. Versiones. Herramientas software de elaboración de 
+documentación. 
+5. Restablecimiento del funcionamiento de equipos de transmisión, voz y datos:
+– 	 Asociación y contraste de síntomas de averías en equipos de voz, transmisión 
+y datos. Relación con diagramas de bloques según las características de los 
+equipos.
+– 	 Secuencias de montaje de componentes electrónicos en equipos de transmisión, 
+voz y datos. Herramientas específicas de calibración. Sujeción, conexionado 
+y soldadura. Pulseras de descarga ESD. Conectores. Elementos periféricos. 
+Accesorios y elementos auxiliares. Métodos de comprobación de averías 
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 53982
+Miércoles, 7 de agosto de 2013
+en equipos de voz, transmisión y datos. Análisis de órdenes de trabajo. 
+Simuladores.
+– 	 Métodos de medida en equipos de telefonía, de transmisión y de datos. 
+Analizadores de espectro, medidores de potencia, analizadores analógicos y 
+digitales. Herramientas software. Accesorios. Procedimientos de actuación y 
+contraste en las medidas de diagnóstico. Herramientas y elementos específicos. 
+Software de visualización. Software de análisis. Medidas y parámetros.
+– 	 Averías típicas en centralitas telefónicas, equipos de transmisión y equipos de 
+datos. Métodos de determinación y contraste. Diagramas de bloques. Detección 
+de averías según el modelo OSI: interfaces de entrada y salida, placas base 
+y módulos de almacenamiento. Análisis del histórico de averías. Módulos de 
+sustitución. Manuales de servicio. Características físicas y técnicas. Técnicas de 
+comprobación de compatibilidad.
+– 	 Sustitución de elementos y módulos. Sistemas de alimentación. Características. 
+Compatibilidad. Medidores de señales analógicas y digitales. Monitores y 
+visualizadores de señal. Contraste con medidores de potencia óptica. Ajuste 
+de calibración. Métodos de ajuste en equipos de transmisión, voz y datos. 
+Analizadores de redes.
+– 	 Técnicas de reconfiguración de módulos y elementos. Carga del software de 
+control.
+– 	 Integración del equipo en el sistema. Método de comprobación del sistema. 
+Monitorización remota de señales de autotest. Métodos de contraste de 
+especificaciones técnicas. Herramientas software de comprobación y medidas. 
+– 	 Herramientas software de elaboración de documentación. Programas para la 
+elaboración de presupuestos. Informe de parámetros y medidas de puesta en 
+marcha.
+6. Cumplimiento de las normas de prevención de riesgos laborales y ambientales en 
+la reparación de equipos electrónicos de voz y datos:
+– 	 Normas de prevención de riesgos.
+– 	 Normativa de seguridad en la utilización de máquinas, útiles y herramientas de 
+corte, soldadura y montaje de equipos electrónicos de voz y datos.
+– 	 Elementos de seguridad implícitos en las máquinas de corte, soldadura y montaje 
+de equipos electrónicos de voz y datos.
+– 	 Elementos externos de seguridad: guantes metálicos, gafas y otros.
+– 	 Normas de seguridad en las operaciones con adhesivos.
+– 	 Condiciones de seguridad del puesto de trabajo.
+– 	 Ergonomía en la realización de las diferentes operaciones.
+– 	 Limpieza y conservación de las máquinas y del puesto de trabajo.
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 53983
+Miércoles, 7 de agosto de 2013
+– 	 Tratamiento de residuos en el proceso de reparación y montaje.
+– 	 Normas de seguridad individual y medioambiental en la utilización de productos 
+químicos y componentes electrónicos de voz y datos.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar la función 
+de diagnóstico, localización y reparación de averías, la actualización y optimización de 
+elementos hardware y software, y la puesta en servicio de equipos y sistemas de voz y 
+datos.
+La definición de estas funciones incluye aspectos como:
+– 	 Mantener en estado de funcionamiento óptimo los equipos y sistemas electrónicos 
+de voz y de datos.
+– 	 Diagnosticar averías en los equipos y sistemas electrónicos de voz y de datos.
+– 	 Actualizar los elementos hardware y software de los equipos electrónicos de voz 
+y de datos.
+– 	 Reparar elementos mecánicos y electrónicos de los equipos y sistemas de voz y 
+de datos.
+– 	 Restablecer y/o poner en marcha los equipos y sistemas electrónicos de voz y de 
+datos.
+Las actividades profesionales asociadas a esta función se aplican en:
+– 	 Realización del mantenimiento preventivo de los equipos y sistemas.
+– 	 Optimización del funcionamiento de sistemas y equipos de voz y de datos.
+– 	 Diagnóstico de disfunciones e intervenciones de reconfiguración de los equipos.
+– 	 Reparación de averías y puesta en servicio de equipos y sistemas de voz y de 
+datos. 
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+e), f), h), i), l), m), n), ñ), o), p) y v) del ciclo formativo, y las competencias c), d), e), f), h), 
+i), j), k), l) y p) del título. 
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo versarán sobre:
+– 	 Identificar la composición de los equipos electrónicos de voz y de datos.
+– 	 Verificar el funcionamiento de los equipos de voz y de datos.
+– 	 Administrar de forma local y remota los equipos de voz y de datos.
+– 	 Optimizar y mejorar los equipos de voz y de datos.
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 53984
+Miércoles, 7 de agosto de 2013
+– 	 Diagnosticar y localizar averías y disfunciones en los equipos y sistemas de voz 
+y de datos.
+– 	 Reparar equipos y sistemas de voz y de datos.
+– 	 Realizar pruebas funcionales de los equipos de voz y de datos.
+La prevención en riesgos laborales y protección medioambiental será transversal al 
+resto de los contenidos tratados en el módulo.
+Módulo profesional: Mantenimiento de equipos de electrónica industrial.
+Equivalencia en créditos ECTS: 10
+Código: 1055
+Duración: 168 horas
+Contenidos:
+1. Identificación del funcionamiento de equipos de electrónica industrial:
+− Equipos industriales. Control de máquinas eléctricas. Variador de velocidad.
+− Servoaccionamientos. Tipología y características. Sistemas electrónicos de 
+potencia. Equipos y cuadros de control. Configuración de los sistemas de potencia 
+y control. Convertidores de energía eléctrica. Rectificadores. Inversores. Módulo 
+de potencia. Otros.
+− Componentes y elementos empleados en la automatización. Motores y 
+acoplamientos. Motores CC-CA. Servomotores. Motores paso a paso. Encoders. 
+Otros.
+− Sistemas de control programados. Automatización electromecánica. PLC. 
+Estructura externa. Sistema de alimentación. Módulos de entradas y salidas de 
+señales. Módulo lógico. 
+− Redes locales industriales. Tipos y aplicaciones. Procesos de comunicación. 
+Protocolos.
+− Robotización industrial. Robots y manipuladores industriales. Tipos y aplicaciones. 
+Visión artificial.
+− Elementos auxiliares en equipos industriales. Fuentes conmutadas industriales. 
+Baterías. Interferencias. Filtros. Temporizadores.
+− Sensores. Actuadores. Protección de dispositivos y circuito. Elementos de 
+protección. Conectores industriales. Tipos. Dispositivos electromecánicos. 
+Otros.
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 53985
+Miércoles, 7 de agosto de 2013
+2. Determinación de los bloques en equipos de potencia y control:
+− Dispositivos electrónicos de potencia. Configuración de los sistemas electrónicos 
+de potencia. Transformadores. Rectificadores. Convertidores CC/CA y CC/CC. 
+Otros.
+− Componentes electrónicos. Diodos. Diacs. Transistores. MOSFET. Tiristores. 
+Triacs. IGBT. Otros.
+− Medida de parámetros de los dispositivos de potencia. Instrumentos y 
+procedimientos de medida. Técnicas y medios utilizados. Equipos de medida. 
+Software de visualización.
+− Principios de la regulación automática. Procesos. Clasificación y características. 
+Regulación manual y automática. Realimentación. Controles analógicos y 
+digitales. Adquisición y tratamiento de datos. Estructura básica. Transductores. 
+Acondicionadores de señal. Transmisores. Sistemas multilazo de control. Tipos y 
+características. De ratio. En cascada. De gama partida. Por realimentación. 
+− Técnicas y regulación de velocidad de motores. Sistemas de posicionamiento. 
+Frenado eléctrico.
+− Parámetros fundamentales de equipos industriales de potencia. Parámetros en 
+el control de motores. Interferencias y armónicos. Filtros.
+− Medida de señales en sensores y transductores. Dinamo tacométrica. Encoder 
+absolutos y relativos.
+− Condiciones de trabajo de equipos industriales. Protección de dispositivos y 
+circuitos. Enfriamiento y disipadores de calor. Relés de seguridad. Normativa.
+3. Caracterización de los bloques funcionales de los sistemas lógicos 
+programables:
+− Estructura general del autómata. Compacta. Semimodular. Modular. CPU. 
+Memorias (ROM Y RAM). Sistemas de E/S. Conversores AD/DA. Alimentación 
+eléctrica. Sistemas secuenciales de control. Sistemas de control programados. 
+Autómatas programables. Funciones y características. Ciclo de funcionamiento. 
+Aplicaciones del autómata. Control electro-fluido: Neumático, Hidráulico. 
+Simbología y representación gráfica. Equipos. Elementos y dispositivos. 
+Tipología.
+− Sistemas de alimentación conmutada en PLC. Características. Tipos. 
+− Módulos analógicos de entrada. Módulos de salida. Características. Módulos de 
+comunicación. Módulos de pulsos. Módulos auxiliares. 
+− Medidas de las señales de entrada. Acoplamiento directo, equipos, instrumentos 
+de medida y medios técnicos auxiliares. Optoacoplamiento. Calidad y nivel de las 
+señales. Equipos específicos. 
+− Procedimientos de medida en las comunicaciones del autómata con su entorno. 
+Buses de comunicación. 
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 53986
+Miércoles, 7 de agosto de 2013
+− Tipos de lenguajes de programación. Literal. De contactos. GRAFCET. Carga de 
+programas. Modos y elementos. 
+− Técnicas de carga de programas en autómatas programables. Consolas de 
+programación. Puertos de comunicaciones. Serie. Ethernet. Otros. Carga local y 
+de forma remota.
+4. Identificación de bloques y elementos de equipos de redes de comunicaciones:
+− Comunicaciones industriales. Redes locales industriales. Fundamentos. 
+Arquitectura y tipología. Normalización. Métodos de acceso. Modos y medios de 
+transporte. Multiplexores y concentradores. Terminales. Telemando, telemetría, 
+otros.
+− Equipos industriales de transmisión. Tipos. Características. Enrutadores. 
+Repetidores. Otros.
+− Transmisión de datos. Analógica y digital. Modalidades de transmisión. Tipología 
+y características. Serie y paralelo.
+− Redes industriales inalámbricas. Comunicaciones vía radio. LAN inalámbricas: 
+Ethernet y bluetooth.
+− Buses de campo. Fundamentos y características. Buses de comunicación 
+industriales. Tipos. FIP (field instrumentation protocol). PROFIBUS (Process 
+FleldBUS). CAN. DeviceNet. COMPOBUS. CANopen. Otros.
+− Elementos de protección activos y pasivos de buses industriales. Fiabilidad y 
+seguridad en instalaciones. Protección frente agentes externos: humedad, 
+temperatura, vibraciones y otros.
+− Instrumentos de medida y control. Comprobador redes LAN industriales. 
+Parámetros de comunicación. Protocolos. Estándares de comunicación básicos: 
+RS-232, RS-422, RS-485, otros. Función y características. Normalización. Modelo 
+OSI. Medidas de parámetros en redes de sistemas de supervisión y control: 
+tiempos de respuesta, volumen de datos, distancias y control de accesos, entre 
+otros. SCADA. Acceso remoto. Alarmas y eventos.
+5. Distinción de sistemas integrados industriales:
+− Tipos de manipuladores y robots. Manipuladores. Tipos y características. 
+Aplicaciones. Elementos de máquinas. Transformaciones y características. Grados 
+de libertad. Espacio de trabajo. Precisión de los movimientos. Capacidad de carga. 
+Velocidad. Tipo de actuadores. Sistemas CAD-CAM-CAE. Automatización de 
+procesos industriales. Máquinas herramientas automatizadas. Estructura básica 
+de un automatismo industrial. Clasificación de los automatismos. Dispositivos de 
+actuación en los procesos secuenciales. Tipología y características. Campos de 
+actuación.
+− Robots industriales. Morfología de un robot industrial. Tipos. De repetición y 
+aprendizaje. Controlados por PC. Inteligentes. Micro-robots. Características. 
+Comunicación entre robots y su entorno. Características y procedimientos.
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 53987
+Miércoles, 7 de agosto de 2013
+− Bloques y elementos utilizados por robots y manipuladores. Sensores, actuadores 
+y sistemas de control para robots y manipuladores. Grados de control. Posición. 
+Cinemático. Dinámico. Adaptativo.
+− Sistemas de programación de manipuladores y robots. Tipos. Características. 
+Clasificación. Accesos por consola. Programación remota.
+− Técnicas de comprobación del funcionamiento de elementos y dispositivos. 
+Servomecanismos. Encoders. Control de posición. Otros.
+− Características de trabajo de los sistemas robóticos. Protección activa y pasiva.
+6. Detección de averías y disfunciones en equipos industriales:
+− Averías típicas en sistemas de potencia y control industriales. Etapas de 
+transformación, rectificación, filtrado y regulación. Sistemas inversores. 
+− Averías típicas en equipos industriales y redes locales de comunicación industrial. 
+Buses de campo. Protocolos de comunicación. Líneas de transmisión. Software. 
+Transmisión de datos. Medios y equipos.
+− Averías típicas en automatismos industriales. Redes de autómatas. Transductores. 
+Conversores. Robots y micro-robots, otros. Análisis de las disfunciones. Diagnosis 
+de averías de tipo físico y/o lógico.
+− Criterios de comprobación del conexionado de elementos en los equipos 
+industriales. Equipos de visualización y medidas de parámetros. Sensores y 
+actuadores. Motores. Conectores. Líneas de transmisión. Software de medida y 
+visualización.
+− Técnicas de localización de averías. Equipos y herramientas. Inspección visual. 
+Esquemas para la localización de averías. Estadísticas de averías. Técnicas de 
+contrastes de medidas.
+− Herramientas software para la elaboración de informes. Documentos de registro 
+de intervenciones.
+7. Reparación de equipos industriales:
+− Procedimientos y secuencia de desmontaje y montaje de las partes mecánicas. 
+Diagramas y esquemas eléctricos de conexionado. Planos mecánicos. Tipología 
+de averías en sistemas industriales. Sistemas secuenciales. PLC. Equipos de 
+comunicación industrial. Robots y manipuladores, otros.
+− Sustitución de módulos y componentes.
+− Actualización de circuitos y elementos físicos y/o lógicos. Programas de control. 
+Optimización de la funcionalidad. Verificación de la secuenciación de instrucciones. 
+Actualización de software y tarjetas de comunicación. 
+− Técnicas de ajuste de módulos y elementos industriales. Reprogramación de 
+PLC. Lenguajes. Contactos. GRAFCET. Otros. Manuales técnicos. Hojas de 
+características. 
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 53988
+Miércoles, 7 de agosto de 2013
+− Metodología para la verificación y comprobación de funcionalidades de los 
+sistemas industriales. 
+− Normativa y reglamentación específica. Reglamento electrotécnico de BT e 
+instrucciones complementarias. Descargas eléctricas. Radiaciones. Interferencias. 
+Residuos. Otras.
+− Herramientas software para la elaboración del histórico de averías. Documentos 
+de registro de intervenciones.
+8. Cumplimiento de las normas de prevención de riesgos laborales y ambientales en 
+la reparación de equipos de electrónica industrial:
+− Normas de prevención de riesgos.
+− Normativa de seguridad en la utilización de máquinas, útiles y herramientas de 
+corte, soldadura y montaje de equipos de electrónica industrial.
+− Elementos de seguridad implícitos en las máquinas de corte, soldadura y montaje 
+de equipos de electrónica industrial.
+− Elementos externos de seguridad: guantes metálicos, gafas y otros.
+− Normas de seguridad en las operaciones con adhesivos.
+− Condiciones de seguridad del puesto de trabajo.
+− Ergonomía en la realización de las diferentes operaciones.
+− Limpieza y conservación de las máquinas y del puesto de trabajo.
+− Tratamiento de residuos en el proceso de reparación y montaje.
+− Normas de seguridad individual y medioambiental en la utilización de productos 
+químicos y componentes electrónicos.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar las 
+funciones de reparación, mantenimiento y actualización de los elementos y equipos 
+electrónicos utilizados en la regulación de potencia, control y automatización de los 
+procesos industriales.
+La definición de estas funciones incluye aspectos como:
+− Identificar componentes electrónicos empleados en la regulación y control de 
+potencia.
+− Reconocer equipos utilizados en automatización industrial.
+− Localizar y diagnosticar averías en los equipos de automatización industrial. 
+− Reparar equipos y sistemas electrónicos de aplicación industrial.
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 53989
+Miércoles, 7 de agosto de 2013
+− Poner en marcha equipos electrónicos de potencia y control, comunicaciones 
+industriales y automatismos integrados de tipo industrial.
+Las actividades profesionales asociadas a esta función se aplican en:
+− Diagnóstico de averías en los equipos y sistemas electrónicos industriales. 
+− Reparación de equipos electrónicos de potencia y control, automatismos y 
+comunicaciones industriales.
+− Puesta en marcha de equipos electrónicos de potencia y control, automatismos 
+y comunicaciones industriales.
+− Mantener en estado de funcionamiento óptimo equipos y sistemas industriales, 
+equipos electrónicos de potencia y control, automatismos y comunicaciones 
+industriales. 
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+e), f), h), i), l), m), n), ñ), o), p) y v) del ciclo formativo, y las competencias c), d), e), f), h), 
+i), j), k), l) y p) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+− Reconocimiento de los bloques y equipos de los sistemas de control de 
+potencia.
+− Reconocimiento de los bloques y elementos de los sistemas lógicos 
+programables.
+− Reconocimiento de los bloques y elementos de las redes de comunicación 
+industrial y buses.
+− Reconocimiento de los robots y manipuladores industriales. 
+− Detección de averías y disfunciones en equipos industriales, identificando sus 
+causas.
+− Reparación de equipos de potencia y control industrial.
+− Reparación de autómatas programables y robots industriales.
+− Reparación equipos de redes de comunicaciones industriales.
+− Puesta en servicio de equipos y sistemas industriales.
+La prevención en riesgos laborales y protección medioambiental será transversal al 
+resto de los contenidos tratados en el módulo.
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 53990
+Miércoles, 7 de agosto de 2013
+Módulo profesional: Mantenimiento de equipos de audio.
+Equivalencia en créditos ECTS: 6
+Código: 1056
+Duración: 105 horas
+Contenidos:
+1. Distinción de los bloques funcionales de los equipos de audio:
+− Formas de onda y características de las señales de audio. Parámetros 
+fundamentales del sonido: frecuencia, velocidad de propagación, longitud de 
+onda, potencia, presión e intensidad sonora. Escalas de medida logarítmicas. 
+Características fisiológicas del oído humano. Relación con las características 
+físicas del sonido.
+− Función de los módulos de audio. Adaptación de los niveles de las señales 
+proporcionadas por las distintas fuentes. Módulo de entrada. Módulos de 
+tratamiento de señal. Modificación de los niveles en función de la frecuencia 
+mediante filtros de diversos tipos. Otros. Módulo de salida. Amplificadores de 
+potencia. Circuitos de protección: protección contra sobrecargas, cortocircuitos o 
+exceso de temperatura. Otros.
+− Características de los bloques funcionales de audio. Impedancia de entrada. 
+Nivel de señal máxima admitida en cada tipo de entrada. Impedancia de salida. 
+Niveles máximos de tensión y corriente a la salida. Nivel de ruido. Alimentación. 
+Otras.
+− Funcionamiento de los bloques de audio. Técnicas de comprobación. 
+Comportamiento con señales parásitas. Ruidos y zumbidos.
+− Equipos y técnicas de medida en baja frecuencia. GBF. Osciloscopio. analizador 
+de espectro. Otros. Parámetros de los módulos de audio. Ganancia o atenuación. 
+Distorsión. Relación señal/ruido. Impedancia. Otros.
+− Análisis e interpretación de señales, parámetros, valores y magnitudes. Respuesta 
+en frecuencia. Ancho de banda. Otros. Curvas características.
+2. Verificación del funcionamiento de los equipos de preamplificación y mezclas:
+− Circuitos preamplificadores de tensión. Mezcladores. Estructura interna. Tipos 
+de entradas. Entrada de micrófono. Entrada de línea. Circuitos balanceados y no 
+balanceados. Otras. Impedancia. 
+− Micrófonos. Tipos. Dinámicos. Condensador. Electret. Inalámbricos. Otros. 
+Características. Directividad. Sensibilidad. Respuesta en frecuencia. Otras. 
+Aplicaciones y usos.
+− Características técnicas de previos y mezcladores. Tipos de preamplificadores y 
+mesas de mezcla. Parámetros de las entradas. Manuales de servicio. Manuales 
+de usuario. Esquemas de interconexión de etapas. Diagramas de nivel de la 
+señal en las diferentes etapas.
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 53991
+Miércoles, 7 de agosto de 2013
+− Parámetros de los previos. Interconexión de etapas. Distorsión. Nivel de ruido. 
+Otros. Métodos de obtención de curvas características. Ancho de banda. 
+Respuesta en frecuencia.
+− Ganancia de las entradas de previos y mezcladores. Niveles de entrada máximos 
+y mínimos. Software de visualización y medida.
+− Parámetros de las mesas de mezcla. Entradas. Tipos. Mandos de ajuste de 
+amplificación y atenuación. Monitorización de canales. Ecualización de canales. 
+Curvas de respuesta. Vu-meter.
+− Mesas de mezcla digitales. Asignación de grupos. Función de preselección de 
+ajustes (presets). Bandas de ecualización. Manuales de servicio. Manuales de 
+usuario. Esquemas de interconexión. Diagramas de nivel de la señal en las 
+diferentes etapas.
+− Configuración de mesas de mezcla analógicas y digitales. Audio digital. 
+Características. Proceso de conversión A/D y D/A. Tarjetas de adquisición de 
+datos procesadas DSP. Conexiones externas de entrada analógicas y digitales.
+− Salidas analógicas y digitales de las mesas de mezcla. Controles master. 
+Características. Módulos de control en mesas digitales. Módulos de interconexión 
+con otros equipos. Buses. Conversores de medios. Manuales de usuario. 
+Esquemas de interconexión. Niveles de las diferentes etapas.
+3. Comprobación del funcionamiento de equipos de procesado, distribución y 
+amplificación:
+− Características técnicas de los equipos de procesado. Limitadores. Puertas 
+de ruido. Características técnicas de los equipos de distribución. Manuales de 
+servicio. Manuales de usuario.
+− Dinámica de compresores y expansores automáticos de ganancia. Rangos. 
+Configuración. Limitadores. Puertas de ruido. Enfatizadores de voz. Realce de 
+frecuencia. Cambiadores de voz. Otros.
+− Técnicas de medida de señales de salida de los procesadores. Osciloscopios 
+digitales. Análisis de señales. 
+− Distribuidores de audio. Velocidad y dinámica de conmutación. Transición de la 
+señal. Controles de nivel de entrada y salida. 
+− Amplificadores-mezcladores. Alimentación. Entradas. Tipos. Balanceadas y no 
+balanceadas. Entrada de micrófono. Entrada de línea. Otros. Niveles de entrada. 
+Sensibilidad. Relación señal/ruido. 
+− Etapas de potencia. Nivel de la señal de entrada. Sensibilidad de entrada. Salida 
+de potencia con línea de 100V. Salida de potencia de baja impedancia. Otros. 
+Cargas ficticias. Tipos de potencia de salida. Técnicas de medida de la potencia 
+de salida. 
+− Circuitos de protección en las etapas de potencia. Sistemas de disipación de 
+temperatura. Protección contra cortocircuitos. Protección por sobrecargas. 
+Otros.
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 53992
+Miércoles, 7 de agosto de 2013
+4. Detección de averías y disfunciones en equipos y sistemas de audio:
+− Fases, tareas y procesos de mantenimiento en equipos y sistemas de audio. 
+Equipos y herramientas específicas. Señales patrón. 
+− Medidas en las fuentes de alimentación de audio. Comprobación de rectificadores, 
+filtros, conexiones de masa y otros. Visualización de la señal con herramientas 
+virtuales.
+− Criterios de comprobación del conexionado de módulos en los equipos de audio, 
+preamplificadores, mezcladores y filtros, entre otros. 
+− Criterios de comprobación del conexionado de equipos en sistemas de audio, 
+mesas de mezcla, procesadores y etapas, entre otros. Medida de señales en 
+puntos críticos y de prueba. Lectores y reproductores de audio digital. Sistemas 
+de grabación y almacenamiento digital.
+− Medida de señales en amplificadores y etapas de potencia. Visualización de 
+señales patrón. Rendimiento del equipo en amplitud y frecuencia. Distorsiones. 
+Verificación de corrientes de reposo. Otras medidas.
+− Software de visualización, conversión y medida de señales de audio digital. 
+− Técnicas de contraste de medidas y parámetros de audio. Herramientas de 
+generación de señales de prueba. Medida en puntos de prueba. Planes de 
+mantenimiento de equipos de audio.
+− Técnicas de localización de módulos averiados. Análisis del espectro de audio 
+con herramientas software. Otras herramientas. Técnicas de análisis. 
+− Herramientas software de elaboración de informes. Partes de trabajo. Elaboración 
+de presupuestos de reparación de equipos de audio.
+5. Reparación de averías en equipos de audio y dispositivos electroacústicos:
+− Proceso de ensamblado y desensamblado del equipo y componentes. 
+Herramientas y medios técnicos y materiales. Manuales de servicio. Protocolos 
+de actuación.
+− Averías típicas en equipos de audio. Distorsiones. Averías asociadas a cableados 
+y conectores. Averías asociadas a fallos en entradas y salidas. Sintomatología 
+típica. Técnicas de asociación y contraste de síntomas de averías. Proceso de 
+sustitución de componentes electrónicos. 
+− Compatibilidad de elementos, componentes, módulos de audio y equipos. 
+Técnicas de análisis. Hojas de características técnicas.
+− Proceso de comprobación del funcionamiento de los equipos de audio. Análisis 
+de su respuesta: amplitud. Frecuencia y Ganancia. 
+− Dispositivos electroacústicos. Altavoces. Características. Hojas de características 
+técnicas. Accesorios. Kits de reparación de diafragmas. Bafles pasivos y 
+autoamplificados. Tipos. Bass-réflex. Con radiador pasivo. Otros. Filtros pasivos. 
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 53993
+Miércoles, 7 de agosto de 2013
+Otros. Técnicas de medida de presión acústica. Sonómetro. Técnicas de análisis 
+de respuesta en frecuencia de bafles y altavoces. 
+− Documentación del plan de calidad. Valoración de tiempos y materiales.
+6. Cumplimiento de las normas de prevención de riesgos laborales y ambientales en 
+la reparación de equipos de audio:
+− Normas de prevención de riesgos.
+− Normativa de seguridad en la utilización de máquinas, útiles y herramientas de 
+corte, soldadura y montaje de equipos electrónicos.
+− Elementos de seguridad implícitos en las máquinas de corte, soldadura y montaje 
+de equipos electrónicos. 
+− Elementos externos de seguridad: guantes metálicos, gafas y otros.
+− Normas de seguridad en las operaciones con adhesivos.
+− Condiciones de seguridad del puesto de trabajo.
+− Ergonomía en la realización de las diferentes operaciones.
+− Limpieza y conservación de las máquinas y del puesto de trabajo.
+− Tratamiento de residuos en el proceso de reparación y montaje.
+− Normas de seguridad individual y medioambiental en la utilización de productos 
+químicos y componentes electrónicos.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar la 
+función de mantenimiento preventivo, diagnóstico, localización y reparación de averías, 
+actualización y puesta en servicio de equipos y sistemas de audio analógico y digital.
+La definición de estas funciones incluye aspectos como:
+− Mantener en estado de funcionamiento óptimo de los equipos y sistemas de 
+audio.
+− Diagnosticar averías en los equipos y sistemas electrónicos de audio y dispositivos 
+electroacústicos. 
+− Reparar elementos mecánicos y electrónicos de los equipos y sistemas de 
+audio.
+− Reparar dispositivos electroacústicos.
+− Restablecer y/o poner en marcha los equipos y sistemas electrónicos de audio y 
+dispositivos electroacústicos.
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 53994
+Miércoles, 7 de agosto de 2013
+Las actividades profesionales asociadas a esta función se aplican en:
+− Mantenimiento preventivo de los equipos y sistemas de audio.
+− Diagnóstico de disfunciones e intervenciones de reconfiguración de equipos de 
+audio.
+− Reparación de averías en equipos y sistemas de audio. 
+− Reparación de los dispositivos electroacústicos.
+− Reconfiguración de los equipos y sistemas de audio.
+− Puesta en servicio de equipos sistemas de audio.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+e), f), h), i), l), m), n), ñ), o), p) y v) del ciclo formativo, y las competencias c), d), e), f), h), 
+i), j), k), l) y p) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+− Identificación de la composición de los equipos electrónicos de audio.
+− Verificación del funcionamiento de los equipos de preamplificación y mesas de 
+mezcla.
+− Comprobación del funcionamiento de los equipos procesadores, de distribución 
+y amplificación de sonido.
+− Diagnóstico y localización de averías y disfunciones en los equipos y sistemas de 
+sonido.
+− Reparación de equipos y sistemas de sonido y dispositivos electroacústicos.
+− Realización de pruebas funcionales de los equipos de audio.
+La prevención en riesgos laborales y protección medioambiental será transversal al 
+resto de los demás módulos.
+Módulo profesional: Mantenimiento de equipos de vídeo.
+Equivalencia en créditos ECTS: 6
+Código: 1057
+Duración: 126 horas
+Contenidos:
+1. Verificación del funcionamiento de equipos de vídeo:
+− Señales de vídeo analógicas y digitales. Técnicas de medida. 
+− Características y parámetros fundamentales. Generadores y medidores de 
+señales de vídeo. Monitor forma de onda. Vectorscopio.
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 53995
+Miércoles, 7 de agosto de 2013
+− Equipos de vídeo. Cámaras, monitores, receptores de televisión, proyectores 
+de vídeo, distribuidores y conmutadores, grabadores y reproductores de vídeo. 
+Tipos, prestaciones y características técnicas.
+− Estructura interna y funcionamiento de equipos de vídeo. Diagramas de bloques. 
+Despieces.
+− Esquemas eléctricos típicos. Procesos de señal. Sistemas mecánicos. 
+Servosistemas. Circuitos de control. Circuitos de temporización y sincronismos. 
+Circuitos de alimentación.
+− Documentación técnica de equipos de vídeo. Memoria de funcionamiento. Planos 
+y esquemas. Otros documentos técnicos. Oscilogramas. Métodos de ajuste. Guía 
+de resolución de problemas. Hoja de especificaciones técnicas. 
+2. Mantenimiento de equipos de captación de vídeo:
+− Plan de mantenimiento preventivo de cámaras de vídeo. Elementos y criterios de 
+comprobación. Periodos de mantenimiento preventivo.
+− Herramientas y materiales específicos. Cartas de comprobación visual. 
+− Inspección visual. Limpieza general de equipos. Limpieza de elementos mecánicos 
+y eléctricos. Limpieza de lentes y componentes optoelectrónicos. Limpieza de 
+contactos. 
+− Equipos y medidas en el mantenimiento de equipos de vídeo. Puntos de 
+comprobación. Valores de referencia. Distorsión lineal y no lineal. Gamma. 
+Resolución. Niveles de luminancia y crominancia. Fase de crominancia. 
+− Técnicas de medida. Calibración de equipos de medida.
+− Técnicas de mantenimiento preventivo de equipos de audio y vídeo. Protección 
+electrostática. 
+− Ajustes de servicio en equipos de audio y vídeo. Puntos de ajuste. Técnicas de 
+ajuste.
+− Documentación del mantenimiento preventivo. Informe de intervención. Parte de 
+trabajo.
+3. Puesta en servicio de equipos averiados de captación de vídeo:
+− Averías típicas en cámaras de vídeo. Ruidos y distorsiones. Averías en los 
+procesos de señal, de alimentación y de control.
+− Averías asociadas a cableados, contactos y conexiones. Averías en elementos 
+ópticos y optoelectrónicos. Síntomas típicos.
+− Técnicas de localización de averías. Estadísticas de averías por tipo de 
+componentes. Inspección visual. Localización por aproximaciones sucesivas. 
+Árboles de localización de averías. Modo de servicio y autodiagnóstico. Medidas 
+clave en la localización. Desmontaje de cámaras de vídeo. Despieces. Expansores 
+de conexiones.
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 53996
+Miércoles, 7 de agosto de 2013
+− Investigación de causas. Hipótesis e investigación excluyente. Verificación de 
+causas. Localización componentes defectuosos.
+− Métodos de reparación de averías. Sustitución de componentes. Sustitución de 
+módulos y placas. Elementos originales y compatibles. 
+− Técnicas de sustitución de componentes. Información de servicio técnico. Guías 
+de montaje y desmontaje. Herramientas y técnicas específicas. 
+− Pruebas y ajustes asociadas a la reparación de averías.
+− Documentación del mantenimiento correctivo. Parte de trabajo. Informe de 
+reparación. Histórico de averías. 
+4. Mantenimiento de equipos de grabación y almacenamiento de vídeo:
+− Plan de mantenimiento preventivo de equipos de grabación y almacenamiento 
+de vídeo. Elementos y criterios de comprobación. Periodos de mantenimiento 
+preventivo. 
+− Herramientas y materiales específicos. Extractores de discos portacabezas. 
+Herramientas específicas. Discos y cintas patrón. Discos y cintas limpiadoras. 
+Cinta hueca para mantenimiento de magnetoscopios. Líquidos y materiales de 
+limpieza y engrase.
+− Mantenimiento preventivo de magnetoscopios. Limpieza del recorrido de la 
+cinta. Limpieza de guías, polos y otras piezas metálicas. magnéticas. Limpieza 
+componentes optoelectrónicos. Limpieza de contactos. Limpieza de filtros y 
+conductos de refrigeración. 
+− Engrase de poleas, ejes y engranajes. Detección de desgastes en elementos 
+mecánicos. Limpieza de rodillos y poleas de goma. Limpieza de cabezas.
+− Operaciones de mantenimiento de equipos de grabación de vídeo. Puntos de 
+comprobación. Comprobación de desgaste de elementos mecánicos. 
+− Medida de señales y parámetros clave del equipo. Valores de referencia. Técnicas 
+de medida. 
+− Ajustes de servicio en equipos de vídeo. Puntos de ajuste. Técnicas de ajuste. 
+Ajuste de cabezas, guías de cinta y velocidad, entre otros.
+− Documentación del mantenimiento preventivo. Informe de intervención. Parte de 
+trabajo.
+5. Reparación de averías en equipos de grabación y almacenamiento de video:
+− Averías típicas en equipos de grabación de vídeo. Averías en los procesos de 
+señal, de alimentación y de control. Averías asociadas a cableados, contactos y 
+conexiones. 
+− Averías por fallo mecánico. Averías en elementos mecánicos y servosistemas. 
+Averías en discos duros y sus controladoras. Síntomas típicos.
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 53997
+Miércoles, 7 de agosto de 2013
+− Procedimientos de intervención y verificación de las causas de la avería.
+− Localización de averías en magnetoscopios. Comprobación del estado de la 
+mecánica. Accionamiento manual y autoreseteo mecánico. 
+− Localización de averías eléctricas. Árboles de seguimiento y localización de 
+averías. Investigación de síntomas y causas.
+− Herramientas y materiales específicos. Extractores de cabezas. Discos patrón. 
+− Reparación de averías en magnetoscopios. Sustitución de componentes, módulos 
+y placas. Pruebas y ajustes asociadas a la reparación de averías.
+− Precauciones en la reparación de averías. Riesgos para el personal y los equipos. 
+Elementos y técnicas de protección y prevención. Protección electrostática. 
+6. Mantenimiento de equipos de visualización de vídeo:
+− Mantenimiento de equipos de visualización de vídeo. Mantenimiento de monitores 
+y receptores de televisión. Mantenimiento de proyectores de vídeo. Limpieza de 
+placas. Limpieza de contactos. Limpieza de filtros y conductos de refrigeración. 
+Limpieza de ventiladores. Limpieza de filtros ópticos y paneles LCD. 
+− Operaciones de mantenimiento de visualizadores de vídeo. Puntos de 
+comprobación. Comprobación de desgaste de elementos mecánicos. Sustitución 
+de lámparas y tubos CCFL. 
+− Medida de señales y parámetros clave del equipo. Valores de referencia. Técnicas 
+de medida. 
+− Ajustes de servicio en equipos de audio y vídeo. Puntos de ajuste. Técnicas de 
+ajuste. 
+− Necesidad de actualización de equipos. Identificación de puntos críticos. 
+Resolución de fallos de diseño. Ampliación de prestaciones del equipo.
+− Actualización de circuitos y elementos físicos. Sustitución de módulos y 
+componentes. Ajustes tras la actualización.
+− Actualización de programas y elementos lógicos. Actualización de firmware. 
+Reconfiguración de parámetros de funcionamiento por software. Ajustes de 
+servicio mediante el mando a distancia.
+− Manual de servicio. Ajuste y valores de fabricante. Procedimiento de desmontaje 
+y montaje.
+− Documentación técnica. Ajuste y pruebas de puesta en servicio.
+7. Reparación de averías en equipos de visualización de vídeo:
+– 	 Averías típicas en monitores y proyectores de vídeo. Averías en los procesos de 
+señal, de alimentación y de control. Averías en los procesos de sincronización 
+y deflexión. Averías asociadas a cableados, contactos y conexiones. Averías 
+asociadas a cada tipo de visualizador. Síntomas típicos.
+– 	 Causas y enunciados que expresan la evidencia y las hipótesis de una avería. 
+síntomas típicos. Técnicas y procedimientos empleados en la diagnosis.
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 53998
+Miércoles, 7 de agosto de 2013
+– 	 Localización de averías en visualizadores de vídeo. Árboles de seguimiento y 
+localización de averías. Investigación de síntomas y causas.
+– 	 Recurrencia de averías. Determinación de tiempos de espera. Banco de pruebas. 
+Test para verificar una determinada configuración. 
+– 	 Reparación de averías en monitores y proyectores de vídeo. Procedimientos de 
+intervención en la reparación. Sustitución de componentes, módulos y placas. 
+Pruebas y ajustes asociadas a la reparación de averías. 
+– 	 Precauciones en la reparación de averías. Protección electrostática. Riesgos para 
+el personal y los equipos. Elementos y técnicas de protección y prevención. 
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional capacita para la realización de funciones de mantenimiento 
+preventivo, predictivo y correctivo de equipos de imagen.
+La definición de estas funciones incluye aspectos como:
+– 	 Mantener en estado de funcionamiento óptimo los equipos electrónicos de 
+imagen.
+– 	 Optimizar el funcionamiento de los equipos, instalando mejoras físicas y lógicas 
+y reconfigurando sus parámetros.
+– 	 Diagnosticar las averías en los equipos electrónicos de vídeo.
+– 	 Reparar equipos de captación, grabación y visualización de vídeo.
+– 	 Restablecer y/o poner en marcha los equipos.
+– 	 Utilizar y calibrar los instrumentos de medida utilizados en equipos de vídeo. 
+Las actividades profesionales asociadas a esta función se aplican en:
+– 	 Mantenimiento preventivo de equipos de imagen.
+– 	 Actualización de firmware de equipos.
+– 	 Reconfiguración de equipos.
+– 	 Reparación y puesta en marcha de equipos de vídeo.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales, 
+e), f), h), i), l), m), n), ñ), o), p) y v) del ciclo formativo y las competencias, c), d), e), f), h), 
+i), j), k), l) y p) del título.
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar 
+los objetivos del módulo profesional versarán sobre:
+– 	 Identificación de estructuras y circuitos típicos de aplicación en equipos de 
+vídeo.
+– 	 Descripción del funcionamiento de equipos, con ayuda de su documentación 
+técnica.
+– 	 Elaboración de árboles de seguimiento y localización de averías de equipos.
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 53999
+Miércoles, 7 de agosto de 2013
+– 	 Análisis y seguimiento de señales sobre equipos reales.
+– 	 Identificación de síntomas de equipos averiados.
+– 	 Planteamiento de hipótesis sobre la causa de la avería.
+– 	 Planificación y localización de averías simuladas o reales.
+– 	 Sustitución de elementos y componentes averiados y/o desgastados.
+– 	 Comprobación de funcionamiento y puesta en servicio del equipo reparado.
+– 	 Utilización de técnicas de medida y calibración de equipos de medida.
+– 	 Reparación y ajuste de equipos de vídeo.
+La prevención en riesgos laborales y protección medioambiental será transversal al 
+resto de los demás módulos.
+Módulo profesional: Técnicas y procesos de montaje y mantenimiento de 
+equipos electrónicos.
+Equivalencia en créditos ECTS: 12
+Código: 1058
+Duración: 168 horas
+Contenidos:
+1. Dibujo de esquemas de circuito electrónicos: 
+− Interpretación de esquemas, planos y especificaciones de diseño. Simbología. 
+Hojas de características.
+− Manejo de programas de CAD electrónico:
+– 	 Jerarquías.
+– 	 Edición de componentes. Tipos de encapsulados. Distribución de patillas. 
+Otros.
+– 	 Creación de componentes personalizados.
+– 	 Utilización de librerías. 
+– 	 Líneas y/o buses de conexión.
+– 	 Verificación de violaciones eléctricas. Creación de netlist.
+– 	 Otros.
+2. Simulación del funcionamiento de circuitos electrónicos:
+− Simulaciones informáticas. Verificación de resultados.
+− Simulación de averías.
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54000
+Miércoles, 7 de agosto de 2013
+− Simplificación de esquemas a un componente específico.
+− Montajes en placas de inserción rápida. 
+− Equipos de medida de señales de baja frecuencia. Analizador de espectros de 
+audio. Sonómetro. Otros. 
+− Técnicas de ajuste y calibración de los equipos. Valores mínimo, máximo y 
+promedio en RMS del voltaje y la corriente. 
+− Equipos de visualización de señales. 
+− Instrumentación de medida para comunicaciones ópticas. 
+− Equipos de medida de señales de radiofrecuencia. Analizador de espectros. 
+− Verificación de resultados.
+− Propuestas de modificaciones.
+− Elaboración de esquemas finales.
+3. Obtención de placas de circuito impreso:
+− Utilización de herramientas informáticas de diseño, edición y captura asistida por 
+ordenador. Unidades de medida. Dimensión de la placa. Creación y edición de 
+cuerpos de componentes (footprint). Librerías. Capas del circuito impreso. Trazado 
+de pistas: manual y automático. Edición: nodo, pads, pistas, vías, obstáculos, 
+planos de masa, prohibiciones, violaciones de diseño y otros. Gestión de ficheros. 
+Tipos de ficheros de producción CNC: máscara de soldadura, máscara de pistas 
+y máscara de serigrafía, entre otros.
+− Documentación técnica para la realización de la placa. Esquema eléctrico. 
+Dimensiones. Tipo de placa. Baquelita y fibra de vidrio doble cara, entre otras.
+− Metalizado de vías: sistema electroquímico, mecánico entre otros. 
+− Técnicas de obtención de fotolito. Materiales fotosensibles. 
+− Materiales fotosensibles para circuitos impresos. Características. Máquinas para 
+el insolado. Técnicas de insolado. Precauciones y medidas de seguridad en el 
+uso de luz ultravioleta.
+− Revelado de la placa.
+− Fotograbado mediante fotomecánica y grabado químico. Atacado de la placa. 
+Extracción de gases. 
+− Eliminación de la película fotosensible. Protección de pistas. 
+− Impresión serigráfica con tintas resistentes al grabado. 
+− Técnicas y utilidades de chequeo y diagnostico de verificación de la fiabilidad de 
+la placa. Inspección visual. 
+− Medidas de seguridad en la manipulación de productos químicos. Equipos de 
+protección individual.
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54001
+Miércoles, 7 de agosto de 2013
+4. Construcción de circuitos electrónicos:
+− Interpretación de esquemas y planos. Características físicas de los 
+componentes. 
+− Tecnologías de montaje de placas de circuito impreso. 
+− Técnicas de soldadura y desoldadura. Convencionales, mixtas y tecnología de 
+montaje superficial. 
+− Tipos de conectores. Audio. Vídeo. Fibra óptica. Datos. Aplicaciones 
+industriales. 
+− Herramientas de montaje de conectores y empalme de líneas. Herramientas de 
+engastado. Herramientas de montaje de conectores de fibra óptica. 
+− Máquinas herramientas de taladrado y fresado para circuitos impresos. 
+Herramientas de corte: brocas y fresas, entre otras.
+− Herramientas manuales. Herramientas de conformado. Limas. Sierras. 
+Metalización manual de vías. Otras.
+− Técnicas de fijación de componentes y elementos auxiliares de la placa. Elementos 
+de soporte. Radiadores. Aislantes. Otros.
+− Técnicas de verificación de estándares de mecanizado. 
+− Máquinas herramientas de taladrado y fresado. Herramientas de corte: brocas y 
+fresas, entre otras.
+− Técnicas de reparación. Sustitución de componentes. Elementos auxiliares.
+− Medios de protección contra descargas electrostáticas. 
+− Técnicas y utilidades del chequeo y diagnóstico de verificación de la fiabilidad de 
+la placa.
+5. Puesta a punto de circuitos electrónicos:
+− Métodos y procedimientos de carga de parámetros. Métodos de configuración.
+− Verificación de los parámetros. Ajustes de valores de alimentación. Visualización 
+de señales. Equipos de medida. Aplicaciones software. Osciloscopios analógicos 
+y digitales.
+− Interconexionado con otros dispositivos. Pruebas de vibración, humedad, 
+temperatura, entre otras.
+− Sistemas globales de valoración. Métodos de evaluación. 
+− Pruebas de hipótesis. Fiabilidad de componentes y microcircuitos. 
+− Técnicas de verificación del funcionamiento y fiabilidad de prototipos. Utilidades 
+de chequeo. Verificación de las prestaciones del prototipo.
+− Documentación de la puesta a punto: procedimientos utilizados y resultados 
+obtenidos. 
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54002
+Miércoles, 7 de agosto de 2013
+6. Cumplimiento de las normas de prevención de riesgos laborales y ambientales en 
+la reparación de equipos electrónicos:
+− Normas de prevención de riesgos.
+− Normativa de seguridad en la utilización de máquinas, útiles y herramientas de 
+corte, soldadura y montaje de equipos electrónicos.
+− Elementos de seguridad implícitos en las máquinas de corte, soldadura y montaje 
+de equipos electrónicos. 
+− Elementos externos de seguridad: guantes metálicos, gafas y otros.
+− Normas de seguridad en las operaciones con adhesivos.
+− Condiciones de seguridad del puesto de trabajo.
+− Ergonomía en la realización de las diferentes operaciones.
+− Limpieza y conservación de las máquinas y del puesto de trabajo.
+− Tratamiento de residuos en el proceso de reparación y montaje.
+− Normas de seguridad individual y medioambiental en la utilización de productos 
+químicos y componentes electrónicos.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar las 
+funciones de montaje, mecanizado, medición, diagnóstico y verificación de elementos 
+hardware y software en los procesos de montaje de prototipos y mantenimiento de los 
+equipos y sistemas electrónicos.
+La definición de estas funciones y su formación práctica incluye aspectos como:
+− Identificar componentes, módulos y etapas en circuitería electrónica, sus 
+características y parámetros.
+− Montar y mecanizar prototipos de circuitos electrónicos.
+− Poner a punto los equipos y sistemas electrónicos.
+− Realizar pruebas funcionales y ensayos de fiabilidad.
+− Adquirir destrezas en el manejo de equipos de medida de señales y parámetros 
+en el ámbito del mantenimiento electrónico de equipos.
+Las actividades profesionales asociadas a estas funciones se aplican en:
+− Montaje de componentes electrónicos en placas de circuito impreso, empleando 
+técnicas de ensamblado y soldadura.
+− Construcción de placas de circuitos impresos utilizando programas de diseño y 
+aplicando técnicas de fabricación.
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54003
+Miércoles, 7 de agosto de 2013
+− Elaboración de conectores electrónicos normalizados (interfaces físicas).
+− Mecanización de prototipos de placas y equipos, interpretando planos y utilizando 
+herramientas y máquinas.
+− Reparación de circuitos electrónicos.
+− Realización de pruebas funcionales y ensayos de fiabilidad.
+− Utilización de equipos de medida y sus accesorios.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales e), 
+n), ñ), o), p), v) y w) del ciclo formativo, y las competencias c), j), k), l), p) y q) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+− Montaje de componentes electrónicos en placas de circuito impreso.
+− Montaje de conectores electrónicos normalizados (interfaces físicas).
+− Construcción de placas de circuitos impresos.
+− Utilización de programas de diseño (TIC) y técnicas de fabricación.
+− Mecanización de prototipos de placas y equipos electrónicos.
+− Reparación de circuitos electrónicos y sustitución de componentes.
+− Verificación del funcionamiento de prototipos de circuitos electrónicos.
+− Utilización de equipos de medida y sus accesorios. 
+La prevención en riesgos laborales y protección medioambiental será transversal al 
+resto de los contenidos tratados en el módulo.
+Módulo profesional: Infraestructuras y desarrollo del mantenimiento 
+electrónico.
+Equivalencia en créditos ECTS: 4
+Código: 1059
+Duración: 64 horas
+Contenidos:
+1. Realización de planes de mantenimiento de equipos y sistemas electrónicos:
+− Características de las especificaciones técnicas de equipos y sistemas 
+electrónicos. Lectura y aplicación. Especificaciones de equipos y materiales. 
+Especificaciones de montaje. Permisos administrativos.
+− Planificación del mantenimiento. Procesos. Etapas. Actividades. Caracterización 
+de actividades (operaciones, tiempos de ejecución, recursos y condiciones de 
+seguridad, entre otros).
+− Estimación de tiempos. 
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54004
+Miércoles, 7 de agosto de 2013
+− Diagramas de programación y control (Gantt, PERT, entre otros). Determinación 
+del camino crítico.
+− Control de avance del mantenimiento. Lanzamiento. Procedimientos para el 
+seguimiento y control. Distribución de recursos. Contingencias. Alternativas.
+− Protocolos de puesta en servicio. Ensayos y pruebas de las instalaciones. 
+Certificaciones y garantías.
+− Software informático de planificación, programación y control de mantenimiento 
+y reparación.
+2. Gestión de las operaciones de mantenimiento de equipos y sistemas:
+− Mantenimiento. Tipos de mantenimiento. Función y objetivos. Correctivo. 
+Preventivo. Predictivo paliativo. Productivo total (TPM). Puntos críticos. Previsión 
+de averías, inspecciones y revisiones periódicas. Protocolos de pruebas. 
+Históricos de intervenciones de mantenimiento.
+− Gamas de mantenimiento. Operaciones. Definición y secuencia. Tiempos. Cargas 
+de trabajo.
+− Recursos en el mantenimiento. Humanos. Materiales.
+− Control del plan de mantenimiento. Órdenes de trabajo. Asignación y optimización 
+de recursos. Normas de utilización de los equipos, material e instalaciones.
+− Gestión de mantenimiento asistido por ordenador (GMAO). Aplicación de un 
+sistema GMAO.
+− Informes técnicos de mantenimiento. Herramientas software de elaboración de 
+documentación. 
+3. Programación del aprovisionamiento:
+− Gestión del aprovisionamiento. Tipos de aprovisionamiento. Requerimientos y 
+plan de suministros.
+− Proceso de compras. Ciclo de compras.
+− Proveedores. Homologación y clasificación. Tramitación de compras. Documentos. 
+Plazos de entrega. Control de pedidos. Trazabilidad.
+− Almacenamiento. Sistemas de organización. Características físicas.
+− Codificación. Catálogo de repuestos. Existencias. Tipos y control. Control E/S. 
+Hojas de entrega de materiales. Almacenes de obra. Características. Ubicación. 
+Distribución de espacios. Condiciones de seguridad en el almacén.
+− Gestión de herramientas, instrumentos y utillaje. 
+− Programas informáticos de aprovisionamiento y almacenamiento.
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54005
+Miércoles, 7 de agosto de 2013
+4. Gestión de recursos humanos para el mantenimiento:
+− Estructura del departamento de mantenimiento. Organigramas.
+− Funciones de las unidades de mantenimiento. Organización. 
+− El trabajo en equipo. Relaciones en la empresa. La organización y las 
+personas.
+− Funciones del personal de planificación. Planificación y control. Inspección 
+técnica.
+− Relaciones entre operación y mantenimiento. Niveles de relación. Coordinación.
+− Gestión de la formación. Detección de necesidades de formación. Organización 
+de cursos de actualización.
+− Círculos de calidad. 
+5. Gestión del taller de mantenimiento:
+− El taller de mantenimiento. Definiciones. Áreas del taller de mantenimiento y 
+reparación.
+− Ejecución de trabajos. Tipos de intervención. Especificaciones técnicas. 
+Protecciones frente a descargas eléctricas.
+− Condiciones ambientales de trabajo. Espacio físico. Iluminación. Ruido. 
+Temperatura y humedad. Limpieza. Otras. Instrumentos de reparación. Tipos y 
+características. 
+− Reparaciones en el taller de mantenimiento. Recepción de equipos. Identificación. 
+Presupuesto. Reparación. Garantías.
+− Gestión de manuales y hojas técnicas.
+− Software de gestión.
+6. Aplicación de planes de calidad en el control del mantenimiento:
+− Normalización y certificación. Normas de gestión de la calidad. ISO 9000. Normas 
+de gestión medioambiental. ISO 14001. Normas de prevención y seguridad 
+laboral. OHSAS 18000.
+− Plan de la calidad. Gestión de la calidad. Procedimientos. 
+− Indicadores. 
+− Plan de gestión medioambiental. Gestión de residuos. Tipos. Tratamiento: 
+reciclado, contenedores y transporte, entre otros.
+− Plan de prevención de riesgos profesionales. Gestión de prevención y seguridad 
+laboral aplicada al mantenimiento electrónico.
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54006
+Miércoles, 7 de agosto de 2013
+− Auditorías. Calidad del servicio. Costes de mala calidad. AMFE (análisis modal 
+de fallos y efectos). Calibración. Registros.
+− Aplicaciones informáticas de gestión integral en el mantenimiento.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar 
+las funciones de programar, coordinar y supervisar la ejecución de los procesos de 
+mantenimiento de equipos y sistemas electrónicos, optimizando los recursos humanos y 
+medios disponibles, con la calidad requerida, cumpliendo la reglamentación vigente y en 
+condiciones de seguridad.
+La definición de estas funciones incluye aspectos como:
+− Desarrollar planes para el mantenimiento de equipos y elementos de sistemas 
+microprogramables, de audio y vídeo, radiocomunicaciones y sistemas 
+industriales.
+− Programar las intervenciones de mantenimiento de los equipos y sistemas 
+electrónicos.
+− Organizar el suministro de componentes y elementos necesarios para garantizar 
+el mantenimiento de los equipos y sistemas.
+− Gestionar los recursos humanos empleados en los procesos de mantenimiento.
+− Gestionar las actividades que se realizan en un taller de mantenimiento. 
+− Aplicar procesos y procedimientos para asegurar la calidad en las tareas de 
+mantenimiento.
+− Desarrollar planes de gestión medioambiental de los residuos generados en el 
+mantenimiento de equipos y sistemas electrónicos.
+− Aplicar normas de seguridad y protección laboral en las operaciones llevadas a 
+cabo en el mantenimiento.
+Las actividades profesionales asociadas a esta función se aplican en:
+− Planificación del mantenimiento para equipos y sistemas electrónicos 
+microprogramables, de audio y vídeo, de radiocomunicaciones, estaciones base 
+e industriales.
+− Gestión y supervisión de los procesos de mantenimiento y reparación de sistemas 
+microprogramables, de audio y vídeo, radiocomunicaciones, estaciones base y 
+potencia y control industrial.
+− Programación y gestión del aprovisionamiento de equipos electrónicos, 
+componentes, instrumentos y herramientas.
+− Gestión de las actividades del taller/laboratorio de mantenimiento electrónico.
+− Aplicación de los planes de calidad, gestión del medio ambiente y protección 
+laboral en el desarrollo del mantenimiento electrónico. 
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54007
+Miércoles, 7 de agosto de 2013
+La formación del módulo profesional contribuye a alcanzar los objetivos generales f), 
+g), i), j), k), l), q), r), s), t), u), v), w) y x) del ciclo formativo, y las competencias d), e), f), g), 
+h), m), n), ñ), o), p) y q) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+− Aplicar planes de mantenimiento.
+− Gestionar las operaciones de mantenimiento.
+− Programar el aprovisionamiento de recursos para el mantenimiento. 
+− Gestionar los recursos humanos empleados en el mantenimiento.
+− Gestionar el taller/laboratorio de mantenimiento electrónico.
+− Aplicar procesos y procedimientos para la gestión integral de calidad en el 
+mantenimiento electrónico.
+La prevención en riesgos laborales y protección medioambiental será transversal al 
+resto de los contenidos tratados en el módulo.
+Módulo profesional: Proyecto de mantenimiento electrónico.
+Equivalencia en créditos ECTS: 5
+Código: 1060
+Duración: 30 horas
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional complementa la formación establecida para el resto de los 
+módulos profesionales que integran el título, en las funciones de análisis del contexto, 
+diseño del proyecto y organización de la ejecución.
+La función de análisis del contexto incluye las subfunciones de recopilación de 
+información, identificación de necesidades y estudio de viabilidad.
+La función de diseño del proyecto tiene como objetivo establecer las líneas generales 
+para dar respuesta a las necesidades planteadas, concretando los aspectos relevantes 
+para su realización. Incluye las subfunciones de definición del proyecto, planificación de la 
+intervención y elaboración de la documentación.
+La función de organización de la ejecución incluye las subfunciones de programación 
+de actividades, gestión de recursos y supervisión de la intervención.
+Las actividades profesionales asociadas a estas funciones se desarrollan en el sector 
+de reparación y mantenimiento de equipos electrónicos.
+La formación del módulo se relaciona con la totalidad de los objetivos generales del 
+ciclo y de las competencias profesionales, personales y sociales del título.
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54008
+Miércoles, 7 de agosto de 2013
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo están relacionadas con:
+– 	 La responsabilidad y la autoevaluación del trabajo realizado.
+– 	 La autonomía y la iniciativa personal.
+– 	 El uso de las tecnologías de la información y de la comunicación.
+El proyecto será realizado por el alumnado, de forma individual, preferentemente 
+durante el tercer trimestre del segundo curso. El alumnado será tutorizado por un profesor, 
+que imparta docencia en segundo curso del ciclo formativo, de la especialidad de «Equipos 
+Electrónicos» o «Sistemas Electrónicos», de acuerdo con lo establecido en el Anexo III A) 
+del Real Decreto 1578/2011, de 4 de noviembre, no obstante, dado que los resultados de 
+aprendizaje y criterios de evaluación de este módulo profesional complementan los del 
+resto de los módulos profesionales y tiene un carácter integrador de todos los módulos 
+profesionales del ciclo, sería conveniente la colaboración de todos los profesores con 
+atribución docente en el ciclo formativo.
+Módulo profesional: Formación y orientación laboral.
+Equivalencia en créditos ECTS: 5
+Código: 1061
+Duración: 96 horas 
+Contenidos:
+BLOQUE A: Formación, Legislación y Relaciones Laborales. 
+Duración: 46 horas
+1. Búsqueda activa de empleo:
+– 	 Valoración de la importancia de la formación permanente para la trayectoria 
+laboral y profesional del Técnico Superior en Mantenimiento Electrónico.
+– 	 Análisis de los intereses, aptitudes y motivaciones personales para la carrera 
+profesional.
+– 	 Identificación de los itinerarios formativos relacionados con el Técnico Superior 
+en Mantenimiento Electrónico.
+– 	 Definición y análisis del sector profesional del Técnico Superior en Mantenimiento 
+Electrónico. Yacimientos de empleo.
+– 	 Proceso de búsqueda de empleo en pequeñas, medianas y grandes empresas 
+del sector.
+– 	 Oportunidades de aprendizaje y empleo en Europa. Programas europeos.
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54009
+Miércoles, 7 de agosto de 2013
+– 	 Valoración de la empleabilidad y adaptación como factores clave para responder 
+a las exigencias del mercado laboral.
+– 	 Técnicas e instrumentos de búsqueda de empleo. Fuentes de información. El 
+proceso de selección.
+– 	 Oportunidades de autoempleo.
+– 	 El proceso de toma de decisiones.
+– 	 Reconocimiento del acceso al empleo en igualdad de oportunidades y sin 
+discriminación de cualquier tipo.
+2. Gestión del conflicto y equipos de trabajo:
+– 	 Valoración de las ventajas e inconvenientes del trabajo en equipo para la eficacia 
+de la organización.
+– 	 Equipos de trabajo en las empresas del sector del mantenimiento de equipos y 
+sistemas electrónicos, según las funciones que desempeñan.
+– 	 Concepto y tipos de equipos de trabajo. Formación y funcionamiento de equipos 
+eficaces.
+– 	 La participación en el equipo de trabajo. Identificación de roles. Barreras a la 
+participación en el equipo.
+– 	 Técnicas de participación y dinámicas de grupo.
+– 	 Conflicto: características, fuentes y etapas.
+– 	 Métodos para la resolución o supresión del conflicto.
+– 	 La comunicación en la empresa. El lenguaje asertivo. La toma de decisiones y la 
+negociación como habilidades sociales para el trabajo en equipo.
+3. Contrato de trabajo:
+– 	 La organización política del Estado español. 
+– 	 El Derecho del Trabajo. Normas fundamentales.
+– 	 Órganos de la administración y jurisdicción laboral.
+– 	 Análisis de la relación laboral individual.
+– 	 Modalidades del contrato de trabajo y medidas de fomento de la contratación.
+– 	 Derechos y deberes derivados de la relación laboral. El tiempo de trabajo. Análisis 
+del recibo de salarios. Liquidación de haberes.
+– 	 Modificación, suspensión y extinción del contrato de trabajo.
+– 	 Valoración de las medidas para la conciliación familiar y profesional.
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54010
+Miércoles, 7 de agosto de 2013
+– 	 Representación de los trabajadores en la empresa.
+– 	 Negociación colectiva. Análisis de un convenio colectivo aplicable al ámbito 
+profesional del Técnico Superior en Mantenimiento Electrónico.
+– 	 Medidas de conflicto colectivo. Procedimientos de solución.
+– 	 Beneficios para los trabajadores en las nuevas organizaciones: flexibilidad, 
+beneficios sociales entre otros.
+4. Seguridad Social, Empleo y Desempleo:
+– 	 La Seguridad social como pilar del Estado social de derecho.
+– 	 Estructura del Sistema de la Seguridad Social.
+– 	 Determinación de las principales obligaciones de empresarios y trabajadores en 
+materia de Seguridad Social: afiliación, altas, bajas y cotización. Cálculo de bases 
+de cotización a la Seguridad Social y determinación de cuotas en un supuesto 
+sencillo.
+– 	 Prestaciones de la Seguridad Social. Situaciones protegibles en la protección por 
+desempleo.
+– 	 Cálculo de una prestación por desempleo de nivel contributivo básico.
+BLOQUE B: Prevención de Riesgos Laborales.
+Duración: 50 horas
+5. Evaluación de riesgos profesionales:
+– 	 Importancia de la cultura preventiva en todas las fases de la actividad. 
+Sensibilización, a través de las estadísticas de siniestralidad nacional y en Castilla 
+y León, de la necesidad de hábitos y actuaciones seguras.
+– 	 Valoración de la relación entre trabajo y salud.
+– 	 El riesgo profesional. Mapa de riesgos. Análisis de factores de riesgo.
+– 	 Análisis de riesgos ligados a las condiciones de seguridad.
+– 	 Análisis de riesgos ligados a las condiciones ambientales. Agentes físicos, 
+químicos y biológicos.
+– 	 Análisis de riesgos ligados a las condiciones ergonómicas y psicosociales.
+– 	 Riesgos específicos en el sector del mantenimiento de equipos y sistemas 
+electrónicos.
+– 	 La evaluación de riesgos en la empresa como elemento básico de la actividad 
+preventiva.
+– 	 Técnicas de evaluación de riesgos.
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54011
+Miércoles, 7 de agosto de 2013
+– 	 Condiciones de seguridad y salud en los lugares de trabajo. 
+– 	 Determinación de los posibles daños a la salud del trabajador que pueden 
+derivarse de las situaciones de riesgo detectadas. 
+– 	 Los accidentes de trabajo, las enfermedades profesionales y otras patologías.
+6. Planificación de la prevención de riesgos en la empresa. Prevención integrada:
+– 	 Marco normativo en materia de prevención de riesgos laborales.
+– 	 Derechos y deberes en materia de prevención de riesgos laborales. 
+Responsabilidades legales.
+– 	 Gestión de la prevención en la empresa. Documentación.
+– 	 Organismos públicos relacionados con la prevención de riesgos laborales.
+– 	 Planificación de la prevención en la empresa. Secuenciación de actuaciones.
+– 	 Definición del contenido del Plan de Prevención de un centro de trabajo relacionado 
+con el sector profesional.
+– 	 Planes de emergencia y de evacuación en entornos de trabajo.
+– 	 Elaboración de un plan de emergencia en una empresa del sector. 
+– 	 Representación de los trabajadores en materia preventiva. 
+7. Aplicación de medidas de prevención y protección en la empresa:
+– 	 Técnicas de lucha contra los daños profesionales. Seguridad en el trabajo. 
+Higiene industrial y otros.
+– 	 Determinación de las medidas de prevención y protección individual y colectiva.
+– 	 Señalización de seguridad y salud.
+– 	 Protocolo de actuación ante una situación de emergencias.
+– 	 Primeros auxilios. Conceptos básicos. Aplicación de técnicas de primeros 
+auxilios.
+– 	 Vigilancia de la salud de los trabajadores.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para que el alumno pueda 
+insertarse laboralmente y desarrollar su carrera profesional en el sector. 
+La formación del módulo profesional contribuye a alcanzar los objetivos generales q), 
+r), s), t), u), v), w), x) y z) del ciclo formativo y las competencias profesionales, personales 
+y sociales m), n), ñ), o), p), q) y s) del título. 
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54012
+Miércoles, 7 de agosto de 2013
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar 
+los objetivos del módulo profesional versarán sobre: 
+– 	 El manejo de las fuentes de información sobre el sistema educativo y laboral, en 
+especial en lo referente a las empresas. 
+– 	 La realización de pruebas de orientación y dinámicas sobre la propia personalidad 
+y el desarrollo de las habilidades sociales. 
+– 	 La preparación y realización de modelos de currículum vitae (CV) y entrevistas 
+de trabajo. 
+– 	 Identificación de la normativa laboral que afecta a los trabajadores del sector, 
+manejo de los contratos más comúnmente utilizados y lectura comprensiva de 
+los convenios colectivos de aplicación. 
+– 	 La cumplimentación de recibos de salario de diferen­tes características y otros 
+documentos relacionados. 
+– 	 El análisis de la Ley de Prevención de Riesgos laborales que le permita evaluar 
+los riesgos derivados de las actividades desarrolladas en su sector productivo 
+y que le permita colaborar en la definición de un plan de prevención para una 
+pequeña empresa, así como en la elaboración de las medidas necesarias que 
+deban adoptarse para su puesta en funcionamiento.
+Módulo profesional: Empresa e iniciativa emprendedora.
+Equivalencia en créditos ECTS: 4
+Código: 1062
+Duración: 63 horas
+Contenidos:
+1. Iniciativa emprendedora:
+– 	 Innovación y desarrollo económico. Principales características de la innovación 
+en el mantenimiento y reparación de equipos y sistemas electrónicos (materiales, 
+tecnología y organización de la producción, entre otros).
+– 	 El trabajo por cuenta propia como fuente de creación de empleo y bienestar 
+social.
+– 	 La cultura emprendedora. El emprendedor. Factores claves de los emprendedores: 
+iniciativa, creatividad y formación.
+– 	 Desarrollo del espíritu emprendedor a través del fomento de las actitudes de 
+creatividad, iniciativa, autonomía y responsabilidad.
+– 	 La actuación de los emprendedores como empleados de una pyme relacionada 
+con la reparación de productos electrónicos. 
+– 	 Fomento de las capacidades emprendedoras de un trabajador por cuenta 
+ajena.
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54013
+Miércoles, 7 de agosto de 2013
+– 	 La actuación de los emprendedores como empresarios en el sector de la 
+reparación de equipos electrónicos.
+– 	 Análisis de las oportunidades de negocio en el sector de la reparación de equipos 
+electrónicos.
+– 	 El empresario. Requisitos para el ejercicio de la actividad empresarial. Aptitudes 
+y actitudes.
+– 	 Plan de empresa: la idea de negocio en el ámbito del mantenimiento y reparación 
+de equipos y sistemas electrónicos. 
+– 	 Búsqueda de ideas de negocio. Análisis y viabilidad de las mismas.
+2. La empresa y su entorno:
+– 	 Concepto de empresa.
+– 	 Funciones básicas de la empresa: comercial, técnica, social, financiera y 
+administrativa.
+– 	 Estructura organizativa de la empresa. Organigrama.
+– 	 La empresa como sistema.
+– 	 El entorno general de la empresa en los aspectos económico, social, demográfico 
+y cultural.
+– 	 Competencia. Barreras de entrada.
+– 	 Variables del marketing mix: precio, producto, comunicación y distribución.
+– 	 Análisis del entorno general y específico de una pyme relacionada con la 
+reparación de equipos electrónicos. Relaciones con clientes y proveedores.
+– 	 Análisis DAFO.
+– 	 Relaciones de una pyme de mantenimiento electrónico con su entorno.
+– 	 Cultura empresarial e imagen corporativa.
+– 	 Relaciones de una pyme de mantenimiento electrónico con el conjunto de la 
+sociedad. La ética empresarial en empresas del sector.
+– 	 El balance social: los costes y los beneficios sociales.
+3. Creación y puesta en marcha de una empresa:
+– 	 Tipos de empresa. La organización de la empresa. El organigrama.
+– 	 Elección de la forma jurídica. Ventajas e inconvenientes de las distintas formas 
+jurídicas con especial atención a la responsabilidad legal.
+– 	 La franquicia como forma de empresa.
+– 	 La fiscalidad en las empresas. Impuestos más importantes que afectan a la 
+actividad de la empresa.
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54014
+Miércoles, 7 de agosto de 2013
+– 	 Trámites administrativos para la constitución de una empresa. Relación con 
+organismos oficiales.
+– 	 Subvenciones y ayudas destinadas a la creación de empresas del sector del 
+mantenimiento electrónico en la localidad de referencia.
+– 	 Viabilidad económica y viabilidad financiera de una pyme relacionada con el 
+mantenimiento electrónico.
+– 	 Plan de empresa: elección de la forma jurídica, estudio de viabilidad económico 
+y financiera, trámites administrativos y gestión de ayudas y subvenciones.
+– 	 Vías externas de asesoramiento y gestión. La ventanilla única empresarial.
+4. Función administrativa:
+– 	 Concepto de contabilidad y nociones básicas.
+– 	 Cuentas anuales obligatorias.
+– 	 Análisis de la información contable.
+– 	 Ratios. Cálculo de coste, beneficio y umbral de rentabilidad.
+– 	 Obligaciones fiscales de las empresas. Calendario fiscal.
+– 	 Gestión administrativa de una empresa del sector del mantenimiento 
+electrónico.
+– 	 Documentos básicos utilizados en la actividad económica de la empresa: nota de 
+pedido, albarán, factura, letra de cambio, cheque y otros.
+– 	 Gestión de aprovisionamiento. Valoración de existencias. Volumen óptimo de 
+pedido.
+– 	 Elaboración de un plan de empresa. 
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desarrollar la propia 
+iniciativa en el ámbito empresarial, tanto hacia el autoempleo como hacia la asunción de 
+responsabilidades y funciones en el empleo por cuenta ajena. 
+La formación del módulo profesional permite alcanzar los objetivos generales w), x), 
+y) y z) del ciclo formativo y las competencias q), r), y s) del título.
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar 
+los objetivos del módulo profesional versarán sobre:
+– 	 El manejo de las fuentes de información sobre el sector del mantenimiento 
+electrónico, incluyendo el análisis de los procesos de innovación sectorial en 
+marcha.
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54015
+Miércoles, 7 de agosto de 2013
+– 	 La realización de casos y dinámicas de grupo que permitan comprender y valorar 
+las actitudes de los emprendedores y ajustar la necesidad de los mismos al sector 
+de los servicios relacionados con los procesos de mantenimiento de equipos y 
+sistemas electrónicos.
+– 	 La realización de un proyecto de plan de empresa relacionada con la actividad 
+del sector de mantenimiento de equipo electrónico y que incluya todas las facetas 
+de puesta en marcha de un negocio: viabilidad, organización de la producción y 
+los recursos humanos, acción comercial, control administrativo y financiero, así 
+como justificación de su responsabilidad social.
+– 	 La utilización de programas de gestión administrativa para pymes del sector.
+– 	 La utilización de la herramienta «Aprende a Emprender».
+Módulo profesional: Formación en centros de trabajo.
+Equivalencia en créditos ECTS: 22
+Código: 1063
+Duración: 380 horas
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contribuye a completar las competencias de este título y los 
+objetivos generales del ciclo, tanto aquellos que se han alcanzado en el centro educativo, 
+como los que son difíciles de conseguir en el mismo.
+CV: BOCYL-D-07082013-9
+
+Boletín Oficial de Castilla y León
+Núm. 151
+http://bocyl.jcyl.es
+D.L.: BU 10-1979 - ISSN 1989-8959
+Pág. 54016
+Miércoles, 7 de agosto de 2013
+ANEXO III
+ORGANIZACIÓN Y DISTRIBUCIÓN HORARIA
+Módulos profesionales
+Duración 
+del 
+currículo
+(horas)
+Centro Educativo
+Centro de 
+Trabajo
+Curso 1.º
+horas/semanales
+Curso 2.º
+1.º y 2.º
+trimestres
+horas/semanales
+3.er trimestre
+horas
+1051. 	Circuitos electrónicos 
+analógicos.
+224
+7
+1052. 	Equipos microprogramables.
+224
+7
+1053. 	Mantenimiento de equipos de 
+radiocomunicaciones.
+160
+5
+1054. 	Mantenimiento de equipos de voz 
+y datos.
+192
+6
+1055. 	Mantenimiento de equipos de 
+electrónica industrial.
+168
+8
+1056. 	Mantenimiento de equipos de 
+audio.
+105
+5
+1057. 	Mantenimiento de equipos de 
+vídeo.
+126
+6
+1058. 	Técnicas y procesos de montaje 
+y mantenimiento de equipos 
+electrónicos. 
+168
+8
+1059. 	Infraestructuras y desarrollo del 
+mantenimiento electrónico.
+64
+2
+1060. 	Proyecto de mantenimiento 
+electrónico.
+30
+30
+1061. 	Formación y orientación laboral.
+96
+3
+1062. 	Empresa e iniciativa 
+emprendedora.
+63
+3
+1063. 	Formación en centros de trabajo.
+380
+380
+TOTAL
+2000
+30
+30
+410
+CV: BOCYL-D-07082013-9

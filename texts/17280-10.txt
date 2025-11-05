@@ -1,0 +1,74 @@
+CONSEJERÍA DE EDUCACIÓN
+CORRECCIÓN de errores de la Orden EDU/899/2005, de 4 de julio,
+por la que se resuelve la convocatoria de subvenciones, cofinancia-
+das por el Fondo Social Europeo, para el desarrollo, por Corpora-
+ciones Locales y Entidades sin ánimo de lucro, de Programas de
+Garantía Social a iniciar durante el año 2005, en las modalidades
+de iniciación profesional, formación-empleo, talleres profesionales
+y para alumnos con necesidades educativas especiales.
+Advertidos errores en el texto remitido para la publicación de la cita-
+da Orden, publicada en el «Boletín Oficial de Castilla y León», n.º132, de
+8 de julio de 2005, se procede a efectuar la oportuna rectificación:
+13230
+Martes, 26 de julio 2005
+B.O.C. y L. - N.º 143
+ANEXO I
+NOMBRE DEL FICHERO:
+Consejo genético en cáncer colorrectal.
+FINES Y USOS:
+Registro de casos y familiares de primer y segundo grado con cáncer colorrectal a 
+los que se les facilita consejo genético y medidas preventivas.
+PERSONAS O COLECTIVOS AFECTADOS:
+Casos y familiares con cáncer colorrectal.
+PROCEDIMIENTO DE RECOGIDA 
+Formulario específico.
+Y PROCEDENCIA DE LOS DATOS:
+Propio caso o su familiar.
+ESTRUCTURA BÁSICA DEL FICHERO Y DESCRIPCIÓN 
+DNI, CIP, nombre y apellidos, fecha de nacimiento, sexo, antecedentes personales 
+DE LOS DATOS DE CARÁCTER PERSONAL:
+o familiares de cáncer.
+CESIONES PREVISTAS (y en su caso, transferencias a terceros
+No están previstas.
+países):
+ÓRGANO DE LA ADMINISTRACIÓN RESPONSABLE 
+Dirección General de Salud Pública y Consumo.
+DEL FICHERO:
+SERVICIO O UNIDAD ANTE EL QUE PUEDEN EJERCITARSE 
+Servicio de Promoción de la Salud y Programas Preventivos.
+LOS DERECHOS DE ACCESO, RECTIFICACIÓN, CANCELACIÓN
+Y OPOSICIÓN:
+NIVEL DE SEGURIDAD:
+Alto.
+En la página 12281, donde dice:
+BURGOS
+P 0922400G
+AYUNTAMIENTO
+MIRANDA DE EBRO
+OPERARIO DE SOLDADURA
+1
+50.580,00 €
+debe decir:
+BURGOS
+P 0922400G
+AYUNTAMIENTO
+MIRANDA DE EBRO
+OPERARIO DE CALDERERÍA
+1
+50.580,00 €
+Y en la página 12282, donde dice:
+ZAMORA
+P 4906200C
+AYUNTAMIENTO
+CORRALES DEL VINO
+AYUDANTE DE COCINA
+1
+50.580,00 €
+debe decir:
+ZAMORA
+P 4906200C
+AYUNTAMIENTO  
+CORRALES DEL VINO
+OPERARIO DE VIVEROS Y JARDINES
+1
+50.580,00 €

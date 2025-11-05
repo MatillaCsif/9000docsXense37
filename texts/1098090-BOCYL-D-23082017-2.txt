@@ -1,0 +1,2032 @@
+Boletín Oficial de Castilla y León
+Núm. 161
+Pág. 34265
+Miércoles, 23 de agosto de 2017
+I. COMUNIDAD DE CASTILLA Y LEÓN
+A. DISPOSICIONES GENERALES
+CONSEJERÍA DE EDUCACIÓN
+DECRETO 23/2017, de 21 de agosto, por el que se establece el currículo 
+correspondiente al título de Técnico Superior en Programación de la Producción en Moldeo 
+de Metales y Polímeros en la Comunidad de Castilla y León.
+La Constitución española reserva al Estado en el artículo 149.1.30ª la competencia 
+exclusiva en materia de regulación de las condiciones de obtención, expedición y 
+homologación de títulos académicos y profesionales y normas básicas para el desarrollo 
+del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones 
+de los poderes públicos en esta materia.
+El Estatuto de Autonomía de Castilla y León, en su artículo 73.1, atribuye a la 
+Comunidad de Castilla y León la competencia de desarrollo legislativo y ejecución de 
+la enseñanza en toda su extensión, niveles y grados, modalidades y especialidades de 
+acuerdo con lo dispuesto en la normativa estatal.
+La Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de Formación 
+Profesional, establece en el artículo 10.1 que la Administración General del Estado 
+determinará los títulos y los certificados de profesionalidad que constituirán las ofertas de 
+formación profesional referidos al Catálogo Nacional de Cualificaciones Profesionales, y 
+en el apartado 2 que las Administraciones educativas, en el ámbito de sus competencias, 
+podrán ampliar los contenidos de los correspondientes títulos de formación profesional.
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación, tras su modificación por la 
+Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa, establece 
+en el artículo 6.bis.4 que, en relación con la formación profesional, el Gobierno fijará los 
+objetivos, competencias, contenidos, resultados de aprendizaje y criterios de evaluación 
+del currículo básico, y en el artículo 39.6 que el Gobierno establecerá las titulaciones 
+correspondientes a los estudios de formación profesional, así como los aspectos básicos 
+del currículo de cada una de ellas. 
+El Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación 
+general de la formación profesional del sistema educativo, define en el artículo 9 la estructura 
+de los títulos de formación profesional tomando como base el Catálogo Nacional de 
+Cualificaciones Profesionales, las directrices fijadas por la Unión Europea y otros aspectos 
+de interés social, y en el artículo 7 concreta los elementos que definen el perfil profesional 
+de dichos títulos, que incluirá la competencia general, las competencias profesionales, 
+personales y sociales, las cualificaciones profesionales y, en su caso, las unidades de 
+competencia, cuando se refieran al Catálogo Nacional de Cualificaciones Profesionales 
+incluidas en los títulos. Por otro lado, en el artículo 8.2, dispone que las Administraciones 
+educativas establecerán los currículos correspondientes respetando lo en él dispuesto y 
+en las normas que regulen las diferentes enseñanzas de formación profesional.
+CV: BOCYL-D-23082017-2
+
+Boletín Oficial de Castilla y León
+Núm. 161
+Pág. 34266
+Miércoles, 23 de agosto de 2017
+El Real Decreto 882/2011, de 24 de junio, establece el título de Técnico Superior 
+en Programación de la Producción en Moldeo de Metales y Polímeros y se fijan sus 
+enseñanzas mínimas, indicando en el artículo 1.2 que lo en él dispuesto sustituye a la 
+regulación de los títulos de Técnico Superior en Producción por fundición y Pulvimetalurgia 
+contenida en el Real Decreto 2418/1994, de 16 de diciembre, y de Técnico Superior en 
+Plásticos y Caucho contenida en el Real Decreto 813/1993, de 28 de mayo.
+El presente decreto establece el currículo correspondiente al título de Técnico 
+Superior en Programación de la Producción en Moldeo de Metales y Polímeros en la 
+Comunidad de Castilla y León, teniendo en cuenta los principios generales que han de 
+orientar la actividad educativa según lo previsto en el artículo 1 de la Ley Orgánica 2/2006, 
+de 3 de mayo, y pretende dar respuesta a las necesidades generales de cualificación de 
+los recursos humanos para su incorporación en el sector de la transformación por moldeo 
+de metales y polímeros.
+En el proceso de elaboración de este decreto se ha recabado dictamen del Consejo 
+Escolar de Castilla y León e informe del Consejo de Formación Profesional de Castilla y 
+León.
+En su virtud, la Junta de Castilla y León, a propuesta del Consejero de Educación, de 
+acuerdo con el dictamen del Consejo Consultivo de Castilla y León, y previa deliberación 
+del Consejo de Gobierno en su reunión de 21 de agosto de 2017
+DISPONE
+Artículo 1. Objeto y ámbito de aplicación.
+El presente decreto tiene por objeto establecer el currículo correspondiente al título 
+de Técnico Superior en Programación de la Producción en Moldeo de Metales y Polímeros 
+en la Comunidad de Castilla y León. 
+Artículo 2. Identificación del título y referentes de formación.
+1. El título de Técnico Superior en Programación de la Producción en Moldeo 
+de Metales y Polímeros queda identificado en la Comunidad de Castilla y León por los 
+elementos determinados en el artículo 2 del Real Decreto 882/2011, de 24 de junio, por el 
+que se establece el citado título y se fijan sus enseñanzas mínimas, y por un código, de la 
+forma siguiente:
+	
+FAMILIA PROFESIONAL: Fabricación Mecánica.
+	
+DENOMINACIÓN: Programación de la Producción en Moldeo de Metales y 
+Polímeros.
+	
+NIVEL: Formación Profesional de Grado Superior.
+	
+DURACIÓN: 2.000 horas.
+	
+REFERENTE EUROPEO: CINE-5b (Clasificación Internacional Normalizada de 
+la Educación).
+	
+CÓDIGO: FME04S.
+CV: BOCYL-D-23082017-2
+
+Boletín Oficial de Castilla y León
+Núm. 161
+Pág. 34267
+Miércoles, 23 de agosto de 2017
+2. El currículo del ciclo formativo que conduce al título de Técnico Superior en 
+Programación de la Producción en Moldeo de Metales y Polímeros tomará como referentes 
+de formación los aspectos relativos al perfil profesional del título determinado por la 
+competencia general, las competencias profesionales, personales y sociales, y la relación 
+de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones 
+Profesionales incluidas en el título, así como los aspectos referentes al entorno profesional 
+y la prospectiva del título en el sector o sectores, establecidos en los artículos 3 a 8 del 
+Real Decreto 882/2011, de 24 de junio.
+Artículo 3. Módulos profesionales del ciclo formativo.
+Los módulos profesionales que componen el ciclo formativo que conduce a la 
+obtención del título de Técnico Superior en Programación de la Producción en Moldeo 
+de Metales y Polímeros serán los que se establecen en el artículo 10 del Real Decreto 
+882/2011, de 24 de junio, y que se indican a continuación: 
+0007.	 Interpretación gráfica.
+0530.	 Caracterización de materiales.
+0531.	 Moldeo cerrado.
+0532.	 Moldeo abierto.
+0162.	 Programación de sistemas automáticos de fabricación mecánica.
+0163.	 Programación de la producción.
+0165.	 Gestión de la calidad, prevención de riesgos laborales y protección 
+ambiental.
+0533.	 Verificación de productos conformados.
+0534.	 Proyecto de programación de la producción en moldeo de metales y 
+polímeros.
+0535.	 Formación y orientación laboral.
+0536.	 Empresa e iniciativa emprendedora.
+0537.	 Formación en centros de trabajo.
+Artículo 4. Objetivos, contenidos, duración y orientaciones pedagógicas y 
+metodológicas de cada módulo profesional.
+1. Los objetivos de los módulos profesionales relacionados en el artículo 3, expresados 
+en términos de resultados de aprendizaje, y los criterios de evaluación, son los que se 
+establecen en el anexo I del Real Decreto 882/2011, de 24 de junio.
+2. Por su parte, los contenidos, la duración y las orientaciones pedagógicas y 
+metodológicas de los módulos profesionales relacionados en el artículo 3 son los que se 
+establecen en el Anexo I de este decreto, excepto el módulo profesional «Proyecto de 
+programación de la producción en moldeo de metales y polímeros» sobre el que el citado 
+CV: BOCYL-D-23082017-2
+
+Boletín Oficial de Castilla y León
+Núm. 161
+Pág. 34268
+Miércoles, 23 de agosto de 2017
+Anexo solo determina la duración y las orientaciones pedagógicas y metodológicas, y el 
+módulo profesional «Formación en centros de trabajo» sobre el que solo determina la 
+duración.
+Artículo 5. Módulo profesional de «Formación en centros de trabajo» y «Proyecto de 
+programación de la producción en moldeo de metales y polímeros».
+1. El programa formativo del módulo profesional «Formación en centros de trabajo» 
+se particularizará para cada alumno y se elaborará teniendo en cuenta las características 
+del centro de trabajo. Deberá recoger las actividades formativas que permitan ejecutar 
+o completar la competencia profesional correspondiente al título, los resultados de 
+aprendizaje y los criterios de evaluación previstos en el anexo I Real Decreto 882/2011, 
+de 24 de junio.
+2. El módulo profesional de «Proyecto de programación de la producción en moldeo 
+de metales y polímeros» se definirá de acuerdo con las características de la actividad 
+laboral del ámbito del ciclo formativo y con aspectos relativos al ejercicio profesional y 
+a la gestión empresarial. Tendrá por objeto la integración de las diversas capacidades y 
+conocimientos del currículo del ciclo formativo, contemplará las variables tecnológicas y 
+organizativas relacionadas con el título, y deberá ajustarse a los resultados de aprendizaje 
+y criterios de evaluación previstos en el anexo I del Real Decreto 882/2011, de 24 de 
+junio.
+El departamento de la familia profesional de Fabricación Mecánica determinará, en 
+el marco de la programación general anual, los proyectos que se propondrán para su 
+desarrollo por el alumnado. Los proyectos también podrán ser propuestos por el alumnado, 
+en cuyo caso se requerirá la aceptación del departamento.
+Con carácter general, el módulo profesional «Proyecto de programación de la 
+producción en moldeo de metales y polímeros» se desarrollará simultáneamente al módulo 
+profesional «Formación en centros de trabajo», salvo que concurran otras circunstancias 
+que no lo permitan. 
+Artículo 6. Organización y distribución de los módulos profesionales. 
+1. Los módulos profesionales que forman las enseñanzas del ciclo formativo de 
+técnico superior en programación de la producción en moldeo de metales y polímeros, 
+cuando se oferten en régimen presencial, se organizan en dos cursos académicos. Su 
+distribución en cada uno de los cursos y la asignación horaria semanal se recoge en el 
+Anexo II de este decreto.
+2. El periodo de realización del módulo profesional de «Formación en centros de 
+trabajo» establecido en el Anexo II para el tercer trimestre, podrá comenzar en el segundo 
+trimestre si han transcurrido veintidós semanas lectivas a contar desde el inicio del curso 
+escolar.
+Artículo 7. Metodología.
+1. La metodología didáctica aplicada al ciclo formativo de técnico superior en 
+programación de la producción en moldeo de metales y polímeros integrará los aspectos 
+científicos, tecnológicos y organizativos que en cada caso correspondan, con el fin de que 
+CV: BOCYL-D-23082017-2
+
+Boletín Oficial de Castilla y León
+Núm. 161
+Pág. 34269
+Miércoles, 23 de agosto de 2017
+el alumnado adquiera una visión global de los procesos productivos propios de la actividad 
+profesional.
+2. En el desarrollo de las enseñanzas correspondientes al ciclo formativo se deben 
+aplicar metodologías activas de aprendizaje que favorezcan: 
+a)	La participación, implicación y compromiso del alumnado en las tareas y su 
+resolución de una manera creativa, innovadora y autónoma, estimulando su 
+motivación.
+b)	La realización de proyectos o actividades coordinadas en los que intervengan 
+diferentes módulos interrelacionando aquellos que permitan completar las 
+competencias profesionales del ciclo formativo.
+c)	 La evaluación de las actitudes que el profesorado considere imprescindibles para 
+el desempeño de una profesión y la integración en una sociedad cívica y ética.
+d)	La adquisición de competencias, tanto técnicas asociadas a los módulos 
+profesionales que configuran el ciclo formativo, como interpersonales o sociales 
+(competencia digital, trabajo colaborativo, en equipo o cooperativo, otros). 
+e)	El desarrollo de trabajos en el aula que versen sobre actividades que supongan 
+al alumnado el ensayo de rutinas y destrezas de pensamiento y ejecución de 
+tareas que simulen el ambiente real de trabajo en torno al perfil profesional del 
+título, apoyándose en un aprendizaje basado en proyectos, retos o la resolución 
+de problemas complejos que estimulen al alumnado.
+f)	 La comprobación del nivel adquirido por el alumnado en las competencias 
+asociadas al módulo profesional cursado, mediante la elaboración de pruebas 
+con un componente práctico que evidencie dicho desempeño profesional. 
+Artículo 8. Adaptaciones metodológicas y curriculares.
+1. Con objeto de ofrecer a todas las personas la oportunidad de adquirir una 
+formación básica, ampliar y renovar sus conocimientos, habilidades y destrezas de modo 
+permanente y facilitar el acceso a las enseñanzas de formación profesional, la consejería 
+competente en materia de educación podrá flexibilizar la oferta del ciclo formativo de 
+técnico superior en programación de la producción en moldeo de metales y polímeros 
+permitiendo, principalmente a las personas adultas, la posibilidad de combinar el estudio 
+y la formación con la actividad laboral o con otras actividades, respondiendo así a las 
+necesidades e intereses personales.
+2. También se podrá adecuar las enseñanzas de este ciclo formativo a las 
+características de la educación a distancia, así como a las características del alumnado 
+con necesidades específicas de apoyo educativo para que se garantice su acceso, 
+permanencia y progresión en el ciclo formativo.
+Artículo 9. Requisitos de los centros para impartir estas enseñanzas.
+Todos los centros de titularidad pública o privada que ofrezcan enseñanzas 
+conducentes a la obtención del título de Técnico Superior en Programación de la Producción 
+en Moldeo de Metales y Polímeros se ajustarán a lo establecido en la Ley Orgánica 2/2006, 
+CV: BOCYL-D-23082017-2
+
+Boletín Oficial de Castilla y León
+Núm. 161
+Pág. 34270
+Miércoles, 23 de agosto de 2017
+de 3 de mayo, de Educación y en las normas que lo desarrollen, y en todo caso, deberán 
+cumplir los requisitos que se establecen en el artículo 46 del Real Decreto 1147/2011, de 
+29 de julio, por el que se establece la ordenación general de la formación profesional del 
+sistema educativo, en el Real Decreto 882/2011, de 24 de junio, en este decreto, y en lo 
+establecido en la normativa que los desarrolle.
+Artículo 10. Profesorado. 
+Los aspectos referentes al profesorado con atribución docente en los módulos 
+profesionales del ciclo formativo de técnico superior en programación de la producción en 
+moldeo de metales y polímeros, relacionados en el artículo 3, son los establecidos en el 
+artículo 12 del Real Decreto 882/2011, de 24 de junio.
+Artículo 11. Espacios y equipamientos. 
+Los espacios y equipamientos necesarios para el desarrollo de las enseñanzas 
+del ciclo formativo de técnico superior en programación de la producción en moldeo de 
+metales y polímeros son los establecidos en el artículo 11 del Real Decreto 882/2011, de 
+24 de junio.
+Artículo 12. Accesos y vinculación a otros estudios, y correspondencia de módulos 
+profesionales con las unidades de competencia.
+El acceso y vinculación a otros estudios, y la correspondencia de los módulos 
+profesionales con las unidades de competencia son los que se establecen en el capítulo IV 
+del Real Decreto 882/2011, de 24 de junio.
+Artículo 13. Autonomía de los centros.
+1. Los centros educativos dispondrán de la necesaria autonomía pedagógica, de 
+organización y de gestión económica, para el desarrollo de las enseñanzas del ciclo 
+formativo de técnico superior en programación de la producción en moldeo de metales y 
+polímeros, y su adaptación a las características concretas del entorno socioeconómico, 
+cultural y profesional. 
+2. Los centros autorizados para impartir el ciclo formativo concretarán y desarrollarán 
+el currículo mediante las programaciones didácticas de cada uno de los módulos 
+profesionales que componen el ciclo formativo en los términos establecidos en el Real 
+Decreto 882/2011, de 24 de junio, en este decreto, en el marco general del proyecto 
+educativo de centro y en función de las características de su entorno productivo. 
+Las programaciones didácticas incluirán, al menos, los aspectos siguientes: 
+a)	Los objetivos del módulo profesional: objetivos generales del currículo que 
+desarrolla el módulo y las competencias profesionales, personales y sociales 
+vinculadas al módulo. 
+b)	Las competencias y contenidos de carácter transversal.
+c)	 La organización, secuenciación y temporalización de las unidades didácticas, 
+indicando los contenidos mínimos de referencia.
+CV: BOCYL-D-23082017-2
+
+Boletín Oficial de Castilla y León
+Núm. 161
+Pág. 34271
+Miércoles, 23 de agosto de 2017
+d)	La duración de los contenidos de prevención de riesgos laborales de nivel básico 
+en función del sector, de acuerdo con lo establecido en el artículo 35 del Real 
+Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de los 
+Servicios de Prevención.
+e)	La metodología didáctica.
+f)	 Los criterios de evaluación y calificación del módulo y resultados de aprendizaje 
+mínimos exigibles para obtener la evaluación positiva en el módulo profesional.
+g)	Los procedimientos e instrumentos de evaluación. Actividades de recuperación, 
+pérdida de evaluación continua y reclamaciones.
+h)	La atención a la diversidad y, en su caso, adaptación de acceso al currículo.
+i)	 Las actividades complementarias y extraescolares relacionadas con el módulo 
+profesional. 
+j)	 Los materiales y recursos didácticos.
+3. La consejería competente en materia de educación favorecerá la elaboración de 
+proyectos de innovación, así como de modelos de programación docente y de materiales 
+didácticos que faciliten al profesorado el desarrollo del currículo.
+4. De conformidad con el artículo 120.4 de la Ley Orgánica 2/2006, de 3 de mayo, 
+los centros, en el ejercicio de su autonomía, podrán adoptar experimentaciones, planes de 
+trabajo, formas de organización, normas de convivencia y ampliación del calendario escolar 
+o del horario lectivo de áreas o materias, en los términos que establezca la consejería 
+competente en materia de educación y dentro de las posibilidades que permita la normativa 
+aplicable, incluida la laboral, sin que, en ningún caso, se impongan aportaciones a las 
+familias ni exigencias para la citada consejería. 
+Artículo 14. Enseñanzas impartidas en lenguas extranjeras o en lenguas cooficiales 
+de otras comunidades autónomas.
+1. Teniendo en cuenta que la promoción de la enseñanza y el aprendizaje de lenguas 
+y de la diversidad lingüística debe de constituir una prioridad de la acción comunitaria en el 
+ámbito de la educación y la formación, la consejería competente en materia de educación 
+podrá autorizar que todos o determinados módulos profesionales del currículo se impartan 
+en lenguas extranjeras o en lenguas cooficiales de otra comunidad autónoma, sin perjuicio 
+de lo que se establezca al respecto en su normativa específica y sin que ello suponga 
+modificación de currículo establecido en el presente decreto.
+2. Los centros autorizados deberán incluir en su proyecto educativo los elementos 
+más significativos de su proyecto lingüístico autorizado.
+Artículo 15. Oferta a distancia del título.
+1. Los módulos profesionales que forman las enseñanzas del ciclo formativo de 
+técnico superior en programación de la producción en moldeo de metales y polímeros 
+podrán ofertarse a distancia, siempre que se garantice que el alumnado puede conseguir 
+los resultados de aprendizaje de los mismos, de acuerdo con lo dispuesto en el Real 
+Decreto 882/2011, de 24 de junio, y en este decreto.
+CV: BOCYL-D-23082017-2
+
+Boletín Oficial de Castilla y León
+Núm. 161
+Pág. 34272
+Miércoles, 23 de agosto de 2017
+2. La consejería competente en materia de educación establecerá los módulos 
+profesionales susceptibles de ser impartidos a distancia y el porcentaje de horas de cada 
+uno de ellos que tienen que impartirse en régimen presencial.
+DISPOSICIONES ADICIONALES
+Primera. Calendario de implantación.
+La implantación del currículo establecido en este decreto tendrá lugar en el curso 
+escolar 2017/2018 para el primer curso del ciclo formativo y en el curso escolar 2018/2019 
+para el segundo curso del ciclo formativo.
+Segunda. Titulaciones equivalentes y vinculación con capacitaciones profesionales.
+1. Las titulaciones equivalentes y vinculación con capacitaciones profesionales son 
+las que se establecen en la disposición adicional tercera del Real Decreto 882/2011, de 
+24 de junio.
+2. La formación establecida en el presente decreto en el módulo profesional de 
+«Formación y orientación laboral», incluye un mínimo de cincuenta horas, que capacita 
+para llevar a cabo responsabilidades profesionales equivalentes a las que precisan las 
+actividades de nivel básico en prevención de riesgos laborales, establecidas en el Real 
+Decreto 39/1997, de 17 de enero.
+Tercera. Certificación académica de superación del nivel básico en prevención de 
+riesgos laborales.
+La consejería competente en materia de educación expedirá una certificación 
+académica de la formación de nivel básico en prevención de riesgos laborales al alumnado 
+que haya superado el bloque B del módulo profesional de «Formación y orientación 
+laboral», de conformidad con la Orden EDU/2205/2009, de 26 de noviembre, por la que se 
+regula el procedimiento para la certificación de la formación de nivel básico en prevención 
+de riesgos laborales para el alumnado que supere el módulo profesional de Formación y 
+Orientación Laboral de ciclos formativos de Formación Profesional Inicial. 
+Cuarta. Equivalencia a efectos de docencia en los procedimientos selectivos de 
+ingreso en el Cuerpo de Profesores Técnicos de Formación Profesional.
+En los procesos selectivos convocados por la consejería competente en materia de 
+educación, el título de Técnico Superior o Técnico especialista se declara equivalente a 
+los exigidos para el acceso al Cuerpo de Profesores Técnicos de Formación Profesional, 
+cuando el titulado haya ejercido como profesor interino en centros educativos públicos 
+dependientes de la citada consejería y en la especialidad docente a la que pretenda 
+acceder durante un período mínimo de dos años antes del 31 de agosto de 2007. 
+DISPOSICIÓN DEROGATORIA
+Derogación normativa.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo 
+establecido en el presente decreto.
+CV: BOCYL-D-23082017-2
+
+Boletín Oficial de Castilla y León
+Núm. 161
+Pág. 34273
+Miércoles, 23 de agosto de 2017
+DISPOSICIONES FINALES
+Primera. Desarrollo normativo.
+Se faculta al titular de la consejería competente en materia de educación para dictar 
+cuantas disposiciones sean precisas para la interpretación, aplicación y desarrollo de lo 
+dispuesto en este decreto.
+Segunda. Entrada en vigor.
+El presente decreto entrará en vigor el día siguiente al de su publicación en el «Boletín 
+Oficial de Castilla y León».
+Valladolid, 21 de agosto de 2017.
+El Presidente 
+de la Junta de Castilla y León,
+Fdo.: Juan Vicente Herrera Campo
+El Consejero de Educación,
+Fdo.: Fernando Rey Martínez
+CV: BOCYL-D-23082017-2
+
+Boletín Oficial de Castilla y León
+Núm. 161
+Pág. 34274
+Miércoles, 23 de agosto de 2017
+ANEXO I
+Contenidos, duración y orientaciones pedagógicas 
+y metodológicas de los módulos profesionales
+Módulo profesional: Interpretación gráfica.
+Equivalencia en créditos ECTS: 7.
+Código: 0007.
+Duración: 160 horas.
+Contenidos:
+1. Determinación de formas y dimensiones representadas en planos de fabricación:
+- Interpretación de planos de fabricación.
+- Normas de dibujo industrial.
+- Designación normalizada de los materiales en los planos.
+- Geometría descriptiva.
+- Planos de conjunto y despiece.
+- Sistemas de representación gráfica.
+- Métodos de proyección.
+- Vistas. Elección de vistas.
+- Acotación. Disposición global de cotas.
+- Cortes y secciones.
+- Roturas o vistas interrumpidas.
+- Desarrollo metódico del trabajo.
+- Diseño asistido por ordenador.
+2. Identificación de tolerancias de dimensiones y formas:
+- Intercambiabilidad. Conceptos fundamentales.
+- Conceptos básicos de normalización de las tolerancias.
+- Sistemas ISO de tolerancias.
+- Interpretación de los símbolos utilizados en los planos de fabricación. Acotación.
+- Representación de tolerancias dimensionales, geométricas y superficiales.
+CV: BOCYL-D-23082017-2
+
+Boletín Oficial de Castilla y León
+Núm. 161
+Pág. 34275
+Miércoles, 23 de agosto de 2017
+- Ajustes. Representación y verificación de ajustes.
+- Manipulación de catálogos comerciales.
+- Representación de métodos de unión. Fijas y desmontables.
+- Representación de materiales.
+- Representación de tratamientos térmicos, termoquímicos, electroquímicos.
+- Representación de formas normalizadas (chavetas, roscas, guías, pasadores, 
+soldaduras y otros).
+- Desarrollo metódico del trabajo.
+3. Realización de croquis de utillajes y herramientas:
+- Croquización a mano alzada de soluciones constructivas de herramientas y 
+utillajes para procesos de fabricación.
+- Técnicas de croquización a mano alzada.
+- Creatividad e innovación en las soluciones constructivas.
+- Valoración del orden y limpieza en la realización del croquis.
+- Valoración del trabajo en equipo.
+4. Interpretación de esquemas de automatización:
+- Identificación de componentes en sistemas neumáticos, hidráulicos, eléctricos y 
+programables.
+- Simbología de elementos neumáticos, hidráulicos, eléctricos, electrónicos y 
+programables. Normalización.
+- Simbología de conexiones entre componentes. Normalización.
+- Esquemas de funcionamiento de máquinas y circuitos.
+- Etiquetas de conexiones.
+- Simbología en los diagramas de flujo.
+- Desarrollo metódico del trabajo.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar la función 
+de producción por fundición de metales y transformación de productos poliméricos.
+La formación del módulo contribuye a alcanzar los objetivos generales a), j), k), l), o) 
+y p) del ciclo formativo, y las competencias a), j), k) y ñ) del título.
+CV: BOCYL-D-23082017-2
+
+Boletín Oficial de Castilla y León
+Núm. 161
+Pág. 34276
+Miércoles, 23 de agosto de 2017
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo versarán sobre:
+- La interpretación de la información gráfica y técnica incluida en planos de conjunto 
+o fabricación, esquemas de automatización, catálogos comerciales y cualquier 
+otro soporte que incluya representaciones gráficas.
+- La propuesta de soluciones constructivas de elementos de sujeción y pequeños 
+utillajes representados mediante croquis.
+Módulo profesional: Caracterización de materiales.
+Equivalencia en créditos ECTS: 7.
+Código: 0530.
+Duración: 160 horas.
+Contenidos:
+1. Caracterización de la influencia de materiales poliméricos:
+- Clasificación de los polímeros: Termoplásticos, Termoestables y Elastómeros.
+- Codificación de los plásticos.
+- Propiedades ambientales, mecánicas, físicas, ópticas y eléctricas. 
+- Temperatura de transición vítrea. 
+- Estado amorfo y estado cristalino. Grado de cristalinidad e influencia de los 
+procesos de transformación.
+- Catalizadores y aditivos: rellenos, pigmentos, estabilizadores, agentes 
+antiestáticos, retardantes de llama, plastificantes y reforzantes. 
+- Sistemas de refuerzo.
+- Fenómenos de degradación y estabilización.
+- Influencia de la vulcanización sobre la deformación plástica viscosa.
+- Influencia de los tratamientos superficiales sobre las propiedades.
+- Mantenimiento de materiales poliméricos.
+- Procesos de transformación.
+- Aplicaciones industriales.
+- Tratamiento de residuos. Plásticos biodegradables.
+- Riesgos y medidas de protección.
+CV: BOCYL-D-23082017-2
+
+Boletín Oficial de Castilla y León
+Núm. 161
+Pág. 34277
+Miércoles, 23 de agosto de 2017
+2. Determinación de la influencia de materiales metálicos:
+- Tipos de materiales férricos y no férricos. Clasificación de materiales metálicos. 
+Normas AISI.
+- Aleaciones de aluminio, magnesio, cobre, níquel, cobalto y titanio. 
+- Materiales refractarios.
+- Clasificaciones para aceros: AISI y SAE: 
+- Aceros inoxidables.
+- Tipos de aceros.
+- Propiedades físicas y químicas: 
+- Densidad, conductividad, dilatabilidad, punto de fusión, calor específico, 
+resistencia a la corrosión y resistencia a ataques químicos o electroquímicos,  
+entre otros.
+- Propiedades mecánicas y tecnológicas: Cohesión, tenacidad, dureza, 
+resiliencia, elasticidad, plasticidad, maquinabilidad, ductilidad, maleabilidad, 
+fluencia, fragilidad y fatiga.
+- Diagrama de equilibrio Fe-C.
+- Diagramas de equilibrio de las aleaciones más usadas industrialmente.
+- Formación y crecimiento de grano.
+- Diagramas TTT (Transformación-Tiempo-Temperatura).
+- Influencia de los tratamientos térmicos y superficiales sobre las propiedades.
+- Procesos de corrosión. Técnicas de protección contra la corrosión.
+- Aplicaciones comerciales de los materiales metálicos.
+- Procesos de transformación. Parámetros de proceso de los distintos materiales 
+metálicos.
+- Protección y lubricación de los materiales metálicos.
+- Tratamiento de residuos.
+- Riesgos y medidas de protección.
+3. Definición de la influencia de materiales cerámicos:
+- Clasificación de materiales cerámicos: arcillas, cementos, refractarios, abrasivos 
+y vidrios.
+- Propiedades ambientales, mecánicas, físicas, ópticas y eléctricas. Comportamiento 
+refractario. Comportamiento eléctrico: aislamiento y superconductividad. 
+- Defectos en las estructuras cristalinas.
+- Métodos para mejorar la tenacidad: cermets y endurecer por transformación.
+- Influencia de los tratamientos térmicos y termoquímicos sobre las propiedades.
+CV: BOCYL-D-23082017-2
+
+Boletín Oficial de Castilla y León
+Núm. 161
+Pág. 34278
+Miércoles, 23 de agosto de 2017
+- Procesos de transformación. Parámetros de proceso de los distintos materiales 
+cerámicos. Temperatura de cocción y tiempo de cocción, entre otros.
+- Aplicaciones comerciales.
+- Mantenimiento de los materiales cerámicos.
+- Tratamiento de residuos y su reciclaje.
+- Riesgos y medidas de protección.
+4. Identificación de la influencia de materiales compuestos:
+- Clasificación de los materiales compuestos.
+- Reforzados por fibras. Reforzados por partículas. Compuestos laminares.
+- Propiedades ambientales, mecánicas, físicas, ópticas y eléctricas.
+- Modificación de las propiedades por combinación. Características principales e 
+incompatibilidades entre materiales.
+- Conceptos de matriz y fase dispersa.
+- Tipos de grano en la fase dispersa.
+- Tipos de fibra en la fase dispersa.
+- Parámetros de proceso de los distintos materiales compuestos.
+- Aplicaciones comerciales.
+- Mantenimiento de materiales compuestos.
+- Tratamientos de residuos.
+- Riesgos y medidas de protección.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar las 
+funciones de ingeniería de proceso, concretamente en la identificación de materiales y la 
+relación entre las propiedades de los materiales y los procesos de transformación.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+a), j), k), l), o) y p) del ciclo formativo, y las competencias a), j), k) y ñ) del título.
+Las actividades profesionales asociadas a esta función se aplican en los procesos de:
+- Asignación de recursos materiales.
+- Procesos de transformación.
+CV: BOCYL-D-23082017-2
+
+Boletín Oficial de Castilla y León
+Núm. 161
+Pág. 34279
+Miércoles, 23 de agosto de 2017
+- Control y seguimiento de la calidad.
+- Tratamiento de residuos.
+- Colaboración con la oficina técnica de diseño.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+- Clasificación y denominación de materiales metálicos, cerámicos, poliméricos y 
+compuestos.
+- La identificación de propiedades de materiales.
+- Tratamientos térmicos y superficiales de materiales.
+- Relación entre las variables de los procesos de transformación y las propiedades 
+de los materiales.
+- La selección del material o materiales adecuados a cada pieza según sus 
+requerimientos.
+- Requisitos de seguridad en la manipulación de materiales.
+La metodología aplicada en este módulo profesional debe favorecer experiencias de 
+aprendizaje fundamentadas en el conocimiento de la terminología específica utilizada, el 
+estudio de documentación técnica de los materiales como recurso educativo, la consulta 
+de la normativa de aplicación, el análisis, desarrollo y resolución de supuestos prácticos, el 
+empleo de aplicaciones, realizando su implementación en el aula para la consecución de 
+los objetivos específicos relacionados con la caracterización de materiales.
+Para el desarrollo del módulo será necesario la realización de prácticas que incluyan 
+el uso de las TIC como instrumento habitual para la realización de consulta en páginas web 
+de normativa, catálogos técnicos y otros. Los trabajos propuestos al alumnado deberán 
+potenciar la autonomía y la creatividad de acuerdo a los parámetros de calidad exigidos, 
+incluyendo actividades individuales.
+Módulo profesional: Moldeo cerrado.
+Equivalencia en créditos ECTS: 20.
+Código: 0531.
+Duración: 416 horas.
+Contenidos:
+1. Especificación de los medios de producción en moldeo cerrado:
+- Tipos de máquinas, moldes e instalaciones:
+- Equipos y dispositivos de fusión y colada, de mezclado, de acondicionamiento 
+y de alimentación, entre otros.
+- Equipos y dispositivos de inyección, de centrífugo, semi-centrífugo y 
+centrifugado, de compresión y transferencia, y de soplado, entre otros.
+CV: BOCYL-D-23082017-2
+
+Boletín Oficial de Castilla y León
+Núm. 161
+Pág. 34280
+Miércoles, 23 de agosto de 2017
+- Sistemas auxiliares y accesorios: de calor, refrigeración, aire comprimido, gases 
+y alimentación, entre otros.
+- Acabados superficiales obtenidos con los procesos de moldes cerrados.
+- Moldes: elementos constitutivos, auxiliares, móviles y fijos.
+- Requisitos y características de los moldes.
+- Métodos de fabricación y materiales. 
+- Limitaciones geométricas: Capacidad y dimensiones. Puntos, tipos y canales de 
+lubricación. 
+- Montaje y ajuste.
+- Requisitos y características de los moldes:
+- Métodos de fabricación y materiales. Técnicas de mecanizado en máquinas 
+convencionales, y en máquinas de CNC.
+- Limitaciones geométricas. Capacidad y dimensiones.
+- Puntos, tipos y canales de lubricación.
+- Montaje y ajuste.
+- Refrigeración y calefacción de moldes.
+- Moldes de canales calientes.
+- Técnicas de diagnosis de fallos. Etapas básicas y valoración de características, 
+Procedimientos de ensayos y parámetros de estimación.
+- Identificación de fallos de operación. Pautas de ajuste y corrección que hay que 
+seguir en función del fallo.
+- Plan y operaciones de mantenimiento: 
+- Planes de mantenimiento de máquinas, moldes y utillajes. 
+- Operaciones de mantenimiento de máquinas, equipos, moldes y utillajes. 
+- Sustitución de elementos. 
+- Técnicas y procedimientos.
+- Almacenamiento de materias primas: 
+- Acondicionamiento. 
+- Normativa de almacenamiento y clasificación según sus características (ISO 
+y UNE, entre otras).
+CV: BOCYL-D-23082017-2
+
+Boletín Oficial de Castilla y León
+Núm. 161
+Pág. 34281
+Miércoles, 23 de agosto de 2017
+2. Definición de procesos de fabricación:
+- Distribución en planta (Layout): 
+- Según el tipo de moldeo o de producto. 
+- Zonas de almacenamiento, de moldeo y machería, de fusión y colada y de 
+producción y acabado.
+- Fases y secuencia del proceso: 
+- Sistemas de producción. 
+- Preparación y acondicionamiento. 
+- Fusión. 
+- Colada. Inyección/presión. 
+- Desmoldado, y operaciones de acabado.
+- Equipos, maquinaria, utillajes e instalaciones. Selección: 
+- Según el tipo de moldeo y de producto. 
+- Según las características requeridas.
+- Preparación de superficies y tratamientos previos. 
+- Materiales, productos y componentes intermedios:
+-  Acero, aluminio, cobre, zinc, polímeros y aditivos. 
+- Polvos para pulvimetalurgia (metálicos y cerámicos). 
+- Polímeros.
+- Sistemas y operaciones de acondicionamiento de productos.
+- Sistemas de mezcla y dosificación: Manuales. Mecánicos. Automatizados.
+- Masas y volúmenes de los componentes: 
+- Concepto de masa, volumen, fuerza, velocidad lineal y de giro, aceleración, 
+presión, caudal, densidad, intensidad, potencia, trabajo y sus unidades. 
+- Parámetros físicos y porcentajes. 
+- Formulación de mezclas. Materias primas y aditivos.
+- Cálculos.
+- Orden y secuencia de adición de componentes. 
+CV: BOCYL-D-23082017-2
+
+Boletín Oficial de Castilla y León
+Núm. 161
+Pág. 34282
+Miércoles, 23 de agosto de 2017
+- Procesos de preparación de productos de acabado. 
+- Hoja de proceso: 
+- Fases, subfases, operaciones y tiempos. 
+- Elaboración.
+- AMFE: Análisis del proceso.
+- Transformación con la mínima generación de residuos.
+3. Cálculo de costes de fabricación:
+- Componentes del coste: Mano de obra. Materiales. Herramientas. Tiempos de 
+máquina y no productivos.
+- Parámetros de fabricación: Valoración de la variación de estos en los costes. 
+- Cálculo de tiempos del proceso: 
+- Tiempos de preparación. Tiempos de montaje y alineación de moldes y 
+utillajes. Tiempos de fabricación. Tiempos de máquinas.
+- Parámetros que intervienen.
+- Procedimientos para la medición de los tiempos.
+- Cálculo de costes: Sistemas. Tablas y tarifas.
+- Optimización de costes en procesos de fabricación: Conceptos de producción, 
+de productividad, de eficiencia y de eficacia.
+- Presupuestos: Realización por procedimiento comparativo.
+4. Desarrollo de procesos de moldeo cerrado:
+- Funcionamiento de las máquinas y moldes: 
+- Sistemas mecánicos, hidráulicos y neumáticos, entre otros. 
+- Sistemas de calefacción, refrigeración y engrase. 
+- Sistemas de alimentación. Sistemas de extracción.
+- Dispositivos y sistemas de fijación, de alineación, de regulación y de 
+alimentación. 
+- Instrumentos de medida y control.
+- Parámetros de control del proceso: Sistemas de control. Control de parámetros. 
+Verificación del producto.
+CV: BOCYL-D-23082017-2
+
+Boletín Oficial de Castilla y León
+Núm. 161
+Pág. 34283
+Miércoles, 23 de agosto de 2017
+- Preparación de máquinas: Alineaciones, presiones, niveles y sistemas de 
+alimentación, entre otros:
+- Documentación técnica del producto que se va a elaborar. 
+- Hoja de proceso y de ruta. 
+- Especificaciones técnicas. 
+- Alineaciones, presiones, niveles, y sistemas de alimentación, entre otros.
+- Elementos de fijación, alimentación y entradas, expulsión, calefacción y 
+refrigeración, entre otros.
+- Moldes y modelos: Montaje y ajuste. 
+- Metodología de cambio rápido de utillajes. 
+- Variables del proceso: Ajuste sobre máquina y molde: 
+- Identificación de los puntos críticos.
+- Aparataje para la medición de: fuerza, presión, caudal, temperatura, velocidad 
+lineal y angular, intensidad, densidad y resistencia. 
+- Herramental para la medición longitudinal. 
+- Herramental para la medición angular. 
+- Herramental para la verificación y comprobación. 
+- Elementos y accionamientos de regulación.
+- Técnicas operativas para manipulación y transporte: 
+- Manuales. 
+- Con sistemas mecánicos. 
+- Con sistemas automatizados.
+- Aprovisionamiento de materiales, productos y componentes intermedios: 
+- Materias primas. 
+- Materiales para revestimientos. 
+- Arenas y resinas. 
+- Fluidos y gases. 
+- Gestión de stocks.
+CV: BOCYL-D-23082017-2
+
+Boletín Oficial de Castilla y León
+Núm. 161
+Pág. 34284
+Miércoles, 23 de agosto de 2017
+- Técnicas operativas de fusión de metales y polímeros por moldeo cerrado: 
+- Elaboración de modelos y moldes. 
+- Alineación, fijación y acondicionamiento de moldes. (calentadores y 
+refrigeradores, entre otros). 
+- Preparación de revestimientos. 
+- Preparación, puesta en marcha y parada de máquinas e instalaciones de 
+mezclado. 
+- Preparación, puesta en marcha y parada de instalaciones de acondicionamiento 
+(estufas y secadores continuos, entre otros). 
+- Preparación, puesta en marcha y parada de sistemas de fusión (cubilotes, 
+hornos eléctricos y hornos de oxicombustión, entre otros). 
+- Volcado del horno. 
+- Volcado de cuchara. 
+- Extracción de núcleos (machos). Recorte.
+- Manipulación del producto moldeado: extracción, separación de la colada, 
+clasificación y embalaje, entre otras.
+- Corrección de las desviaciones del proceso: 
+- Pautas de ajuste y corrección que hay que seguir en función de las variables. 
+- Pautas de avería o disfunción de máquina o equipo auxiliar. 
+- Técnicas operativas para tratamientos de proceso y acabado. 
+- Elaboración de informes técnicos: 
+- Relación de diferencias entre proceso definido y obtenido. 
+- Propuestas de modificación y mejora.
+5. Prevención de riesgos laborales y protección ambiental:
+- Identificación de riesgos.
+- Determinación de las medidas de prevención de riesgos laborales.
+- Prevención de riesgos laborales en las operaciones de moldeo cerrado.
+- Factores físicos del entorno de trabajo.
+- Factores químicos del entorno de trabajo.
+- Sistemas de seguridad aplicados a las máquinas y moldes.
+CV: BOCYL-D-23082017-2
+
+Boletín Oficial de Castilla y León
+Núm. 161
+Pág. 34285
+Miércoles, 23 de agosto de 2017
+- Medios y equipos de protección individual.
+- Prevención y protección colectiva.
+- Normativa reguladora de la gestión de residuos.
+- Clasificación y almacenamiento de residuos.
+- Tratamiento y recogida de residuos.
+- Cumplimiento de la normativa de prevención de riesgos laborales. 
+- Cumplimiento de la normativa de protección ambiental. 
+- Métodos y normas de orden y limpieza.
+- Compromiso ético con los valores de conservación y defensa del patrimonio 
+ambiental y cultural de la sociedad. 
+- Protección ambiental.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene las especificaciones de formación asociada a la 
+función de ingeniería de proceso.
+La definición de esta función incluye aspectos como:
+- La determinación de procesos y costes de fabricación de productos obtenidos 
+por moldeo cerrado.
+- El cálculo del coste de fabricación relacionado con el proceso.
+- El desarrollo y gestión de los procesos de mantenimiento.
+El proceso se aplica en:
+- La obtención de productos de fundición.
+- La obtención de productos por pulvimetalurgia.
+- La obtención de productos por transformación de polímeros termoplásticos.
+- La obtención de productos por transformación de polímeros termoestables.
+- La obtención de productos por transformación del caucho.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+b), c), d), e), f), j), k), l), n), ñ), o) y p) del ciclo formativo, y las competencias b), c), d), e), 
+f), j), k), m), n) y ñ) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+CV: BOCYL-D-23082017-2
+
+Boletín Oficial de Castilla y León
+Núm. 161
+Pág. 34286
+Miércoles, 23 de agosto de 2017
+- La elaboración del proceso de fabricación, partiendo de las especificaciones del 
+producto que se va a obtener.
+- La preparación y puesta a punto de mezclas, máquinas, equipos, utillajes y 
+herramientas que intervienen en el proceso.
+- La ejecución de operaciones de acuerdo con el proceso estipulado y la calidad 
+del producto que hay que obtener.
+- La planificación del mantenimiento.
+- La aplicación de las medidas de seguridad y aplicación de los equipos de 
+protección individual en la ejecución operativa.
+- La aplicación de la normativa de protección ambiental relacionada con los 
+residuos, aspectos contaminantes y tratamiento de los mismos.
+- Aportaciones para el diseño de moldes.
+Para el desarrollo del módulo será necesario la realización de prácticas que 
+incluyan las técnicas de fabricación de moldes y utillajes para la obtención de prototipos, 
+comprobación de funcionamiento, mantenimiento y mejora de los mismos, asegurando 
+la calidad, y cumpliendo la normativa de prevención de riesgos laborales y de protección 
+ambiental. Los trabajos propuestos al alumnado deberán potenciar la autonomía y la 
+creatividad de acuerdo a los parámetros de calidad exigidos, incluyendo tanto actividades 
+individuales a desarrollar en soporte informático, como agrupamientos de varios alumnos 
+para la resolución de estos trabajos, fomentando así el trabajo en equipo, la cooperación, 
+la distribución de tareas y responsabilidades, la transferencia de conocimientos y las 
+relaciones entre iguales, en las distintas fases de trabajo.
+Módulo profesional: Moldeo abierto.
+Equivalencia en créditos ECTS: 14.
+Código: 0532.
+Duración: 189 horas.
+Contenidos:
+1. Especificación de los medios de producción en moldeo abierto:
+- Tipos de máquinas, moldes e instalaciones:
+- Equipos y dispositivos de fusión y colada, de mezclado y de alimentación, 
+entre otros.
+- Equipos y dispositivos de extrusión, termoconformado, pultrusión, film 
+soplado, estereolitografía, sinterizado por láser, técnicas de impresión en tres 
+dimensiones, moldes de silicona y fabricación CNC, entre otros.
+- Funciones de máquinas. 
+- Sistemas auxiliares y accesorios. 
+CV: BOCYL-D-23082017-2
+
+Boletín Oficial de Castilla y León
+Núm. 161
+Pág. 34287
+Miércoles, 23 de agosto de 2017
+- Sistemas de mezcla y dosificación. 
+- Sistemas de control.
+- Sistemas de almacenamiento y transporte. 
+- Moldes: 
+- Tipos y características de los mismos.
+- Elementos constitutivos de moldes abiertos. Acabados superficiales.
+- Elementos auxiliares de moldes abiertos.
+- Elementos móviles y fijos de moldes abiertos.
+- Materiales para su fabricación.
+- Tratamientos para materiales en moldeo abierto.
+- Soluciones constructivas. Soluciones constructivas. Técnicas de mecanizado 
+en máquinas convencionales, especiales y manuales. Técnica de mecanizado 
+con máquinas de CNC, entre otras.
+- Técnicas de diagnóstico de fallos. Etapas básicas y valoración de características. 
+Procedimientos de ensayos y parámetros de estimación.
+- Mantenimiento de equipos para moldeo abierto. Técnicas de mantenimiento 
+preventivo.
+- Condiciones de almacenaje.
+- Elaboración de informes técnicos.
+2. Definición de procesos de fabricación:
+- Estudio de fabricación.
+- Organización de las distintas fases del proceso, contemplando la relación con los 
+medios y máquinas.
+- Equipos e instalaciones.
+- Aprovisionamiento y almacenamiento de materiales y productos. 
+- Medidas de prevención y de tratamiento de residuos. 
+- Cálculo de masas y volúmenes. 
+- Procesos de moldeo abierto.
+- Procesos de obtención de productos de materiales compuestos.
+- Tratamientos previos.
+CV: BOCYL-D-23082017-2
+
+Boletín Oficial de Castilla y León
+Núm. 161
+Pág. 34288
+Miércoles, 23 de agosto de 2017
+- Procesos y operaciones de acabado.
+- Procesos de unión.
+- Hojas de proceso.
+- Preparación de superficies.
+- Tratamientos previos al moldeo.
+- Operaciones de embalado, codificación y expedición de productos. 
+- Operaciones de mantenimiento. 
+- Hoja de proceso: Elaboración. 
+- AMFE: Análisis del proceso.
+- Transformación con la mínima generación de residuos y la máxima eficiencia 
+energética.
+3. Cálculo de costes:
+- Cálculo de tiempos del proceso.
+- Componentes de coste: coste de preparación, de operación y de materiales.
+- Tiempos de preparación.
+- Cálculo de costes. Métodos de cálculo de costes.
+- Relación coste-parámetros de proceso.
+- Consulta de tarifas.
+- Elaboración de presupuestos.
+- Valoración de la disminución del coste en competitividad del proceso. 
+- Rigor en las estimaciones y cálculos realizados.
+4. Desarrollo de procesos de fabricación:
+- Elementos y mandos de las máquinas. 
+- Parámetros de control de proceso.
+- Preparación de máquinas: Alineaciones, presiones, niveles y sistemas de 
+alimentación, entre otros.
+- Elementos de fijación, alimentación, extracción, calefacción y refrigeración, entre 
+otros.
+- Montaje y reglaje de moldes, utillajes y accesorios. 
+CV: BOCYL-D-23082017-2
+
+Boletín Oficial de Castilla y León
+Núm. 161
+Pág. 34289
+Miércoles, 23 de agosto de 2017
+- Metodología de cambio rápido de utillajes y moldes. 
+- Calibración de instrumentos y equipos de control y medida. 
+- Regulación de parámetros del proceso.
+- Técnicas operativas de fusión de metales y polímeros por moldeo abierto. 
+- Técnicas operativas para tratamientos.
+- Técnicas operativas para la obtención de productos de materiales compuestos.
+- Corrección de las desviaciones del proceso.
+- Técnicas operativas para operaciones de acabado.
+- Técnicas operativas para procesos de unión.
+- Técnicas operativas para almacenaje, manipulación y transporte.
+- Operaciones de mantenimiento.
+- Elementos de transporte y elevación.
+- Elaboración de informes.
+5. Prevención de riesgos laborales y protección ambiental:
+- Identificación de riesgos.
+- Determinación de las medidas de prevención de riesgos laborales.
+- Prevención de riesgos laborales en las operaciones de moldeo abierto.
+- Factores físicos del entorno de trabajo.
+- Factores químicos del entorno de trabajo.
+- Factores higiénicos del entorno de trabajo.
+- Sistemas de seguridad aplicados a las máquinas y moldes.
+- Medios y equipos de protección individual.
+- Prevención y protección colectiva.
+- Normativa reguladora de la gestión de residuos.
+- Clasificación y almacenamiento de residuos.
+- Tratamiento y recogida de residuos.
+- Cumplimiento de la normativa de prevención de riesgos laborales. 
+- Cumplimiento de la normativa de protección ambiental. 
+CV: BOCYL-D-23082017-2
+
+Boletín Oficial de Castilla y León
+Núm. 161
+Pág. 34290
+Miércoles, 23 de agosto de 2017
+- Métodos y normas de orden y limpieza.
+- Compromiso ético con los valores de conservación y defensa del patrimonio 
+ambiental y cultural de la sociedad. 
+- Protección ambiental.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene las especificaciones de formación asociadas a la 
+función de ingeniería de proceso.
+La definición de estas funciones incluye aspectos como:
+- La determinación de procesos y costes de fabricación de productos obtenidos 
+por moldeo abierto.
+- El desarrollo y gestión de los procesos de mantenimiento.
+El proceso se aplica en:
+- La obtención de productos de fundición.
+- La obtención de productos por transformación de polímeros termoplásticos.
+- La obtención de productos por transformación de polímeros termoestables.
+- La obtención de productos por transformación del caucho.
+- La obtención de productos de materiales compuestos.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+b), c), d), e), g), j), k), l), n), ñ), o) y p) del ciclo formativo, y las competencias b), c), d), e), 
+g), j), k), m), n) y ñ) del título.
+Las actividades de aprendizaje versarán sobre:
+- La elaboración del proceso de fabricación, partiendo de las especificaciones del 
+producto que se va a obtener.
+- La preparación y puesta a punto de mezclas, máquinas, equipos, utillajes y 
+herramientas que intervienen en el proceso.
+- La ejecución de operaciones de acuerdo con el proceso estipulado y la calidad 
+del producto que hay que obtener.
+- Programas de mantenimiento en la forma y tiempos establecidos.
+- La aplicación de las medidas de seguridad y aplicación de los equipos de 
+protección individual en la ejecución operativa.
+- La aplicación de la normativa de protección ambiental relacionada con los 
+residuos, aspectos contaminantes y tratamiento de los mismos.
+- Aportaciones para el diseño de moldes.
+CV: BOCYL-D-23082017-2
+
+Boletín Oficial de Castilla y León
+Núm. 161
+Pág. 34291
+Miércoles, 23 de agosto de 2017
+La metodología aplicada en este módulo profesional debe favorecer experiencias 
+de aprendizaje fundamentadas en el manejo de herramientas manuales y máquinas de 
+fabricación, así como las diferentes técnicas operativas en la fusión de metales y polímeros, 
+al igual todos los procesos de unión existentes.
+La incorporación de la fabricación asistida por ordenador en las distintas fases de 
+los procesos de fundición demanda conocer las características y programación de las 
+mismas que permitan acoplarse a las exigencias en cuanto a capacidad de adaptación y 
+alto rendimiento,  así con la simulación de procesos utilizando el Software específico para 
+cada caso.
+Para el desarrollo del módulo será necesario la realización de prácticas que incluyan 
+la fabricación de conjuntos mecánicos, que tengan una aplicación real, de forma que el 
+alumnado pueda comprender la importancia de las relaciones dimensionales y geométricas, 
+aplicadas sobre los diseños y fabricación de moldes para la obtención de prototipo, 
+asegurando la calidad, y cumpliendo la normativa de prevención de riesgos laborales 
+y de protección ambiental. Los trabajos propuestos al alumnado deberán potenciar la 
+autonomía y la creatividad de acuerdo a los parámetros de calidad exigidos, incluyendo 
+tanto actividades individuales a desarrollar en soporte informático, como agrupamientos 
+de varios alumnos para la resolución de estos trabajos, fomentando así el trabajo en 
+equipo, la cooperación, la distribución de tareas y responsabilidades, la transferencia de 
+conocimientos y las relaciones entre iguales, en las distintas fases de trabajo.
+Módulo profesional: Programación de sistemas automáticos de fabricación 
+mecánica.
+Equivalencia en créditos ECTS: 9.
+Código: 0162.
+Duración: 126 horas.
+Contenidos:
+1. Automatización de procesos de fabricación mecánica:
+- Interpretación de esquemas de automatización neumáticos, hidráulicos, eléctricos 
+y sus combinaciones.
+- Fundamentos de la automatización de la fabricación.
+- Células, líneas y sistemas de fabricación flexible.
+- Integración de sistemas flexibles.
+- Aplicaciones de la robótica en fabricación.
+- Procesos de transporte y montaje automático.
+- Sistemas modulares automáticos de útiles y herramientas.
+- Fabricación integrada por ordenador (CIM).
+CV: BOCYL-D-23082017-2
+
+Boletín Oficial de Castilla y León
+Núm. 161
+Pág. 34292
+Miércoles, 23 de agosto de 2017
+- Automatización neumática.
+- Automatización hidráulica.
+- Automatización electroneumohidráulica.
+- Automatización eléctrica y electrónica.
+- Relacionar los elementos mecánicos, neumáticos hidráulicos, eléctricos.
+2. Programación de sistemas automáticos:
+- Robots.
+- Manipuladores.
+- Controladores lógicos programables.
+- Lenguajes de programación de PLCs y robots.
+- Programación de PLCs.
+- Programación de robots.
+- Transferencia PLCs- PC.
+- Planificación de las actividades.
+- Elaborar programas de gestión del sistema.
+- Variables a controlar (fuerzas, velocidad, presión, tiempo).
+- Modificación de programas.
+- Realizar simulación de cargas.
+3. Preparación de sistemas automatizados:
+- Planificación de la actividad.
+- Puesta en marcha de máquinas y equipos.
+- Reglaje de máquinas y accesorios.
+- Montaje de útiles y herramientas.
+- Órganos de regulación.
+- Parámetros de control.
+- Útiles de verificación (cronómetros, manómetros, caudalímetros, presostatos…).
+- Riesgos laborales asociados a la preparación de máquinas.
+- Factores y situaciones de riesgo.
+- Riesgos medioambientales asociados a la preparación de máquinas.
+CV: BOCYL-D-23082017-2
+
+Boletín Oficial de Castilla y León
+Núm. 161
+Pág. 34293
+Miércoles, 23 de agosto de 2017
+4. Control y supervisión:
+- Control de la estación de trabajo.
+- Distribución de las instrucciones de control a las estaciones de trabajo.
+- Control de la producción.
+- Control del tráfico.
+- Control de las herramientas.
+- Monitorización de piezas.
+- Informes y control de seguimiento.
+- Sistemas SCADA.
+- Diagnósticos.
+- Identificación y resolución de problemas.
+- Procedimiento para realizar mediciones.
+- Sensores. Tipos y aplicaciones.
+- Realizar las operaciones de mantenimiento (engrase, niveles de líquido y 
+evacuación de residuos.
+- Plan de mantenimiento y documento de registro.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar la función 
+de ingeniería de proceso, concretamente en la programación de sistemas automatizados.
+La función de programación de sistemas automatizados incluye aspectos como:
+- La programación de robots y manipuladores.
+- La programación de controles lógicos (PLCs).
+- La preparación de máquinas.
+- La puesta a punto de máquinas.
+- La supervisión y control del proceso de fabricación.
+Las actividades profesionales asociadas a esta función se aplican en:
+- Los procesos de transformación de metales.
+- Los procesos de transformación de polímeros.
+CV: BOCYL-D-23082017-2
+
+Boletín Oficial de Castilla y León
+Núm. 161
+Pág. 34294
+Miércoles, 23 de agosto de 2017
+- La pulvimetalurgia.
+- La automatización de los procesos productivos.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+d), e), j), k), l), ñ), o) y p) del ciclo formativo, y las competencias d), e), i), j), k), m), n) y ñ) 
+del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo versarán sobre:
+- El análisis de instalaciones automatizadas describiendo su funcionamiento, 
+componentes, estructura y tipología.
+- La programación de robots, manipuladores y PLCs y la integración de sistemas 
+neumohidraúlicos.
+- La puesta en marcha del proceso automático requerido, montando los elementos 
+que intervienen, regulando y controlando la respuesta del sistema, y respetando los 
+espacios de seguridad y la aplicación de los equipos de protección individual.
+- La supervisión y control del proceso de fabricación, obteniendo informes de 
+seguimiento, realizando los diagnósticos correspondientes y efectuando la toma 
+de decisiones oportunas para mejorar el rendimiento del sistema.
+Módulo profesional: Programación de la producción.
+Equivalencia en créditos ECTS: 8.
+Código: 0163.
+Duración: 126 horas.
+Contenidos:
+1. Programación de la producción:
+- Productividad. Eficiencia. Eficacia. Efectividad.
+- Ciclo productivo.
+- Políticas de producción. Distintas políticas de producción: con limitaciones de 
+stoks, producción regular y extraordinaria, producción por lotes.
+- Planificación de la producción.
+- Problemas de planificación de la producción.
+- MRP.
+- Capacidad de máquina.
+- Carga de trabajo.
+CV: BOCYL-D-23082017-2
+
+Boletín Oficial de Castilla y León
+Núm. 161
+Pág. 34295
+Miércoles, 23 de agosto de 2017
+- Asignación y secuenciación de cargas de trabajo.
+- Rutas de producción.
+- Diagrama del proceso.
+- Lotes de producción.
+- Camino crítico.
+- Distribución de la planta industrial.
+- Tecnología de producción optimizada. OPT.
+- Teoría de las limitaciones (T.O.C.).
+- Sistemas de producción justo a tiempo. JIT.
+- Requisitos de implementación del JIT.
+- Control total de la calidad.
+- Ingeniería concurrente.
+- Software de gestión de la producción GPAO.
+- Principales problemas de la programación de la producción.
+2. Mantenimiento:
+- Terminología del mantenimiento (fiabilidad, disponibilidad y mantenibilidad).
+- Tipos de mantenimiento: correctivo, preventivo, predictivo y proactivo.
+- Mantenimiento sistemático y condicional.
+- Mantenimiento centrado en la fiabilidad (RCM).
+- Mantenimiento productivo total (TPM).
+- Mantenimiento eléctrico.
+- Mantenimiento mecánico.
+- Planes de mantenimiento.
+- Software de gestión de mantenimiento.
+3. Documentación:
+- Tratamiento, archivo y consulta de la documentación.
+- Documentos para la programación de la producción: diagrama del proceso, 
+distribución en planta, hojas de ruta, lista de materiales, fichas de trabajo, hojas 
+CV: BOCYL-D-23082017-2
+
+Boletín Oficial de Castilla y León
+Núm. 161
+Pág. 34296
+Miércoles, 23 de agosto de 2017
+de instrucciones, planos de fabricación, control estadístico del proceso, hoja de 
+toma de tiempos, entre otros.
+- Funciones del código.
+- Técnicas de codificación y archivo de documentación.
+- Beneficios de un sistema de codificación.
+- Software de gestión documental de la planificación y control de la producción.
+4. Control de la producción:
+- Fases del control de la producción.
+- Técnicas de control de la producción.
+- Estadística aplicada al control de la producción.
+- Supervisión de procesos.
+- Reprogramación.
+- Métodos de seguimiento de la producción: PERT, GANTT, ROY, coste mínimo.
+5. Aprovisionamiento:
+- Concepto de stock.
+- Tipos de existencias.
+- Demanda aleatoria. Stock de seguridad.
+- Lote óptimo de pedido.
+- Plan de aprovisionamiento.
+- Planificación de los requerimientos de materiales MRP y MRP II.
+- Lanzamiento de órdenes. Hoja de pedido.
+- Transporte y flujo de materiales.
+- Modalidades de transporte.
+- Rutas de aprovisionamiento y logística de distribución y transporte.
+- Objetivos de la logística.
+- Gestión con proveedores.
+- Gestión de stocks.
+- Costos de aprovisionamiento.
+CV: BOCYL-D-23082017-2
+
+Boletín Oficial de Castilla y León
+Núm. 161
+Pág. 34297
+Miércoles, 23 de agosto de 2017
+6. Almacenaje y distribución:
+- Objetivos del almacenamiento.
+- Logística de almacenamiento.
+- Sistemas de almacenaje.
+- Manipulación de mercancías.
+- Gestión de almacén.
+- Embalaje y etiquetado.
+- Control de inventarios.
+- Costos de almacenaje y distribución.
+- Sistemas informáticos de gestión de logística y almacenamiento.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar la función 
+de gestión y control de la producción.
+La función de gestión y control de la producción incluye aspectos como:
+- Gestión de la producción, utilizando herramientas y programas informáticos 
+específicos.
+- Aprovisionamiento de materiales y herramientas, aplicando técnicas de gestión 
+para determinar el aprovisionamiento de los puestos de trabajo.
+- Supervisión del mantenimiento, aplicando técnicas de planificación y seguimiento 
+para gestionar el mantenimiento de los recursos de producción.
+- Cumplimiento de los objetivos de la producción, colaborando con el equipo de 
+trabajo y actuando conforme a los principios de responsabilidad y tolerancia.
+Las actividades profesionales asociadas a esta función se aplican en:
+- Los procesos de transformación de metales.
+- La pulvimetalurgia.
+- Los procesos de transformación de polímeros.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+b), c), e), i), j), k), l), n), o) y p) del ciclo formativo, y las competencias b), c), e), i), j), k), m), 
+n) y ñ) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+- La elaboración y control de programas de producción y mantenimiento, para el 
+aseguramiento de las características y plazos de entrega requeridos.
+- La gestión de aprovisionamiento, almacenaje y distribución de materias primas, 
+así como de productos acabados.
+CV: BOCYL-D-23082017-2
+
+Boletín Oficial de Castilla y León
+Núm. 161
+Pág. 34298
+Miércoles, 23 de agosto de 2017
+Módulo profesional: Gestión de la calidad, prevención de riesgos laborales y 
+protección ambiental.
+Equivalencia en créditos ECTS: 9.
+Código: 0165.
+Duración: 128 horas.
+Contenidos:
+1. Aseguramiento de la calidad:
+- Terminología básica de calidad.
+- Origen y evolución del concepto de calidad.
+- Evolución de la gestión de la calidad.
+- Normas de aseguramiento de la calidad. Norma ISO.
+- Normalización y certificación.
+- Política de calidad.
+- Sistema documental. Manual de calidad: control de documentos.
+- Descripción de procesos. Procedimientos. Registros. Indicadores. Objetivos.
+- Auditorías: tipos, objetivos y metodologías empleadas.
+2. Gestión de la calidad:
+- Principios de la gestión de la calidad.
+- Gestión de la calidad total.
+- Diferencias entre los modelos de excelencia empresarial.
+- El modelo europeo EFQM. Los criterios del modelo EFQM. Evaluación de la 
+empresa al modelo EFQM. El modelo ISO.
+- Implantación de modelos de excelencia empresarial.
+- Sistemas de autoevaluación: ventajas e inconvenientes.
+- Proceso de autoevaluación.
+- Plan de mejora. Medición y análisis.
+- Aspectos económicos de la calidad.
+- Reconocimiento a la empresa. Certificaciones.
+- Herramientas de la calidad total. («5s», gestión de competencias, gestión de 
+procesos, entre otros).
+CV: BOCYL-D-23082017-2
+
+Boletín Oficial de Castilla y León
+Núm. 161
+Pág. 34299
+Miércoles, 23 de agosto de 2017
+3. Prevención de riesgos laborales:
+- Disposiciones de ámbito estatal, autonómico o local.
+- Clasificación de normas por sector de actividad y tipo de riesgo.
+- La prevención de riesgos en las normas internas de las empresas.
+- Áreas 
+funcionales 
+de 
+la 
+empresa 
+relacionadas 
+con 
+la 
+prevención. 
+Organigramas.
+- La organización de la prevención dentro de la empresa.
+- Equipos y lugares de trabajo.
+- Protección colectiva.
+- Señalización de seguridad.
+- Plan de prevención.
+- Técnicas de prevención.
+- Equipos de protección individual con relación a los peligros de los que protegen. 
+Normas de conservación y mantenimiento.
+- Normas de certificación y uso.
+- Promoción de la cultura de la prevención de riesgos como modelo de política 
+empresarial.
+4. Protección del medio ambiente:
+- Normativa de protección ambiental. Disposiciones de ámbito estatal y 
+autonómico.
+- Áreas funcionales de la empresa relacionadas con la protección ambiental.
+- Organigramas.
+- La organización de la protección ambiental dentro de la empresa.
+- Planificación, Implantación y Funcionamiento.
+- Responsabilidades medioambientales.
+- Auditoría medioambiental.
+- Promoción de la cultura de la protección ambiental como modelo de política 
+empresarial.
+5. Gestión de los residuos industriales:
+- Residuos industriales más característicos.
+- Documentación necesaria para formalizar la gestión de los residuos 
+industriales.
+CV: BOCYL-D-23082017-2
+
+Boletín Oficial de Castilla y León
+Núm. 161
+Pág. 34300
+Miércoles, 23 de agosto de 2017
+- Recogida y transporte de residuos industriales.
+- Centros de almacenamiento de residuos industriales.
+- Minimización de los residuos industriales: modificación del producto, optimización 
+del proceso, buenas prácticas y utilización de tecnologías limpias.
+- Técnicas de muestreo y recogida de datos.
+- Reciclaje en origen.
+- Técnicas estadísticas de evaluación de la protección ambiental.
+- La mejora continua en la gestión de residuos.
+- Comprobación de la acción correctora.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar la función 
+de calidad en fabricación mecánica.
+La función de calidad incluye aspectos como:
+- La gestión de los sistemas de calidad.
+- La prevención de riesgos laborales.
+- La protección ambiental.
+Las actividades profesionales asociadas a esta función se aplican en:
+- Los procesos de transformación de metales.
+- La pulvimetalurgia.
+- Los procesos de transformación de polímeros.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales i), 
+j), k), l), n), ñ), o) y p) del ciclo formativo, y las competencias i), j), k), m), n) y ñ) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+- La implantación y mantenimiento de los procedimientos de aseguramiento de la 
+calidad.
+- La implantación y mantenimiento de los modelos de excelencia empresarial.
+- La implantación y mantenimiento de los sistemas de prevención de riesgos 
+laborales.
+- La implantación y mantenimiento del sistema de protección ambiental.
+CV: BOCYL-D-23082017-2
+
+Boletín Oficial de Castilla y León
+Núm. 161
+Pág. 34301
+Miércoles, 23 de agosto de 2017
+En este módulo profesional se tratan contenidos que están relacionados con el 
+bloque B, Prevención de Riesgos Laborales, del módulo profesional de «Formación y 
+orientación laboral». Se hará más hincapié en el aspecto de la gestión de los sistemas 
+de prevención de riesgos laborales. Las programaciones didácticas se realizarán en 
+coordinación con las del módulo profesional de «Formación y orientación laboral».
+Módulo profesional: Verificación de productos conformados.
+Equivalencia en créditos ECTS: 10.
+Código: 0533.
+Duración: 126 horas.
+Contenidos:
+1. Determinación de pautas de control de instrumentos de medida:
+- Instrumentos de medición dimensional más habituales:
+- Calibres y pies de rey. 
+- Micrómetros y palpadores. 
+- Calibres de interiores. 
+- Proyectores de perfiles.
+- Requisitos de las normas para los equipos de inspección, medida y ensayo.
+- Plan de calibración.
+- Normas de calibración.
+- Incertidumbre en la medida.
+- Errores en la medición.
+- Ajuste de instrumentos de medida y ensayo.
+- Calibración de instrumentos de medición y verificación:
+- Calibración y trazabilidad. 
+- Plan de calibración. 
+- Normas de calibración. 
+2. Control dimensional y de características estructurales:
+- Instrumentos de medición: calibres y pies de rey. 
+- Procedimientos de medida.
+CV: BOCYL-D-23082017-2
+
+Boletín Oficial de Castilla y León
+Núm. 161
+Pág. 34302
+Miércoles, 23 de agosto de 2017
+- Defectos de piezas fabricadas. Manifestación en el producto final, posibles causas 
+y correcciones:
+- Defectos más comunes en fundición.
+- Defectos más comunes en transformación de polímeros.
+- Ensayos mecánicos y tecnológicos:
+- Ensayos tensión-deformación: Tracción, compresión y flexión. La máquina 
+universal y sus diversos accesorios: Mordazas, extensómetros, galgas, 
+cámaras de control de temperatura y otros. Tipos de probetas estandarizados, 
+normas de ensayo ASTM, ISO y UNE. Parámetros de ensayo para probetas y 
+piezas terminadas.
+- Resilencia: tipos de péndulo, preparación de las muestras y parámetros del 
+ensayo en función de las normas internacionales ISO, BS y ASTM, entre 
+otras.
+- Ensayos en función del tiempo o de la temperatura: ensayos de creep (fluencia 
+lenta) o de variación de las propiedades mecánicas al modificar las condiciones 
+térmicas.
+- Ensayos de impacto. Tipos de equipo: Péndulo tipo IZOD o CHARPY y caída de 
+bola o dardo libre o forzada. Criterios para determinar la rotura de parámetros 
+de ensayo, tipos de probeta, formas de preparación y normas UNE, ISO y 
+ASTM aplicables.
+- Dureza. Durómetros para metales y para otros materiales: Vickers, Rockwell, 
+Brinell, Shore y IRHD. Principios de funcionamiento de los equipos de huella 
+o de resorte y normas internacionales aplicables.
+- Ensayos de desgarro: Desgarro de filmes (bolsa camiseta) y desgarro de 
+piezas de caucho. Máquina universal, tipos de mordazas, preparación de 
+probetas, parámetros de ensayo, normas aplicables y resultados del ensayo.
+- Ensayos de durabilidad:
+- Fatiga: Ciclos de carga descarga y efecto de la generación de calor en el 
+ensayo. 
+- Atmósferas agresivas. 
+- Niebla salina. 
+- UV.
+- Ciclos de temperatura y humedad. 
+- Resistencia a líquidos diversos. 
+- Combinados mecánicos y ambientales.
+CV: BOCYL-D-23082017-2
+
+Boletín Oficial de Castilla y León
+Núm. 161
+Pág. 34303
+Miércoles, 23 de agosto de 2017
+- Determinación de parámetros que hay que realizar previamente y con 
+posterioridad, tales como propiedades mecánicas, brillo, color, peso y densidad. 
+Parámetros controlables y forma de realizar y expresar los cálculos de variabilidad 
+de propiedades.
+- Ensayos no destructivos:
+- Inspección por rayos X: principios, equipamiento e interpretación de los 
+resultados de la inspección.
+- Inspección por ultrasonidos: principios, equipamiento e interpretación de los 
+gráficos ultrasónicos para detección de grietas.
+- Inspección por partículas magnéticas: principios de la técnica, equipos 
+disponibles e interpretación de resultados para detectar sin error la existencia 
+de heterogeneidades en la pieza.
+- Inspección por corrientes de Foucault: Principios, equipamiento y resultados 
+de la inspección.
+- Probetas.
+- Forma de preparar las piezas para cada tipo de ensayo: preparación y mediciones 
+preliminares.
+- Errores en los ensayos.
+- Prevención de riesgos en la ejecución de ensayos destructivos y no 
+destructivos.
+3. Control de características físico-químicas y ópticas:
+- Ensayos de caracterización química y térmica:
+- Temperaturas de fusión y solidificación (relacionada con la estructura cristalina 
+de metales).
+- Temperaturas de transformación (puntos críticos).
+- Composición (proporción de fibras, orientación de las fibras y proporción de 
+cargas y plastificantes, entre otros). Purificación por disolución, precipitación 
+o calcinación.
+- Ensayos reológicos (MFI, geometría y viscosimetría). Comportamiento 
+newtoniano 
+y 
+no-newtoniano 
+(pseudoplástico). 
+Tipos 
+de 
+equipos, 
+procedimientos de medida y expresión de resultados.
+- Temperaturas de fusión (Tm) y reblandecimiento (Tg), métodos de 
+determinación, HDT/Vicat. Calorimetría diferencial de barrido y otras. 
+Densidad.
+- Ensayos eléctricos (rigidez dieléctrica y tracking, entre otros).
+- Ensayos de inflamabilidad.
+CV: BOCYL-D-23082017-2
+
+Boletín Oficial de Castilla y León
+Núm. 161
+Pág. 34304
+Miércoles, 23 de agosto de 2017
+- Ensayos a la llama para determinar las características de los materiales 
+plásticos.
+- Ensayos organolépticos.
+- Ensayos espectroscópicos.
+- Ensayos metalográficos: Espectroscopia de chispa. Determinación de los 
+componentes de un acero u otras aleaciones.
+- Ensayos poliméricos: Infrarrojo (FTIR). Determinación química de los 
+componentes principales de un plástico.
+- Ensayos ópticos.
+- Ensayos microscópicos y metalográficos: Preparación de muestras, pulido, 
+ataque químico y observación óptica. Comparación con patrones internos o 
+externos para determinar la naturaleza cristalina del metal.
+- Ensayos de colorimetría y brillo: Manejo de colorímetros, esquema de colores 
+y patrones.
+- Probetas.
+- Errores en los ensayos.
+- Prevención de riesgos en la ejecución de ensayos destructivos y no destructivos 
+así como en ensayos ópticos y fisicoquímicos.
+4. Técnicas estadísticas de control de calidad:
+- Conceptos estadísticos.
+- Distribuciones de probabilidad y variabilidad de los procesos.
+- Gráficos de control.
+- Control por variables y por atributos.
+- Estudio de capacidad. Capacidad de proceso y de máquina.
+- Control estadístico de procesos.
+- Elaboración e interpretación de gráficos de control.
+- Cálculo de la capacidad del proceso y de máquina.
+- Utilización de herramientas informáticas para la implementación de las técnicas 
+estadísticas de control de calidad.
+- Rigor en la interpretación.
+- Actitud ordenada y metódica en el desarrollo de las actividades.
+CV: BOCYL-D-23082017-2
+
+Boletín Oficial de Castilla y León
+Núm. 161
+Pág. 34305
+Miércoles, 23 de agosto de 2017
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar la 
+función de control de calidad de procesos de transformación de productos metálicos y 
+poliméricos.
+La función de control de calidad de procesos industriales de fundición y de 
+transformaciones poliméricas incluye aspectos como:
+- La verificación de las características del producto.
+- El mantenimiento de instrumentos y equipos de medición.
+Las actividades profesionales asociadas a esta función se aplican en:
+- Los procesos por fundición y pulvimetalurgia.
+- Procesos de moldeo de materiales poliméricos.
+- El conformado térmico y mecánico.
+- El montaje.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales h), 
+j), k), l), n), o) y p) del ciclo formativo, y las competencias: h), j), k), m), n) y ñ) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+- La planificación de pautas de control referidas a la medición dimensional y 
+verificación de productos.
+- La calibración de instrumentos de medida y verificación.
+- La determinación de características estructurales de los productos.
+- La determinación de características físico-químicas de los productos.
+- El control estadístico de producto y proceso y la interpretación de los criterios de 
+valoración de las características que hay que controlar.
+La metodología aplicada en este módulo profesional debe favorecer experiencias de 
+aprendizaje fundamentadas en el análisis, desarrollo del proceso de medida así como la 
+realización de ensayos que permitan el conocimiento de las propiedades y composición 
+de los materiales empleados en el proceso de moldeo. Para realizar el control estadístico 
+del proceso se aconseja el uso de software, utilidades específicas y otros, realizando su 
+implementación en el aula para la consecución de los objetivos específicos relacionados 
+con la verificación de productos.
+Se propone que las TIC sean un instrumento habitual, tanto por parte del profesorado 
+como por parte del alumnado, de forma que éste adopte actitudes activas respecto de su 
+propio aprendizaje mediante la búsqueda y consulta en páginas Web relacionadas con 
+ensayos y procedimientos de medida.
+CV: BOCYL-D-23082017-2
+
+Boletín Oficial de Castilla y León
+Núm. 161
+Pág. 34306
+Miércoles, 23 de agosto de 2017
+Módulo profesional: Proyecto de programación de la producción en moldeo de 
+metales y polímeros.
+Equivalencia en créditos ECTS: 5.
+Código: 0534.
+Duración: 30 horas.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional complementa la formación de otros módulos profesionales en 
+las funciones de análisis del contexto, diseño del proyecto y organización de la ejecución.
+La función de análisis del contexto incluye las subfunciones de recopilación de 
+información, identificación de necesidades y estudio de viabilidad.
+La función de diseño del proyecto tiene como objetivo establecer las líneas generales 
+para dar respuesta a las necesidades planteadas, concretando los aspectos relevantes 
+para su realización. Incluye las subfunciones de definición del proyecto, planificación de la 
+intervención y elaboración de la documentación.
+La función de organización de la ejecución incluye las subfunciones de programación 
+de actividades, gestión de recursos y supervisión de la intervención.
+Las actividades profesionales asociadas a estas funciones se desarrollan en todos 
+los sectores de la industria de transformación de metales y polímeros.
+La formación del módulo profesional se relaciona con todos los objetivos generales 
+del ciclo y todas las competencias profesionales, personales y sociales.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional están relacionadas con:
+- La responsabilidad y la autoevaluación del trabajo realizado.
+- La autonomía y la iniciativa personal.
+- El uso de las Tecnologías de la Información y de la Comunicación.
+- El desarrollo de habilidades científico técnicas.
+- La resolución de problemas.
+- La integración entre el proceso formativo y la empresa.
+La metodología aplicada en este módulo profesional debe favorecer experiencias de 
+aprendizaje fundamentadas en el conocimiento de:
+- Técnicas de análisis, investigación, búsqueda y recopilación de información.
+- Búsqueda de recursos bibliográficos.
+- Planificación, matriz, diseño, viabilidad y oportunidad, conclusiones y 
+aportaciones personales, manejo de normativa aplicable, desarrollo del 
+proyecto.
+CV: BOCYL-D-23082017-2
+
+Boletín Oficial de Castilla y León
+Núm. 161
+Pág. 34307
+Miércoles, 23 de agosto de 2017
+También será necesaria la utilización de software específico, como procesadores de 
+texto, hojas de cálculo, programas de diseño asistido por ordenador, programas de cálculo 
+específicos y otros en la redacción del documento final, realizando su implementación en 
+el módulo profesional, para la consecución de los objetivos específicos relacionados con 
+el tipo de proyecto que desarrolle el alumnado. 
+Los trabajos a realizar sobre soporte informático se llevarán a cabo, de forma 
+individual. El alumnado deberá ser capaz de trabajar con autonomía y creatividad bajo los 
+parámetros de la calidad exigida, siempre bajo la orientación del profesor-tutor. 
+Las características del módulo profesional son conducentes a aplicar una 
+metodología interdisciplinar que favorezca el carácter global del aprendizaje en los tipos 
+de proyecto que así lo requieran; o bien que desarrolle metodologías que favorezcan la 
+investigación, la innovación o el desarrollo de algún aspecto concreto relacionado con las 
+variables tecnológicas y organizativas relacionadas con los proyectos en el sector de la 
+transformación por moldeo de metales y polímeros, ya sea desde el punto de vista técnico 
+o de gestión.
+Se propone que las tecnologías de la información y la comunicación, sean un 
+instrumento habitual, tanto por parte del profesor-tutor como por parte del alumnado, de 
+forma que éste adopte actitudes activas respecto de su propio aprendizaje mediante la 
+búsqueda bibliográfica y consulta en páginas web de toda la información necesaria para el 
+desarrollo del proyecto y como herramienta para facilitar la acción tutorial.
+El proyecto será realizado por el alumnado, de forma individual, preferentemente 
+durante el tercer trimestre del segundo curso. El alumnado será tutorizado por un profesor, 
+que imparta docencia en segundo curso del ciclo formativo, de las especialidades de 
+“Organización y Proyectos de Fabricación Mecánica”, “Análisis y Química Industrial”, 
+“Operaciones de Proceso” o “Mecanizado y Mantenimiento de Máquinas” de acuerdo con 
+lo establecido en el anexo III A) del Real Decreto 882/2011, de 24 de junio. No obstante, 
+dado que los resultados de aprendizaje y criterios de evaluación de este módulo profesional 
+complementan los del resto de los módulos profesionales del ciclo y tiene un carácter 
+integrador de los mismos, sería conveniente la colaboración de todos los profesores con 
+atribución docente en el ciclo formativo.
+Módulo profesional: Formación y orientación laboral.
+Equivalencia en créditos ECTS: 5.
+Código: 0535.
+Duración: 96 horas.
+Contenidos:
+BLOQUE A: Formación, Legislación y Relaciones Laborales. 
+Duración: 46 horas..
+1. Búsqueda activa de empleo:
+–	 Valoración de la importancia de la formación permanente para la trayectoria 
+laboral y profesional del técnico superior en programación de la producción en 
+moldeo de metales y polímeros.
+CV: BOCYL-D-23082017-2
+
+Boletín Oficial de Castilla y León
+Núm. 161
+Pág. 34308
+Miércoles, 23 de agosto de 2017
+–	 Análisis de los intereses, aptitudes y motivaciones personales para la carrera 
+profesional.
+–	 Identificación de los itinerarios formativos relacionados con el técnico superior en 
+programación de la producción en moldeo de metales y polímeros.
+–	 Definición y análisis del sector profesional del técnico superior en programación 
+de la producción en moldeo de metales y polímeros. Yacimientos de empleo.
+–	 Proceso de búsqueda de empleo en pequeñas, medianas y grandes empresas 
+del sector.
+–	 Oportunidades de aprendizaje y empleo en Europa. Programas europeos.
+–	 Valoración de la empleabilidad y adaptación como factores clave para responder 
+a las exigencias del mercado laboral.
+–	 Técnicas e instrumentos de búsqueda de empleo. Fuentes de información. El 
+proceso de selección.
+–	 Oportunidades de autoempleo.
+–	 El proceso de toma de decisiones.
+–	 Normativa laboral sobre igualdad de oportunidades entre mujeres y hombres en 
+el acceso al empleo.
+2. Gestión del conflicto y equipos de trabajo:
+–	 Valoración de las ventajas e inconvenientes del trabajo en equipo para la eficacia 
+de la organización.
+–	 Concepto y tipos de equipos de trabajo. Formación y funcionamiento de equipos 
+eficaces.
+–	 Equipos en el sector de la transformación por moldeo de metales y polímeros, 
+según las funciones que desempeñan.
+–	 La participación en el equipo de trabajo. Los roles grupales. Barreras a la 
+participación en el equipo.
+–	 Técnicas de participación y dinámicas de grupo.
+–	 Conflicto: características, fuentes y etapas. 
+–	 Métodos para la resolución o supresión del conflicto: mediación, conciliación y 
+arbitraje.
+–	 La comunicación en la empresa. El lenguaje asertivo. La toma de decisiones y la 
+negociación como habilidades sociales para el trabajo en equipo. 
+–	 El mobbing. Detección, métodos para su prevención y erradicación.
+CV: BOCYL-D-23082017-2
+
+Boletín Oficial de Castilla y León
+Núm. 161
+Pág. 34309
+Miércoles, 23 de agosto de 2017
+3. Contrato de trabajo:
+–	 La organización política del Estado Español. Organismos laborales existentes en 
+España.
+–	 El derecho del trabajo. Normas fundamentales.
+–	 Órganos de la administración y jurisdicción laboral.
+–	 Análisis de la relación laboral individual.
+–	 Modalidades del contrato de trabajo y medidas de fomento de la contratación.
+–	 Derechos y deberes derivados de la relación laboral. El tiempo de trabajo. Análisis 
+del recibo de salarios. Liquidación de haberes.
+–	 Modificación, suspensión y extinción del contrato de trabajo.
+–	 Valoración de las medidas para la conciliación familiar y profesional.
+–	 Representación de los trabajadores en la empresa.
+–	 Negociación colectiva como medio para la conciliación de los intereses de 
+trabajadores y empresarios.
+–	 Medidas de conflicto colectivo. Procedimientos de solución.
+–	 Análisis de un convenio colectivo aplicable al ámbito profesional del técnico 
+superior en programación de la producción en moldeo de metales y polímeros.
+–	 Beneficios para los trabajadores en las nuevas organizaciones: flexibilidad, 
+beneficios sociales, entre otros.
+4. Seguridad Social, empleo y desempleo:
+–	 La Seguridad Social como pilar del Estado Social de Derecho.
+–	 Estructura del Sistema de la Seguridad Social. Regímenes.
+–	 Determinación de las principales obligaciones de empresarios y trabajadores en 
+materia de Seguridad Social: afiliación, altas, bajas y cotización. Cálculo de bases 
+de cotización a la Seguridad Social y determinación de cuotas en un supuesto 
+sencillo.
+–	 Prestaciones de la Seguridad Social. Situaciones protegibles en la protección 
+por desempleo. Cálculo de una prestación por desempleo de nivel contributivo 
+básico.
+BLOQUE B: Prevención de Riesgos Laborales.
+Duración: 50 horas.
+5. Evaluación de riesgos profesionales:
+–	 Importancia de la cultura preventiva en todas las fases de la actividad. 
+Sensibilización, a través de las estadísticas de siniestralidad nacional y en Castilla 
+y León, de la necesidad de hábitos y actuaciones seguras.
+CV: BOCYL-D-23082017-2
+
+Boletín Oficial de Castilla y León
+Núm. 161
+Pág. 34310
+Miércoles, 23 de agosto de 2017
+–	 Valoración de la relación entre trabajo y salud.
+–	 El riesgo profesional. Mapa de riesgos. Análisis de factores de riesgo.
+–	 La evaluación de riesgos en la empresa como elemento básico de la actividad 
+preventiva.
+–	 Análisis de riesgos ligados a las condiciones de seguridad.
+–	 Análisis de riesgos ligados a las condiciones ambientales. Agentes físicos, 
+químicos y biológicos.
+–	 Análisis de riesgos ligados a las condiciones ergonómicas y psicosociales.
+–	 Riesgos específicos en el sector de transformación por moldeo de metales y 
+polímeros.
+–	 Técnicas de evaluación de riesgos.
+–	 Condiciones de trabajo y seguridad.
+–	 Determinación de los posibles daños a la salud del trabajador que pueden 
+derivarse de las situaciones de riesgo detectadas.
+–	 Los accidentes de trabajo, las enfermedades profesionales y otras patologías.
+6. Planificación de la prevención de riesgos en la empresa. Prevención integrada:
+–	 Marco jurídico en materia de prevención de riesgos laborales.
+–	 Derechos y deberes en materia de prevención de riesgos laborales. 
+Responsabilidades legales.
+–	 Gestión de la prevención en la empresa. Documentación.
+–	 Organismos públicos relacionados con la prevención de riesgos laborales.
+–	 Planificación de la prevención en la empresa. Secuenciación de actuaciones.
+–	 Definición del contenido del Plan de Prevención de un centro de trabajo relacionado 
+con el sector profesional.
+–	 Planes de emergencia y de evacuación en entornos de trabajo.
+–	 Elaboración de un plan de emergencia en una empresa del sector.
+7. Aplicación de medidas de prevención y protección en la empresa:
+–	 Técnicas de lucha contra los daños profesionales. Seguridad en el trabajo. 
+Higiene industrial y otros.
+–	 Determinación de las medidas de prevención y protección individual y colectiva.
+–	 Señalización de seguridad.
+CV: BOCYL-D-23082017-2
+
+Boletín Oficial de Castilla y León
+Núm. 161
+Pág. 34311
+Miércoles, 23 de agosto de 2017
+–	 Protocolo de actuación ante una situación de emergencias.
+–	 Primeros auxilios. Conceptos básicos. Aplicación de técnicas de primeros 
+auxilios.
+–	 Vigilancia de la salud de los trabajadores.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para que el alumno pueda 
+insertarse laboralmente y desarrollar su carrera profesional en el sector.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales j), 
+k), l), m), o), p) y r) del ciclo formativo, y las competencias  l), n), ñ) y p) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+–	 El manejo de las fuentes de información sobre el sistema educativo y laboral, en 
+especial en lo referente a las empresas del sector.
+–	 La realización de pruebas de orientación y dinámicas sobre la propia personalidad 
+y el desarrollo de las habilidades sociales.
+–	 La preparación y realización de modelos de currículum vitae (CV) y entrevistas 
+de trabajo.
+–	 La identificación de la normativa laboral que afecta a los trabajadores del sector, 
+manejo de los contratos más comúnmente utilizados y lectura comprensiva de 
+los convenios colectivos de aplicación.
+–	 La resolución de supuestos prácticos sencillos sobre materias de índole laboral y 
+de Seguridad Social.
+–	 La cumplimentación de recibos de salario de diferentes características y otros 
+documentos relacionados.
+–	 El análisis de la Ley de Prevención de Riesgos Laborales que le permita la 
+evaluación de los riesgos derivados de las actividades desarrolladas en su 
+sector productivo, y colaborar en la definición de un plan de prevención para una 
+pequeña empresa, así como en la elaboración de las medidas necesarias para 
+su puesta en funcionamiento.
+–	 En este módulo, especialmente en el Bloque B, Prevención de Riesgos Laborales, 
+se tratan contenidos que están relacionados con otros módulos profesionales, 
+por lo que sería recomendable la realización coordinada de las programaciones 
+didácticas en dichas materias. Es aconsejable que el profesor que imparte el 
+módulo profesional de «Formación y orientación laboral» se centre en los 
+aspectos puramente legales, mientras que los profesores de la Familia Profesional 
+enfoquen desde un punto de vista técnico los riesgos específicos del sector y las 
+medidas de prevención y protección de los mismos, de cara a la elaboración de 
+planes de prevención de riesgos laborales.
+CV: BOCYL-D-23082017-2
+
+Boletín Oficial de Castilla y León
+Núm. 161
+Pág. 34312
+Miércoles, 23 de agosto de 2017
+Módulo profesional: Empresa e iniciativa emprendedora.
+Equivalencia en créditos ECTS: 4.
+Código: 0536.
+Duración: 63 horas.
+Contenidos:
+1. Iniciativa emprendedora:
+–	 Innovación y desarrollo económico. Principales características de la innovación 
+en la transformación por moldeo de metales y polímeros (materiales, tecnología 
+y organización de la producción, entre otros).
+–	 El trabajo por cuenta propia como fuente de creación de empleo y bienestar 
+social.
+–	 La cultura emprendedora. El emprendedor. Factores claves de los emprendedores: 
+iniciativa, creatividad y formación.
+–	 Desarrollo del espíritu emprendedor a través del fomento de las actitudes de 
+creatividad, iniciativa, autonomía y responsabilidad.
+–	 La actuación de los emprendedores como empleados de una pyme relacionada 
+con la transformación por moldeo de metales y polímeros.
+–	 La actuación de los emprendedores como empresarios en el sector de la 
+transformación de metales y polímeros.
+–	 Análisis de las oportunidades de negocio en transformación por moldeo de 
+metales y polímeros.
+–	 El empresario. Requisitos para el ejercicio de la actividad empresarial. Aptitudes 
+y actitudes.
+–	 Plan de empresa: la idea de negocio en el ámbito de la transformación por moldeo 
+de metales y polímeros.
+–	 Búsqueda de ideas de negocio. Análisis y viabilidad de las mismas.
+2. La empresa y su entorno:
+–	 Concepto de empresa.
+–	 Estructura organizativa de la empresa. Organigrama.
+–	 Funciones básicas de la empresa: comercial, técnica, social, financiera y 
+administrativa.
+–	 La empresa como sistema.
+–	 Análisis del entorno general y específico de una pyme relacionada con la 
+transformación por moldeo de metales y polímeros.
+–	 Relaciones con clientes, proveedores y competidores.
+–	 Análisis DAFO.
+CV: BOCYL-D-23082017-2
+
+Boletín Oficial de Castilla y León
+Núm. 161
+Pág. 34313
+Miércoles, 23 de agosto de 2017
+–	 Relaciones de una pyme de transformación por moldeo de metales y polímeros 
+con su entorno.
+–	 Relaciones de una pyme de transformación por moldeo de metales y polímeros 
+con el conjunto de la sociedad. La responsabilidad social de la empresa, planes 
+de igualdad, acciones de igualdad y mejora continua. La ética empresarial en 
+empresas del sector.
+–	 El estudio de mercado. Variables del marketing mix: precio, producto, comunicación 
+y distribución.
+–	 El balance social: los costes y los beneficios sociales. 
+–	 Cultura empresarial e imagen corporativa.
+3. Creación y puesta en marcha de una empresa:
+–	 Tipos de empresa.
+–	 Elección de la forma jurídica. Ventajas e inconvenientes de las distintas formas 
+jurídicas con especial atención a la responsabilidad legal.
+–	 La franquicia como forma de empresa.
+–	 La fiscalidad en las empresas.
+–	 Trámites administrativos para la constitución y puesta en marcha de una empresa. 
+Relación con organismos oficiales.
+–	 Vías externas de asesoramiento y gestión. La ventanilla única empresarial.
+–	 Pan de inversiones y gastos.
+–	 Las fuentes de financiación. El plan financiero.
+–	 Subvenciones y ayudas destinadas a la creación de empresas en el sector de la 
+transformación por moldeo de metales y polímeros.
+–	 Viabilidad económica y viabilidad financiera de una pyme relacionada con la 
+transformación por moldeo de metales y polímeros.
+–	 Plan de empresa: la idea de negocio en el sector de la transformación por 
+moldeo de metales y polímeros. Elección de la forma jurídica, estudio de 
+viabilidad económica y financiera, trámites administrativos y gestión de ayudas y 
+subvenciones.
+4. Función administrativa:
+–	 Concepto de contabilidad y nociones básicas.
+–	 Cuentas anuales obligatorias.
+–	 Análisis de la información contable.
+–	 Ratios. Cálculo de coste, beneficio y umbral de rentabilidad.
+–	 Obligaciones fiscales de las empresas. Principales impuestos aplicables a las 
+empresas del sector.
+CV: BOCYL-D-23082017-2
+
+Boletín Oficial de Castilla y León
+Núm. 161
+Pág. 34314
+Miércoles, 23 de agosto de 2017
+–	 Gestión administrativa de una empresa de transformación por moldeo de metales 
+y polímeros. Documentos básicos utilizados en la actividad económica de la 
+empresa: nota de pedido, albarán, factura, letra de cambio, cheque y otros.
+–	 Gestión de aprovisionamiento. Valoración de existencias. Volumen óptimo de 
+pedido.
+–	 Elaboración de un plan de empresa.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desarrollar la propia 
+iniciativa en el ámbito empresarial, tanto hacia el autoempleo como hacia la asunción de 
+responsabilidades y funciones en el empleo por cuenta ajena.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales j), 
+k), l) o), p) y q) del ciclo formativo, y las competencias j), k), ñ) y o) del título.
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar 
+los objetivos del módulo profesional versarán sobre:
+–	 El manejo de las fuentes de información sobre el sector de la transformación 
+de metales y polímeros, incluyendo el análisis de los procesos de innovación 
+sectorial en marcha.
+–	 La realización de casos y dinámicas de grupo que permitan comprender y valorar 
+las actitudes de los emprendedores y ajustar la necesidad de los mismos al sector 
+de los servicios relacionados con los procesos de transformación de metales y 
+polímeros.
+–	 La utilización de programas de gestión administrativa para pequeñas empresas 
+del sector.
+–	 La realización de un proyecto de plan de empresa relacionada con la transformación 
+de metales y polímeros, que incluya todas las facetas de puesta en marcha de 
+un negocio: viabilidad, organización de la producción y los recursos humanos, 
+acción comercial, control administrativo y financiero, así como justificación de su 
+responsabilidad social.
+–	 Utilización de la herramienta «Aprende a Emprender».
+Módulo profesional: Formación en centros de trabajo.
+Equivalencia en créditos ECTS: 22.
+Código: 0537.
+Duración: 380 horas.
+Este módulo profesional contribuye a completar las competencias de este título y los 
+objetivos generales del ciclo, tanto aquellos que se han alcanzado en el centro educativo, 
+como los que son difíciles de conseguir en el mismo.
+CV: BOCYL-D-23082017-2
+
+Boletín Oficial de Castilla y León
+Núm. 161
+http://bocyl.jcyl.es
+D.L.: BU 10-1979 - ISSN 1989-8959
+Pág. 34315
+Miércoles, 23 de agosto de 2017
+ANEXO II
+Organización y distribución horaria
+Centro Educativo
+Centro de 
+Trabajo
+Duración
+Curso 2.º
+Módulos profesionales
+ del currículo
+(horas)
+Curso 1.º
+horas/semanales
+1.º y 2.º
+trimestres
+horas/semanales
+3.er
+trimestre
+horas
+0007. Interpretación gráfica.
+160
+5
+0530.	 Caracterización de materiales.
+160
+5
+0531.	 Moldeo cerrado.
+416
+13
+0532.	 Moldeo abierto.
+189
+9
+0162.	 Programación de sistemas 
+automáticos de fabricación 
+mecánica.
+126
+6
+0163.	 Programación de la producción.
+126
+6
+0165.	 Gestión de la calidad, prevención 
+de riesgos laborales y protección 
+ambiental.
+128
+4
+0533. Verificación de productos 
+conformados.
+126
+6
+0534.	 Proyecto de programación de 
+la producción en moldeo de 
+metales y polímeros.
+30
+30
+0535.	 Formación y orientación laboral.
+96
+3
+0536.	 Empresa e iniciativa 
+emprendedora.
+63
+3
+0537.	 Formación en centros de trabajo.
+380
+380
+TOTAL
+2.000
+30
+30
+410
+CV: BOCYL-D-23082017-2

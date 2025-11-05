@@ -1,0 +1,352 @@
+3800
+Lunes, 9 de febrero 2009
+B.O.C. y L. - N.º 26
+Cesiones previstas: No.
+Órgano de la Administración responsable del fichero: Dirección Gene-
+ral de Desarrollo Sanitario.
+Servicio o unidad ante el que pueden ejercitarse los derechos de acce-
+so, rectificación y cancelación: Servicio de Tecnologías de la Información.
+Nivel de seguridad: Básico.
+2.– NOMBRE DEL FICHERO: Historia clínica electrónica
+compartida.
+Fines y usos: Gestión y evaluación automatizada de la actividad asis-
+tencial a los pacientes por los diferentes servicios sanitarios. Utilización para
+la elaboración de informes médicos y la producción de estadísticas e inves-
+tigación sanitaria. Conformación de la Historia Clínica Electrónica del Sis-
+tema Nacional de Salud.
+Personas o colectivos afectados: Personas que acceden al Sistema
+Sanitario y que soliciten formar parte de la Historia Clínica Electrónica
+del Sistema Nacional de Salud.
+Procedimiento de recogida y procedencia de los datos: Datos de la his-
+toria clínica del paciente, el propio paciente de forma directa, datos obteni-
+dos previamente en los centros sanitarios, sistemas automatizados.
+Estructura básica del fichero y descripción de los datos de carácter per-
+sonal: Base de datos.
+– Datos identificativos del paciente, (n.º historia, nombre, apellidos,
+dirección, teléfono, TIS).
+– Datos de características personales (sexo, edad).
+– Datos de salud (aquellos generados por la actividad clínica de cada
+una de las fases, datos de anamnesis, …).
+– Datos identificativos del facultativo (nombre y apellidos del médico).
+Sistema de Tratamiento: Automatizado.
+Cesiones previstas: Los datos serán comunicados a los Sistemas de
+Salud autonómicos que lo soliciten cuando el afectado vaya a ser tratado
+en ellos.
+Órgano de la Administración responsable del fichero: Dirección Gene-
+ral de Desarrollo Sanitario.
+Servicio o unidad ante el que pueden ejercitarse los derechos de acce-
+so, rectificación y cancelación: Servicio de Tecnologías de la Información.
+Nivel de seguridad: Alto.
+CONSEJERÍA DE EDUCACIÓN
+ORDEN EDU/182/2009, de 6 de febrero, por la que se convocan ayu-
+das, cofinanciadas por el Ministerio de Trabajo e Inmigración, diri-
+gidas a municipios mayores de 10.000 habitantes para la realiza-
+ción de actuaciones de interés educativo con el alumnado
+inmigrante, durante el año 2009.
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación dispone en su
+artículo 80.1 que con el fin de hacer efectivo el principio de igualdad en
+el ejercicio del derecho a la educación las Administraciones públicas
+desarrollarán acciones de carácter compensatorio en relación con las per-
+sonas, grupos y ámbitos territoriales que se encuentren en situaciones
+desfavorables y proveerán los recursos económicos y los apoyos precisos
+para ello.
+El artículo 4 del Real Decreto 299/1996, de 28 de febrero, de orde-
+nación de las acciones dirigidas a la compensación de desigualdades en
+educación, establece entre sus objetivos impulsar la coordinación de la
+administración educativa con otras administraciones, instituciones, aso-
+ciaciones y organizaciones no gubernamentales para el desarrollo de las
+acciones de compensación social y educativa dirigidas a los colectivos en
+situación de desventaja.
+El artículo 11 de la citada norma contempla la participación y cola-
+boración de los diferentes sectores de la comunidad educativa y del resto
+de la sociedad en el desarrollo de acciones complementarias a las actua-
+ciones de compensación educativa.
+De conformidad con esta previsión legal, la Consejería de Educación
+considera oportuno financiar actuaciones por parte de municipios mayo-
+res de 10.000 habitantes de la Comunidad de Castilla y León para la rea-
+lización de actividades de interés educativo con el alumnado inmigrante. 
+A tal efecto, mediante Orden EDU/171/2009, de 2 de febrero («Bole-
+tín Oficial de Castilla y León» de 6 de febrero) se han aprobado las bases
+reguladoras de estas ayudas, de acuerdo con lo previsto en los artículos 9
+y 17 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones y
+artículo 6 de la Ley 5/2008, de 25 de septiembre, de Subvenciones de la
+Comunidad de Castilla y León, procediendo ahora realizar la convocato-
+ria de estas ayudas durante el año 2009.
+Esta convocatoria está cofinanciada por el Ministerio de Trabajo e
+Inmigración, en virtud del compromiso asumido por la Comunidad de
+Castilla y León en la cláusula cuarta del convenio de colaboración sus-
+crito entre ambas entidades el 26 de agosto de 2005 para el desarrollo de
+actuaciones de acogida e integración de personas inmigrantes así como de
+refuerzo educativo.
+En consecuencia, de conformidad con lo establecido en la Ley
+5/2008, de 25 de septiembre, de Subvenciones de Castilla y León y en la
+Ley 38/2003, de 17 de noviembre, General de Subvenciones, y en virtud
+de las atribuciones conferidas por la Ley 3/2001, de 3 de julio, del
+Gobierno y de la Administración de la Comunidad de Castilla y León, 
+RESUELVO
+Primero.– Objeto de la subvención.
+1.1. La presente Orden tiene por objeto establecer la convocatoria de
+ayudas cofinanciadas por el Ministerio de Trabajo e Inmigración, en régi-
+men de concurrencia competitiva, dirigidas a municipios mayores de
+10.000 habitantes para la realización de actuaciones de interés educativo
+con el alumnado inmigrante en el ámbito territorial de la Comunidad de
+Castilla y León, durante el año 2009.
+1.2. Podrán ser objeto de subvención aquellas actuaciones incluidas
+en alguna de las siguientes modalidades:
+a) Modalidad I: Actividades de acogida, mediación, refuerzo y
+apoyo, e integración en el medio social y cultural del contexto a
+desarrollar con alumnado inmigrante.
+b) Modalidad II: Programas de compensación educativa: refuerzo de
+servicios y ayudas en el ámbito educativo con alumnado inmigrante.
+c) Modalidad III: Encuentros de convivencia e interculturalidad entre
+alumnos de distintas culturas y países.
+Segundo.– Cuantía y dotación presupuestaria. 
+2.1. La cuantía global máxima del crédito destinado a estas ayudas
+será de QUINIENTOS CUARENTA Y TRES MIL NOVECIENTOS
+CINCUENTA Y CUATRO EUROS (543.954 €) con cargo a la aplica-
+ción 07.02.322A02.46065.0 de los Presupuestos Generales de la Comu-
+nidad de Castilla y León para 2009.
+2.2. La cuantía individualizada de cada ayuda se determinará en aten-
+ción a la puntación obtenida aplicando los criterios de valoración estableci-
+dos en el apartado 7.2, con los límites máximos indicados y de conformidad
+con los siguientes porcentajes hasta agotar el crédito disponible: 
+
+B.O.C. y L. - N.º 26
+Lunes, 9 de febrero 2009
+3801
+Tercero.– Beneficiarios. 
+Podrán ser beneficiarios de estas ayudas los municipios de la Comu-
+nidad de Castilla y León mayores de 10.000 habitantes, con alumnado
+inmigrante escolarizado. 
+Cuarto.– Solicitudes y documentación. 
+4.1. Las solicitudes se formalizarán mediante instancia dirigida al
+Excmo. Sr. Consejero de Educación, conforme al modelo que se incluye
+en el Anexo de la presente Orden y se presentarán, por duplicado, en el
+registro de la Dirección Provincial de Educación de la provincia respec-
+tiva o por cualquiera de los demás medios previstos en el artículo 38.4 de
+la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Admi-
+nistraciones Públicas y del Procedimiento Administrativo Común.
+El texto de esta Orden, incluida la instancia, se encuentra disponible
+a través de Internet en el portal de Educación de la Junta de Castilla y
+León (http://www.educa.jcyl.es/).
+4.2. Dada la naturaleza de la documentación a acompañar se excluye
+la posibilidad de presentar las solicitudes por telefax, de acuerdo con lo
+previsto en el artículo 1.2 a) del Decreto 118/2002, de 31 de octubre, por
+el que se regulan las transmisiones por telefax para la presentación de
+documentos en los registros administrativos de la Administración de Cas-
+tilla y León.
+4.3. A la solicitud se acompañará la siguiente documentación, origi-
+nal o copia compulsada:
+a) C.I.F. de la entidad solicitante.
+b) Memoria explicativa del proyecto de actuación y memoria econó-
+mica del coste de la actividad.
+c) Certificado actualizado de la entidad bancaria en el que conste el
+número de cuenta y el titular o titulares de la misma, donde ingre-
+sar la ayuda en caso de concesión.
+d) Certificado del Acuerdo del Pleno o de la Comisión de Gobierno
+del Ayuntamiento por el que se apruebe el desarrollo de la corres-
+pondiente actuación.
+e) Certificación del órgano competente de la entidad local en la que
+conste que en los procesos para la provisión de puestos de trabajo
+se ha realizado la correspondiente reserva legal para su cobertura
+por personas con discapacidad, en atención a lo establecido en la
+disposición adicional del Decreto 75/2008, de 30 de octubre, por el
+que se regula la acreditación del cumplimiento de la normativa
+para la integración laboral de las personas con discapacidad y el
+establecimiento de criterios de valoración y preferencia en la con-
+cesión de subvenciones y ayudas públicas de la Administración de
+la Comunidad de Castilla y León.
+4.4. La solicitud incluirá la declaración responsable del solicitante de
+no estar incurso en ninguna de las prohibiciones para obtener la condición
+de beneficiario de subvenciones señaladas en el artículo 13 de la Ley
+38/2003, de 17 de noviembre, General de Subvenciones, así como de
+encontrarse al corriente de las obligaciones tributarias y frente a la segu-
+ridad social, de conformidad con el artículo 6.b) del Decreto 27/2008, de
+3 de abril, por el que se regula la acreditación del cumplimiento de dichas
+obligaciones en materia de subvenciones. 
+Cualquier variación que pueda producirse hasta el momento de reali-
+zarse la propuesta de pago en el contenido de la declaración efectuada en
+relación con las anteriores prohibiciones y obligaciones, deberá ser
+comunicada inmediatamente a la Dirección General de Planificación,
+Ordenación e Inspección Educativa.
+4.5. En atención al régimen de anticipos establecido en el artículo 7
+de la Orden EDU/171/2009, de 2 de febrero, por el que se establecen las
+bases reguladoras de estas ayudas, los solicitantes de la ayuda que deseen
+les sea anticipado el 50% de su importe, en el caso de resultar beneficia-
+rios, deberán realizarlo en la propia solicitud marcando la casilla estable-
+cida al efecto.
+Quinto.– Plazo de presentación de solicitudes y subsanación de
+defectos. 
+5.1. El plazo de presentación de solicitudes será de 30 días naturales
+contados a partir del día siguiente al de la publicación de esta Orden en
+el «Boletín Oficial de Castilla y León».
+5.2. Si la solicitud aportada no reuniera los requisitos establecidos en
+la presente Orden, la Dirección General de Planificación, Ordenación e
+Inspección Educativa requerirá al interesado para que, en el plazo de diez
+días subsane la falta o acompañe los documentos preceptivos, con indi-
+cación de que, si así no lo hiciera, se le tendrá por desistido de su peti-
+ción, previa resolución.
+Sexto.– Tramitación. 
+6.1. Finalizado el plazo de presentación de solicitudes las Direcciones
+Provinciales de Educación remitirán a la Dirección General de Planifica-
+ción, Ordenación e Inspección Educativa, en el plazo de 5 días naturales,
+un ejemplar de las solicitudes y documentación presentada, adjuntando
+una relación de las solicitudes presentadas en su provincia. 
+6.2. El procedimiento será instruido por la Dirección General de Pla-
+nificación, Ordenación e Inspección Educativa. 
+Séptimo.– Comisión de selección y criterios de valoración. 
+7.1. Las solicitudes serán examinadas y valoradas por una comisión
+de selección integrada por los siguientes miembros:
+a) El Titular de la Dirección General del Planificación, Ordenación e
+Inspección Educativa o persona en quien delegue, que la presidirá.
+b) Tres funcionarios de la Dirección General de Planificación, Orde-
+nación e Inspección Educativa, nombrados por su titular, uno de
+los cuales actuará como Secretario.
+7.2. Los criterios para resolver la concesión de las ayudas y determi-
+nar su cuantía serán los siguientes:
+a) Tendrán prioridad aquellas actuaciones desarrolladas en Munici-
+pios con centros educativos de mayor porcentaje de alumnado
+inmigrante escolarizado (hasta 4 puntos).
+b) Número de alumnos inmigrantes participantes (hasta 2 puntos).
+c) Complementariedad de la acción con otras existentes en la zona
+dirigidas al alumnado inmigrante (hasta 2 puntos).
+d) Calidad del proyecto presentado (hasta 2 puntos).
+7.3. Las solicitudes que no alcancen la puntuación de 5 puntos serán
+desestimadas.
+Octavo.– Resolución. 
+8.1. La convocatoria será resuelta por el Consejero de Educación, a
+propuesta razonada del titular de la Dirección General de Planificación,
+Ordenación e Inspección Educativa, previo informe de la comisión de
+selección.
+8.2. La resolución motivada se publicará en el «Boletín Oficial de Casti-
+lla y León» y será objeto de publicidad a través de Internet en el portal de
+Educación de la Junta de Castilla y León (http://www.educa.jcyl.es/) por
+tiempo no inferior a un mes desde dicha publicación.
+8.3. El plazo máximo para resolver la convocatoria y publicar la reso-
+lución será de seis meses contados desde el día siguiente a la finalización
+del plazo de presentación de solicitudes. Transcurrido dicho plazo sin que
+haya sido publicada la resolución, se podrán entender desestimadas las
+solicitudes.
+8.4. La resolución de la convocatoria, que pondrá fin a la vía admi-
+nistrativa, podrá ser impugnada mediante recurso potestativo de reposi-
+ción en el plazo de un mes ante el Consejero de Educación o bien direc-
+tamente mediante recurso contencioso administrativo ante la Sala de lo
+Puntuación total
+Cuantía subvención
+Más de 9 puntos
+100% de la cantidad solicitada con un máximo de 135.988 €
+Entre 8 y 9 puntos
+90% de la cantidad solicitada con un máximo de 122.389 €
+Entre 7 y 8 puntos
+80% de la cantidad solicitada con un máximo de 108.790 €
+Entre 6 y 7 puntos
+70% de la cantidad solicitada con un máximo de 95.191 €
+Entre 5 y 6 puntos
+60% de la cantidad solicitada con un máximo de 81.592 €
+
+3802
+Lunes, 9 de febrero 2009
+B.O.C. y L. - N.º 26
+Contencioso Administrativo del Tribunal Superior de Justicia de Castilla
+y León en el plazo de dos meses. Ambos plazos se computarán a partir
+del día siguiente al de su publicación en el «Boletín Oficial de Castilla y
+León».
+Noveno.– Pago y justificación. 
+9.1. El pago de las ayudas que se concedan se abonarán con sujeción
+a las reglas establecidas en Ley 5/2008, de 25 de septiembre, de Subven-
+ciones de la Comunidad de Castilla y León, en la Ley 2/2006, de 3 de
+mayo, de la Hacienda y del Sector Público de la Comunidad de Castilla
+y León, en la Ley de Presupuestos Generales de la Comunidad para el año
+2009, en la Ley 38/2003, de 17 de noviembre, General de Subvenciones
+y demás normativa aplicable.
+9.2. Podrán realizarse pagos anticipados del 50% de la subvención
+concedida a petición del interesado en el momento de solicitarse la ayuda
+y a través del correspondiente documento de solicitud, en los términos
+indicados en el apartado 4.5. Estos pagos anticipados, tendrán la consi-
+deración de pagos a justificar y se justificarán mediante la presentación
+de la documentación establecida en el apartado 9.3. 
+9.3. Los beneficiarios deberán justificar el cumplimiento de la finali-
+dad para la que se concedió la subvención y la aplicación de los fondos
+recibidos mediante la presentación en la correspondiente Dirección Pro-
+vincial de Educación antes del 1 de diciembre del año de concesión, de la
+siguiente documentación debidamente registrada:
+a) Certificado del Ayuntamiento en el que se haga constar la utiliza-
+ción del 100% de la subvención concedida en los fines para los que
+se concedió.
+b) Memoria detallada de la actividad realizada indicando el número
+de personas beneficiarias de la actuación.
+c) Relación detallada de todas las ayudas públicas o privadas, nacio-
+nales o internacionales, solicitadas o concedidas para el mismo fin. 
+Asimismo, antes del 31 de enero del año siguiente al de concesión, se
+deberá presentar certificado del Ayuntamiento de haber recibido el importe
+de la ayuda concedida y de haberse registrado en su contabilidad.
+9.4. La anterior documentación será remitida por las Direcciones Pro-
+vinciales de Educación a la Dirección General de Planificación, Ordena-
+ción e Inspección Educativa.
+Décimo.– Compatibilidad con otras ayudas. 
+Las ayudas concedidas en virtud de esta Orden son compatibles con
+otras ayudas para la misma finalidad otorgada por esta u otras adminis-
+traciones públicas o por entidades públicas o privadas, nacionales o inter-
+nacionales, siempre que el importe de las mismas no supere el coste de la
+actividad subvencionada.
+Undécimo.– Modificación de la resolución de concesión. 
+Toda alteración de las condiciones tenidas en cuenta para la concesión
+de las ayudas y, en todo caso, la obtención concurrente de otras subvencio-
+nes o ayudas vulnerando lo establecido en el apartado décimo, podrá dar
+lugar a la modificación de la resolución de concesión, siempre que no se
+dañen derechos de terceros. En ningún caso podrá incrementarse la cuantía
+de la subvención concedida ni se podrá alterar la finalidad de la misma.
+Duodécimo.– Publicidad.
+En toda publicidad que se derive del programa subvencionado así
+como en la realización del mismo, se hará constar la colaboración de la
+Consejería de Educación de la Junta de Castilla y León y del Ministerio
+de Trabajo e Inmigración a través del convenio de colaboración suscrito
+entre Ministerio de Trabajo e Inmigración y la Comunidad de Castilla y
+León para el desarrollo de actuaciones de acogida e integración de per-
+sonas inmigrantes así como de refuerzo educativo. En los materiales ela-
+borados aparecerán los logotipos de ambas instituciones.
+Decimotercero.– Inspección, control y seguimiento. 
+La Consejería de Educación se reserva el derecho de inspección, con-
+trol y seguimiento de las actividades subvencionadas, así como la peti-
+ción de los justificantes que se consideren necesarios, sin perjuicio de las
+actuaciones de control financiero que correspondan a la Intervención
+General en relación con las subvenciones concedidas.
+Decimocuarto.– Responsabilidades y reintegro. 
+14.1. Procederá el reintegro de las cantidades percibidas y la exigen-
+cia del interés de demora desde el momento del pago de la ayuda en los
+casos establecidos en el artículo 37 de la Ley 38/2003, de 17 de noviem-
+bre, General de Subvenciones y en la forma prevista en el Título IV de la
+Ley 5/2008, de 25 de septiembre, de Subvenciones de la Comunidad de
+Castilla y León, salvo lo dispuesto en el apartado 14.2.
+14.2. En el caso de que por el beneficiario no se justificase la totali-
+dad de la subvención concedida pero su cumplimiento se aproxime de
+modo significativo al cumplimiento total y se acredite por éstos una
+actuación inequívocamente tendente a la satisfacción de sus compromi-
+sos, procederá, de conformidad con lo dispuesto en el artículo 47.1 de la
+Ley 5/2008, de 25 de septiembre, la reducción de la subvención concedi-
+da o, en su caso, el reintegro parcial de la cantidades percibidas y la exi-
+gencia del interés de demora correspondiente, en cantidad proporcional al
+porcentaje no ejecutado. 
+14.3. Las cantidades a reintegrar tendrán la consideración de ingresos
+de derechos de naturaleza pública, resultando de aplicación para su
+cobranza lo previsto en las normas reguladoras del régimen de los dere-
+chos de naturaleza pública de la Hacienda y Sector Público de la Comu-
+nidad de Castilla y León.
+Decimoquinto.– Desarrollo. 
+Se faculta al Director General de Planificación, Ordenación e Inspec-
+ción Educativa de esta Consejería a dictar cuantas resoluciones sean
+necesarias para dar cumplimiento a lo establecido en esta Orden. 
+Contra la presente Orden, que pone fin a la vía administrativa, cabe
+interponer potestativamente recurso de reposición en el plazo de un mes
+ante el Consejero de Educación o bien directamente recurso contencioso
+administrativo ante la Sala de lo Contencioso Administrativo del Tribu-
+nal Superior de Justicia de Castilla y León en el plazo de dos meses.
+Ambos plazos se computarán a partir del día siguiente al de su publica-
+ción en el «Boletín Oficial de Castilla y León».
+Valladolid, 6 de febrero de 2009.
+El Consejero,
+Fdo.: JUAN JOSÉ MATEOS OTERO
+
+B.O.C. y L. - N.º 26
+Lunes, 9 de febrero 2009
+3803

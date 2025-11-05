@@ -1,0 +1,2243 @@
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48039
+Lunes, 3 de agosto de 2015
+I. COMUNIDAD DE CASTILLA Y LEÓN
+A. DISPOSICIONES GENERALES
+CONSEJERÍA DE EDUCACIÓN
+DECRETO 54/2015, de 30 de julio, por el que se establece el currículo correspondiente 
+al título de Técnico Superior en Animaciones 3D, Juegos y Entornos Interactivos en la 
+Comunidad de Castilla y León.
+El artículo 73.1 del Estatuto de Autonomía de Castilla y León, atribuye a la Comunidad 
+de Castilla y León la competencia de desarrollo legislativo y ejecución de la enseñanza 
+en toda su extensión, niveles y grados, modalidades y especialidades, de acuerdo con lo 
+dispuesto en la normativa estatal.
+La Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación 
+Profesional, establece en el artículo 10.1 que la Administración General del Estado, 
+determinará los títulos y los certificados de profesionalidad, que constituirán las ofertas de 
+formación profesional referidas al Catálogo Nacional de Cualificaciones Profesionales.
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación, determina en su artículo 39.6 
+que el Gobierno, establecerá las titulaciones correspondientes a los estudios de formación 
+profesional, así como los aspectos básicos del currículo de cada una de ellas.
+La Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa, 
+incluye un nuevo artículo, el 42 bis, a la Ley Orgánica 2/2006, de 3 de mayo, de Educación, 
+estableciendo la posibilidad de realizar la oferta de los ciclos formativos en la modalidad 
+de Formación Profesional Dual. A estos efectos, el Real Decreto 1529/2012, de 8 de 
+noviembre, por el que se desarrolla el contrato para la formación y el aprendizaje y se 
+establecen las bases de la Formación Profesional Dual regula determinados aspectos de 
+esta formación, que combinan los procesos de enseñanza y aprendizaje en la empresa y 
+en el centro de formación.
+El Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación 
+general de la formación profesional del sistema educativo, define en el artículo 9, la 
+estructura de los títulos de formación profesional, tomando como base el Catálogo 
+Nacional de Cualificaciones Profesionales, las directrices fijadas por la Unión Europea 
+y otros aspectos de interés social. El artículo 7 concreta los elementos que definen el 
+perfil profesional de dichos títulos, que incluirá la competencia general, las competencias 
+profesionales, personales y sociales, las cualificaciones profesionales y, en su caso, las 
+unidades de competencia, cuando se refieran al Catálogo Nacional de Cualificaciones 
+Profesionales incluidas en los títulos.
+Por otro lado, el artículo 8 del Real Decreto 1147/2011, de 29 de julio, dispone que 
+las Administraciones educativas establecerán los currículos correspondientes respetando 
+lo en él dispuesto y en las normas que regulen las diferentes enseñanzas de formación 
+profesional.
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48040
+Lunes, 3 de agosto de 2015
+El Real Decreto-ley 14/2012, de 20 de abril, de medidas urgentes de racionalización 
+del gasto público en el ámbito educativo dispone en el artículo 5 que los ciclos formativos de 
+grado medio y superior cuya implantación estuviera prevista para el curso escolar 2012-2013 
+se implantarán en el curso escolar 2014-2015.
+Por su parte, la disposición adicional sexta del Real Decreto 127/2014, de 28 de 
+febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de 
+las enseñanzas de formación profesional del sistema educativo, se aprueban catorce títulos 
+profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, 
+de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes 
+a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, 
+establece que los ciclos formativos de grado medio y superior cuya implantación estuviera 
+prevista para el curso escolar 2014-2015, se implantarán en el curso escolar 2015-2016.
+El Real Decreto 1583/2011, de 4 de noviembre, establece el título de Técnico Superior 
+en Animaciones 3D, Juegos y Entornos Interactivos y se fijan sus enseñanzas mínimas.
+El presente decreto establece el currículo correspondiente al título de Técnico 
+Superior en Animaciones 3D, Juegos y Entornos Interactivos en la Comunidad de Castilla 
+y León, teniendo en cuenta los principios generales que han de orientar la actividad 
+educativa, según lo previsto en el artículo 1 de la Ley Orgánica 2/2006, de 3 de mayo, de 
+Educación. Pretende dar respuesta a las necesidades generales de cualificación de los 
+recursos humanos para su incorporación a la estructura productiva de la Comunidad de 
+Castilla y León.
+En el proceso de elaboración de este decreto se ha recabado dictamen del Consejo 
+Escolar de Castilla y León e informe del Consejo de Formación Profesional de Castilla y 
+León.
+En su virtud, la Junta de Castilla y León, a propuesta del Consejero de Educación, y 
+previa deliberación del Consejo de Gobierno en su reunión de 30 de julio de 2015
+DISPONE
+Artículo 1. Objeto y ámbito de aplicación.
+El presente decreto tiene por objeto establecer el currículo del título de Técnico 
+Superior en Animaciones 3D, Juegos y Entornos Interactivos en la Comunidad de Castilla 
+y León. 
+Artículo 2. Identificación del título.
+El título de Técnico Superior en Animaciones 3D, Juegos y Entornos Interactivos 
+queda identificado en la Comunidad de Castilla y León, por los elementos determinados 
+en el artículo 2 del Real Decreto 1583/2011, de 4 de noviembre, por el que se establece el 
+citado título y se fijan sus enseñanzas mínimas, y por un código, de la forma siguiente:
+FAMILIA PROFESIONAL: Imagen y Sonido.
+DENOMINACIÓN: Animaciones 3D, Juegos y Entornos Interactivos.
+NIVEL: Formación Profesional de Grado Superior.
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48041
+Lunes, 3 de agosto de 2015
+DURACIÓN: 2.000 horas.
+REFERENTE EUROPEO: CINE-5b (Clasificación Internacional Normalizada de la 
+Educación).
+CÓDIGO: IMS01S.
+NIVEL DEL MARCO ESPAÑOL DE CUALIFICACIONES PARA LA EDUCACIÓN 
+SUPERIOR: Nivel 1 Técnico Superior.
+Artículo 3. Referentes de la formación.
+1. Los aspectos relativos al perfil profesional del título de Técnico Superior en 
+Animaciones 3D, Juegos y Entornos Interactivos determinado por la competencia 
+general, por las competencias profesionales, personales y sociales, y por la relación de 
+cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones 
+Profesionales incluidas en el título, así como los aspectos referentes al entorno profesional 
+y la prospectiva del título en el sector o sectores, son los que se especifican en los artículos 
+3 a 8 del Real Decreto 1583/2011, de 4 de noviembre.
+2. El aspecto relativo al entorno productivo en Castilla y León es el que se especifica 
+en el Anexo I.
+Artículo 4. Objetivos generales.
+Los objetivos generales del ciclo formativo de Técnico Superior en Animaciones 
+3D, Juegos y Entornos Interactivos son los establecidos en el artículo 9 del Real 
+Decreto 1583/2011, de 4 de noviembre. 
+Artículo 5. Principios metodológicos generales.
+1. La metodología didáctica de las enseñanzas de formación profesional integrará 
+los aspectos científicos, tecnológicos y organizativos que en cada caso correspondan, con 
+el fin de que el alumnado adquiera una visión global de los procesos productivos propios 
+de la actividad profesional correspondiente.
+2. Las enseñanzas de formación profesional para personas adultas se organizarán 
+con una metodología flexible y abierta, basada en el autoaprendizaje.
+Artículo 6. Módulos profesionales del ciclo formativo.
+Los módulos profesionales que componen el ciclo formativo de Técnico Superior en 
+Animaciones 3D, Juegos y Entornos Interactivos son los establecidos en el artículo 10 del 
+Real Decreto 1583/2011, de 4 de noviembre:
+1085. Proyectos de animación audiovisual 2D y 3D.
+1086. Diseño, dibujo y modelado para animación.
+1087. Animación de elementos 2D y 3D.
+1088. Color, iluminación y acabados 2D y 3D.
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48042
+Lunes, 3 de agosto de 2015
+1089. Proyectos de juegos y entornos interactivos.
+1090. Realización de proyectos multimedia interactivos.
+1091. Desarrollo de entornos interactivos multidispositivo.
+0907. Realización del montaje y postproducción de audiovisuales.
+1093. Proyecto de animaciones 3D, juegos y entornos interactivos.
+1094. Formación y orientación laboral.
+1095. Empresa e iniciativa emprendedora.
+1092. Formación en centros de trabajo.
+Artículo 7. Objetivos, contenidos, duración y orientaciones pedagógicas y 
+metodológicas de cada módulo profesional.
+1. Los objetivos de los módulos profesionales relacionados en el artículo 6, 
+expresados en términos de resultados de aprendizaje, y los criterios de evaluación, son 
+los que se establecen en el Anexo I del Real Decreto 1583/2011, de 4 de noviembre.
+2. Por su parte, los contenidos, la duración y las orientaciones pedagógicas y 
+metodológicas de los módulos profesionales «Proyectos de animación audiovisual 2D y 3D», 
+«Diseño, dibujo y modelado para animación», «Animación de elementos 2D y 3D», 
+«Color, iluminación y acabados 2D y 3D», «Proyectos de juegos y entornos interactivos», 
+«Realización de proyectos multimedia interactivos», «Desarrollo de entornos interactivos 
+multidispositivo», «Realización del montaje y postproducción de audiovisuales», «Formación 
+y orientación laboral» y «Empresa e iniciativa emprendedora», son los que se establecen 
+en el Anexo II. Asimismo, en citado anexo se establece la duración y las orientaciones 
+pedagógicas y metodológicas del módulo profesional «Proyecto de animaciones 3D, 
+juegos y entornos interactivos», así como la duración del módulo profesional «Formación 
+en centros de trabajo».
+Artículo 8. Módulos profesionales de «Formación en centros de trabajo» y «Proyecto 
+de animaciones 3D, juegos y entornos interactivos».
+1. El programa formativo del módulo profesional «Formación en centros de trabajo» 
+será individualizado para cada alumno y se elaborará teniendo en cuenta las características 
+del centro de trabajo. Deberá recoger las actividades formativas que permitan ejecutar o 
+completar la competencia profesional correspondiente al título, los resultados de aprendizaje 
+y los criterios de evaluación previstos en el Anexo I del Real Decreto 1583/2011, de 4 de 
+noviembre.
+2. El módulo profesional de «Proyecto de animaciones 3D, juegos y entornos 
+interactivos» se definirá de acuerdo con las características de la actividad laboral del 
+ámbito del ciclo formativo y con aspectos relativos al ejercicio profesional y a la gestión 
+empresarial. Tendrá por objeto la integración de las diversas capacidades y conocimientos 
+del currículo del ciclo formativo, contemplará las variables tecnológicas y organizativas 
+relacionadas con el título, y deberá ajustarse a los resultados de aprendizaje y criterios de 
+evaluación previstos en el Anexo I del Real Decreto 1583/2011, de 4 de noviembre.
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48043
+Lunes, 3 de agosto de 2015
+El departamento de la familia profesional de Imagen y Sonido determinará, en 
+el marco de la programación general anual, los proyectos que se propondrán para su 
+desarrollo por el alumnado. Los proyectos también podrán ser propuestos por el alumnado, 
+en cuyo caso se requerirá la aceptación del departamento.
+Con carácter general, el módulo profesional «Proyecto de animaciones 3D, juegos y 
+entornos interactivos» se desarrollará simultáneamente al módulo profesional «Formación 
+en centros de trabajo», salvo que concurran otras circunstancias que no lo permitan.
+Artículo 9. Organización y distribución horaria. 
+1. Los módulos profesionales que forman las enseñanzas del ciclo formativo de 
+Técnico Superior en Animaciones 3D, Juegos y Entornos Interactivos, cuando se oferte 
+en régimen presencial, se organizarán en dos cursos académicos. Su distribución en cada 
+uno de ellos y la asignación horaria semanal se recoge en el Anexo III.
+2. El período de realización del módulo profesional de «Formación en centros de 
+trabajo» establecido en el Anexo III para el tercer trimestre, podrá comenzar en el segundo 
+trimestre si han transcurrido veintidós semanas lectivas a contar desde el inicio del curso 
+escolar.
+Artículo 10. Adaptaciones curriculares.
+1. Con objeto de ofrecer a todas las personas la oportunidad de adquirir una formación 
+básica, ampliar y renovar sus conocimientos, habilidades y destrezas de modo permanente 
+y facilitar el acceso a las enseñanzas de formación profesional, la consejería competente 
+en materia de educación podrá flexibilizar la oferta del ciclo formativo de Técnico Superior 
+en Animaciones 3D, Juegos y Entornos Interactivos permitiendo, principalmente a las 
+personas adultas, la posibilidad de combinar el estudio y la formación con la actividad laboral 
+o con otras actividades, respondiendo así a las necesidades e intereses personales.
+2. También se podrá adecuar las enseñanzas de este ciclo formativo a las 
+características de la educación a distancia, así como a las características del alumnado 
+con necesidades específicas de apoyo educativo para que se garantice su acceso, 
+permanencia y progresión en el ciclo formativo.
+Artículo 11. Accesos y vinculación a otros estudios, y correspondencia de módulos 
+profesionales con las unidades de competencia.
+El acceso y vinculación a otros estudios, y la correspondencia de los módulos 
+profesionales con las unidades de competencia son los que se establecen en el 
+capítulo IV del Real Decreto 1583/2011, de 4 de noviembre.
+Artículo 12. Enseñanzas impartidas en lenguas extranjeras o en lenguas cooficiales 
+de otras comunidades autónomas.
+1. Teniendo en cuenta que la promoción de la enseñanza y el aprendizaje de lenguas 
+y de la diversidad lingüística debe constituir una prioridad de la acción comunitaria en el 
+ámbito de la educación y la formación, la consejería competente en materia de educación 
+podrá autorizar que todos o determinados módulos profesionales del currículo se impartan 
+en lenguas extranjeras o en lenguas cooficiales de otra comunidad autónoma, sin perjuicio 
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48044
+Lunes, 3 de agosto de 2015
+de lo que se establezca al respecto en su normativa específica y sin que ello suponga 
+modificación del currículo establecido en el presente decreto.
+2. Los centros autorizados deberán incluir en su proyecto educativo los elementos 
+más significativos de su proyecto lingüístico autorizado.
+Artículo 13. Formación Profesional Dual.
+El ciclo formativo conducente a la obtención del título de Técnico Superior en 
+Animaciones 3D, Juegos y Entornos Interactivos podrá ofertarse en la modalidad de 
+Formación Profesional Dual de acuerdo con lo que para su desarrollo establezca la 
+consejería competente en materia de educación.
+Artículo 14. Oferta a distancia del título.
+1. Los módulos profesionales que forman las enseñanzas del ciclo formativo de 
+Técnico Superior en Animaciones 3D, Juegos y Entornos Interactivos podrán ofertarse a 
+distancia, siempre que se garantice que el alumnado puede conseguir los resultados de 
+aprendizaje de los mismos, de acuerdo con lo dispuesto en el Real Decreto 1583/2011, de 
+4 de noviembre, y en este decreto.
+2. La consejería competente en materia de educación establecerá los módulos 
+profesionales susceptibles de ser impartidos a distancia y el porcentaje de horas de cada 
+uno de ellos que tienen que impartirse en régimen presencial.
+Artículo 15. Requisitos de los centros para impartir estas enseñanzas.
+Todos los centros de titularidad pública o privada que ofrezcan enseñanzas 
+conducentes a la obtención del título de Técnico Superior en Animaciones 3D, Juegos 
+y Entornos Interactivos se ajustarán a lo establecido en la Ley Orgánica 2/2006, de 3 de 
+mayo, de Educación y en las normas que lo desarrollen, y en todo caso, deberán cumplir 
+los requisitos que se establecen en el artículo 46 del Real Decreto 1147/2011, de 29 de 
+julio, por el que se establece la ordenación general de la formación profesional del sistema 
+educativo, en el Real Decreto 1583/2011, de 4 de noviembre, en este decreto, y en lo 
+establecido en la normativa que los desarrolle.
+Artículo 16. Profesorado. 
+Los aspectos referentes al profesorado con atribución docente en los módulos 
+profesionales del ciclo formativo de Técnico Superior en Animaciones 3D, Juegos y 
+Entornos Interactivos, relacionados en el artículo 6, son los establecidos en el artículo 12 
+del Real Decreto 1583/2011, de 4 de noviembre.
+Artículo 17. Espacios y equipamientos. 
+Los espacios y equipamientos necesarios para el desarrollo de las enseñanzas del 
+ciclo formativo de Técnico Superior en Animaciones 3D, Juegos y Entornos Interactivos 
+son los establecidos en el artículo 11 del Real Decreto 1583/2011, de 4 de noviembre.
+Artículo 18. Autonomía de los centros.
+1. Los centros educativos dispondrán de la necesaria autonomía pedagógica, de 
+organización y de gestión económica, para el desarrollo de las enseñanzas y su adaptación 
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48045
+Lunes, 3 de agosto de 2015
+a las características concretas del entorno socioeconómico, cultural y profesional. Los 
+centros autorizados para impartir el ciclo formativo concretarán y desarrollarán el currículo 
+mediante las programaciones didácticas de cada uno de los módulos profesionales que 
+componen el ciclo formativo en los términos establecidos en el Real Decreto 1583/2011, 
+de 4 de noviembre, en este decreto, en el marco general del proyecto educativo de centro 
+y en función de las características del alumnado y de su entorno productivo. 
+2. La consejería competente en materia de educación favorecerá la elaboración de 
+proyectos de innovación, así como de modelos de programación docente y de materiales 
+didácticos que faciliten al profesorado el desarrollo del currículo.
+3. De conformidad con el artículo 120.4 de la Ley Orgánica 2/2006, de 3 de mayo, 
+los centros, en el ejercicio de su autonomía, podrán adoptar experimentaciones, planes de 
+trabajo, formas de organización, normas de convivencia y ampliación del calendario escolar 
+o del horario lectivo de áreas o materias, en los términos que establezca la consejería 
+competente en materia de educación y dentro de las posibilidades que permita la normativa 
+aplicable, incluida la laboral, sin que, en ningún caso, se impongan aportaciones a las 
+familias ni exigencias para la citada consejería. 
+DISPOSICIONES ADICIONALES
+Primera. Calendario de implantación.
+La implantación del currículo establecido en este decreto tendrá lugar en el curso 
+escolar 2015/2016 para el primer curso del ciclo formativo y en el curso escolar 2016/2017 
+para el segundo curso del ciclo formativo.
+Segunda. Titulaciones equivalentes y vinculación con capacitaciones profesionales.
+1. Las titulaciones equivalentes y vinculación con capacitaciones profesionales son 
+las que se establecen en la disposición adicional tercera del Real Decreto 1583/2011, de 
+4 de noviembre.
+2. La formación establecida en el presente decreto en el módulo profesional de 
+«Formación y orientación laboral», incluye un mínimo de cincuenta horas, que capacita 
+para llevar a cabo responsabilidades profesionales equivalentes a las que precisan las 
+actividades de nivel básico en prevención de riesgos laborales, establecidas en el Real 
+Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de los Servicios 
+de Prevención.
+Tercera. Certificación académica de superación del nivel básico en prevención de 
+riesgos laborales.
+La consejería competente en materia de educación expedirá una certificación 
+académica de la formación de nivel básico en prevención de riesgos laborales, al alumnado 
+que haya superado el bloque B del módulo profesional de «Formación y orientación 
+laboral», de acuerdo con el procedimiento que se establezca al efecto.
+Cuarta. Equivalencia a efectos de docencia en los procedimientos selectivos de 
+ingreso en el Cuerpo de Profesores Técnicos de Formación Profesional.
+En los procesos selectivos convocados por la consejería competente en materia de 
+educación, el título de Técnico Superior o de Técnico Especialista se declara equivalente 
+a los exigidos para el acceso al Cuerpo de Profesores Técnicos de Formación Profesional, 
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48046
+Lunes, 3 de agosto de 2015
+cuando el titulado haya ejercido como profesor interino en centros educativos públicos 
+dependientes de la consejería y en la especialidad docente a la que pretenda acceder 
+durante un período mínimo de dos años antes del 31 de agosto de 2007. 
+Quinta. Accesibilidad universal en las enseñanzas de este título.
+La consejería competente en materia de educación adoptará las medidas necesarias 
+para que el alumnado pueda acceder y cursar este ciclo formativo en las condiciones 
+establecidas en la disposición final décima de la Ley 51/2003, de 2 de diciembre, de 
+igualdad de oportunidades, no discriminación y accesibilidad universal de las personas 
+con discapacidad. 
+DISPOSICIÓN DEROGATORIA
+Derogación normativa.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo 
+establecido en el presente decreto. 
+DISPOSICIONES FINALES
+Primera. Desarrollo normativo.
+Se faculta al titular de la consejería competente en materia de educación para dictar 
+cuantas disposiciones sean precisas para la interpretación, aplicación y desarrollo de lo 
+dispuesto en este decreto.
+Segunda. Entrada en vigor.
+El presente decreto entrará en vigor el día siguiente al de su publicación en el «Boletín 
+Oficial de Castilla y León».
+Valladolid, 30 de julio de 2015.
+El Presidente de la Junta 
+de Castilla y León,
+Fdo.: Juan Vicente Herrera Campo
+El Consejero de Educación,
+Fdo.: Fernando Rey Martínez
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48047
+Lunes, 3 de agosto de 2015
+ANEXO I
+ENTORNO PRODUCTIVO DE CASTILLA Y LEÓN
+El sector de la animación en España ha defendido siempre la animación en su 
+doble vertiente: como generador de cultura y como industria. En Castilla y León es un 
+sector emergente que debe evolucionar de forma acorde al resto del estado. Por un lado 
+como productora de un imaginario propio que se encargue de difundir valores adecuados 
+para nuestra infancia. Por otro lado este sector de la animación debe constituirse en un 
+generador de empleo estable. Actualmente las empresas españolas de animación forman 
+el sector que más exporta de nuestro país: el 70% de la facturación de la animación 
+española proviene del exterior. 
+Las empresas que forman el entorno productivo están demandando profesionales 
+formados específicamente para el mundo de la animación tanto en el mundo audiovisual 
+(cine y televisión) como en el mundo de los videojuegos. Hasta ahora no existía la formación 
+reglada en este campo y esto obligaba a las empresas a desarrollar sus propios planes 
+de formación. Este ciclo va a tener muy presente las necesidades del entorno productivo 
+con el fin de que la inserción laboral de los alumnos se realice con el máximo de garantías 
+para todas las partes.
+Durante los últimos años, la animación europea ha ganado terreno a la 
+estadounidense y la japonesa en las parrillas de programación de las televisiones 
+españolas situándose en segunda posición en el ranking por detrás de la nipona. 
+Cada año se estrenan en España un mayor número de películas de animación 
+en las salas de cine. En los últimos seis años hemos pasado de proyectarse tan sólo 
+ocho películas en los cines españoles, a estrenarse veintitrés en 2011. Este mismo año 
+la industria del videojuego ha crecido vertiginosamente en nuestro país, alrededor de un 
+51% de la población española utiliza Internet y videojuegos habitualmente. El mercado es 
+bueno y goza de una salud envidiable si lo comparamos con muchos otros de referencia.
+Además la Directiva «Televisión sin fronteras» (Directiva TSF), que es la piedra 
+angular de la política audiovisual de la Unión Europea, se asienta en dos principios básicos: 
+la libre circulación de programas televisivos europeos en el mercado interior y la obligación 
+de las cadenas de televisión de dedicar, siempre que sea posible, más de la mitad de 
+su tiempo de emisión a obras europeas («cuotas de emisión»). Si a esto unimos que la 
+Directiva TSF tiene también por objeto preservar algunos objetivos importantes de interés 
+público como la diversidad cultural y la protección de los menores, entenderemos que el 
+sector de la animación, juegos y entornos interactivos está aún por vivir sus mejores años. 
+Trabajar en animación debe abrir las puertas a trabajar en Castilla y León, en España, pero 
+también fuera, haciendo publicidad, cine o aplicaciones. Es un mundo casi sin fronteras.
+Todo esto nos conduce a la necesidad de impulsar la animación castellano y leonesa 
+para que ocupe el lugar que le corresponde dentro del sector audiovisual dentro de un 
+mercado español, que goza de gran reconocimiento tanto por su tradición, como por su 
+producción y presencia internacional.
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48048
+Lunes, 3 de agosto de 2015
+ANEXO II
+CONTENIDOS, DURACIÓN Y ORIENTACIONES PEDAGÓGICAS Y METODOLÓGICAS 
+DE LOS MÓDULOS PROFESIONALES
+Módulo profesional: Proyectos de animación audiovisual 2D y 3D.
+Equivalencia en créditos ECTS: 7
+Código: 1085
+Duración: 64 horas
+Contenidos:
+1. Definición de las características técnicas finales del proyecto:
+– 	 El producto de animación:
+– 	 Películas para cine o consumo doméstico.
+– 	 Animaciones para juegos.
+– 	 Animaciones para proyectos multimedia.
+– 	 Aspecto final del producto: formatos de exhibición, publicación y difusión. 
+– 	 El target: tipos de público y medios de consumo de los proyectos.
+– 	 Dimensionado de un proyecto de animación:
+– 	 Características de los proyectos de animación.
+– 	 La tecnología de un proyecto de animación: infraestructura técnica y 
+tecnológica.
+– 	 Duración y cálculos de volumen de espacio virtual.
+– 	 El equipo humano.
+– 	 Cálculo de plazos: las fases de un proyecto de animación.
+– 	 Recuperación y aprovechamiento de materiales para nuevos proyectos y 
+productos.
+2. Definición de las características del modo de trabajo en red:
+– 	 El trabajo compartido. Organigramas y jerarquías:
+– 	 Fases simultáneas.
+– 	 Los permisos de acceso.
+– 	 Los sistemas de referencias.
+– 	 Definición del equipo humano para cada fase del proyecto.
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48049
+Lunes, 3 de agosto de 2015
+– 	 Protocolos de comunicación e interacción:
+– 	 Configuración de los programas para el trabajo en red.
+– 	 El trabajo contra servidores.
+– 	 Nomenclatura de archivos: organigrama de carpetas y archivos.
+– 	 Archivos compartidos.
+– 	 Los sistemas de intercambio de información en la red de trabajo.
+3. Realización de la separación de capas y efectos de render:
+– 	 Los software de render:
+– 	 Calidades y velocidades de proceso. 
+– 	 Adaptabilidad a la infraestructura tecnológica.
+– 	 Los interfaces de usuario.
+– 	 Aplicación del sistema de render:
+– 	 Elaboración del listado de fotogramas de cada plano.
+– 	 Separación de elementos en capas.
+– 	 Aplicación de los efectos de render.
+– 	 Análisis previo de los movimientos de las cámaras y las diferentes capas 
+de render. 
+4. Realización del render final por capas:
+– 	 Esquemas de disponibilidad, capacidad y velocidad de las estaciones de 
+trabajo.
+– 	 Las granjas de render.
+– 	 Listados de capas por fotograma y fotogramas por plano que se va a renderizar 
+por cada estación.
+– 	 Listados de capas por fotograma y fotogramas por plano renderizados por cada 
+estación y actualización inmediata de los mismos.
+– 	 Visionado secuencial de los resultados del render.
+– 	 Análisis y detección de errores.
+– 	 Corrección de parámetros y solución de problemas.
+– 	 Nomenclatura y archivado de los materiales generados.
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48050
+Lunes, 3 de agosto de 2015
+5. Finalización del proyecto de imagen:
+– 	 Software de postproducción.
+– 	 Los efectos cinematográficos: desenfoques, motion blur, filage y Z-buffer.
+– 	 Procesos de integración en postproducción:
+– 	 Los sistemas de capas.
+– 	 La integración.
+– 	 Las técnicas para el realce de capas.
+– 	 La profundidad.
+– 	 La aplicación de efectos.
+– 	 Diseño y generación de efectos nuevos:
+– 	 Análisis de efectos en visionado.
+– 	 Creatividad para la generación de efectos.
+– 	 Investigación y búsqueda de fuentes.
+– 	 Los plugins.
+– 	 El máster:
+– 	 Normas y estándares de calidad.
+– 	 La corrección de color.
+– 	 Las versiones: peculiaridades de los distintos tipos.
+Orientaciones pedagógicas y metodológicas.
+El presente módulo da respuesta a una serie de funciones que conforman el perfil 
+profesional del título.
+Debido a la importancia de que se alcancen los resultados de aprendizaje establecidos, 
+para su impartición es conveniente que se dediquen las actividades de enseñanza/
+aprendizaje a la adquisición de las competencias de dichas funciones en coordinación 
+con los módulos de «Diseño, dibujo y modelado para animación», «Color, iluminación y 
+acabados 2D y 3D», «Animación de elementos 2D y 3D» y «Realización de proyectos 
+multimedia interactivos», del presente ciclo, así como con otros módulos de otros ciclos 
+de la familia profesional que desarrollan las funciones de producción de audiovisuales, 
+realización de cine y vídeo, postproducción de vídeo y postproducción de audio.
+El presente módulo desarrolla las funciones correspondientes de configuración y 
+definición de proyectos de animación audiovisual en 2D y 3D.
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48051
+Lunes, 3 de agosto de 2015
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+a), b) y e) del ciclo formativo, y las competencias a), b) y e) del título.
+Asimismo, para conseguir que el alumnado adquiera la polivalencia necesaria en 
+este módulo, es conveniente que se trabajen las técnicas de películas de animación 
+2D y 3D, animaciones para publicidad y videojuegos, animaciones para incrustación 
+de efectos especiales en películas de imagen real y retoque de películas, que están 
+vinculadas fundamentalmente a las actividades de enseñanza aprendizaje de:
+– 	 Trabajo en red con referencias.
+– 	 Diseño de trabajos de imagen animada.
+– 	 Renderización y finalización de proyectos de imagen animada.
+Módulo profesional: Diseño, dibujo y modelado para animación.
+Equivalencia en créditos ECTS: 11
+Código: 1086
+Duración: 192 horas
+Contenidos:
+1. Diseño y creación de personajes, escenarios y atrezo para animación:
+– 	 La forma:
+– 	 La percepción visual.
+– 	 Forma e imagen. Estructura y apariencia exterior.
+– 	 Análisis de las formas de la naturaleza. Procesos de abstracción y 
+síntesis.
+– 	 Forma estática y dinámica. El ritmo.
+– 	 Proporciones, simplificación y funcionalidad.
+– 	 Representación gráfica:
+– 	 Normas DIN, UNE, ISO. Elementos esenciales para la correcta croquización 
+y acotación.
+– 	 Diferencias de diseño en 2D y 3D. Materiales.
+– 	 Conceptos básicos de dibujo. La forma bi y tridimensional y su representación 
+sobre el plano.
+– 	 Simplificación de formas: de Caravaggio a Picasso.
+– 	 Escalas. Campos de aplicación.
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48052
+Lunes, 3 de agosto de 2015
+– 	 La proporción en el cuerpo humano. Nociones básicas de anatomía.
+– 	 Análisis de la personalidad del personaje.
+– 	 El diseño del espacio habitable. Arquitectura y urbanismo. Interiorismo y 
+ambientes.
+– 	 Escenografía y decorado. Elementos visuales y plásticos.
+– 	 La representación tridimensional.
+– 	 La narrativa gráfica:
+– 	 Composición. Expresividad de los elementos formales en el campo visual.
+– 	 El cómic. Evolución del género.
+– 	 Investigación y búsqueda de fuentes utilizando todos los recursos posibles 
+reales y/o virtuales.
+2. Definición del aspecto visual final de la animación:
+– 	 Expresividad y códigos visuales aprendidos.
+– 	 Observación y análisis de la estética contemporánea. Las modas.
+– 	 Observación y análisis de la naturaleza.
+– 	 Elaboración de las hojas de modelo:
+– 	 Hoja de construcción.
+– 	 Hoja de giro del personaje (turnaround).
+– 	 Hoja de expresiones.
+– 	 Hoja de poses.
+– 	 Hoja de tamaños comparativos.
+– 	 Otras hojas de modelo.
+– 	 La luz definidora de formas. Luz natural y artificial. Representación bidimensional 
+del volumen.
+– 	 El claroscuro. Las relaciones de valor en la representación sobre el plano de la 
+forma tridimensional. Valores expresivos de la luz.
+– 	 Elaboración de la carta de color:
+– 	 Teoría del color y sistemas de clasificación. Valores expresivos y 
+descriptivos.
+– 	 El color como fenómeno físico y visual. Color luz y color pigmento.
+– 	 Expresividad del color. Relatividad. Códigos e interpretaciones.
+– 	 Elaboración de los estudios de color.
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48053
+Lunes, 3 de agosto de 2015
+– 	 Definición del estilo de la animación:
+– 	 Comparación de productos de animación.
+– 	 Elaboración de dossier de aspectos visuales.
+– 	 Realización de test de públicos.
+– 	 Elaboración de estadísticas de colores, expresiones, rasgos, vestuarios y 
+decorados.
+– 	 Elaboración de imágenes representativas del producto final.
+3. Elaboración de storyboards y animáticas (leica reel) de un proyecto de 
+animación:
+– 	 Conceptos básicos de composición de plano.
+– 	 Documentación: análisis de los clásicos del storyboard.
+– 	 La imagen fija y en movimiento.
+– 	 Análisis de películas de diferentes géneros.
+– 	 Elaboración del storyboard:
+– 	 Representación del movimiento en viñetas.
+– 	 Imágenes secuenciadas.
+– 	 Del cine al cómic y del cómic al cine. 
+– 	 Grabación de sonido sincrónica.
+– 	 Nociones básicas de edición sonora:
+– 	 Mono y estéreo.
+– 	 Transiciones y niveles.
+– 	 Filtros y efectos.
+– 	 Edición multipista.
+– 	 Elaboración de la animática:
+– 	 Dramatismo del sonido: análisis de los clásicos.
+– 	 La banda sonora: 
+	
+Componentes de la banda sonora: diálogos, músicas, foley y efectos.
+	
+La banda internacional de sonido: los stems.
+	
+Los planos sonoros.
+– 	 Las leyes de la narrativa audiovisual y el montaje. Ritmo audiovisual.
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48054
+Lunes, 3 de agosto de 2015
+4. Modelado de escenarios, personajes y decorados definitivos para la realización de 
+animaciones stop motion:
+– 	 Elaboración de la lista de elementos que hay que modelar:
+– 	 Análisis de la documentación de dirección: guion literario, guion técnico, 
+biblia de personajes y storyboard.
+– 	 Escalado.
+– 	 Fragmentación de los modelos.
+– 	 Animación por modificación y por sustitución: modelado de elementos 
+repetidos.
+– 	 Reconstrucción tridimensional de la visión espacial de los modelos:
+– 	 Construcción de esqueletos y sistemas de sujeción.
+– 	 Materiales de modelado. Materiales clásicos en la animación: pasta de 
+modelar, madera, arena, tela y cartón, entre otros.
+– 	 Elección de los materiales: rígidos y moldeables.
+– 	 Lenguaje corporal y gestual.
+– 	 Almacenamiento, clasificación y conservación de los elementos de animación.
+5. Modelado en 3D de personajes, escenarios, atrezo y ropa:
+– 	 Modelado por ordenador: las herramientas y el trabajo compartido.
+– 	 Los programas de modelado 3D.
+– 	 Elaboración del listado de elementos que hay que modelar.
+– 	 Escaneado en 3D de los modelos físicos.
+– 	 Interpretación de la documentación procedente de la dirección artística: bocetos 
+(personajes, escenarios y props) y esculturas.
+– 	 Análisis de las deformaciones gestuales.
+– 	 Preparación del modelado:
+– 	 Carga de los modelos de referencia procedentes de escáner 3D y/o model 
+sheets y turnaround en 2D.
+– 	 Elección del procedimiento de modelado.
+– 	 Superficies nurb.
+– 	 Polígonos.
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48055
+Lunes, 3 de agosto de 2015
+– 	 Subdivision surfaces.
+– 	 Otros.
+– 	 Elaboración de personajes.
+– 	 Elaboración de escenarios.
+– 	 Elaboración de atrezo y props.
+– 	 Elaboración de ropa mediante patrones.
+– 	 Optimización de los modelos.
+– 	 Finalización, nomenclatura y archivado de las superficies generadas.
+Orientaciones pedagógicas y metodológicas.
+El presente módulo da respuesta a una serie de funciones que conforman el perfil 
+profesional del título.
+Debido a la importancia de que se alcancen los resultados de aprendizaje establecidos, 
+para su impartición es conveniente que se dediquen las actividades de enseñanza-
+aprendizaje a la adquisición de las competencias de dichas funciones en coordinación 
+con los módulos de «Proyectos de animación audiovisual 2D y 3D», «Color, iluminación 
+y acabados 2D y 3D», «Animación de elementos 2D y 3D» y «Realización de proyectos 
+multimedia interactivos», del presente ciclo, así como con otros módulos de otros ciclos 
+de la familia profesional que desarrollan las funciones de realización de cine y vídeo, 
+postproducción de vídeo y postproducción de audio.
+El presente módulo desarrolla las funciones correspondientes de diseño, dibujo y 
+modelado de personajes, escenarios y atrezo para todo tipo de producciones de animación 
+2D y 3D.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+a), b) y d) del ciclo formativo, y las competencias a), b) y d) del título.
+Asimismo, para conseguir que el alumnado adquiera la polivalencia necesaria en 
+este módulo, es conveniente que se trabajen las técnicas de realización de películas 
+de animación 2D y 3D, animaciones para publicidad y videojuegos e integración de 
+animaciones en imagen real, que están vinculadas fundamentalmente a las actividades de 
+enseñanza aprendizaje de:
+– 	 Diseño de personajes, escenarios y atrezo para 2D y 3D.
+– 	 Modelado de personajes, escenarios y atrezo.
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48056
+Lunes, 3 de agosto de 2015
+Módulo profesional: Animación de elementos 2D y 3D.
+Equivalencia en créditos ECTS: 16
+Código: 1087
+Duración: 384 horas
+Contenidos:
+1. Realización de la animación y captura en stop motion o pixilación:
+– 	 Animación de elementos materiales. Stop motion:
+– 	 La persistencia retiniana.
+– 	 Sistemas de captura de imágenes secuenciadas.
+– 	 Software de edición y secuenciación de imágenes.
+– 	 Asignación y reparto de tiempos. Temporalización (timing) y fragmentación 
+del movimiento.
+– 	 Posiciones de cámara, encuadres y movimientos fragmentados.
+– 	 Elementos de sujeción y mecánicos no visibles.
+– 	 La pixilación.
+– 	 La interpretación: expresión corporal y gestual.
+– 	 Análisis de la intencionalidad dramática.
+– 	 Realización de los movimientos faciales ajustándose a las referencias de 
+imagen y sonido (sincronización, lipsync).
+– 	 Los personajes 3D:
+– 	 Análisis de los modelos.
+– 	 Anatomía humana y animal.
+– 	 Expresividad y lenguaje corporal.
+– 	 Movimientos mecánicos.
+2. Elaboración del character setup de personajes de 3D:
+– 	 El character setup: herramientas e información compartida.
+– 	 Colocación de las articulaciones y elementos móviles:
+– 	 La morfología del modelo.
+– 	 Cinemática directa e inversa.
+– 	 Integración del esqueleto en el modelo (bind skin).
+– 	 Aplicación de deformadores. Conexión a los modelos.
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48057
+Lunes, 3 de agosto de 2015
+– 	 Músculos, sólidos rígidos y geometrías controladas por partículas.
+– 	 Parametrización de ejes de rotación y jerarquías.
+– 	 Pintado de pesos o influencias.
+– 	 Elaboración de los renders de prueba y corrección de errores.
+– 	 Diseño del interface de animación.
+– 	 Finalización del setup, nomenclatura de catalogación y archivado de modelos y 
+representaciones.
+3. Animación de fotogramas:
+– 	 La carta de animación:
+– 	 Elaboración de las tablas de tiempo de cada elemento animado. 
+La intencionalidad dramática: interpretación del guión, storyboard y 
+animática. 
+– 	 Temporalización (timing) y fragmentación del movimiento.
+– 	 Descomposición de los personajes y elementos que actúan en unidades de 
+animación separadas.
+– 	 Animación de fotogramas 2D:
+– 	 La animación clásica en 2D.
+– 	 Software de animación 2D.
+– 	 Elaboración de las poses clave.
+– 	 Dibujo de fotogramas completos o fragmentados según el timing.
+– 	 La animación en fotogramas completos.
+– 	 Elaboración de la animación mediante rotoscopia, en dibujo físico y 
+virtual.
+– 	 La intercalación.
+– 	 El anime.
+– 	 Filmación y escaneado de los dibujos. Efectos de filmación.
+– 	 Animación de 3D:
+– 	 La interpretación: expresión corporal y gestual.
+– 	 Interfaces de animación.
+– 	 Los keyframes.
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48058
+Lunes, 3 de agosto de 2015
+– 	 Realización de los movimientos genéricos: según el timing, ajustándose al 
+story movie, y según referencias de captura de movimiento.
+– 	 Realización de los movimientos derivados según la intencionalidad 
+dramática.
+– 	 Movimientos consecuencia.
+– 	 Elaboración de movimientos secundarios (incluyendo ropa y pelo).
+– 	 Realización de los movimientos faciales ajustándose a las referencias de 
+imagen y sonido (sincronización y lipsync).
+– 	 Elaboración de renders de prueba.
+4. Realización de efectos 3D:
+– 	 Software de efectos 3D.
+– 	 Efectos físicos y partículas:
+– 	 Diseño de partículas.
+– 	 Generación de partículas.
+– 	 Animación de partículas.
+– 	 Elaboración de dinámicas.
+– 	 Análisis de las dinámicas:
+– 	 Rigid bodies.
+– 	 Soft bodies.
+– 	 Interacción entre masas y con efectos físicos.
+– 	 Creación de multitudes 3D.
+– 	 El hardware render buffer.
+– 	 Nomenclatura y archivado de los materiales generados.
+5. Elaboración del layout y preparación de los planos para animación:
+– 	 El software de colocación de elementos: personajes, escenarios y atrezo.
+– 	 Reconstrucción espacial del storyboard:
+– 	 Identificación de ficheros según storyboard.
+– 	 Ubicación de las referencias de los modelos.
+– 	 Actualización progresiva de las referencias.
+– 	 Determinación de zonas visibles. 
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48059
+Lunes, 3 de agosto de 2015
+– 	 Temporización de los planos:
+– 	 Incorporación de doblaje y efectos diegéticos.
+– 	 Cálculo del número de fotogramas.
+– 	 Desplazamientos, giros y escalados.
+6. Colocación y movimiento de cámaras en 2D y 3D:
+– 	 Óptica y formación de imagen:
+– 	 Distancia focal y profundidad de campo.
+– 	 Profundidad de foco y distancia hiperfocal.
+– 	 Campos de visión.
+– 	 Comportamiento de lentes complejas: apertura y velocidad, saturación, 
+apocromatismo y aberraciones.
+– 	 Movimientos de cámara. El filage.
+– 	 Cámara y narrativa audiovisual:
+– 	 El encuadre y la angulación.
+– 	 Continuidad y dramatismo.
+– 	 Estilos y géneros en la planificación.
+– 	 Los movimientos de cámara.
+– 	 Colocación y movimiento de cámaras en animación:
+– 	 Herramientas de cámara en animación.
+– 	 Fijación de los tiros de cámara según storyboard y animática.
+– 	 Elección de las secuencias de focales según continuidad, fuerza dramática 
+y montaje.
+– 	 Ubicación de las cámaras: fijación de parámetros ópticos, distancias de 
+cámara y encuadres iniciales y finales.
+– 	 Movimientos de cámara: elaboración de las curvas, temporización de los 
+movimientos y fijación de los keyframes.
+– 	 Renderizaciones de prueba y corrección de movimientos.
+– 	 Nomenclatura y archivado de cámaras.
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48060
+Lunes, 3 de agosto de 2015
+7. Realización de la captura de movimiento y rotoscopia en 2D y 3D:
+– 	 Sistemas de captura de movimiento:
+– 	 Herramientas de captura de movimiento: software, cámaras y sensores.
+– 	 Diseño del espacio de captura y distribución de cámaras.
+– 	 Colocación de los sensores según los modelos y la documentación.
+– 	 Realización de la captura y traslación al setup de los modelos.
+– 	 Nomenclatura y archivado de los materiales generados.
+– 	 La rotoscopia:
+– 	 Obtención, escalado y archivado de las imágenes originales.
+– 	 Cámaras fotográficas y cinematográficas para rotoscopia.
+– 	 El escáner.
+– 	 Elaboración de capas para rotoscopia en acetatos según los parámetros 
+técnicos de la fotografía de animación.
+– 	 Elaboración de superposiciones y rotoscopias: en superficies planas y por 
+ordenador.
+Orientaciones pedagógicas y metodológicas.
+El presente módulo da respuesta a una serie de funciones que conforman el perfil 
+profesional del título. 
+Debido a la importancia de que se alcancen los resultados de aprendizaje 
+establecidos, para su impartición es conveniente que se dediquen las actividades de 
+enseñanza/aprendizaje a la adquisición de las competencias de dichas funciones 
+en coordinación con los módulos de «Diseño, dibujo y modelado para animación», 
+«Proyectos de animación audiovisual 2D y 3D», «Color, iluminación y acabados 2D y 3D» 
+y «Realización de proyectos multimedia interactivos» del presente ciclo; así como con 
+otros módulos de otros ciclos de la familia profesional que desarrollan las funciones de 
+producción de audiovisuales y realización de cine y vídeo.
+El presente módulo desarrolla las funciones de animación 2D y 3D, y de realización 
+de procesos finales de montaje y postproducción, referidas al proceso de producciones 
+audiovisuales y en concreto de los subprocesos de producción de proyectos de cine, 
+vídeo, animación, multimedia interactivo y televisión.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales c) 
+y d) del ciclo formativo, y las competencias c) y d) del título.
+Asimismo, para conseguir que el alumnado adquiera la polivalencia necesaria en este 
+módulo, es conveniente que se trabajen las técnicas de animación 2D y 3D de proyectos 
+de películas 2D y 3D, juegos y entornos interactivos de diferentes tipos, tales como spots 
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48061
+Lunes, 3 de agosto de 2015
+publicitarios animados, cortos de animación, videojuegos y animaciones para incrustación 
+de efectos especiales en películas de imagen real, que están vinculadas fundamentalmente 
+a las actividades de enseñanza aprendizaje de:
+– 	 Captura de movimiento y rotoscopia.
+– 	 Animación de stop motion.
+– 	 Preparación (setup) de personajes, escenarios y atrezo.
+– 	 Animación de personajes, escenarios y atrezo.
+– 	 Colocación de cámaras virtuales. 
+Módulo profesional: Color, iluminación y acabados 2D y 3D.
+Equivalencia en créditos ECTS: 11
+Código: 1088
+Duración: 224 horas
+Contenidos:
+1. Generación de los mapas UV de los modelos:
+– 	 Parametrización bidimensional de objetos tridimensionales.
+– 	 Características morfológicas de los objetos.
+– 	 Los mapas UV. 
+– 	 Fabricación de los mapas UV:
+– 	 Herramientas de trabajo.
+– 	 Elección del tipo de mapa.
+– 	 Recolocación de puntos UV.
+– 	 Suavizado de comprobación de la geometría.
+2. Definición y aplicación de los materiales virtuales sobre los modelos:
+– 	 Análisis de las características superficiales de los objetos reales:
+– 	 Especularidad.
+– 	 Color.
+– 	 Incandescencia.
+– 	 Difusión.
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48062
+Lunes, 3 de agosto de 2015
+– 	 Brillo.
+– 	 Ambientación.
+– 	 Transparencia.
+– 	 Reflexión.
+– 	 Refracción.
+– 	 Translucencia.
+– 	 Autoiluminación.
+– 	 Relieve.
+– 	 Tipos de materiales.
+– 	 Aplicación de los materiales sobre los modelos:
+– 	 Software (2D y 3D) de generación y aplicación de materiales.
+– 	 Resoluciones de trabajo y su adaptación al formato de finalización.
+– 	 Características de las texturas: transparencia, volumen, brillo y color.
+– 	 Animación de las texturas.
+– 	 Nomenclatura y archivado de materiales, mapas y modelos texturizados.
+3. Generación de pelo virtual, geometría pintada (paint effects), texturas procedurales 
+2D y 3D y bitmaps:
+– 	 Características del pelo: forma, grosor, longitud, color y comportamiento según 
+los ambientes.
+– 	 Generación de pelo virtual:
+– 	 Software para la generación de pelo.
+– 	 Generación de texturas procedurales 2D y 3D:
+– 	 Utilización de las herramientas de generación y aplicación de texturas.
+– 	 Las texturas procedurales 2D.
+– 	 Las texturas procedurales 3D. 
+– 	 Pintado de los modelos:
+– 	 Los bitmaps.
+– 	 Pintado en 3D directo sobre la geometría.
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48063
+Lunes, 3 de agosto de 2015
+– 	 Pintado en 2D sobre la referencia de los mapas UV.
+– 	 Generación de mapas 2D a las resoluciones necesarias.
+– 	 La conversión de procedurales a bitmaps.
+– 	 Generación de geometría pintada:
+– 	 La necesidad de la geometría pintada: optimización del volumen gráfico.
+– 	 Software de geometría pintada.
+– 	 Nomenclatura y archivado de texturas 2D y 3D y bitmaps.
+4. Aplicación de color físicamente o por ordenador para stop motion:
+– 	 Aplicación de color sobre superficies físicas:
+– 	 Mezcla aditiva del color.
+– 	 Pigmentos y materiales.
+– 	 Herramientas de aplicación: fragmentación de los dibujos y estructura por 
+capas y aplicación de color sobre superficies planas y acetatos.
+– 	 Aplicación de color por ordenador:
+– 	 Software de aplicación de color. 
+5. Definición y desglose de las luces necesarias para cada escenario:
+– 	 Elaboración del croquis de proyección de los haces de luz:
+– 	 Parámetros y propiedades de la luz: reflexión, refracción y difracción, 
+temperatura de color, intensidad, flujo, luminancia e iluminancia.
+– 	 Características de la utilización de las fuentes de luz según su ubicación: 
+directas, rebotadas, rellenos y contraluces. 
+– 	 Desglose de luces de escenario:
+– 	 Luminarias y fuentes de luz reales y su traducción a la luz virtual.
+– 	 Visualización de luces según los estudios de color.
+6. Aplicación, modificación y animación de las luces virtuales:
+– 	 Aplicación virtual de luces de escenario:
+– 	 Software de iluminación 3D.
+– 	 Definición de las sombras según los estudios de color: dureza, color y 
+degradación.
+– 	 Nomenclatura y archivado de luces de escenario y escenarios 
+preiluminados.
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48064
+Lunes, 3 de agosto de 2015
+– 	 Mapas de sombras: cuantificación.
+– 	 Ajuste de los parámetros:
+– 	 Intensidad y dureza.
+– 	 Color.
+– 	 Oclusión, transparencia y profundidad.
+– 	 Animación de luces.
+7. Iluminación de planos animados:
+– 	 Realce de los personajes y su adecuación dramática con la luz.
+– 	 Nomenclatura y archivado de luces de plano y planos iluminados.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional, es un módulo que contribuye a la formación necesaria para 
+desempeñar la función de desarrollo aplicada a los proyectos de Animaciones 3D, Juegos 
+y Entornos Interactivos.
+Debido a la importancia de que se alcancen los resultados de aprendizaje establecidos, 
+para su impartición es conveniente que se dediquen las actividades de enseñanza/
+aprendizaje a la adquisición de las competencias de dichas funciones en coordinación con 
+los módulos de «Diseño, dibujo y modelado para animación», «Proyectos de animación 
+audiovisual 2D y 3D», «Animación de elementos 2D y 3D» y «Realización de proyectos 
+multimedia interactivos» del presente ciclo, así como con otros módulos de otros ciclos 
+de la familia profesional que desarrollan las funciones de producción de audiovisuales, 
+realización de cine y vídeo, postproducción de vídeo y postproducción de audio.
+El presente módulo desarrolla las funciones de realización de proyectos de animación 
+2D, 3D y de audiovisuales multimedia interactivos, referidas al proceso de producciones 
+audiovisuales y en concreto al subproceso de producción de proyectos audiovisuales 
+multimedia.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+c) y d) del ciclo formativo y las competencias c) y d) del título.
+Asimismo, para conseguir que el alumnado adquiera la polivalencia necesaria en 
+este módulo, es conveniente que se trabajen las técnicas de películas de animación 
+2D y 3D, animaciones para publicidad y videojuegos, animaciones para la incrustación en 
+efectos especiales de películas de imagen real y retoque de películas, que están vinculadas 
+fundamentalmente a las actividades de enseñanza aprendizaje de:
+– 	 Texturización de modelos 3D.
+– 	 Pintado de imágenes 2D y 3D.
+– 	 Iluminación de personajes y escenarios en animación.
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48065
+Lunes, 3 de agosto de 2015
+Módulo profesional: Proyectos de juegos y entornos interactivos. 
+Equivalencia en créditos ECTS: 7
+Código: 1089
+Duración: 63 horas
+Contenidos:
+1. Determinación de objetivos, estilos gráficos, estilos narrativos, especificaciones y 
+requisitos del proyecto interactivo multimedia:
+– 	 Productos, estrategias y mercado de productos multimedia audiovisuales 
+interactivos:
+– 	 Nuevas áreas de negocio, empresas, productos y servicios.
+– 	 Aspectos interactivos como valor añadido a un producto de comunicación 
+nuevo o ya existente.
+– 	 Planificación estratégica: definición de objetivos, necesidades, audiencia 
+o público objetivo, aspectos conceptuales y funcionales. Definición del 
+diseño narrativo: tratamiento lineal, interactivo o mixto. Definición de las 
+características plásticas del estilo gráfico. Libros de estilo.
+– 	 Modelización de sistemas: herramientas, técnicas y procedimientos:
+– 	 Diagramación, niveles apropiados de detalle. Notación estándar y semántica 
+esencial para el modelado de sistemas (UML).
+– 	 Modelado de requisitos desde la perspectiva del usuario: actores, 
+descripción de escenarios y casos de uso.
+– 	 Modelado de las secuencias dinámicas de acción y relaciones: diagramas de 
+secuencias (paso de mensajes entre objetos) y colaboración (interacciones 
+entre objetos).
+– 	 Modelado del comportamiento dinámico de objetos o clases: diagramas de 
+estados (eventos, líneas de transición y acciones).
+– 	 Elementos de ayuda, sin valor semántico, empleados en los diagramas.
+– 	 Repositorios, reutilización de diagramas y documentación del diseño.
+– 	 Narrativa y comunicación interactiva:
+– 	 Arquitectura de la información, diseño de la interacción y la navegación.
+– 	 Creación de narrativas lineales e interactivas: estructura secuencial-
+determinada y modular.
+– 	 Programación de acontecimientos en desarrollos espacio-temporales.
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48066
+Lunes, 3 de agosto de 2015
+– 	 Análisis de situaciones. Realización de matrices heurísticas: lugares o 
+emplazamientos, movimientos y acontecimientos posibles y caracteres de 
+estos.
+– 	 Grados de simetría/asimetría en los procesos de comunicación interactiva 
+(nuevos dispositivos de entrada y salida, avances en inteligencia y visión 
+artificial, y reconocimiento de voz, entre otros). 
+– 	 Análisis de los diagramas y realización de sus secuencias dinámicas de 
+acción y relaciones.
+– 	 Definición de series de acontecimientos causales e interacciones de 
+agentes intencionales.
+– 	 Interactividad funcional e intencional.
+– 	 La interfaz de usuario (UI):
+– 	 Sistemas operativos e interfaces de usuario.
+– 	 Tipologías y generaciones de interfaces de usuario.
+– 	 Aspectos ergonómicos, psicológicos y cognitivos de las interfaces de 
+usuario.
+– 	 Signos visuales e interactivos.
+– 	 Consistencia de la interfaz gráfica de usuario (GUI): pistas inequívocas 
+e indicaciones intuitivas del funcionamiento, modelo conceptual, 
+realimentación (feedback) y correlación espacial entre los mandos 
+(controles) y sus efectos.
+– 	 Aspecto y tacto (look and feel) de la interfaz del usuario. Necesidades de 
+acomodación de aspectos gráficos y/o formales a la función.
+– 	 Requisitos ergonómicos, de usabilidad y accesibilidad:
+– 	 Diseño del diálogo entre las personas (usuarios/as) y los sistemas de 
+información.
+– 	 El diseño para todos: orientaciones, recomendaciones y normativas 
+aplicables.
+– 	 Técnicas y parámetros involucrados para la especificación de los requisitos 
+ergonómicos y la medición de la usabilidad y accesibilidad: contexto de 
+uso, procedimientos de evaluación, criterios de medida y validación.
+– 	 Especificaciones de los requisitos ergonómicos y pruebas de rendimiento 
+de los dispositivos de entrada y de señalización diferentes al teclado.
+– 	 La representación y la presentación de la información de manera visual.
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48067
+Lunes, 3 de agosto de 2015
+– 	 Guías para el usuario, autodescripciones, pantallas de ayuda, documentación 
+de soporte y sistemas – tolerantes a fallos – de gestión de errores.
+– 	 Diálogos por menús, por comandos, por acceso directo WYSIWYG y por 
+cumplimentación de formularios.
+– 	Normativas ISO-UNE y recomendaciones, directrices y técnicas del 
+W3C-WAI.
+2. Determinación de las arquitecturas tecnológicas de desarrollo y de destino de los 
+proyectos audiovisuales multimedia interactivos:
+– 	 Representaciones de la capacidad y funcionamiento del sistema:
+– 	 Modelado de la estructura estática del sistema: diagrama de clase.
+– 	 Modelado de los detalles concretos de la implementación del sistema: 
+diagramas de clase y componentes.
+– 	 Modelado de la distribución general del hardware necesario: diagramas de 
+implementación.
+– 	 Esquemas y modelos de bases de datos: diagramas entidad-relación.
+– 	 Arquitecturas, plataformas y entornos tecnológicos (hardware y software):
+– 	 De producción o desarrollo: requisitos técnicos y capacidades previstas.
+– 	 De destino o despliegue (usuario final o soporte del modelo de información): 
+requisitos de accesibilidad, compatibilidad e interoperabilidad.
+– 	 Comparación, en relación de las prestaciones, requisitos y capacidades, 
+entre las arquitecturas de desarrollo y despliegue.
+– 	 Arquitecturas, plataformas, soportes y medios de difusión de productos: 
+ordenadores, videoconsolas, teléfonos móviles, equipos de electrónica de 
+consumo, DVD, Internet, TV interactiva u otros sistemas de exhibición.
+– 	 Selección de equipos y herramientas de producción o desarrollo:
+– 	 Hardware y software de base.
+– 	 Herramientas de creación, edición, tratamiento y/o retoque de fuentes.
+– 	 Herramientas de integración y desarrollo.
+– 	 Elección del hardware y software necesario.
+– 	 Operación y seguridad del entorno de producción o desarrollo:
+– 	 Legislación sobre prevención de riesgos.
+– 	 El trabajo con pantallas de visualización de datos.
+– 	 Aspectos ambientales y eficiencia energética.
+– 	 Parámetros de organización y configuración del entorno tecnológico.
+– 	 Permisos de acceso a la información: controlado y discrecional.
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48068
+Lunes, 3 de agosto de 2015
+3. Planificación y realización del seguimiento de proyectos audiovisuales 
+multimedia:
+– 	 Grupos de trabajo, roles, actividades, funciones y competencias:
+– 	 Planificación, organización, ejecución y control.
+– 	 Recursos humanos, técnicos y materiales.
+– 	 Hitos, tareas y relaciones de dependencia.
+– 	 Estimación de la duración de las tareas con análisis hipotéticos.
+– 	 Aplicación de diagramas de Gantt y PERT.
+– 	 Algoritmo de cálculo de la ruta o camino crítico (CPM).
+– 	 Estimación de costes.
+– 	 Asignación de recursos, seguimiento de proyectos y actualización de 
+tareas.
+– 	 Conjugación de técnicas de planificación.
+– 	 Plan de acción para el desarrollo e implantación del modelo y la arquitectura 
+de información.
+– 	 Organización de la producción:
+– 	 Convencionalismos y sistemas de comunicación.
+– 	 Uso compartido de recursos.
+– 	 Protocolos e intercambio de información.
+– 	 Materiales, instalaciones y organización de recursos.
+4. Definición de un sistema de calidad y evaluación del proyecto audiovisual 
+multimedia interactivo:
+– 	 Pruebas, evaluación y validación de escenarios y especificaciones:
+– 	 Especificaciones de los equipos de análisis, diseño y realización.
+– 	 Evaluación de los contenidos, interacciones y secuenciales.
+– 	 Trabajo por procesos.
+– 	 Evaluación de la consistencia y compleción de las especificaciones y 
+estándares de documentación.
+– 	 Criterios de evaluación, listas de control y verificación.
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48069
+Lunes, 3 de agosto de 2015
+– 	 Evaluación técnica, tecnológica y competitiva de los procesos:
+– 	 Planes de seguimiento, calidad y mantenimiento.
+– 	 Procesos y procedimientos de los distintos planes.
+– 	 Indicadores de calidad para realizar la evaluación.
+– 	 Gestión de procesos, verificación y pruebas.
+– 	 Requerimientos y procesos.
+– 	 Procesos de desarrollo (en cascada o iterativos). Evaluación cíclica o 
+recursiva de procesos. Normativa internacional.
+– 	 Establecimiento y diseño de baterías de pruebas de evaluación del producto 
+audiovisual multimedia interactivo:
+– 	 Evaluación de la calidad del prototipo frente a las especificaciones.
+– 	 Pruebas de evaluación del rendimiento y compatibilidad.
+– 	 Pruebas de evaluación de la robustez (efectos de las interacciones).
+– 	 Pruebas de evaluación por el público objetivo y versión beta.
+5. Producción de animación y proyectos multimedia: Organización y catalogación de 
+contenidos, fuentes y módulos de información:
+– 	 Valoración de la consistencia, pertinencia y calidad de los contenidos y/o 
+fuentes:
+– 	 Unidad estilística (estética y narrativa).
+– 	 Requisitos de adaptación, edición o reelaboración.
+– 	 Formatos adecuados de archivo.
+– 	 Criterios de evaluación, listas de control y verificación.
+– 	 Determinación de los módulos de información del producto multimedia:
+– 	 Modalidad narrativa: lineal (secuencial y determinada) y/o interactiva.
+– 	 Fluidez de procesamiento, integridad informativa, tamaño, posición y 
+función en el producto.
+– 	 Grados de interactividad y control.
+– 	 Estructuración de módulos: embebidos, anidados y/o relacionados.
+– 	 Clasificación, reestructuración y organización de la información:
+– 	 Organización de la información, clasificación, catalogación e indización. 
+– 	 Herramientas de administración de medios digitales (DAM). Software para 
+producción.
+– 	 Reagrupamiento y reestructuración de la información.
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48070
+Lunes, 3 de agosto de 2015
+– 	 Metadatos: procesamiento y recuperación de información.
+– 	 Diagramación de los contenidos organizados.
+– 	 Estructuras topológicas y acceso a la información: redes y árboles.
+– 	 Estructura modular y flujo de la experiencia de usuario.
+– 	 Bocetos o maquetas de pantallas, niveles o diapositivas.
+– 	 Derechos de autor y propiedad intelectual:
+– 	 Mecanismos de protección y legislación vigente. Propiedad intelectual e 
+industrial. Programas originales y derivados.
+– 	 Browsing, downloading y uploading. Creación de dominios. 
+– 	 Contratos de cesión y compraventa de derechos. Package.
+– 	 Agencias de licitación de derechos.
+– 	 Formalización de roles o atribuciones en los créditos de los proyectos.
+– 	 Licencias del software y protección de los derechos de autor.
+– 	 Sistemas de almacenamiento, copias de seguridad y control de versiones: 
+integridad y disponibilidad de la información:
+– 	 Sistemas de respaldo y recuperación de datos.
+– 	 Tipos de backup: completo, incremental y diferencial.
+– 	 Integridad y disponibilidad de la versión adecuada de los productos.
+– 	 Sistemas de control de versiones: diferencias, estado y traza de 
+productos.
+– 	 Repositorios y copias de trabajo: resolución de conflictos.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional por su carácter como módulo soporte, tiene relación con 
+otros módulos profesionales del currículo ya que sirve de base y contiene la información 
+necesaria para realizar una parte fundamental del proceso de creación, diseño y producción 
+de cualquier trabajo de animación.
+Debido a la importancia de que se alcancen los resultados de aprendizaje establecidos, 
+para su impartición es conveniente que se dediquen las actividades de enseñanza/
+aprendizaje a la adquisición de las competencias de dichas funciones en coordinación 
+con los módulos de «Realización de proyectos multimedia interactivos», «Desarrollo de 
+entornos interactivos multidispositivo» de este ciclo, así como otros modelos de otros 
+ciclos de la familia profesional que desarrollan las funciones de organización y gestión de 
+la producción de audiovisuales.
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48071
+Lunes, 3 de agosto de 2015
+El presente módulo desarrolla las funciones correspondientes al diseño, planificación, 
+coordinación y seguimiento de la realización de proyectos audiovisuales multimedia 
+interactivos, respecto al proceso de producciones audiovisuales y en concreto del 
+subproceso de producción de proyectos de cine, video y multimedia.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+a), f), g), y o) del ciclo formativo, y las competencias a), f), g) y o) del título.
+Asimismo, para conseguir que el alumnado adquiera la polivalencia necesaria en este 
+módulo, es necesario que se trabajen las técnicas de planificación y diseño de productos 
+multimedia interactivos de diferentes tipos, tales como catálogos multimedia interactivos de 
+productos, productos multimedia de enseñanza y entretenimiento interactivos, videojuegos 
+y aplicaciones multimedia audiovisuales para dispositivos móviles, que están vinculadas 
+fundamentalmente a las actividades de enseñanza aprendizaje de:
+– 	 Determinación de arquitecturas tecnológicas y de módulos de información.
+– 	 Establecimiento de baterías de pruebas de evaluación de productos multimedia 
+interactivos.
+– 	 Elaboración de planes de trabajo de proyectos multimedia.
+– 	 Organización narrativa de los módulos de información del proyecto audiovisual 
+multimedia interactivo.
+La metodología aplicada en este módulo profesional debe favorecer experiencias 
+de aprendizaje fundamentadas en el conocimiento del proceso de desarrollo de este tipo 
+de trabajos, la terminología específica, la normativa de aplicación, el análisis, desarrollo y 
+resolución de supuestos prácticos sencillos, desde una visión del módulo participativa e 
+integradora. 
+El desarrollo de los contenidos se realizará de forma secuenciada teniendo en 
+cuenta el propio proceso de creación y producción, pudiendo organizarse la clase como 
+una empresa del sector, para abordar los contenidos desde supuestos prácticos. 
+Si bien las TIC son un instrumento fundamental para todo el ciclo formativo, no se 
+deben olvidar los aspectos legislativos, organizativos y de producción, fundamentales para 
+el desarrollo de un trabajo completo y un conocimiento exhaustivo del sector.
+Módulo profesional: Realización de proyectos multimedia interactivos.
+Equivalencia en créditos ECTS: 12
+Código: 1090
+Duración: 126 horas
+Contenidos básicos:
+1. Construcción de la interfaz principal de navegación y control:
+– 	 La estructura de productos multimedia interactivos:
+– 	 Interpretación de especificaciones y documentación del proyecto:
+– 	 Diseño en capas: interfaces, lógica de negocio y datos.
+– 	 Separación de la estructura, el contenido y la presentación.
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48072
+Lunes, 3 de agosto de 2015
+– 	 La interfaz de usuario de productos multimedia interactivos:
+– 	 Aplicación de criterios ergonómicos, de accesibilidad, usabilidad y diseño 
+para todos.
+– 	 Aspecto, funcionalidad y control de los elementos de la interfaz.
+– 	 Adecuación de la interfaz al usuario e internacionalización (i18n).
+– 	 Adecuación de la interfaz a distintos medios y dispositivos.
+– 	 Ventajas e inconvenientes de los elementos vectoriales y bitmap.
+– 	 Elementos de la interfaz: niveles de interacción requeridos.
+– 	 Jerarquías de componentes y generación de controles básicos: elementos de 
+navegación, elementos botón, botones radio, confirmación y otros. Menús, 
+barras de desplazamiento, paneles u otros. Controles de reproducción.
+– 	 Manejo de eventos y actualización de los estados de los diferentes 
+elementos de la interfaz.
+– 	 Información de operación y realimentación (feedback): sonidos, efectos, 
+cambios de cursor, barras de progreso u otras.
+– 	 Percepción de la profundidad y sombreado (umbroindicadores).
+– 	 Experiencia de usuario: eventos simultáneos en pantallas táctiles, 
+animaciones, transiciones y efectos elaborados.
+– 	 Evaluación y validación de la interfaz de usuario.
+2. Generación y adaptación de módulos de información multimedia:
+– 	 Creación, adaptación, edición o reelaboración de fuentes:
+– 	 Interpretación de los requisitos de creación, adaptación, edición o 
+reelaboración de las fuentes.
+– 	 Tipos de fuentes: textos, gráficos, imágenes fijas (ilustración y fotografía) 
+y en movimiento (vídeo y animación) y sonido (locuciones, efectos y 
+música).
+– 	 Requisitos de accesibilidad e internacionalización (i18n).
+– 	 Técnicas y equipamiento de captura y digitalización de fuentes: señal 
+analógica y digital, conversión, captura, tratamiento y transmisión de la 
+señal, digitalización de sonido (locuciones, efectos y música), parámetros 
+de digitalización, calidad y tamaño de archivo, frecuencia de muestreo, 
+resolución (profundidad en bits), número de canales y duración del 
+sonido.
+– 	 Técnicas y herramientas de edición, tratamiento y retoque. Ediciones 
+básicas de archivos sonoros: modificación de la onda, fundidos, atenuación 
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48073
+Lunes, 3 de agosto de 2015
+progresiva, inversión de onda. Creación de espacios sonoros y sonido 
+envolvente. Sonido de síntesis, formato de forma de onda y MIDI.Reajuste 
+de imágenes fijas (vectoriales y de mapa de bits). Reajuste de la profundidad 
+de color (paletas adaptadas). Vectorización de imágenes de mapa de bits. 
+Reajuste de imágenes en movimiento (vídeo y animación).
+– 	 Técnicas y herramientas para el trabajo con texto: reconocimiento óptico de 
+caracteres (OCR). Legibilidad, cantidad, tamaño y adecuación al usuario.
+Requisitos de accesibilidad e internacionalización (i18n). Formatos de 
+texto para subtitulado electrónico. Compatibilidad e intercambio de fuentes 
+entre plataformas. Codificación ASCII, ANSI, Unicode y UTF-8, entre otras. 
+Ajustes de las características del texto: hojas de estilo, kerning, interlineado, 
+alineación, maquetación y tipografía, entre otros. Texto estático y texto 
+dinámico.
+– 	 Técnicas y herramientas de optimización del rendimiento. Formatos 
+adecuados de archivo. Herramientas de conversión de formatos. Calidad y 
+tamaño de archivo. Formatos de compresión. Compresión con pérdida y sin 
+pérdida de calidad. Técnicas especiales de optimización de la visualización: 
+tramado de difusión dithering y suavizado antialiasing.Optimización de 
+secuencias de audio y vídeo streaming.
+– 	 Evaluación y validación de las fuentes optimizadas.
+– 	 Integración de fuentes en módulos de información multimedia:
+– 	 Interpretación de la documentación del proyecto acerca de los módulos de 
+información necesarios.
+– 	 Establecimiento de su modalidad narrativa (lineal o interactiva).
+– 	 Ajuste de fuentes para su integración en módulos de información.
+– 	 Adecuación al estilo narrativo y gráfico definido en el proyecto.
+– 	 Evaluación y validación de los módulos de información.
+3. Catalogación de las fuentes y módulos de información multimedia:
+– 	 Técnicas y herramientas de administración de medios digitales (DAM):
+– 	 Interpretación de los criterios de organización y catalogación.
+– 	 Operaciones de búsqueda y filtrado.
+– 	 Operaciones de procesamiento por lotes.
+– 	 Etiquetado y documentación de fuentes multimedia.
+– 	 Edición de metadatos e información sobre derechos de autor.
+– 	 Operaciones de archivo y catalogación.
+– 	 Organización de librerías de medios y recursos digitales.
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48074
+Lunes, 3 de agosto de 2015
+– 	 Comunicación entre aplicaciones para la gestión de medios en formatos 
+nativos.
+– 	 Sistemas de almacenamiento y copias de seguridad:
+– 	 Interpretación de los protocolos de operación y seguridad.
+– 	 Empleo de sistemas de respaldo y recuperación de datos.
+– 	 Realización y verificación de copias de seguridad.
+– 	 Automatización de backups: completo, incremental y diferencial.
+– 	 Restauración de copias de seguridad.
+– 	 Mantenimiento y control de versiones de fuentes y productos:
+– 	 Interpretación de los protocolos de mantenimiento y actualización.
+– 	 Mantenimiento de versiones de fuentes en alta calidad.
+– 	 Mantenimiento de versiones de fuentes en calidad optimizada.
+– 	 Empleo de sistemas de control de versiones.
+– 	 Repositorios y copias de trabajo.
+– 	 Modificación concurrente de ficheros.
+– 	 Comparación de diferencias, estado y traza de productos.
+– 	 Actualización de cambios, detección y resolución de conflictos.
+– 	 Informes de cambios, versiones y revisiones.
+– 	 Restauración de versiones.
+– 	 Organización de las fuentes y productos según la arquitectura tecnológica, 
+soporte de difusión y destino de publicación.
+4. Generación de los elementos interactivos de un proyecto multimedia:
+– 	 Generación de los diferentes estados de los elementos interactivos:
+– 	 Interpretación de los requisitos funcionales del sistema.
+– 	 Interpretación de los diagramas de secuencias dinámicas de acción, 
+relaciones y estados definidos en el proyecto.
+– 	 Algoritmos y seudocódigo.
+– 	 Introducción del código o los comportamientos preestablecidos.
+– 	 Depuración y documentación del código fuente.
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48075
+Lunes, 3 de agosto de 2015
+– 	 Elaboración de formularios, campos de entrada de datos, listas desplegables y 
+selectores:
+– 	 Interpretación de los requisitos del diálogo por menús, por comandos, por 
+acceso directo y por cumplimentación de formularios.
+– 	 Creación de formularios con lógica condicional y envío de datos.
+– 	 Adición de los campos de entrada de datos.
+– 	 Introducción de la lógica condicional para el botón Enviar.
+– 	 Adición de mensajes de error y confirmación.
+– 	 Carga de datos externos en campos de texto dinámicos.
+– 	 Introducción del código o los comportamientos preestablecidos.
+– 	 Depuración y documentación del código fuente.
+– 	 Generación de gráficos dinámicos interactivos:
+– 	 Interpretación de los diagramas de secuencias dinámicas.
+– 	 Modos de mezcla, efectos y animaciones en tiempo de ejecución.
+– 	 Tipo, cantidad y calidad de los efectos dinámicos y rendimiento.
+– 	 Evaluación de las interacciones de cada pantalla, página o nivel.
+5. Generación y sincronización de las secuencias de módulos de información:
+– 	 Generación de animaciones con las herramientas de autor:
+– 	 Interpretación de los diagramas de secuencias dinámicas de acción, 
+relaciones y estados definidos en el proyecto.
+– 	 Generación de las secuencias con herramientas de autor.
+– 	 Líneas de tiempo. Fotogramas clave. Guías de movimiento. Bucles. 
+Interpolaciones. Combinación de animaciones.
+– 	 Manejo de eventos y actualización de los estados:
+– 	 Eventos temporales e independientes de la acción del usuario.
+– 	 Ajuste de parámetros temporales de fuentes y módulos de información.
+– 	 Introducción del código o los comportamientos preestablecidos.
+– 	 Variación de las secuencias, ritmo o velocidad:
+– 	 Velocidad de reproducción: curvas de aceleración/desaceleración.
+– 	 Transiciones entre pantallas, niveles, páginas o diapositivas.
+– 	 Secuenciación y sincronización de módulos de información.
+– 	 Introducción del código o los comportamientos preestablecidos.
+– 	 Evaluación de las secuencias de cada pantalla, página o nivel.
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48076
+Lunes, 3 de agosto de 2015
+Orientaciones pedagógicas y metodológicas.
+El presente módulo da respuesta a una serie de funciones que conforman el perfil 
+profesional del título.
+Debido a la importancia de que se alcancen los resultados de aprendizaje 
+establecidos, para su impartición es conveniente que se dediquen las actividades de 
+enseñanza/aprendizaje a la adquisición de las competencias de dichas funciones en 
+coordinación con los módulos de «Proyectos de juegos y entornos interactivos», «Desarrollo 
+de entornos interactivos multidispositivo» y «Realización del montaje y postproducción de 
+audiovisuales», del presente ciclo, así como con otros módulos de otros ciclos de la familia 
+profesional que desarrollan las funciones de producción de audiovisuales, realización de 
+audiovisuales y postproducción de sonido en audiovisuales.
+El presente módulo desarrolla las funciones de realización de proyectos audiovisuales 
+multimedia interactivos, referidas al proceso de producciones audiovisuales y en concreto 
+al subproceso de producción de proyectos audiovisuales multimedia.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+g), h), y o) del ciclo formativo, y las competencias g), h), i) y o) del título.
+Asimismo, para conseguir que el alumnado adquiera la polivalencia necesaria en 
+este módulo es conveniente que se trabajen las técnicas de realización de proyectos 
+multimedia interactivos, de diferentes tipos, tales como catálogos multimedia interactivos de 
+productos, productos multimedia de enseñanza y entretenimiento interactivos, videojuegos 
+y aplicaciones multimedia audiovisuales para dispositivos móviles, que están vinculadas 
+fundamentalmente a las actividades de enseñanza aprendizaje de:
+– 	 Elaboración de las interfaces de navegación de productos multimedia 
+interactivos.
+– 	 Elaboración y sincronización de las secuencias de módulos de información de 
+productos multimedia interactivos.
+– 	 Realización de la interactividad y transiciones de productos audiovisuales 
+multimedia.
+Módulo profesional: Desarrollo de entornos interactivos multidispositivo.
+Equivalencia en créditos ECTS: 11
+Código: 1091
+Duración: 189 horas
+Contenidos:
+1. Generación de aplicaciones para proyectos multimedia interactivos:
+– 	 Desarrollo de aplicaciones multimedia:
+– 	 Idoneidad y uso de los distintos lenguajes de programación empleados 
+en el desarrollo de aplicaciones multimedia y videojuegos: lenguajes de 
+autor, de scripting y de propósito general, lenguajes de alto y bajo nivel de 
+abstracción, lenguajes compilados e interpretados y lenguajes estructurados 
+y orientados a objeto.
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48077
+Lunes, 3 de agosto de 2015
+– 	 Herramientas de autor y entornos integrados de desarrollo (IDE): edición 
+del código, compilación (preproceso) y enlazado, editor integrado y código 
+fuente, notación y sintaxis de los lenguajes de programación, comentarios 
+y documentación del código, optimización, depuración y corrección de 
+errores: sintácticos y lógicos. Depurador de código: mensajes de error y 
+advertencia, puntos de corte, observación de variables y propiedades.
+– 	 Programación de aplicaciones para multimedia:
+– 	 Utilización de programación estructurada o procedimental. Anatomía de 
+un programa: cabecera y cuerpo, directivas de preprocesador y funciones, 
+y función principal (main). Implementación de algoritmos, funciones o 
+procedimientos. Declaración, definición y uso de funciones. Llamadas a 
+funciones, argumentos y valor de retorno.
+– 	 Utilización de programación orientada a eventos (eventos y mensajes).
+– 	 Reutilización de código: librerías de funciones, componentes de software 
+(módulos autocontenidos) y comportamientos.
+– 	 Mecanismos, representación (tipos y estructuras) de datos y operadores.
+– 	 Empleo de componentes y creación de la interfaz de usuario:
+– 	 Interfaces de programación de aplicaciones (API).
+– 	 Componentes reutilizables con funcionalidad preempaquetada.
+– 	 Componentes para almacenamiento y administración de datos.
+– 	 Componentes de interfaz de usuario: botones y menús, entre otros.
+– 	 Implementación de interfaces independientes de la plataforma.
+– 	 Vinculación de datos a componentes de la interfaz.
+– 	 Personalización y reutilización de componentes.
+2. Implementación de proyectos multimedia multidispositivo:
+– 	 Programación orientada a objetos (OOP):
+– 	 Interfaces, clases, objetos, métodos y propiedades.
+– 	 El método principal (main). Implementación de objetos.
+– 	 El código (o comportamiento) y los datos (o propiedades).
+– 	 Envío de mensajes a métodos.
+– 	 Desarrollo de proyectos multimedia para plataformas multidispositivo:
+– 	 Desarrollo de aplicaciones multidispositivo.
+– 	 Características físicas de los dispositivos utilizados en aplicaciones 
+multimedia interactivas.
+– 	 Diseño de elementos multimedia según características de los ordenadores 
+personales, dispositivos móviles, superficies táctiles y videoconsolas.
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48078
+Lunes, 3 de agosto de 2015
+– 	 Características de software de los dispositivos utilizados en aplicaciones 
+multimedia interactivas.
+– 	 Diseño en capas de aplicaciones interactivas.
+3. Desarrollo de aplicaciones interactivas de entretenimiento:
+– 	 Sistemas interactivos de entretenimiento:
+– 	 Plataformas y arquitecturas para sistemas interactivos de entretenimiento 
+(videoconsolas, ordenadores personales y dispositivos móviles).
+– 	 Diseño y publicación de un sistema multimedia de entretenimiento.
+– 	 Sistemas interactivos aplicados a la formación virtual.
+– 	 Aplicaciones interactivas de entretenimiento aplicadas a espacios y eventos 
+culturales.
+– 	 Productos audiovisuales multimedia interactivos culturales. Serious 
+games.
+– 	 Exposiciones interactivas.
+– 	 Eventos y contenidos personalizados.
+– 	 Desarrollo de juegos educativos.
+– 	 Televisión interactiva. Tecnologías y niveles de interactividad.
+– 	 Creación de videojuegos:
+– 	 Creación de videojuegos. Motores.
+– 	 Programa principal de videojuego (estados y bucle principal).
+– 	 Gestión de datos de un videojuego. Objetos y acciones.
+– 	 Lenguajes de scripting (lenguajes y usos).
+– 	 Programación gráfica 3D: accesorios y ambientación, control de iluminación 
+y control de texturas.
+4. Implementación de proyectos multimedia interactivos con comunicación con 
+dispositivos físicos externos:
+– 	 Elementos de hardware para la interacción:
+– 	 Sistemas de interacción.
+– 	 Hardware para la captación de información e interacción.
+– 	 Eventos y comunicaciones bidireccionales con dispositivos externos. 
+Sensores, pulsadores y motores, entre otros.
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48079
+Lunes, 3 de agosto de 2015
+– 	 Dispositivos y superficies multitouch para proyectos interactivos.
+– 	 Gestión de sistemas de captación de vídeo. Videocámaras.
+– 	 Programación de aplicaciones basadas en gestión de imagen en tiempo 
+real.
+– 	 Integración de mundos virtuales y realidad. Proyectos de realidad 
+aumentada.
+– 	 Intercambio de información entre dispositivos:
+– 	 Acceso a la información desde dispositivos móviles.
+– 	 Programación de aplicaciones basadas en sistemas GPS: monitorización 
+de información del GPS y geoposicionamiento de contenidos.
+– 	 Codificación de accesos directos: códigos de barras y códigos QR, entre 
+otros.
+– 	 Comunicaciones inalámbricas entre dispositivos con tecnología bluetooth.
+– 	 Comunicaciones inalámbricas entre dispositivos con tecnología de 
+infrarrojos.
+– 	 Comunicaciones inalámbricas entre dispositivos con redes wifi.
+5. Implementación de entornos de simulación y prueba:
+– 	 Simulación de entornos multidispositivo:
+– 	 Simuladores.
+– 	 Establecimiento y gestión de puntos de control.
+– 	 Monitorización de recursos.
+– 	 Entornos de simulación basados en virtualización:
+– 	 Uso de la virtualización para la creación de entornos de prueba.
+– 	 Creación e instalación de máquinas virtuales. Software.
+– 	 Backup y recuperación de máquinas virtuales.
+– 	 Migración de máquinas virtuales.
+– 	 Verificación y validación de instalaciones multimedia interactivas:
+– 	 Categorías, verificación y validación.
+– 	 Procesos de verificación y validación. Herramientas de control: métodos y 
+técnicas de verificación, y métodos y técnicas de validación.
+– 	 Protección de seguridad del proyecto acabado: creación de sistemas de 
+registro y utilización de sistemas anticopia.
+– 	 Entornos de simulación de diseño para todos.
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48080
+Lunes, 3 de agosto de 2015
+Orientaciones pedagógicas y metodológicas.
+El presente módulo da respuesta a una serie de funciones que conforman el perfil 
+profesional del título.
+Debido a la importancia de que se alcancen los resultados de aprendizaje establecidos, 
+para su impartición es conveniente que se dediquen las actividades de enseñanza/
+aprendizaje a la adquisición de las competencias de dichas funciones en coordinación con 
+los módulos de «Proyectos de juegos y entornos interactivos», «Realización multimedia», y 
+«Realización del montaje y postproducción de audiovisuales», del presente ciclo, así como 
+con otros módulos de otros ciclos de la familia profesional que desarrollan las funciones 
+de producción de audiovisuales, realización de audiovisuales y postproducción de sonido 
+en audiovisuales.
+El presente módulo desarrolla las funciones de desarrollo de entornos interactivos 
+multidispositivo, referidas al proceso de producciones audiovisuales y en concreto al 
+subproceso de producción de proyectos audiovisuales multimedia.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+g), h), i) y o) del ciclo formativo, y las competencias g), h), i) y o) del título.
+Asimismo, para conseguir que el alumnado adquiera la polivalencia necesaria en este 
+módulo, es conveniente que se trabajen las técnicas de desarrollo de entornos interactivos 
+multidispositivo, de diferentes tipos, tales como catálogos multimedia interactivos de 
+productos, productos multimedia de enseñanza y entretenimiento interactivos, videojuegos 
+y aplicaciones multimedia audiovisuales para dispositivos móviles, que están vinculadas 
+fundamentalmente a las actividades de enseñanza aprendizaje de:
+– 	 Generación de aplicaciones de proyectos de juegos y entornos interactivos hasta 
+su compilación final.
+– 	 Implementación de proyectos multimedia multidispositivo.
+– 	 Desarrollo de aplicaciones interactivas de entretenimiento.
+– 	 Implementación de entornos de simulación y pruebas, para la revisión y verificación 
+de las aplicaciones.
+Módulo profesional: Realización del montaje y postproducción de audiovisuales. 
+Equivalencia en créditos ECTS: 9
+Código: 0907
+Duración: 189 horas 
+Contenidos:
+1. Configuración y mantenimiento del equipamiento de edición y postproducción:
+– 	 Procedimientos de configuración y optimización de las salas de edición/
+postproducción:
+– 	 Definición y supervisión del equipamiento técnico de la sala.
+– 	 Selección de los dispositivos de registro y reproducción de vídeo.
+– 	 Determinación del flujo de trabajo.
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48081
+Lunes, 3 de agosto de 2015
+– 	 Procedimientos de configuración y optimización de salas de toma y postproducción 
+de audio para cine, vídeo y televisión:
+– 	 Enrutamiento de señales en el equipo de edición.
+– 	 Técnicas de operación de la mesa de sonido analógica y digital.
+– 	 Selección de los dispositivos de captación.
+– 	 Mantenimiento de equipos de montaje y postproducción:
+– 	 Fallos y averías en los equipos: métodos de detección y acciones 
+correctivas.
+– 	 Operaciones de mantenimiento preventivo.
+2. Realización del montaje y postproducción de productos audiovisuales:
+– 	 Operación de sistemas de montaje audiovisual:
+– 	 Edición no lineal.
+– 	 Edición virtual con dispositivos de grabación y reproducción simultánea en 
+soportes de almacenamiento de acceso aleatorio.
+– 	 Edición offline. La EDL.
+– 	 El proceso de montaje:
+– 	 Recopilación de medios.
+– 	 Identificación, selección y ordenación de materiales.
+– 	 Homogeneización de formatos y relación de aspecto.
+– 	 Montaje en la línea de tiempo.
+– 	 El ajuste fino en la línea de tiempo.
+– 	 Construcción de la banda sonora.
+– 	 Sincronización de vídeo y audio.
+– 	 Opciones de salida para el montaje finalizado.
+– 	 Aplicación de las teorías y técnicas del montaje audiovisual en la resolución de 
+programas.
+– 	 Procedimientos de evaluación del montaje.
+3. Generación e introducción de efectos de imagen en el proceso de montaje y 
+postproducción:
+– 	 Dispositivos para la generación de efectos vídeo:
+– 	 Programación de efectos.
+– 	 Memoria de ajustes y parámetros.
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48082
+Lunes, 3 de agosto de 2015
+– 	 Sistemas y plataformas de postproducción de imagen:
+– 	 Herramientas de composición.
+– 	 Herramientas de retoque.
+– 	 Herramientas de corrección de color.
+– 	 Técnicas y procedimientos de composición multicapa:
+– 	 Organización del proyecto y flujo de trabajo.
+– 	 Gestión de capas.
+– 	 Creación de máscaras.
+– 	 Animación. Interpolación. Trayectorias.
+– 	 Procedimientos de aplicación de efectos:
+– 	 Efectos de key. Superposición e incrustación.
+– 	 Corrección de color y efectos de imagen.
+– 	 Retoque de imagen en vídeo.
+– 	 Efectos de movimiento.
+– 	 Efectos de seguimiento.
+– 	 Planificación de la grabación para efectos de seguimiento.
+– 	 Técnicas de creación de gráficos y rotulación:
+– 	 Herramientas de rotulación.
+– 	 Composición de gráficos y titulación.
+– 	 Técnicas de diseño gráfico.
+– 	 Documentación de aplicación a las operaciones de montaje y posproducción.
+4. Preparación de los materiales destinados al intercambio con otras plataformas y 
+empresas externas:
+– 	 Catálogos de servicios de las empresas de servicios a la posproducción.
+– 	 Servicios de laboratorio cinematográfico:
+– 	 Puesta a disposición del laboratorio de los medios.
+– 	 Productos de entrada y salida.
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48083
+Lunes, 3 de agosto de 2015
+– 	 Documentos de intercambio:
+– 	 Órdenes de trabajo.
+– 	 Documentos de especificaciones técnicas.
+– 	 Sistemas y protocolos de intercambio de material:
+– 	 Documentos gráficos e infografía.
+– 	 Animaciones 2D y 3D.
+– 	 Intercambios de materiales fotosensibles.
+– 	 Intercambios internacionales: audio, subtítulos y rotulaciones.
+– 	 Técnicas de clasificación, identificación y almacenamiento de medios:
+– 	 Servicios de documentación audiovisual.
+– 	 Sistemas de archivo.
+– 	 Descriptores para identificación de medios.
+– 	 Soportes y formatos de intercambio entre plataformas.
+– 	 Soportes y formatos de intercambio para postproducción de sonido. 
+5. Procesos de acabado en la postproducción del producto audiovisual:
+– 	 Procesos finales de montaje y sonorización.
+– 	 Técnicas, procedimientos y flujos de trabajo en el acabado del producto: 
+estabilización de imágenes, etalonaje y corrección de color y sistemas de 
+monitorización.
+– 	 Técnicas y flujos de trabajo en la edición off–line: conformado y cortado de 
+negativo.
+– 	 Control de calidad del producto:
+– 	 Distribución de pistas sonoras en los soportes videográficos y 
+cinematográficos.
+– 	 La banda internacional.
+– 	 Normas PPD (Preparado para difusión o emisión).
+– 	 Normativas técnicas aplicadas a la imagen y el sonido.
+– 	 Balance final técnico de la postproducción: criterios de valoración.
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48084
+Lunes, 3 de agosto de 2015
+– 	 El control de calidad en el montaje, edición y postproducción:
+– 	 Protección, clasificación y documentación del producto generado.
+– 	 Sistemas y protocolos de intercambio de material.
+– 	 Técnicas de clasificación de los materiales.
+– 	 Sistemas de archivo y documentación.
+6. Adecuación de las características del máster a los distintos formatos y tecnologías 
+empleadas:
+– 	 Condicionamientos técnicos de las distintas ventanas de explotación de productos 
+audiovisuales.
+– 	 Difusión de productos audiovisuales a través de operadores de televisión.
+– 	 La distribución comercial: descarga de contenidos y copias con soporte físico.
+– 	 Formatos para proyección en salas cinematográficas:
+– 	 Proyección de contenidos online.
+– 	 Sistemas de sonido para exhibición.
+– 	 Ubicación de las pistas de sonido en la copia estándar.
+– 	 Proceso de obtención del máster y copias de explotación:
+– 	 Para exhibición cinematográfica.
+– 	 Para emisión televisiva.
+– 	 Para distribución en soportes ópticos (DVD y blu-ray).
+– 	 Para sistemas de distribución online.
+– 	 Sistemas de autoría DVD y blu–ray:
+– 	 Diseño de autorías.
+– 	 Generación de copias de visionado.
+– 	 Generación de copias de seguridad y duplicación de vídeo.
+– 	 Presentación del producto.
+– 	 Clasificación y archivo de medios, documentos y datos generados en el proceso 
+de montaje/postproducción.
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48085
+Lunes, 3 de agosto de 2015
+Orientaciones pedagógicas y metodológicas.
+El presente módulo da respuesta a una serie de funciones que conforman el perfil 
+profesional del título.
+El presente módulo desarrolla las funciones de edición y postproducción del proyecto 
+de imagen en movimiento y de realización de procesos finales de montaje y postproducción, 
+correspondientes al procesamiento, montaje/edición y postproducción de imágenes, referidas 
+todas ellas al proceso de producciones audiovisuales y en concreto a los subprocesos de 
+producción de proyectos de cine, vídeo, animación, multimedia interactivo y televisión.
+Para poder conseguir los objetivos y competencias necesarias se recomienda 
+establecer desdobles en el grupo, de modo que se pueda garantizar la calidad de la 
+enseñanza.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+d), e), h), j) y n) del ciclo formativo, y las competencias d), e), h), j) y n) del título.
+Asimismo, para conseguir que el alumnado adquiera la polivalencia necesaria en 
+este módulo, es conveniente que se trabajen las técnicas de montaje y postproducción 
+de proyectos cine, vídeo, animación, multimedia, new media y televisión de diferentes 
+tipos, tales como spots publicitarios, vídeo–clips, animación, multimedia, documentales y 
+dramáticos. 
+Las líneas de actuación en el proceso de enseñanza aprendizaje que permiten 
+alcanzar los objetivos del módulo versarán sobre:
+– 	 Montajes de proyectos audiovisuales operando distintos sistemas y plataformas 
+de montaje y postproducción.
+– 	 Procesos de acabado de postproducción de proyectos audiovisuales.
+– 	 Procesos de pasterización de proyectos audiovisuales.
+Módulo profesional: Proyecto de animaciones 3D, juegos y entornos interactivos.
+Equivalencia en créditos ECTS: 5
+Código: 1093
+Duración: 30 horas
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional complementa la formación establecida para el resto de los 
+módulos profesionales que integran el título en las funciones de análisis del contexto, 
+diseño del proyecto y organización de la ejecución.
+La función de análisis del contexto incluye las subfunciones de recopilación de 
+información, identificación de necesidades y estudio de viabilidad.
+La función de diseño del proyecto tiene como objetivo establecer las líneas generales 
+para dar respuesta a las necesidades planteadas, concretando los aspectos relevantes 
+para su realización. Incluye las subfunciones de definición del proyecto, planificación de la 
+intervención y elaboración de la documentación.
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48086
+Lunes, 3 de agosto de 2015
+La función de organización de la ejecución incluye las subfunciones de programación 
+de actividades, gestión de recursos y supervisión de la intervención.
+Las actividades profesionales asociadas a estas funciones se desarrollan en los 
+sectores de la animación 2D y 3D y la producción multimedia.
+La formación del módulo profesional se relaciona con la totalidad de los objetivos 
+generales del ciclo y las competencias profesionales, personales y sociales del título.
+La metodología aplicada en este módulo profesional debe favorecer experiencias de 
+aprendizaje fundamentadas en el conocimiento de las técnicas de análisis, investigación, 
+búsqueda y recopilación de información, búsqueda de recursos bibliográficos, planificación 
+del proyecto, matriz del proyecto, diseño del proyecto, viabilidad y oportunidad del proyecto, 
+conclusiones y aportaciones personales al proyecto, manejo de normativa aplicable, 
+desarrollo del proyecto y utilización de software específico en la redacción del documento 
+final.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional están relacionadas con:
+– 	 La responsabilidad y la autoevaluación del trabajo realizado.
+– 	 La autonomía y la iniciativa personal.
+– 	 El uso de las tecnologías de la información y de la comunicación.
+El proyecto será realizado por el alumnado, de forma individual, preferentemente 
+durante el tercer trimestre del segundo curso. El alumnado será tutorizado por un profesor, 
+que imparta docencia en segundo curso del ciclo formativo, de las especialidades de 
+«Técnicas y Procedimientos de Imagen y Sonido» o «Procesos y Medios de Comunicación», 
+de acuerdo con lo establecido en el Anexo III A) del Real Decreto 1583/2011, de 4 de 
+noviembre. No obstante, dado que los resultados de aprendizaje y criterios de evaluación 
+de este módulo profesional complementan los del resto de los módulos profesionales y 
+tiene un carácter integrador de todos los módulos profesionales del ciclo, sería conveniente 
+la colaboración de todos los profesores con atribución docente en el ciclo formativo.
+Módulo profesional: Formación y orientación laboral.
+Equivalencia en créditos ECTS: 5
+Código: 1094
+Duración: 96 horas 
+Contenidos:
+BLOQUE A: Formación, Legislación y Relaciones Laborales. 
+Duración: 46 horas
+1. Búsqueda activa de empleo:
+– 	 Valoración de la importancia de la formación permanente para la trayectoria 
+laboral y profesional del Técnico Superior en Animaciones 3D, Juegos y Entornos 
+Interactivos.
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48087
+Lunes, 3 de agosto de 2015
+– 	 Análisis de los intereses, aptitudes y motivaciones personales para la carrera 
+profesional.
+– 	 Identificación de los itinerarios formativos relacionados con el Técnico Superior 
+en Animaciones 3D, Juegos y Entornos Interactivos.
+– 	 Definición y análisis del sector profesional del título de Técnico Superior en 
+Animaciones 3D, Juegos y Entornos Interactivos. Yacimientos de empleo.
+– 	 Proceso de búsqueda de empleo en pequeñas, medianas y grandes empresas 
+del sector.
+– 	 Oportunidades de aprendizaje y empleo en Europa. Programas europeos.
+– 	 Valoración de la empleabilidad y adaptación como factores clave para responder 
+a las exigencias del mercado laboral.
+– 	 Técnicas e instrumentos de búsqueda de empleo. Fuentes de información. El 
+proceso de selección.
+– 	 Oportunidades de autoempleo.
+– 	 El proceso de toma de decisiones.
+– 	 La igualdad de oportunidades en el acceso al empleo.
+2. Gestión del conflicto y equipos de trabajo:
+– 	 Valoración de las ventajas e inconvenientes del trabajo de equipo para la eficacia 
+de la organización.
+– 	 Equipos en el sector de la animación y multimedia, según las funciones que 
+desempeñan.
+– 	 La participación en el equipo de trabajo. Los roles grupales. Barreras a la 
+participación en el equipo.
+– 	 Técnicas de participación y dinámica de grupos.
+– 	 Conflicto: características, fuentes y etapas.
+– 	 Métodos para la resolución o supresión del conflicto: mediación, conciliación y 
+arbitraje.
+– 	 La comunicación en la empresa. El lenguaje asertivo. La toma de decisiones y la 
+negociación como habilidades sociales para el trabajo en equipo.
+– 	 El mobbing. Detección, métodos para su prevención y erradicación.
+3. Contrato de trabajo:
+– 	 La organización política del Estado Español. Organismos laborales existentes en 
+España.
+– 	 El derecho del trabajo. Normas fundamentales.
+– 	 Órganos de la administración y jurisdicción laboral.
+– 	 Análisis de la relación laboral individual.
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48088
+Lunes, 3 de agosto de 2015
+– 	 Modalidades del contrato de trabajo y medidas de fomento de la contratación.
+– 	 Derechos y deberes derivados de la relación laboral. El tiempo de trabajo. Análisis 
+del recibo de salarios. Liquidación de haberes.
+– 	 Modificación, suspensión y extinción del contrato de trabajo.
+– 	 Valoración de las medidas para la conciliación familiar y profesional.
+– 	 Representación de los trabajadores en la empresa.
+– 	 Negociación colectiva como medio para la conciliación de los intereses de los 
+trabajadores y empresarios.
+– 	  Medidas de conflicto colectivo. Procedimientos de solución.
+– 	 Análisis de un convenio colectivo aplicable al ámbito profesional del Técnico 
+Superior en Animaciones 3D, Juegos y Entornos Interactivos.
+– 	 Beneficios para los trabajadores en las nuevas organizaciones: flexibilidad y 
+beneficios sociales, entre otros.
+4. Seguridad Social, empleo y desempleo:
+– 	 La Seguridad Social como pilar del Estado Social de Derecho.
+– 	 Estructura del Sistema de la Seguridad Social. Regímenes.
+– 	 Determinación de las principales obligaciones de empresarios y trabajadores 
+en materias de Seguridad Social: afiliación, altas, bajas y cotización. Cálculo 
+de bases de cotización a la Seguridad Social y determinación de cuotas en un 
+supuesto sencillo.
+– 	 Prestaciones de la Seguridad Social. Situaciones protegibles por desempleo. 
+Cálculo de una prestación por desempleo de nivel contributivo básico.
+BLOQUE B: Prevención de Riesgos Laborales.
+Duración: 50 horas
+5. Evaluación de riesgos profesionales:
+– 	 Importancia de la cultura preventiva en todas las fases de la actividad. 
+Sensibilización, a través de las estadísticas de siniestralidad nacional y en Castilla 
+y León, de la necesidad de hábitos y actuaciones seguras.
+– 	 Valoración de la relación entre trabajo y salud.
+– 	 El riesgo profesional. Mapa de riesgos. Análisis de factores de riesgo.
+– 	 Análisis de riesgos ligados a las condiciones de seguridad.
+– 	 Análisis de riesgos ligados a las condiciones ambientales. Agentes físicos, 
+químicos y biológicos.
+– 	 Análisis de riesgos ligados a las condiciones ergonómicas y psicosociales.
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48089
+Lunes, 3 de agosto de 2015
+– 	 Riesgos específicos en el sector de la animación multimedia.
+– 	 La evaluación de riesgos en la empresa como elemento básico de la actividad 
+preventiva.
+– 	 Técnicas de evaluación de riesgos.
+– 	 Condiciones de seguridad y salud en los lugares de trabajo. 
+– 	 Determinación de los posibles daños a la salud del trabajador que pueden 
+derivarse de las situaciones de riesgo detectadas. 
+– 	 Los accidentes de trabajo, las enfermedades profesionales y otras patologías.
+6. Planificación de la prevención de riesgos en la empresa. Prevención integrada:
+– 	 Marco jurídico en materia de prevención de riesgos laborales.
+	
+Derechos y deberes en materia de prevención de riesgos laborales. 
+Responsabilidades legales.
+– 	 Gestión de la prevención en la empresa. Documentación.
+– 	 Organismos públicos relacionados con la prevención de riesgos laborales.
+– 	 Planificación de la prevención en la empresa. Secuenciación de actuaciones.
+– 	 Definición del contenido del Plan de Prevención de un centro de trabajo relacionado 
+con el sector profesional.
+– 	 Planes de emergencia y de evacuación en entornos de trabajo.
+– 	 Elaboración de un plan de emergencia en una empresa del sector. 
+7. Aplicación de medidas de prevención y protección en la empresa:
+– 	 Técnicas de lucha contra los daños profesionales. Seguridad en el trabajo. 
+Higiene industrial y otros.
+– 	 Determinación de las medidas de prevención y protección individual y colectiva.
+– 	 Señalización de seguridad y salud.
+– 	 Protocolo de actuación ante una situación de emergencia.
+– 	 Primeros auxilios. Conceptos básicos. Aplicación de técnicas de primeros 
+auxilios.
+– 	 Vigilancia de la salud de los trabajadores.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para que el alumnado 
+pueda insertarse laboralmente y desarrollar su carrera profesional en el sector.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+j), k), l), m), n), ñ), o) y r) del ciclo formativo y las competencias profesionales, personales 
+y sociales j), k), l), m), n), ñ) y q) del título. 
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48090
+Lunes, 3 de agosto de 2015
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar 
+los objetivos del módulo profesional versarán sobre: 
+– 	 El manejo de las fuentes de información sobre el sistema educativo y laboral, en 
+especial en lo referente a las empresas. 
+– 	 La realización de pruebas de orientación y dinámicas sobre la propia personalidad 
+y el desarrollo de las habilidades sociales. 
+– 	 La preparación y realización de currículum vitae (CV) y entrevistas de trabajo. 
+– 	 Identificación de la normativa laboral que afecta a los trabajadores del sector, 
+manejo de los contratos más comúnmente utilizados y lectura comprensiva de 
+los convenios colectivos de aplicación.
+– 	 La resolución de supuestos prácticos sencillos sobre materias de índole laboral y 
+de Seguridad Social. 
+– 	 La cumplimentación de recibos de salario de diferen­tes características y otros 
+documentos relacionados. 
+– 	 El análisis de la Ley de Prevención de Riesgos laborales, que le permita evaluar 
+los riesgos derivados de las actividades desarrolladas en el sector productivo 
+y que le permita colaborar en la definición de un plan de prevención para una 
+pequeña empresa, así como en la elaboración de las medidas necesarias para 
+su puesta en funcionamiento.
+– 	 En este módulo, especialmente en el Bloque B, Prevención de Riesgos Laborales, 
+se tratan contenidos que están relacionados con otros módulos profesionales, 
+por lo que sería recomendable la realización coordinada de las programaciones 
+didácticas en dichas materias. Es aconsejable que el profesor que imparte el 
+módulo profesional de «Formación y orientación laboral» se centre en los 
+aspectos puramente legales, mientras que los profesores de la Familia Profesional 
+enfoquen desde un punto de vista técnico los riesgos específicos del sector y las 
+medidas de prevención y protección de los mismos, de cara a la elaboración de 
+planes de prevención de riesgos laborales.
+Módulo profesional: Empresa e iniciativa emprendedora.
+Equivalencia en créditos ECTS: 4
+Código: 1095
+Duración: 63 horas
+Contenidos:
+1. Iniciativa emprendedora:
+– 	 Innovación y desarrollo económico. Principales características de la innovación 
+en las actividades de las empresas de animación y producción multimedia 
+(materiales, tecnología, organización de la producción, entre otros).
+– 	 El trabajo por cuenta propia como fuente de creación de empleo y bienestar 
+social.
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48091
+Lunes, 3 de agosto de 2015
+– 	 La cultura emprendedora. El emprendedor. Factores claves de los emprendedores: 
+iniciativa, creatividad y formación.
+– 	 Desarrollo del espíritu emprendedor a través del fomento de las actitudes de 
+creatividad, iniciativa, autonomía y responsabilidad.
+– 	 La actuación de los emprendedores como empleados de una pyme relacionada 
+con la animación y la producción multimedia. 
+– 	 La actuación de los emprendedores como empresarios en el sector de la 
+animación y multimedia.
+– 	 Análisis de las oportunidades de negocio en el sector de la animación y 
+multimedia.
+– 	 El empresario. Requisitos para el ejercicio de la actividad empresarial. Aptitudes 
+y actitudes.
+– 	 Plan de empresa: la idea de negocio en el ámbito de la animación y la producción 
+multimedia. 
+– 	 Búsqueda de ideas de negocio. Análisis y viabilidad de las mismas.
+2. La empresa y su entorno:
+– 	 Concepto de empresa.
+– 	 Estructura organizativa de la empresa. Organigrama.
+– 	 Funciones básicas de la empresa: comercial, técnica, social, financiera y 
+administrativa.
+– 	 La empresa como sistema.
+– 	 Análisis del entorno general y específico de una pyme relacionada con el sector 
+de la animación y producción multimedia.
+– 	 Relaciones con clientes, proveedores y competidores.
+– 	 Análisis DAFO.
+– 	 Relaciones de una pyme de animación y producción multimedia con su entorno.
+– 	 Relaciones de una pyme de animación y producción multimedia con el conjunto 
+de la sociedad. La responsabilidad social de la empresa, planes de igualdad, 
+acciones de igualdad y mejora continua. La ética empresarial.
+– 	 El estudio de mercado. Variables del marketing mix: precio, producto, comunicación 
+y distribución.
+– 	 El balance social: Los costes y los beneficios sociales.
+– 	 Cultura empresarial e imagen corporativa.
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48092
+Lunes, 3 de agosto de 2015
+3. Creación y puesta en marcha de una empresa:
+– 	 Tipos de empresa. 
+– 	 Elección de la forma jurídica. Ventajas e inconvenientes de las distintas formas 
+jurídicas con especial atención a la responsabilidad legal.
+– 	 La franquicia como forma de empresa.
+– 	 La fiscalidad en las empresas. 
+– 	 Trámites administrativos para la constitución y puesta en marcha de una empresa 
+del sector. Relación con organismos oficiales.
+– 	 Vías externas de asesoramiento y gestión. La ventanilla única empresarial.
+– 	 Plan de inversiones y gastos. 
+– 	 Fuentes de financiación. El plan financiero.
+– 	 Subvenciones y ayudas a la creación de empresas del sector de la animación y 
+producción multimedia.
+– 	 Viabilidad económica y viabilidad financiera de una pyme relacionada con la 
+animación y producción multimedia.
+– 	 Plan de empresa: la idea de negocio en el ámbito de la animación 3D, juegos y 
+entornos interactivos. Elección de la forma jurídica, estudio de viabilidad económica 
+y financiera, trámites administrativos y gestión de ayudas y subvenciones.
+4. Función administrativa:
+– 	 Concepto de contabilidad y nociones básicas.
+– 	 Cuentas anuales obligatorias.
+– 	 Análisis de la información contable.
+– 	 Ratios. Cálculo de coste, beneficio y umbral de rentabilidad.
+– 	 Obligaciones fiscales de las empresas. Principales impuestos aplicables a las 
+empress del sector.
+– 	 Gestión administrativa de una empresa de animación y producción multimedia. 
+Documentos básicos utilizados en la actividad económica de la empresa: nota de 
+pedido, albarán, factura, letra de cambio, cheque y otros.
+– 	 Gestión de aprovisionamiento. Valoración de existencias. Volumen óptimo de 
+pedido.
+– 	 Elaboración de un plan de empresa. 
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+Pág. 48093
+Lunes, 3 de agosto de 2015
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desarrollar la propia 
+iniciativa en el ámbito empresarial, tanto hacia el autoempleo como hacia la asunción de 
+responsabilidades y funciones en el empleo por cuenta ajena. 
+La formación del módulo profesional permite alcanzar los objetivos generales j), k), 
+m), o), p), q) y r) del ciclo formativo, y las competencias j), l), n), o), p) y q) del título.
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar 
+los objetivos del módulo profesional versarán sobre:
+– 	 El manejo de las fuentes de información sobre el sector de la animación y la 
+producción multimedia, incluyendo el análisis de los procesos de innovación 
+sectorial en marcha.
+– 	 La realización de casos y dinámicas de grupo que permitan comprender y valorar 
+las actitudes de los emprendedores y ajustar la necesidad de los mismos al sector 
+de los servicios relacionados con los procesos de éste.
+– 	 La utilización de programas de gestión administrativa para pymes del sector.
+– 	 La realización de un proyecto de plan de empresa relacionada con la animación 
+y la producción multimedia, que incluya todas las facetas de puesta en marcha 
+de un negocio: viabilidad, organización de la producción y los recursos humanos, 
+acción comercial, control administrativo y financiero, así como justificación de su 
+responsabilidad social.
+– 	 El empleo de la herramienta «Aprende a Emprender».
+Módulo profesional: Formación en centros de trabajo.
+Equivalencia en créditos ECTS: 22
+Código: 1092
+Duración: 380 horas
+Este módulo profesional contribuye a completar las competencias propias de este 
+título y los objetivos generales del ciclo, tanto aquellos que se han alcanzado en el centro 
+educativo, como los que son difíciles de conseguir en el mismo.
+CV: BOCYL-D-03082015-2
+
+Boletín Oficial de Castilla y León
+Núm. 148
+http://bocyl.jcyl.es
+D.L.: BU 10-1979 - ISSN 1989-8959
+Pág. 48094
+Lunes, 3 de agosto de 2015
+ANEXO III
+ORGANIZACIÓN Y DISTRIBUCIÓN HORARIA
+Módulos profesionales
+Duración 
+del 
+currículo
+(horas)
+Centro Educativo
+Centro de 
+Trabajo
+Curso 1.º
+horas/semanales
+Curso 2.º
+1.º y 2.º
+trimestres
+horas/semanales
+3.er trimestre
+horas
+1085. 	Proyectos de animación 
+audiovisual 2D y 3D.
+64
+2
+1086. 	Diseño, dibujo y modelado para 
+animación.
+192
+6
+1087. 	Animación de elementos 2D y 
+3D
+384
+12
+1088. 	Color, iluminación y acabados 
+2D y 3D.
+224
+7
+1089. 	Proyectos de juegos y entornos 
+interactivos.
+63
+3
+1090. 	Realización de proyectos 
+multimedia interactivos.
+126
+6
+1091. 	Desarrollo de entornos 
+interactivos multidispositivo.
+189
+9
+0907. 	Realización del montaje 
+y postproducción de 
+audiovisuales.
+189
+9
+1093. 	Proyecto de animaciones 3D, 
+juegos y entornos interactivos.
+30
+30
+1094. 	Formación y orientación laboral.
+96
+3
+1095. 	Empresa e iniciativa 
+emprendedora.
+63
+3
+1092. 	Formación en centros de trabajo.
+380
+380
+TOTAL
+2.000
+30
+30
+410
+CV: BOCYL-D-03082015-2

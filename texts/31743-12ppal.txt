@@ -1,0 +1,348 @@
+18488
+Jueves, 27 de octubre 2005
+B.O.C. y L. - N.º 208
+ORDEN EDU/1404/2005, de 19 de octubre, por la que se da publicidad al
+«Acuerdo de 16 de septiembre de 2005, del Consejo de Dirección de la
+Agencia para la Calidad del Sistema Universitario de Castilla y León
+por el que se crean ficheros automatizados de datos de carácter personal».
+El Consejo de Dirección de la Agencia para la Calidad del Sistema Uni-
+versitario de Castilla y León, en su reunión del día 16 de septiembre de
+2005, acordó la creación de un fichero automatizado de datos de carácter
+personal.
+Por ello, ante la necesidad de propiciar su general conocimiento para
+garantizar la salvaguarda de los derechos del personal docente de las uni-
+versidades de Castilla y León que solicita ser evaluado por la Agencia 
+DISPONGO:
+Artículo Único.– Dar publicidad, mediante su inserción el «Boletín Ofi-
+cial de Castilla y León», al «Acuerdo, de 16 de septiembre de 2005, del Con-
+sejo de Dirección de la Agencia para la Calidad del Sistema Universitario de
+Castilla y León por el que se crean ficheros automatizados de datos de carác-
+ter personal», que se incorpora a esta Orden como Anexo.
+DISPOSICIÓN FINAL
+La presente Orden producirá efectos desde el día siguiente al de su
+publicación en el «Boletín Oficial de Castilla y León».
+Valladolid, 19 de octubre de 2005.
+El Consejero,
+Fdo.: FRANCISCO JAVIER ÁLVAREZ-GUISASOLA
+ANEXO
+ACUERDO DEL CONSEJO DE DIRECCIÓN DE LA AGENCIA 
+PARA LA CALIDAD DEL SISTEMA UNIVERSITARIO 
+DE CASTILLA Y LEÓN POR EL QUE SE CREAN 
+FICHEROS AUTOMATIZADOS DE DATOS 
+DE CARÁCTER PERSONAL
+Con objeto de lograr una mayor agilidad y eficiencia en la organización
+y gestión administrativa llevada a cabo por la Agencia para la Calidad del
+Sistema Universitario de Castilla y León, garantizando, paralelamente, el
+derecho a la protección de datos de carácter personal de los administrados,
+se hace necesaria la creación de ficheros automatizados de datos contenien-
+do información relativa a los docentes que solicitan evaluación por parte de
+esta Agencia.
+La Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos
+de Carácter Personal, en su artículo 20, establece que la creación, modifica-
+ción o supresión de los ficheros de las Administraciones Públicas y sus orga-
+nismos públicos dependientes sólo podrán hacerse por medio de disposición
+general publicada en el diario oficial correspondiente.
+Por su parte, el Decreto 11/2003, de 23 de enero, por el que se regulan
+los ficheros de datos de carácter personal susceptibles de tratamiento auto-
+matizado de la Administración de la Comunidad de Castilla y León, con-
+creta en su artículo 2, que la creación, modificación y supresión de los fiche-
+ros de datos de carácter personal incluidos en el ámbito de aplicación de la
+citada ley, se realizará previo informe de la Dirección General de Teleco-
+municaciones y Transportes de la Consejería de Fomento, por Orden del
+titular de la Consejería competente por razón de la materia a la que afectan. 
+En su virtud, y una vez solicitado el informe previsto en el citado
+Decreto 11/2003, el Consejo de Dirección de la Agencia para la Calidad del
+Sistema Universitario de Castilla y León, en su reunión de 1 de abril de
+2005, ACUERDA:
+1.– La creación de los ficheros de datos de carácter personal de la Agen-
+cia para la Calidad del Sistema Universitario de Castilla y León, que se indi-
+can y describen en el Anexo del presente Acuerdo.
+2.– El titular del órgano responsable de los ficheros automatizados a los
+que se refiere el punto anterior, y en su caso el encargado de su tratamiento,
+deberá adoptar las medidas de índole técnica y organizativa necesarias que
+garanticen la seguridad de los datos de carácter personal y eviten su altera-
+ción, pérdida tratamiento o acceso no autorizado, habida cuenta del estado
+de la tecnología, la naturaleza de los datos almacenados y los riesgos a que
+están expuestos. Ello implica la implantación de las medidas de seguridad
+exigibles en función de la naturaleza de los datos protegidos, en los térmi-
+nos establecidos en el Real Decreto 994/1999, de 11 de junio, por el que se
+aprueba el Reglamento de medidas de seguridad de los ficheros automatiza-
+dos que contengan datos de carácter personal.
+3.– Los interesados tendrán derecho a solicitar y obtener gratuitamente
+información de sus datos de carácter personal sometidos a tratamiento, el
+origen de dichos datos, así como las comunicaciones realizadas o que se pre-
+vea realizar con los mismos.
+4.– Mediante Orden de la Consejería de Educación se dará publicidad al
+presente Acuerdo.
+Valladolid, 1 de abril de 2005.
+El Presidente de la Agencia 
+para la Calidad del Sistema Universitario 
+de Castilla y León,
+Fdo.: FRANCISCO JAVIER ÁLVAREZ GUISASOLA
+ANEXO
+Denominación del fichero:
+Fichero automatizado de datos de carácter personal del personal docen-
+te de las universidades de Castilla y León que solicita ser evaluado por la
+Agencia.
+Fines y usos:
+Gestión de datos relativos al personal docente de las universidades de
+Castilla y León que solicita ser evaluado por la Agencia, para su uso en la
+Agencia para la Calidad del Sistema Universitario de Castilla y León.
+Personas o Colectivos afectados:
+Personal docente de las universidades de Castilla y León que solicita ser
+evaluado por la Agencia.
+Procedimiento de recogida de datos:
+Datos aportados por el propio interesado o su representante legal.
+Transmisión electrónica/Internet.
+Estructura básica del fichero y descripción de los tipos de datos:
+Datos de carácter identificativo: N.I.F., Nombre y Apellidos, Dirección,
+Teléfono.
+Datos de características personales: Fecha de nacimiento, Lugar de naci-
+miento, Edad, Nacionalidad y Sexo. 
+Datos académicos y profesionales: Formación Académica, Actividad
+Docente, Actividad Investigadora, Titulaciones y Artículos publicados.
+Datos de detalle de empleo: Categoría/Grado, Puesto de trabajo.
+Cesiones de datos previstas:
+No previstas.
+Órgano de la Administración responsable del fichero:
+Agencia para la Calidad del Sistema Universitario de Castilla y León.
+Servicio o Unidad ante el que pueden ejercitarse los derechos de acce-
+so, rectificación, cancelación y oposición:
+Agencia para la Calidad del Sistema Universitario de Castilla y León.
+Medidas de Seguridad:
+Nivel Básico.
+ORDEN EDU/1406/2005, de 20 de octubre, por la que se convocan ayu-
+das económicas dirigidas a financiar la organización de actividades de
+formación del profesorado de enseñanzas escolares por instituciones
+privadas sin ánimo de lucro, durante el año 2006.
+La Ley Orgánica 10/2002, de 23 de diciembre, de Calidad de la Educa-
+ción establece en su artículo 57 que las Administraciones educativas pro-
+
+B.O.C. y L. - N.º 208
+Jueves, 27 de octubre 2005
+18489
+moverán la actualización y la mejora continua de la cualificación profesio-
+nal de los profesores. A estos efectos se precisa planificar actividades de for-
+mación permanente del profesorado y garantizar una oferta diversificada de
+las actividades, que dé respuesta a sus necesidades reales con el fin de mejo-
+rar la función docente.
+La Resolución de 14 de febrero de 2000, de la Dirección General de For-
+mación Profesional e Innovación Educativa, prevé la colaboración con ins-
+tituciones sin ánimo de lucro para la realización de actividades de formación
+del profesorado. Para ello, deberán tener suscrito un convenio para la for-
+mación del profesorado a fin de poder concurrir a esta convocatoria.
+De conformidad con lo establecido en el artículo 122 de la Ley 7/1986,
+de 23 de diciembre, de la Hacienda de la Comunidad de Castilla y León y
+en la Ley 38/2003, de 17 de diciembre, General de Subvenciones, en ejerci-
+cio de las atribuciones conferidas por la Ley 3/2001, de 3 de julio, del
+Gobierno y de la Administración de la Comunidad de Castilla y León, se
+acuerda convocar concurso público para la concesión de ayudas económi-
+cas, conforme a las siguientes,
+BASES:
+Primera.– Objeto de la subvención y requisitos. 
+1.1. La presente Orden tiene por objeto la concesión de ayudas econó-
+micas para financiar la organización de actividades de formación por insti-
+tuciones privadas sin ánimo de lucro durante el año 2006.
+1.2. Las actividades de formación irán dirigidas al profesorado de ense-
+ñanzas escolares que ejerza sus funciones en el ámbito territorial de la
+Comunidad de Castilla y León y deberán contribuir a su formación en los
+aspectos fundamentales establecidos en la normativa vigente.
+Asimismo, dichas actividades deberán desarrollarse dentro del período
+comprendido entre el 1 de enero y el 31 de diciembre de 2006.
+Segunda.– Dotación presupuestaria. 
+2.1. La cuantía global máxima de estas ayudas será de CIENTO VEIN-
+TICUATRO MIL EUROS (124.000 €), con cargo a la aplicación presu-
+puestaria 07.07.421A02.48003.0 de los Presupuestos Generales de esta
+Comunidad para el año 2006.
+2.2. La cuantía máxima de la ayuda económica por actividad será de
+MIL QUINIENTOS CINCUENTA EUROS (1.550 €). El importe que se
+conceda deberá destinarse a sufragar parte de los gastos originados en los
+conceptos y con la distribución siguiente:
+a) Gastos de enseñanza: comprenderá gastos de dirección y coordina-
+ción, horas de clase, ponencias, comunicaciones y conferencias, gas-
+tos de alquiler de equipos y aulas. El porcentaje máximo destinado a
+este tipo de gastos será del 80% del total de la subvención.
+b) Gastos de medios y materiales didácticos: comprenderá gastos de
+material fungible, publicaciones e impresos. El porcentaje máximo
+destinado a este tipo de gastos será del 15% del total de la subvención.
+c) Otros gastos: comprenderá gastos distintos de los anteriores que
+resulten necesarios para el desarrollo de la actividad. El porcentaje
+máximo destinado a este tipo de gastos será del 5% del total de la
+subvención.
+2.3. Esta convocatoria está sometida a la condición suspensiva de exis-
+tencia de crédito adecuado y suficiente para financiar las obligaciones deri-
+vadas de la concesión de las ayudas en el ejercicio correspondiente.
+Tercera.– Beneficiarios. 
+Podrán ser beneficiarios de estas ayudas las instituciones privadas sin
+ánimo de lucro que, a la fecha de publicación de la presente Orden, se
+encuentren constituidas como instituciones colaboradoras para la realiza-
+ción de actividades de formación del profesorado, conforme a lo estableci-
+do en la Resolución de 14 de febrero de 2000, de la Dirección General de
+Formación Profesional e Innovación Educativa, y tengan firmada, con ante-
+rioridad a la resolución de la presente convocatoria, la addenda correspon-
+diente al año 2006 del Convenio de Colaboración para la realización de acti-
+vidades de formación del profesorado, suscrito con la Consejería de
+Educación.
+Cuarta.– Solicitudes y documentación. 
+4.1. Las solicitudes deberán formalizarse mediante instancia dirigida al
+Excmo. Sr. Consejero de Educación, conforme al modelo que se incluye en
+el anexo I de la presente Orden, y se presentarán en el Registro General de
+la Consejería de Educación (Monasterio de Nuestra Señora de Prado, Auto-
+vía Puente Colgante s/n, 47071 Valladolid), o por cualquiera de los medios
+establecidos en el artículo 38.4 de la Ley 30/1992, de 26 de noviembre, de
+Régimen Jurídico de las Administraciones Públicas y del Procedimiento
+Administrativo Común. 
+Dada la naturaleza de la documentación a acompañar, se excluye la posi-
+bilidad de presentar las solicitudes por telefax, de conformidad con el
+artículo 1.2.a) del Decreto 118/2002, de 31 de octubre, por el que se regu-
+lan las transmisiones por telefax para la presentación de documentos en los
+registros administrativos de la Administración de la Comunidad de Castilla
+y León.
+4.2. La solicitud deberá ir acompañada de la siguiente documentación,
+original o copia compulsada:
+a) Diseño individualizado de cada una de las actividades de formación
+del profesorado del año 2006 para las que se solicita la ayuda, con-
+forme a lo previsto en la addenda al convenio de formación del pro-
+fesorado suscrito con la Consejería de Educación, según modelo que
+figura como Anexo II.
+b) Tarjeta de Identificación Fiscal.
+c) Presupuesto individualizado de cada una de las acciones formativas
+para las que se solicita ayuda, según modelo del Anexo III.
+d) Certificado actual de titularidad de la cuenta bancaria.
+4.3. La solicitud incluirá la declaración jurada del solicitante de la acep-
+tación de las bases, de responder de la veracidad de los datos incluidos en la
+misma, así como de no hallarse el solicitante incurso en ninguna de las pro-
+hibiciones para obtener la condición de beneficiario de subvenciones seña-
+ladas en el artículo 13 de la Ley 38/2003, de 17 de noviembre, General de
+Subvenciones.
+4.4. Los beneficiarios de estas ayudas están exentos de acreditar estar al
+corriente de sus obligaciones tributarias y frente a la Seguridad Social, con-
+forme al artículo 6 del Decreto 61/1997, de 20 de marzo, por el que se regu-
+la la citada acreditación.
+Quinta.– Plazo de presentación de solicitudes y subsanación de defectos. 
+5.1. El plazo de presentación de solicitudes finalizará el día 30 de
+noviembre de 2005. 
+5.2. Si la solicitud aportada no reuniera todos los requisitos establecidos
+en la presente Orden se requerirá al interesado para que, en el plazo de 10
+días, subsane la falta o acompañe los documentos preceptivos, con la indi-
+cación de que si así no lo hiciera se le tendrá por desistido de su petición,
+previa resolución.
+Sexta.– Comisión de selección. 
+Las solicitudes y su documentación serán estudiadas y valoradas por una
+Comisión de selección integrada por el Director General de Formación Pro-
+fesional e Innovación Educativa o persona en quien delegue, que la presidi-
+rá, y tres funcionarios de la misma Dirección General, uno de los cuales
+actuará como secretario.
+Séptima.– Criterios de selección. 
+En la valoración de solicitudes para la concesión de las ayudas se dará
+preferencia a aquellas actividades que respondan a las siguientes líneas de
+formación:
+a) Utilización de las Tecnologías de la Información y de la Comunicación.
+b) Educación en Valores.
+c) Fomento de la dimensión europea de la educación.
+d) Actualización científica, didáctica y metodológica.
+e) Atención especial a situaciones que requieran una formación específica.
+Octava.– Resolución.
+8.1. La convocatoria será resuelta por el Consejero de Educación, a pro-
+puesta razonada de la Comisión de selección.
+8.2. La resolución motivada será publicada en el «Boletín Oficial de
+Castilla y León».
+8.3. El plazo máximo para resolver la convocatoria y publicar la resolu-
+ción será de tres meses a contar desde la fecha de finalización del plazo de
+presentación de solicitudes. Transcurrido dicho plazo sin que haya sido
+publicada la resolución, las solicitudes podrán entenderse desestimadas.
+8.4. La resolución, que pone fin a la vía administrativa, podrá ser impug-
+nada mediante recurso potestativo de reposición, o bien directamente ante la
+Jurisdicción Contencioso Administrativa.
+Novena.– Pago y justificación de la ayuda.
+La percepción de la ayuda se llevará a efecto una vez finalizada la acti-
+vidad y está condicionada a que el beneficiario acredite la realización de la
+actividad y la finalidad para la que le fue otorgada la ayuda. La justificación
+
+18490
+Jueves, 27 de octubre 2005
+B.O.C. y L. - N.º 208
+de la ayuda concedida se efectuará antes del 28 de octubre de 2006, median-
+te la remisión a la Consejería de Educación, Dirección General de Forma-
+ción Profesional e Innovación Educativa (Monasterio de Ntra. Sra. de Prado,
+Autovía Puente Colgante s/n 47071 Valladolid), de la siguiente documentación:
+a) Memoria de cada una de las actividades desarrolladas, incluyendo
+declaración del representante legal de la Entidad acreditando haberse
+cumplido la finalidad de la ayuda y relación nominal de participan-
+tes, especificando n.º de identificación fiscal, n.º de registro de perso-
+nal (si procede), domicilio y centro de trabajo.
+b) Acta final de cada una de las actividades objeto de la ayuda.
+c) Cuenta final de ingresos y gastos aplicados a la ayuda, de cada una
+de las actividades desarrolladas, teniendo en cuenta los límites máximos
+señalados en el presupuesto de gastos presentado con la solicitud.
+d) Documentos justificativos de los gastos realizados, clasificados según
+el orden previsto en la base 2.2. de esta Orden:
+– Los gastos comprendidos en el apartado 1 del presupuesto se jus-
+tificarán mediante factura de la empresa o recibos del profesional
+que prestó el servicio, en los cuales deberá describirse con detalle
+la actividad realizada, el número de horas impartidas y las fechas
+de inicio y de finalización. El importe de las facturas o recibos será
+el resultante de multiplicar el número de horas de impartición en
+el periodo de referencia por el precio/hora pactado por las partes.
+En los recibos presentados para justificar este gasto, se reflejará la
+retención obligatoria en concepto de I.R.P.F., que deberá ser liqui-
+dada por el Centro ante la Agencia Estatal de la Administración
+Tributaria que le corresponda.
+– Los gastos comprendidos en el apartado 2 del presupuesto com-
+prenden los gastos realizados para la adquisición de medios y
+materiales didácticos de un solo uso por el alumno. La justifica-
+ción de estos costes se hará mediante las facturas correspondien-
+tes, siendo aconsejable que éstas se expidan por los proveedores de
+manera individualizada para cada curso.
+– Los gastos comprendidos en el apartado 3 del presupuesto com-
+prenden los costes indirectos derivados del desarrollo de la activi-
+dad subvencionada y su justificación se hará mediante una decla-
+ración responsable firmada por el representante legal de la
+institución solicitante
+En los documentos originales se extenderá una diligencia hacien-
+do constar el título del programa, la cantidad imputada a la sub-
+vención y la indicación de estar subvencionado por la Consejería
+de Educación.
+e) Declaración jurada acerca de otras ayudas económicas recibidas para
+la misma finalidad de otras administraciones públicas o entidades de
+naturaleza pública o privada, nacionales o internacionales.
+Décima.– Compatibilidad con otras ayudas.
+La ayuda concedida en virtud de esta Orden de convocatoria será com-
+patible con otras ayudas para la misma finalidad, otorgadas por otras admi-
+nistraciones públicas o entidades de naturaleza pública o privada, naciona-
+les o internacionales, siempre que el importe de las mismas no supere el
+coste de la actividad subvencionada.
+Undécima.– Modificación de la resolución de la concesión. 
+Toda alteración de las condiciones tenidas en cuenta para la concesión
+de la ayuda y, en todo caso, la obtención concurrente de otras subvenciones
+vulnerando los límites establecidos en la base anterior, podrá dar lugar a la
+modificación de la resolución de la concesión.
+Duodécima.– Responsabilidades y reintegros. 
+12.1. Procederá al reintegro de las cantidades percibidas y la exigencia
+del interés de demora desde el momento del pago de la ayuda en los supues-
+tos establecidos en el artículo 122 de la Ley 7/1986, de 23 de diciembre, de
+la Hacienda de la Comunidad de Castilla y León, y 37 de la Ley 38/2003,
+de 17 de noviembre, General de Subvenciones. 
+12.2. Las cantidades a reintegrar tendrán la consideración de ingresos de
+derecho público, resultando de aplicación lo previsto en el artículo 42 de la
+citada Ley de la Hacienda.
+Decimotercera.– Inspección, seguimiento y control. 
+La Consejería de Educación se reserva el derecho de inspección, control
+y seguimiento de las actividades subvencionadas, así como la petición de los
+justificantes que se consideren necesarios, sin perjuicio de las actuaciones de
+control financiero que correspondan a la Intervención General en relación
+con las subvenciones concedidas.
+Decimocuarta.– Base final. 
+Se autoriza a la Dirección General de Formación Profesional e Innova-
+ción Educativa de esta Consejería a dictar cuantos actos sean necesarios para
+dar debido cumplimiento a lo establecido en esta Orden.
+Contra la presente Orden, que pone fin a la vía administrativa, cabe
+interponer potestativamente recurso de reposición en el plazo de un mes ante
+el Consejero de Educación o bien directamente recurso contencioso admi-
+nistrativo ante la Sala de lo Contencioso-Administrativo del Tribunal Supe-
+rior de Justicia de Castilla y León en el plazo de dos meses. Ambos plazos
+se computarán a partir del día siguiente al de su publicación en el «Boletín
+Oficial de Castilla y León».
+Valladolid, 20 de octubre de 2005.
+El Consejero,
+Fdo.: FRANCISCO JAVIER ÁLVAREZ GUISASOLA

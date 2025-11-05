@@ -1,0 +1,92 @@
+Boletín Oficial de Castilla y León
+Núm. 221
+Pág. 77413
+Lunes, 17 de noviembre de 2014
+I. COMUNIDAD DE CASTILLA Y LEÓN
+A. DISPOSICIONES GENERALES
+CONSEJERÍA DE EDUCACIÓN
+ORDEN EDU/954/2014, de 6 de noviembre, por la que se crea el fichero automatizado 
+de datos de carácter personal de la Consejería de Educación denominado: «Registro de 
+usuarios del Portal de Educación».
+La Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter 
+Personal, en su artículo 20.1, establece que la creación, modificación o supresión de los 
+ficheros de las Administraciones Públicas sólo podrán hacerse por medio de disposición 
+general publicada en el «Boletín Oficial del Estado» o Diario Oficial correspondiente.
+Por su parte, el Decreto 11/2003, de 23 de enero, por el que se regulan los ficheros 
+de carácter personal susceptibles de tratamiento automatizado de la Administración de la 
+Comunidad de Castilla y León, dispone en su artículo 2.1 que la creación, modificación y 
+supresión de los ficheros de datos de carácter personal incluidos en el ámbito de aplicación 
+de la citada ley, se realizará por orden del titular de la consejería competente por razón 
+de la materia a la que afectan, y que las órdenes de creación y modificación de ficheros 
+deberán recoger todos los apartados que establece el artículo 20 de la citada Ley Orgánica 
+15/1999, de 13 de diciembre.
+En virtud de las citadas normas y demás de general aplicación, y previo informe de 
+la Dirección General de Atención al Ciudadano, Calidad y Modernización de la Consejería 
+de Hacienda,
+DISPONGO
+Artículo 1. Objeto.
+La presente orden tiene por objeto la creación del fichero de datos de carácter 
+personal de la Dirección General de Política Educativa Escolar denominado «Registro de 
+usuarios del Portal de Educación», con los elementos que se contienen en el Anexo de la 
+presente orden.
+Artículo 2. Medidas técnicas y organizativas.
+Los responsables del fichero adoptarán las medidas de gestión y organización que 
+sean necesarias para asegurar la confidencialidad, seguridad e integridad de los datos, así 
+como las conducentes a hacer efectivas las garantías, obligaciones y derechos reconocidos 
+en la normativa aplicable.
+CV: BOCYL-D-17112014-1
+
+Boletín Oficial de Castilla y León
+Núm. 221
+Pág. 77414
+Lunes, 17 de noviembre de 2014
+Artículo 3. Derechos de los afectados.
+Las personas físicas y jurídicas afectadas por el fichero podrán ejercitar su derecho 
+de acceso, cancelación, oposición y rectificación de datos, cuando proceda, ante el órgano 
+administrativo indicado en el anexo correspondiente.
+DISPOSICIÓN FINAL
+Entrada en vigor.
+La presente orden entrará en vigor el día siguiente al de su publicación en el «Boletín 
+Oficial de Castilla y León».
+Valladolid, 6 de noviembre de 2014.
+El Consejero,
+Fdo.: Juan José Mateos Otero
+CV: BOCYL-D-17112014-1
+
+Boletín Oficial de Castilla y León
+Núm. 221
+http://bocyl.jcyl.es
+D.L.: BU 10-1979 - ISSN 1989-8959
+Pág. 77415
+Lunes, 17 de noviembre de 2014
+ANEXO
+Denominación del fichero: «FICHERO DEL REGISTRO DE USUARIOS DEL 
+PORTAL DE EDUCACIÓN».
+Fines y usos:
+Gestión de los usuarios informáticos, de los directorios de correo electrónico, 
+control de accesos, soporte a la prestación de servicios telemáticos y acceso a 
+recursos en general. Integración de usuarios con sistemas de la Junta de Castilla y 
+León, de la administración educativa y de las Universidades de Castilla y León.
+Personas o colectivos afectados:
+Usuarios de los sistemas de información de la Consejería de Educación.
+Procedimiento de recogida:
+Información aportada por el propio interesado o tomada de otros sistemas de la 
+Consejería de Educación o de la administración de la Junta de Castilla y León.
+Estructura básica del fichero y descripción de los datos de carácter personal:
+Datos de carácter identificativo: nif/nie/cie, nombre y apellidos, fecha de 
+nacimiento, sexo.
+Datos de empleo (sólo para docentes): Especialidad, cargos, otros datos: Correo 
+electrónico, login del portal, 332 jcyl.
+Cesiones de datos de carácter personal previstas:
+Organismos de la Administración pública de Castilla y León y de la Administración 
+educativa.
+Órgano de la Administración responsable del fichero:
+Dirección General de Política Educativa Escolar.
+Servicio o unidad ante el que pueden ejercitarse los derechos de acceso, rectificación, 
+cancelación y oposición:
+Dirección General de Política Educativa Escolar de la Consejería de Educación.
+Sistema de tratamiento:
+Parcialmente automatizado (Mixto).
+Nivel de Seguridad:
+Nivel básico.
+CV: BOCYL-D-17112014-1

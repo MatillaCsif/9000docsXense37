@@ -1,0 +1,250 @@
+12408
+Viernes, 8 de junio 2007
+B.O.C. y L. - N.º 111
+ANEXO 
+CONDICIONES TÉCNICAS, ELECTRÓNICAS
+Y DE HARDWARE
+Las especificaciones técnicas mínimas, electrónicas y de hardware,
+que deberán cumplir los equipos regulados en la presente Orden, son las
+siguientes:
+1.– El monitor de vídeo mediante el cual se muestre al jugador el
+desarrollo del juego deberá ser al menos de 19”, y el modo de interactuar
+con el jugador será a través de pantalla táctil y/o mediante pulsadores. El
+acceso del jugador a los diversos precios de las partidas, establecidos por
+debajo del precio máximo autorizado, deberá producirse a través del
+monitor de vídeo utilizado por la máquina.
+2.– La placa electrónica de control de las máquinas deberá tener al
+menos las siguientes características:
+a) Procesador de 300 Mhz.
+b) Más de 64 Mb de memoria flash.
+c) Al menos 2 Kbytes de EPROM integrada.
+d) Puerto disponible para compact flash.
+e) 128 Mb de SDRAM integrada.
+f) BUS PCI versión 2.1 compatible.
+g) Soporte de VGA y VESA.
+h) Resolución mínima 640 x 480 y un mínimo de profundidad de
+color de 16 bits.
+i) Hardware capaz de aceptar un mínimo de 1024 x 768 y 16 bits de
+color de resolución.
+j) Salida de audio con amplificador integrado estéreo.
+k) Red puerto Ethernet 10/100 Mbps.
+3.– El sistema deberá posibilitar, mediante la conexión de las máqui-
+nas instaladas a un servidor central, la transmisión de datos, en cuanto a
+la facturación, porcentaje de premios y recaudación de cada una de ellas,
+en tiempo real y de manera continuada (on line-on time). 
+ORDEN PAT/1012/2007, de 16 de mayo, por la que se aprueba la Carta
+de Servicios al Ciudadano de las Áreas de Programas Educativos de
+las Direcciones Provinciales de Educación.
+El Decreto 230/2000, de 9 de noviembre, por el que se regulan las
+Cartas de Servicios al Ciudadano en la Administración de la Comunidad
+de Castilla y León, establece en su artículo 6.º, 3 que la Orden de apro-
+bación de cada Carta de Servicios se hará pública mediante la inserción
+en el «Boletín Oficial de Castilla y León» de un extracto del contenido de
+la misma.
+De acuerdo con lo establecido en el citado Decreto, y visto el infor-
+me favorable emitido por la Dirección General de Atención al Ciudadano
+y Modernización Administrativa, 
+DISPONGO:
+Primero.
+1.– Se aprueba la Carta de Servicios al Ciudadano de las Áreas de
+Programas Educativos, cuyo extracto aparece como Anexo a la presente
+Orden.
+2.– El Director General de Coordinación, Inspección y Programas
+Educativos de la Consejería de Educación, podrá autorizar a aquellas
+Direcciones Provinciales de Educación que lo soliciten, a desarrollar los
+contenidos de esta Carta de Servicios en Catálogos de Servicios y Com-
+promisos de Calidad de sus Áreas de Programas Educativos.
+3.– Se editará una publicación divulgativa del contenido de la Carta
+de Servicios al Ciudadano. Esta publicación se pondrá a disposición de
+los ciudadanos en las Oficinas Generales y Puntos de Información y
+Atención al Ciudadano, y podrá distribuirse igualmente en otras depen-
+dencias administrativas o por los medios que se considere más idóneos
+para facilitar su conocimiento por los ciudadanos.
+Segundo.– La presente Orden entrará en vigor al día siguiente a su
+publicación en el «Boletín Oficial de Castilla y León».
+Valladolid, 16 de mayo de 2007.
+El Consejero,
+Fdo.: ALFONSO FERNÁNDEZ MAÑUECO
+ANEXO
+I.– FUNCIONES
+Las Áreas de Programas Educativos (APE) dependen, en su organi-
+zación y funcionamiento, de las Direcciones Provinciales de Educación y
+desarrollan los programas educativos establecidos por la Consejería de
+Educación de la Junta de Castilla y León.
+Tienen como misión la experimentación, promoción y extensión de
+los programas, actuaciones y actividades educativas de carácter innova-
+dor, con el doble objetivo de:
+– Asistir y complementar los procesos de formación integral del
+alumnado.
+– Promover la modernización y la mejora de los servicios educativos
+con el objeto de garantizar una educación de calidad para todos en
+nuestro Sistema Educativo de Castilla y León.
+II.– SERVICIOS QUE SE OFRECEN.
+Los destinatarios/usuarios directos e indirectos de los servicios de las
+Áreas de Programas Educativos son los distintos estamentos de la Admi-
+nistración y comunidad educativa de Castilla y León: -profesorado, alum-
+nado y familias -directamente o a través de sus asociaciones-, centros y ser-
+vicios  educativos, organismos públicos, organizaciones privadas, en
+general, toda la sociedad. Sus servicios fundamentales son los siguientes:
+1.– Programas destinados a asistir y complementar la formación
+integral de los alumnos y que inciden en los diversos ámbitos de
+la educación.
+2.– Procesos de sensibilización, difusión, orientación, apoyo, segui-
+miento y evaluación para implantar los diferentes programas y
+actuaciones, en los centros y servicios educativos de la Comuni-
+dad de Castilla y León.
+3.– Impulso, coordinación y evaluación de los programas y actua-
+ciones en las diferentes fases de experimentación e implementa-
+ción, previas a su normalización y generalización en el sistema
+educativo. 
+4.– Participación en el diseño, planificación, temporalización, apli-
+cación y evaluación de los programas, actuaciones y actividades
+que tienen como objetivo la introducción de novedades y mejo-
+ras en el sistema educativo de Castilla y León.
+5.– Facilitar el uso de los recursos de carácter social y educativos
+necesarios para la implantación de los programas y actuaciones
+educativas.
+6.– Colaboración en la evaluación y definición de objetivos, proce-
+sos y resultados necesarios para efectuar el tránsito de los pro-
+gramas en las diferentes fases de experimentación: Implantación,
+promoción y extensión educativa. 
+7.– Colaboración y coordinación con otras áreas de la Administra-
+ción Educativa.
+8.– Impulso, coordinación y colaboración con otras Administraciones e
+instituciones de carácter público o privado que desarrollen progra-
+mas y actividades destinadas a favorecer el proceso educativo. 
+9.– Participación en las Comisiones organizadas por servicios e ins-
+tituciones educativas competentes para el correcto desarrollo e
+implantación de los programas. 
+10.– Participación en distintos procesos relativos al funcionamiento,
+mejora e innovación del sistema educativo que, con carácter ins-
+titucional, requieren la presencia del personal del APE.
+11.– Atención y asesoramiento a todos los usuarios de los servicios del
+APE que requieran información o ayuda, en relación con los pro-
+gramas educativos.
+
+B.O.C. y L. - N.º 111
+Viernes, 8 de junio 2007
+12409
+12.– Participación en cuantos programas, que requieran la colabora-
+ción del personal del APE, establezca la Consejería de Educación. 
+III.– DERECHOS DE LOS CIUDADANOS
+1.– A ser atendidos y tratados correctamente, con respeto y deferen-
+cia, facilitándoseles el ejercicio de sus derechos.
+2.– A ser informados de los programas y actuaciones educativos en
+los que pueden participar.
+3.– A participar en cuantos programas y actuaciones educativos les
+correspondan.
+4.– A la confidencialidad y secreto profesional de las informaciones,
+deliberaciones y resoluciones o acuerdos adoptados por el personal del
+APE. 
+5.– A presentar quejas y sugerencias sobre el funcionamiento del Área
+de Programas Educativos a través de los siguientes medios: 
+– Personalmente, ante los órganos competentes de la correspondien-
+te Dirección Provincial de Educación.
+– El buzón virtual de sugerencias y quejas de la Junta de Castilla y
+León. (http://www.jcyl.es)
+– Llamando al teléfono 012 de información administrativa y aten-
+ción al ciudadano.
+– El Libro de Sugerencias y Quejas que está disponible en las uni-
+dades de información y atención al ciudadano, rellenando la hoja
+correspondiente. 
+– Mediante escrito dirigido al órgano afectado, presentado para su
+registro, enviado a través de telefax a los números oficiales esta-
+blecidos o depositado en los buzones de sugerencias y quejas de
+las Oficinas Generales y Puntos de Información y Atención al
+Ciudadano. 
+IV.– COMPROMISOS DE CALIDAD 
+1.– Implantar los programas y actuaciones educativas, para contribuir
+a dar respuesta a las necesidades sociales y educativas que los funda-
+mentan.
+2.– Asumir los procesos educativos, el fomento de la innovación, la
+experimentación de los programas y el compromiso de la mejora de la
+calidad del sistema educativo y de los servicios a los ciudadanos.
+3.– Garantizar una adecuada ejecución de los programas y actuacio-
+nes educativas, tanto en su contenido material como en el nuevo marco
+metodológico de su gestión.
+4.– Realizar procesos de autoevaluación, como estrategia de mejora
+continua para su funcionamiento.
+5.– Informar a sus usuarios internos y externos, periódica y pun-
+tualmente, de servicios que ofrece y actividades que realiza, utilizando
+para ello diversos canales de comunicación (folletos, páginas Web,
+publicaciones…).
+6.– Mejorar los niveles de eficacia y eficiencia de sus servicios,
+haciendo uso de las Tecnologías de la Información y la Comunicación
+(TIC).
+7.– Asumir como valores éticos: La transparencia en la gestión, la res-
+ponsabilidad profesional y la buena atención a sus usuarios.
+8.– Prestar a los usuarios la atención y corrección debida y a dar res-
+puesta a sus demandas con la mayor diligencia que permita el buen uso
+de sus recursos humanos y materiales.
+9.– Participar en los procesos formativos de actualización y perfec-
+cionamiento, dirigidos a mejorar el desempeño profesional y el desarro-
+llo de las funciones y tareas del APE. 
+V.– INDICADORES DE CALIDAD
+A fin de poder comprobar el nivel de cumplimiento de los compro-
+misos antes reseñados, se establecen los siguientes indicadores del nivel
+de calidad:
+1.– Registro de actuaciones realizadas para cada uno de los programas.
+2.– Número y tipo de gestiones/actuaciones realizadas para cada uno
+de los programas.
+3.– Grado de cumplimiento de los objetivos establecidos para cada
+uno de los programas. 
+4.– Porcentaje de centros y servicios educativos, respecto al total,
+que implantan Programas Educativos.
+5.– Tendencia y evolución de los centros y servicios educativos que
+participan con carácter voluntario en la aplicación de los dife-
+rentes programas.
+6.– Grado de cumplimiento con los estándares establecidos por la
+Dirección General de Coordinación, Inspección y Programas
+Educativos para cada uno de los programas.
+7.– Valoración del análisis de los datos extraídos de las sugerencias
+y quejas presentadas por los usuarios de los programas educativos.
+8.– Grado de utilización de los diferentes canales de comunicación
+con los usuarios internos y externos de los programas. 
+9.– Porcentaje de actividades, promovidas desde el Área de Progra-
+mas Educativos, en las que se utilizan las TIC.
+10.– Grado de satisfacción manifestado por los centros y servicios edu-
+cativos, respecto a la atención y apoyo que les presta el personal
+del Área de Programas Educativos.
+VI.– PARTICIPACIÓN DE LOS CIUDADANOS EN LA TOMA DE
+DECISIONES Y EN LA MEJORA DE LOS SERVICIOS
+Los ciudadanos podrán participar personalmente o a través de sus
+órganos de representación y participación en la toma de decisiones y en
+la mejora de los servicios mediante:
+1.– Escritos dirigidos al Director Provincial de Educación y al Jefe
+del Área de Programas Educativos.
+2.– Entrevistas con los asesores o el Jefe del Área de Programas
+Educativos.
+3.– La participación en las evaluaciones que las Áreas de Programas
+Educativos realicen, como diagnóstico para la mejora de la cali-
+dad de sus servicios.
+4.– La participación en las evaluaciones que las Áreas de Programas
+Educativos realizan de cada uno de los programas encomendados.
+5.– Formulando sugerencias y quejas.
+VII.– ÓRGANO RESPONSABLE DE LA CARTA
+Consejería de Educación
+Monasterio Nuestra Señora del Prado
+Autovía Puente Colgante s/n – Valladolid
+Teléfono: 983 411 518
+Fax: 983 412 770
+Portal de Educación: http://www.educa.jcyl.es
+ORDEN PAT/1013/2007, de 16 de mayo, por la que se aprueba la Carta
+de Servicios al Ciudadano de los Centros Rurales de Innovación
+Educativa.
+El Decreto 230/2000, de 9 de noviembre, por el que se regulan las
+Cartas de Servicios al Ciudadano en la Administración de la Comunidad
+de Castilla y León («B.O.C.y L» n.º 218, de 10 de noviembre de 2000),
+establece en su artículo 6.º, 3 que la Orden de aprobación de cada Carta
+de Servicios se hará pública mediante la inserción en el Boletín Oficial de
+Castilla y León de un extracto del contenido de la misma.
+De acuerdo con lo establecido en el citado Decreto, y visto el infor-
+me favorable emitido por la Dirección General de Atención al Ciudada-
+no y Modernización Administrativa, 
+DISPONGO:
+Primero.
+1.– Se aprueba la Carta de Los Centros Rurales de Innovación Edu-
+cativa, cuyo extracto aparece como Anexo a la presente Orden.
+2.–El Director General de Coordinación, Inspección y Programas
+Educativos de la Consejería de Educación, podrá autorizar a aquellos
+Centros Rurales de Innovación Educativa que lo soliciten, a desarrollar

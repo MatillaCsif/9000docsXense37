@@ -1,0 +1,130 @@
+Boletín Oficial de Castilla y León
+Núm. 37
+Pág. 12015
+Lunes, 24 de febrero de 2014
+I. COMUNIDAD DE CASTILLA Y LEÓN
+A. DISPOSICIONES GENERALES
+CONSEJERÍA DE EDUCACIÓN
+ORDEN EDU/99/2014, de 13 de febrero, por la que se crea el fichero de datos de 
+carácter personal denominado «Registro del Código de Identificación (CIE) de los alumnos 
+de enseñanzas escolares de Castilla y León».
+El artículo 20.1 de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de 
+Datos de Carácter Personal, establece que la creación, modificación o supresión de los 
+ficheros de las Administraciones Públicas sólo podrá hacerse por medio de disposición 
+general publicada en el «Boletín Oficial del Estado» o Diario Oficial correspondiente.
+En este sentido, el Decreto 11/2003, de 23 de enero, por el que se regulan los 
+ficheros de datos de carácter personal susceptibles de tratamiento automatizado, de 
+la Administración de la Comunidad de Castilla y León, en su artículo 2, establece que 
+la creación de ficheros de datos de carácter personal se realizará, previo informe de la 
+Dirección General de Telecomunicaciones y Transportes de la Consejería de Fomento, 
+por Orden del titular de la Consejería competente por razón de la materia, disposición de 
+creación que deberá de recoger todos los apartados que establece el artículo 20.2 de la 
+Ley Orgánica 15/1999, de 13 de diciembre.
+No obstante, el nombre del órgano encargado de emitir el citado informe ha variado 
+con los cambios estructurales acaecidos en la administración autonómica desde el año 2003 
+y en este sentido, el Decreto 31/2011, de 7 de julio, por el que se establece la estructura 
+orgánica de la Consejería de Hacienda, atribuye a la Dirección General de Atención al 
+Ciudadano, Calidad y Modernización, el ejercicio de las funciones de coordinación y, en 
+su caso, ejecución de las medidas que garanticen la seguridad de los sistemas de la 
+información y la interoperabilidad de los sistemas.
+En este momento, teniendo en cuenta lo anteriormente expuesto y ante la necesidad 
+de dar cumplimiento a las exigencias legales establecidas y lograr una mayor eficiencia 
+en la organización y gestión administrativa llevada a cabo por la Consejería de Educación 
+garantizando, paralelamente, el derecho a la protección de datos de carácter personal de 
+los administrados relacionados con ella, se hace preciso la creación de un nuevo fichero 
+de datos.
+En su virtud y previo informe de la Dirección General de Atención al Ciudadano, 
+Calidad y Modernización de la Consejería de Hacienda sobre las medidas de seguridad 
+que debe cumplir el fichero de datos personales.
+DISPONGO
+Artículo 1. Objeto.
+La presente orden tiene por objeto la creación del fichero de datos de carácter 
+personal de la Consejería de Educación denominado «Registro del código de identificación 
+CV: BOCYL-D-24022014-4
+
+Boletín Oficial de Castilla y León
+Núm. 37
+Pág. 12016
+Lunes, 24 de febrero de 2014
+(CIE) de los alumnos de enseñanzas escolares de Castilla y León», cuya descripción 
+figura en el Anexo.
+Artículo 2. Medidas técnicas y organizativas.
+El titular del órgano responsable del fichero a que se refiere el artículo anterior y, 
+en su caso, el encargado de su tratamiento, adoptarán las medidas de índole técnica y 
+organizativa necesarias que garanticen la seguridad de los datos de carácter personal 
+y eviten su alteración, pérdida, tratamiento o acceso no autorizado, habida cuenta del 
+estado de la tecnología, la naturaleza de los datos almacenados y los riesgos a que 
+están expuestos. Ello implica la implantación de las medidas de seguridad exigibles en 
+función de la naturaleza de los datos protegidos, en los términos establecidos en el Real 
+Decreto 1720/2007, de 21 de diciembre, por el que se aprueba el Reglamento de desarrollo 
+de la Ley Orgánica 15/1999, de 13 de diciembre, de protección de datos de carácter 
+personal.
+Artículo 3. Derechos de los afectados.
+Las personas afectadas por el fichero podrán ejercitar el derecho de acceso, 
+rectificación, cancelación u oposición de sus datos de carácter personal, cuando proceda, 
+ante el órgano administrativo responsable de los mismos que se concreta en el Anexo.
+DISPOSICIÓN FINAL
+Entrada en vigor. La presente orden entrará en vigor el día siguiente al de su 
+publicación en el «Boletín Oficial de Castilla y León».
+Valladolid, 13 de febrero de 2014.
+El Consejero,
+Fdo.: Juan José Mateos Otero
+CV: BOCYL-D-24022014-4
+
+Boletín Oficial de Castilla y León
+Núm. 37
+http://bocyl.jcyl.es
+D.L.: BU 10-1979 - ISSN 1989-8959
+Pág. 12017
+Lunes, 24 de febrero de 2014
+ANEXO
+FICHERO CREADO
+NOMBRE DEL FICHERO:
+FICHERO DE REGISTRO DEL CÓDIGO DE IDENTIFICACIÓN 
+(CIE) DE LOS ALUMNOS DE ENSEÑANZAS ESCOLARES DE 
+CASTILLA Y LEÓN
+FINES Y USOS:
+IDENTIFICAR DE FORMA UNÍVOCA A LOS ALUMNOS DE 
+ENSEÑANZAS ESCOLARES DE LA COMUNIDAD DE CASTILLA 
+Y LEÓN
+PERSONAS O COLECTIVOS 
+AFECTADOS:
+ALUMNOS DE ENSEÑANZAS ESCOLARES DE LA COMUNIDAD 
+DE CASTILLA Y LEÓN, PADRE, MADRE, REPRESENTANTE 
+LEGAL O TUTOR.
+PROCEDIMIENTO DE 
+RECOGIDA
+INFORMACIÓN APORTADA POR EL PROPIO INTERESADO, 
+PADRE, MADRE, REPRESENTANTE LEGAL O TUTOR EN 
+EL IMPRESO DE MATRICULACIÓN EN LAS ENSEÑANZAS 
+ESCOLARES DE LA COMUNIDAD DE CASTILLA Y LEÓN
+ESTRUCTURA BÁSICA DEL 
+FICHERO Y DESCRIPCIÓN DE 
+LOS DATOS DE CARÁCTER 
+PERSONAL:
+DATOS DE CARÁCTER IDENTIFICATIVO: NIF/NIE. NOMBRE 
+Y APELLIDOS. FECHA DE NACIMIENTO, SEXO, NIF/NIE, 
+IDENTIFICADOR DEL ALUMNO EN EL SISTEMA DE ORIGEN, 
+NOMBRE Y APELLIDOS DEL PADRE, MADRE, REPRESENTANTE 
+LEGAL O TUTOR.
+CESIONES DE DATOS DE 
+CARÁCTER PERSONAL 
+PREVISTAS:
+NO ESTÁN PREVISTAS
+ÓRGANO DE LA 
+ADMINISTRACIÓN 
+RESPONSABLE DEL FICHERO:
+CONSEJERÍA DE EDUCACIÓN
+DIRECCIÓN GENERAL DE POLÍTICA EDUCATIVA ESCOLAR
+SERVICIO O UNIDAD ANTE EL 
+QUE PUEDEN EJERCITARSE 
+LOS DERECHOS DE ACCESO,
+RECTIFICACIÓN, 
+CANCELACIÓN Y OPOSICIÓN:
+LOS CENTROS EDUCATIVOS Y ENTIDADES QUE, SIN SER 
+CENTROS DOCENTES, CUENTEN CON AUTORIZACIÓN 
+PARA IMPARTIR EN UN AÑO ACADÉMICO ENSEÑANZAS 
+ESCOLARES.
+NIVEL DE SEGURIDAD:
+BÁSICO 
+CV: BOCYL-D-24022014-4

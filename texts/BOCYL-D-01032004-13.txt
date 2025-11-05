@@ -1,0 +1,185 @@
+B.O.C. y L. - N.º 41
+Lunes, 1 de marzo 2004
+2805
+UNIVERSIDADES PRIVADAS
+ORDEN EDU/213/2004, de 19 de febrero, por la que se convoca concurso
+público para la cesión de procesadores (C.P.U.s) a asociaciones de
+madres y padres de alumnos y a federaciones de asociaciones de alum-
+nos de enseñanzas escolares de la Comunidad de Castilla y León.
+La Ley Orgánica 10/2002, de 23 de diciembre, de Calidad de la Educa-
+ción, la Ley Orgánica 8/1985, de 3 de julio, reguladora del derecho a la Edu-
+cación y los Reales Decretos 1533/1986 y 1532/1986, por los que se regu-
+lan las asociaciones de madres y padres de alumnos y las asociaciones de
+alumnos respectivamente, reconocen la importancia de la participación de
+dichas asociaciones en los centros educativos. De ahí que estos dos últimos
+textos legales prevean la concesión de ayudas para fomentar sus actividades
+y las de sus federaciones y confederaciones.
+La Administración de la Comunidad de Castilla y León quiere contribuir
+a mejorar la infraestructura administrativa y los medios materiales con los
+que cuentan estas asociaciones, con el fin de que éstas puedan desempeñar
+esas actividades en las mejores condiciones posibles. La Consejería de Edu-
+cación ha decidido aprovechar la oportunidad que brinda el Plan Renove de
+la Consejería de Fomento para, a través de la cesión de equipos informáti-
+cos, dotar a las asociaciones de madres y padres de alumnos y a las federa-
+ciones de asociaciones de alumnos de una infraestructura informática bási-
+ca, dentro de las disponibilidades actuales existentes. 
+En consecuencia, y teniendo en cuenta las reglas establecidas en la Ley
+7/1986, de 23 de diciembre, de la Hacienda, y 6/1987, de 7 de mayo, de
+Patrimonio, ambas de la Comunidad de Castilla y León y en virtud de las
+atribuciones conferidas por la Ley 3/2001, de 3 de julio, del Gobierno y de
+la Administración de la Comunidad de Castilla y León, esta Consejería de
+Educación acuerda convocar concurso público para la cesión de procesado-
+res (C.P.U.s) a asociaciones de madres y padres de alumnos y federaciones
+de asociaciones de alumnos de enseñanzas escolares de esta Comunidad,
+con arreglo a las siguientes
+
+2806
+Lunes, 1 de marzo 2004
+B.O.C. y L. - N.º 41
+BA S E S :
+P ri m e ra.– Objeto de la convo c at o ri a .
+1.1. La presente convo c at o ria tiene por objeto la cesión de tre s c i e n t o s
+(300) pro c e s a d o res (C.P. U.s) testados, con sistema operat ivo instalado basa-
+do en distri bución LINUX y con las herramientas ofimáticas de uso hab i t u a l ,
+a asociaciones de madres y padres de alumnos y a fe d e raciones de asocia-
+ciones de alumnos de enseñanzas escolares de la comunidad de Castilla y
+L e ó n , p a ra el desarrollo de sus actividades de interés social, de acuerdo con
+la siguiente distri bu c i ó n :
+– Pa ra las asociaciones de madres 
+y padres de alumnos . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .285 unidades.
+– Pa ra las fe d e raciones de asociaciones de alumnos . . . . . . . .15 unidades.
+1.2. Las asociaciones y federaciones que obtengan un procesador al
+amparo de esta convocatoria tendrán cumplido el requisito para acceder a
+las subvenciones para material informático convocadas mediante órdenes
+EDU/1776/2003, y EDU/1777/2003, ambas de 30 de diciembre, al que
+hace referencia la base primera, último párrafo, y 2.2 de las citadas órde-
+nes, respectivamente.
+S egunda.– Benefi c i a ri o s .
+2.1. Podrán solicitar la cesión objeto de esta convo c at o ria las asociacio-
+nes de madres y padres de alumnos cuyo ámbito de actuación esté dentro de
+la Comu n i d a d, que estén inscritas o en trámite de inscri p c i ó n , a la fe cha de
+finalización del plazo para la presentación de solicitudes, en el corre s p o n-
+diente censo de la Consejería de Educación (se conserva el n.º que tenía en
+el censo del M.E.C.), así como las fe d e raciones de asociaciones de alumnos
+de enseñanza escolar inscritas en el censo establecido en las re s p e c t iva s
+D i recciones Provinciales de Educación antes de la finalización del plazo de
+p resentación de solicitudes.
+2.2. Podrán también solicitar las ayudas las asociaciones de madres y
+p a d res de alumnos de Castilla y León de los conservat o rios de música, e s c u e-
+las de idiomas, escuelas de arte y otros centros con modalidades singulare s , a
+que se re fi e re la disposición adicional pri m e ra del Real Decreto 1533/1986,
+de 11 de julio. Estas entidades están ex o n e radas del requisito de la inscri p c i ó n
+en el censo de la Consejería, si bien deberán presentar en su lugar el acta fun-
+dacional y la copia de los estat u t o s .
+Te rc e ra.– Solicitudes y documentación.
+3.1. Las solicitudes, redactadas confo rme al modelo que fi g u ra en el
+A n exo I de la presente Ord e n ,d eberán diri gi rse al Excmo. Sr. Consejero de
+E d u c a c i ó n , y pre s e n t a rs e, bien directamente en el regi s t ro de la Consejería
+de Educación (Monasterio de Nuestra Señora de Prado. Au t ovía Puente Col-
+ga n t e, s / n , 47071 Valladolid) o en el de las Delegaciones Te rri t o riales de la
+Junta de Castilla y León, bien por cualquiera de los demás medios establ e-
+cidos en el artículo 38.4 de la Ley 30/1992, de 26 de nov i e m b re, de Régi m e n
+Jurídico de las A d m i n i s t raciones Públicas y del Procedimiento A d m i n i s t ra-
+t ivo Común.
+3.2. A la solicitud se acompañará la siguiente documentación, o ri ginal o
+fotocopia compulsada:
+a) Tarjeta de Identificación Fiscal (C.I.F.) de la asociación o fe d e ra c i ó n
+s o l i c i t a n t e.
+b) Documento Nacional de Identidad (DNI) del rep resentante legal que
+fo rmalice la solicitud.
+c) Documento acre d i t at ivo de la rep resentación que ostenta el solicitan-
+t e, extendido por el secre t a rio de la asociación o fe d e ra c i ó n .
+d) E s c ri t o , c o n fo rme al modelo que fi g u ra en el A n exo II, en el que se
+h aga constar la necesidad del CPU, c o n fo rme a los cri t e rios establ e-
+cidos en la base sexta de la presente convo c at o ria. 
+e) En el caso de asociaciones de madres y padres de alumnos, d e cl a ra-
+ción fi rmada por el Presidente de la asociación donde se haga constar
+el número de asociados.
+f) En el caso de fe d e raciones de asociaciones de alumnos, p rograma de
+a c t ividades para el presente curso escolar 2003/2004.
+C u a rta.– Plazo de presentación y subsanación de defe c t o s .
+4.1. El plazo de presentación de solicitudes será de 20 días nat u rales con-
+tados a partir del siguiente al de la publicación de la presente Orden en el
+«Boletín Oficial de Castilla y León».
+4.2. Si la solicitud ap o rtada no re u n i e ra todos los requisitos establ e c i d o s
+en la presente Ord e n , se re q u e rirá al interesado para que, en el plazo de diez
+d í a s , subsane la falta o acompañe los documentos pre c ep t ivo s , con la indi-
+cación de que, si así no lo hiciera , se le tendrá por desistido de su petición,
+p revia re s o l u c i ó n .
+Q u i n t a . – Comisión de selección.
+Las solicitudes serán examinadas y va l o radas por una comisión de selec-
+ción integrada por:
+– El Director General de Coord i n a c i ó n , Inspección y Programas Edu-
+c at ivos o persona en quien deleg u e, que la pre s i d i r á .
+– Dos funcionarios de esa Dirección General nombrados por su titular,
+uno de los cuales actuará como Secre t a ri o .
+– Un rep resentante de cada confe d e ración de asociaciones de madres y
+p a d res de alumnos de Castilla y León.
+– Un rep resentante de las fe d e raciones de asociaciones de alumnos de
+Castilla y León. 
+S exta.– Cri t e rios para la adjudicación de los pro c e s a d o re s .
+La comisión de selección va l o rará y seleccionará las solicitudes que
+alcancen mayor puntuación, d e n t ro de las disponibilidades mat e riales re c o-
+gidas en la base pri m e ra , de acuerdo a los siguientes cri t e ri o s :
+a) En el caso de las asociaciones de madres y padre s :
+– N ú m e ro de asociados a partir de los 100: . . . . . . . . . . . .e n t re 1 y 3 puntos.
+– Asociaciones ubicadas en centros del medio ru ra l. . . . . .hasta 4 puntos.
+– Asociaciones de centros cuyo entorno presenta 
+necesidades socioeconómicas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .hasta 4 puntos.
+– Asociaciones ubicadas en centros con 
+c ableado estru c t u ral propio . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .3 puntos.
+– Asociaciones de escuelas incompletas. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .4 puntos.
+b) En el caso de las fe d e raciones de asociaciones de alumnos la comi-
+sión va l o rará sus necesidades así como su programa de actividades dura n t e
+el curso escolar 2003/2004.
+Séptima.– Resolución.
+7.1. La convo c at o ria será resuelta por el Consejero de Educación de la
+Junta de Castilla y León, a propuesta motivada de la comisión de selección,
+p revio info rme de la Asesoría Ju r í d i c a .
+7.2. La resolución motivada se publicará en el «Boletín Oficial de Casti-
+lla y León».
+7.3. El plazo máximo para re s o l ver la convo c at o ria y publicar la re s o l u-
+ción será de un mes a contar desde el día siguiente a la fe cha de fi n a l i z a c i ó n
+del plazo de presentación de solicitudes. Tra n s c u rrido dicho plazo sin que se
+h aya publicado la re s o l u c i ó n , se podrán entender desestimadas las solicitudes.
+7.4. La re s o l u c i ó n , que pondrá fin a la vía administrat iva , podrá ser
+impugnada mediante re c u rso potestat ivo de rep o s i c i ó n , o bien, d i re c t a m e n t e
+mediante re c u rso contencioso-administrat ivo .
+O c t ava.– Uso de los bienes cedidos y reve rs i ó n .
+8.1. Los bienes objeto de cesión deberán ser destinados al uso de la aso-
+ciación o fe d e ración cesionaria para el desarrollo de sus actividades desde el
+mismo momento de su entrega .
+8.2. Si los bienes cedidos no fuesen destinados a ese uso, o dejaran de
+s e rlo posteri o rm e n t e, se considerará resuelta la cesión y reve rtirán aquellos
+a la Comu n i d a d, la cual tendrá dere cho a percibir del cesionario el valor de
+los deteri o ros ex p e rimentados. Del mismo modo, podrá dar lugar a la modi-
+ficación de la resolución de cesión y, en su caso, a la reve rsión del bien, c u a l-
+quier alteración de las condiciones tenidas en cuenta para su concesión.
+8.3. A efectos de velar por lo establecido en esta base esta consejería se
+re s e rva el dere cho a la inspección, s eguimiento y control del uso dado a los
+bienes objeto de cesión.
+N ovena.– Base fi n a l .
+9.1 Se faculta al Director General de Coord i n a c i ó n , Inspección y Pro-
+gramas Educat ivos para dictar cuantas resoluciones e instrucciones sean
+n e c e s a rias para el cumplimiento de lo previsto en la presente Ord e n .
+9.2. En lo no previsto en esta Orden se estará a lo dispuesto en la legi s-
+lación de esta Comunidad y, en su caso, a la del Estado que le sea ap l i c abl e.
+C o n t ra la presente Ord e n , que pone fin a la vía administrat iva ,c abe inter-
+poner potestat ivamente re c u rso de reposición en el plazo de un mes ante el
+C o n s e j e ro de Educación o bien directamente re c u rso contencioso adminis-
+t rat ivo ante la Sala de lo Contencioso-Administrat ivo del Tri bunal Superi o r
+de Justicia de Castilla y León en el plazo de dos meses. Ambos plazos se
+computarán a partir del día siguiente al de su publicación en el «Boletín Ofi-
+cial de Castilla y León».
+Va l l a d o l i d, 19 de feb re ro de 2004.
+El Consejero ,
+F d o . : FR A N C I S C O JAV I E R ÁLVA R E Z GU I S A S O L A
+
+B.O.C. y L. - N.º 41
+Lunes, 1 de marzo 2004
+2807
+
+2808
+Lunes, 1 de marzo 2004
+B.O.C. y L. - N.º 41
+(Continúa en Fascículo Segundo)

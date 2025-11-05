@@ -1,0 +1,2394 @@
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70797
+Miércoles, 7 de septiembre de 2011
+I. COMUNIDAD DE CASTILLA Y LEÓN
+A. DISPOSICIONES GENERALES
+CONSEJERÍA DE EDUCACIÓN
+DECRETO 50/2011, de 1 de septiembre, por el que se establece el currículo 
+correspondiente al Título de Técnico Superior en Sistemas Electrotécnicos y Automatizados 
+en la Comunidad de Castilla y León.
+El artículo 73.1 del Estatuto de Autonomía de Castilla y León, atribuye a la Comunidad 
+de Castilla y León la competencia de desarrollo legislativo y ejecución de la enseñanza 
+en toda su extensión, niveles y grados, modalidades y especialidades, de acuerdo con 
+el derecho a la educación que todos los ciudadanos tienen, según lo establecido en el 
+artículo 27 de la Constitución Española y las leyes orgánicas que lo desarrollan.
+La Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación 
+Profesional, establece en el artículo 10.1 que la Administración General del Estado, 
+determinará los títulos y los certificados de profesionalidad, que constituirán las ofertas de 
+formación profesional referidas al Catálogo Nacional de Cualificaciones Profesionales.
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación, determina en su artículo 39.6 
+que el Gobierno, establecerá las titulaciones correspondientes a los estudios de formación 
+profesional, así como los aspectos básicos del currículo de cada una de ellas.
+El Real Decreto 1538/2006, de 15 de diciembre, por el que se establece la 
+ordenación general de la formación profesional del sistema educativo define en el artículo 
+6, la estructura de los títulos de formación profesional, tomando como base el Catálogo 
+Nacional de Cualificaciones Profesionales, las directrices fijadas por la Unión Europea 
+y otros aspectos de interés social. El artículo 7 concreta el perfil profesional de dichos 
+títulos, que incluirá la competencia general, las competencias profesionales, personales 
+y sociales, las cualificaciones y, en su caso, las unidades de competencia del Catálogo 
+Nacional de Cualificaciones Profesionales incluidas en los títulos.
+Por otro lado, el artículo 17 del Real Decreto 1538/2006, de 15 de diciembre, dispone 
+que las Administraciones educativas establezcan los currículos de las enseñanzas de 
+formación profesional respetando lo en él dispuesto y en las normas que regulen los títulos 
+respectivos.
+Posteriormente, el Real Decreto 1127/2010, de 10 de septiembre, establece el título de 
+Técnico Superior en Sistemas Electrotécnicos y Automatizados y se fijan sus enseñanzas 
+mínimas, disponiendo en el artículo 1, que sustituye a la regulación del título de Técnico 
+Superior en Instalaciones Electrotécnicas, contenida en el Real Decreto 621/1995, de 21 
+de abril.
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70798
+Miércoles, 7 de septiembre de 2011
+El presente Decreto establece el currículo correspondiente al título de Técnico 
+Superior en Sistemas Electrotécnicos y Automatizados en la Comunidad de Castilla y León, 
+teniendo en cuenta los principios generales que han de orientar la actividad educativa, 
+según lo previsto en el artículo 1 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación. 
+Pretende dar respuesta a las necesidades generales de cualificación de los recursos 
+humanos para su incorporación a la estructura productiva de la Comunidad de Castilla y 
+León.
+En el proceso de elaboración de este Decreto se ha recabado dictamen del Consejo 
+Escolar de Castilla y León e informe del Consejo de Formación Profesional de Castilla y 
+León.
+En su virtud, la Junta de Castilla y León, a propuesta del Consejero de Educación, y 
+previa deliberación del Consejo de Gobierno en su reunión de 1 de septiembre de 2011
+DISPONE
+Artículo 1.– Objeto y ámbito de aplicación.
+El presente Decreto tiene por objeto establecer el currículo del título de Técnico 
+Superior en Sistemas Electrotécnicos y Automatizados en la Comunidad de Castilla y 
+León. 
+Artículo 2.– Identificación del título.
+El título de Técnico Superior en Sistemas Electrotécnicos y Automatizados queda 
+identificado en la Comunidad de Castilla y León por los elementos determinados en el 
+artículo 2 del Real Decreto 1127/2010, de 10 de septiembre, por el que se establece el 
+citado título y se fijan sus enseñanzas mínimas, y por un código, de la forma siguiente:
+FAMILIA PROFESIONAL: Electricidad y Electrónica.
+DENOMINACIÓN: Sistemas Electrotécnicos y Automatizados.
+NIVEL: Formación Profesional de Grado Superior.
+DURACIÓN DEL CICLO: 2.000 horas.
+REFERENTE EUROPEO: CINE–5b (Clasificación Internacional Normalizada de la 
+Educación).
+CÓDIGO: ELE01S.
+Artículo 3.– Referentes de la formación.
+1.– Los aspectos relativos al perfil profesional del título de Técnico Superior en 
+Sistemas Electrotécnicos y Automatizados determinado por la competencia general, por 
+las competencias profesionales, personales y sociales, y por la relación de cualificaciones y 
+unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas 
+en el título, así como los aspectos referentes al entorno profesional y la prospectiva del 
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70799
+Miércoles, 7 de septiembre de 2011
+título en el sector o sectores, son los que se especifican en el Real Decreto1127/2010, de 
+10 de septiembre.
+2.– El aspecto relativo al entorno productivo en Castilla y León es el que se determina 
+en el Anexo I.
+Artículo 4.– Objetivos generales.
+Los objetivos generales del ciclo formativo de Técnico Superior en Sistemas 
+Electrotécnicos y Automatizados serán los establecidos en el artículo 9 del Real Decreto 
+1127/2010, de 10 de septiembre.
+Artículo 5.– Principios metodológicos generales.
+1.– La metodología didáctica de las enseñanzas de formación profesional integrará 
+los aspectos científicos, tecnológicos y organizativos que en cada caso correspondan, con 
+el fin de que el alumnado adquiera una visión global de los procesos productivos propios 
+de la actividad profesional correspondiente.
+2.– Las enseñanzas de formación profesional para personas adultas se organizarán 
+con una metodología flexible y abierta, basada en el autoaprendizaje.
+Artículo 6.– Módulos profesionales del ciclo formativo.
+Los módulos profesionales que componen el ciclo formativo de Técnico Superior en 
+Sistemas Electrotécnicos y Automatizados son los establecidos en el artículo 10 del Real 
+Decreto 1127/2010, de 10 de septiembre:
+0517. 	Procesos 
+en 
+instalaciones 
+de 
+infraestructuras 
+comunes 
+de 
+telecomunicaciones.
+0518. 	Técnicas y procesos en instalaciones eléctricas.
+0519. 	Documentación técnica en instalaciones eléctricas.
+0520. 	Sistemas y circuitos eléctricos.
+0521. 	Técnicas y procesos en instalaciones domóticas y automáticas.
+0522. 	Desarrollo de redes eléctricas y centros de transformación.
+0523. 	Configuración de instalaciones domóticas y automáticas.
+0524. 	Configuración de instalaciones eléctricas.
+0602. 	Gestión del montaje y del mantenimiento de instalaciones eléctricas.
+0526. 	Proyecto de sistemas electrotécnicos y automatizados.
+0527. 	Formación y orientación laboral.
+0528. 	Empresa e iniciativa emprendedora.
+0529. 	Formación en centros de trabajo.
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70800
+Miércoles, 7 de septiembre de 2011
+Artículo 7.– Objetivos, contenidos, duración y orientaciones pedagógicas y 
+metodológicas de cada módulo profesional.
+Los objetivos de los módulos profesionales relacionados en el artículo 6, expresados 
+en términos de resultados de aprendizaje, y los criterios de evaluación, son los que se 
+establecen en el Real Decreto 1127/2010, de 10 de septiembre.
+Por su parte, los contenidos, la duración y las orientaciones pedagógicas y 
+metodológicas de los módulos profesionales «Procesos en instalaciones de infraestructuras 
+comunes de telecomunicaciones», «Técnicas y procesos en instalaciones eléctricas», 
+«Documentación técnica en instalaciones eléctricas», «Sistemas y circuitos eléctricos», 
+«Técnicas y procesos en instalaciones domóticas y automáticas», «Desarrollo de redes 
+eléctricas y centros de transformación», «Configuración de instalaciones domóticas y 
+automáticas», «Configuración de instalaciones eléctricas», «Gestión del montaje y del 
+mantenimiento de instalaciones eléctricas», «Formación y orientación laboral» y «Empresa 
+e iniciativa emprendedora», son los que se establecen en el Anexo II. Asimismo, en citado 
+anexo se establece la duración y las orientaciones pedagógicas y metodológicas del 
+módulo profesional «Proyecto de sistemas electrotécnicos y automatizados», así como la 
+duración del módulo profesional «Formación en centros de trabajo».
+Artículo 8.– Módulos profesionales de «Formación en centros de trabajo» y «Proyecto 
+de sistemas electrotécnicos y automatizados».
+1.– El programa formativo del módulo de «Formación en centros de trabajo» será 
+individualizado para cada alumno y se elaborará teniendo en cuenta las características 
+del centro de trabajo. Deberá recoger las actividades formativas que permitan ejecutar 
+o completar la competencia profesional correspondiente al título, los resultados de 
+aprendizaje y los criterios de evaluación previstos en el Real Decreto 1127/2010, de 10 de 
+septiembre.
+2.– El módulo profesional de «Proyecto de sistemas electrotécnicos y automatizados» 
+se definirá de acuerdo con las características de la actividad laboral del ámbito del ciclo 
+formativo y con aspectos relativos al ejercicio profesional y a la gestión empresarial. Tendrá 
+por objeto la integración de las diversas capacidades y conocimientos del currículo del 
+ciclo formativo, contemplará las variables tecnológicas y organizativas relacionadas con el 
+título, y deberá ajustarse a los resultados de aprendizaje y criterios de evaluación previstos 
+en el Real Decreto 1127/2010, de 10 de septiembre. 
+El departamento de la familia profesional de Electricidad y Electrónica determinará, 
+en el marco de la programación general anual, los proyectos que se propondrán para su 
+desarrollo por el alumnado. Los proyectos también podrán ser propuestos por el alumnado, 
+en cuyo caso se requerirá la aceptación del departamento.
+Con carácter general, el módulo profesional de «Proyecto de sistemas electrotécnicos 
+y automatizados» se desarrollará simultáneamente al módulo de «Formación en centros 
+de trabajo», salvo que concurran otras circunstancias que no lo permitan.
+El módulo profesional de «Proyecto de sistemas electrotécnicos y automatizados» 
+puede ser equivalente con el desarrollo de un proyecto de innovación, en el que participe 
+el alumnado, cuando tenga un componente integrador de los contenidos de los módulos 
+que constituyen el ciclo formativo.
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70801
+Miércoles, 7 de septiembre de 2011
+Artículo 9.– Organización y distribución horaria. 
+1.– Los módulos profesionales que forman las enseñanzas del ciclo formativo de 
+Técnico Superior en Sistemas Electrotécnicos y Automatizados se organizarán en dos 
+cursos académicos. Su distribución en cada uno de ellos y la asignación horaria semanal 
+se recoge en el Anexo III.
+2.– El período de realización del módulo profesional de «Formación en centros de 
+trabajo» establecido en el Anexo III para el tercer trimestre, podrá comenzar en el segundo 
+trimestre si han transcurrido veintidós semanas lectivas a contar desde el inicio del curso 
+escolar.
+Artículo 10.– Adaptaciones curriculares.
+1.– Con objeto de ofrecer a todas las personas la oportunidad de adquirir una formación 
+básica, ampliar y renovar sus conocimientos, habilidades y destrezas de modo permanente 
+y facilitar el acceso a las enseñanzas de formación profesional, la Consejería competente 
+en materia de Educación podrá flexibilizar la oferta del ciclo formativo de Técnico Superior 
+en Sistemas Electrotécnicos y Automatizados permitiendo, principalmente a las personas 
+adultas, la posibilidad de combinar el estudio y la formación con la actividad laboral o con 
+otras actividades, respondiendo así a las necesidades e intereses personales.
+2.– También se podrá adecuar las enseñanzas de este ciclo formativo a las 
+características de la educación a distancia, así como a las características del alumnado 
+con necesidades educativas específicas.
+Artículo 11.– Accesos y vinculación a otros estudios, y correspondencia de módulos 
+profesionales con las unidades de competencia.
+El acceso y vinculación a otros estudios, y la correspondencia de los módulos 
+profesionales con las unidades de competencia son los que se establecen en el Capítulo IV 
+del Real Decreto 1127/2010, de 10 de septiembre.
+Artículo 12.– Enseñanzas impartidas en lenguas extranjeras o en lenguas cooficiales 
+de otras Comunidades Autónomas.
+1.– Teniendo en cuenta que la promoción de la enseñanza y el aprendizaje de lenguas 
+y de la diversidad lingüística debe constituir una prioridad de la acción comunitaria en el 
+ámbito de la educación y la formación, la Consejería competente en materia de educación 
+podrá autorizar que todos o determinados módulos profesionales del currículo se impartan 
+en lenguas extranjeras o en lenguas cooficiales de otra Comunidad Autónoma, sin perjuicio 
+de lo que se establezca en su normativa específica y sin que ello suponga modificación del 
+currículo establecido en el presente Decreto.
+2.– Los centros autorizados deberán incluir en su proyecto educativo los elementos 
+más significativos de su proyecto lingüístico autorizado.
+Artículo 13.– Oferta a distancia del título.
+1.– Los módulos profesionales que forman las enseñanzas del ciclo formativo 
+de Técnico Superior en Sistemas Electrotécnicos y Automatizados podrán ofertarse a 
+distancia, siempre que se garantice que el alumnado pueda conseguir los resultados de 
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70802
+Miércoles, 7 de septiembre de 2011
+aprendizaje de los mismos, de acuerdo con lo dispuesto en el Real Decreto 1127/2010, de 
+10 de septiembre, y en este Decreto.
+2.– La Consejería competente en materia de educación establecerá los módulos 
+profesionales susceptibles de ser impartidos a distancia y el porcentaje de horas de cada 
+uno de ellos que tienen que impartirse en régimen presencial.
+Artículo 14.– Requisitos de los centros para impartir estas enseñanzas.
+Todos los centros de titularidad pública o privada que ofrezcan enseñanzas 
+conducentes a la obtención del título de Técnico Superior en Sistemas Electrotécnicos y 
+Automatizados se ajustarán a lo establecido en la Ley Orgánica 2/2006, de 3 de mayo, 
+de Educación, y en las normas que lo desarrollen, y en todo caso, deberán cumplir los 
+requisitos que se establecen en el artículo 52 del Real Decreto 1538/2006, de 15 de 
+diciembre, por el que se establece la ordenación general de la formación profesional del 
+sistema educativo, en el Real Decreto 1127/2010, de 10 de septiembre, en este Decreto y 
+en lo establecido en el desarrollo de su propia normativa.
+Artículo 15.– Profesorado. 
+Los aspectos referentes al profesorado con atribución docente en los módulos 
+profesionales del ciclo formativo de Técnico Superior en Sistemas Electrotécnicos y 
+Automatizados, relacionados en el artículo 6, son los establecidos en el artículo 12 del 
+Real Decreto Real Decreto 1127/2010, de 10 de septiembre.
+Artículo 16.– Espacios y equipamientos. 
+Los espacios y equipamientos necesarios para el desarrollo de las enseñanzas del 
+ciclo formativo de Técnico Superior en Sistemas Electrotécnicos y Automatizados son los 
+establecidos en el artículo 11 del Real Decreto 1127/2010, de 10 de septiembre.
+Artículo 17.– Autonomía de los centros.
+1.– Los centros educativos dispondrán de la necesaria autonomía pedagógica, de 
+organización y de gestión económica, para el desarrollo de las enseñanzas y su adaptación 
+a las características concretas del entorno socioeconómico, cultural y profesional. Los 
+centros autorizados para impartir el ciclo formativo concretarán y desarrollarán el currículo 
+mediante las programaciones didácticas de cada uno de los módulos profesionales que 
+componen el ciclo formativo en los términos establecidos en el Real Decreto 1127/2010, 
+de 10 de septiembre, en este Decreto, en el marco general del proyecto educativo de 
+centro y en función de las características de su entorno productivo. 
+2.– La Consejería competente en materia de educación favorecerá la elaboración de 
+proyectos de innovación, así como de modelos de programación docente y de materiales 
+didácticos que faciliten al profesorado el desarrollo del currículo.
+3.– Los centros, en el ejercicio de su autonomía, podrán desarrollar experiencias, 
+planes de trabajo, formas de organización o ampliación del horario escolar en los términos 
+que establezca la Consejería competente en materia de educación, sin que, en ningún 
+caso, se impongan aportaciones ni exigencias a las familias o al alumnado.
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70803
+Miércoles, 7 de septiembre de 2011
+DISPOSICIONES ADICIONALES
+Primera.– Calendario de implantación.
+1.– La implantación del currículo establecido en este Decreto tendrá lugar en el curso 
+escolar 2011/2012 para el primer curso del ciclo formativo y en el curso escolar 2012/2013 
+para el segundo curso del ciclo formativo.
+2.– El alumnado de primer curso del ciclo formativo de grado superior «Técnico 
+Superior en Instalaciones Electrotécnicas» que deba repetir en el curso 2011/2012, se 
+matriculará de acuerdo con el nuevo currículo, teniendo en cuenta su calendario de 
+implantación.
+3.– En el curso 2011/2012, el alumnado de segundo curso del ciclo formativo de grado 
+superior «Técnico Superior en Instalaciones Electrotécnicas» con módulos profesionales 
+pendientes de primero se matricularán, excepcionalmente, de estos módulos profesionales 
+de acuerdo con el currículo que el alumnado venía cursando. En este caso, se arbitrarán las 
+medidas adecuadas que permitan la recuperación de las enseñanzas correspondientes.
+4.– En el curso 2012/2013, el alumnado del ciclo formativo de grado superior «Técnico 
+Superior en Instalaciones Electrotécnicas» con módulos profesionales pendientes de 
+segundo curso se podrán matricular, excepcionalmente, de estos módulos profesionales 
+de acuerdo con el currículo que el alumnado venía cursando. 
+5.– A efectos de lo indicado en los apartados 3 y 4, el Departamento de Familia 
+Profesional propondrá al alumnado un plan de trabajo, con expresión de las capacidades 
+terminales y los criterios de evaluación exigibles y de las actividades recomendadas, 
+y programarán pruebas parciales y finales para evaluar los módulos profesionales 
+pendientes.
+Segunda.– 
+Titulaciones 
+equivalentes 
+y 
+vinculación 
+con 
+capacitaciones 
+profesionales.
+1.– Las titulaciones equivalentes y vinculación con capacitaciones profesionales son 
+las que se establecen en la disposición adicional tercera del Real Decreto 1127/2010, de 
+10 de septiembre.
+2.– La formación establecida en el presente Decreto en el módulo profesional de 
+«Formación y orientación laboral», incluye un mínimo de 50 horas, que capacita para llevar 
+a cabo responsabilidades profesionales equivalentes a las que precisan las actividades de 
+nivel básico en prevención de riesgos laborales, establecidas en el Real Decreto 39/1997, 
+de 17 de enero, por el que se aprueba el Reglamento de los Servicios de Prevención.
+Tercera.– Certificación académica de superación del nivel básico en prevención de 
+riesgos laborales.
+La Consejería competente en materia de educación expedirá una certificación 
+académica de la formación de nivel básico en prevención de riesgos laborales, al alumnado 
+que haya superado el bloque B del módulo profesional de «Formación y orientación 
+laboral», de acuerdo con el procedimiento que se establezca al efecto.
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70804
+Miércoles, 7 de septiembre de 2011
+Cuarta.– Equivalencia a efectos de docencia en los procedimientos selectivos de 
+ingreso en el Cuerpo de Profesores Técnicos de Formación Profesional.
+En los procesos selectivos convocados por la Consejería competente en materia de 
+educación, el Título de Técnico Superior o de Técnico Especialista se declara equivalente 
+a los exigidos para el acceso al Cuerpo de Profesores Técnicos de Formación Profesional, 
+cuando el titulado haya ejercido como profesor interino en centros educativos públicos 
+dependientes de la citada Consejería y en la especialidad docente a la que pretenda 
+acceder durante un período mínimo de dos años antes del 31 de agosto de 2007. 
+Quinta.– Accesibilidad universal en las enseñanzas de este título.
+La Consejería competente en materia de educación adoptará las medidas necesarias 
+para que el alumnado pueda acceder y cursar dicho ciclo formativo en las condiciones 
+establecidas en la disposición final décima de la Ley 51/2003, de 2 de diciembre, de 
+igualdad de oportunidades, no discriminación y accesibilidad universal de las personas 
+con discapacidad. 
+Sexta.– Autorización de los centros educativos. 
+Todos los centros de titularidad pública o privada que, en la fecha de entrada en vigor 
+de este Decreto, tengan autorizadas enseñanzas conducentes a la obtención del título de 
+Técnico Superior en Instalaciones Electrotécnicas, regulado en el Real Decreto 621/1995, 
+de 21 de abril, quedarán autorizados para impartir el título de Técnico Superior en Sistemas 
+Electrotécnicos y Automatizados que se establece en el Real Decreto 1127/2010, de 10 
+de septiembre. 
+DISPOSICIÓN DEROGATORIA
+Derogación normativa.
+Queda derogado el Decreto 86/2003, de 31 de julio, por el que se establece el 
+currículo correspondiente al Título de Técnico Superior en Instalaciones Electrotécnicas 
+en el ámbito de la Comunidad de Castilla y León y cuantas disposiciones de igual o inferior 
+rango se opongan a lo establecido en el presente Decreto. 
+DISPOSICIONES FINALES
+Primera.– Desarrollo normativo.
+Se faculta al titular de la Consejería competente en materia de educación para dictar 
+cuantas disposiciones sean precisas para la interpretación, aplicación y desarrollo de lo 
+dispuesto en este Decreto.
+Segunda.– Entrada en vigor.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el 
+«Boletín Oficial de Castilla y León».
+Valladolid, a 1 de septiembre de 2011.
+El Presidente 
+de la Junta de Castilla y León, 
+Fdo.: Juan Vicente Herrera Campo
+El Consejero de Educación, 
+Fdo.: Juan José Mateos Otero
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70805
+Miércoles, 7 de septiembre de 2011
+ANEXO I
+ENTORNO PRODUCTIVO DE CASTILLA Y LEÓN 
+Los desafíos globales que afronta la política energética a nivel nacional y europeo 
+son la competitividad industrial, la seguridad de abastecimiento y la protección del medio 
+ambiente. 
+En este marco, los principios básicos de la política energética de Castilla y León 
+son:
+–	 La consecución de un sistema energético competitivo, equilibrado territorialmente, 
+generador de actividad económica y promotor de inversiones, en un contexto de 
+desarrollo sostenible y basado en una estrategia a largo plazo.
+–	 La reducción de la intensidad energética (relación entre la actividad económica 
+medida por el Producto Interior Bruto y el consumo de energía primaria), como 
+indicador de control del uso racional de la energía.
+–	 El descenso del impacto medioambiental: antes que ninguna otra medida, la 
+eficiencia es la energía menos contaminante.
+–	 La disminución de la alta dependencia exterior y una mejor utilización de los 
+recursos naturales autóctonos, fundamentalmente las energías renovables y la 
+generación combinada de calor y electricidad o cogeneración.
+–	 La potenciación de la diversificación energética, mediante la introducción de 
+nuevos combustibles y la sustitución de los más contaminantes.
+–	 La mejora de las garantías y de la calidad de suministro energético.
+Estos principios básicos se aplican sobre todas las actuaciones realizadas sobre 
+el sector energético regional, en los cuatro subsectores que lo componen: eléctrico, 
+hidrocarburos, nuclear y energías renovables.
+La gran riqueza de recursos hidráulicos y minerales hace que Castilla y León haya 
+ocupado en los últimos años siempre el primer o el segundo lugar (según el año hidráulico) 
+entre las Comunidades Autónomas españolas en generación, por lo que la región es 
+miembro de pleno derecho del Consejo Consultivo Eléctrico de la Comisión Nacional de 
+la Energía.
+El perfil profesional de este título, dentro del sector terciario, evoluciona hacia un 
+técnico polivalente con competencia profesional tanto en la ejecución y puesta en marcha 
+como en el mantenimiento de instalaciones, tanto del ámbito electrotécnico como de las 
+automatizadas, todo ello además con un incremento importante en el desempeño de 
+funciones de planificación, calidad y prevención de riesgos laborales.
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70806
+Miércoles, 7 de septiembre de 2011
+ANEXO II
+CONTENIDOS, DURACIÓN Y ORIENTACIONES PEDAGÓGICAS Y METODOLÓGICAS 
+DE LOS MÓDULOS PROFESIONALES
+Módulo profesional: Procesos en instalaciones de infraestructuras comunes 
+de telecomunicaciones.
+Equivalencia en créditos ECTS: 8.
+Código: 0517.
+Duración: 192 horas.
+Contenidos:
+1.– 
+Caracterización 
+de 
+instalaciones 
+de 
+infraestructuras 
+comunes 
+de 
+telecomunicaciones (ICT):
+–	 Normativa de aplicación, instalación y mantenimiento de las ICT. Norma técnica 
+para RTV. Reglamento técnico. Normas técnicas de edificación. Normas técnicas 
+para TLCA, normas técnicas para telefonía entre otras.
+–	 Simbología en las instalaciones de ICT.
+–	 Tipos de Instalaciones de ICT. Instalaciones de recepción y distribución de 
+televisión y radio. Instalaciones de telefonía interior e intercomunicación. 
+–	 Sistemas de telefonía. Centrales telefónicas. Sistemas de interfonía.
+–	 Recintos y registros de ICT. Canalizaciones e infraestructura de distribución.
+–	 Elementos de captación. Elementos de cabecera, Componentes. Recepción y 
+propagación de señales electromagnéticas. Radiodifusión sonora.
+–	 Antenas. Tipos y características técnicas. 
+–	 Equipo de cabecera. 
+–	 Distribución de señales. Red de distribución. Red de dispersión y red interior de 
+usuario. 
+–	 Actualización y mantenimiento de controladores de dispositivos.
+2.– Configuración de Instalaciones de ICT:
+–	 Especificaciones técnicas de las ICT. Magnitudes y unidades fundamentales.
+–	 El espectro radioeléctrico. Bandas y servicios de comunicaciones.
+–	 Normativa de ICT y REBT. Aplicación a la configuración de las instalaciones.
+–	 Cálculo 
+de 
+los 
+parámetros 
+de 
+las 
+infraestructuras 
+comunes 
+de 
+telecomunicaciones. 
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70807
+Miércoles, 7 de septiembre de 2011
+–	 Selección de equipos y elementos para el montaje de ICT.
+–	 Software para diseño de sistemas de distribución de radio y televisión. 
+–	 Configuración y dimensionado de elementos y equipos de instalaciones de radio 
+y televisión. Catálogos de fabricantes.
+–	 Configuración y dimensionado de elementos y equipos de instalaciones comunes 
+de telefonía. Catálogos de fabricantes.
+–	 Configuración y dimensionado de elementos y equipos de instalaciones de control 
+de accesos. Catálogos de fabricantes.
+3.– Instalación de infraestructuras de telecomunicaciones:
+–	 Planes de montaje de instalaciones de ICT.
+–	 Programación de actividades de montaje.
+–	 Técnicas de montaje de instalaciones de antenas y distribución de redes de 
+televisión y radio. Elementos a instalar. 
+–	 Replanteo de instalaciones de telecomunicaciones.
+–	 Montaje de elementos de captación. Montaje de elementos de cabecera. Montaje 
+de elementos de distribución.
+–	 Montaje de las canalizaciones y cajas de registro.
+–	 Técnicas específicas del montaje de instalaciones de telefonía. Elementos que 
+se han de instalar. Instalación de porteros automáticos. 
+–	 Tendido de conductores. Técnicas de conexionado de fibra óptica.
+–	 Normas de seguridad personal y de los equipos. Normas de edificación aplicadas 
+a instalaciones comunes. Normas específicas de las instalaciones comunes en 
+los edificios.
+4.– Verificación del funcionamiento de las instalaciones de ICT:
+–	 Puesta en servicio de la instalación de ICT. Plan de puesta en servicio. Protocolo 
+de medidas.
+–	 Parámetros de funcionamiento en las instalaciones de ICT. 
+–	 Ajustes y puesta a punto.
+–	 Instrumentos y procedimientos de medida en instalaciones de ICT.
+–	 Orientación de los elementos de captación de señales. Medidas.
+–	 Verificaciones reglamentarias.
+–	 Protocolo de pruebas. Medidas de RTV y satélite. Medidas de telefonía. Medidas 
+de Telecomunicación por cable.
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70808
+Miércoles, 7 de septiembre de 2011
+5.– 
+Mantenimiento 
+de 
+instalaciones 
+de 
+infraestructuras 
+comunes 
+de 
+telecomunicaciones:
+–	 Mantenimiento preventivo de las instalaciones. 
+–	 Puntos de inspección para el mantenimiento y parámetros que se han de 
+controlar. 
+–	 Instrumentos de medida.
+–	 Localización de averías y disfunciones en equipos e instalaciones de 
+infraestructuras de telecomunicaciones. Averías típicas en instalaciones de ICT. 
+Criterios y puntos de revisión.
+–	 Reparación de instalaciones de infraestructuras de telecomunicaciones en 
+edificios. Herramientas y útiles para reparación y mantenimiento de ICT.
+–	 Documentación aplicada al mantenimiento. Libro de mantenimiento e histórico 
+de averías.
+–	 Prevención de riesgos laborales en los procesos de montaje y mantenimiento. 
+–	 Elaboración de manuales de servicio y mantenimiento.
+6.– Prevención de riesgos, seguridad y protección medioambiental:
+–	 Normativa de prevención de riesgos laborales relativa a las infraestructuras 
+comunes de telecomunicaciones. 
+–	 Prevención de riesgos laborales en los procesos de montaje y mantenimiento.
+–	 Equipos de protección individual. (Características y criterios de utilización). 
+Protección colectiva. Medios y equipos de protección.
+–	 Normativa reguladora en gestión de residuos.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional capacita para desempeñar las funciones de diseño, 
+desarrollo, montaje, supervisión y mantenimiento de una instalación de recepción y 
+distribución de señales de telefonía, radio y televisión.
+La definición de estas funciones incluye aspectos como:
+–	 Identificación de normativas.
+–	 Interpretación de croquis y planos.
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70809
+Miércoles, 7 de septiembre de 2011
+–	 Configurar instalaciones de infraestructuras comunes de telecomunicaciones en 
+edificios.
+–	 Identificación y selección de los equipos y elementos de la instalación.
+–	 Elaboración y planificación de memorias técnicas, planes de montaje, puesta en 
+servicio y mantenimiento.
+–	 Redacción de estudios básicos de seguridad y salud laboral.
+Las actividades profesionales asociadas a esta función se aplican en: 
+–	 Definir las características de la instalación y ubicación de los equipos.
+–	 Gestionar los recursos y equipos de la instalación, de acuerdo con la normativa 
+vigente y reconociendo el anteproyecto.
+–	 Configurar, calcular y seleccionar los elementos y sistemas propios de las 
+instalaciones comunes de telecomunicaciones.
+–	 Organizar y montar instalaciones comunes de telecomunicaciones.
+–	 Poner en marcha y verificar el funcionamiento de la instalación de 
+telecomunicaciones.
+–	 Elaborar la documentación gráfica y los esquemas a partir de los datos obtenidos, 
+cumpliendo la normativa y requerimientos del anteproyecto.
+–	 Desarrollar, coordinar y supervisar las intervenciones de montaje y/o mantenimiento 
+de las instalaciones y equipos.
+–	 Documentar la gestión del mantenimiento y la reparación de instalaciones 
+y equipos, diseñando las operaciones de comprobación, sustitución de sus 
+elementos y ajustes de los equipos, en condiciones de calidad, seguridad y 
+respeto al medio ambiente.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales: 
+a), b), e), f), g), h), i), k), l), n), ñ) y o) del ciclo formativo y las competencias a), b), d), e), 
+f), g), h), j) y k) del título.
+Las líneas de actuación en el proceso de enseñanza–aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+–	 Identificar las tipologías de instalaciones para la captación y distribución de 
+señales de telefonía, radio y TV en el entorno de edificios.
+–	 Configurar y seleccionar los sistemas y elementos de la instalación.
+–	 Respetar y hacer cumplir de la normativa correspondiente en el diseño y en el 
+desarrollo de la instalación.
+–	 Planificar el montaje y la verificación de instalaciones tipo.
+–	 Desarrollar procedimientos de configuración y puesta en marcha.
+–	 Elaborar planes de mantenimiento.
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70810
+Miércoles, 7 de septiembre de 2011
+Módulo profesional: Técnicas y procesos en instalaciones eléctricas.
+Equivalencia en créditos ECTS: 12.
+Código: 0518.
+Duración: 189 horas.
+Contenidos:
+1.– Replanteo de instalaciones eléctricas y redes eléctricas:
+–	 Normativa de aplicación, instalación y mantenimiento de las ICT. Norma técnica 
+para RTV. Reglamento técnico. Normas técnicas de edificación. Normas técnicas 
+para TLCA. Normas técnicas para telefonía entre otras.
+–	 Tipología y características de las instalaciones eléctricas de interior.
+–	 Suministros eléctricos. Tipos de suministro.
+–	 Acometida. Instalaciones de enlace. Instalación interior.
+–	 Simbología específica aplicada a las instalaciones y redes eléctricas.
+–	 Técnicas de marcado y replanteo. 
+–	 Replanteo de instalaciones de edificios destinados principalmente a viviendas. 
+–	 Replanteo de instalaciones en locales de pública concurrencia. 
+–	 Replanteo de instalaciones en locales destinados a industrias. 
+–	 Replanteo de instalaciones eléctricas de los locales con riesgo de incendio y 
+explosión.
+–	 Replanteo de instalaciones en locales de características especiales.
+–	 Tipología y características de las redes eléctricas de distribución.
+–	 Replanteo de redes eléctricas de distribución en baja tensión.
+–	 Prescripciones reglamentarias. REBT. Código Técnico de Edificación (CTE). 
+Normas particulares de las compañías suministradoras y Normas UNE entre 
+otras. Disposiciones reglamentarias para la protección de la salud y seguridad de 
+los trabajadores frente al riesgo eléctrico.
+2.– Elaboración del proceso del montaje de instalaciones eléctricas:
+–	 El plan de montaje de las instalaciones eléctricas. Fases del plan de montaje.
+–	 Acopio de materiales y elementos para el montaje de instalaciones. Tareas a 
+realizar. Asignación de recursos.
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70811
+Miércoles, 7 de septiembre de 2011
+–	 Procedimientos de control de avances del montaje y calidad a obtener. 
+Documentación de obra. Elementos de control de obra.
+–	 Seguridad aplicada al montaje de elementos y sistemas de instalaciones eléctricas. 
+Equipos de protección. Elementos de protección. Precauciones básicas.
+–	 Tiempos necesarios por unidad de obra.
+–	 Planificación de pruebas de seguridad y puesta en servicio.
+–	 Supervisión del montaje de instalaciones eléctricas en edificios:
+-	 Procesos de montaje. Replanteo de la obra, mediciones y cantidades. 
+Asignación de recursos.
+-	 Provisión de equipos, máquinas y herramientas, equipos de protección y 
+medios auxiliares. 
+-	 Rendimientos de tiempos necesarios por unidad de obra.
+-	 Plan de calidad. Aseguramiento de la calidad.
+3.– Montaje de las instalaciones eléctricas de interior: 
+–	 Esquemas de instalaciones eléctricas de interior. Interpretación, tipología y 
+características. Convencionalismos de representación. Tipología de esquemas 
+eléctricos normalizados.
+–	 Procedimiento de montaje en instalaciones eléctricas de interior.
+–	 Montaje y conexionado de las instalaciones de enlace. Técnicas de montaje 
+y conexionado de: caja general de protección, línea general de alimentación, 
+centralización de contadores y derivaciones individuales. 
+–	 Técnicas de montaje de la instalación de alumbrado de escalera y alumbrado 
+general del edificio.
+–	 Técnicas de montaje de mecanismos de instalaciones eléctricas en viviendas.
+–	 Montaje de instalaciones eléctricas en locales que contienen bañera o ducha. 
+–	 Precauciones en el montaje de los elementos de protección en viviendas y 
+locales.
+–	 Instalación de circuitos y características. Montaje de instalaciones eléctricas en 
+locales de pública concurrencia. 
+–	 Instalaciones de alumbrado de seguridad (de evacuación, ambiente o antipánico 
+y zonas de alto riesgo). Alumbrado de emplazamiento. 
+–	 Aplicación del Reglamento electrotécnico baja tensión, de las normas particulares 
+de las compañías suministradoras y las normas UNE en instalaciones eléctricas 
+en edificios.
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70812
+Miércoles, 7 de septiembre de 2011
+4.– Técnicas de montaje de redes eléctricas y alumbrado exterior:
+–	 Procedimientos y fases de montaje específicos de las redes de distribución. 
+Procedimientos y fases específicos de las instalaciones de alumbrado exterior.
+–	 Técnicas de montaje y conexionado de elementos de las redes de distribución de 
+energía. 
+–	 Técnicas de montaje y conexionado específicos de las instalaciones de alumbrado 
+exterior. Montaje de báculos y soportes. Montaje de luminarias.
+–	 Maquinaria empleada en el montaje de canalizaciones. Maquinaria y herramienta 
+utilizada en el conexionado de conductores.
+–	 Herramientas en el montaje de luminarias y equipos de iluminación.
+–	 Diagnóstico de incidencias del router.
+–	 Definición y ubicación de listas de control de acceso (ACLs).
+5.– Verificaciones de instalaciones de edificios destinados a viviendas, locales de 
+pública concurrencia o industriales:
+–	 Técnicas y procedimientos para la puesta en servicio de instalaciones 
+eléctricas. 
+–	 Verificaciones y puntos de control de las instalaciones eléctricas en edificios y 
+locales. Puntos de control y verificación en instalaciones con riesgo a incendio o 
+especiales. Verificación y puntos de control de redes de distribución. Verificación 
+y puntos de control de instalaciones de alumbrado exterior. Valores mínimos de 
+aceptación.
+–	 Medidas específicas para la verificación y la puesta en servicio de instalaciones 
+eléctricas. Medidas de tensión, intensidad y continuidad. Medidas de magnitudes 
+eléctricas en edificios: magnitudes, instrumentos y procedimientos.
+–	 Medidas de potencias eléctricas y factor de potencia. Medidas de rigidez dieléctrica. 
+Medidas de resistividad del terreno y resistencia de puesta a tierra. Medidas de 
+sensibilidad de aparatos de corte y protección. Medidas de aislamiento. Medidas 
+con analizador de redes. Calidad de los valores eléctricos. Registro de los valores 
+de los parámetros característicos.
+–	 Utilización de aparatos de medida. Especificaciones técnicas de aparatos de 
+medida.
+–	 Comprobación de protecciones y puesta a tierra.
+6.– Diagnosis de averías en instalaciones eléctricas:
+–	 Diagnóstico de averías. Técnicas y equipos de detección. Averías tipo en las 
+instalaciones eléctricas de edificios. 
+–	 Elementos y sistemas susceptibles de producir averías en las instalaciones 
+eléctricas. 
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70813
+Miércoles, 7 de septiembre de 2011
+–	 Disfunciones y elementos distorsionadores en las instalaciones eléctricas. 
+Armónicos, ruido eléctrico, interferencias, entre otros.
+–	 Técnicas para la detección de averías producidas por el parasitaje y el ruido 
+eléctrico.
+–	 Mediciones especificas de control de disfunciones y averías.
+–	 Control de histórico de averías.
+7.– Reparación de averías de elementos y sistemas utilizados en las instalaciones 
+eléctricas:
+–	 Planificación del proceso de reparación y sustitución de elementos y sistemas. 
+Fases y procedimientos.
+–	 Causas y disfunciones producidas en las instalaciones eléctricas.
+–	 Herramientas de control o informáticas para la reparación y sustitución de 
+elementos.
+–	 Compatibilidad de elementos. Reconocimiento de características de elementos.
+–	 Técnicas de ajustes de receptores y sistemas. Valores de tensión, resistencia e 
+intensidad, entre otros.
+8.– Mantenimiento en las instalaciones eléctricas en edificios:
+–	 Mantenimiento de instalaciones eléctricas. 
+–	 Mantenimiento preventivo. Mantenimiento predictivo. Mantenimiento correctivo.
+–	 Seguridad en el mantenimiento de instalaciones eléctricas. Normativa de 
+seguridad eléctrica.
+–	 Previsión de averías, inspecciones y revisiones periódicas.
+–	 Planificación del mantenimiento de las instalaciones eléctricas. Tareas a realizar, 
+asignación de recursos y materiales.
+–	 Equipos destinados al mantenimiento. Aparatos de medida usados en el 
+mantenimiento instalaciones eléctricas de edificios. 
+–	 Normativa de mantenimiento. Reglamentación técnica.
+9.– Prevención de riesgos, seguridad y protección medioambiental:
+–	 Normativa de prevención de riesgos laborales relativa al montaje y mantenimiento 
+de instalaciones eléctricas en edificios.
+–	 Prevención de riesgos laborales en los procesos de montaje y mantenimiento.
+–	 Equipos de protección individual. (Características y criterios de utilización). 
+Protección colectiva. Medios y equipos de protección.
+–	 Normativa reguladora en gestión de residuos.
+–	 Normativa de prevención de riesgos laborales.
+–	 Normativa de protección ambiental.
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70814
+Miércoles, 7 de septiembre de 2011
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar las 
+funciones de supervisión del montaje y mantenimiento, así como la verificación de las 
+instalaciones eléctricas de baja tensión en el entorno de edificios; tanto en la instalación 
+de enlace, en el interior de viviendas y locales de pública concurrencia, como en redes 
+eléctricas de baja tensión y en alumbrado exterior.
+La definición de estas funciones incluye aspectos como:
+–	 Reconocimiento de los tipos de viviendas y locales según REBT.
+–	 Planificación del trabajo que se debe realizar.
+–	 Procesos de montaje y selección del material adecuado.
+–	 Montaje de las instalaciones.
+–	 Montaje de redes eléctricas e instalaciones de alumbrado exterior.
+–	 Verificación de la puesta en servicio.
+–	 Supervisión y gestión del montaje y mantenimiento.
+Las actividades profesionales asociadas a esta función se aplican en:
+–	 La supervisión del montaje de instalaciones eléctricas en viviendas, edificios, 
+redes eléctricas de instalaciones de alumbrado exterior.
+–	 La verificación del funcionamiento de la instalación y de los sistemas asociados.
+–	 La gestión del mantenimiento de instalaciones eléctricas de baja tensión en 
+edificios de uso para viviendas, locales de pública concurrencia y de uso industrial, 
+así como de instalaciones de alumbrado exterior.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+g), h), i), j), k), l), m), n) ñ), y o) del ciclo formativo y las competencias e), f), g), h), i), j) y 
+k) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+–	 Reconocimiento de los tipos de instalaciones de viviendas y locales.
+–	 Verificación del funcionamiento de las instalaciones y sistemas.
+–	 Gestión del mantenimiento de instalaciones y sistemas en viviendas, locales, 
+redes de distribución e instalaciones de alumbrado.
+–	 Aplicación de la normativa referente a cada tipo de instalación.
+–	 Conocimiento y aplicación del Reglamento Electrotécnico de Baja Tensión 
+(REBT); de la normativa específica de las compañías suministradoras; de los 
+documentos básicos del Código Técnico de Edificación (CTE) de aplicación en 
+los proyectos de viviendas, edificios y locales; de las normas UNE, así como, de 
+la normativa específica según la actividad del local.
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70815
+Miércoles, 7 de septiembre de 2011
+Módulo profesional: Documentación técnica en instalaciones eléctricas.
+Equivalencia en créditos ECTS: 6.
+Código: 0519.
+Duración: 96 horas.
+Contenidos:
+1.– Identificación de la documentación técnico–administrativa de las instalaciones y 
+sistemas: 
+–	 Anteproyecto o proyecto básico. 
+–	 Tipos de proyectos. 
+–	 Proyectos tipo.
+–	 Documentación del proyecto: memoria y anexos, planos y esquemas, pliego de 
+condiciones, mediciones, presupuesto, estudios básicos y otros.
+–	 Memoria técnica de diseño.
+–	 Normativa. Tramitaciones y legalización. 
+–	 Certificados de instalación y verificación. 
+–	 Certificados de fin de obra. Manuales de instrucciones. 
+2.– Representación de instalaciones eléctricas: 
+–	 Normas generales de croquizado. 
+–	 Técnicas y procesos de croquizado. 
+–	 Simbología. 
+–	 Escalas.
+–	 Acotación. 
+–	 Interpretación de planos y esquemas. 
+3.– Elaboración de la documentación gráfica de proyectos de instalaciones 
+electrotécnicas: 
+–	 Manejo de programas de diseño asistido por ordenador. 
+–	 Documentación gráfica. Normas generales de representación. 
+–	 Planos de proyectos de edificación. 
+–	 Planos de proyecto de obra civil.
+–	 Otros planos. 
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70816
+Miércoles, 7 de septiembre de 2011
+4.– Gestión de la documentación gráfica de proyectos de instalaciones 
+electrotécnicas: 
+–	 Tipos de documentos. Formatos. 
+–	 Archivos. 
+–	 Normas de codificación. 
+5.– Confección de presupuesto: 
+–	 Unidades de obra. Mediciones. 
+–	 Cuadros de precios. Catálogos.
+–	 Costes de mano de obra. 
+–	 Presupuestos. Análisis de costes.
+–	 Análisis de tiempos.
+6.– Elaboración de documentos del proyecto: 
+–	 Formatos para elaboración de documentos. 
+–	 Estudio de viabilidad. 
+–	 Pliego de condiciones.
+–	 Anexo de cálculos. Estructura. Características. 
+–	 Documento memoria. Estructura. Características. 
+–	 Estudio básico de seguridad y salud. 
+–	 Aseguramiento de la calidad. Normas ISO 9000.
+7.– Confección de planes, manuales y estudios: 
+–	 Plan de emergencia
+–	 Plan de prevención. 
+–	 Equipos de seguridad y protección. Señalización y alarmas.
+–	 Normativa de aplicación. 
+–	 Estudios básicos de seguridad. 
+–	 Plan de calidad y mantenimiento.
+–	 Calidad en la ejecución de instalaciones o sistemas. Normativa de Gestión de la 
+Calidad. 
+–	 Plan de Gestión medioambiental. Estudios de impacto ambiental. 
+–	 Normativa de Gestión medioambiental. 
+–	 Manual de servicio. 
+–	 Especificaciones técnicas de los elementos de las instalaciones.
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70817
+Miércoles, 7 de septiembre de 2011
+–	 Condiciones de puesta en marcha o servicio.
+–	 Manual de mantenimiento: 
+-	 Listado de tareas de mantenimiento.
+-	 Cronograma.
+-	 Especificaciones técnicas.
+-	 Informe técnico de mantenimiento.
+–	 Planes de actuación derivados de inspecciones.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar las 
+funciones de desarrollo de proyectos de instalaciones eléctricas, y se aplica a todos los 
+tipos de instalaciones relacionados con el perfil profesional del título. 
+La definición de estas funciones incluye aspectos como: 
+–	 Reconocimiento de la documentación técnica de las instalaciones. 
+–	 Elaboración de memorias técnicas y manuales para el montaje, puesta en servicio 
+y el mantenimiento de instalaciones. 
+–	 Realización de croquis y esquemas de instalaciones y sistemas. 
+–	 Elaboración de planos de instalaciones y sistemas. 
+–	 Preparación de presupuestos de montaje y mantenimiento. 
+Las actividades profesionales asociadas a esta función se aplican en: 
+–	 Desarrollar la documentación técnica y administrativa de los proyectos de 
+instalaciones eléctricas y sistemas automatizados. 
+–	 Reconocer las técnicas de elaboración y almacenamiento de planos y 
+esquemas. 
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+a), c), d), e), f) y v) del ciclo formativo y las competencias del título a), c) y d) del título. 
+Las líneas de actuación en el proceso enseñanza–aprendizaje que permiten alcanzar 
+los objetivos del módulo profesional versarán sobre: 
+–	 Identificación de elementos, equipos y desarrollo de procesos de montaje, 
+utilizando como recurso la documentación técnica del proyecto. 
+–	 Elaboración de presupuestos de unidades de obra y aprovisionamiento de 
+materiales utilizando como recurso la documentación técnica del proyecto. 
+–	 Preparación de los manuales de servicio y de mantenimiento de las instalaciones 
+utilizando la información técnica de los equipos. 
+–	 Utilización de programas de diseño asistido para el trazado de esquemas y la 
+elaboración de planos. 
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70818
+Miércoles, 7 de septiembre de 2011
+Módulo profesional: Sistemas y circuitos eléctricos.
+Equivalencia en créditos ECTS: 8.
+Código: 0520.
+Duración: 192 horas.
+Contenidos:
+1.– Determinación de parámetros característicos en circuitos de corriente alterna (c.a.):
+–	 Circuitos de c.a. monofásica. Magnitudes eléctricas en c.a. Comportamiento de 
+los receptores elementales en c.a. monofásica. 
+–	 Potencias en c.a. monofásica. 
+–	 Sistemas trifásicos. Características.
+–	 Distribución a tres y cuatro hilos. Conexión de receptores trifásicos. Corrección 
+del cosφ de una instalación trifásica. Cálculo de magnitudes de fase y de línea. 
+Potencias.
+–	 Medidas en circuitos de c.a.: tensión, intensidad, potencia, frecuencia y factor de 
+potencia, entre otras.
+–	 Armónicos: causas y efectos. Parámetros característicos. Técnicas de filtrado.
+2.– Identificación de las características fundamentales de las máquinas rotativas 
+de c.a.:
+–	 Clasificación de las máquinas eléctricas rotativas.
+–	 Esquemas de conexionado de máquinas.
+–	 Alternador trifásico.
+–	 Principio de funcionamiento del alternador.
+–	 Motor asíncrono trifásico. Principio de funcionamiento. Constitución y tipos.
+–	 Características de funcionamiento de los motores eléctricos de corriente 
+alterna. Características par–velocidad. Característica rendimiento–potencia. 
+Característica revolución–potencia, entre otros.
+–	 Sistemas de arranque y regulación de velocidad de motores. 
+–	 Motores monofásicos. Motores especiales.
+3.– Caracterización de transformadores:
+–	 Placa de características de transformadores. Constitución.
+–	 Transformador monofásico. Principio de funcionamiento.
+–	 Autotransformador. Tipos y aplicaciones.
+–	 Transformador trifásico. Grupos de conexión.
+–	 Acoplamiento en paralelo de transformadores.
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70819
+Miércoles, 7 de septiembre de 2011
+–	 Ensayos: condiciones y conclusiones. Ensayo en vacío y en cortocircuito.
+–	 Cálculos característicos. Intensidad de cortocircuito. Índice de carga. Coeficiente 
+de regulación. Caída de tensión. Rendimiento. Otros.
+4.– Técnicas de medida de instalaciones electrotécnicas:
+–	 Equipos de medida. Clasificación.
+–	 Sistemas de medida.
+–	 Instrumentos de medida. Características y principios de funcionamiento.
+–	 Conexionado de multímetro, pinza multifunción, telurómetro, medidor de 
+aislamiento, medidor de corriente de fugas, detector de tensión, analizador–
+registrador de potencia y energía para corriente alterna trifásica.
+–	 Procedimientos de medida. Medidas de resistencia, tensión, intensidad, potencia, 
+energía, cos f, factor de potencia.
+–	 Medidas de resistencia de puesta a tierra, resistividad del terreno, resistencia 
+de aislamiento en baja y media tensión, resistencia de aislamiento de suelos y 
+paredes, medida de rigidez dieléctrica, medida de corriente de fugas.
+–	 Técnicas y equipos para diagnóstico y localización de averías en instalaciones 
+eléctricas.
+–	 Errores y calibración de los equipos de medida.
+–	 Normativa de seguridad en la realización de las medidas.
+5.– Características y componentes de circuitos electrónicos analógicos:
+–	 Componentes electrónicos. Tipos y características.
+–	 Rectificación. Filtrado. Amplificación. Estabilización.
+–	 Fuentes de alimentación. 
+–	 Control de potencia. Componentes.
+–	 Circuitos amplificadores. Amplificadores operacionales.
+–	 Generadores de señal. Osciladores: tipos. Multivibradores: tipos. 
+6.– Características de circuitos electrónicos digitales:
+–	 Sistemas digitales. Sistemas de numeración.
+–	 Circuitos lógicos combinacionales. 
+–	 Circuitos lógicos secuenciales. Software de simulación de circuitos.
+–	 Familias de integrados. Aplicaciones.
+Orientaciones pedagógicas y metodológicas:
+Este módulo profesional da respuesta a la necesidad de proporcionar una adecuada 
+base teórica y práctica para la comprensión de los parámetros, principios de funcionamiento 
+y características de equipos electrónicos y máquinas de corriente alterna, utilizadas en 
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70820
+Miércoles, 7 de septiembre de 2011
+instalaciones eléctricas, automatismos, instalaciones domóticas, instalaciones solares 
+fotovoltaicas e ICT, entre otras, proporcionar una adecuada base teórica y práctica 
+sobre los equipos y técnicas de medida utilizadas en verificación, puesta en servicio y 
+mantenimiento de instalaciones eléctricas e ICT, así como reconocer los riesgos y efectos 
+de la electricidad. 
+La definición de estas funciones incluye aspectos como:
+–	 Determinar los parámetros característicos de instalaciones y máquinas de 
+corriente alterna.
+–	 Reconocer los principios básicos del funcionamiento de las máquinas eléctricas 
+de corriente alterna.
+–	 Reconocer técnicas de arranques y control de máquinas eléctricas.
+–	 Identificar de forma práctica las principales características de circuitos electrónicos 
+digitales y analógicos básicos mediante circuitos funcionales.
+–	 Identificar de forma práctica sistemas de alimentación conmutados.
+–	 Identificar los equipos de medida que se deben utilizar para verificación, puesta 
+en servicio y/o mantenimiento.
+–	 Realizar medidas de las magnitudes características en instalaciones y máquinas 
+de corriente alterna.
+–	 Utilizar herramientas apropiadas (calculadora científica, aplicaciones informáticas, 
+entre otras).
+–	 Utilizar de forma coherente y correcta las unidades adecuadas para cada 
+magnitud.
+–	 Presentar los resultados de los cálculos con la precisión requerida.
+–	 Reconocer los riesgos y efectos de la electricidad.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+b), e) y f), del ciclo formativo y las competencias b) y d) del título.
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar 
+los objetivos del módulo profesional versarán sobre:
+–	 Adquisición de técnicas para la realización de cálculos en circuitos eléctricos de 
+c.a. monofásica y trifásica.
+–	 Conocimiento de las máquinas eléctricas de c.a., su comportamiento y 
+características de funcionamiento.
+–	 Conocimiento de las técnicas de medida utilizadas en instalaciones eléctricas e 
+ICT.
+–	 Utilización de aplicaciones simuladas para identificar los fundamentos de circuitos 
+electrónicos.
+–	 Reconocimiento de los riesgos eléctricos y de la importancia de observar siempre 
+las adecuadas medidas de seguridad.
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70821
+Miércoles, 7 de septiembre de 2011
+Módulo profesional: Técnicas y procesos en instalaciones domóticas y 
+automáticas.
+Equivalencia en créditos ECTS: 12.
+Código: 0521.
+Duración: 189 horas.
+Contenidos:
+1.– Caracterización de las instalaciones industriales y sistemas automáticos:
+–	 Instalación industrial.
+–	 Automatización industrial. Estructura de una instalación industrial (cuadro 
+eléctrico, circuito de control y circuito de potencia, entre otros). 
+–	 Procesos de automatización industrial. Variables de un proceso industrial (presión, 
+temperatura, velocidad, consumo, entre otros).
+–	 Tecnologías de automatización. Tipos y características.
+–	 Clasificación de las instalaciones y automatizaciones.
+–	 Protecciones (guardamotor o disyuntor, relé térmico, fusibles, entre otros). 
+Criterios de dimensionamiento.
+–	 Sensores (detectores inductivos, detectores capacitivos). Criterios de selección.
+–	 Actuadores (contactores, relés auxiliares, relés temporizados, electro–válvulas, 
+entre otros).
+–	 Automatización de maniobras y arranques de motores eléctricos. Características 
+fundamentales de los arranques de motores. Precauciones y normas.
+–	 Automatización con motores y cilindros neumáticos (aire comprimido, de émbolo, 
+entre otros). Características básicas. Tipos y aplicaciones en instalaciones 
+industriales.
+–	 Comunicaciones industriales.
+–	 Sistemas de supervisión y adquisición de datos.
+2.– Planificación del montaje de instalaciones automáticas industriales. 
+–	 Fases del montaje específicas de las instalaciones automáticas industriales.
+–	 Organización del montaje de cuadros. Técnicas en las instalaciones automáticas 
+industriales. Normas de aplicación. Precauciones. 
+–	 Recursos humanos y materiales.
+–	 Especificaciones de montaje.
+–	 Temporización.
+–	 Herramientas específicas para el montaje de cuadros eléctricos y autómatas 
+programables. 
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70822
+Miércoles, 7 de septiembre de 2011
+3.– Montaje de instalaciones automáticas:
+–	 Esquemas de mando y potencia. (Marcaje de conductores, marcaje de bornes y 
+referencias cruzadas). Simbología.
+–	 Elementos de las instalaciones automáticas. Protecciones, sensores, actuadores, 
+cableado y señalización. Selección y ajuste de protecciones. Selección de 
+sensores según entorno y aplicaciones. Tipo de cableado y características. 
+Señalización, normativas nacionales e internacionales. 
+–	 Protección 
+de 
+instalaciones 
+automáticas. 
+Tipos 
+de 
+magnetotérmicos. 
+Características y selección. Diferencial aplicado a la industria, características y 
+precauciones. Relé térmico, clases y utilización. Ajustes y selección. Esquemas 
+de conexionado.
+–	 Cuadros eléctricos, tipos y características. 
+–	 Montaje y conexionado de automatismos cableados. 
+–	 Pruebas funcionales (prueba visual, prueba de continuidad, prueba de 
+funcionamiento de las protecciones, entre otros).
+–	 Montaje de automatismos electro-neumáticos.
+–	 Esquemas de representación neumática y electro-neumática. 
+–	 Montaje y conexionado de automatismos electro-neumáticos. Pruebas funcionales 
+(prueba visual, prueba de continuidad). Ajustes y verificaciones. Criterios de 
+aplicación de las instalaciones. 
+–	 Instalación y montaje de variadores de velocidad, arrancadores electrónicos y 
+servoaccionamientos.
+4.– Implementación y características de automatismos industriales programados: 
+–	 Secuencia de procesos y diagrama de flujos (GRAFCET, entre otros).
+–	 Funciones lógicas aplicadas a la programación de autómatas programables.
+–	 Esquemas lógicos.
+–	 Autómata programable. Módulos de E/S. Módulos analógicos. Módulos 
+específicos. 
+–	 Programación 
+de 
+autómatas 
+programables. 
+Programación 
+estándar. 
+Programaciones específicas.
+–	 Esquemas de conexión de autómatas programables. Tipos de conexión. 
+5.– Instalación y montaje de automatismos en viviendas y edificios:
+–	 Fases del montaje específicas de las instalaciones domóticas.
+–	 Coordinación del montaje de los sistemas domóticos e inmóticos Normas de 
+aplicación. Precauciones. 
+–	 Recursos humanos y materiales.
+–	 Especificaciones de montaje.
+–	 Temporización.
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70823
+Miércoles, 7 de septiembre de 2011
+–	 Herramientas específicas para el montaje de sistemas domóticos y sistemas 
+inmóticos. 
+–	 Aplicaciones domóticas e inmóticas. Estructura de una instalación. Integración 
+de sistemas.
+–	 Áreas de aplicación. Control de accesos. Control de iluminación. Control de 
+seguridad (intrusión, fuego, gas y alarmas médicas, entre otros). Control de 
+mecanismos. Control de climatización. Gestión de comunicaciones.
+–	 Sensores. Receptores. Tipos. Características. 
+–	 Tipologías de comunicación (BUS, anillo, estrella, malla, entre otros). Buses de 
+comunicación normalizados.
+–	 Instalaciones domóticas con corrientes portadoras. Principio de funcionamiento. 
+Características. Estructura. Elementos específicos. Conexión y configuración 
+de elementos. Procedimientos de montaje y supervisión. Pruebas funcionales. 
+Elementos auxiliares. Protecciones específicas. Parasitaje en instalaciones con 
+corrientes portadoras. Normas de aplicación.
+–	 Instalaciones automatizadas de viviendas con autómatas programables. 
+Estructura. Conexión de elementos. Programación del sistema. Procedimientos 
+de montaje y supervisión.
+–	 Instalaciones domotizadas con sistema BUS. Principio de funcionamiento. 
+Características. Conexión y configuración de elementos. Programación del 
+sistema. Procedimientos de montaje y supervisión. Pruebas funcionales (prueba 
+visual y prueba de continuidad de la señal, entre otros). Comparativa con otros 
+sistemas. Ventajas e inconvenientes. Elementos y módulos específicos. Módulos 
+de integración con otros sistemas.
+–	 Instalaciones inalámbricas. Principio de funcionamiento. Características. 
+Estructura. Elementos específicos. Conexión y ajuste y/o configuración de 
+elementos. Procedimientos de montaje y supervisión. Procesos de verificación 
+de funcionamiento. Pruebas funcionales (prueba visual y prueba de continuidad 
+de la señal, entre otros). Ruido eléctrico en las instalaciones inalámbricas. 
+Protecciones y precauciones. Elementos específicos.
+–	 Implementación de tecnologías en sistemas inmóticos. Ventajas de combinar 
+diferentes tecnologías. Parámetros de combinación: protocolos de comunicación, 
+tipos de señales, entre otros. Conexión y ajuste de elementos. Programación del 
+sistema. Procedimientos de montaje y supervisión. Procesos de verificación de 
+funcionamiento.
+6.– Diagnóstico de averías en instalaciones industriales y sistemas automáticos:
+–	 Diagnóstico y localización de averías en automatismos industriales. 
+–	 Diagnóstico y localización de averías en sistemas domóticos e inmóticos. 
+–	 Técnicas de ajustes en sistemas automáticos, ajustes de elementos de protección, 
+ajustes de elementos programables, ajustes de elementos de E/S. Sistemas 
+informáticos propios para el ajuste de instalaciones, elementos y sistemas.
+–	 Técnicas de ajustes en sistemas domóticos, ajustes de elementos de protección, 
+ajustes de elementos programables, ajustes de elementos de E/S. 
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70824
+Miércoles, 7 de septiembre de 2011
+–	 Registros de averías. Histórico de averías.
+–	 Normativa vigente.
+7.– Realización del mantenimiento predictivo y preventivo en instalaciones 
+automáticas de edificios e industriales:
+–	 Operaciones de mantenimiento en las instalaciones industriales. Mantenimiento 
+predictivo y preventivo en instalaciones industriales. Puntos críticos.
+–	 Operaciones de mantenimiento en los sistemas automáticos industriales. 
+Mantenimiento de protecciones. Mantenimiento de sistemas programables. 
+Mantenimiento de sensores y actuadores. 
+–	 Operaciones de mantenimiento en sistemas domóticos e inmóticos. Mantenimiento 
+de sistemas de las áreas de confort, comunicación y alarmas, entre otros. 
+Mantenimiento de elementos de E/S de las instalaciones domóticas e inmóticas. 
+Puntos críticos.
+–	 Procedimientos de actuación en el mantenimiento de instalaciones y sistemas 
+automatizados. Precauciones.
+–	 Ajuste de elementos y sistemas. Ajustes de programaciones. Ajustes módulos de 
+E/S.
+–	 Software de visualización, control y verificación de parámetros. Sistemas de 
+telecontrol.
+8.– Prevención de riesgos, seguridad y protección medioambiental en instalaciones 
+automatizadas:
+–	 Normativa de prevención de riesgos laborales relativa al mantenimiento de 
+instalaciones eléctricas en edificios.
+–	 Prevención de riesgos laborales en los procesos de montaje y mantenimiento de 
+instalaciones industriales.
+–	 Prevención de riesgos laborales en los procesos de montaje y mantenimiento de 
+instalaciones domóticas e inmóticas.
+–	 Factores y situaciones de riesgo.
+–	 Determinación de las medidas de prevención de riesgos laborales.
+–	 Equipos de protección individual. (Características y criterios de utilización). 
+Protección colectiva. Medios y equipos de protección.
+–	 Normativa reguladora en gestión de residuos.
+–	 Normativa de prevención de riesgos laborales.
+–	 Normativa de protección ambiental.
+Orientaciones pedagógicas y metodológica.
+Este módulo profesional contiene la formación necesaria para desempeñar las 
+funciones de definición, planificación, programación, control, y ejecución de la producción, 
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70825
+Miércoles, 7 de septiembre de 2011
+y se aplica en los procesos de montaje y mantenimiento relacionados con las instalaciones 
+industriales automatizadas y con las instalaciones domóticas e inmóticas.
+La definición de estas funciones, nos permite diferenciar dos grandes bloques de 
+contenidos. Un bloque A de «Técnicas y Procesos en Automatización Industrial», que incluye 
+aspectos relacionados con la automatización de instalaciones industriales automatizadas 
+con una duración de 105 horas del total del módulo, y otro bloque B de «Técnicas y 
+Procesos en Instalaciones Domóticas e Inmóticas» con una duración de 84 horas. 
+Los aspectos relacionados con las funciones anteriormente detalladas, son tales 
+como:
+–	 Determinación de las características de una automatización industrial.
+–	 Determinación de las características de una automatización domótica o 
+inmótica.
+–	 La elaboración de esquemas y programas para el montaje, programación, puesta 
+en servicio y mantenimiento de instalaciones y sistemas automáticos industriales 
+y también domóticos e inmóticos.
+–	 La elección de los dispositivos, los receptores y la tecnología adecuada en cada 
+caso.
+–	 La planificación de pruebas de funcionamiento y puestas en servicio.
+–	 La coordinación del montaje y mantenimiento de una instalación industrial.
+Las actividades profesionales asociadas a esta función se aplican en:
+–	 Supervisar 
+el 
+montaje 
+y 
+configuración 
+de 
+instalaciones 
+industriales 
+automatizadas.
+–	 Supervisar el montaje y configuración de instalaciones domóticas e inmóticas.
+–	 Coordinar el mantenimiento preventivo y correctivo en instalaciones industriales 
+automatizadas.
+–	 Coordinar el mantenimiento preventivo y correctivo en instalaciones domóticas e 
+inmóticas.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+b), h), i), j), k), l), n), ñ), y o) del ciclo formativo y las competencias b), d), e), f), g), h), i), j), 
+y k), del título.
+Las líneas de actuación en el proceso enseñanza–aprendizaje que permiten alcanzar 
+los objetivos del módulo profesional versarán sobre:
+–	 Identificación de dispositivos, receptores, y tecnologías de automatización a 
+emplear, a partir de una toma de datos.
+–	 Elaboración de esquemas, y programas de control.
+–	 Supervisión del montaje, conexionado, programación y puesta en servicio de 
+sensores, actuadores, autómatas programables en instalaciones industriales y 
+en sistemas domóticos e inmóticos.
+–	 Verificación del funcionamiento, localización de averías, y elaboración de planes 
+de mantenimiento.
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70826
+Miércoles, 7 de septiembre de 2011
+Módulo 
+profesional: 
+Desarrollo 
+de 
+redes 
+eléctricas 
+y 
+centros 
+de 
+transformación.
+Equivalencia en créditos ECTS: 10.
+Código: 0522.
+Duración: 126 horas.
+Contenidos:
+BLOQUE A: Desarrollo de redes eléctricas.
+Duración: 63 horas.
+1.– Reconocimiento de elementos de las redes eléctricas:
+–	 El sistema eléctrico. Tipologías de las redes. Categorías. Aéreas y subterráneas. 
+Tipos de conexión. Constitución de una red de distribución. 
+–	 Estructura y elementos de líneas de distribución aéreas y subterráneas. 
+–	 Conductores y cables. Tipos y características.
+–	 Aisladores. Cadenas. Accesorios de sujeción. 
+–	 Apoyos. Tipos y características. Crucetas.
+–	 Tirantes y tornapuntas. Elementos de protección y de señalización. 
+–	 Protección de la avifauna. 
+–	 Cimentaciones.
+–	 Tomas de tierra.
+–	 Operaciones para el montaje de redes.
+–	 Transmisión de información: telemedida, telemando y telecontrol. 
+–	 Reglamentos y normas de aplicación.
+2.– Caracterización de las redes eléctricas, estructura y normativa de aplicación:
+–	 Simbología específica de las redes eléctricas.
+–	 Interpretación de esquemas.
+–	 Planos característicos. 
+–	 Perfil longitudinal.
+–	 Magnitudes características (potencias, caída de tensión y momentos eléctricos 
+entre otros).
+–	 Protecciones. Tipos de protecciones. Coordinación de protecciones en redes 
+eléctricas. Sistemas automáticos de coordinación.
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70827
+Miércoles, 7 de septiembre de 2011
+–	 Instalación de puesta a tierra.
+–	 Normativa (Reglamento de Líneas Eléctricas de Alta Tensión y REBT, entre 
+otros).
+–	 Cruzamientos y paralelismos. Distancias y separaciones.
+3.– Configuración de las redes de distribución:
+–	 Redes de distribución de baja tensión. Aéreas y subterráneas.
+–	 Redes de distribución de media tensión. Aéreas y subterráneas.
+–	 Criterios previos de diseño de la red. Datos de partida. Viabilidad. Accesibilidad.
+–	 Selección de materiales. Características técnicas. Homologación y certificación.
+–	 Criterios básicos de configuración de redes de distribución.
+–	 Cálculos eléctricos y mecánicos. 
+–	 Trazado de planos.
+–	 Elaboración de esquemas. 
+–	 Listado de materiales. 
+BLOQUE B: Centros de transformación.
+Duración: 63 horas.
+4.– Caracterización de los centros de transformación (CT):
+–	 Características de los centros de transformación. Tipos y funcionamiento. 
+Utilización y Aplicaciones. 
+–	 Elementos de los centros de transformación. Celdas. 
+–	 Transformadores de distribución. Características. Tipos y formas de conexión. 
+Acoplamientos. Potencia suministrada. 
+–	 Transformadores de medida. Características.
+–	 Aparatos de protección y de maniobra. Configuración y montaje.
+–	 Maniobras en un CT. Seguridad en las maniobras en un CT. 
+–	 Puesta a tierra. Tipos. Tierras en transformadores. Precauciones. Neutro a 
+tierra.
+–	 Procedimiento de montaje de CT. Tipología y características. 
+–	 Planos y esquemas específicos de centros de transformación. Simbología. 
+Representación gráfica de los elementos de los CT. Elaboración de esquemas. 
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70828
+Miércoles, 7 de septiembre de 2011
+–	 Planos de puesta a tierra, planos de detalle. Distancias reglamentarias. Esquemas 
+de configuración de tierras.
+–	 Iluminación. Ventilación. Protección contra incendios.
+–	 Mantenimiento preventivo de un CT.
+–	 Puesta en servicio de un CT.
+–	 Reglamentos y Normas de aplicación. Normas específicas de las compañías 
+eléctricas.
+5.– Configuración de centros de transformación:
+–	 Criterios previos de diseño. Anteproyectos y Proyectos tipo. Magnitudes 
+características de los CT.
+–	 Cálculo de magnitudes características de los CT: interior e intemperie.
+–	 Dimensionado de equipos y elementos. Transformador. Elementos de celdas de 
+CT. Elementos de protección. Elementos de medida. Cuadro de baja tensión.
+–	 Selección de equipos. Condiciones y criterios. Características técnicas. 
+Compatibilidad e intercambiabilidad. Normas aplicables a la selección de 
+elementos.
+–	 Esquemas de los centros de transformación. Simbología.
+–	 Cálculos de CT. Puesta a tierra. Cálculos eléctricos y mecánicos. Método de 
+cálculo y proyecto de instalaciones de puesta a tierra para CT conectados a 
+redes de tercera categoría. 
+6.– Definición de pruebas y ensayos de transformadores y centros de 
+transformación:
+–	 Características técnicas de los elementos de las celdas. Características técnicas 
+de los transformadores. Características técnicas de los equipos de medida.
+–	 Ensayo en vacío del transformador. Ensayo en cortocircuito. Ensayo en carga. 
+Cálculos y valores de aceptación.
+–	 Ensayo de elementos y sistemas del centro de transformación.
+–	 Ensayo de mantenimiento de transformadores. Ensayo de aceites. Ensayos de 
+aparallaje. Ensayo de baterías y acumuladores.
+–	 Medición de las tensiones de paso y contacto.
+–	 Normas UNE de aplicación a los ensayos de transformadores de distribución 
+y CT.
+–	 Verificación de CT. Certificados de instalación.
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70829
+Miércoles, 7 de septiembre de 2011
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar la 
+función de diseño y definición, y se aplica en los procesos relacionados con centros de 
+transformación y redes de distribución en baja tensión. 
+La definición de estas funciones incluye aspectos como:
+–	 Reconocimiento de los elementos y sistemas de los centros de transformación.
+–	 Funcionamiento de los centros de transformación y sus distintos elementos.
+–	 Determinación de las características de redes de distribución de baja tensión.
+–	 Determinación de las características de redes de distribución de media tensión.
+–	 Reconocimiento de los elementos de los centros de transformación.
+–	 Realización de maniobras en celdas de CT.
+–	 Medidas y ensayos en centros de transformación.
+Las actividades profesionales asociadas a esta función se aplican en:
+–	 Desarrollo de proyectos de redes de distribución de baja tensión y media 
+tensión.
+–	 Desarrollo de proyectos de centros de transformación.
+–	 Configuración y ensayos de elementos y sistemas de centros de 
+transformación.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+b), e), f), m), n), ñ) y o) del ciclo formativo y las competencias b), d), i), j) y k) del título.
+Las líneas de actuación en el proceso enseñanza–aprendizaje que permiten alcanzar 
+los objetivos del módulo profesional versarán sobre:
+–	 Realización de la documentación necesaria para la redacción de dos proyectos: 
+-	 Una red de distribución de baja tensión o media tensión, aérea o 
+subterránea.
+-	 Un centro de transformación de interior o intemperie.
+–	 Cálculo y diseño de las instalaciones mediante programas informáticos.
+–	 Elaboración de planes de seguridad.
+–	 Previsión de protocolos de calidad.
+–	 Actitud de respeto al medio ambiente.
+–	 Interpretación y aplicación de los reglamentos y normativa referente a cada tipo 
+de instalación:
+-	 Reglamento sobre Condiciones Técnicas y Garantía de Seguridad en 
+Centrales Eléctricas, Subestaciones y Centros de Transformación (RCE).
+-	 Reglamento Electrotécnico de Baja Tensión y disposiciones complementarias 
+(RBT). 
+-	 Reglamento de líneas eléctricas de Alta Tensión.
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70830
+Miércoles, 7 de septiembre de 2011
+Módulo profesional: Configuración de instalaciones domóticas y automáticas.
+Equivalencia en créditos ECTS: 11.
+Código: 0523.
+Duración: 192 horas.
+Contenidos:
+1.– Caracterización de instalaciones y dispositivos en automatización:
+–	 Estructura de las instalaciones automatizadas en viviendas, edificios e industria.
+–	  Aplicaciones automáticas en las áreas de confort y seguridad, gestión energética, 
+telecomunicaciones e industrial. Sistemas domóticos, generalidades. Sistemas 
+inmóticos, generalidades. 
+–	 Estructura de las instalaciones automatizadas en la industria. Conceptos generales 
+de automatización. Fases de estudio de un sistema automático industrial.
+–	 Aplicaciones automáticas en la industria. Automatización industrial. Generalidades. 
+Características específicas. Características técnicas.
+–	 Niveles de automatización. Niveles de usuario. Automatización completa. 
+Integración de sistemas automátizados.
+–	 Sistemas automáticos. Sistemas con autómata programable. Sistemas 
+automáticos de propósito propio. Sistemas específicos.
+–	 Elementos en la instalación automatizada. Tipos. Características. Elementos de 
+entrada/salida. Elementos de potencia. Sistemas modulares. 
+–	 Accionadores, sensores, actuadores y receptores utilizados en sistemas 
+domóticos. Clasificación y tipos. Funcionamiento. Características técnicas. 
+Receptores: electroválvulas, motores de persianas, entre otros. 
+–	 Tipologías de comunicación (BUS, anillo, estrella, malla, entre otros). Redes de 
+comunicación utilizados en sistemas domóticos. Estándares y sistemas propios.
+–	 Comunicación con cableado existente, cableado específico, sistemas inalámbricos, 
+entre otros. Medios de comunicación. Sistemas de portadoras. Otros.
+–	 Técnicas y medios de comunicación para este tipo de instalaciones. 
+–	 Aplicaciones y fundamento de instalaciones domóticas e inmóticas.
+–	 Características específicas de los sistemas automáticos. Aplicaciones domóticas 
+(automatización de viviendas, características técnicas). Aplicaciones inmóticas 
+(automatización de grandes superficies: hoteles, centros comerciales y espacios 
+públicos entre otros). Aplicaciones industriales.
+–	 Técnicas específicas de programación de sistemas domóticos.
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70831
+Miércoles, 7 de septiembre de 2011
+–	 Representación de esquemas de control y potencia de las instalaciones y sistemas 
+domóticos.
+–	 Representación de esquemas de control y potencia de las instalaciones 
+automáticas industriales.
+–	 Esquemas de conexionado. Referencias cruzadas. Planos de situación de 
+elementos. 
+–	 Partes de la instalación. Bloque de potencia. Bloque de control. Bloque de 
+visualización. Bloque de memorias. Bloque de E/S. 
+–	 Compatibilidad entre sistemas. Interconexión de elementos. Visualizadores.
+–	 Tecnologías aplicables a la automatización de viviendas y edificios.
+–	 Nuevas tendencias en sistemas automáticos en edificios. Aplicaciones en gestión 
+de la energía. Aplicaciones en sistemas integrados con energías renovables.
+–	 Nuevas tendencias en sistemas automáticos industriales.
+2.– Determinación de las características de los elementos de los sistemas 
+domóticos:
+–	 Funcionamiento y características de los elementos de las distintas tecnologías 
+existentes. Elementos propios de sistemas automáticos tradicionales. Elementos 
+de corrientes portadoras. Elementos de sistemas propios. Áreas de confort. Áreas 
+de comunicación. Área de seguridad. Área de gestión de energía. 
+–	 Dimensionado de elementos. Configuración de elementos pasivos. Configuración 
+de sistemas de control. Configuración de instalaciones. 
+–	 Criterios de selección de elementos y equipos. Valores. Utilización y características 
+de la instalación. Entorno y utilización.
+–	 Dimensionado de elementos de seguridad. Protecciones. Compatibilidad 
+electromagnética. Interconexión con sistemas externos de seguridad.
+–	 Interconexiones entre las áreas de confort, seguridad, gestión energética y 
+telecomunicaciones. Compatibilidad de sistemas.
+–	 Instrucciones técnicas del REBT. Normativa en edificios. Normativa en eficiencia 
+energética.
+3.– Caracterización de automatismos industriales basados en tecnología de 
+autómatas programables:
+–	 Estructura empleada en los sistemas industriales con autómatas programables.
+–	 Características industriales de los sensores.
+–	 Elementos de la instalación automatizada. Tipos. Características. Elementos de 
+entrada/salida. Elementos de potencia. Sistemas modulares. 
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70832
+Miércoles, 7 de septiembre de 2011
+–	 Accionadores, sensores, actuadores y receptores utilizados en sistemas 
+automáticos industriales. Clasificación y tipos. Funcionamiento. Características 
+técnicas. Conexionado.
+–	 Autómata 
+programable. 
+Ventajas. 
+Tipos, 
+estructura 
+y 
+características. 
+Funcionamiento. Dimensionado. Conexionado. Criterios de selección. Módulos 
+específicos.
+–	 Elementos auxiliares de la instalación. Cuadros. Conductores. Conectores. 
+Canalizaciones. Protecciones.
+–	 Elementos de potencia. Arrancadores electrónicos. Variadores de frecuencia. 
+Servoaccionamientos. Características. Ajustes de parámetros.
+4.– Configuración de sistemas domóticos:
+–	 Funcionamiento y características de la tecnología de corrientes portadoras. 
+Comparativa con otras tecnologías. 
+–	 Estructura del sistema de corrientes portadoras. Partes fundamentales del 
+sistema. Precauciones eléctricas. 
+–	 Conexión de elementos. Configuración de sistemas y elementos de corrientes 
+portadoras y tecnología inalámbrica. Ajustes de elementos. Técnicas y software 
+de programación.
+–	 Dimensionado de los elementos de seguridad propios de estos sistemas. 
+Precauciones e inconvenientes de las corrientes portadoras.
+–	 Configurado de módulos de confort, seguridad, gestión energética y 
+telecomunicaciones. Elementos específicos. Dimensionado de instalaciones. 
+Módulos específicos. Módulos especiales. Elementos de E/S a los módulos.
+5.– Caracterización de instalaciones de automatización en edificios y grandes 
+locales.
+–	 Instalaciones automáticas de edificios o locales comerciales. Implementación de 
+sistemas.
+–	 Parámetros de control y gestión en edificios y grandes superficies. Control 
+energético. Eficiencia energética. Normas.
+–	 Principio de funcionamiento de los buses de comunicación domésticos. 
+Características de utilización. Buses industriales en instalaciones inmóticas. 
+Cableado estructurado. 
+–	 Configurado de los elementos de interconexión de tecnologías. Configuración de 
+sistemas. Interconexionado. Ajustes y parametrización.
+–	 Combinación de áreas de confort, seguridad, gestión energética y 
+telecomunicaciones. Parámetros básicos de combinación: protocolos de 
+comunicación, tipos de señales, entre otros. Estudios de viabilidad de 
+automatización de áreas. Elementos de conexión entre sistemas.
+–	 Normas de compatibilidad electromagnética. Normas internacionales.
+–	 Sistemas de supervisión. Sistema SCADA.
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70833
+Miércoles, 7 de septiembre de 2011
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar 
+las funciones de definición, configuración, y dimensionamiento de las instalaciones 
+automatizadas en viviendas y edificios (domótica e inmótica) así como, de instalaciones 
+automatizadas en industria.
+La definición de estas funciones, nos permite diferenciar dos grandes bloques de 
+contenidos. Un bloque A de «Configuración de Instalaciones Domóticas e Inmóticas», que 
+incluye aspectos relacionados con la automatización de instalaciones de viviendas y edificios 
+con una duración de 128 horas del total del módulo, y otro bloque B de «Configuración de 
+los Automatismos Industriales» con una duración de 64 horas.
+La definición de estas funciones, incluye aspectos relacionados con la automatización 
+de instalaciones en viviendas y edificios, tales como:
+–	 Determinación de las características de la automatización en una vivienda o 
+edificio.
+–	 Determinación de las características de la automatización industrial.
+–	 Elaboración de memorias técnicas, esquemas.
+–	 Elección de los dispositivos, los receptores y la tecnología adecuada en cada 
+caso.
+–	 Elaboración de documentación de puesta en servicio y mantenimiento.
+Las actividades profesionales asociadas a esta función se aplican en:
+–	 Configuración de instalaciones automatizadas en viviendas y edificios.
+–	 Configuración de instalaciones automatizadas en la industria.
+–	 Selección de sistemas y elementos de instalaciones automáticas.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+a), b), e), f), y v), del ciclo formativo y las competencias a), b) y d), del título.
+Las líneas de actuación en el proceso enseñanza–aprendizaje que permiten alcanzar 
+los objetivos del módulo profesional versarán sobre:
+–	 Reconocimiento de las áreas de automatización de una vivienda o edificio, así 
+como el grado de automatización deseado.
+–	 Reconocimiento de las áreas, tipos y niveles de automatización de una 
+industria.
+–	 Identificación de dispositivos, receptores, y tecnologías de automatización a 
+emplear, de las condiciones de diseño.
+–	 Elaboración de memorias técnicas, esquemas, y programas de control.
+–	 Combinación de diferentes tecnologías en una misma instalación eléctrica 
+automatizada.
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70834
+Miércoles, 7 de septiembre de 2011
+Módulo profesional: Configuración de instalaciones eléctricas.
+Equivalencia en créditos ECTS: 11.
+Código: 0524.
+Duración: 192 horas.
+Contenidos:
+BLOQUE A: Instalaciones eléctricas de baja tensión en el entorno de edificios y con 
+fines) especiales.
+Duración: 142 horas.
+1.– Identificación de instalaciones eléctricas de baja tensión en el entorno de edificios 
+de viviendas, industrias, oficinas y locales de pública concurrencia:
+–	 Normativa. REBT, Código Técnico de Edificación (CTE), Normas particulares de 
+las compañías suministradoras y Normas UNE, entre otras. 
+–	 Sistemas de distribución en baja tensión. Generalidades.
+–	 Estructura de las instalaciones. Instalación de enlace. Partes y normativa. 
+Instalaciones interiores o receptoras. Partes y normativa.
+–	 Acometidas.
+–	 Dispositivo general de protección (CGP, CPM, entre otros). Línea general de 
+alimentación. Contadores. Ubicación y sistemas de instalación. Derivaciones 
+individuales. Dispositivos generales e individuales de mando y protección. 
+Elementos de control de potencia (ICP, maxímetro, entre otros).
+–	 Equipos de medida. Tarifas eléctricas.
+–	 Instalaciones Interiores o receptoras. Características generales. Prescripciones 
+generales. Sistemas de instalación.
+–	 Instalaciones Interiores en viviendas y edificios. Prescripciones generales.
+–	 Instalaciones en locales de pública concurrencia. Clasificación. Alimentación de 
+los servicios de seguridad. Fuentes de alimentación. Fuentes propias de energía. 
+Suministros complementarios.
+–	 Alumbrado de emergencia (alumbrado de seguridad y de reemplazamiento). 
+Instalaciones con alumbrado de emergencia. Aparatos para alumbrado de 
+emergencia. Prescripciones.
+–	 Tipos de suministros eléctricos. Clasificación y características.
+–	 Elementos característicos de las instalaciones. Conductores y cables. Tubos y 
+canales protectoras. Protecciones.
+–	 Envolventes. Grados de protección de una envolvente. 
+–	 Elementos de mando y protección. Elementos de control de potencia.
+–	 Mecanismos y tomas de corriente. 
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70835
+Miércoles, 7 de septiembre de 2011
+2.– Caracterización de instalaciones eléctricas de baja tensión en locales de 
+características especiales e instalaciones con fines especiales:
+–	 Instalaciones en locales con riesgo de incendio y explosión. Prescripciones 
+generales. Clasificación de los emplazamientos. Emplazamientos de clase I y II. 
+Procedimientos de ejecución de las instalaciones.
+–	 Instalaciones en locales de características especiales (locales húmedos y mojados, 
+baterías de acumuladores, entre otros). Clasificación. Tipos y características. 
+Normativa medioambiental.
+–	 Instalaciones con fines especiales (piscinas y fuentes, instalaciones provisionales 
+y temporales de obra, quirófanos y salas de intervención, entre otros). 
+Prescripciones generales. Características.
+–	 Cuadro de obra. Elementos de mando y protección. Cables eléctricos y 
+canalizaciones.
+3.– Determinación de las características de elementos en instalaciones eléctricas:
+–	 Previsión de cargas. Criterios de cálculo.
+–	 Determinación de número de circuitos en las instalaciones de viviendas y en el 
+entorno de edificios. Cálculo de circuitos.
+–	 Coeficientes de simultaneidad.
+–	 Cálculos de sección. Criterios del cálculo. Caída de tensión. Intensidad máxima 
+admisible. Corriente de cortocircuito. 
+–	 Cálculo de secciones en edificios y viviendas. Tipos de conductores. Aplicación. 
+REBT y Normas UNE.
+–	 Cálculo y dimensionamiento de canalizaciones. Tipos y aplicaciones. Tablas.
+–	 Dimensiones de cuadros y cajas. Tipos y valores característicos. Tablas.
+–	 Dimensionamiento de los elementos de protección. Curvas de disparo. 
+Selectividad. Características del neutro. Configuraciones.
+–	 Protección contra sobretensiones. Prescripciones generales.
+–	 Dimensionamiento de la centralización de contadores. Características y 
+ubicación.
+–	 Dimensionamiento del sistema de puesta a tierra. Tipos de sistemas de puesta a 
+tierra en edificios. Elementos de la p.a.t. 
+4.– Configuración de Instalaciones eléctricas en baja tensión:
+–	 Especificaciones de diseño. Normativa. REBT. CTE. Normas UNE, entre otras.
+–	 Distribución de circuitos. Distribución de elementos. Cálculo del número de 
+circuitos. Cálculo de secciones. Cálculo de canalizaciones y bandejas.
+–	 Selección de equipos y materiales. Criterios de selección.
+–	 Croquis de trazado y ubicación de elementos. Simbología. Norma UNE.
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70836
+Miércoles, 7 de septiembre de 2011
+–	 Calidad en el diseño de instalaciones. Eficiencia energética en edificios y 
+viviendas. Normas de aplicación.
+–	 Planos de detalle de las instalaciones eléctricas dedicadas a edificios, locales e 
+instalaciones exteriores.
+–	 Pruebas y ensayos de recepción.
+–	 Puesta en servicio de las instalaciones. Procedimientos.
+–	 Memoria técnica de diseño o proyecto.
+–	 Gestión administrativa de las instalaciones eléctricas. 
+5.– Caracterización de instalaciones de alumbrado exterior:
+–	 Luminotecnia e instalaciones de alumbrado. Conceptos básicos. Tipos de 
+instalaciones de alumbrado. Características. 
+–	 Elementos de las instalación lumínicas. Lámparas. Luminarias. Equipos auxiliares 
+y sistemas de accionamiento y regulación. 
+–	 Postes, báculos, columnas, entre otros. Instalación de puesta a tierra.
+–	 Parámetros físicos de la luz. Naturaleza y características.
+–	 Parámetros físicos del color. Naturaleza y características.
+–	 Alumbrado público. Tipos y características.
+–	 Alumbrado con proyectores. Tipos de proyectores. 
+–	 Iluminación con fibra óptica. Características. Generadores de luz. Conductores y 
+luminarias. Aplicaciones.
+–	 Equipos de regulación y control de alumbrado.
+–	 Eficiencia y ahorro energético. Normativa. Requisitos mínimos de eficiencia 
+energética. Calificación energética de las instalaciones de alumbrado exterior.
+–	 Cálculos luminotécnicos en alumbrado exterior.
+–	 Instalación eléctrica en alumbrado exterior. Componentes. Dimensionamiento. 
+–	 Tramitación de las instalaciones. Documentación técnica de las instalaciones de 
+alumbrado exterior, verificaciones e inspecciones. 
+–	 Mantenimiento de la eficiencia energética. Mediciones luminotécnicas.
+–	 Telegestión del alumbrado exterior.
+–	 Normativa de instalaciones de iluminación exterior. Reglamento Electrotécnico 
+de Baja Tensión (REBT). Reglamento de Eficiencia Energética en Instalaciones 
+de Alumbrado Exterior (REEAE). Otras.
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70837
+Miércoles, 7 de septiembre de 2011
+BLOQUE B: Instalaciones solares fotovoltáicas.
+Duración: 50 horas.
+6.– Caracterización de las Instalaciones solares fotovoltaicas:
+–	 Clasificación de instalaciones solares fotovoltaicas. Sistemas fotovoltaicos.
+–	 Instalación solar aislada. Tipos y Elementos. Solar mas grupo electrógeno. 
+Sistemas híbridos. Usos.
+–	 Instalación solar fotovoltaica conectada a red. Especificaciones. Solicitud del 
+punto de conexión. Parámetros de calidad del suministro. Sistema de medida de 
+energía. Aporte energético.
+–	 Instalaciones generadoras de baja tensión. Condiciones generales. Condiciones 
+para la conexión. Cables de conexión.
+–	 Protecciones. Instalaciones de puesta a tierra. Puesta en marcha.
+–	 Paneles solares. Tipos, constitución y funcionamiento. 
+–	 Tipos de acumuladores. Ubicación. Mantenimiento.
+–	 Protecciones contra sobrecargas, contactos directos e indirectos, sobretensiones, 
+entre otras. 
+–	 Reguladores. Función y parámetros.
+–	 Convertidores. 
+–	 Sistemas de seguimiento solar. 
+–	 Sistemas de conexión del neutro y de las masas en redes de distribución de 
+energía.
+–	 Normativa de aplicación. (REBT, UNE, normativa reguladora de producción de 
+energía eléctrica mediante tecnología solar fotovoltaica. Normativa de conexión 
+a red, entre otras).
+7.– Configuración de Instalaciones solares fotovoltaica:
+–	 Condiciones de diseño.
+–	 Cálculos. Niveles de radiación. Unidades de medida. Zonas climáticas. Mapa 
+solar. Rendimiento solar. Orientación e inclinación. Determinación de sombras. 
+Coeficientes de pérdidas. Cálculo de baterías. Caídas de tensión y sección de 
+conductores de líneas. Cables de conexión. Canalizaciones. Cálculos del sistema 
+de puesta a tierra. Configuración y diseño del conductor de tierra.
+–	 Características de equipos y elementos. 
+–	 Diseño y cálculo de un sistema de energía solar fotovoltaica conectada a red con 
+todos sus componentes. Potencia total. Punto de conexión.
+–	 Procesos administrativos en instalaciones solares fotovoltaicas. Documentación 
+de las instalaciones solares fotovoltaicas. Instalaciones que necesitan proyecto. 
+Instalaciones que necesitan memoria técnica de diseño.
+–	 Marco normativo.
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70838
+Miércoles, 7 de septiembre de 2011
+Orientaciones pedagógicas y metodológicas:
+Este módulo profesional contiene la formación necesaria para desempeñar las 
+funciones de diseño y definición, y se aplica en los procesos relacionados con instalaciones 
+eléctricas de baja tensión en el entorno de edificios y con fines especiales, instalaciones 
+de iluminación exterior y a instalaciones solares fotovoltaicas.
+La definición de estas funciones incluye aspectos como:
+–	 Interpretación de documentación previa.
+–	 Trazado de planos y esquemas.
+–	 Determinación de características.
+–	 Configuración de elementos e instalaciones.
+–	 Elaboración de especificaciones.
+–	 Valoración de costes.
+–	 Tramitación administrativa.
+Las actividades profesionales asociadas a esta función se aplican en:
+–	 Desarrollo de proyectos de instalaciones eléctricas de baja tensión en el entorno 
+de edificios.
+–	 Desarrollo de proyectos de instalaciones eléctricas de baja tensión en locales 
+con fines especiales.
+–	 Configuración de instalaciones de iluminación exterior.
+–	 Desarrollo de proyectos de instalaciones solares fotovoltaicas.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+a), b), c), d), e), f) y v) del ciclo formativo y las competencias a), b), c) y d) del título.
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar 
+los objetivos del módulo profesional versarán sobre:
+–	 Realización de la documentación necesaria para la redacción de tres proyectos:
+-	 Proyecto de instalación eléctrica de baja tensión en un local de pública 
+concurrencia, local industrial o local. 
+-	 Proyecto de instalación eléctrica de un local con fines especiales.
+-	 Proyecto de iluminación exterior. 
+-	 Proyecto de instalación solar fotovoltaica conectada a red.
+–	 Cálculo y diseño de las instalaciones mediante programas informáticos.
+–	 Elaboración de planes de seguridad.
+–	 Previsión de protocolos de calidad.
+–	 Actitud de respeto al medio ambiente.
+–	 Interpretación y aplicación de la normativa referente a cada tipo de instalación. 
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70839
+Miércoles, 7 de septiembre de 2011
+Módulo profesional: Gestión del montaje y del mantenimiento de instalaciones 
+eléctricas.
+Equivalencia en créditos ECTS: 6.
+Código: 0602.
+Duración: 63 horas.
+Contenidos:
+1.– Organización del proceso de aprovisionamiento del montaje en instalaciones 
+eléctricas:
+–	 Partes del proyecto aplicables al montaje. Memoria descriptiva. Planos. Pliego de 
+condiciones. 
+–	 Mediciones.
+–	 Certificación de obra.
+–	 Aprovisionamiento 
+de 
+instalaciones 
+eléctricas. 
+Métodos. 
+Procesos 
+de 
+aprovisionamiento. Técnicas de planificación del aprovisionamiento. Técnicas de 
+gestión y control del aprovisionamiento.
+–	 Técnicas de codificación de elementos de la instalación. Normas de 
+codificación.
+–	 Representación gráfica. Diagramas de flujo. 
+–	 Aplicación del plan de montaje a la organización del aprovisionamiento. 
+Planificación del aprovisionamiento.
+2.– Definición de las características de recepción y abastecimiento de materiales y 
+medios para el montaje:
+–	 Tipos de almacén en las empresas de electricidad.
+–	 Técnicas de gestión y control de almacenes. 
+–	 Documentación técnica de control de almacén. Albaranes y documentación de 
+entrada y salida.
+–	 Conocimientos básicos de contabilidad (descuentos, tarifación, entre otros).
+–	 Técnicas de aprovisionamiento y control de stocks.
+–	 El almacén de obra. Características.
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70840
+Miércoles, 7 de septiembre de 2011
+3.– Planificación del montaje de instalaciones eléctricas en viviendas y líneas de 
+distribución:
+–	 Características técnicas de los proyectos eléctricos aplicables al montaje.
+–	 Técnicas procedimentales para la gestión de proyectos. 
+–	 El proyecto de obra. Fases y planificación.
+–	 Recursos humanos y materiales utilizados en el montaje de instalaciones 
+eléctricas.
+–	 Técnicas de planificación aplicadas al montaje de instalaciones.
+–	 Temporalización de procesos de montaje.
+–	 Equipos y medidas de seguridad aplicables al montaje.
+4.– Caracterización de los procesos de gestión del montaje de instalaciones 
+eléctricas:
+–	 Planes de montaje.
+–	 Técnicas de gestión de recursos humanos y materiales.
+–	 Herramientas informáticas para la gestión de recursos humanos y materiales.
+–	 Procedimientos e indicadores de gestión. Criterios de aceptación de instalaciones. 
+Criterios de aceptación de materiales. Indicadores de procesos de montaje e 
+instalación.
+–	 Temporalización de procesos de montaje.
+–	 Normativa vigente.
+5.– Organización de la puesta en servicio de instalaciones electrotécnicas en 
+viviendas y locales:
+–	 Procedimientos de puesta en servicio. Instrucciones técnicas del REBT 
+aplicables.
+–	 Aparatos de medición. Equipo para medida de aislamiento, rigidez dieléctrica, 
+resistencia de tierra y corrientes de fuga, entre otras. 
+–	 Valores mínimos aceptación. 
+–	 Requerimientos de puesta en marcha. Continuidad. Accesibilidad y alturas, entre 
+otras.
+–	 Ensayos de elementos de protección. Sensibilidad, selectividad, tiempo de 
+disparo, entre otros.
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70841
+Miércoles, 7 de septiembre de 2011
+–	 Análisis de la red de suministro (armónicos, perturbaciones, nivel de tensión, 
+estabilidad, entre otros).
+–	 Revisión de locales de pública concurrencia (puntos críticos, plan de revisiones, 
+entre otros).
+–	 Medidas de seguridad. 
+–	 Normativa vigente.
+6.– Planificación del mantenimiento y gestión de residuos:
+–	 Puntos susceptibles de mantenimiento en una instalación eléctrica.
+–	 Aprovisionamiento de materiales y gestión de stocks.
+–	 Mantenimiento preventivo y correctivo. 
+–	 Técnicas de planificación de mantenimiento. Programación.
+–	 Instrucciones de mantenimiento de fabricantes.
+–	 Gestión de residuos industriales. Normativa.
+–	 Plan de gestión de residuos.
+–	 Contenidos de un plan de mantenimiento. Datos generales. Necesidades. 
+Calendario de revisiones y cambios. Hojas de control.
+–	 Detección y control de indicadores de procesos de mantenimiento, criterios de 
+aceptación.
+–	 Técnicas de gestión de recursos humanos y materiales.
+–	 Procedimientos e indicadores de gestión.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar las 
+funciones de gestión y supervisión del montaje y mantenimiento, así como la verificación de 
+las instalaciones eléctricas de baja tensión en el entorno de edificios; tanto en la instalación 
+de enlace, el interior de viviendas y locales de pública concurrencia y uso industrial.
+La definición de estas funciones incluye aspectos como:
+–	 Gestionar el aprovisionamiento para el montaje de instalaciones eléctricas de 
+uso domestico, comercial o industrial, así como para fines especiales.
+–	 Gestionar el almacén y el control de materiales y elementos necesarios para el 
+montaje de instalaciones.
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70842
+Miércoles, 7 de septiembre de 2011
+–	 Organizar el montaje de instalaciones eléctricas.
+–	 Gestionar el lanzamiento y la consecución del montaje de instalaciones 
+eléctricas.
+–	 Organizar la puesta en servicio y programar las medidas reglamentarias 
+necesarias en instalaciones de viviendas y locales.
+–	 Organizar el mantenimiento de instalaciones.
+–	 Gestionar el plan de mantenimiento correctivo y preventivo, así, como la reparación 
+de instalaciones y elementos. 
+Las actividades profesionales asociadas a esta función se aplican en:
+–	 Control de stocks y almacén de empresa y de obra.
+–	 Gestión y organización del montaje de instalaciones eléctricas en viviendas, 
+locales de pública concurrencia, industriales y para fines especiales.
+–	 Gestión y organización del mantenimiento de instalaciones y equipos eléctricos.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+g), h), i), j), k), l), m), n), ñ), y o), del ciclo formativo y las competencias e), f), h), i), j) y k), 
+del título.
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar 
+los objetivos del módulo profesional versarán sobre:
+–	 Gestión del aprovisionamiento para lanzar el montaje de una instalación.
+–	 El reconocimiento de técnicas de control de los stocks y almacenes para el 
+aprovisionamiento de equipos y materiales.
+–	 La aplicación de técnicas de control y planificación del montaje de instalaciones 
+eléctricas.
+–	 El reconocimiento de métodos de gestión del montaje.
+–	 La organización de la puesta en servicio de instalaciones.
+–	 La organización del mantenimiento preventivo y predictivo de equipos e 
+instalaciones.
+–	 La gestión del mantenimiento de instalaciones y reparación de averías 
+eléctricas.
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70843
+Miércoles, 7 de septiembre de 2011
+Módulo profesional: Proyecto de sistemas electrotécnicos y automatizados. 
+Equivalencia en créditos ECTS: 5.
+Código: 0526.
+Duración: 30 horas.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional complementa la formación establecida para el resto de los 
+módulos profesionales que integran el título en las funciones de análisis del contexto, 
+diseño del proyecto y organización de la ejecución.
+La función de análisis del contexto incluye las subfunciones de recopilación de 
+información, identificación de necesidades y estudio de viabilidad.
+La función de organización de la ejecución incluye las subfunciones de programación, 
+definiendo la secuencia cronológica de las etapas de trabajo, con previsión y coordinación 
+de los recursos, y de logística, determinando la provisión, transporte y almacenamiento 
+de los materiales de la instalación y de los equipos que se deben utilizar en su ejecución, 
+tanto desde su origen como en su recorrido en la obra.
+Las actividades profesionales asociadas a estas funciones se desarrollan en los 
+subsectores de producción y distribución de energía eléctrica, instalaciones eléctricas e 
+infraestructuras comunes de telecomunicación en el entorno de edificios, de los sectores 
+industrial y de servicios. La formación del módulo se relaciona con la totalidad de los 
+objetivos generales del ciclo y las competencias profesionales, personales y sociales del 
+título.
+Las líneas de actuación en el proceso de enseñanza–aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional están relacionadas con:
+–	 La autoevaluación del trabajo realizado.
+–	 La autonomía y la iniciativa.
+–	 El uso de las TIC.
+El proyecto será realizado por el alumnado, de forma individual, preferentemente 
+durante el tercer trimestre del segundo curso. El alumnado será tutorizado por un profesor, 
+que imparta docencia en segundo curso del ciclo formativo, de la especialidad de «Sistemas 
+Electrotécnicos y Automáticos» o de «Instalaciones Electrotécnicas», de acuerdo con 
+lo establecido en el anexo III A) del Real Decreto 1127/2010, de 10 de septiembre, no 
+obstante, dado que los resultados de aprendizaje y criterios de evaluación de este módulo 
+complementan los del resto de los módulos y tiene un carácter integrador de todos los 
+módulos del ciclo, sería conveniente la colaboración de todos los profesores con atribución 
+docente en el ciclo formativo.
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70844
+Miércoles, 7 de septiembre de 2011
+Módulo profesional: Formación y orientación laboral. 
+Equivalencia en créditos ECTS: 5.
+Código: 0527.
+Duración: 96 horas.
+Contenidos:
+BLOQUE A: Formación, Legislación y Relaciones Laborales. 
+Duración: 46 horas.
+1.– Búsqueda activa de empleo:
+–	 Valoración de la importancia de la formación permanente para la trayectoria 
+laboral y profesional del Técnico Superior en Sistemas Electrotécnicos y 
+Automatizados.
+–	 Oportunidades de aprendizaje y empleo en Europa. Programas europeos.
+–	 Valoración de la empleabilidad y adaptación como factores clave para responder 
+a las exigencias del mercado laboral.
+–	 Análisis de los intereses, aptitudes y motivaciones personales para la carrera 
+profesional.
+–	 Identificación de itinerarios formativos relacionados con el Técnico Superior en 
+Sistemas Electrotécnicos y Automatizados.
+–	 Definición y análisis del sector profesional del Técnico Superior en Sistemas 
+Electrotécnicos y Automatizados.
+–	 Proceso de búsqueda de empleo en pequeñas, medianas y grandes empresas 
+del sector.
+–	 La búsqueda de empleo. Fuentes de información.
+–	 Técnicas e instrumentos de búsqueda de empleo.
+–	 Oportunidades de autoempleo.
+–	 El proceso de toma de decisiones.
+–	 La igualdad de oportunidades en el acceso al empleo.
+2.– Gestión del conflicto y equipos de trabajo:
+–	 Valoración de las ventajas e inconvenientes del trabajo de equipo para la eficacia 
+de la organización.
+–	 Tipología de equipos de trabajo.
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70845
+Miércoles, 7 de septiembre de 2011
+–	 Equipos en la industria de sistemas electrotécnicos y sistemas automatizados 
+según las funciones que desempeñan. 
+–	 Formación y funcionamiento de equipos eficaces.
+–	 La participación en el equipo de trabajo.
+–	 Técnicas de participación. 
+–	 Identificación de roles. Barreras a la participación.
+–	 Conflicto: características, fuentes y etapas.
+–	 Consecuencias de los conflictos.
+–	 Métodos para la resolución o supresión del conflicto.
+–	 La comunicación como instrumento fundamental para el trabajo en equipo y la 
+negociación. Comunicación asertiva.
+3.– Contrato de trabajo:
+–	 El derecho del trabajo. Normas fundamentales.
+–	 Órganos de la administración y jurisdicción laboral.
+–	 Análisis de la relación laboral individual.
+–	 Modalidades de contrato de trabajo y medidas de fomento de la contratación.
+–	 Derechos y deberes derivados de la relación laboral.
+–	 El tiempo de trabajo.
+–	 Análisis del recibo de salarios. Liquidación de haberes.
+–	 Modificación, suspensión y extinción del contrato de trabajo.
+–	 Valoración de las medidas para la conciliación familiar y profesional.
+–	 Representación de los trabajadores en la empresa.
+–	 Medidas de conflicto colectivo. Procedimientos de solución.
+–	 Análisis de un convenio colectivo aplicable al ámbito profesional del Técnico 
+Superior en Sistemas Electrotécnicos y Automatizados.
+–	 Beneficios para los trabajadores en las nuevas organizaciones: flexibilidad y 
+beneficios sociales, entre otros.
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70846
+Miércoles, 7 de septiembre de 2011
+4.– Seguridad Social, Empleo y Desempleo:
+–	 Estructura del Sistema de la Seguridad Social.
+–	 Determinación de las principales obligaciones de empresarios y trabajadores en 
+materia de Seguridad Social: afiliación, altas, bajas y cotización.
+–	 Situaciones protegibles en la protección por desempleo.
+–	 Cálculo de bases de cotización a la Seguridad Social y determinación de cuotas 
+en un supuesto sencillo.
+–	 Prestaciones de la Seguridad Social.
+–	 Cálculo de una prestación por desempleo de nivel contributivo básico.
+BLOQUE B: Prevención de Riesgos Laborales.
+Duración: 50 horas.
+5.– Evaluación de riesgos profesionales:
+–	 Importancia de la cultura preventiva en todas las fases de la actividad. 
+Sensibilización a través de las estadísticas de siniestralidad nacional y en Castilla 
+y León, de la necesidad de hábitos y actuaciones seguras.
+–	 Valoración de la relación entre trabajo y salud.
+–	 El riesgo profesional.
+–	 Análisis de factores de riesgo.
+–	 Análisis de riesgos ligados a las condiciones de seguridad.
+–	 Análisis de riesgos ligados a las condiciones ambientales.
+–	 Análisis de riesgos ligados a las condiciones ergonómicas y psico–sociales.
+–	 Riesgos específicos en la industria de sistemas electrotécnicos y sistemas 
+automatizados.
+–	 La evaluación de riesgos en la empresa como elemento básico de la actividad 
+preventiva.
+–	 Técnicas de evaluación de riesgos.
+–	 Condiciones de trabajo y seguridad.
+–	 Determinación de los posibles daños a la salud del trabajador que pueden 
+derivarse de las situaciones de riesgo detectadas. Los accidentes de trabajo, las 
+enfermedades profesionales y otras patologías.
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70847
+Miércoles, 7 de septiembre de 2011
+6.– Planificación de la prevención de riesgos en la empresa. Prevención integrada:
+–	 Marco normativo en materia de prevención de riesgos laborales. 
+–	 Derechos y deberes en materia de prevención de riesgos laborales.
+–	 Responsabilidades en materia de prevención de riesgos laborales. 
+–	 Gestión de la prevención en la empresa. Documentación.
+–	 Organismos públicos relacionados con la prevención de riesgos laborales. 
+–	 Planificación de la prevención en la empresa. Documentación.
+–	 Definición del contenido del Plan de prevención de un centro de trabajo relacionado 
+con el sector profesional.
+–	 Planes de emergencia y de evacuación en entornos de trabajo.
+–	 Elaboración de un plan de emergencia en una PYME.
+–	 Representación de los trabajadores en materia preventiva.
+7.– Aplicación de medidas de prevención y protección en la empresa:
+–	 Determinación de las medidas de prevención y protección individual y colectiva.
+–	 Señalización de seguridad.
+–	 Protocolo de actuación ante una situación de emergencia.
+–	 Prioridades y secuencia de actuación en el lugar del accidente.
+–	 Urgencia médica. Primeros auxilios. Conceptos básicos.
+–	 Aplicación de técnicas de primeros auxilios.
+–	 Vigilancia de la salud de los trabajadores.
+–	 Formación de los trabajadores en materia de planes de emergencia.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para que el alumnado pueda 
+insertarse laboralmente y desarrollar su carrera profesional en el sector de los sistemas 
+electrotécnicos y automatizados.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+p), q), r), s), t), u), x) e y) del ciclo formativo y las competencias l), m), n), ñ), o), p), q) y r) 
+del título. 
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70848
+Miércoles, 7 de septiembre de 2011
+Las líneas de actuación en el proceso de enseñanza–aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+–	 El manejo de las fuentes de información sobre el sistema educativo y laboral, en 
+especial en lo referente al sector electrónico.
+–	 La realización de pruebas de orientación y dinámicas sobre la propia personalidad 
+y el desarrollo de las habilidades sociales.
+–	 La preparación y realización de currículos (CVs) y entrevistas de trabajo.
+–	 La identificación de la normativa laboral que afecta a los trabajadores del sector, 
+el manejo de los contratos más comúnmente utilizados y la lectura comprensiva 
+de los convenios colectivos de aplicación.
+–	 La cumplimentación de recibos de salario de diferentes características y otros 
+documentos relacionados.
+–	 El análisis de la Ley de Prevención de Riesgos Laborales, que le permita la 
+evaluación de los riesgos derivados de las actividades desarrolladas en su 
+sector productivo, y colaborar en la definición de un plan de prevención para una 
+pequeña empresa, así como las medidas necesarias que deban adoptarse para 
+su implementación.
+Para el desarrollo de los contenidos conviene seguir una metodología activa, 
+participativa y motivadora, ajustada al siguiente protocolo:
+–	 Exposición de contenidos.
+–	 Desarrollo de supuestos prácticos por parte del alumnado, con la utilización de 
+documentación facilitada por el profesorado.
+–	 Evaluación de los resultados del aprendizaje.
+Módulo profesional: Empresa e iniciativa emprendedora.
+Equivalencia en créditos ECTS: 4.
+Código: 0528.
+Duración: 63 horas.
+Contenidos:
+1.– Iniciativa emprendedora:
+–	 Innovación y desarrollo económico. Principales características de la innovación en 
+la actividad de sistemas electrotécnicos y automatizados (materiales, tecnología 
+y organización de la producción, entre otros).
+–	 El trabajo por cuenta propia como fuente de creación de empleo y bienestar 
+social.
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70849
+Miércoles, 7 de septiembre de 2011
+–	 Responsabilidad social de la empresa.
+–	 Factores claves de los emprendedores: iniciativa, creatividad y formación.
+–	 Desarrollo del espíritu emprendedor a través del fomento de las actitudes de 
+creatividad, iniciativa, autonomía y responsabilidad.
+–	 La actuación de los emprendedores como empleados de una empresa del sector 
+eléctrico y/o electrónico.
+–	 Fomento de las capacidades emprendedoras de un trabajador por cuenta 
+ajena.
+–	 La actuación de los emprendedores como empresarios, de una pequeña empresa 
+del sector eléctrico y/o electrónico.
+–	 Análisis de las oportunidades de negocio en el sector eléctrico y/o electrónico.
+–	 Análisis de la capacidad para asumir riesgos del emprendedor.
+–	 El empresario. Requisitos para el ejercicio de la actividad empresarial. Aptitudes 
+y actitudes.
+–	 Plan de empresa: la idea de negocio en el ámbito de los Sistemas Electrotécnicos 
+y Automatizados.
+–	 Búsqueda de ideas de negocio. Análisis y viabilidad de las mismas.
+2.– La empresa y su entorno:
+–	 Funciones básicas de la empresa.
+–	 Estructura organizativa de la empresa. Organigrama.
+–	 La empresa como sistema.
+–	 El entorno general de la empresa en los aspectos económico, social, demográfico 
+y cultural.
+–	 Competencia. Barreras de entrada.
+–	 Relaciones con clientes y proveedores.
+–	 Variables del marketing mix: precio, producto, comunicación y distribución.
+–	 Análisis del entorno general de una PYME del sector eléctrico y/o electrónico.
+–	 Análisis del entorno específico de una PYME del sector eléctrico y/o electrónico.
+–	 Relaciones de una PYME del sector eléctrico y/o electrónico con su entorno.
+–	 Cultura empresarial e imagen corporativa.
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70850
+Miércoles, 7 de septiembre de 2011
+–	 Relaciones de una PYME del sector eléctrico y/o electrónico con el conjunto de 
+la sociedad.
+–	 El balance social: los costes y los beneficios sociales.
+–	 La ética empresarial en empresas dedicadas al mundo de los sistemas 
+electrotécnicos y automatizados.
+3.– Creación y puesta en marcha de una empresa:
+–	 Tipos de empresa. 
+–	 Elección de la forma jurídica. 
+–	 La franquicia como forma de empresa. Franquicias eléctricas y/o electrónicas.
+–	 Ventajas e inconvenientes de las distintas formas jurídicas con espacial atención 
+a la responsabilidad legal.
+–	 La fiscalidad en las empresas. 
+–	 Impuestos más importantes que afectan a la actividad de la empresa.
+–	 Trámites administrativos para la constitución de una empresa.
+–	 Relaciones con organismos oficiales.
+–	 Subvenciones y ayudas destinadas a la creación de empresa del sector eléctrico 
+y/o electrónico en Castilla y León y en la localidad de referencia.
+–	 Viabilidad económica y viabilidad financiera de una PYME del sector eléctrico y/o 
+electrónico.
+–	 Plan de empresa: elección de la forma jurídica, estudio de viabilidad económica 
+y financiera, trámites administrativos y gestión de ayudas y subvenciones.
+–	 Vías externas de asesoramiento y gestión. La ventanilla única empresarial. Los 
+viveros de empresa. Los viveros de empresa para emprendedores de empresas 
+del sector eléctrico y/o electrónico.
+4.– Función administrativa:
+–	 Concepto de contabilidad y nociones básicas.
+–	 Cuentas anuales obligatorias.
+–	 Análisis de la información contable.
+–	 Ratios.
+–	 Cálculo de costes, beneficio y umbral de rentabilidad.
+–	 Obligaciones fiscales de las empresas.
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70851
+Miércoles, 7 de septiembre de 2011
+–	 Calendario fiscal.
+–	 Gestión administrativa de una empresa del sector eléctrico y/o electrónico.
+–	 Documentos básicos utilizados en la actividad económica de la empresa: nota de 
+pedido, albarán, factura. Letra de cambio, cheque y otros.
+–	 Gestión de aprovisionamiento. Valoración de existencias. Volumen óptimo de 
+pedido.
+–	 Elaboración de un plan de empresa relacionada con los sistemas electrotécnicos 
+y automatizados.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desarrollar la propia 
+iniciativa en el ámbito empresarial, tanto hacia el autoempleo como hacia la asunción de 
+responsabilidades y funciones en el empleo por cuenta ajena.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+w), x) e y) del ciclo formativo y las competencias p), q) y r) del título. 
+Las líneas de actuación en el proceso de enseñanza–aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+–	 El manejo de las fuentes de información sobre el sector de la informática, 
+incluyendo el análisis de los procesos de innovación sectorial en marcha.
+–	 La realización de casos y dinámicas de grupo que permitan comprender y 
+valorar las actitudes de los emprendedores y ajustar la necesidad de los mismos 
+al sector industrial relacionado con los procesos de sistemas electrotécnicos y 
+automatizados.
+–	 La utilización de programas de gestión administrativa para PYMES del sector.
+–	 La realización de un proyecto de plan de empresa relacionada con la actividad 
+de los sistemas electrotécnicos y automatizados y que incluya todas las facetas 
+de puesta en marcha de un negocio, así como justificación de su responsabilidad 
+social.
+–	 Utilización de la herramienta «Aprende a Emprender».
+Para el desarrollo de los contenidos conviene seguir una metodología activa, 
+participativa y motivadora, ajustada al siguiente protocolo:
+–	 Exposición de contenidos.
+–	 Desarrollo de supuestos prácticos por parte del alumnado, con la utilización de 
+documentación facilitada por el profesorado.
+–	 Evaluación de los resultados del aprendizaje.
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+Pág. 70852
+Miércoles, 7 de septiembre de 2011
+Módulo profesional: Formación en centros de trabajo. 
+Equivalencia en créditos ECTS: 22.
+Código: 0529.
+Duración: 380 horas.
+Este módulo profesional contribuye a completar las competencias y objetivos 
+generales, propios de este título, que se han alcanzado en el centro educativo o a desarrollar 
+competencias características difíciles de conseguir en el mismo.
+CV: BOCYL-D-07092011-2
+
+Boletín Oficial de Castilla y León
+Núm. 173
+http://bocyl.jcyl.es
+D.L.: BU 10-1979 - ISSN 1989-8959
+Pág. 70853
+Miércoles, 7 de septiembre de 2011
+ANEXO III
+ORGANIZACIÓN Y DISTRIBUCIÓN HORARIA
+Módulos profesionales
+Duración 
+del 
+currículo 
+(horas)
+Centro Educativo
+Centro 
+de 
+Trabajo
+Curso 1.º
+horas/semanales
+Curso 2.º
+1.º y 2.º
+trimestres
+horas/semanales
+3.er 
+trimestre
+horas
+0517. Procesos en instalaciones de 
+infraestructuras comunes de 
+telecomunicaciones.
+192
+6
+0518. Técnicas y procesos en 
+instalaciones eléctricas.
+189
+9
+0519. Documentación técnica en 
+instalaciones eléctricas.
+96
+3
+0520. Sistemas y circuitos eléctricos.
+192
+6
+0521. Técnicas y procesos en 
+instalaciones domóticas y 
+automáticas.
+189
+9
+0522. Desarrollo de redes eléctricas y 
+centros de transformación.
+126
+6
+0523. Configuración de instalaciones 
+domóticas y automáticas.
+192
+6
+0524. Configuración de instalaciones 
+eléctricas.
+192
+6
+0602. Gestión del montaje y del 
+mantenimiento de instalaciones 
+eléctricas.
+63
+3
+0526. Proyecto de sistemas 
+electrotécnicos y 
+automatizados.
+30
+30
+0527. Formación y orientación 
+laboral.
+96
+3
+0528. Empresa e iniciativa 
+emprendedora.
+63
+3
+0529. Formación en centros de 
+trabajo. 
+380
+380
+TOTAL
+2.000
+30
+30
+410
+CV: BOCYL-D-07092011-2

@@ -1,0 +1,455 @@
+Boletín Oficial de Castilla y León
+Núm. 112
+Pág. 23304
+Martes, 12 de junio de 2018
+I. COMUNIDAD DE CASTILLA Y LEÓN
+A. DISPOSICIONES GENERALES
+CONSEJERÍA DE EDUCACIÓN
+ORDEN EDU/600/2018, de 1 de junio, por la que se regula el procedimiento para la 
+obtención de la certificación del nivel de competencia digital «CoDiCe TIC», en la integración 
+de las tecnologías de la información y la comunicación, de los centros educativos no 
+universitarios sostenidos con fondos públicos de la Comunidad de Castilla y León.
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece en su artículo 102.3 
+que las administraciones educativas promoverán la utilización de las tecnologías de la 
+información y la comunicación, estableciendo programas específicos de formación en este 
+ámbito.
+El artículo 111.bis.5 de la citada ley, tras la modificación efectuada por la Ley 
+Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa, establece que 
+se promoverá el uso, por parte de las administraciones educativas y los equipos directivos 
+de los centros, de las tecnologías de la información y comunicación en el aula, como medio 
+didáctico apropiado y valioso para llevar a cabo las tareas de enseñanza y aprendizaje.
+La Comunidad de Castilla y León, a través de la Consejería de Educación, tiene 
+como objetivo fundamental la promoción de la integración de las tecnologías de la 
+información y la comunicación, para la adquisición y mejora de la competencia digital de 
+centros educativos.
+Con este fin, la Consejería de Educación puso en marcha, en el curso escolar 
+2009/2010, una primera convocatoria para la concesión de la certificación en la aplicación 
+de las tecnologías de la información y la comunicación para centros docentes públicos 
+no universitarios de la Comunidad de Castilla y León. Tras varias convocatorias donde 
+se amplió también para los centros docentes sostenidos con fondos públicos, y una vez 
+consolidado el programa, se procedió a regular procedimiento para la obtención de la 
+certificación en la aplicación de las tecnologías de la información y la comunicación por 
+los centros docentes no universitarios sostenidos con fondos públicos de la Comunidad de 
+Castilla y León, primero mediante Orden EDU/444/2014, de 2 de junio, y posteriormente 
+mediante Orden EDU/336/2015, de 27 de abril.
+Dada la excelente trayectoria de este procedimiento, que se encuentra en continuo 
+perfeccionamiento, y teniendo en cuenta el grado de implicación así como los excelentes 
+resultados obtenidos por los centros en la aplicación de las tecnologías de la información 
+y comunicación, la Consejería de Educación considera adecuado seguir con esta línea 
+de actuaciones, si bien adaptándola a las tendencias y modelos que la Unión Europea 
+está poniendo en marcha a través del «Marco Europeo para Organizaciones Educativas 
+Digitalmente Competentes».
+CV: BOCYL-D-12062018-1
+
+Boletín Oficial de Castilla y León
+Núm. 112
+Pág. 23305
+Martes, 12 de junio de 2018
+La finalidad de la adaptación del modelo de Castilla y León a este marco europeo 
+es prestar apoyo a las organizaciones educativas para la adquisición y mejora de la 
+competencia digital de una forma sistemática y estratégica, contribuyendo a la integración 
+y el uso eficaz de tecnologías de aprendizaje digital en tres dimensiones complementarias 
+entre sí: la dimensión pedagógica (que incluye procesos de enseñanza y aprendizaje, 
+contenido y currículos, y los procesos de evaluación), la dimensión organizativa (que 
+incluye gestión y organización del centro educativo, prácticas de liderazgo y gobernanza, el 
+desarrollo profesional y la colaboración, trabajo en red e interacción social) y la dimensión 
+tecnológica (que se centra en dos elementos clave, las infraestructuras, tanto físicas como 
+digitales de los centros, y todos los aspectos relacionados con la seguridad y confianza 
+digital).
+En su virtud, y en el ejercicio de las atribuciones que confiere la Ley 3/2001, de 
+3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, previo 
+dictamen del Consejo Escolar de Castilla y León,
+DISPONGO
+Artículo 1. Objeto y modalidades.
+1. El objeto de la presente orden es regular el procedimiento para la obtención 
+de la certificación del nivel de competencia digital «CoDiCe TIC», en la integración de 
+las tecnologías de la información y la comunicación (en adelante TIC), de los centros 
+educativos no universitarios sostenidos con fondos públicos de la Comunidad de Castilla 
+y León.
+2. La certificación del nivel de competencia digital de los centros educativos podrá 
+obtenerse en alguna de las siguientes modalidades en atención a los supuestos indicados:
+a)	Modalidad A: «Concesión de la certificación», en el supuesto de que el centro 
+no tenga la certificación o la haya mantenido en un mismo nivel durante cuatro 
+cursos consecutivos.
+b)	Modalidad B: «Mejora del nivel de certificación», en el supuesto de que el centro 
+desee obtener la certificación en un nivel superior al obtenido en alguna de las 
+dos últimas convocatorias. En ningún caso se otorgará menor nivel del que 
+obtuvo en la anterior convocatoria.
+c)	 Modalidad C: «Renovación del nivel de certificación», en el supuesto de que el 
+centro, manteniendo las mismas circunstancias por las que obtuvo la certificación 
+en un determinado nivel para dos cursos, desee renovar la certificación durante 
+dos cursos más con el mismo nivel.
+3. La participación de los centros requerirá informar previamente al claustro de 
+profesores y al consejo escolar del centro.
+Artículo 2. Características generales de la certificación.
+1. La certificación del nivel de competencia digital de los centros educativos 
+se obtendrá previa convocatoria que será realizada mediante orden de la consejería 
+competente en materia de educación.
+CV: BOCYL-D-12062018-1
+
+Boletín Oficial de Castilla y León
+Núm. 112
+Pág. 23306
+Martes, 12 de junio de 2018
+2. Para la obtención de la certificación se tendrán en cuenta los siguientes aspectos:
+a)	El grado de integración de las TIC en el centro, en las siguientes áreas y de 
+acuerdo con los porcentajes siguientes:
+1.º	Área 1: Gestión, organización y liderazgo.	
+10%
+2.º	Área 2: Procesos de enseñanza y aprendizaje.	
+15%
+3.º	Área 3: Formación y desarrollo profesional.	
+15%
+4.º	Área 4: Procesos de evaluación.	
+15%
+5.º	Área 5: Contenidos y currículos.	
+15%
+6.º	Área 6: Colaboración, trabajo en red e interacción social.	
+10%
+7.º	Área 7: Infraestructura.	
+10%
+8.º	Área 8: Seguridad y confianza digital.	
+10%
+
+El grado de integración deberá estar recogido en el plan TIC.
+b)	La trayectoria y experiencia de integración de las TIC para la adquisición y mejora 
+de la competencia digital en el centro.
+3. La certificación se obtendrá en alguno de los cinco niveles siguientes, cada uno 
+de los cuáles definirá el grado de competencia digital del centro, tal como se detalla a 
+continuación:
+a)	Nivel 1.– Inicial (valor global mayor o igual a 1 y menor que 3):
+
+El centro se encuentra en desarrollo de procesos y documentación en fases 
+iniciales, en integración de las TIC, en atención al cumplimiento de los siguientes 
+supuestos:
+1.º	El centro se encuentra en una fase inicial de organización y gestión de las 
+tecnologías.
+2.º	El centro se encuentra en una fase inicial de desarrollo de algunos acuerdos 
+en la estructuración del contexto tecnológico, para los procesos de enseñanza 
+y aprendizaje.
+3.º	El centro realiza esporádicamente acciones formativas dirigidas a la 
+adquisición y mejora de la competencia digital de sus docentes.
+4.º	El centro se encuentra en fases iniciales de desarrollo de procedimientos 
+para la evaluación del aprendizaje digital.
+5.º	El centro tiene parcialmente estructurados y secuenciados, en fases iniciales, 
+contenidos curriculares relativos al desarrollo de la competencia digital y la 
+organización didáctica de los recursos.
+CV: BOCYL-D-12062018-1
+
+Boletín Oficial de Castilla y León
+Núm. 112
+Pág. 23307
+Martes, 12 de junio de 2018
+6.º	El centro tiene organizados, en fases iniciales, los servicios necesarios 
+para permitir la comunicación, la colaboración y la interacción social de la 
+comunidad educativa para el proceso de enseñanza/aprendizaje.
+7.º	El centro tiene definidas, en fases iniciales, algunas estrategias para el 
+acceso, la adquisición y el mantenimiento de los recursos tecnológicos en 
+función de las tareas educativas, administrativas y de comunicación.
+8.º	El centro toma medidas esenciales, en fases iniciales, para la protección y 
+seguridad digital.
+b)	Nivel 2.– Básico (valor global mayor o igual a 3 y menor que 5):
+
+El centro tiene definidos procesos y documentación de forma parcial e incompleta, 
+con actuaciones puntuales, en integración de las TIC, en atención al cumplimiento 
+de los siguientes supuestos:
+1.º	El centro presenta una organización y gestión de las tecnologías en el centro 
+educativo sin sistematizar, de forma parcial e incompleta, pero con acuerdos 
+puntuales.
+2.º	El centro establece acuerdos de coordinación en aspectos parciales en 
+relación a la elaboración de la programación didáctica, en la estructuración 
+del contexto tecnológico, en las metodologías colaborativas, creativas e 
+inclusivas para el desarrollo de las competencias en el proceso de enseñanza 
+y aprendizaje.
+3.º	El centro desarrolla puntualmente alguna acción formativa dirigida a la 
+adquisición y mejora de la competencia digital de sus docentes, orientadas a 
+la práctica docente para la integración de las tecnologías en los procesos de 
+enseñanza y aprendizaje.
+4.º	El centro tiene definidos procesos puntuales de evaluación atendiendo a 
+varios aspectos de la enseñanza/aprendizaje y la competencia digital con 
+procedimientos para la evaluación del aprendizaje digital.
+5.º	El centro tiene estructurados y secuenciados, pero de forma incompleta, 
+algunos aspectos de los contenidos curriculares relativos al desarrollo de la 
+competencia digital y la organización didáctica de los recursos.
+6.º	El centro tiene organizados, con actuaciones puntuales, los servicios 
+necesarios y las redes que permiten la comunicación, la colaboración e 
+interacción social de la comunidad educativa para el proceso de enseñanza/
+aprendizaje.
+7.º	El centro tiene definidas estrategias con acciones puntuales, para el acceso, 
+la adquisición y el mantenimiento de los recursos tecnológicos en función de 
+las tareas educativas, administrativas y de comunicación.
+8.º	El centro toma medidas básicas puntuales, esenciales para la protección y 
+seguridad digital y desarrolla actuaciones dirigidas a la mejora de la confianza 
+digital.
+CV: BOCYL-D-12062018-1
+
+Boletín Oficial de Castilla y León
+Núm. 112
+Pág. 23308
+Martes, 12 de junio de 2018
+c)	 Nivel 3.– Medio (valor global mayor o igual a 5 y menor que 7):
+
+El centro se encuentra en proceso de planificación, sistematización y 
+documentación en la integración de las TIC, en atención al cumplimiento de los 
+siguientes supuestos:
+1.º	El centro está llevando a cabo la planificación de las estructuras organizativas, 
+las estrategias de gestión y de administración relativas a las tecnologías en 
+el centro educativo.
+2.º		El centro establece acuerdos de coordinación de forma planificada en 
+aspectos relativos a la elaboración de la programación didáctica, en la 
+estructuración del contexto tecnológico, en las metodologías colaborativas, 
+creativas e inclusivas para el desarrollo de las competencias en el proceso de 
+enseñanza y aprendizaje.
+3.º	El centro desarrolla acciones formativas de forma planificada, dirigidas a la 
+adquisición y mejora de la competencia digital de sus docentes, la adaptación a 
+entornos digitales, la colaboración y participación profesional en la integración 
+de las tecnologías de la información para la enseñanza y el aprendizaje.
+4.º	El centro tiene planificados procesos de evaluación de la enseñanza/
+aprendizaje y la competencia digital con procedimientos para la evaluación 
+del aprendizaje digital.
+5.º	El centro tiene definidas de forma planificada, actuaciones sobre la toma de 
+acuerdos relacionados con la estructura y la secuenciación de los contenidos 
+curriculares relativos al desarrollo de la competencia digital y los recursos 
+didácticos.
+6.º	El centro tiene definidas actuaciones estructuradas para la organización de 
+las redes y servicios necesarios para la colaboración e interacción social de 
+la comunidad educativa dirigidos a la enseñanza, el aprendizaje, la gestión y 
+la comunicación.
+7.º	El centro tiene definidas estrategias planificadas y coordinadas de mejora de 
+la organización, del acceso, la adquisición y el mantenimiento de los recursos 
+tecnológicos para el desarrollo de las funciones educativas, administrativas y 
+de comunicación.
+8.º	El centro toma medidas planificadas y sistematizadas para la protección y 
+seguridad digital y desarrolla actuaciones en proceso de mejora.
+d)	Nivel 4.– Avanzado (valor global mayor o igual a 7 y menor que 9):
+
+El centro tiene estructurados los procesos y documentación de forma planificada, 
+sistematizada y coordinada, con actuaciones y estrategias de mejora, en 
+integración de las TIC, en atención al cumplimiento de los siguientes supuestos:
+1.º	El centro tiene planificadas y documentadas las estructuras organizativas, las 
+estrategias de gestión y de administración relativas a las tecnologías en el 
+centro educativo.
+CV: BOCYL-D-12062018-1
+
+Boletín Oficial de Castilla y León
+Núm. 112
+Pág. 23309
+Martes, 12 de junio de 2018
+2.º	El centro planifica y coordina actuaciones de mejora, de acuerdo a criterios 
+comunes, en relación a la elaboración de la programación didáctica, la 
+estructuración del contexto tecnológico, la organización de los recursos 
+didácticos, las metodologías colaborativas, creativas y de inclusión para el 
+desarrollo de las competencias en el proceso de enseñanza y aprendizaje.
+3.º	El centro desarrolla acciones de formación estructuradas, planificadas y 
+coordinadas (planes de formación de centro) dirigidas a la adquisición y mejora 
+de la competencia digital de sus docentes, la adaptación a entornos digitales 
+cambiantes, la colaboración y participación profesional en la integración de 
+las tecnologías de la información para la enseñanza y el aprendizaje.
+4.º	El centro planifica y coordina el proceso de evaluación de los procesos de 
+enseñanza/aprendizaje, la eficacia y la eficiencia de la aplicación y uso del 
+entorno tecnológico-didáctico.
+5.º	El centro coordina y evalúa sistemáticamente la estructuración, la 
+secuenciación y la contextualización de los contenidos curriculares relativos 
+a la competencia digital, a los recursos didácticos y a la organización en la 
+integración de las tecnologías en el proceso de enseñanza/aprendizaje.
+6.º	El centro tiene desarrollado, estructurado y coordinado un plan estratégico 
+de organización de las redes y los servicios necesarios para la comunicación, 
+la colaboración e interacción social de la comunidad educativa dirigidos a la 
+enseñanza, aprendizaje, la gestión y la comunicación.
+7.º	El centro tiene planificadas, coordinadas y documentadas las estrategias 
+de mejora de la organización, del acceso, la adquisición y el mantenimiento 
+de los recursos tecnológicos para el desarrollo de las funciones educativas, 
+administrativas y de comunicación.
+8.º	El centro tiene procesos planificados, coordinados, sistematizados y 
+documentados sobre los aspectos relacionados con seguridad y confianza 
+digital y desarrolla actuaciones de mejora.
+e)	Nivel 5.– Excelente (valor global mayor o igual a 9 y menor o igual a 10):
+
+El centro tiene estructurados los procesos y documentación de forma planificada, 
+sistematizada y coordinada, con actuaciones y estrategias de evaluación, 
+innovación y mejora, en integración de las TIC, en atención al cumplimiento de 
+los siguientes supuestos:
+1.º	El centro desarrolla procesos de evaluación para la innovación y mejora de 
+las estructuras organizativas, las estrategias de gestión y de administración 
+relativas a las tecnologías en el centro educativo.
+2.º	El centro planifica, evalúa e innova de acuerdo a criterios comunes en la 
+elaboración de la programación didáctica, la estructuración del contexto 
+tecnológico, la organización de los recursos didácticos, las metodologías 
+colaborativas, creativas e inclusivas para el desarrollo de las competencias 
+en el proceso de enseñanza y aprendizaje.
+CV: BOCYL-D-12062018-1
+
+Boletín Oficial de Castilla y León
+Núm. 112
+Pág. 23310
+Martes, 12 de junio de 2018
+3.º	El centro, a partir de procesos de evaluación y diagnóstico, desarrolla 
+acciones organizadas de formación dirigidas a la adquisición y mejora de 
+la competencia digital de sus docentes, la adaptación a entornos digitales 
+cambiantes, la colaboración y participación profesional en la mejora y la 
+innovación.
+4.º	El centro tiene estrategias coordinadas y planificadas para la evaluación de 
+los procesos de enseñanza/aprendizaje y la eficacia y eficiencia de entornos 
+tecnológico-didácticos y a partir de los resultados desarrolla actuaciones de 
+mejora e innovación.
+5.º	El centro desarrolla procesos de mejora e innovación en base a la evaluación de 
+la estructura, secuenciación y contextualización de los contenidos curriculares 
+relativos a la competencia digital, los recursos didácticos y la organización en 
+la integración y uso eficaz del proceso de enseñanza/aprendizaje.
+6.º	A partir del diagnóstico del centro se realizan procesos de innovación y 
+mejora de la colaboración e interacción social de la comunidad educativa 
+para la enseñanza, aprendizaje, la gestión y la comunicación a través de la 
+estructuración de las redes y los servicios necesarios.
+7.º	El centro, desde procesos de evaluación, tiene planificadas, coordinadas y 
+documentadas las estrategias de mejora de la organización, del acceso, la 
+adquisición y el mantenimiento de los recursos tecnológicos para el desarrollo 
+de las funciones educativas, administrativas y de comunicación.
+8.º	El centro tiene planificados, coordinados, sistematizados y documentados 
+procesos de evaluación a partir de auditorías de los aspectos relacionados 
+con seguridad y confianza digital y diseñan medidas actualizadas a partir de 
+sus resultados.
+4. La duración de la certificación será de dos cursos escolares y su validez será 
+efectiva a partir del 1 de septiembre del curso siguiente al que se solicita.
+Artículo 3. Solicitudes, admisión y cuestionario de autoevaluación.
+1. Los centros docentes indicados en el artículo 1.1 que quieran obtener, en cualquiera 
+de sus modalidades, la certificación del nivel de competencia digital, deberán presentar en 
+los plazos fijados en cada convocatoria, la solicitud de participación exclusivamente por vía 
+electrónica, a través del formulario general de solicitud que estará disponible en el Portal 
+de Educación de la Junta de Castilla y León (http://www.educa.jcyl.es), en el entorno Stilus 
+Enseña, dentro del espacio destinado a las aplicaciones disponibles para cada centro y 
+que enlazará con el registro electrónico de la Administración de la Comunidad de Castilla 
+y León. Sólo podrán acceder al formulario general de solicitud, los responsables de los 
+centros que estén registrados y autenticados en el Portal de Educación de la Junta de 
+Castilla y León como directores.
+2. Si la solicitud no reuniese los requisitos exigidos en la presente orden, se notificará 
+a los interesados para que en el plazo de diez días hábiles subsanen la falta, o acompañen 
+los documentos preceptivos, con indicación de que si así no se hiciera, se les tendrá por 
+desistidos de su petición, previa resolución que será dictada en los términos previstos en 
+CV: BOCYL-D-12062018-1
+
+Boletín Oficial de Castilla y León
+Núm. 112
+Pág. 23311
+Martes, 12 de junio de 2018
+el artículo 21 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común 
+de las Administraciones Públicas.
+3. Las notificaciones y comunicaciones derivadas del procedimiento se realizarán 
+exclusivamente por procedimientos electrónicos. La práctica de las notificaciones se 
+realizará de conformidad con el artículo 43 de la Ley 39/2015, de 1 de octubre, previo 
+envío de un aviso sobre la puesta a disposición de la notificación efectuada al correo 
+electrónico indicado en la solicitud de acuerdo con el artículo 41.6 de la citada ley.
+4. Finalizado el plazo de presentación de las solicitudes y de subsanación en 
+atención al artículo 68.1 de la Ley 39/2015, de 1 de octubre, se publicará en los tablones 
+de anuncios de las direcciones provinciales de educación un listado provisional con los 
+centros admitidos y excluidos, indicando la causa de su exclusión, y se otorgará un plazo 
+de cinco días para formular alegaciones, tras el cual se publicarán los listados definitivos 
+por el mismo medio indicado para el listado provisional.
+5. Los centros admitidos para participar en las modalidades establecidas en el 
+artículo 1.2.a) y b), deberán realizar un cuestionario de autoevaluación en el que valorarán 
+los procesos de integración de las TIC, recogido en su plan TIC de centro. El cuestionario 
+lo realizarán a través de un formulario on-line al que se accederá desde el Portal de 
+educación de la Junta de Castilla y León (http://www.educa.jcyl.es).
+Artículo 4. Equipo técnico.
+Una vez realizado por los centros el cuestionario de autoevaluación al que se refiere 
+el artículo 3.5, en cada dirección provincial de educación se constituirá un equipo técnico 
+experto en la materia, que estará compuesto por un mínimo de dos miembros y podrá 
+ampliarse en atención al número de centros admitidos, entre el personal funcionario de la 
+dirección provincial designado por su titular, que visitará a los centros de su provincia para 
+realizar las siguientes funciones:
+a)	Comprobación de las evidencias, informaciones e indicadores aportados por el 
+centro, utilizados para justificar cada una de las valoraciones otorgadas a las 
+afirmaciones del cuestionario, según se recoge en el plan TIC de centro.
+b)	Recopilación de información adicional que puede no haber sido reflejada mediante 
+la cumplimentación del cuestionario de autoevaluación.
+c)	 Emisión de un informe sobre el nivel de competencia digital del centro, haciendo 
+una propuesta de valoración.
+Artículo 5. Comisión de acreditación.
+1. Las solicitudes serán examinadas y valoradas por una comisión de acreditación 
+integrada por el titular de la dirección general competente en materia de formación del 
+profesorado o persona en quien delegue, que actuará como presidente y cinco funcionarios 
+de la consejería competente en materia de educación, nombrados por el titular de la 
+consejería, uno de los cuales actuará como secretario.
+2. La comisión de acreditación contará con la colaboración de los equipos técnicos 
+indicados en el artículo 4.
+CV: BOCYL-D-12062018-1
+
+Boletín Oficial de Castilla y León
+Núm. 112
+Pág. 23312
+Martes, 12 de junio de 2018
+3. Cuando se trate de las modalidades establecidas en el artículo 1.2.a) y b), la 
+comisión de acreditación realizará un análisis del informe emitido por los equipos técnicos 
+y emitirá informe sobre la certificación del nivel de competencia digital de cada centro, en 
+alguno de los cinco niveles determinados en el artículo 2.3.
+4. Cuando se trate de la modalidad establecida en el artículo 1.2.c), la comisión de 
+acreditación comprobará el mantenimiento de las mismas circunstancias por las que el 
+centro obtuvo el correspondiente nivel de competencia digital y emitirá informe sobre la 
+correspondiente renovación.
+Artículo 6. Resolución.
+1. Las convocatorias serán resueltas por el titular de la consejería competente en 
+materia de educación, de acuerdo con la propuesta del titular de la dirección general 
+competente en materia de formación del profesorado, visto el expediente y el informe de 
+la comisión de acreditación.
+2. La resolución de las convocatorias será publicada en el Boletín Oficial de Castilla 
+y León y será objeto de publicidad a través del Portal de Educación de la Junta de Castilla 
+y León (http://www.educa.jcyl.es).
+3. El plazo máximo para resolver las convocatorias y publicar la resolución será de 
+seis meses a contar desde el día siguiente a la finalización del plazo de presentación de las 
+solicitudes, pudiendo suspenderse dicho plazo cuando concurra alguno de los supuestos 
+del artículo 22.1 de la Ley 39/2015, de 1 de octubre. Transcurrido dicho plazo sin que haya 
+sido publicada la resolución, se podrán entender desestimadas las solicitudes.
+Artículo 7. Seguimiento.
+La dirección general competente en materia de formación del profesorado, a 
+través de las direcciones provinciales de educación, podrá llevar a cabo la comprobación 
+del mantenimiento de las circunstancias que dieron lugar a la certificación con el nivel 
+establecido.
+Artículo 8. Compromisos de la obtención de la certificación.
+1. Los centros docentes que obtengan la certificación del nivel de competencia 
+digital mediante su participación en las sucesivas convocatorias que se realicen, se 
+comprometen a participar en todas aquellas actividades formativas específicas diseñadas 
+por la administración educativa, así como en la experimentación de nuevos recursos y 
+aplicaciones vinculadas con las TIC.
+2. Por su parte, la consejería competente en materia de educación, a través de 
+la dirección general competente en materia de formación del profesorado, teniendo en 
+cuenta las necesidades y objetivos formativos demandados por los docentes o incluidos 
+en el plan de formación de los centros acreditados, se compromete a diseñar la formación 
+específica, las actividades de dinamización y los procesos de evaluación y seguimiento 
+que estime necesarios. Además podrá tener en cuenta a los centros que obtengan la 
+certificación para la implementación de proyectos de innovación educativa.
+CV: BOCYL-D-12062018-1
+
+Boletín Oficial de Castilla y León
+Núm. 112
+http://bocyl.jcyl.es
+D.L.: BU 10-1979 - ISSN 1989-8959
+Pág. 23313
+Martes, 12 de junio de 2018
+DISPOSICIÓN TRANSITORIA
+Vigencia de certificaciones.
+Los centros que obtuvieron un nivel de certificación TIC, de acuerdo a la dos últimas 
+convocatorias del procedimiento para la obtención de la certificación en la aplicación de 
+las TIC, efectuadas mediante Orden EDU/744/2016, de 19 de agosto, en el curso escolar 
+2016/2017, y mediante Orden EDU/717/2017, de 22 de agosto, en el curso 2017/2018, 
+mantendrán el nivel de certificación obtenido, durante los dos cursos siguientes al de su 
+obtención.
+Ahora bien, durante el curso 2019/2020, el nivel obtenido por los centros al amparo 
+de la Orden EDU/717/2017, de 22 de agosto, se asimilará al nivel de certificación de 
+competencia digital que corresponda en atención a lo establecido en la presente orden.
+DISPOSICIÓN DEROGATORIA
+Derogación normativa.
+Queda derogada la Orden EDU/336/2015, de 27 de abril, por la que se regula el 
+procedimiento para la obtención de la certificación en la aplicación de las tecnologías de 
+la información y la comunicación por los centros docentes no universitarios sostenidos con 
+fondos públicos de la Comunidad de Castilla y León.
+DISPOSICIONES FINALES
+Primera. Desarrollo y aplicación.
+Se autoriza al titular de la dirección general competente en materia de formación 
+del profesorado a dictar cuantas resoluciones e instrucciones sean necesarias para el 
+desarrollo y aplicación de lo previsto en la presente orden.
+Segunda. Entrada en vigor.
+La presente orden entrará en vigor el mismo día de su publicación en el Boletín 
+Oficial de Castilla y León.
+Valladolid, 1 de junio de 2018.
+El Consejero,
+Fdo.: Fernando Rey Martínez
+CV: BOCYL-D-12062018-1

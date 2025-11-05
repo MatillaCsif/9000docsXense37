@@ -1,0 +1,2229 @@
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44020
+Viernes, 3 de julio de 2015
+I. COMUNIDAD DE CASTILLA Y LEÓN
+A. DISPOSICIONES GENERALES
+CONSEJERÍA DE EDUCACIÓN
+ORDEN EDU/536/2015, de 25 de junio, por la que se establece el currículo 
+correspondiente al título profesional básico en Informática de Oficina en la Comunidad de 
+Castilla y León.
+La Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de Formación 
+Profesional, establece en su artículo 10.1 que la Administración General del Estado, 
+determinará los títulos y los certificados de profesionalidad, que constituirán las ofertas de 
+formación profesional referidos al Catálogo Nacional de Cualificaciones Profesionales, y en 
+el apartado 2 indica que las Administraciones educativas, en el ámbito de sus competencias 
+podrán ampliar los contenidos de los correspondientes títulos de formación profesional.
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación, tras su modificación por la 
+Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa, establece 
+en su artículo 6.bis.4 que en relación con la Formación Profesional, el Gobierno fijará los 
+objetivos, competencias, contenidos, resultados de aprendizaje y criterios de evaluación del 
+currículo básico y en el artículo 39.6 determina que el Gobierno establecerá las titulaciones 
+correspondientes a los estudios de formación profesional, así como los aspectos básicos 
+del currículo de cada una de ellas.
+El Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos 
+de la Formación Profesional Básica de las enseñanzas de formación profesional del 
+sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos 
+básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de 
+títulos académicos y profesionales correspondientes a las enseñanzas establecidas en 
+la Ley Orgánica 2/2006, de 3 de mayo, de Educación, dispone en su artículo 5.2 que las 
+Administraciones educativas establecerán los currículos correspondientes de conformidad 
+con lo en él dispuesto y en las normas que regulan las enseñanzas de Formación Profesional 
+del sistema educativo.
+El Real Decreto 356/2014, de 16 de mayo, por el que se establecen siete títulos de 
+Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación 
+Profesional, ha establecido en el artículo 2, entre otros, el título profesional básico en 
+Informática de Oficina, y su currículo básico que recoge en el Anexo VII.
+El Decreto 22/2014, de 12 de junio, por el que se regulan determinados aspectos 
+para la implantación de la Formación Profesional Básica en la Comunidad de Castilla y 
+León, determina en el artículo 6.1 que una vez aprobado por la Administración General del 
+Estado el correspondiente título oficial y el currículo básico, de cada uno de los ciclos de 
+Formación Profesional Básica, la consejería competente en materia de educación, en su 
+caso, establecerá el currículo propio para Castilla y León en los términos determinados en 
+el citado decreto y de acuerdo con el porcentaje de configuración autonómica autorizado.
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44021
+Viernes, 3 de julio de 2015
+La distribución competencial, permite que una vez que el Gobierno de España 
+ha aprobado un título para asegurar una formación común, la Administración educativa 
+autonómica amplíe los contenidos de los correspondientes títulos de formación 
+profesional.
+Así, la Consejería de Educación, consciente de la importancia que en el proceso 
+educativo tiene el contenido curricular opta por completar los aspectos básicos del mismo, 
+permitiendo así, acercar la realidad productiva de nuestro territorio al conocimiento de los 
+futuros profesionales.
+Asimismo, el currículo de este ciclo formativo se establece desde el respeto a la 
+autonomía pedagógica, organizativa y de gestión de los centros que imparten formación 
+profesional.
+En el proceso de elaboración de esta orden se ha recabado dictamen del Consejo 
+Escolar de Castilla y León e informe del Consejo de Formación Profesional de Castilla y 
+León.
+En su virtud, en atención a las facultades conferidas por la Ley 3/2001, de 3 de julio, 
+del Gobierno y de la Administración de la Comunidad de Castilla y León,
+DISPONGO
+Artículo 1. Objeto y ámbito de aplicación.
+La presente orden tiene por objeto establecer el currículo del título profesional básico 
+en Informática de Oficina en la Comunidad de Castilla y León.
+Artículo 2. Identificación del título.
+El título profesional básico en Informática de Oficina queda identificado en la 
+Comunidad de Castilla y León por los elementos determinados en el Anexo VII, punto 1, 
+del Real Decreto 356/2014, de 16 de mayo, por el que se establecen siete títulos de 
+Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación 
+Profesional, y por un código, de la forma siguiente:
+FAMILIA PROFESIONAL: Informática y Comunicaciones y Administración y Gestión.
+DENOMINACIÓN: Informática de Oficina.
+NIVEL: Formación Profesional Básica.
+DURACIÓN: 2.000 horas.
+REFERENTE EUROPEO: CINE-3.5.3 (Clasificación Internacional Normalizada de 
+la Educación).
+CÓDIGO: IFC02B.
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44022
+Viernes, 3 de julio de 2015
+Artículo 3. Los módulos profesionales del ciclo formativo.
+Los módulos profesionales que componen el ciclo formativo que conduce a la obtención 
+del título profesional básico en Informática de Oficina serán los que se establecen en el 
+Anexo VII del Real Decreto 356/2014, de 16 de mayo, y que se indican a continuación:
+3029.	 Montaje y mantenimiento de sistemas y componentes informáticos.
+3030.	 Operaciones auxiliares para la configuración y la explotación.
+3031.	 Ofimática y archivo de documentos.
+3016.	 Instalación y mantenimiento de redes para transmisión de datos.
+3009.	 Ciencias aplicadas I.
+3019.	 Ciencias aplicadas II.
+3011.	 Comunicación y sociedad I.
+3012.	 Comunicación y sociedad II.
+3033.	 Formación en centros de trabajo.
+Artículo 4. Referentes de formación.
+El currículo del ciclo formativo que conduce al título profesional básico en Informática 
+de Oficina tomará como referentes de formación, entre otros, el entorno profesional y la 
+prospectiva del sector o sectores relacionados con el título, establecidos en el Anexo VII 
+del Real Decreto 356/2014, de 16 de mayo, y el entorno productivo de Castilla y León que 
+se recoge en el Anexo I de esta orden.
+Artículo 5. Aspectos básicos del currículo del ciclo formativo.
+Será de aplicación al currículo del ciclo formativo del título profesional básico en 
+Informática de Oficina lo regulado en el Anexo VII del Real Decreto 356/2014, de 16 de 
+mayo, en los siguientes aspectos:
+a)	Los objetivos generales del título y los objetivos de los módulos profesionales 
+expresados en términos de resultados de aprendizaje y sus criterios de 
+evaluación.
+b)	La competencia general del título, las competencias profesionales, personales, 
+sociales y las competencias para el aprendizaje permanente, la relación 
+de cualificaciones y unidades de competencia del Catálogo Nacional de 
+Cualificaciones Profesionales incluidas en el título, que forman parte de su perfil 
+profesional.
+Artículo 6. Contenido, duración y orientaciones pedagógicas y metodológicas de 
+cada módulo profesional.
+El contenido, la duración y las orientaciones pedagógicas y metodológicas, de 
+los módulos profesionales relacionados en el artículo 3 son los que se establecen en el 
+Anexo II de esta orden, excepto en el módulo profesional de «Formación en centros de 
+trabajo» sobre el que el citado Anexo sólo determina la duración.
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44023
+Viernes, 3 de julio de 2015
+Artículo 7. Organización y distribución de los módulos profesionales.
+1. Los módulos profesionales que forman las enseñanzas del ciclo formativo que 
+conduce al título profesional básico en Informática de Oficina, cuando se oferten en régimen 
+presencial, oferta obligatoria, se organizarán en dos cursos académicos. Su distribución 
+en cada uno de ellos y la asignación horaria semanal se recoge en el Anexo III de esta 
+orden.
+2. Los centros educativos, en el ejercicio de su autonomía docente y teniendo en 
+cuenta las características del alumnado podrán establecer una organización diferente 
+siempre que respeten los módulos de cada curso y el número total de horas de cada 
+módulo.
+Artículo 8. Profesorado.
+De acuerdo con el artículo 20 del Decreto 22/2014, de 12 de junio, por el que se 
+regulan determinados aspectos para la implantación de la Formación Profesional Básica 
+en la Comunidad de Castilla y León, los aspectos referentes al profesorado con atribución 
+docente en los módulos profesionales relacionados en el artículo 3 de la presente orden 
+son los establecidos en el artículo 20 del Real Decreto 127/2014, de 28 de febrero, por el 
+que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas 
+de formación profesional del sistema educativo, se aprueban catorce títulos profesionales 
+básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de 
+diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las 
+enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo de Educación, y en el 
+Anexo VII del Real Decreto 356/2014, de 16 de mayo.
+Artículo 9. Espacios y equipamientos.
+De acuerdo con el artículo 20 del Decreto 22/2014, de 12 de junio, los espacios y 
+equipamientos necesarios para el desarrollo de las enseñanzas de este ciclo formativo 
+son los establecidos en el artículo 21 del Real Decreto 127/2014, de 28 de febrero, y en el 
+Anexo VII del Real Decreto 356/2014, de 16 de mayo.
+Artículo 10. Convalidaciones, exenciones y correspondencias.
+Las convalidaciones y exenciones son las establecidas con carácter general en el 
+artículo 19 del Real Decreto 127/2014, de 28 de febrero, y la correspondencia, en su caso, 
+de los módulos profesionales con las unidades de competencia para su acreditación o 
+convalidación, son las establecidas en el Anexo VII del Real Decreto 356/2014, de 16 de 
+mayo.
+Artículo 11. Accesos y vinculación a otros estudios.
+1. Los efectos del título profesional básico en Informática de Oficina son los 
+establecidos con carácter general en el artículo 17 del Real Decreto 127/2014, de 28 de 
+febrero.
+2. Los ciclos formativos de grado medio a los que este título permite la aplicación 
+de criterios de preferencia para la admisión en caso de concurrencia competitiva son los 
+establecidos en el Anexo VII del Real Decreto de 356/2014, de 16 de mayo.
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44024
+Viernes, 3 de julio de 2015
+Artículo 12. Requisitos para el ejercicio profesional.
+La vinculación de los títulos profesionales básicos con actividades profesionales 
+reguladas será la establecida en la disposición adicional segunda del Real Decreto 
+127/2014, de 28 de febrero.
+DISPOSICIONES FINALES
+Primera. Desarrollo normativo.
+Se faculta al titular de la dirección general competente en materia de formación 
+profesional para dictar cuantas resoluciones e instrucciones sean precisas para la correcta 
+aplicación de lo establecido en la presente orden.
+Segunda. Entrada en vigor.
+La presente orden entrará en vigor el día siguiente al de su publicación en el «Boletín 
+Oficial de Castilla y León».
+Valladolid, 25 de junio de 2015.
+El Consejero,
+Fdo.: Juan José Mateos Otero
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44025
+Viernes, 3 de julio de 2015
+ANEXO I
+REFERENTE DE FORMACIÓN: ENTORNO PRODUCTIVO DE CASTILLA Y LEÓN
+El perfil profesional desarrollado en el presente título tiene salidas profesionales 
+en todos los sectores productivos, independientemente de la actividad económica que 
+desarrolle la empresa debido a su transversalidad.
+El entorno productivo de Castilla y León se caracteriza por una mayoría de micro, 
+pequeñas y medianas empresas, con predominio de las primeras y segundas. Las 
+grandes empresas que tienen establecimientos de trabajo en la Comunidad suelen tener 
+centralizadas la gestión y la toma de decisiones, por lo que la actividad administrativa 
+queda bastante reducida.
+El sector servicios es el que más está creciendo, en especial el turismo; mientras 
+que coyunturalmente el sector industrial se estanca y el agrícola y ganadero se encuentra 
+inmerso en una transformación con el objetivo de hacerle más competitivo.
+Por su parte, en la Administración Pública se ha producido en los últimos años una 
+disminución de puestos administrativos debido a la incorporación de nuevas tecnologías 
+de la información y comunicación, así como en el sector financiero que se encuentra en 
+proceso de reestructuración. 
+El gran desarrollo de las tecnologías de la información y la comunicación en los 
+últimos años, con especial relevancia el gran impulso del comercio electrónico, ha permitido 
+la modernización de las Pymes, haciéndolas más competitivas frente a empresas de mayor 
+tamaño y estableciendo su espacio de mercado de un ámbito regional o nacional a un 
+espacio de negocio de ámbito global. 
+En la actualidad, la nube (Cloud Computing) se convierte, cada vez más, en 
+una herramienta importante para las pequeñas y medianas empresas permitiéndolas 
+incrementar su productividad y beneficios, utilizando sus servicios más valiosos a sus 
+necesidades. No obstante, se hace presente la capacidad de generar o reproducir, 
+encuadernar, digitalizar y transmitir y almacenar, a través de las redes de información, 
+la gran cantidad de documentos en formato papel que todavía son necesarios en las 
+actividades diarias de la empresa.
+Dentro de la estructura productiva, el sector terciario evoluciona hacia una mayor 
+diversificación enfocada a servicios que generan mayor valor añadido, mediante la 
+incorporación de nuevas tecnologías, sin olvidar la importancia en el sector industrial de 
+las ramas industriales de automoción, la industria electrónica, los transformados metálicos 
+y la industria agropecuaria. Tampoco se debe olvidar la importancia de la modernización 
+del sector agrario el cual tiene una gran participación dentro de la estructura productiva de 
+la Comunidad.
+La gran extensión geográfica de la comunidad y la dispersión de la población hacen 
+que las comunicaciones y la distribución de la señal de radio, televisión, banda ancha 
+y telefonía móvil sean particularmente complejas. Una parte importante de la actividad 
+económica se sustenta en instalaciones y complejos alejados de los grandes núcleos de 
+población: granjas agropecuarias, centro de turismo rural, centrales de producción de 
+energía: minicentrales hidráulicas, instalaciones eólicas y fotovoltaicas.
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44026
+Viernes, 3 de julio de 2015
+Para posibilitar las comunicaciones de forma eficiente, será necesario disponer de la 
+infraestructura de red necesaria para el transporte de información: video, voz y datos. Esto 
+hace necesaria la integración de equipos y sistemas informáticos y de telecomunicación, 
+lo cual supone un cambio en los procesos tradicionales de comunicación, dando lugar a 
+la convergencia en una única red: voz, video y datos que se transmiten sobre la misma 
+infraestructura física.
+Debido a la modernización y diversificación del sector servicios se hace necesaria la 
+implantación de nuevos sistemas para implantación de las nuevas tecnologías cada vez 
+más económicos, así como su mantenimiento, reparación de los mismos bien sea in-situ o 
+mediante asistencia «online». 
+Por otra parte, el envejecimiento de la población debido al aumento de la esperanza 
+de vida en nuestra Comunidad, y la ayuda a las personas con algún tipo de discapacidad, 
+harán que los sistemas integrados en sus hogares faciliten y hagan más cómoda y segura 
+su vida cotidiana, requiriendo de técnicos para su instalación y mantenimiento. 
+Igualmente, el sector turístico, en alza en nuestra comunidad, requiere de medios de 
+nuevas tecnologías y comunicación que deberán ser instalados, configurados y mantenidos, 
+a la vez que requiere de instalaciones y sistemas de control y seguridad.
+El título profesional básico en Informática de Oficina, capacita al futuro profesional a 
+realizar operaciones auxiliares de montaje y mantenimiento de sistemas microinformáticos, 
+periféricos y redes de comunicación de datos, así como la tramitación de documentación en 
+línea, elaboración y encuadernación de diferentes documentos informáticos, operando con 
+la calidad indicada y actuando en condiciones de seguridad y protección medioambiental 
+con responsabilidad e iniciativa personal y comunicándose de forma oral y escrita en 
+lengua castellana así como en alguna lengua extranjera.
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44027
+Viernes, 3 de julio de 2015
+ANEXO II
+CONTENIDOS, DURACIÓN Y ORIENTACIONES PEDAGÓGICAS 
+Y METODOLÓGICAS DE LOS MÓDULOS PROFESIONALES
+Módulo profesional: Montaje y mantenimiento de sistemas y componentes 
+informáticos.
+Código: 3029
+Duración: 297 horas
+Contenidos:
+1. Selección de componentes y herramientas:
+– 	 Conceptos de intensidad, diferencia de potencial (tensión), resistencia; Ley de 
+Ohm; corriente continua y alterna; magnitudes eléctricas; aparatos de medidas 
+de magnitudes eléctricas. Relaciones entre las magnitudes básicas.
+– 	 Elementos básicos: Pilas y baterías, pulsadores, interruptores, fuentes de 
+alimentación, resistencias, condensadores, diodos, transistores, led, entre otros.
+– 	 Circuitos integrados.
+– 	 Herramientas utilizadas en los procedimientos de montaje de componentes y 
+periféricos informáticos.
+– 	 Unidades funcionales de un sistema informático.
+– 	 La unidad central de proceso. 
+– 	 Componentes de los sistemas microinformáticos: tipos de carcasas, fuentes de 
+alimentación, ventiladores y disipadores de calor. 
+– 	 La placa base. Tipos de placas base. Microprocesadores, zócalos y tipos. 
+Memorias RAM, características y formatos. 
+– 	 Asociación de memorias. El chipset.
+– 	 Buses y conectores de datos.
+– 	 Cableado y conectores de potencia. 
+– 	 Zócalos y bahías de expansión.
+– 	 Tarjetas de expansión, características.
+– 	 Tipos de tarjetas de expansión: gráfica, de sonido, de red, entre otros.
+– 	 Tipos y elementos de fijación de los componentes a las carcasas.
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44028
+Viernes, 3 de julio de 2015
+– 	 Dispositivos de almacenamiento: discos duros, características y tipos; lectores/
+grabadores ópticos y magneto-ópticos, características y tipos. Mecánica y 
+funcionamiento de los discos duros. 
+– 	 Puertos: paralelo, serie, USB (Bus de Serie Universal), Firewire (IEEE 1394), 
+entre otros.
+– 	 Conectores inalámbricos: puerto infrarrojo (estándar IRDA), radiofrecuencia 
+(estándares Bluetooth y ZigBee), entre otros.
+– 	 Seguridad en el uso de herramientas y componentes eléctricos y electrónicos.
+– 	 Seguridad eléctrica: medidas de prevención de riesgos eléctricos; daños 
+producidos por descarga eléctrica.
+2. Ensamblaje de componentes hardware de un equipo microinformático:
+– 	 Manuales del fabricante.
+– 	 Interpretación de la distribución de elementos de la placa base.
+– 	 Procedimientos de instalación y fijación de componentes microinformáticos a la 
+carcasa y a la placa base. 
+– 	 Periféricos de entrada y/o de salida.
+– 	 Periféricos básicos: monitor, teclado, ratón e impresoras. 
+– 	 Otros periféricos: altavoces, micrófono, escáner, dispositivos multimedia, entre 
+otros.
+– 	 Técnicas de montaje, sustitución y conexión de componentes y periféricos 
+microinformáticos. Las guías de montaje.
+– 	 Herramientas utilizadas en los procedimientos de montaje, sustitución o conexión 
+de componentes y periféricos.
+– 	 La seguridad en las operaciones de montaje, sustitución y conexión de 
+componentes y periféricos microinformáticos. Prevención de los accidentes más 
+comunes. Equipos de protección individual y medios de seguridad.
+3. Instalación de sistemas operativos:
+– 	 El software básico de un sistema informático. 
+– 	 Funciones del sistema operativo. Historia de los sistemas operativos. Elementos 
+funcionales de los sistemas operativos.
+– 	 Sistemas operativos actuales. 
+– 	 Software de virtualización. Instalación, manejo, configuración, entre otros. 
+– 	 Instalación del sistema operativo.
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44029
+Viernes, 3 de julio de 2015
+– 	 Actualización del sistema operativo. 
+– 	 Realización de informe de instalación.
+– 	 Gestores de arranque: tipos, instalación, gestión, entre otros.
+– 	 Utilización del sistema operativo. 
+– 	 Operaciones con el sistema de archivos, directorios y permisos.
+– 	 Métodos de replicación física de particiones y discos duros en sistemas 
+microinformáticos.
+– 	 Funcionalidad y objetivos del proceso de replicación.
+– 	 Seguridad y prevención en el proceso de replicación.
+– 	 Particiones de discos: tipos de particiones y herramientas de gestión.
+– 	 Herramientas de creación e implantación de imágenes y réplicas de sistemas: 
+orígenes de información; procedimientos de implantación de imágenes y réplicas 
+de sistemas; procedimientos de verificación de imágenes y réplicas de sistemas. 
+Copias de seguridad.
+4. Funcionalidad de los sistemas:
+– 	 Técnicas de verificación y testeo de sistemas microinformáticos. 
+– 	 Software de testeo y verificación. Procedimientos de testeo y verificación.
+– 	 Herramientas de verificación y diagnóstico de sistemas microinformáticos. 
+– 	 Procedimientos de POST (Power-On Self Test). 
+– 	 Herramientas de optimización de soportes de información.
+– 	 Elaboración de informes de resultados e incidencias acaecidas en los procesos 
+de verificación, diagnóstico y optimización.
+– 	 Conexión de dispositivos periféricos en el sistema microinformático.
+5. Mantenimiento básico del equipo y periféricos:
+– 	 Mantenimiento 
+de 
+sistemas 
+informáticos. 
+Importancia. 
+Niveles 
+de 
+mantenimiento.
+– 	 Técnicas auxiliares de mantenimiento de sistemas microinformáticos: El 
+mantenimiento preventivo y periódico.
+– 	 Herramientas software para el mantenimiento preventivo.
+– 	 Mantenimiento de las unidades de almacenamiento y los soportes de 
+información.
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44030
+Viernes, 3 de julio de 2015
+– 	 Técnicas de limpieza de soportes y periféricos.
+– 	 Elementos consumibles. Tipos y características.
+– 	 Medidas de conservación y reciclaje de elementos consumibles. 
+– 	 Procedimientos de sustitución de elementos consumibles. 
+– 	 Seguridad en la manipulación y sustitución de elementos consumibles.
+6. Almacenaje de equipos, periféricos y consumibles:
+– 	 Técnicas de etiquetado, embalaje, almacenamiento y traslado de sistemas y 
+componentes informáticos. 
+– 	 Procedimientos y herramientas de etiquetado. Conservación y buen funcionamiento 
+de las herramientas de etiquetado. 
+– 	 Etiquetado de componentes de un sistema microinformático. Etiquetado de 
+consumibles.
+– 	 Embalaje de componentes y periféricos de un sistema microinformático.
+– 	 Normas de almacenamiento, catalogación y conservación de componentes y 
+periféricos de un sistema microinformático. 
+– 	 Precauciones a considerar en el traslado de sistemas microinformáticos. 
+– 	 Normativa de prevención de riesgos laborales en el transporte y almacenaje de 
+productos. 
+– 	 Tratamiento, reciclaje y eliminación de residuos informáticos.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación asociada a la función de montar y 
+mantener sistemas y periféricos microinformáticos, su almacenaje, etiquetado y registro. 
+La definición de esta función incluye aspectos como: 
+– 	 La identificación de componentes, herramientas, soportes y periféricos. 
+– 	 El montaje de sistemas y soportes. 
+– 	 La instalación del software básico. 
+– 	 La comprobación y mantenimiento de sistemas y periféricos. 
+– 	 El almacenaje y traslado de sistemas y componentes. 
+La formación del módulo profesional se relaciona con los siguientes objetivos 
+generales del ciclo formativo a), d), e) f) e i) y las competencias profesionales, personales 
+y sociales c), f), g), h), i) y j) del título. Además se relaciona con los objetivos t), u), v), w), 
+x), y) y z), y las competencias q), r), s), t), u), v), w) y x) que se incluirán en este módulo 
+profesional, de forma coordinada, con el resto de módulos profesionales.
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44031
+Viernes, 3 de julio de 2015
+ Las líneas de actuación en el proceso enseñanza aprendizaje que permiten alcanzar 
+las competencias del módulo profesional versarán sobre: 
+– 	 La identificación de los componentes, soportes de información, periféricos y 
+herramientas para la realización del montaje y mantenimiento de los sistemas 
+microinformáticos. 
+– 	 La aplicación de técnicas de montaje de sistemas, soportes y periféricos.
+– 	 El conocimiento de sistemas operativos monopuestos y su carga en el equipo.
+– 	 El conocimiento de herramientas software para el testeo y optimización de 
+sistemas y soportes.
+– 	 El mantenimiento de periféricos.
+– 	 El tratamiento y reciclaje de componentes y consumibles.
+– 	 Los riesgos específicos y su prevención en el sector correspondiente a la 
+actividad.
+Módulo profesional: Operaciones auxiliares para la configuración y la 
+explotación.
+Código: 3030
+Duración: 200 horas  
+Contenidos:
+1. Configuración de equipos informáticos para su funcionamiento en un entorno 
+monousuario:
+– 	 Sistemas operativos actuales: Requisitos técnicos del sistema operativo. 
+– 	 Características y funciones fundamentales de un sistema operativo. 
+– 	 La interfaz gráfica de usuario, el escritorio. 
+– 	 Realización de tareas básicas sobre sistemas operativos: Los recursos del 
+sistema. 
+– 	 Estructura del árbol de directorios. 
+– 	 Gestión del sistema de archivos. Herramientas de diagnóstico y reparación del 
+sistema de archivos.
+– 	 Sistemas de archivos, directorio, atributos y permisos. 
+– 	 Operación con archivos: nombre y extensión, comodines, atributos, tipos. 
+– 	 Operaciones más comunes con directorios. 
+– 	 Gestión de archivos y carpetas: funciones básicas de exploración y búsqueda.
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44032
+Viernes, 3 de julio de 2015
+– 	 Arranque y parada del sistema. Sesiones. 
+– 	 Gestión de los servicios del sistema operativo. 
+– 	 Configuración de las preferencias de escritorio.
+– 	 Utilización de periféricos. Configuración de periféricos.
+– 	 Operaciones básicas de protección: instalación de antivirus, realización de copias 
+de seguridad, entre otras.
+– 	 Tipos y gestión de las actualizaciones del sistema operativo.
+2. Configuración de equipos informáticos para su funcionamiento en un entorno de 
+red:
+– 	 Gestión de usuarios y grupos: Cuentas y grupos. 
+– 	 Tipos de perfiles de usuario. Gestión de perfiles de usuario.
+– 	 Usuarios y grupos predeterminados y especiales del sistema. 
+– 	 Compartir archivos y directorios a través de la red. 
+– 	  Gestión de recursos compartidos en red: permisos y derechos.
+– 	  Configuración de permisos de recursos compartidos.
+– 	  Configuración y gestión de impresoras compartidas en red.
+– 	 Acceso a recursos compartidos. 
+– 	 Dispositivos con conexión inalámbrica a la red y al equipo.
+3. Utilización de aplicaciones de un paquete ofimático:
+– 	 Funcionalidades y uso de un procesador de textos. 
+– 	 Aplicación de formato a documentos. 
+– 	 Formatos de letras: negrita, cursiva y subrayado. 
+– 	 Tamaños y tipo de fuentes. 
+– 	 Numeración, viñetas, tabulaciones y alineación de párrafos, entre otros. 
+– 	 Insertar objetos gráficos en los documentos. 
+– 	 Configuración de página.
+– 	 Herramientas de revisión del documento: corrector ortográfico, sinónimos, 
+definición del idioma, entre otros.
+– 	 Funcionalidades y uso de otras aplicaciones ofimáticas (hoja de cálculo, base de 
+datos y presentaciones, entre otros).
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44033
+Viernes, 3 de julio de 2015
+– 	 Software libre. Manejo de aplicaciones ofimáticas de software libre.
+– 	 Manejo de aplicaciones ofimáticas en la «nube».
+– 	 Herramientas de intercambio de información.
+4. Utilización de aplicaciones de Internet:
+– 	 Características y usos de Internet. 
+– 	 Navegación por la Web: descripción, configuración y funcionamiento del 
+navegador.
+– 	 Clientes Web: características y usos.
+– 	 Buscadores: características y usos. Realización de búsquedas avanzadas.
+– 	 Uso de certificados y firmas digitales.
+– 	 Ataques mal intencionados y fraudes procedentes de Internet: tipos y 
+características. 
+– 	 Protección del sistema operativo y aplicaciones frente a ataques mal intencionados 
+procedentes de Internet.
+– 	 Correo electrónico: funcionalidades y tipos. Configuración de un cliente de 
+correo. 
+– 	 Mensajería instantánea: tipos y características.
+– 	 Videoconferencia: características.
+– 	 Foros: tipos y características.
+– 	 Almacenamiento en la «nube». 
+– 	 Herramientas y usos de los servicios de Internet: servicios p2p.
+– 	 Otros servicios de Internet: blog, wikis, e-learning, entre otros.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación asociada a la función de configurar, 
+utilizar los componentes software y los recursos básicos de un sistema microinformático.
+La definición de esta función incluye aspectos como: 
+– 	 La configuración de los parámetros básicos de un sistema operativo. 
+– 	 La instalación de protecciones básicas. 
+– 	 La gestión de usuarios y recursos. 
+– 	 El uso de recursos compartidos. 
+– 	 La utilización de paquetes ofimáticos. 
+– 	 La configuración de navegadores y correo electrónico. 
+– 	 La utilización de servicios de Internet. 
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44034
+Viernes, 3 de julio de 2015
+La formación del módulo profesional se relaciona con los siguientes objetivos 
+generales del ciclo formativo a), d) e i) y las competencias profesionales, personales y 
+sociales a) y j) del título. Además se relaciona con los objetivos t), u), v), w), x), y) y z), y 
+las competencias q), r), s), t), u), v), w) y x) que se incluirán en este módulo profesional, de 
+forma coordinada, con el resto de módulos profesionales. 
+Las líneas de actuación en el proceso enseñanza aprendizaje que permiten alcanzar 
+las competencias del módulo profesional versarán sobre: 
+– 	 La identificación de las funciones de un sistema operativo. 
+– 	 La utilización de las herramientas para el manejo del sistema de archivos. 
+– 	 La utilización de las funciones principales de un paquete ofimático. 
+– 	 La navegación y búsqueda de información. 
+– 	 El manejo del correo electrónico.
+– 	 Los riesgos específicos y su prevención en el sector correspondiente a la 
+actividad.
+Módulo profesional: Ofimática y archivo de documentos.
+Código: 3031
+Duración: 264 horas.
+Contenidos:
+1. Tramitación de información en línea. Internet, intranet, redes LAN:
+– 	 Redes informáticas.
+– 	 Búsqueda activa en redes informáticas.
+– 	 Servicios de alojamiento compartido de información en internet.
+– 	 Páginas institucionales.
+2. Realización de comunicaciones internas y externas por correo electrónico:
+– 	 Procedimientos de trasmisión y recepción de mensajes internos y externos.
+– 	 Envío y recepción de mensajes por correo.
+– 	 Inclusión de documentos y vínculos en mensajes de correo electrónico.
+– 	 Organizar y clasificar mensajes de correo.
+– 	 Clasificación de contactos y listas de distribución.
+– 	 Medidas de seguridad y confidencialidad en la custodia o envío de información
+– 	 Organización de la agenda para incluir tareas, avisos y otras herramientas de 
+planificación del trabajo.
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44035
+Viernes, 3 de julio de 2015
+3. Utilización de equipos de reprografía:
+– 	 Equipos de reproducción: Tipos, componentes, características de los 
+dispositivos.
+– 	 Identificación de incidencias elementales en equipos de reprografía.
+– 	 Funcionamiento de los equipos de reprografía –fotocopiadoras, impresoras, 
+escáneres, reproductoras, perforadoras, encuadernadoras u otros–.
+– 	 Software de digitalización de documentos.
+– 	 Obtención de copias en formato documental y/o digital.
+– 	 Observación de los procedimientos de calidad en la reproducción de 
+documentos.
+– 	 Procedimientos de seguridad en la utilización de equipos de reproducción.
+– 	 Eliminación de residuos: Normativa aplicable.
+4. Encuadernación funcional:
+– 	 Equipos, útiles y herramientas de encuadernación funcional: Tipos, características, 
+funcionamiento, detección de posibles incidencias.
+– 	 Materiales de la encuadernación funcional: Tipos, características y su 
+utilización.
+– 	 Técnicas de encuadernación funcional: Corte, perforado y encuadernado 
+funcional.
+– 	 Equipos, útiles y herramientas de encuadernación funcional en condiciones de 
+seguridad.
+– 	 Eliminación de residuos respetando la normativa. 
+5. Uso de procesadores de texto:
+– 	 Estructura y funciones de un procesador de texto.
+– 	 Tipos de formatos de ficheros de documentos de textos.
+– 	 Gestión de documentos en procesadores de textos.
+– 	 Aplicación de formato a documentos.
+– 	 Utilización de plantillas.
+– 	 Edición de textos y tablas.
+– 	 Inserción de objetos. Tablas de contenido, marcadores, referencias.
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44036
+Viernes, 3 de julio de 2015
+– 	 Diseño de página. Diseño de la portada, configuración de márgenes, orientación, 
+marcas de agua y bordes de página.
+– 	 Configuración e impresión de textos.
+– 	 Combinación de correspondencia en procesadores de textos.
+– 	 Recuperación de documentos de textos.
+– 	 Uso de procesadores de texto basados en la Web.
+– 	 Compartir documentos de textos en la nube.
+6. Elaboración de documentos mediante hojas de cálculo:
+– 	 Tipos de formatos de documentos de hojas de cálculo.
+– 	 Tipos de datos. Referencias a celdas. Rangos. Hojas. Libros.
+– 	 Utilización de fórmulas y funciones.
+– 	 Creación y modificación de gráficos.
+– 	 Creación de listas, filtrado, protección, ordenación de datos y otros elementos 
+básicos de bases de datos mediante hoja de cálculo.
+– 	 Creación de tablas y gráficos dinámicos.
+– 	 Reglas ergonómicas.
+– 	 Elaboración de distintos tipos de documentos.
+– 	 Recuperación de documentos de hojas de cálculo.
+– 	 Uso de hojas de cálculo basadas en la Web.
+– 	 Compartir documentos de hojas de cálculo en la nube.
+7. Elaboración de presentaciones:
+– 	 Identificación de opciones básicas de las aplicaciones de presentaciones.
+– 	 Diseño y edición de diapositivas. Tipos de vistas.
+– 	 Aplicación de efectos de animación y efectos de transición.
+– 	 Aplicación de sonido y vídeo.
+– 	 Formateo de diapositivas, textos y objetos.
+– 	 Utilización de plantillas y asistentes.
+– 	 Uso de aplicaciones para la elaboración de presentaciones basadas en la Web.
+– 	 Impresión, empaquetado y exportación a otros formatos de documentos.
+– 	 Presentación para el público: conexión a un proyector y configuración.
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44037
+Viernes, 3 de julio de 2015
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación asociada a la función de tramitar 
+información en línea y la elaboración de documentos informáticos mediante procesadores 
+de textos, hojas de cálculo y aplicaciones de presentaciones.
+La definición de esta función incluye aspectos como:
+– 	 La tramitación de información en línea.
+– 	 La elaboración y gestión de los documentos informáticos.
+– 	 El archivo y encuadernación de documentos.
+La formación del módulo profesional se relaciona con los siguientes objetivos 
+generales del ciclo formativo b), c) y j) y las competencias profesionales, personales y 
+sociales a), b) y j) del título. Además, se relaciona con los objetivos t), u), v), w), x), y) 
+y z); y las competencias p), q), r), s), t), u), v), w) y z), que se incluirán en este módulo 
+profesional de forma coordinada con el resto de módulos profesionales.
+Las líneas de actuación en el proceso enseñanza aprendizaje que permiten alcanzar 
+las competencias del módulo profesional versarán sobre:
+– 	 La tramitación y búsqueda de información a través de redes informáticas.
+– 	 La utilización de diferentes aplicaciones informáticas para la elaboración de 
+documentos.
+– 	 La encuadernación funcional.
+Módulo profesional: Instalación y mantenimiento de redes para transmisión de 
+datos.
+Código: 3016
+Duración: 200 horas  
+Contenidos:
+1. Selección de elementos de redes de transmisión de voz y datos:
+– 	 Medios de transmisión: cable coaxial, par trenzado y fibra óptica, entre otros. 
+– 	 Sistemas: centralitas, hub, switch, router, paneles de parcheo, entre otros.
+– 	 Instalaciones 
+de 
+infraestructuras 
+de 
+telecomunicación 
+en 
+edificios. 
+Características. 
+– 	 Sistemas y elementos de interconexión. 
+2. Montaje de canalizaciones, soportes y armarios en redes de transmisión de voz 
+y datos: 
+– 	 Tipología de armarios o racks.
+– 	 Tipología de soportes.
+– 	 Montaje de canalizaciones, soportes y armarios en las instalaciones de 
+telecomunicación. Tipología de canalizaciones. 
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44038
+Viernes, 3 de julio de 2015
+– 	 Características y tipos de las canalizaciones: tubos rígidos y flexibles, canales, 
+bandejas y soportes, entre otros. 
+– 	 Preparación y mecanizado de canalizaciones. Técnicas de montaje de 
+canalizaciones y tubos. 
+3. Despliegue del cableado:
+– 	 Recomendaciones en la instalación del cableado.
+– 	 Planos de cableado en las instalaciones de telecomunicación. 
+– 	 Técnicas de tendido de los conductores. 
+– 	 Identificación y etiquetado de conductores. 
+4. Instalación de elementos y sistemas de transmisión de voz y datos:
+– 	 Características y tipos de las fijaciones. Técnicas de montaje. 
+– 	 Montaje de sistemas y elementos de las instalaciones de telecomunicación. 
+– 	 Herramientas. Tipología y utilización.
+– 	 Instalación y fijación de sistemas en instalaciones de telecomunicación. 
+– 	 Técnicas de fijación: en armarios, en superficie. 
+– 	 Técnicas de conexionados de los conductores. 
+– 	 Conexiones de tomas y paneles de parcheo.
+5. Configuración básica de redes locales: 
+– 	 Características. Ventajas e inconvenientes. Tipos. Elementos de red.
+– 	 Direccionamiento IP: Definición, formación, tipos de redes atendiendo a la 
+dirección IP, entre otros.
+– 	 Mascara de red: Definición y uso. 
+– 	 Topologías de redes locales.
+– 	 Identificación de elementos y espacios físicos de una red local. 
+– 	 Cuartos y armarios de comunicaciones. 
+– 	 Conectores y tomas de red. 
+– 	 Dispositivos de interconexión de redes. 
+– 	 Interconexión de sistemas en redes locales: adaptadores de red cableados.
+– 	 Adaptadores para redes inalámbricas.
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44039
+Viernes, 3 de julio de 2015
+– 	 Configuración básica de los dispositivos de interconexión de red cableada e 
+inalámbrica.
+– 	 Elaboración de mapa de red.
+– 	 Configuración básica de un router.
+– 	 Configuración básica de la seguridad inalámbrica.
+6. Cumplimiento de las normas de prevención de riesgos laborales y de protección 
+ambiental:
+– 	 Normas de seguridad. Medios y sistemas de seguridad. 
+– 	 Cumplimiento de las normas de prevención de riesgos laborales y protección 
+ambiental. 
+– 	 Identificación de riesgos. 
+– 	 Determinación de las medidas de prevención de riesgos laborales. 
+– 	 Prevención de riesgos laborales en los procesos de montaje. 
+– 	 Sistemas de protección individual. 
+– 	 Cumplimiento de la normativa de prevención de riesgos laborales. 
+– 	 Cumplimiento de la normativa de protección ambiental.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación asociada a la función de instalar 
+canalizaciones, cableado y sistemas auxiliares en instalaciones de redes locales en 
+pequeños entornos.
+ La definición de esta función incluye aspectos como: 
+– 	 La identificación de sistemas, elementos, herramientas y medios auxiliares. 
+– 	 El montaje de las canalizaciones y soportes. 
+– 	 El tendido de cables para redes locales cableadas. 
+– 	 El montaje de los elementos de la red local. 
+– 	 La integración de los elementos de la red. 
+La formación del módulo se relaciona con los siguientes objetivos generales del ciclo 
+formativo a), d), e), f), g), h) e i) y las competencias profesionales, personales y sociales 
+a), b), c), d), e), f), g), h) e i), del título. Además se relaciona con los objetivos t), u), v), w), 
+x), y) y z), y las competencias q), r), s), t), u), v), w) y x) que se incluirán en este módulo 
+profesional, de forma coordinada, con el resto de módulos profesionales.
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44040
+Viernes, 3 de julio de 2015
+ Las líneas de actuación en el proceso enseñanza aprendizaje que permiten alcanzar 
+las competencias del módulo versarán sobre: 
+– 	 La identificación de los sistemas, medios auxiliares, sistemas y herramientas, 
+para la realización del montaje y mantenimiento de las instalaciones. 
+– 	 La aplicación de técnicas de montaje de sistemas y elementos de las 
+instalaciones. 
+– 	 La toma de medidas de las magnitudes típicas de las instalaciones. 
+– 	 Los riesgos específicos y su prevención en el sector correspondiente a la 
+actividad.
+Módulo profesional: Ciencias aplicadas I.
+Código: 3009
+Duración: 165 horas  
+Contenidos:
+1. Resolución de problemas mediante operaciones básicas:
+– 	 Reconocimiento y diferenciación de los distintos tipos de números. Representación 
+en la recta real.
+– 	 Números decimales. Aproximación por redondeo.
+– 	 Representación con medios digitales. Notación científica.
+– 	 Utilización de la jerarquía de las operaciones. 
+– 	 Interpretación y utilización de los números reales y las operaciones en diferentes 
+contextos. 
+– 	 Proporcionalidad directa e inversa. 
+– 	 Los porcentajes en la economía. 
+– 	 La escala en la representación gráfica.
+2. Reconocimiento de materiales e instalaciones de laboratorio:
+– 	 Normas generales de trabajo en el laboratorio.
+– 	 Material de laboratorio. Tipos y utilidad de los mismos.
+– 	 Normas de seguridad. Individuales y colectivas.
+– 	 Manejo de instrumentos de medidas de masa.
+– 	 Manejo de instrumentos de medidas de longitud y volumen.
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44041
+Viernes, 3 de julio de 2015
+3. Identificación de las formas de la materia:
+– 	 Unidades de longitud.
+– 	 Unidades de capacidad.
+– 	 Unidades de masa.
+– 	 Materia. Propiedades de la materia.
+– 	 Propiedades generales y propiedades específicas de la materia.
+– 	 Sistemas materiales homogéneos y heterogéneos.
+– 	 Naturaleza corpuscular de la materia.
+– 	 Clasificación de la materia según su estado de agregación y composición.
+– 	 Propiedades esenciales de los estados de agregación.
+– 	 Cambios de estado de la materia. 
+– 	 Relación de los estados de agregación con la temperatura.
+– 	 Concepto de temperatura.
+4. Separación de mezclas y sustancias:
+– 	 Diferencia entre sustancias puras y mezclas.
+– 	 Técnicas básicas de separación de mezclas.
+– 	 Clasificación de las sustancias puras. Tabla periódica. 
+– 	 Diferencia entre elementos y compuestos.
+– 	 Diferencia entre mezclas y compuestos. 
+– 	 Materias primas, materias elaboradas y materias sintéticas.
+– 	 Materiales relacionados con el perfil profesional.
+– 	 Reconocimiento de las materias primas y materiales de uso técnico relacionados 
+con el perfil profesional.
+5. Reconocimiento de la energía en los procesos naturales:
+– 	 Concepto de energía.
+– 	 Manifestaciones de la energía en la naturaleza.
+– 	 La energía en la vida cotidiana.
+– 	 Distintos tipos de energía.
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44042
+Viernes, 3 de julio de 2015
+– 	 Relaciones cualitativas entre energía, masa, velocidad, altura, trabajo, tiempo y 
+temperatura.
+– 	 Transformación de la energía.
+– 	 Degradación de la energía.
+– 	 Energía, calor y temperatura. Unidades.
+– 	 Fuentes de energía renovables y no renovables.
+– 	 Recursos energéticos.
+– 	 Fuentes de energía utilizadas por los seres vivos.
+– 	 Eficiencia y medidas de ahorro energético.
+6. Localización de estructuras anatómicas básicas:
+– 	 Concepto de ser vivo, funciones que realiza.
+– 	 Niveles de organización de la materia viva.
+– 	 Clasificación de los seres vivos: los cinco reinos.
+– 	 Proceso de nutrición: en qué consiste, que aparatos o sistemas intervienen, 
+función de cada uno de ellos, integración de los mismos.
+– 	 Higiene y cuidados de los aparatos implicados en la nutrición.
+– 	 Proceso de excreción: en qué consiste, que aparatos o sistemas intervienen, 
+función de cada uno de ellos, integración de los mismos.
+– 	 Higiene y cuidado de los sistemas que intervienen.
+– 	 Proceso de relación: en qué consiste, que aparatos o sistemas intervienen, 
+función de cada uno de ellos, integración de los mismos.
+– 	 Percepción, relación y movimiento.
+– 	 Higiene y cuidado de los sistemas que intervienen.
+– 	 Proceso de reproducción: en qué consiste, que aparatos o sistemas intervienen, 
+función de cada uno de ellos, integración de los mismos.
+– 	 Sexualidad y reproducción.
+– 	 Higiene del aparato reproductor y métodos anticonceptivos.
+7. Diferenciación entre salud y enfermedad:
+– 	 La salud y la enfermedad.
+– 	 El sistema inmunitario.
+– 	 Defensas externas e internas.
+– 	 Higiene y prevención de enfermedades. 
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44043
+Viernes, 3 de julio de 2015
+– 	 Enfermedades infecciosas y no infecciosas.
+– 	 Tipos de enfermedades infecciosas más comunes.
+– 	 Las vacunas.
+– 	 Análisis de las enfermedades no infecciosas. Sus causas, prevención y 
+tratamiento.
+– 	 Trasplantes y donaciones. 
+– 	 Enfermedades de trasmisión sexual. Prevención.
+– 	 La salud mental: prevención de drogodependencias y de trastornos 
+alimentarios.
+– 	 Diferenciación entre hábitos positivos y negativos para la salud de las personas 
+en el comportamiento individual y social.
+– 	 Conceptos básicos sobre seguridad y salud en el trabajo:
+– 	 El trabajo y la salud: los riesgos profesionales. Factores de riesgos.
+– 	 Daños derivados del trabajo. Los accidentes de trabajo y las enfermedades 
+profesionales. Otras patologías derivadas del trabajo.
+– 	 Marco normativo básico en materia de prevención de riesgos laborales. 
+Derechos y deberes básicos en esta materia.
+– 	 Riesgos generales y su prevención:
+– 	 Riesgos ligados a las condiciones de seguridad.
+– 	 Riesgos ligados al medio-ambiente de trabajo.
+– 	 La carga de trabajo, la fatiga y la insatisfacción laboral.
+– 	 Sistemas elementales de control de riesgos. Protección colectiva e 
+individual.
+– 	 Planes de emergencia y evacuación.
+– 	 El control de la salud de los trabajadores.
+– 	 Elementos básicos de gestión de la prevención de riesgos:
+– 	 Organismos públicos relacionados con la seguridad y salud en el trabajo.
+– 	 Organización del trabajo preventivo: «rutinas» básicas.
+– 	 Documentación: recogida, elaboración y archivo.
+– 	 Primeros auxilios.
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44044
+Viernes, 3 de julio de 2015
+8. Elaboración de menús y dietas:
+– 	 Alimentos y nutrientes.
+– 	 Alimentación y salud. 
+– 	 Hábitos alimenticios saludables.
+– 	 Dietas y elaboración de las mismas.
+– 	 Reconocimiento de nutrientes presentes en ciertos alimentos, discriminación de 
+los mismos.
+– 	 Identificación de los elementos más importantes de una etiqueta alimentaria.
+– 	 Procesos de conservación de los alimentos.
+– 	 Aditivos alimentarios.
+9. Resolución de ecuaciones sencillas:
+– 	 Regularidades. Obtención de leyes de recurrencia.
+– 	 Progresiones aritméticas y geométricas.
+– 	 Identificación de problemas presentes de la vida cotidiana y su tratamiento 
+algebraico.
+– 	 Traducción de situaciones del lenguaje verbal al algebraico.
+– 	 Transformación de expresiones algebraicas.
+– 	 Desarrollo y factorización de expresiones algebraicas.
+– 	 Resolución de ecuaciones de primer grado con una incógnita. 
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contribuye a alcanzar las competencias para el aprendizaje 
+permanente y contiene la formación para que el alumno sea consciente tanto de su propia 
+persona como del medio que le rodea. 
+Los contenidos de este módulo profesional contribuyen a afianzar y aplicar hábitos 
+saludables en todos los aspectos de su vida cotidiana. 
+Asimismo utilizan el lenguaje operacional de las matemáticas en la resolución de 
+problemas de distinta índole, aplicados a cualquier situación, ya sea en su vida cotidiana 
+como en su vida laboral. 
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44045
+Viernes, 3 de julio de 2015
+La estrategia de aprendizaje para la enseñanza de este módulo profesional que 
+integra a ciencias como las matemáticas, química, biología y geología se enfocará a los 
+conceptos principales y principios de las ciencias, involucrando a los estudiantes en la 
+solución de problemas sencillos y otras tareas significativas, y les permita trabajar de 
+manera autónoma para construir su propio aprendizaje y culminar en resultados reales 
+generados por ellos mismos. 
+La formación del módulo se relaciona con los siguientes objetivos generales del 
+ciclo formativo k), l), m), n) y ñ) las competencias profesionales, personales y sociales 
+j), k), l) y m) del título. Además, se relaciona con los objetivos t), u), v), w), x), y) y z), y las 
+competencias q), r), s), t), u), v) y w) que se incluirán en este módulo profesional de forma 
+coordinada con el resto de módulos profesionales. 
+Las líneas de actuación en el proceso enseñanza aprendizaje que permiten alcanzar 
+las competencias del módulo versarán sobre: 
+– 	 La utilización de los números y sus operaciones para resolver problemas. 
+– 	 El reconocimiento de las formas de la materia. 
+– 	 El reconocimiento y uso de material de laboratorio básico. 
+– 	 La identificación y localización de las estructuras anatómicas. 
+– 	 La realización de ejercicios de expresión oral, aplicando las normas básicas de 
+atención al público. 
+– 	 La importancia de la alimentación para una vida saludable. 
+– 	 La resolución de problemas, tanto en el ámbito científico como cotidiano.
+Por las características de los alumnos, se considera fundamental que el alumno 
+trabaje en grupo y desarrolle aptitudes de respeto y colaboración con sus compañeros. A 
+este respecto resulta eficaz que los grupos sean heterogéneos en cuanto al rendimiento, 
+sexo, origen cultural, competencias, necesidades educativas, ritmos de aprendizaje, entre 
+otros.
+Identificar los conceptos introducidos con la realidad más próxima a las vivencias del 
+alumno.
+Insistir más en los procedimientos que en los conceptos. Utilizando herramientas 
+y estrategias presentes en los diferentes ámbitos de la vida del alumno, así tendrán una 
+incidencia mayor sobre el aprendizaje y la competencia adquirida.
+Introducir muchos de los elementos del currículo a partir de informaciones obtenidas 
+del entorno próximo y reciente, reflejadas en los distintos soportes de comunicación.
+Relacionar y a veces integrar en las mismas unidades de aprendizaje los contenidos 
+matemáticos.
+Se debe potenciar el uso de las tecnologías de la información y la comunicación. El 
+ordenador puede utilizarse para buscar información, y para tratarla y presentarla.
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44046
+Viernes, 3 de julio de 2015
+Módulo profesional: Ciencias aplicadas II.
+Código: 3019
+Duración: 150 horas
+Contenidos:
+1. Resolución de ecuaciones y sistemas en situaciones cotidianas:
+– 	 Transformación de expresiones algebraicas.
+– 	 Obtención de valores numéricos en fórmulas.
+– 	 Operaciones con polinomios. Identidades notables.
+– 	 Polinomios: raíces y factorización. 
+– 	 Resolución algebraica y gráfica de ecuaciones de primer y segundo grado.
+– 	 Utilización del lenguaje algebraico para representar situaciones cotidianas.
+– 	 Resolución de sistemas sencillos. 
+2. Resolución de problemas sencillos:
+– 	 El método científico.
+– 	 Fases del método científico.
+– 	 Aplicación del método científico a situaciones sencillas. 
+– 	 Aplicaciones al perfil profesional.
+3. Realización de medidas en figuras geométricas:
+– 	 Puntos y rectas.
+– 	 Rectas secantes y paralelas.
+– 	 Polígonos: descripción de sus elementos y clasificación.
+– 	 Ángulo: medida.
+– 	 Semejanza de triángulos.
+– 	 Triángulos rectángulos. Teorema de Pitágoras.
+– 	 Circunferencia y sus elementos. Cálculo de la longitud.
+– 	 Superficie de figuras planas: polígonos y círculo.
+– 	 Unidades de volumen y capacidad.
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44047
+Viernes, 3 de julio de 2015
+– 	 Cuerpos geométricos elementales: prismas, pirámides, conos, cilindros y 
+esfera.
+– 	 Análisis e identificación de los cuerpos geométricos presentes en contextos 
+reales.
+4. Interpretación de gráficos:
+– 	 Interpretación de un fenómeno descrito mediante un enunciado, tabla, gráfica o 
+expresión analítica.
+– 	 Vectores: concepto y representación gráfica.
+– 	 Funciones lineales. Funciones cuadráticas.
+– 	 Función inversa asociada a fenómenos cotidianos.
+– 	 Gráfica de la función inversa y la función exponencial.
+– 	 Estadística y cálculo de probabilidad. 
+– 	 Parámetros estadísticos de centralización y dispersión.
+– 	 Creación de gráficos estadísticos sobre temas actuales tratados por los medios 
+de comunicación.
+– 	 Asignación de probabilidad. Regla de Laplace.
+– 	 Uso de aplicaciones informáticas para la representación, simulación y análisis de 
+la gráfica de una función.
+5. Aplicación de técnicas físicas o químicas:
+– 	 Material básico en el laboratorio.
+– 	 Normas de trabajo en el laboratorio.
+– 	 Normas para realizar informes del trabajo en el laboratorio.
+– 	 Medida de magnitudes fundamentales. 
+– 	 Reconocimiento de biomoléculas orgánicas e inorgánicas.
+– 	 Microscopio óptico y lupa binocular. Fundamentos ópticos de los mismos y 
+manejo. Utilización.
+6. Reconocimiento de reacciones químicas cotidianas:
+– 	 Reacción química.
+– 	 Principio de conservación de la materia.
+– 	 Condiciones de producción de las reacciones químicas: Intervención de 
+energía.
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44048
+Viernes, 3 de julio de 2015
+– 	 Reacciones químicas en distintos ámbitos de la vida cotidiana.
+– 	 Reacciones químicas básicas.
+– 	 Identificación de reacciones químicas en los seres vivos.
+– 	 Procesos químicos más relevantes relacionados con el perfil profesional.
+7. Identificación de aspectos relativos a la contaminación nuclear:
+– 	 La energía nuclear, una fuente de energía no renovable.
+– 	 Origen de la energía nuclear.
+– 	 Tipos de procesos para la obtención y uso de la energía nuclear.
+– 	 Ventajas y desventajas del uso de la energía nuclear.
+– 	 Gestión de los residuos radiactivos provenientes de las centrales nucleares.
+– 	 Otras alternativas a la energía nuclear como fuente de energía.
+8. Identificación de los cambios en el relieve y paisaje de la tierra: 
+– 	 Agentes geológicos externos.
+– 	 Relieve y paisaje.
+– 	 Factores que influyen en el relieve y en el paisaje.
+– 	 Relación entre el modelado del relieve y la energía interna de la tierra.
+– 	 El tiempo de los cambios geológicos.
+– 	 Acción de los agentes geológicos externos: meteorización, erosión, transporte y 
+sedimentación. 
+– 	 Identificación de los resultados de la acción de los agentes geológicos mediante 
+muestras visuales o paisajes reales.
+– 	 Formas de relieve más representativas del entorno próximo y origen de las 
+mismas.
+– 	 Factores que condicionan el modelado del paisaje en la zona donde habita el 
+alumnado.
+– 	 Modificación del relieve y del paisaje por el hombre.
+– 	 Erosión del suelo y la desertificación.
+9. Categorización de contaminantes principales:
+– 	 Contaminación. Concepto y tipos de contaminación.
+– 	 Contaminación atmosférica; causas y efectos.
+– 	 La lluvia ácida.
+– 	 El efecto invernadero. Concepto, causas e implicaciones de dicho efecto.
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44049
+Viernes, 3 de julio de 2015
+– 	 La destrucción de la capa de ozono.
+– 	 Consecuencias sobre el cambio climático.
+– 	 Gases contaminantes nocivos para la salud humana.
+– 	 Medidas de educación ambiental sobre los contaminantes.
+10. Identificación de contaminantes del agua:
+– 	 El agua: factor esencial para la vida en el planeta.
+– 	 Contaminación del agua: causas, elementos causantes.
+– 	 Tratamientos de potabilización.
+– 	 Depuración de aguas residuales.
+– 	 Métodos de almacenamiento del agua proveniente de los deshielos, descargas 
+fluviales y lluvia.
+– 	 Importancia del uso y gestión sostenible del agua.
+11. Equilibrio medioambiental y desarrollo sostenible:
+– 	 Concepto y aplicaciones del desarrollo sostenible.
+– 	 Consecuencias ambientales del consumo humano de energía y materias 
+primas.
+– 	 Factores que inciden sobre la conservación del medio ambiente.
+– 	 Valoración del impacto de la actividad humana en los ecosistemas.
+– 	 Identificación de posibles soluciones a los problemas actuales de degradación 
+medioambiental.
+– 	 Predisposición a la generación responsable de residuos y basura y a su correcta 
+distribución, recogida, reciclaje y eliminación.
+– 	 Medidas de conservación medioambiental y desarrollo sostenible.
+– 	 Desarrollo sostenible aplicado al desarrollo de las actividades propias del perfil 
+profesional.
+12. Relación de las fuerzas sobre el estado de reposo y movimientos de cuerpos:
+– 	 Clasificación de los movimientos según su trayectoria.
+– 	 Velocidad y aceleración. Unidades.
+– 	 Magnitudes escalares y vectoriales. Identificación y características de las 
+mismas.
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44050
+Viernes, 3 de julio de 2015
+– 	 Movimiento rectilíneo uniforme características. Interpretación gráfica.
+– 	 Cálculos sencillos relacionados con el movimiento rectilíneo uniforme 
+características.
+– 	 Fuerza: Resultado de una interacción. 
+– 	 Representación de fuerzas aplicadas a un sólido en situaciones habituales. 
+Resultante.
+13. Producción y utilización de la energía eléctrica:
+– 	 Electricidad y desarrollo tecnológico. 
+– 	 Materia y electricidad. 
+– 	 Magnitudes básicas manejadas en el consumo de electricidad: energía y potencia. 
+Aplicaciones en el entorno del alumno.
+– 	 Hábitos de consumo y ahorro de electricidad. 
+– 	 Medidas de ahorro eléctrico en su entorno.
+– 	 Sistemas de producción de energía eléctrica.
+– 	 Tipos de centrales eléctricas. Ventajas y desventajas.
+– 	 Transporte y distribución de la energía eléctrica. Etapas. 
+14. Identifica componentes en circuitos básicos:
+– 	 Elementos de un circuito eléctrico.
+– 	 Componentes básicos de un circuito eléctrico. Funcionamiento, simbología y 
+diseño.
+– 	 Ley de Ohm.
+– 	 Magnitudes eléctricas básicas.
+– 	 Circuitos en serie, paralelos y mixtos.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contribuye a alcanzar las competencias para el aprendizaje 
+permanente y contiene la formación para que utilizando los pasos del razonamiento 
+científico, básicamente la observación y la experimentación, los alumnos aprendan a 
+interpretar fenómenos naturales. 
+Los contenidos de este módulo profesional contribuyen a afianzar y aplicar hábitos 
+saludables en todos los aspectos de su vida cotidiana. 
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44051
+Viernes, 3 de julio de 2015
+Igualmente se les forma para que utilicen el lenguaje operacional de las matemáticas 
+en la resolución de problemas de distinta índole, aplicados a cualquier situación, ya sea en 
+su vida cotidiana como en su vida laboral.
+La estrategia de aprendizaje para la enseñanza de este módulo profesional que 
+integra a ciencias como las matemáticas, química, biología y geología, se enfocará a los 
+conceptos principales y principios de las ciencias, involucrando a los estudiantes en la 
+solución de problemas sencillos y otras tareas significativas, y les permita trabajar de 
+manera autónoma para construir su propio aprendizaje y culminar en resultados reales 
+generados por ellos mismos. 
+La formación del módulo profesional se relaciona con los siguientes objetivos 
+generales del ciclo formativo k), l), m), n) y ñ) y las competencias profesionales, personales 
+y sociales j), k), l) y m) del título. Además se relaciona con los objetivos t), u), v), w), x), y) y z), 
+y las competencias q), r), s), t), u), v) y w) que se incluirán en este módulo profesional, de 
+forma coordinada, con el resto de módulos profesionales. 
+Las líneas de actuación en el proceso enseñanza aprendizaje que permiten alcanzar 
+las competencias del módulo profesional versarán sobre: 
+– 	 La resolución de problemas, tanto en el ámbito científico como cotidiano.
+– 	 La interpretación de gráficos y curvas.
+– 	 La aplicación cuando proceda del método científico.
+– 	 La valoración del medio ambiente y la influencia de los contaminantes.
+– 	 Las características de la energía nuclear.
+– 	 La aplicación de procedimientos físicos y químicos elementales.
+– 	 La realización de ejercicios de expresión oral.
+– 	 La representación de fuerzas.
+Por las características del alumnado, se considera fundamental que el alumno 
+trabaje en grupo y desarrolle aptitudes de respeto y colaboración con sus compañeros. A 
+este respecto resulta eficaz que los grupos sean heterogéneos en cuanto al rendimiento, 
+sexo, origen cultural, competencias, necesidades educativas, ritmos de aprendizaje, entre 
+otros.
+Identificar los conceptos introducidos con la realidad más próxima a las vivencias del 
+alumno.
+Insistir más en los procedimientos que en los conceptos. Utilizando herramientas 
+y estrategias presentes en los diferentes ámbitos de la vida del alumno, así tendrán una 
+incidencia mayor sobre el aprendizaje y la competencia adquirida.
+Introducir muchos de los elementos del currículo a partir de informaciones obtenidas 
+del entorno próximo y reciente, reflejadas en los distintos soportes de comunicación.
+Relacionar y a veces integrar en las mismas unidades de aprendizaje los contenidos 
+matemáticos.
+Se debe potenciar el uso de las tecnologías de la información y la comunicación. El 
+ordenador puede utilizarse para buscar información, y para tratarla y presentarla.
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44052
+Viernes, 3 de julio de 2015
+Módulo profesional: Comunicación y sociedad I.
+Código: 3011
+Duración: 198 horas  
+UNIDAD FORMATIVA 1. (Asociada a los resultados de aprendizaje 1, 2, 3, 4 y 5 de 
+este módulo establecido en el Anexo VII del Real Decreto 356/2014, de 16 de mayo).
+Duración: 132 horas
+Contenidos:
+1. Valoración de las sociedades prehistóricas y antiguas y su relación con el medio 
+natural:
+– 	 Los paisajes naturales. Aspectos generales y locales:
+– 	 Estructura interna de la Tierra y proceso de formación del relieve terrestre. 
+– 	 Formas de relieve emergidas y submarinas. Principales unidades de relieve 
+españolas con especial atención al caso de Castilla y León. 
+– 	 La atmósfera y los fenómenos atmosféricos. 
+– 	 El clima: elementos, factores, características y distribución de los climas 
+terrestres. Principales climas españoles y su localización. 
+– 	 Comentario de gráficas sobre tiempo y clima. Los climogramas.
+– 	 Las aguas del planeta. La desigual distribución entre aguas oceánicas y 
+continentales. 
+– 	 Las aguas continentales: ríos, hielos, lagos, humedales y aguas 
+subterráneas. 
+– 	 Los ríos españoles: regímenes fluviales y vertientes. 
+– 	 El agua como recurso y su problemática en España. 
+– 	 Características y distribución de las principales formaciones vegetales 
+planetarias. La vegetación en España. 
+– 	 La relación entre el ser humano y el medio: análisis de sus interacciones.
+– 	 Las sociedades prehistóricas:
+– 	 Principales etapas de la Prehistoria y de la Historia. 
+– 	 El origen del ser humano: el proceso de hominización. 
+– 	 Las sociedades paleolíticas: los grupos humanos de cazadores y 
+recolectores. 
+– 	 La revolución neolítica: las primeras sociedades productoras y 
+sedentarias. 
+– 	 La Edad de los Metales. 
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44053
+Viernes, 3 de julio de 2015
+– 	 La Prehistoria en la Península Ibérica. El ejemplo del yacimiento burgalés 
+de Atapuerca.
+– 	 El arte prehistórico y su significado. 
+– 	 El nacimiento de las ciudades:
+– 	 La importancia de las ciudades en el mundo actual. La red urbana 
+española.
+– 	 El hábitat urbano y su evolución. Elementos que conforman la estructura de 
+una ciudad.
+– 	 Gráficos de representación urbana. El plano urbano y su análisis. 
+– 	 Las sociedades urbanas antiguas. Mesopotamia y Egipto.
+– 	 La cultura griega: extensión, rasgos e hitos principales. El urbanismo 
+griego. 
+– 	 Características esenciales del arte griego. Modelos arquitectónicos y 
+escultóricos en las épocas arcaica, clásica y helenística. 
+– 	 La cultura romana. Extensión militar y comercial. Características sociales y 
+políticas.
+– 	 Características esenciales del arte romano.
+– 	 El modelo urbanístico romano: de los campamentos militares a las grandes 
+ciudades. 
+– 	 Características esenciales del arte romano. Modelos arquitectónicos y 
+escultóricos.
+– 	 Presencia y pervivencia de Grecia y Roma en la Península Ibérica. Ejemplos 
+relevantes en Castilla y León. 
+– 	 Tratamiento y elaboración de información para las actividades educativas:
+– 	 La autonomía personal. 
+– 	 Fuentes y recursos para obtener información. Estrategias para el manejo 
+de bibliografía. 
+– 	 Recursos básicos: guiones, esquemas y resúmenes, entre otros.
+– 	 Herramientas sencillas de localización cronológica. Elaboración de ejes 
+cronológicos. 
+– 	 Estrategias de composición de información escrita. Uso de procesadores 
+de texto.
+– 	 Elaboración de presentaciones con diapositivas para exponer una 
+información. 
+– 	 Vocabulario seleccionado y específico.
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44054
+Viernes, 3 de julio de 2015
+2. Valoración de la creación del espacio europeo en las edades media y moderna:
+– 	 La Europa medieval:
+– 	 La caída del Imperio romano: el fraccionamiento de la unidad 
+mediterránea. 
+– 	 Los pueblos bárbaros. El reino visigodo y sus manifestaciones artísticas. 
+– 	 La extensión y localización de los nuevos reinos y territorios: Bizancio, el 
+mundo islámico y el Imperio de Carlomagno. 
+– 	 Características y principales hitos históricos de la sociedad feudal: señores, 
+clérigos y campesinos. El destacado papel de la Iglesia. 
+– 	 Pervivencia de usos y costumbres. El espacio agrario y sus 
+características.
+– 	 La Península Ibérica en la Edad Media: Al-Ándalus. Evolución política, 
+económica y social.
+– 	 Los reinos cristianos peninsulares: evolución territorial e instituciones 
+destacadas. 
+– 	 Características y forma de vida en las ciudades musulmanas y cristianas. 
+– 	 El contacto con otras culturas. La convivencia entre cristianos, musulmanes 
+y judíos. 
+– 	 Relaciones entre culturas en la actualidad. Las sociedades interculturales. 
+– 	 La Europa de las Monarquías absolutas:
+– 	 Transformaciones económicas y sociales características de la Edad 
+Moderna. El resurgir de las ciudades y la expansión del comercio. 
+– 	 El fortalecimiento del poder real: monarquías autoritarias y aparición del 
+Estado moderno.
+– 	 Las grandes monarquías europeas: ubicación y evolución sobre el mapa 
+en el contexto europeo.
+– 	 La monarquía de los Reyes Católicos en la Península Ibérica. 
+– 	 La aparición de una nueva mentalidad: Renacimiento y Humanismo. 
+– 	 Crisis religiosa. La Reforma protestante y la Contrarreforma católica. 
+– 	 La monarquía hispánica durante los siglos XVI y XVII: evolución política y 
+económica. 
+– 	 Fundamentos esenciales de la monarquía absoluta.
+– 	 La monarquía absoluta en España. 
+– 	 Evolución del sector productivo durante el periodo.
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44055
+Viernes, 3 de julio de 2015
+– 	 La colonización de América.
+– 	 El desembarco castellano: 1492, causas y consecuencias.
+– 	 El imperio americano español. Conquista y organización territorial. 
+– 	 Las sociedades amerindias: destrucción, sincretismo y mestizaje. 
+Aportaciones a la cultura española.
+– 	 Estudio de la población. 
+– 	 Indicadores demográficos básicos para analizar una sociedad.
+– 	 Los desequilibrios en la distribución de la población mundial. Factores 
+explicativos. 
+– 	 Evolución demográfica del espacio europeo. La transición demográfica. 
+– 	 Rasgos y características de la población mundial y europea en la 
+actualidad. 
+– 	 La población española: tendencias actuales y contrastes regionales. 
+– 	 Comentario de gráficas de población: pautas e instrumentos básicos.
+– 	 La evolución del arte europeo de las épocas medieval y moderna.
+– 	 El arte medieval: características y periodos principales. Manifestaciones 
+artísticas más representativas del arte Románico y Gótico en España y 
+Castilla y León. 
+– 	 El Renacimiento: cambio y transformación del arte. Peculiaridades del 
+Renacimiento español y manifestaciones artísticas más representativas en 
+España y Castilla y León. 
+– 	 El arte del siglo XVIII: el Barroco y el Neoclasicismo. Obras y artistas más 
+representativos en Europa, España y Castilla y León. 
+– 	 Pautas básicas para el comentario de obras pictóricas.
+– 	 Tratamiento y elaboración de información para las actividades educativas.
+– 	 Recursos básicos: resúmenes, fichas temáticas, biografías, hojas de cálculo 
+o similares, elaboración, entre otros.
+– 	 Búsqueda de información a través de internet. Uso de repositorios de 
+documentos, buscadores y enlaces web.
+– 	 Vocabulario específico.
+3. Utilización de estrategias de comunicación oral en lengua castellana:
+– 	 Textos orales: 
+– 	 Tipos y características.
+– 	 Características de los reportajes.
+– 	 Características de las entrevistas. 
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44056
+Viernes, 3 de julio de 2015
+– 	 Aplicación de escucha activa en la comprensión de textos orales: 
+– 	 Memoria auditiva. 
+– 	 Atención visual.
+– 	 Empatía.
+– 	 Estrategias lingüísticas: extraer y captar la idea general del texto, resumir y 
+organizar ideas. 
+– 	 Pautas para evitar la disrupción en situaciones de comunicación oral: respetar el 
+turno de palabra.
+– 	 El intercambio comunicativo:
+– 	 El acto comunicativo. Elementos que intervienen en el proceso comunicativo. 
+La intención comunicativa.
+– 	 Elementos extralingüísticos de la comunicación oral:
+	
+La comunicación no verbal: lenguaje gestual y corporal.
+	
+Lenguaje visual.
+	
+Paralenguaje.
+– 	 Usos orales informales y formales de la lengua. 
+– 	 Adecuación al contexto comunicativo.
+– 	 Aplicación de las normas lingüísticas en la comunicación oral. Organización de la 
+frase: estructuras gramaticales básicas: 
+– 	 Clases de palabras. Morfología.
+– 	 Categorías gramaticales. Los sintagmas.
+– 	 Conocimiento de las modalidades de la oración y de los modos del verbo.
+– 	 Identificación y corrección de vulgarismos morfológicos propios de Castilla 
+y León.
+– 	 Composiciones orales:
+– 	 Exposiciones orales sencillas sobre hechos de la actualidad.
+– 	 Presentaciones orales sencilla.
+– 	 Uso de medios de apoyo: audiovisuales y TIC.
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44057
+Viernes, 3 de julio de 2015
+4. Utilización de estrategias de comunicación escrita en lengua castellana:
+– 	 Tipos de textos. Características de textos propios de la vida cotidiana y profesional. 
+Informes, cartas, instancias.
+– 	 Estrategias de lectura: elementos textuales:
+– 	 Estrategias de comprensión lectora:
+	
+Resumir el texto.
+	
+Exponer la idea principal.
+	
+Reconocer la estructura del texto.
+	
+Realizar anticipaciones, hipótesis de significado.
+	
+Comparar e integrar varias informaciones.
+	
+Interpretar y deducir información.
+– 	 Pautas para la utilización de diccionarios diversos:
+– 	 Tipos de diccionarios. 
+– 	 Recursos en la red y su uso.
+– 	 Estrategias básicas en el proceso de composición escrita:
+– 	 Planificación.
+– 	 Textualización.
+– 	 Revisión.
+– 	 Aplicación en textos propios de la vida cotidiana, en el ámbito académico y 
+en los medios de comunicación. Informes, cartas, instancias, entre otros.
+– 	 Presentación de textos escritos en distintos soportes:
+– 	 Aplicación de las normas gramaticales.
+– 	 Aplicación de las normas ortográficas.
+– 	 Instrumentos informáticos de software para su uso en procesadores de 
+texto.
+– 	 Textos escritos:
+– 	 Principales conectores textuales.
+– 	 Aspectos básicos de las formas verbales en los textos, con especial atención 
+a los valores aspectuales de perífrasis verbales.
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44058
+Viernes, 3 de julio de 2015
+– 	 Identificación de oraciones sencillas coordinadas y subordinadas: Función 
+subordinada, sustantiva, adjetiva y adverbial del verbo. 
+– 	 Sintaxis: enunciado, frase y oración; la oración simple: sujeto y predicado; 
+complemento directo, indirecto, de régimen, circunstancial, agente y 
+atributo.
+5. Lectura de textos literarios en lengua castellana anteriores al siglo XIX:
+– 	 Pautas para la lectura de fragmentos literarios. 
+– 	 Instrumentos para la recogida de información de la lectura de una obra literaria. 
+– 	 Desarrollo de la autonomía lectora y aprecio por la literatura como fuente de 
+placer, de conocimiento de otros mundos, tiempos y culturas.
+– 	 Introducción a los géneros literarios a través de la lectura comentada de 
+fragmentos representativos de obras adecuadas a su edad, análisis de sus 
+rasgos más característicos.
+– 	 Características estilísticas y temáticas de la literatura en lengua castellana a 
+partir de la Edad Media hasta el siglo XVIII:
+– 	 Literatura medieval.
+– 	 Renacimiento.
+– 	 El Siglo de Oro.
+– 	 La literatura ilustrada.
+– 	 La narrativa. Temas y estilos recurrentes según la época literaria.
+– 	 Lectura e interpretación de poemas. Temas y estilos recurrentes según la época 
+literaria.
+– 	 El teatro. Temas y estilos según la época literaria.
+– 	 Lectura de obras juveniles cercanas a sus intereses.
+– 	 Composición de textos de intención literaria y elaboración de trabajos sencillos 
+sobre lecturas o temas de interés juvenil.
+UNIDAD FORMATIVA 2. (Asociada a los resultados de aprendizaje 6, 7 y 8 de este 
+módulo establecido en el anexo VII del Real Decreto 356/2014, de 16 de mayo).
+Duración: 66 horas
+Contenidos:
+6. Comprensión y producción de textos orales básicos en lengua inglesa:
+– 	 Obtención de información general y específica de textos orales auténticos y 
+adaptados, propios de las situaciones de comunicación y con apoyo de elementos 
+verbales y no verbales.
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44059
+Viernes, 3 de julio de 2015
+– 	 Escucha y comprensión de mensajes relacionados con las actividades habituales: 
+instrucciones, preguntas, comentarios, diálogos. Ideas principales en llamadas, 
+mensajes, órdenes e indicaciones muy claras.
+– 	 Descripción general de personas, lugares, objetos (del ámbito profesional y del 
+público).
+– 	 Narración sobre situaciones habituales y frecuentes del momento presente, 
+pasado y del futuro. Expresiones frecuentes, rutinas y fórmulas básicas de la 
+comunicación oral.
+– 	 Pronunciación de fonemas o grupos fónicos de carácter básico que presenten 
+mayor dificultad.
+– 	 Léxico frecuente, expresiones y frases sencillas para desenvolverse en 
+transacciones y gestiones cotidianas del entorno personal o profesional: 
+actividades de interés personal, de la vida diaria, relaciones humanas y sociales. 
+Léxico frecuente relacionado con las TIC. 
+– 	 Recursos gramaticales: 
+– 	 Tiempos y formas verbales en presente, pasado; verbos principales, 
+modales y auxiliares. 
+– 	 Funciones comunicativas asociadas a situaciones habituales y frecuentes: 
+pedir y dar información, expresar opiniones; saludar y responder a un 
+saludo; dirigirse a alguien; iniciar y cerrar un tema, entre otros. 
+– 	 Elementos lingüísticos fundamentales. 
+– 	 Marcadores del discurso para iniciar, ordenar y finalizar.
+– 	 Estructuras gramaticales básicas.
+– 	 Pronunciación de fonemas o grupos fónicos de carácter básico que presenten 
+mayor dificultad.
+– 	 Uso de registros adecuados en las relaciones sociales. Normas de cortesía 
+de países de habla inglesa en situaciones habituales y frecuentes del ámbito 
+personal o profesional. Nociones básicas del inglés y su funcionamiento en el 
+discurso.
+– 	 Estrategias fundamentales de comprensión y escucha activa: palabras clave, 
+estrategias para recordar y utilizar el léxico. Propiedades esenciales del texto 
+oral: adecuación, coherencia y cohesión textuales.
+– 	 Estrategias fundamentales de comprensión y escucha activa: contexto verbal y no 
+verbal y los conocimientos previos sobre la situación, identificación de palabras 
+clave.
+7. Participación en conversaciones en lengua inglesa: 
+– 	 Estrategias de comprensión y escucha activa para iniciar, mantener y terminar la 
+interacción en situaciones reales o simuladas.
+– 	 Expresiones y fórmulas básicas de la comunicación oral. 
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44060
+Viernes, 3 de julio de 2015
+– 	 Pronunciación y entonación dirigidas a lograr la comunicación.
+– 	 Empleo de respuestas adecuadas en situaciones de comunicación en el aula.
+– 	 Producción de textos orales breves y coherentes mediante la participación activa 
+en actividades individuales o de grupo. Se utilizarán mecanismos de aprendizaje 
+que aseguren una actitud positiva y de colaboración.
+– 	 Desarrollo de estrategias para superar las interrupciones en la comunicación. 
+8. Elaboración de mensajes y textos sencillos en lengua inglesa:
+– 	 Comprensión de la información global y la idea principal de textos básicos 
+cotidianos de ámbito personal o profesional.
+– 	 Léxico frecuente para desenvolverse en transacciones y gestiones cotidianas 
+sencillas del ámbito personal o profesional.
+– 	 Reconocimiento y aprendizaje de las formas de relación social en la lengua 
+inglesa. 
+– 	 Expresiones y fórmulas básicas de la comunicación escrita.
+– 	 Identificación de los elementos más significativos de textos escritos y audiovisuales 
+a través de elementos textuales y no textuales. 
+– 	 Composición de textos escritos muy breves, sencillos y bien estructurados: 
+mensajes, correos electrónicos, cuestionarios, cartas, avisos, instrucciones, 
+información en Internet o folletos entre otros.
+– 	 Recursos gramaticales: 
+– 	 Tiempos y formas verbales. Relaciones temporales: anterioridad, 
+posterioridad y simultaneidad. Valores y significados de las formas 
+verbales. 
+– 	 Estructuras gramaticales básicas: oraciones simples y compuestas. 
+– 	 Funciones comunicativas más habituales del ámbito personal o profesional 
+en medios escritos. Fórmulas básicas y expresiones frecuentes.
+– 	 Elementos lingüísticos fundamentales atendiendo a los tipos de textos, contextos 
+y propósitos comunicativos. Nociones básicas del inglés y su funcionamiento en 
+el discurso.
+– 	 Propiedades básicas del texto. Aplicación de estructuras gramaticales y contenidos 
+lingüísticos asimilados.
+– 	 Estrategias y técnicas de compresión lectora: inferencia de significados por el 
+contexto, por elementos visuales, por comparación de palabras o frases similares 
+en las lenguas que conocen.
+– 	 Estrategias de planificación y de corrección. Textualización y revisión.
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44061
+Viernes, 3 de julio de 2015
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contribuye a alcanzar las competencias para el aprendizaje 
+permanente y contiene la formación para que el alumnado sea capaz de reconocer las 
+características básicas de los fenómenos relacionados con la actividad humana y mejorar 
+sus habilidades comunicativas. Estará orientado a conseguir aquellas competencias 
+básicas necesarias para lograr la realización personal, ejercer la ciudadanía activa e 
+incorporarse a la vida adulta de manera satisfactoria.
+La estrategia de aprendizaje para la enseñanza de este módulo profesional que 
+integra conocimientos básicos relativos a ciencias sociales, lengua castellana y literatura 
+y lengua inglesa, estará enfocada al uso de herramientas básicas del análisis textual, la 
+elaboración de información estructurada tanto oral como escrita, la localización de espacio-
+temporal de los fenómenos sociales y culturales y el respeto a la diversidad de creencias 
+y a pautas de relación cotidiana en distintas sociedades y grupos humanos, involucrando 
+a los estudiantes en tareas significativas que les permita trabajar de manera autónoma y 
+en equipo. Una de las piezas clave podría estar en las agrupaciones flexibles. El objetivo 
+al formar los grupos buscaría actuaciones integradoras que ayudaran al alumnado a 
+desenvolverse en igualdad de condiciones y a atenderles según su forma y condiciones 
+de aprendizaje.
+La formación del módulo profesional se relaciona con los siguientes objetivos 
+generales del ciclo formativo ñ), o), p), q), r), y s) y las competencias profesionales, 
+personales y sociales m), n), ñ), o) y p) del título. Además, se relaciona con los objetivos 
+t), u), v), w), x), y) y z) y las competencias q), r), s), t), u), v) y w) que se incluirán en este 
+módulo profesional, de forma coordinada, con el resto de los módulos profesionales. 
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional estarán orientadas hacia: 
+– 	 La concreción de un plan personalizado de formación que tenga como objetivo 
+lograr la integración del alumno en las situaciones de aprendizaje propuestas, 
+mediante la aplicación de estrategias motivadoras. La interacción a través del 
+trabajo en grupo y en parejas ayuda a participar, expresar ideas propias y a 
+escuchar las ajenas; se desarrolla la habilidad para construir diálogos, negociar 
+significados, tomar decisiones; se valoran aportaciones de compañeros, se 
+consiguen acuerdos, y, se aprende de y con los demás. 
+– 	 La potenciación de la autonomía en la ejecución de las actividades y en la gestión 
+de su tiempo de aprendizaje en el ámbito de las competencias y contenidos del 
+ámbito sociolingüístico. Fomentar el trabajo cooperativo en el aula, manejo de 
+recursos personales o habilidades sociales de colaboración y negociación supone 
+el desarrollo de iniciativas y toma de decisiones en la planificación, organización 
+y gestión del trabajo. 
+– 	 La realización de dinámicas sobre el desarrollo de habilidades sociales que 
+favorezcan el asentamiento de hábitos de disciplina y de trabajo individual y en 
+equipo. Mejorarán el respeto, interés y la comunicación con otras personas, a 
+veces hablantes de otras lenguas. Contribuirán al reconocimiento y la aceptación 
+de diferencias culturales y de comportamiento.
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44062
+Viernes, 3 de julio de 2015
+– 	 La utilización de estrategias, recursos y fuentes de información a su alcance, 
+fomentando el uso de las TIC, que contribuyan a la reflexión sobre la valoración 
+de la información necesaria para construir explicaciones estructuradas de la 
+realidad que le rodea. 
+– 	 La utilización de métodos globalizadores (proyectos, centros de interés, entre 
+otros) que permitan la integración del alumnado en las actividades de aprendizaje, 
+concretada en una metodología de trabajo que los relacione con la actualidad. 
+Se fundamentarán en la observación sistemática del trabajo y la participación 
+e integración del alumno en clase. Serán positivos los intercambios orales 
+(preguntas y respuestas, diálogos, breves coloquios y debates) o la revisión, 
+análisis y comentario de las actividades y trabajos realizados y los ejercicios 
+específicos.
+– 	 La programación de actividades que se relacionen, siempre que sea posible, con 
+capacidades que se deriven del perfil profesional. 
+Las líneas de actuación en el proceso de enseñanza aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional en relación con las Ciencias Sociales están 
+relacionadas con:
+– 	 La integración motivadora de saberes que le permitan analizar y valorar la 
+diversidad de las sociedades humanas.
+– 	 La utilización de recursos y fuentes de información a su alcance para organizar la 
+información que extraiga para favorecer su integración en el trabajo educativo.
+– 	 El reconocimiento de la huella del pasado en la vida diaria mediante la apreciación 
+de la diversidad de los grupos humanos y sus logros a lo largo del tiempo.
+– 	 La valoración de los problemas de su entorno a partir del análisis de la información 
+disponible, la formulación de explicaciones justificadas y la reflexión sobre su 
+actuación ante las mismas en situaciones de aprendizaje pautadas. 
+– 	 La potenciación de las capacidades de observación y criterios de disfrute de las 
+expresiones artísticas mediante el análisis pautado de producciones artísticas 
+arquetípicas, apreciando sus valores estéticos y temáticos. 
+Las líneas de actuación en el proceso de enseñanza aprendizaje que permiten 
+alcanzar los objetivos del módulo en relación con el aprendizaje de las lenguas están 
+relacionadas con:
+– 	 La utilización de la lengua tanto en la interpretación y elaboración de mensajes 
+orales y escritos sencillos, mediante su uso en distintos tipos de situaciones 
+comunicativas y textuales de su entorno. Comporta el dominio de la lengua oral 
+y escrita en múltiples contextos, y el uso funcional de, al menos, una lengua 
+extranjera. Permite la comunicación, enriquecer las relaciones sociales y 
+desenvolverse en contextos distintos al propio.
+– 	 La utilización de un vocabulario adecuado a las situaciones de su entorno que 
+orientará la concreción de los contenidos, actividades y ejemplos utilizados en el 
+módulo. 
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44063
+Viernes, 3 de julio de 2015
+– 	 La selección y ejecución de estrategias didácticas que faciliten el auto-aprendizaje 
+y que incorporen el uso de la lengua en situaciones de comunicación lo más 
+reales posibles, utilizando las posibilidades de las Tecnología de la Información 
+y de la Comunicación (correo electrónico, SMS, internet, redes sociales, entre 
+otras). 
+– 	 La utilización de las técnicas de comunicación para potenciar el trabajo en equipo 
+que les permita integrarse en las actividades educativas con garantía de éxito. 
+– 	 La apreciación de la variedad cultural y de costumbres presentes en su entorno, 
+poniéndola en relación con las necesidades derivadas del uso de la lengua con 
+distintos hablantes.
+– 	 El desarrollo de hábitos de lectura que les permitan disfrutar de la producción 
+literaria mediante el uso de textos seleccionados a sus necesidades y 
+características.
+Módulo profesional: Comunicación y sociedad II.
+Código: 3012
+Duración: 175 horas  
+UNIDAD FORMATIVA 1. (Asociada a los resultados de aprendizaje 1, 2, 3, 4 y 5 de 
+este módulo establecido en el Anexo VII del Real Decreto 356/2014, de 16 de mayo).
+Duración: 125 horas
+Contenidos:
+1. Valoración de las sociedades contemporáneas:
+– 	 La construcción de los sistemas democráticos:
+– 	 La Ilustración y sus consecuencias:
+	
+Fundamentos del movimiento ilustrado. La crítica del Antiguo Régimen. 
+	
+El despotismo ilustrado. 
+	
+El reformismo borbónico en España.
+	
+La independencia de las colonias americanas: el nacimiento de Estados 
+Unidos. 
+	
+La Revolución Francesa y el Imperio napoleónico. 
+	
+La Europa de la Restauración. 
+– 	 La sociedad liberal:
+	
+El pensamiento liberal. Ideología política y concepción de la economía. 
+	
+Nacionalismo y Romanticismo.
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44064
+Viernes, 3 de julio de 2015
+	
+La era de las revoluciones: principales características y localización 
+geográfica.
+	
+La sociedad liberal española. Principales hitos y evolución.
+	
+El arte en el siglo XIX. Obras y artistas más representativos en Europa y 
+en España. 
+– 	 La sociedad democrática:
+	
+Los movimientos democráticos desde el siglo XIX.
+	
+Las preocupaciones de la sociedad actual: igualdad de oportunidades, 
+medioambiente y participación ciudadana.
+– 	 Estructura económica y su evolución:
+– 	 Principios de organización económica. La economía globalizada actual.
+– 	 La primera revolución industrial: transformaciones económicas, tecnológicas 
+y sociales. 
+– 	 La segunda globalización. Transformaciones económicas, tecnológicas y 
+sociales ligadas a la segunda revolución industrial.
+– 	 El crack del 29 y la depresión económica. 
+– 	 El modelo económico keynesiano.
+– 	 La revolución de la información y la comunicación. Los grandes medios: 
+características e influencia social.
+– 	 Tercera globalización: los problemas del desarrollo. La pobreza. 
+– 	 Evolución del sector productivo propio.
+– 	 Relaciones internacionales:
+– 	 La época del Imperialismo. Grandes potencias y conflicto colonial.
+– 	 La guerra civil europea.
+– 	 Causas y desarrollo de la Primera Guerra Mundial y sus consecuencias.
+– 	 El período de entreguerras y el ascenso de los totalitarismos. 
+– 	 Causas y desarrollo de la Segunda Guerra Mundial y sus consecuencias.
+– 	 Los otros conflictos: la guerra civil española en su contexto.
+– 	 Descolonización y guerra fría. 
+– 	 La dictadura franquista en su contexto.
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44065
+Viernes, 3 de julio de 2015
+– 	 El mundo globalizado actual.
+– 	 España en el marco de relaciones actual. Europa, Latinoamérica y el 
+Magreb.
+– 	 La construcción europea:
+– 	 La creación de la Comunidad Económica Europea. 
+– 	 Las sucesivas ampliaciones hasta llegar a la actual Unión Europea.
+– 	 El funcionamiento de la Unión Europea: las instituciones principales. 
+– 	 Desequilibrios regionales y principales retos de la Unión Europea. 
+– 	 Arte contemporáneo:
+– 	 La ruptura del canon clásico. Vanguardias históricas. 
+– 	 El significado de la obra artística en el mundo contemporáneo globalizado.
+– 	 El arte actual. Disfrute y construcción de criterios estéticos.
+– 	 El cine y el cómic como entretenimiento de masas.
+– 	 Tratamiento y elaboración de información para las actividades educativas:
+– 	 Trabajo colaborativo.
+– 	 Exposición de opiniones y juicios propios con argumentos razonados. 
+– 	 Presentaciones y publicaciones web. 
+2. Valoración de las sociedades democráticas:
+– 	 La Declaración Universal de Derechos Humanos:
+– 	 La Declaración de 1948. 
+– 	 Los Derechos Humanos en la vida cotidiana.
+– 	 Conflictos internacionales actuales.
+– 	 Los organismos internacionales. Funcionamiento y papel de la O.N.U. 
+– 	 El modelo democrático español:
+– 	 La construcción de la España democrática. La transición política. 
+– 	 La Constitución Española. Principios fundamentales de la Constitución 
+de 1978. Carta de derechos y deberes y sus implicaciones en la vida 
+cotidiana. 
+– 	 El Estado de las autonomías. 
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44066
+Viernes, 3 de julio de 2015
+– 	 El principio de no discriminación en la convivencia diaria: 
+– 	 La convivencia.
+– 	 Crítica a los prejuicios sociales. 
+– 	 Resolución de conflictos:
+– 	 Mecanismos para la resolución de conflictos: el diálogo. 
+– 	 Actitudes personales ante los conflictos.
+– 	 Tratamiento y elaboración de información para las actividades educativas:
+– 	 Procesos y pautas para el trabajo colaborativo. 
+– 	 Análisis comparativo y evaluación crítica de informaciones proporcionadas 
+por diversas fuentes sobre un mismo hecho o cuestión de actualidad. 
+– 	 Preparación y presentación de información para actividades deliberativas.
+– 	 Normas de funcionamiento y actitudes en el contraste de opiniones. 
+3. Utilización de estrategias de comunicación oral en lengua castellana:
+– 	 Textos orales: 
+– 	 Tipos y características.
+– 	 Características de las conferencias.
+– 	 Características de los debates.
+– 	 Técnicas de escucha activa en la comprensión de textos orales: 
+– 	 Memoria auditiva. 
+– 	 Atención visual.
+– 	 Recursos para la recogida de notas.
+– 	 La exposición de ideas y argumentos:
+– 	 Texto. y discurso. Propiedades del texto: adecuación, coherencia y 
+cohesión.
+– 	 Estructuras formales del texto:
+– 	 Expositivas: conferencias.
+– 	 Argumentativas: debates en radio y televisión.
+– 	 Organización y preparación de los contenidos: ilación, sucesión y 
+coherencia.
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44067
+Viernes, 3 de julio de 2015
+– 	 Estructura.
+– 	 Uso de la voz y la dicción.
+– 	 Usos orales informales y formales de la lengua. 
+– 	 Adecuación al contexto comunicativo.
+– 	 Estrategias para mantener el interés.
+– 	 Lenguaje corporal.
+– 	 Aplicación de las normas lingüísticas en la comunicación oral: 
+– 	 Organización de la frase: estructuras gramaticales básicas.
+– 	 Coherencia semántica.
+– 	 Intervención activa en situaciones de comunicación oral.
+– 	 Utilización de recursos audiovisuales:
+– 	 Presentaciones orales bien estructuradas en las que aparezcan puntos 
+de vista empleando los medios audiovisuales y tecnológicos de la 
+información.
+4. Utilización de estrategias de comunicación escrita en lengua castellana:
+– 	 Comprensión de textos de la vida cotidiana y de los medios de comunicación, 
+atendiendo en especial a los géneros de opinión.
+– 	 Trabajos, informes, ensayos y otros textos académicos y científicos.
+– 	 Textos de la vida cotidiana y profesional. Curriculum vitae, email, contrato, folleto, 
+entre otros.
+– 	 Aspectos lingüísticos a tener en cuenta:
+– 	 Registros comunicativos de la lengua; factores que condicionan su uso. 
+– 	 Diversidad lingüística española.
+– 	 Variaciones de las formas deícticas en relación con la situación.
+– 	 Estilo directo e indirecto.
+– 	 Estrategias de lectura con textos académicos y de la vida cotidiana:
+– 	 Estrategias de comprensión lectora: Resumir el texto. Exponer la idea 
+principal. Reconocer la estructura del texto. Realizar anticipaciones, 
+hipótesis de significado. Comparar e integrar varias informaciones. 
+Interpretar y deducir información.
+– 	 Pautas para la utilización de diccionarios especializados.
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44068
+Viernes, 3 de julio de 2015
+– 	 Estrategias en el proceso de composición de información académica y 
+profesional.
+– 	 Presentación de textos escritos:
+– 	 Aplicación de las normas gramaticales.
+– 	 Aplicación de las normas ortográficas.
+– 	 Aplicación de normas tipográficas.
+– 	 Instrumentos de apoyo para mejorar el texto. Composición y maquetación. 
+Usos avanzados del procesador de texto.
+– 	 Análisis lingüístico de textos escritos:
+– 	 Identificación y uso de los principales marcadores textuales.
+– 	 Identificación y uso de conectores textuales: causa, consecuencia, condición 
+e hipótesis.
+– 	 Las formas verbales en los textos. Valores aspectuales de las perífrasis 
+verbales.
+– 	 Morfología. Estudio del significado.
+– 	 Sintaxis: complementos; frases compuestas. Reconocimiento de los 
+esquemas semánticos y sintácticos de la oración. Construcción y 
+transformación de enunciados. 
+– 	 Oración 
+activa 
+y 
+pasiva. 
+Oración 
+compuesta: 
+coordinación 
+y 
+subordinación.
+– 	 Estrategias para mejorar el interés del oyente.
+5. Interpretación de textos literarios en lengua castellana desde el siglo XIX:
+– 	 Desarrollo de la autonomía lectora y aprecio por la literatura como fuente de 
+placer, de conocimiento de otros mundos, tiempos y culturas.
+– 	 Instrumentos para la recogida de información de la lectura de una obra literaria. 
+– 	 La literatura en sus géneros.
+– 	 Evolución de la literatura en lengua castellana desde el siglo XIX hasta la 
+actualidad:
+– 	 El siglo XIX. Romanticismo y Realismo.
+– 	 Modernismo, Generación de 98 y Rubén Darío.
+– 	 Generación de 27 y Vanguardias.
+– 	 La literatura contemporánea.
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44069
+Viernes, 3 de julio de 2015
+– 	 Conocimiento de las características generales y acercamiento a los autores y 
+obras relevantes. 
+– 	 Lectura de obras o fragmentos adecuados a su edad y relacionados con los 
+periodos estudiados.
+– 	 Composición de textos de intención literaria y elaboración de trabajos sencillos 
+sobre lecturas o temas de interés.
+UNIDAD FORMATIVA 2. (Asociada a los resultados de aprendizaje 6, 7 y 8 de este 
+módulo establecido en el Anexo VII del Real Decreto 356/2014, de 16 de mayo).
+Duración: 50 horas
+6. Interpretación y comunicación de textos orales cotidianos en lengua inglesa:
+– 	 Distinción de ideas principales y secundarias de textos orales breves y sencillos. 
+Escucha y comprensión de mensajes orales breves relacionados con las 
+actividades de aula: instrucciones, preguntas, comentarios, diálogos. 
+– 	 Descripción de aspectos concretos de personas, lugares, servicios básicos, 
+objetos y de gestiones sencillas.
+– 	 Experiencias del ámbito personal, público y profesional. 
+– 	 Narración de acontecimientos y experiencias del momento presente, pasado y 
+futuro:
+– 	 Léxico, frases y expresiones, para desenvolverse en transacciones y gestiones 
+cotidianas del ámbito personal y profesional.
+– 	 Tipos de textos y su estructura.
+– 	 Recursos gramaticales: 
+– 	 Tiempos y formas verbales simples y compuestas. 
+– 	 Funciones comunicativas asociadas a situaciones habituales. 
+– 	 Elementos lingüísticos fundamentales. 
+– 	 Marcadores del discurso. 
+– 	 Oraciones subordinadas de escasa complejidad.
+– 	 Estrategias de comprensión y escucha activa para organizar, adquirir, recordar y 
+utilizar léxico.
+– 	 Pronunciación de fonemas o grupos fónicos que presenten mayor dificultad.
+– 	 Uso de registros adecuados en las relaciones sociales. Reflexión guiada sobre el 
+uso y el significado de las formas gramaticales adecuadas a distintas intenciones 
+comunicativas.
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44070
+Viernes, 3 de julio de 2015
+7. Interacción en conversaciones en lengua inglesa:
+– 	 Estrategias de interacción para mantener y seguir una conversación.
+– 	 Uso de frases estandarizadas. 
+– 	 Participación en conversaciones breves y sencillas dentro del aula, y en 
+simulaciones adecuadas al nivel de los alumnos/as y relacionadas con los temas 
+tratados en este nivel.
+– 	 Empleo de respuestas adecuadas a las informaciones requeridas por el profesor 
+y los compañeros en las actividades de aula.
+– 	 Desarrollo de estrategias para superar las interrupciones en la comunicación, 
+haciendo uso de elementos verbales y no verbales para expresarse oralmente 
+en actividades de pareja y en grupo: demanda de repetición y aclaración entre 
+otras.
+– 	 Participación activa en actividades y trabajos grupales. Confianza e iniciativa 
+para expresarse en público.
+8. Interpretación y elaboración de mensajes escritos sencillos en lengua inglesa:
+– 	 Información global y específica de mensajes de escasa dificultad referentes a 
+asuntos básicos cotidianos del ámbito personal y profesional: anuncios para 
+buscar un trabajo o una casa, un correo electrónico, un diario, entre otros.
+– 	 Composición de textos escritos breves y bien estructurados: Contestar preguntas, 
+completar frases, hacer descripciones.
+– 	 Léxico para desenvolverse en transacciones y gestiones cotidianas, necesarias, 
+sencillas y concretas del ámbito personal y profesional.
+– 	 Terminología específica del área profesional de los alumnos.
+– 	 Composición de textos. Confianza e iniciativa para expresarse por escrito. Interés 
+por cuidar la presentación en soporte papel y digital. 
+– 	 Uso progresivo de recursos para el aprendizaje, como diccionarios, libros de 
+consulta, bibliotecas o tecnologías de la información y la comunicación.
+– 	 Recursos gramaticales: 
+– 	 Marcadores del discurso. 
+– 	 Uso de las oraciones simples y compuestas en el lenguaje escrito.
+– 	 Estrategias y técnicas de compresión lectora: identificación del tema de un texto 
+con ayuda de elementos textuales y no textuales, uso de los conocimientos 
+previos, inferencia de significados por el contexto, por comparación de palabras 
+o frases similares en las lenguas que conocen.
+– 	 Propiedades básicas del texto. Reconocimiento de algunas de las características 
+y convenciones del lenguaje escrito (anuncios y correos electrónicos) y su 
+diferenciación del lenguaje oral.
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44071
+Viernes, 3 de julio de 2015
+– 	 Normas socioculturales en las relaciones del ámbito personal y profesional en 
+situaciones cotidianas.
+– 	 Estrategias de planificación del mensaje. Organización del trabajo personal como 
+estrategia para progresar en el aprendizaje.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contribuye a alcanzar las competencias para el aprendizaje 
+permanente y contiene la formación para que utilizando los pasos del método científico, 
+mediante el análisis de los principales fenómenos relacionados con las actividades humanas 
+en el mundo contemporáneo y el desarrollo de estrategias comunicativas suficientes en 
+lengua castellana para mejorar y acrecentar sus posibilidades de desarrollo personal, 
+sociales y profesional, así como iniciarse en la comunicación en lengua inglesa en distintas 
+situaciones habituales. Estará orientado a conseguir aquellas competencias básicas 
+necesarias para lograr la realización personal, ejercer la ciudadanía activa e incorporarse 
+a la vida adulta de manera satisfactoria. Con distinto nivel de dominio y formalización 
+-especialmente en lengua escrita- este módulo facilita la comunicación, en el caso de la 
+lengua extranjera poder hacerlo en inglés, y con ello, enriquece las relaciones sociales y 
+permite desenvolverse en contextos distintos al propio. Asimismo, se favorece el acceso a 
+más y diversas fuentes de información, comunicación y aprendizaje. 
+La estrategia de aprendizaje para la enseñanza de este módulo profesional que 
+integra materias como ciencias sociales, lengua castellana y literatura y lengua inglesa, se 
+enfocará a la adquisición de herramientas de análisis espacio-temporal, el tratamiento de 
+textos orales y escritos, la elaboración de mensajes estructurados y el respeto hacia otras 
+sociedades, involucrando a los estudiantes en tareas significativas que les permita trabajar 
+de manera autónoma y colaborativa para construir su propio aprendizaje y culminar en 
+resultados reales generados por ellos mismos. Incluye la utilización del lenguaje como 
+instrumento de comunicación oral y escrita, de representación, interpretación y comprensión 
+de la realidad, de construcción y comunicación del conocimiento y de organización y 
+autorregulación del pensamiento, las emociones y la conducta. 
+La formación del módulo profesional se relaciona con los siguientes objetivos 
+generales del ciclo formativo ñ), o), p), q), r) y s) y las competencias profesionales, 
+personales y sociales m), n), ñ), o) y p) del título. Además, se relaciona con los objetivos 
+t), u), v), w), x), y) y z) y las competencias q), r), s), t), u), v) y w) que se incluirán en este 
+módulo profesional, de forma coordinada, con el resto de módulos profesionales. 
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional estarán orientadas hacia:
+– 	 La concreción de un plan personalizado de formación que tenga como objetivo 
+lograr la implicación activa del alumno en su proceso formativo, donde la práctica 
+y la funcionalidad de los aprendizajes constituyan un continuum que facilite la 
+realización de las actividades que lleve a cabo el alumnado.
+– 	 La potenciación en todo momento de la autonomía y la iniciativa personal para 
+utilizar las estrategias adecuadas en ámbito sociolingüístico. Esto permitirá al 
+alumno ser capaz de imaginar, emprender, desarrollar y evaluar acciones o 
+proyectos individuales o colectivos con creatividad, confianza, responsabilidad y 
+sentido crítico.
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44072
+Viernes, 3 de julio de 2015
+– 	 La realización de dinámicas sobre el desarrollo de habilidades sociales que 
+favorezcan el desarrollo y asentamiento de hábitos de disciplina y de trabajo 
+individual y colaborativo. Ayudarán a comprender la realidad social en que se 
+vive, afrontar la convivencia y los conflictos empleando el juicio ético basado 
+en los valores y prácticas democráticas, y ejercer la ciudadanía, actuando con 
+criterio propio, manteniendo una actitud constructiva, solidaria y responsable 
+ante el cumplimiento de los derechos y obligaciones cívicas. 
+– 	 La utilización de estrategias, recursos y fuentes de información a su alcance que 
+contribuyan a la reflexión sobre la valoración de la información necesaria para 
+construir explicaciones razonadas de la realidad que le rodea. Esto implica ser 
+una persona autónoma, eficaz, responsable, crítica y reflexiva al seleccionar, 
+tratar y utilizar la información y sus fuentes, así como las distintas herramientas 
+tecnológicas. 
+– 	 La garantía del acceso a la información para todos los alumnos, fomentando el 
+uso de las TIC. Deberán tener una actitud crítica y reflexiva en la valoración de la 
+información disponible, contrastándola cuando sea necesario, y respetando las 
+normas de conducta acordadas socialmente para regular el uso de la información 
+y sus fuentes en los distintos soportes. 
+– 	 La utilización de métodos globalizadores (proyectos, centros de interés, entre 
+otros) que permitan la integración de competencias y contenidos, concretada en 
+una metodología de trabajo que los relacione con la actualidad para permitir la 
+adaptación de los alumnos a la realidad personal, social y profesional. Implicarán 
+conciencia, gestión y control de las propias capacidades y conocimientos desde 
+un sentimiento de competencia o eficacia personal. Incluyen pensamiento 
+estratégico, capacidad de cooperar, autoevaluarse, y manejo eficiente de 
+recursos y técnicas de trabajo intelectual desarrolladas a través de experiencias 
+de aprendizaje conscientes y gratificantes, tanto individuales como colectivas.
+– 	 La programación de actividades que se relacionen, siempre que sea posible, 
+con capacidades que se deriven del perfil profesional y su adaptación a los 
+requerimientos profesionales de su entorno. 
+Las líneas de actuación en el proceso de enseñanza aprendizaje que permiten 
+alcanzar los objetivos del módulo en relación con las Ciencias Sociales están relacionadas 
+con: 
+– 	 La integración de saberes que permita el estudio de un fenómeno relacionado 
+con las ciencias sociales desde una perspectiva multidisciplinar que le permitan 
+valorar la diversidad de las sociedades humanas.
+– 	 La utilización de estrategias y destrezas de actuación, recursos y fuentes de 
+información a su alcance para acercarse al método científico y organizar la 
+información que extraiga para favorecer su integración en el trabajo educativo.
+– 	 El reconocimiento de la huella del pasado en la vida diaria mediante la apreciación 
+de los cambios y transformaciones sufridas por los grupos humanos a lo largo del 
+tiempo. 
+– 	 La valoración de los problemas de la sociedad actual a partir del análisis de 
+la información disponible y la concreción de hipótesis propias y razonadas de 
+explicación de los fenómenos observados en situación de aprendizaje.
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+Pág. 44073
+Viernes, 3 de julio de 2015
+– 	 Potenciación de las capacidades de apreciación y de creación, de educar el 
+gusto por las artes, mediante el desarrollo de contenidos y actividades que se 
+relacionen con obras y expresiones artísticas seleccionadas.
+Las líneas de actuación en el proceso de enseñanza aprendizaje que permiten 
+alcanzar los objetivos del módulo en relación con el aprendizaje de las lenguas están 
+relacionadas con:
+– 	 La utilización de la lengua tanto en la interpretación y elaboración de mensajes 
+orales y escritos, mediante su uso en distintos tipos de situaciones comunicativas 
+y textuales. Completará, enriquecerá y llenará de nuevos matices comprensivos 
+y expresivos la capacidad comunicativa general. A través del discurso oral se 
+adquirirán habilidades de escuchar, hablar y conversar. 
+– 	 La utilización de un vocabulario adecuado a las situaciones de la vida personal, 
+social y profesional que deberá vehicular la concreción de los contenidos, 
+actividades y ejemplos utilizados en el módulo.
+– 	 La selección y ejecución de estrategias didácticas que faciliten el auto-aprendizaje 
+y que incorporen el uso de la lengua en situaciones de comunicación lo más reales 
+posibles, utilizando las posibilidades de las Tecnología de la Información y de la 
+Comunicación (correo electrónico, SMS, internet, redes sociales, entre otras). 
+Permitirán el desarrollo de iniciativas y toma de decisiones en la planificación, 
+organización y gestión del trabajo, propiciando así la autonomía y la iniciativa 
+personal. 
+– 	 La utilización de las técnicas de comunicación para potenciar el trabajo 
+colaborativo que permita desarrollar el concepto de inteligencia colectiva y su 
+relación con el ámbito profesional. Intercambiar información personal ayuda a 
+reforzar la identidad de los interlocutores. En lengua extranjera es especialmente 
+relevante el trabajo en grupo y en parejas. A través de estas interacciones, se 
+aprende a participar, a expresar las ideas propias y a escuchar las de los demás, 
+se desarrolla la habilidad para construir diálogos, negociar significados, tomar 
+decisiones valorando las aportaciones de los compañeros, conseguir acuerdos, 
+y, en definitiva, se favorece aprender de y con los demás. 
+– 	 La apreciación de la variedad cultural y de costumbres característica de las 
+sociedades contemporáneas, más específicamente en el ámbito de las culturas 
+de habla inglesa. Implica conocimiento básico de las distintas manifestaciones 
+culturales y artísticas, la aplicación de habilidades de pensamiento divergente y de 
+trabajo colaborativo, una actitud abierta, respetuosa y crítica hacia la diversidad 
+desde el respeto a lo diferente. 
+– 	 La creación de hábitos de lectura y criterios estéticos propios que les permitan 
+disfrutar de la producción literaria, con mayor profundización en la producción en 
+lengua castellana.
+Módulo profesional: Formación en centros de trabajo.
+Código: 3033
+Duración: 260 horas
+Este módulo profesional contribuye a completar las competencias y objetivos 
+generales, propios de este título, que se han alcanzado en el centro educativo o a desarrollar 
+competencias difíciles de conseguir en el mismo. 
+CV: BOCYL-D-03072015-2
+
+Boletín Oficial de Castilla y León
+Núm. 126
+http://bocyl.jcyl.es
+D.L.: BU 10-1979 - ISSN 1989-8959
+Pág. 44074
+Viernes, 3 de julio de 2015
+ANEXO III
+ORGANIZACIÓN Y DISTRIBUCIÓN DE LOS MÓDULOS PROFESIONALES
+Módulos profesionales
+Duración
+del currículo
+(horas)
+Centro Educativo
+Centro de 
+Trabajo
+Curso 1.º
+Curso 2.º
+33 semanas
+horas/semanales
+25 semanas
+horas/semanales
+ 8 semanas
+horas totales
+3029.	  Montaje y mantenimiento 
+de sistemas y componentes 
+informáticos.
+297
+9
+ 
+3030.	 Operaciones auxiliares 
+para la configuración y la 
+explotación.
+200
+8
+3031.	 Ofimática y archivo de 
+documentos.
+264
+8
+3016.	 Instalación y mantenimiento 
+de redes para transmisión 
+de datos.
+200
+8
+3009. Ciencias aplicadas I.
+165
+5
+3019. Ciencias aplicadas II.
+150
+6
+3011. Comunicación y sociedad I.
+198
+6
+3012. Comunicación y sociedad II.
+175
+7
+Tutoría. 
+66
+2
+Tutoría.
+25
+1
+ 
+3033. Formación en centros de 
+trabajo.
+260
+ 
+ 
+260
+TOTAL
+2000
+30
+30
+260
+CV: BOCYL-D-03072015-2

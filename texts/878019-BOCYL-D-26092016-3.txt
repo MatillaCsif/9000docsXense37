@@ -1,0 +1,135 @@
+Boletín Oficial de Castilla y León
+Núm. 186
+Pág. 41593
+Lunes, 26 de septiembre de 2016
+I. COMUNIDAD DE CASTILLA Y LEÓN
+A. DISPOSICIONES GENERALES
+CONSEJERÍA DE EDUCACIÓN
+ORDEN EDU/799/2016, de 15 de septiembre, por la que se crea el fichero de datos 
+de carácter personal denominado Unidades de investigación consolidada.
+La Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter 
+Personal, en su artículo 20, establece que la creación, modificación o supresión de los 
+ficheros de las Administraciones Públicas sólo podrán hacerse por medio de disposición 
+general publicada en el diario oficial correspondiente.
+Por su parte, el Decreto 11/2003, de 23 de enero, por el que se regulan los ficheros de 
+datos de carácter personal susceptibles de tratamiento automatizado, de la Administración 
+de la Comunidad de Castilla y León, concreta en su artículo 2, que la creación, modificación 
+y supresión de los ficheros de datos de carácter personal incluidos en el ámbito de aplicación 
+de la citada ley, se realizará, previo informe de la Dirección General de Telecomunicaciones 
+y Transportes, por orden del titular de la consejería competente por razón de la materia a 
+la que afectan.
+Por ello, ante la necesidad de dar cumplimiento a las exigencias legales establecidas 
+y lograr una mayor eficiencia en la organización y gestión administrativa llevada a cabo 
+por la Consejería de Educación garantizando, paralelamente, el derecho a la protección 
+de datos de carácter personal de los administrados relacionados con ella, se hace preciso 
+la creación de un fichero de datos.
+En su virtud y previo informe de la Dirección General de Telecomunicaciones, sobre 
+las medidas de seguridad que deben cumplir los ficheros,
+DISPONGO
+Artículo 1. Objeto.
+La presente orden tiene por objeto la creación del fichero de datos de carácter 
+personal de la Consejería de Educación, denominado «Unidades de investigación 
+consolidada», cuya descripción figura en el Anexo de la presente disposición.
+Artículo 2. Medidas técnicas y organizativas.
+El titular del órgano responsable del fichero a que se refiere el artículo anterior y, 
+en su caso, el encargado de su tratamiento, adoptarán las medidas de índole técnica y 
+organizativa necesarias que garanticen la seguridad de los datos de carácter personal 
+y eviten su alteración, pérdida, tratamiento o acceso no autorizado, habida cuenta del 
+estado de la tecnología, la naturaleza de los datos almacenados y los riesgos a que 
+están expuestos. Ello implica la implantación de las medidas de seguridad exigibles en 
+CV: BOCYL-D-26092016-3
+
+Boletín Oficial de Castilla y León
+Núm. 186
+Pág. 41594
+Lunes, 26 de septiembre de 2016
+función de la naturaleza de los datos protegidos, en los términos establecidos en el Real 
+Decreto 1720/2007, de 21 de diciembre, por el que se aprueba el Reglamento de desarrollo 
+de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter 
+Personal.
+Asimismo cualquier persona que por razón del ejercicio de sus funciones tenga 
+acceso a los datos deberá observar la debida reserva, confidencialidad y sigilo en relación 
+con las mismas.
+Artículo 3. Derecho de acceso, rectificación y cancelación de datos.
+Los afectados podrán ejercitar sus derechos de acceso, rectificación y cancelación 
+de datos, cuando proceda, ante el órgano administrativo responsable del tratamiento 
+indicado en el Anexo.
+DISPOSICIÓN FINAL
+Entrada en vigor.
+La presente orden entrará en vigor el día siguiente al de su publicación en el «Boletín 
+Oficial de Castilla y León».
+Valladolid, 15 de septiembre de 2016.
+El Consejero,
+Fdo.: Fernando Rey Martínez
+CV: BOCYL-D-26092016-3
+
+Boletín Oficial de Castilla y León
+Núm. 186
+Pág. 41595
+Lunes, 26 de septiembre de 2016
+ANEXO
+Denominación del fichero:
+	
+«Unidades de investigación consolidada.»
+Fines y usos:
+	
+La certificación de la excelencia científica de un grupo de investigadores a través 
+de la inclusión de los mismos en esta relación de unidades de investigación 
+consolidada. Dicha certificación genera múltiples usos secundarios dado que 
+dicha certificación permitirá el acceso a ayudas y subvenciones de diferente 
+tipología.
+Personas o colectivos afectados:
+	
+Los investigadores que han logrado el reconocimiento como miembros de una 
+unidad de investigación consolidada de Castilla y León.
+Procedimiento de recogida de datos:
+	
+Datos aportados por el director de la unidad en representación del resto de 
+miembros de la unidad, previa autorización individualizada y por escrito de la 
+cesión de datos por parte de todos los componentes de la unidad.
+	
+Los datos se recibirán mediante transmisión electrónica/Internet pero también se 
+presentarán documentos impresos.
+Estructura básica del fichero y descripción de los tipos de datos:
+	
+Datos de carácter identificativo: D.N.I., apellidos y nombre, dirección, teléfono, 
+firma electrónica.
+	
+Datos de carácter personal: Fecha y lugar de nacimiento, edad, sexo y 
+nacionalidad.
+	
+Datos académicos y profesionales: Formación, titulaciones, experiencia 
+profesional.
+	
+Datos de empleo: Categoría/grado, historial del trabajador, duración del 
+contrato.
+	
+Datos de información comercial: No previstos.
+Cesiones de datos previstas:
+	
+Al Tribunal de Cuentas o equivalente autonómico a órganos de la Unión Europea 
+y a otros órganos del Estado o de la Comunidad Autónoma.
+Órgano de la Administración responsable del fichero:
+	
+Dirección General de Universidades e Investigación.
+CV: BOCYL-D-26092016-3
+
+Boletín Oficial de Castilla y León
+Núm. 186
+http://bocyl.jcyl.es
+D.L.: BU 10-1979 - ISSN 1989-8959
+Pág. 41596
+Lunes, 26 de septiembre de 2016
+Servicio o unidad ante la que puede ejercitarse los derechos de acceso, rectificación, 
+cancelación y oposición:
+	
+Servicio de Investigación Científica, Transferencia de Conocimiento e 
+Infraestructura Universitaria de la Dirección General de Universidades e 
+Investigación.
+Nivel de seguridad:
+	
+Nivel básico.
+Sistema de tratamiento:
+	
+Mixto.
+CV: BOCYL-D-26092016-3

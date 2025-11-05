@@ -1,0 +1,243 @@
+B.O.C. y L. - N.º 217
+Jueves, 10 de noviembre 2005
+19347
+ANEXO
+ACUERDO DEL 16 DE SEPTIEMBRE DE 2005,
+DEL CONSEJO DE DIRECCIÓN DE LA AGENCIA
+PARA LA CALIDAD DEL SISTEMA UNIVERSITARIO 
+DE CASTILLA Y LEÓN POR EL QUE SE CREAN FICHEROS
+AUTOMATIZADOS DE DATOS DE CARÁCTER PERSONAL
+Con objeto de lograr una mayor agilidad y eficiencia en la organiza-
+ción y gestión administrativa llevada a cabo por la Agencia para la Cali-
+dad del Sistema Universitario de Castilla y León, garantizando, paralela-
+mente, el derecho a la protección de datos de carácter personal de los
+administrados, se hace necesaria la creación de ficheros automatizados de
+datos conteniendo información relativa a los evaluadores que colaboran
+con esta Agencia.
+La Ley Orgánica 15/1999, de 13 de diciembre, de Protección de
+Datos de Carácter Personal, en su artículo 20, establece que la creación,
+modificación o supresión de los ficheros de las Administraciones Públicas y
+sus organismos públicos dependientes sólo podrán hacerse por medio de
+disposición general publicada en el diario oficial correspondiente.
+Por su parte, el Decreto 11/2003, de 23 de enero, por el que se regu-
+lan los ficheros de datos de carácter personal susceptibles de tratamiento
+automatizado de la Administración de la Comunidad de Castilla y León,
+concreta en su artículo 2, que la creación, modificación y supresión de los
+ficheros de datos de carácter personal incluidos en el ámbito de aplica-
+ción de la citada ley, se realizará previo informe de la Dirección General
+de Telecomunicaciones y Transportes de la Consejería de Fomento, por
+Orden del titular de la Consejería competente por razón de la materia a la
+que afectan. 
+En su virtud, y una vez solicitado el informe previsto en el citado
+Decreto 11/2003, el Consejo de Dirección de la Agencia para la Calidad
+del Sistema Universitario de Castilla y León, en su reunión de 16 de sep-
+tiembre de 2005, ACUERDA:
+1.– La creación de los ficheros de datos de carácter personal de la
+Agencia para la Calidad del Sistema Universitario de Castilla y León, que
+se indican y describen en el Anexo del presente Acuerdo.
+2.– El titular del órgano responsable de los ficheros automatizados a
+los que se refiere el punto anterior, y en su caso el encargado de su trata-
+miento, deberá adoptar las medidas de índole técnica y organizativa nece-
+sarias que garanticen la seguridad de los datos de carácter personal y evi-
+ten su alteración, pérdida tratamiento o acceso no autorizado, habida
+cuenta del estado de la tecnología, la naturaleza de los datos almacenados
+y los riesgos a que están expuestos. Ello implica la implantación de las
+medidas de seguridad exigibles en función de la naturaleza de los datos
+protegidos, en los términos establecidos en el Real Decreto 994/1999, de
+11 de junio, por el que se aprueba el Reglamento de medidas de seguri-
+dad de los ficheros automatizados que contengan datos de carácter personal.
+3.– Los interesados tendrán derecho a solicitar y obtener gratuita-
+mente información de sus datos de carácter personal sometidos a trata-
+miento, el origen de dichos datos, así como las comunicaciones realiza-
+das o que se prevea realizar con los mismos.
+4.– Mediante Orden de la Consejería de Educación se dará publicidad
+al presente Acuerdo.
+Valladolid, 16 de septiembre de 2005.
+El Presidente de la Agencia
+para la Calidad del Sistema Universitario
+de Castilla y León,
+Fdo.: FRANCISCO JAVIER ÁLVAREZ GUISASOLA
+ANEXO
+Denominación del fichero:
+Fichero automatizado de datos de carácter personal de los evaluado-
+res que colaboren en las funciones de esta Agencia.
+Fines y usos:
+Gestión de datos de evaluadores para apoyo y asesoramiento en las
+funciones de la Agencia.
+Personas o Colectivos afectados:
+Personal docente que cumple las condiciones para ser evaluador de la
+Agencia.
+Procedimiento de recogida de datos:
+Datos aportados por el propio interesado o su representante legal.
+Transmisión electrónica/Internet.
+Estructura básica del fichero y descripción de los tipos de datos:
+Datos de carácter identificativo: N.I.F., Nombre y Apellidos, Direc-
+ción, Teléfono.
+Datos académicos y profesionales: Categoría, Área de conocimiento,
+Departamento, Centro, Universidad, Experiencia docente, Experiencia
+investigadora, Experiencia como evaluador, Especialización. 
+Datos de detalle de empleo: Cargo actual, Otros cargos institucionales.
+Datos de carácter económico: Entidad y Cuenta Bancaria.
+Cesiones de datos previstas:
+A otras agencias de evaluación dentro del ámbito nacional.
+Órgano de la Administración responsable del fichero:
+Agencia para la Calidad del Sistema Universitario de Castilla y León.
+Servicio o Unidad ante el que pueden ejercitarse los derechos de acceso,
+rectificación, cancelación y oposición:
+Agencia para la Calidad del Sistema Universitario de Castilla y León.
+Medidas de Seguridad:
+Nivel Básico.
+ORDEN EDU/1477/2005, de 4 de noviembre, por la que se modifica el
+concierto educativo del centro «Medalla Milagrosa» de Ávila.
+De acuerdo con lo previsto en el artículo 46 del Real Decreto 2377/1985,
+de 18 de diciembre, por el que se aprueba el Reglamento de Normas Bási-
+cas sobre Conciertos Educativos, las variaciones que puedan producirse
+en los centros por alteración del número de unidades o por otras cir-
+cunstancias individualizadas darán lugar a la modificación del concierto
+educativo.
+En informe de la Dirección Provincial de Educación de Ávila, una vez
+finalizado el proceso de escolarización para el curso académico 2005/2006,
+se pone de manifiesto que el centro «Medalla Milagrosa» tiene escolari-
+zados 22 alumnos en dos unidades concertadas de segundo curso de
+Bachillerato, modalidad de Ciencias de la Naturaleza y de la Salud.
+En consecuencia, comunicada a la titularidad del Centro la proceden-
+cia de la modificación del concierto educativo suscrito y vistas las alega-
+ciones formuladas en el plazo legalmente establecido, de conformidad
+con lo establecido en el artículo 46 del Real Decreto 2377/1985, de 18 de
+diciembre, por el que se aprueba el Reglamento de Normas Básicas sobre Con-
+ciertos Educativos, se hace precisa la modificación del concierto educativo. 
+En su virtud,
+RESUELVO:
+Primero.– La modificación del concierto educativo suscrito con el
+centro «Medalla Milagrosa», sito en Paseo Santo Tomás, 35-37 de Ávila,
+por disminución de una unidad concertada de segundo curso de Bachille-
+rato, modalidad de Ciencias de la Naturaleza y la Salud, quedando esta-
+blecido un concierto educativo para ocho unidades de Educación Secun-
+daria Obligatoria (dos unidades por curso), una unidad de apoyo a
+Minorías en dicho nivel educativo y nueve unidades de Bachillerato (dos
+unidades de primer curso y dos unidades de segundo curso de la modali-
+dad de Humanidades y Ciencias Sociales, dos unidades de primer curso
+y una unidad de segundo curso de la modalidad de Ciencias de la Natu-
+raleza y la Salud y una unidad de primer curso y una unidad de segundo
+curso de la modalidad de Tecnología).
+Segundo.– La modificación se formalizará mediante diligencia firma-
+da por el Director Provincial de Educación de Ávila y el titular del cen-
+tro o persona con representación legal debidamente acreditada.
+
+19348
+Jueves, 10 de noviembre 2005
+B.O.C. y L. - N.º 217
+A tales efectos, la Dirección Provincial de Educación de Ávila notifi-
+cará al titular del centro la fecha, lugar y hora en que deberá firmarse el
+documento de formalización de la modificación del concierto en los tér-
+minos de la presente Orden.
+Entre la notificación y la firma deberá mediar un plazo mínimo de
+cuarenta y ocho horas.
+Tercero.– Si el titular del centro concertado, sin causa justificada, no
+suscribiese el documento de formalización de la modificación en la fecha
+establecida, la Administración procederá a realizarla de oficio, sin perjuicio
+de la posible aplicación al centro de lo dispuesto en los artículos 61 y 62 de
+la Ley Orgánica 8/1985, de 3 de julio, Reguladora del Derecho a la Edu-
+cación y 52 del Real Decreto 2377/1985, de 18 de diciembre, por el que se
+aprueba el Reglamento de Normas Básicas sobre Conciertos Educativos.
+Contra la presente Orden, que pone fin a la vía administrativa, cabe
+interponer potestativamente recurso de reposición en el plazo de un mes
+ante el Consejero de Educación, o bien directamente recurso contencioso
+administrativo ante la Sala de lo Contencioso-Administrativo del Tribu-
+nal Superior de Justicia de Castilla y León en el plazo de dos meses.
+Ambos plazos se computaran a partir del día siguiente al de su publica-
+ción en el «Boletín Oficial de Castilla y León».
+Valladolid, 4 de noviembre de 2005.
+El Consejero,
+Fdo.: FRANCISCO JAVIER ÁLVAREZ GUISASOLA
+ORDEN EDU/1478/2005, de 4 de noviembre, por la que se modifica el
+concierto educativo del centro «López Vicuña» de Palencia.
+De acuerdo con lo previsto en el artículo 46 del Real Decreto 2377/1985,
+de 18 de diciembre, por el que se aprueba el Reglamento de Normas Bási-
+cas sobre Conciertos Educativos, las variaciones que puedan producirse
+en los centros por alteración del número de unidades o por otras cir-
+cunstancias individualizadas darán lugar a la modificación del concierto
+educativo.
+El centro «López Vicuña» de Palencia presenta escrito en el que
+comunica que, una vez finalizado el proceso de escolarización en Ciclos
+formativos de grado medio para el curso académico 2005/2006, no ha puesto
+en funcionamiento, por falta de alumnado, el ciclo de «Confección».
+En consecuencia, de conformidad con lo establecido en el artículo
+anteriormente indicado, procede la modificación del concierto educativo.
+Por otro lado, el artículo 57.3 de la Ley 30/1992, de 26 de noviembre,
+de Régimen Jurídico de las Administraciones Públicas y del Procedi-
+miento Administrativo Común, excepcionalmente permite que se otorgue
+eficacia retroactiva a los actos cuando produzcan efectos favorables al
+interesado, siempre que los supuestos de hecho necesarios existieran ya
+en la fecha a que se retrotraiga la eficacia del acto y ésta no lesione dere-
+chos o intereses legítimos de otras personas.
+En su virtud,
+RESUELVO:
+Primero.– La modificación del concierto educativo suscrito con el
+centro «López Vicuña», sito en C/ Padre Higinio Aparicio, 1 de Palencia
+por disminución de una unidad concertada del Ciclo formativo de grado
+medio denominado «Confección», quedando establecido un concierto
+educativo para una unidad del Ciclo formativo de grado medio «Cuida-
+dos auxiliares de enfermería» y cinco unidades de Ciclos formativos de
+grado superior (una unidad de «Documentación Sanitaria», una unidad de
+«Higiene bucodental», una unidad de «Integración social» y una unidad
+de primer curso y una unidad de segundo curso de «Interpretación de la
+lengua de signos»).
+Segundo.– La modificación se formalizará mediante diligencia firma-
+da por el Director Provincial de Educación de Palencia y el titular del cen-
+tro o persona con representación legal debidamente acreditada.
+A tales efectos, la Dirección Provincial de Educación de Palencia
+notificará al titular del centro la fecha, lugar y hora en que deberá firmar-
+se el documento de formalización de la modificación del concierto en los
+términos de la presente Orden.
+Entre la notificación y la firma deberá mediar un plazo mínimo de
+cuarenta y ocho horas.
+Tercero.– Si el titular del centro concertado, sin causa justificada, no
+suscribiese el documento de formalización de la modificación en la fecha
+establecida, la Administración procederá a realizarla de oficio, sin perjui-
+cio de la posible aplicación al centro de lo dispuesto en los artículos 61 y
+62 de la Ley Orgánica 8/1985, de 3 de julio, Reguladora del Derecho a la
+Educación y 52 del Real Decreto 2377/1985, de 18 de diciembre, por el que se
+aprueba el Reglamento de Normas Básicas sobre Conciertos Educativos.
+Cuarto.– Se retrotraen los efectos de la presente Orden al inicio del
+curso académico 2005/2006.
+Contra la presente Orden, que pone fin a la vía administrativa, cabe
+interponer potestativamente recurso de reposición en el plazo de un mes
+ante el Consejero de Educación, o bien directamente recurso contencioso
+administrativo ante la Sala de lo Contencioso-Administrativo del Tribu-
+nal Superior de Justicia de Castilla y León en el plazo de dos meses.
+Ambos plazos se computarán a partir del día siguiente al de su publica-
+ción en el «Boletín Oficial de Castilla y León».
+Valladolid, 4 de noviembre de 2005.
+El Consejero,
+Fdo.: FRANCISCO JAVIER ÁLVAREZ GUISASOLA
+AYUNTAMIENTO DE BURGOS
+ACUERDO del Pleno del Ayuntamiento de Burgos de 20 de octubre de
+2005, relativo a la aprobación definitiva del Estudio de Detalle de
+Ordenación de Volúmenes del Mercado Municipal Sur de Burgos.
+El Excmo. Ayuntamiento Pleno, en sesión ordinaria celebrada el día
+20 de octubre de 2005, adoptó el siguiente acuerdo:
+Aprobar definitivamente el Estudio de Detalle de Ordenación de Volú-
+menes del Mercado Municipal Sur de Burgos en el Área de Intervención
+17.AI.3 (calles Calatravas, Miranda, Oviedo y Aranda), promovido por la
+empresa Mercados Centrales de Abastecimiento, S.A. (MERCASA).
+Contra la presente resolución, que pone fin a la vía administrativa,
+podrá interponerse en el plazo de dos meses, contados desde el día
+siguiente a la notificación, recurso contencioso-administrativo, en aplica-
+ción del Art. 8.1, párrafo final de la Ley 29/1998, de 13 de julio, Regula-
+dora de la Jurisdicción Contencioso-Administrativa, según redacción
+dada por la Ley Orgánica 19/2003, de 23 de diciembre, de modificación
+de la Ley Orgánica del Poder Judicial, ante la Sala de lo Contencioso-
+Administrativo del Tribunal Superior de Justicia de Castilla y León con
+sede en Burgos, de conformidad con el Art. 46 de la citada Ley 29/1998,
+o potestativamente y con carácter previo, podrá interponerse ante el
+mismo Órgano que dictó esta resolución, en el plazo de un mes contado
+desde el día siguiente al de su notificación, recurso de reposición, según
+disponen los artículos 116 y 117 de la Ley 30/1992, de 26 de noviembre,
+de Régimen Jurídico de las Administraciones Públicas y del Procedimiento
+Administrativo Común, conforme redacción dada por la Ley 4/1999, de 13
+de enero, de modificación de la anterior. Todo ello sin perjuicio de cua-
+lesquiera otras acciones que estime procedentes.
+Burgos, 27 de octubre de 2005.
+El Alcalde,
+Fdo.: JUAN CARLOS APARICIO PÉREZ

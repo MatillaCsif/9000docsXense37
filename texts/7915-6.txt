@@ -1,0 +1,269 @@
+2332
+Miércoles, 9 de febrero 2005
+B.O.C. y L. - N.º 27
+sente Reg l a m e n t o , el número máximo irá en función de una máquina por
+cada dos metros cuadrados de superficie útil destinada a juego en sentido
+e s t ri c t o , ex cluyéndose a estos efectos la superficie destinada a bar, s e rv i c i o s
+y dependencias no afectadas directamente a la actividad de juego. No obs-
+t a n t e, en caso de instalación de máquinas de dos o más juga d o res o aquéllas
+de competencia pura o dep o rt iva no incluidas en el Reglamento se deb e r á
+tomar en cuenta esta circunstancia para la deducción corre s p o n d i e n t e.
+2.– Las máquinas se colocarán de fo rma que ni ellas ni sus espacios de
+utilización obstaculicen los pasillos y vías de circulación que, en todo caso,
+d eberán tener un ancho mínimo de 1,50 metros en los salones infe ri o res a
+100 metros cuadra d o s , y de dos metros en los de superficie mayo r.
+Cuando se dispongan en hilera , la sep a ración entre los lat e rales de las
+máquinas o de éstas con cualquier tabique u obstáculo lat e ra l , sea de un
+mínimo de 0,30 metro s , o de 0,50 metro s , si en los lat e rales está puesta la
+documentación de la máquina, y dejen al jugador un espacio de 0,60 por
+0,60 metro s .
+VI.– Instalación eléctrica e iluminación.
+Será de aplicación lo dispuesto al respecto por el Reglamento Electro-
+técnico de Baja Te n s i ó n .
+V I I . – O t ras medidas de seg u ri d a d.
+En lo re l at ivo a cl a s i fi c a c i ó n , condiciones de compartimentación y mat e-
+ri a l e s , vías de evacuación y su señalización, salidas de emerge n c i a , e s c a l e-
+ra s , medidas de protección contra incendios, instalaciones de alarma y, e n
+ge n e ra l , n o rmas de seg u ridad de los locales, será de aplicación lo dispuesto
+en las disposiciones vigentes de protección contra incendios.
+V I I I . – Plan de emerge n c i a .
+En los establecimientos cuyo afo ro supere las 75 personas deben dispo-
+ner de teléfono. Será de aplicación lo dispuesto en la norm at iva en vigo r
+re fe rente al Plan de Emerge n c i a .
+ORDEN PAT / 1 3 6 / 2 0 0 5 , de 18 de enero , por la que se crea el Regi s t ro Te l e -
+mático de la A d m i n i s t ra c i ó n de la C o munidad de Castilla y León y se
+e s t ablecen cri t e rios ge n e rales para la presentación telemática de escri -
+t o s , solicitudes y comunicaciones de determinados pro c e d i m i e n t o s
+a d m i n i s t rat ivo s .
+El artículo 45 de la Ley 30/1992, de 26 de noviembre, deRégimen
+Jurídico de las Administraciones Públicas y del Procedimiento Adminis-
+trativo Común, insta a las Administraciones Públicas a que promuevan la
+incorporación de técnicas electrónicas, informáticas y telemáticas en el
+desarrollo de su actividad y en el ejercicio de sus competencias.
+El Decreto 2/2003, de 2 de enero, por el que se regulan los servicios
+de información y atención al ciudadano y la función de registro en la
+Administración de la Comunidad de Castilla y León, implanta el sistema
+de registro único y contempla tanto, el concepto de documento transmiti-
+do por medio electrónico, informático y  telemático, como, la posibilidad
+de crear registros telemáticos para la recepción o salida de documentos
+transmitidos mediante técnicas de teleadministración, en los términos y
+con los requisitos establecidos en el artículo 38.9 de la Ley 30/1992, de
+26 de noviembre, de Régimen Jurídico de las Administraciones Públicas
+y del Procedimiento Administrativo Común, y de acuerdo con lo que dis-
+ponga la normativa autonómica específica sobre esta materia.
+En función del grado de desarrollo actual de los medios técnicos que
+dispone la Administración de la Comunidad de Castilla y León, y sin per-
+juicio de la próxima regulación completa del sistema de Administración
+Electrónica previsto en la E s t rat egia Regional para la Sociedad de la
+I n fo rmación de Castilla y León 2003-2006, el III Plan Director de
+I n f ra e s t ru c t u ras y Servicios de Te l e c o municación de Castilla y León
+2004-2006 (PDIST III) y en el Plan Estratégico de Modernización de los
+Servicios Públicos de la Administración de Castilla y León 2004-2007,es
+p reciso posibilitar el comienzo de la presentación telemática de solicitudes,
+garantizándose su autenticidad, integridad, conservación y, en su caso, la
+recepción, todo ello con sujeción a lo dispuesto en la Ley 59/2003, de 19
+de diciembre, sobre Firma Electrónica, el artículo 45 de la Ley 30/1992 y
+demás normativa aplicable.
+La Disposición final primera del Decreto 2/2003,de 2 de enero,facul-
+ta al Consejero de Presidencia y Administración Territorial para dictar las
+disposiciones necesarias para su aplicación.
+Por todo ello,
+DISPONGO:
+Artículo 1.– Objeto.
+La presente Orden tiene por objeto crear el Registro Telemático de la
+A d m i n i s t ración de la C o munidad de Castilla y León y determinar los
+requisitos y condiciones técnicas que han de observarse para la presenta-
+ción telemática de escritos, solicitudes y comunicaciones.
+Artículo 2.– Registro Telemático de la Administración de la Comuni -
+dad de Castilla y León.
+1.– De acuerdo con lo dispuesto en el artículo 26 del Decreto 2/2003,
+de 2 de enero, por el que se regulan los servicios de información y aten-
+ción al ciudadano y la función de regi s t ro en la A d m i n i s t ración de la
+Comunidad de Castilla y León, se crea el del Registro Telemático de la
+Administración de la Comunidad de Castilla y León, a través del cual se
+podrán presentar las solicitudes, escritos y comunicaciones que se reali-
+cen por vía telemática, relativos a los procedimientos administrativos y
+trámites que se especifican en el Anexo de esta Orden o que en lo sucesi-
+vo se incorporan al mismo, ante la Administración General de la Comu-
+nidad, sus organismos autónomos y las entidades públicas de derecho pri-
+vado, en los términos previstos en el artículo 38 de la Ley 30/1992,de 26
+de noviembre, de Régimen Jurídico de lasAdministraciones Públicas y
+del Procedimiento Administrativo Común.
+2.– El acceso al regi s t ro telemático se realizará a través del portal ins-
+titucional de la Junta de Castilla y León, mediante la conexión a la dire c-
+ción http://www. j cyl.es y, en su caso, a través de las páginas Web de cada
+una de las C o n s e j e r í a s ,O rganismos Autónomos y Entes P ú blicos de Dere-
+cho Privado encargados de la tramitación de los distintos pro c e d i m i e n t o s .
+3.– El registro telemático cumplirá con los criterios de disponibilidad,
+autenticidad, integridad, confidencialidad y conservación y no repudio de
+la información.
+Artículo 3.– Funciones del Registro Telemático.
+El registro telemático realizará las siguientes funciones:
+a) La recepción de solicitudes, escritos y comunicaciones relativas a
+los procedimientos o trámites para los que se haya autorizado la
+utilización de técnicas de administración electrónica.
+b) La anotación electrónica del asiento de entrada inicial en la que se
+reflejarán la fecha y hora de registro de entrada; número de regis-
+tro; Naturaleza del documento y referencia a su contenido; Identi-
+ficación de la persona, órgano de esta Administración u otra Admi-
+nistración que lo presente o envíe; Identificación del órgano de la
+Administración a la que se dirige.
+c) Expedición de los recibos acre d i t at ivos de la presentación por
+parte de los ciudadanos de las solicitudes, escritos y comunicacio-
+nes que éstos dirijan a los órganos de la A d m i n i s t ración de la
+Comunidad de Castilla y León, haciéndose constar la identifica-
+ción del Regi s t ro Telemático de la Junta de Castilla y León, e l
+número de transmisión, y el número de registro, fecha y hora de
+registro.
+Artículo 4.– Presentación de solicitudes, escritos y comunicaciones
+en el registro telemático.
+1 . – El regi s t ro telemático admitirá la presentación de solicitudes,
+escritos y comunicaciones que se remitan por vía telemática mediante
+firma electrónica avanzada, relacionados con los procedimientos y trámi-
+tes incluidos en el Anexo de la presente Orden o los que en lo sucesivo se
+incorporen al mismo.
+2.– Pa ra la presentación telemática de solicitudes, e s c ritos y comu n i c a-
+ciones se utilizarán los modelos normalizados disponibles para cada pro c e d i-
+miento en el sitio Web de la Junta de Castilla y León htpp://www. j cy l . e s .
+3.– Para presentación telemática los interesados deberán disponer de
+c e rt i ficado digital de clase 2CA emitido por la F á b rica Nacional de
+Moneda y Timbre.
+4.– La presentación por dicho medio tendrá carácter voluntario para
+los interesados,siendo alternativa a la utilización de los lugares señalados
+en el artículo 38.4 de la Ley 30/1992, de 26 de noviembre, con la excep-
+ción de los supuestos contemplados en una norma con rango de ley.
+
+B.O.C. y L. - N.º 27
+Miércoles, 9 de febrero 2005
+2333
+5.– La presentación de solicitudes, escritos y comunicaciones en el
+regi s t ro telemático tendrá idénticos efectos que la efectuada por los
+demás medios admitidos en el artículo 38.4 de la Ley 30/1992, de 26 de
+noviembre.
+6.– Cualquier solicitud, escrito y comunicación que el interesado pre-
+sente ante el Registro Telemático no relacionado con los procedimientos
+y trámites a que se refiere el Anexo de la presente Orden, no producirá
+ningún efecto y se tendrá por no presentado, indicándose al interesado los
+registros y lugares que, para su presentación, habilita el artículo 38.4 de
+la Ley 30/1992, de 26 de noviembre.
+Artículo 5.– Recepción y cómputo de plazos.
+1.– El regi s t ro telemático funcionará durante las 24 horas del día
+todos los días del año y se regirá por la fecha y hora oficial española.
+2.– A los efectos del cómputo de plazo, la recepción en un día inhá-
+bil se entenderá efectuada el primer día hábil siguiente. Serán considera-
+dos días inhábiles para el registro telemático y para los usuarios de éste
+sólo los así declarados en el calendario anual de días inhábiles en el ámbi-
+to de la Comunidad de Castilla y León.
+3 . – Sólo cuando concurran ra zones justificadas de mantenimiento
+técnico u operativo podrá interrumpirse, por el tiempo imprescindible la
+re c epción de solicitudes, e s c ritos y comu n i c a c i o n e s . La interru p c i ó n
+deberá anunciarse a los potenciales usuarios del registro telemático con la
+antelación que, en su caso, resulte posible. En supuestos de interrupción
+no planificada en el funcionamiento del registro telemático, y siempre
+que sea posible, el usuario visualizará un mensaje en que se comunique
+tal circunstancia.
+4.– El registro emitirá por el mismo medio un mensaje de confirma-
+ción de la recepción, firmado electrónicamente por la Administración, en
+el que constarán los datos proporcionados por el interesado, junto con la
+fecha, hora y número de registro. El mensaje de confirmación podrá ser
+impreso o archivado informáticamente por el interesado y garantiza la
+identidad del registro, tendrá  el valor de recibo de presentación a efectos
+de lo dispuesto en el artículo 70.3 de la Ley 30/1992 de Régimen Jurídi-
+co de las Administraciones Públicas y del Procedimiento Administrativo
+Común. El usuario será advertido de que la no recepción del mensaje de
+confirmación o, en su caso, la recepción de un mensaje de indicación de
+error o deficiencia de la transmisión implica que no se ha producido la
+recepción, debiendo realizarse la presentación en otro momento o utili-
+zando otros medios.
+DISPOSICIÓN FINAL
+La presente Orden entrará en vigor al día siguiente de su publicación
+en el «Boletín Oficial de Castilla y León».
+Valladolid, 18 de enero de 2005.
+ElConsejero de Presidencia
+y Administración Territorial,
+Fdo.: ALFONSO FERNÁNDEZ MAÑUECO
+ANEXO
+PROCEDIMIENTOS Y TRÁMITES SUSCEPTIBLES 
+DE PRESENTACIÓN A TRAVÉS DEL REGISTRO TELEMÁTICO
+AGENCIA DE DESARROLLO ECONÓMICO (CONSEJERÍA DE
+ECONOMÍA Y EMPLEO).
+PROCEDIMIENTOS: Ayudas a las PYMES. Agencia de Desarrollo
+Económico.
+TRÁMITES SUSCEPTIBLES DE REALIZACIÓN ANTE EL
+REGISTRO TELEMÁTICO:
+Presentación de solicitud de inicio del procedimiento. Para la presen-
+tación de solicitudes se utilizarán los modelos normalizados disponibles
+para cada procedimiento en el sitio Web de la Junta de Castilla y León
+htpp://www.jcyl.es.
+REQUISITOS TÉCNICOS.
+Pa ra presentar escritos en el regi s t ro telemático es necesario disponer de
+un cert i ficado re c o n o c i d o : C e rt i ficado digital de clase 2CA emitido por la
+F á b rica Nacional de Moneda y Ti m b re, de acuerdo con las previsiones con-
+tenidas en la página Web http://www. c e rt . f n m t . e s / cl a s e 2 / m a i n . h t m .
+CONSEJERÍA DE SANIDA D
+D E C R E TO 13/2005, de 3 de febrero, por el que se regula el derecho a
+la información y los derechos económicos de los usuarios de centros
+privados en los que se impa rten enseñanzas no reg l a d a s .
+La protección de los legítimos intereses económicos de los consumido-
+res y usuari o s , así como la info rmación correcta que facilite el uso y disfru-
+te de los bienes y serv i c i o s , son dere chos re c ogidos en el artículo 3.º1 de la
+L ey 11/1998, de 5 de diciembre para la D e fensa de los Consumidores y
+U s u a rios de Castilla y León.
+En este sentido, el presente Decreto va a tener por objeto regular los
+d e re chos a la info rmación y a la protección de los intereses económicos de
+los consumidores y usuarios en sus relaciones con los centros privados que
+i m p a rten enseñanzas no reg l a d a s , los cuales quedan ex cluidos de la reg u l a-
+ción del dere cho administrat ivo sectori a l , tal como así ha previsto la Ley
+O rgánica 8/1985, de 3 de julio, R eg u l a d o ra del D e re cho a la E d u c a c i ó n , a l
+e s t ablecer que los centros privados que imparten enseñanzas no diri gidas a
+la obtención de un título con validez académica se regirán por lo dispuesto
+en las normas de dere cho común, teniendo prohibida la utilización de las
+denominaciones establecidas para los centros docentes.
+La ex p e riencia acumulada en los últimos años, la evolución de nu eva s
+técnicas de ap rendizaje así como el surgimiento e incremento de nu evos sis-
+temas de financiación de los servicios prestados por dichos centros justifi-
+can la necesidad de ap robar una nu eva disposición norm at iva que sustituya
+al Decreto 82/1995, de 11 de mayo , por el que se regula el dere cho a la info r-
+mación y los dere chos económicos de los usuarios de centros privados que
+i m p a rten enseñanzas no diri gidas a la obtención de un título con validez aca-
+d é m i c a .
+De esta fo rm a , mediante este D e c re t o , se pretende dar respuesta a nu m e-
+rosas cuestiones que se plantean en relación con la ofe rt a ,p ro m o c i ó n ,p u bl i-
+cidad e info rmación sobre los cursos a impart i r, el contrat o , la prestación del
+s e rv i c i o , la fa c t u ra o justificante de pago que se entrega a los alumnos, el sis-
+tema de re clamaciones para ex i gir sus dere chos en el centro . Pe ro además,
+se regula por pri m e ra vez la info rmación re l at iva a las fo rmas de pago y de
+financiación posible con el fin de lograr la mayor tra n s p a rencia y cl a ridad en
+el pago , ya sea al contado, a plazos o mediante la financiación de un terc e ro .
+E s t e D e c reto se dicta en el marco de las competencias de desarrollo nor-
+m at ivo y de ejecución que la Comunidad de Castilla y León tiene asumidas
+en mat e ria de defensa de los consumidores y usuarios en el artículo 34.1.4.ª
+del Estatuto de Autonomía de Castilla y L e ó n .
+En la tramitación del procedimiento llevado a cabo para la ap ro b a c i ó n
+del presente Decre t o , se ha dado audiencia al Consejo Castellano y Leonés
+d eC o n s u m i d o res y Usuarios y a los sectores afe c t a d o s .
+En su virtud, la Junta de Castilla y León, a propuesta del Consejero
+de Sanidad, de acuerdo con el Consejo Consultivo de Castilla y León, y
+previa deliberación del Consejo de Gobierno en su reunión del día 3 de
+febrero de 2005
+D I S P O N E :
+A rtículo 1.– O b j e t o .
+1.– El presente Decreto tiene por objeto regular en el ámbito de la
+Comunidad Autónoma de Castilla y León, los derechos a la información
+y a la protección de los intereses económicos de los usuarios de centros
+privados en los que se imparten enseñanzas que no conducen a la obten-
+ción de un título con validez académica, no incluidas, por tanto,en el sis-
+tema educativo.
+2.– Los servicios y actividades llevados a cabo como complemento de
+las enseñanzas impart i d a s , se regularán por las normas específicas que re s u l-
+ten ap l i c ables y, en todo caso, por las disposiciones sobre la publicidad y
+m a rcado de pre c i o s .
+3.– Cuando alguna de las enseñanzas previstas en la presente disposi-
+ción sea objeto de normas sectoriales específicas que regule estos dere-
+chos, los centros privados que la impartan se regirán por ella, siendo de
+aplicación el presente Decreto en todos aquellos aspectos no contempla-
+dos por dicha normativa.
+A rtículo 2.– Ámbito de ap l i c a c i ó n .
+Quedan incluidas en el ámbito de aplicación de este D e c re t o , las pers o-
+nas físicas o jurídicas que sean titulares de centros que impartan en el terri-
+t o rio de Castilla y León enseñanzas que no conduzcan a la obtención de un

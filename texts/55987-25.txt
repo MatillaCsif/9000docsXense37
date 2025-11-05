@@ -1,0 +1,221 @@
+15064
+Martes, 8 de agosto 2006
+B.O.C. y L. - N.º 152
+Estructura básica del fichero y descripción de los datos de carácter
+personal: Base de Datos:
+– Datos de carácter identificativo, aquellos que permiten la identifica-
+ción del usuario y el enlace con el fichero lógico de usuarios del sis-
+tema sanitario (número de historia, nombre apellidos, ...).
+– Datos de salud, aquellos generados por la actividad clínica de cada
+una de la fases.
+– Datos de anamnesis (antecedentes, familiares, personales, …)
+– Procedimientos y datos diagnósticos (analíticas, códigos diagnós-
+ticos, …).
+– Procedimientos y datos terapéuticos:
+• Tratamiento medico, fármacos, …
+• Tratamiento quirúrgico, códigos, procedimientos quirúrgicos.
+– Datos de rehabilitación.
+– Datos diagnósticos.
+– Otros datos de interés en salud (procedimientos preventivos, datos
+epidemiológicos).
+Cesiones previstas: Organismos del Sistema Sanitario, organismos ofi-
+ciales de estadística y empresas privadas del sector que realizan asistencia
+médica a domicilio.
+Órgano de la Administración responsable del fichero: Complejo Asis-
+tencial de Zamora.
+Servicio o unidad ante el que pueden ejercitarse los derechos de acce-
+so, rectificación y cancelación: Complejo Asistencial de Zamora.
+Nivel de seguridad: Alto.
+4. NOMBRE DEL FICHERO: Gestión de personal.
+Fines y usos: Gestión de expedientes, contrataciones, bajas, jubilacio-
+nes, conceptos retributivos, control de absentismo, estadísticas de personal,
+elaboración de la nómina y todo lo relacionado con la gestión de personal
+de un centro. utilización como herramienta en la confección de estadísticas.
+Personas o colectivos afectados: Personas con vinculación laboral, fun-
+cionarial o estatutaria con el centro.
+Procedimiento de recogida y procedencia de los datos: El propio suje-
+to de forma directa, impresos generados por el Centro, personal propio del
+Centro.
+Estructura básica del fichero y descripción de los datos de carácter
+personal: Base de Datos:
+– Personales (nombre, Documento Nacional de Identidad, nº Seg.
+Social).
+– Administrativos (categoría, cuerpo/escala, antigüedad).
+– Familiares (estado civil, componentes de la familia).
+– Académicos (titulaciones, cursos).
+– Económicos (conceptos retributivos).
+– Bancarios (banco, cuenta).
+– Sindicales (afiliación sindical).
+Cesiones previstas: Ministerio de Trabajo y Seguridad Social, Ministe-
+rio de Economía y Hacienda, organismos oficiales de estadísticos, Registro
+Central de Personal (M.S.C. y M.A.P.), entidad bancaria a la que se envían
+los datos para el pago de los empleados y órganos oficiales con competen-
+cias en materia de personal.
+Órgano de la Administración responsable del fichero: Complejo Asis-
+tencial de Zamora.
+Servicio o unidad ante el que pueden ejercitarse los derechos de acce-
+so, rectificación y cancelación: Complejo Asistencial de Zamora.
+Nivel de seguridad: Alto.
+ANEXO III
+FICHEROS SUPRIMIDOS
+1. NOMBRE DEL FICHERO: Usuarios del sistema sanitario.
+Fines y usos: Conocer la identidad del paciente así como sus datos per-
+sonales y los relativos a facturación del servicio prestado, estado de salud,
+inicial y final, para la identificación y asociación, datos historia clínica, ges-
+tión actividad asistencia, financiera, docente, producción de estadísticas e
+investigación sanitaria.
+Órgano de la Administración responsable del fichero: Complejo Asis-
+tencial de León.
+2. NOMBRE DEL FICHERO: Usuarios del sistema sanitario.
+Fines y usos: Conocer la identidad del paciente así como sus datos per-
+sonales y los relativos a facturación del servicio prestado, estado de salud,
+inicial y final, para la identificación y asociación, datos historia clínica, ges-
+tión actividad asistencia, financiera, docente, producción de estadísticas e
+investigación sanitaria.
+Órgano de la Administración responsable del fichero: Complejo Asis-
+tencial de Zamora.
+CONSEJERÍA DE EDUCACIÓN
+RESOLUCIÓN de 27 de julio de 2006, de la Dirección General de Pla-
+nificación y Ordenación Educativa, por la que se publica la parte dis-
+positiva de la Resolución de la misma fecha y de la misma Dirección
+General, por la que se modifica la autorización del Centro Priva-
+do«López Vicuña», de Palencia.
+Visto el expediente instruido a instancia de la representación legal de la
+titularidad del Centro privado «LÓPEZ VICUÑA», sito en C/ Padre Higi-
+nio Aparicio, 1, de Palencia, en relación con la solicitud de modificación de
+autorización de apertura y funcionamiento para la extinción de la autoriza-
+ción del Ciclo Formativo de Grado Medio de Confección y para la implan-
+tación del Ciclo Formativo de Grado Superior de Dietética, esta Dirección
+General, a tenor de lo dispuesto en el artículo 14.4. del Real Decreto
+332/1992, de 3 de abril, sobre autorizaciones de centros docentes privados,
+para impartir enseñanzas de régimen general no universitarias, procede, por
+la presente Resolución, a dar cumplimiento a lo establecido en dicho pre-
+cepto, con la publicación de la parte dispositiva de la Resolución de 27 de
+julio de 2006, de la Dirección General de Planificación y Ordenación Edu-
+cativa, por la que se modifica la autorización del Centro mencionado:
+Primero.– Modificar la autorización de apertura y funcionamiento del
+Centro privado de Formación Profesional «LÓPEZ VICUÑA»
+(34001777), sito en la calle Padre Higinio Aparicio, 1, de Palencia, para la
+extinción de la autorización del Ciclo Formativo de Grado Medio de Con-
+fección, y para la implantación en el mismo del Ciclo Formativo de Grado
+Superior de Dietética, con una capacidad de 2 unidades y una dotación
+máxima de 25 puestos escolares por unidad, de forma que el Centro queda
+configurado del modo siguiente:
+Denominación genérica: Centro de Formación Profesional.
+Denominación específica: LÓPEZ VICUÑA.
+Titular: Congregación Religiosas de María Inmaculada.
+Domicilio. C/ Padre Higinio Aparicio, 1.
+Localidad: Palencia.
+Municipio: Palencia.
+Provincia: Palencia.
+
+Enseñanzas autorizadas:
+A) Ciclos Formativos de Grado Medio:
+– Cuidados Auxiliares de Enfermería: capacidad: 1 grupo, 30 puestos
+escolares.
+B) Ciclos Formativos de Grado Superior:
+– Documentación Sanitaria: capacidad: 1 grupo, 30 puestos escolares.
+– Higiene Bucodental: capacidad: 1 grupo, 30 puestos escolares.
+– Integración Social: capacidad: 1 grupo, 30 puestos escolares.
+– Interpretación de Lenguajes de Signos: capacidad: 2 grupos, 60
+puestos escolares. 
+– Dietética: capacidad: 2 grupos, 50 puestos escolares. 
+Segundo.– La presente modificación de autorización de apertura y fun-
+cionamiento se comunicará de oficio al Registro de centros docentes de la
+Comunidad de Castilla y León.
+Tercero.– La presente modificación de la autorización surtirá efecto a
+partir del curso académico inmediatamente siguiente al de su fecha, es
+decir, a partir del curso académico 2006/2007.
+Cuarto.– Con carácter previo al inicio de las actividades educativas
+correspondientes al Ciclo Formativo de Grado Superior de Dietética, que se
+autoriza por la presente Resolución, el Centro deberá cumplir los requisitos
+de equipamiento que, con carácter de requisitos mínimos, se acompañan
+como Anexo y cuya comprobación se realizará por el Área de Inspección
+Educativa de la Dirección Provincial de Educación de Palencia.
+Quinto.– Antes del inicio de las actividades educativas del Ciclo For-
+mativo de Grado Superior de Dietética que se autoriza por la presente Reso-
+lución, la Dirección Provincial de Educación de Palencia, previo informe
+del Área de Inspección Educativa, aprobará expresamente la relación del
+personal que impartirá docencia en el Ciclo Formativo de Grado Superior
+de Dietética, que cumplirá los requisitos establecidos en la Orden de 23 de
+febrero de 1998 («B.O.E.» núm. 50, de 27 de febrero), por la que se regu-
+lan las titulaciones mínimas y condiciones que deben poseer los profesores
+para impartir formación profesional específica en los centros privados y en
+determinados centros de titularidad pública.
+Sexto.– El Centro de Formación Profesional al que se refiere la presen-
+te Resolución deberá cumplir la Norma Básica de la Edificación NBE-
+CPI/96 de condiciones de protección contra incendios en los edificios,
+aprobada por el Real Decreto 2177/1996, de 4 de octubre. Todo ello sin per-
+juicio de que hayan de cumplirse otros requisitos establecidos por la nor-
+mativa municipal o autonómica correspondiente.
+Contra la presente Resolución, que no pone fin a la vía administrativa,
+podrá interponerse recurso de alzada ante el Consejero de Educación, en el
+plazo de un mes, a computar desde el día siguiente al de su notificación, de
+conformidad con lo establecido en los artículos 107 y 114 de la Ley
+30/1992, de 26 de noviembre, de Régimen Jurídico de las Administracio-
+nes Públicas y del Procedimiento Administrativo Común, en relación con
+el artículo 60 de la Ley 3/2001, de 3 de julio, del Gobierno y de la Admi-
+nistración de la Comunidad de Castilla y León. 
+Valladolid, 27 de julio de 2006.
+El Director General de Planificación
+y Ordenación Educativa,
+(P.O. Orden de 21 de julio de 2006)
+El Director General 
+de Universidades e Investigación,
+Fdo.: JUAN JOSÉ MATEOS OTERO
+CONSEJERÍA DE CULTURA Y TURISMO
+ORDEN CYT/1288/2006, de 19 de julio, por la que se declara Fiesta de
+Interés Turístico de Castilla y León.
+Mediante Orden de 14 de marzo, de la Consejería de Cultura y Turis-
+mo, se regula la declaración de «Fiestas de Interés Turístico de Castilla y
+León».
+Elevada, con fecha de 13 de julio de 2006, la Propuesta de Resolución
+de la Comisión Permanente del Consejo de Turismo de Castilla y León, y
+de conformidad con lo previsto en el artículo 7.1 de la precitada Orden
+reguladora,
+RESUELVE:
+Declarar Fiesta de Interés Turístico de Castilla y León, a la que a con-
+tinuación se detalla:
+• «Semana Santa», de Burgos.
+Contra la presente Orden, que pone fin a la vía administrativa, cabe
+interponer recurso contencioso-administrativo en el plazo de dos meses,
+contabilizados desde el día siguiente a su publicación, ante el correspon-
+diente Juzgado de lo contencioso-administrativo, de conformidad con lo
+dispuesto en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico
+de las Administraciones Públicas del Procedimiento Administrativo
+Común, y en los artículos 8, 14 y 46 de la Ley 29/1998, de 13 de julio,
+reguladora de la jurisdicción contencioso-administrativa, o bien, con
+carácter potestativo, recurso de reposición ante el mismo órgano que la ha
+dictado, en el plazo de un mes, a contar desde el día siguiente a su publi-
+cación, de acuerdo con lo dispuesto en los artículos 116 y 117 de la Ley
+30/1992, significándose que en este caso no se podrá interponer recurso
+contencioso-administrativo hasta que sea resuelto expresamente o se haya
+producido la desestimación presunta del mismo, en virtud de lo dispues-
+to en la Ley 4/1999, de 13 de enero, de modificación de la Ley 30/1992.
+Valladolid, 19 de julio de 2006.
+La Consejera 
+de Cultura y Turismo,
+Fdo.: SILVIA CLEMENTE MUNICIO
+AYUNTAMIENTO DE CASTRILLO DE CABRERA
+(LEÓN)
+ACUERDO del Pleno del Ayuntamiento de Castrillo de Cabrera (León)
+de 25 de junio de 2005, por el que se aprueba el Escudo Heráldico y
+Bandera Municipal.
+El Pleno del Ayuntamiento de Castrillo de Cabrera en sesión celebrada
+el día 25 de junio de 2005, en el ejercicio de las funciones delegadas por la
+Comunidad Autónoma de Castilla y León a los Ayuntamientos, mediante
+Ley 1/1998 de 4 de junio, de Régimen Local de Castilla y León, y de con-
+formidad con la tramitación del Art. 28 de dicho texto, y con el fallo favo-
+rable del expediente por el Cronista de Armas de Castilla y León; acordó
+aprobar el Escudo Heráldico y Bandera Municipal, ateniéndose a las Leyes
+y Reglas de Heráldica y Vexilología, con la siguiente descripción:
+Escudo Heráldico.– Escudo cortado y medio partido. 1.º de gules, torre
+de oro mazonada de sable y aclarada de azur, orlada de seis cruces griegas
+de oro. 2.º de azur, genciana de oro. 3.º de oro, dos cabras pasantes de sable,
+linguadas de gules, puestas en palo. Al timbre Corona Real cerrada.
+Bandera Municipal.– Bandera rectangular de proporciones 2:3, forma-
+da por un paño rojo con una torre amarilla mazonada de negro, orlada en
+círculo de seis cruces griegas amarillas.
+B.O.C. y L. - N.º 152
+Martes, 8 de agosto 2006
+15065

@@ -1,0 +1,2184 @@
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67747
+Miércoles, 1 de septiembre de 2010
+I. COMUNIDAD DE CASTILLA Y LEÓN
+A. DISPOSICIONES GENERALES
+CONSEJERÍA DE EDUCACIÓN
+DECRETO 33/2010, de 26 de agosto, por el que se establece el currículo 
+correspondiente al título de Técnico Superior en Administración de Sistemas Informáticos 
+en Red en la Comunidad de Castilla y León.
+El artículo 73.1 del Estatuto de Autonomía de Castilla y León, atribuye a la Comunidad 
+de Castilla y León la competencia de desarrollo legislativo y ejecución de la enseñanza 
+en toda su extensión, niveles y grados, modalidades y especialidades, de acuerdo con 
+el derecho a la educación que todos los ciudadanos tienen, según lo establecido en el 
+artículo 27 de la Constitución Española y las leyes orgánicas que lo desarrollan.
+La Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación 
+Profesional, establece en el artículo 10.1 que la Administración General del Estado, 
+determinará los títulos y los certificados de profesionalidad, que constituirán las ofertas de 
+formación profesional referidas al Catálogo Nacional de Cualificaciones Profesionales.
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación, determina en su artículo 39.6 
+que el Gobierno, establecerá las titulaciones correspondientes a los estudios de formación 
+profesional, así como los aspectos básicos del currículo de cada una de ellas.
+El Real Decreto 1538/2006, de 15 de diciembre, por el que se establece la 
+ordenación general de la formación profesional del sistema educativo define en el 
+artículo 6, la estructura de los títulos de formación profesional, tomando como base el 
+Catálogo Nacional de Cualificaciones Profesionales, las directrices fijadas por la Unión 
+Europea y otros aspectos de interés social. El artículo 7 concreta el perfil profesional 
+de dichos títulos, que incluirá la competencia general, las competencias profesionales, 
+personales y sociales, las cualificaciones y, en su caso, las unidades de competencia del 
+Catálogo Nacional de Cualificaciones Profesionales incluidas en los títulos.
+Por otro lado, el artículo 17 del citado Real Decreto 1538/2006, de 15 de diciembre, 
+dispone que las Administraciones educativas establecerán los currículos de las enseñanzas 
+de formación profesional respetando lo en él dispuesto y en las normas que regulen los 
+títulos respectivos.
+Posteriormente, el Real Decreto 1629/2009, de 30 de octubre, establece el título 
+de Técnico Superior en Administración de Sistemas Informáticos en Red y se fijan sus 
+enseñanzas mínimas, y dispone en el artículo 1, que sustituye a la regulación del título 
+de Técnico Superior en Administración de Sistemas Informáticos, contenida en el Real 
+Decreto 1660/1994, de 22 de julio.
+El presente Decreto establece el currículo correspondiente al título de Técnico 
+Superior en Administración de Sistemas Informáticos en Red en la Comunidad de Castilla 
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67748
+Miércoles, 1 de septiembre de 2010
+y León, teniendo en cuenta los principios generales que han de orientar la actividad 
+educativa, según lo previsto en el artículo 1 de la Ley Orgánica 2/2006, de 3 de mayo, de 
+Educación. Pretende dar respuesta a las necesidades generales de cualificación de los 
+recursos humanos para su incorporación a la estructura productiva de la Comunidad de 
+Castilla y León.
+En el proceso de elaboración de este Decreto se ha recabado dictamen del Consejo 
+Escolar de Castilla y León e informe del Consejo de Formación Profesional de Castilla y 
+León.
+En su virtud, la Junta de Castilla y León, a propuesta del Consejero de Educación, y 
+previa deliberación del Consejo de Gobierno en su reunión de 26 de agosto de 2010
+DISPONE:
+Artículo 1.– Objeto y ámbito de aplicación.
+El presente Decreto tiene por objeto establecer el currículo del título de Técnico 
+Superior en Administración de Sistemas Informáticos en Red en la Comunidad de Castilla 
+y León. 
+Artículo 2.– Identificación del título.
+El título de Técnico Superior en Administración de Sistemas Informáticos en Red 
+queda identificado en la Comunidad de Castilla y León por los elementos determinados 
+en el artículo 2 del Real Decreto 1629/2009, de 30 de octubre, por el que se establece el 
+citado título y se fijan sus enseñanzas mínimas, y por un código, de la forma siguiente:
+FAMILIA PROFESIONAL: Informática y Comunicaciones.
+DENOMINACIÓN: Administración de Sistemas Informáticos en Red.
+NIVEL: Formación Profesional de Grado Superior.
+DURACIÓN: 2.000 horas.
+REFERENTE EUROPEO: CINE-5b (Clasificación Internacional Normalizada de la 
+Educación).
+CÓDIGO: IFC01S.
+Artículo 3.– Referentes de la formación.
+1. Los aspectos relativos al perfil profesional del título determinado por la competencia 
+general, por las competencias profesionales, personales y sociales, la relación de 
+cualificaciones y por las unidades de competencia del Catálogo Nacional de Cualificaciones 
+Profesionales incluidas en el título, el entorno profesional y la prospectiva del título en el 
+sector o sectores, son los que se especifican en el Real Decreto 1629/2009, de 30 de 
+octubre.
+2. El aspecto relativo al entorno productivo en Castilla y León es el que se determina 
+en el Anexo I.
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67749
+Miércoles, 1 de septiembre de 2010
+Artículo 4.– Objetivos generales.
+Los objetivos generales del ciclo formativo serán los establecidos en el artículo 9 del 
+Real Decreto 1629/2009, de 30 de octubre.
+Artículo 5.– Principios metodológicos generales.
+1. La metodología didáctica de las enseñanzas de formación profesional integrará 
+los aspectos científicos, tecnológicos y organizativos que en cada caso correspondan, con 
+el fin de que el alumnado adquiera una visión global de los procesos productivos propios 
+de la actividad profesional correspondiente.
+2. Las enseñanzas de formación profesional para personas adultas se organizarán 
+con una metodología flexible y abierta, basada en el autoaprendizaje.
+Artículo 6.– Módulos profesionales del ciclo formativo.
+Los módulos profesionales que componen el ciclo formativo de Técnico Superior en 
+Administración de Sistemas Informáticos en Red son los establecidos en el artículo 10 del 
+Real Decreto 1629/2009, de 30 de octubre:
+0369. 	 Implantación de sistemas operativos.
+0370. 	 Planificación y administración de redes.
+0371. 	 Fundamentos de hardware.
+0372. 	 Gestión de bases de datos.
+0373. 	 Lenguajes de marcas y sistemas de gestión de información.
+0374. 	 Administración de sistemas operativos.
+0375. 	 Servicios de red e Internet.
+0376. 	 Implantación de aplicaciones web.
+0377. 	 Administración de sistemas gestores de bases de datos.
+0378. 	 Seguridad y alta disponibilidad.
+0379. 	 Proyecto de administración de sistemas informáticos en red.
+0380. 	 Formación y orientación laboral.
+0381.	
+Empresa e iniciativa emprendedora.
+0382. 	 Formación en centros de trabajo.
+Artículo 7.– Objetivos, contenidos, duración y orientaciones pedagógicas y 
+metodológicas de cada módulo profesional.
+Los objetivos de los módulos profesionales relacionados en el artículo 6, expresados 
+en términos de resultados de aprendizaje, y sus criterios de evaluación, son los establecidos 
+en el Real Decreto 1629/2009, de 30 de octubre. 
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67750
+Miércoles, 1 de septiembre de 2010
+Por su parte, los contenidos, la duración y las orientaciones pedagógicas y 
+metodológicas de los módulos profesionales «Implantación de sistemas operativos», 
+«Planificación y administración de redes», «Fundamentos de hardware», «Gestión de bases 
+de datos», «Lenguajes de marcas y sistemas de gestión de información», «Administración 
+de sistemas operativos», «Servicios de red e Internet», «Implantación de aplicaciones 
+web», «Administración de sistemas gestores de bases de datos», «Seguridad y alta 
+disponibilidad», «Formación y orientación laboral» y «Empresa e iniciativa emprendedora», 
+son los que se establecen en el Anexo II. Asimismo, en el citado anexo se establece 
+la duración y las orientaciones pedagógicas y metodológicas del módulo profesional 
+«Proyecto de administración de sistemas informáticos en red», así como la duración del 
+módulo profesional «Formación en centros de trabajo».
+Artículo 8.– Módulos profesionales de «Formación en centros de trabajo» y «Proyecto 
+de administración de sistemas informáticos en red».
+1. El programa formativo del módulo profesional de «Formación en Centros de 
+Trabajo» será individualizado para cada alumno y se elaborará teniendo en cuenta las 
+características del centro de trabajo. Deberá recoger las actividades formativas que permitan 
+ejecutar o completar la competencia profesional correspondiente al título, los resultados 
+de aprendizaje y los criterios de evaluación previstos en el Real Decreto 1629/2009, de 30 
+de octubre.
+2. El módulo profesional de «Proyecto de administración de sistemas informáticos 
+en red» se definirá de acuerdo con las características de la actividad laboral del ámbito del 
+ciclo formativo y con aspectos relativos al ejercicio profesional y a la gestión empresarial. 
+Tendrá por objeto la integración de las diversas capacidades y conocimientos del currículo 
+del ciclo formativo, contemplará las variables tecnológicas y organizativas relacionadas 
+con el título, y deberá ajustarse a los resultados de aprendizaje y criterios de evaluación 
+previstos en el Real Decreto 1629/2009, de 30 de octubre. 
+El departamento de la familia profesional de Informática y Comunicaciones 
+determinará, en el marco de la programación general anual, los proyectos que se propondrán 
+para su desarrollo por el alumnado. Los proyectos también podrán ser propuestos por el 
+alumnado, en cuyo caso se requerirá la aceptación del departamento.
+Con carácter general, el módulo profesional de «Proyecto de administración de 
+sistemas informáticos en red» se desarrollará simultáneamente al módulo profesional de 
+«Formación en centros de trabajo», salvo que concurran otras circunstancias que no lo 
+permitan.
+El módulo profesional de «Proyecto de administración de sistemas informáticos en 
+red» puede ser equivalente con el desarrollo de un Proyecto de Innovación, en el que 
+participe el alumno, cuando tenga un componente integrador de los contenidos de los 
+módulos profesionales que constituyen el ciclo formativo.
+Artículo 9.– Organización y distribución horaria. 
+Los módulos profesionales que forman las enseñanzas del ciclo formativo de Técnico 
+Superior en Administración de Sistemas Informáticos en Red se organizarán en dos cursos 
+académicos. Su distribución en cada uno de ellos y la asignación horaria semanal se 
+recoge en el Anexo III.
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67751
+Miércoles, 1 de septiembre de 2010
+Artículo 10.– Adaptaciones Curriculares.
+1. Con objeto de ofrecer a todas las personas la oportunidad de adquirir una formación 
+básica, ampliar y renovar sus conocimientos, habilidades y destrezas de modo permanente 
+y facilitar el acceso a las enseñanzas de formación profesional, la Consejería competente 
+en materia de educación podrá flexibilizar la oferta del ciclo formativo de Técnico Superior 
+en Administración de Sistemas Informáticos en Red permitiendo, principalmente a los 
+adultos, la posibilidad de combinar el estudio y la formación con la actividad laboral o con 
+otras actividades, respondiendo así a las necesidades e intereses personales.
+2. También se podrá adecuar las enseñanzas de este ciclo formativo a las 
+características de la educación a distancia, así como a las características de los alumnos 
+con necesidades educativas específicas.
+Artículo 11.– Accesos y vinculación a otros estudios y correspondencia de módulos 
+profesionales con las unidades de competencia.
+El acceso y vinculación a otros estudios, y la correspondencia de los módulos 
+profesionales con las unidades de competencia son los que se establecen en el 
+Capítulo IV del Real Decreto 1629/2009, de 30 de octubre.
+Artículo 12.– Enseñanzas impartidas en lenguas extranjeras o en lenguas cooficiales 
+de otras Comunidades Autónomas.
+1. Teniendo en cuenta que la promoción de la enseñanza y el aprendizaje de lenguas 
+y de la diversidad lingüística debe de constituir una prioridad de la acción comunitaria en el 
+ámbito de la educación y la formación, la Consejería competente en materia de educación 
+podrá autorizar que todos o determinados módulos profesionales del currículo se impartan 
+en lenguas extranjeras o en lenguas cooficiales de otra Comunidad Autónoma, sin perjuicio 
+de lo que se establezca en su normativa específica y sin que ello suponga modificación de 
+currículo establecido en el presente Decreto.
+2. Los centros autorizados deberán incluir en su proyecto educativo los elementos 
+más significativos de su proyecto lingüístico autorizado.
+Artículo 13.– Oferta a distancia del título.
+1. Los módulos profesionales que forman las enseñanzas del ciclo formativo de 
+Técnico Superior en Administración de Sistemas Informáticos en Red podrán ofertarse a 
+distancia, siempre que se garantice que el alumnado puede conseguir los resultados de 
+aprendizaje de los mismos, de acuerdo con lo dispuesto en el Real Decreto 1629/2009, de 
+30 de octubre, y en este Decreto.
+2. La Consejería competente en materia de educación establecerá los módulos 
+profesionales susceptibles de ser impartidos a distancia y el porcentaje de horas de cada 
+uno de ellos que tienen que impartirse en régimen presencial.
+Artículo 14.– Requisitos de los centros para impartir estas enseñanzas.
+Todos los centros de titularidad pública o privada que ofrezcan enseñanzas 
+conducentes a la obtención del título de Técnico Superior en Administración de Sistemas 
+Informáticos en Red se ajustarán a lo establecido en la Ley Orgánica 2/2006, de 3 de 
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67752
+Miércoles, 1 de septiembre de 2010
+mayo, de Educación y en las normas que lo desarrollen, y en todo caso, deberán cumplir 
+los requisitos que se establecen en el artículo 52 del Real Decreto 1538/2006, de 15 de 
+diciembre, por el que se establece la ordenación general de la formación profesional del 
+sistema educativo, en el Real Decreto 1629/2009, de 30 de octubre, en este Decreto y en 
+lo establecido en el desarrollo de su propia normativa.
+Artículo 15.– Profesorado. 
+Los aspectos referentes al profesorado con atribución docente en los módulos 
+profesionales del ciclo formativo de Técnico Superior en Administración de Sistemas 
+Informáticos en Red, relacionados en el artículo 6, son los establecidos en el artículo 12 
+del Real Decreto 1629/2009, de 30 de octubre.
+Artículo 16.– Espacios y equipamientos. 
+Los espacios y equipamientos necesarios para el desarrollo de las enseñanzas del 
+ciclo formativo de Técnico Superior en Administración de Sistemas Informáticos en Red 
+son los establecidos en el artículo 11 del Real Decreto 1629/2009, de 30 de octubre.
+Artículo 17.– Autonomía de los centros.
+1. Los centros educativos dispondrán de la necesaria autonomía pedagógica, de 
+organización y de gestión económica, para el desarrollo de las enseñanzas y su adaptación 
+a las características concretas del entorno socioeconómico, cultural y profesional. Los 
+centros autorizados para impartir el ciclo formativo concretarán y desarrollarán el currículo 
+mediante las programaciones didácticas de cada uno de los módulos profesionales que 
+componen el ciclo formativo en los términos establecidos en el Real Decreto 1629/2009, 
+de 30 de octubre, en este Decreto, en el marco general del proyecto educativo de centro y 
+en función de las características de su entorno productivo. 
+2. La Consejería competente en materia de educación favorecerá la elaboración de 
+proyectos de innovación, así como de modelos de programación docente y de materiales 
+didácticos que faciliten al profesorado el desarrollo del currículo.
+3. Los centros, en el ejercicio de su autonomía, podrán desarrollar experiencias, 
+planes de trabajo, formas de organización o ampliación del horario escolar en los términos 
+que establezca la Consejería competente en materia de educación, sin que, en ningún 
+caso, se impongan aportaciones ni exigencias a las familias o al alumnado. 
+DISPOSICIONES ADICIONALES
+Primera.– Calendario de implantación.
+1. La implantación del currículo establecido en este Decreto tendrá lugar en el curso 
+escolar 2010/2011 para el primer curso del ciclo formativo y en el curso escolar 2011/2012 
+para el segundo curso del ciclo formativo.
+2. El alumnado de primer curso del ciclo formativo de grado superior «Administración 
+de Sistemas Informáticos» que deba repetir en el curso 2010/2011, se matriculará de 
+acuerdo con el nuevo currículo, teniendo en cuenta su calendario de implantación.
+3. En el curso 2010/2011, el alumnado de segundo curso del ciclo formativo de grado 
+superior «Administración de Sistemas Informáticos» con módulos profesionales pendientes 
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67753
+Miércoles, 1 de septiembre de 2010
+de primero se matricularán, excepcionalmente, de estos módulos profesionales de acuerdo 
+con el currículo que los alumnos venían cursando. En este caso, se arbitrarán las medidas 
+adecuadas que permitan la recuperación de las enseñanzas correspondientes.
+4. En el curso 2011/2012, el alumnado del ciclo formativo de grado superior 
+«Administración de Sistemas Informáticos» con módulos profesionales pendientes de 
+segundo curso se podrán matricular, excepcionalmente, de estos módulos profesionales 
+de acuerdo con el currículo que los alumnos venían cursando. 
+5. A efecto de lo indicado en los apartados 3 y 4, el Departamento de Familia Profesional 
+propondrá a los alumnos un plan de trabajo, con expresión de las capacidades terminales 
+y los criterios de evaluación exigibles y de las actividades recomendadas, y programarán 
+pruebas parciales y finales para evaluar los módulos profesionales pendientes.
+Segunda.– Vinculación con capacitaciones profesionales.
+La formación establecida en el presente Decreto en el módulo profesional de 
+«Formación y orientación laboral», incluye un mínimo de 50 horas, que capacita para llevar 
+a cabo responsabilidades profesionales equivalentes a las que precisan las actividades de 
+nivel básico en prevención de riesgos laborales, establecidas en el Real Decreto 39/1997, 
+de 17 de enero, por el que se aprueba el Reglamento de los Servicios de Prevención.
+Tercera.– Certificación académica de superación del nivel básico en prevención de 
+riesgos laborales.
+La Consejería competente en materia de educación expedirá una certificación 
+académica de la formación de nivel básico en prevención de riesgos laborales, al alumnado 
+que haya superado el bloque B del módulo profesional de «Formación y orientación 
+laboral», de acuerdo con el procedimiento que se establezca al efecto.
+Cuarta.– Equivalencia a efectos de docencia en los procedimientos selectivos de 
+ingreso en el Cuerpo de Profesores Técnicos de Formación Profesional.
+En los procesos selectivos convocados por la Consejería competente en materia de 
+educación, el Título de Técnico Superior o de Técnico Especialista se declara equivalente 
+a los exigidos para el acceso al Cuerpo de Profesores Técnicos de Formación Profesional, 
+cuando el titulado haya ejercido como profesor interino en centros educativos públicos 
+dependientes de la Consejería competente en materia de educación y en la especialidad 
+docente a la que pretenda acceder durante un período mínimo de dos años antes del 31 
+de agosto de 2007. 
+Quinta.– Accesibilidad universal en las enseñanzas de este título.
+La Consejería competente en materia de educación adoptará las medidas necesarias 
+para que el alumnado pueda acceder y cursar dicho ciclo formativo en las condiciones 
+establecidas en la disposición final décima de la Ley 51/2003, de 2 de diciembre, de 
+igualdad de oportunidades, no discriminación y accesibilidad universal de las personas 
+con discapacidad. 
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67754
+Miércoles, 1 de septiembre de 2010
+Sexta.– Autorización de los centros educativos. 
+Todos los centros de titularidad pública o privada que, en la fecha de entrada en vigor 
+de este Decreto, tengan autorizadas enseñanzas conducentes a la obtención del Título de 
+Técnico Superior en Administración de Sistemas Informáticos, regulado en el Real Decreto 
+1660/1994, de 22 de julio, quedarán autorizados para impartir el Título de Técnico Superior 
+en Administración de Sistemas Informáticos en Red que se establece en el Real Decreto 
+1629/2009, de 30 de octubre. 
+DISPOSICIÓN DEROGATORIA
+Derogación normativa.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo 
+establecido en el presente Decreto.
+DISPOSICIONES FINALES
+Primera.– Desarrollo normativo.
+Se faculta al titular de la Consejería competente en materia de educación para dictar 
+cuantas disposiciones sean precisas para la interpretación, aplicación y desarrollo de lo 
+dispuesto en este Decreto.
+Segunda.– Entrada en vigor.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el 
+«Boletín Oficial de Castilla y León».
+Valladolid, 26 de agosto de 2010.
+El Presidente de la Junta
+de Castilla y León,
+Fdo.: Juan Vicente Herrera Campo
+El Consejero de Educación,
+Fdo.: Juan José Mateos Otero
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67755
+Miércoles, 1 de septiembre de 2010
+ANEXO I
+Entorno productivo de Castilla y León 
+En la actualidad, el sector productivo engloba en la región a casi un millar de empresas 
+que dan trabajo a una decena de miles de personas, con una tendencia claramente 
+alcista.
+La mayoría de las empresas de la región relacionadas con las TIC quedan 
+encuadradas dentro de las micropymes, dado el volumen de personal con el que cuentan, 
+dedicadas al sector servicios con estructuras organizativas, normalmente, sencillas; sólo 
+en torno al 20% dispone de más de 20 empleados, lo que da una muestra de la dispersión 
+del entorno productivo en Castilla y León.
+La tecnología empleada se basa normalmente en ordenadores personales basados 
+en software propietario. Se detecta una importancia creciente de instalaciones en red y de 
+la utilización de sistemas servidores y del software libre.
+Una consideración importante es el aumento paulatino del número de grandes 
+empresas nacionales e internacionales que eligen Castilla y León para la implantación 
+de sus empresas o de sus filiales tanto para el desarrollo de nuevos productos como de 
+referentes para la venta de sus productos informáticos.
+La principal actividad empresarial del sector es el desarrollo del software, seguida de 
+la venta y reparación de equipos informáticos, así como la venta de software y hardware.
+Todo el sector ha mejorado en general su posicionamiento competitivo en los últimos 
+años, siendo en los dos primeros segmentos mencionados en el párrafo anterior donde se 
+ha producido el mayor incremento en la facturación media.
+El afianzamiento de empresas de desarrollo de software en la región viene dado 
+por el fenómeno del nearshore a nivel europeo. Castilla y León alberga varios centros de 
+firmas internacionales destinados a ofrecer servicios a precios más competitivos que en 
+otros lugares de la Comunidad Europea.
+Por otro lado, la venta y reparación de equipos informáticos es una vertiente del 
+sector en alza debido al aumento del parque de equipos microinformáticos tanto a nivel 
+doméstico como empresarial o administrativo y a la oferta de servicios telemáticos. Prueba 
+de ello es la escalada constante de la región en el Índice de Convergencia de la Sociedad 
+de la Información a nivel nacional.
+Otro ámbito laboral cada vez más demandado es el de la instalación y configuración 
+de redes y servicios de red. Teniendo en cuenta que más de la mitad de las empresas y que 
+una de cada tres entidades públicas de la región hoy en día cuentan con red informática 
+y con acceso a Internet, es fácil entender la necesidad de profesionales cualificados en 
+estas materias.
+Finalmente, las empresas TIC de Castilla y León son también punteras a nivel nacional 
+en el desarrollo de soluciones en el ámbito de la movilidad –el desarrollo de aplicaciones 
+para dispositivos móviles– y están centrando sus esfuerzos en tecnologías «de soporte y 
+servicio», sistemas informáticos y de telecomunicaciones para gestión de la dependencia 
+y la asistencia a las personas. Con sus más de 2.000 municipios y gran extensión, Castilla 
+y León es y será una gran consumidora de estos productos tecnológicos y un referente 
+nacional en este ámbito. 
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67756
+Miércoles, 1 de septiembre de 2010
+ANEXO II
+OBJETIVOS, CONTENIDOS, DURACIÓN Y ORIENTACIONES 
+PEDAGÓGICAS Y METODOLÓGICAS DE LOS MÓDULOS PROFESIONALES
+Módulo Profesional: Implantación de sistemas operativos.
+Equivalencia en créditos ECTS: 15.
+Código: 0369.
+Duración: 256 horas.
+Contenidos:
+1. Instalación de software libre y propietario: 
+– 	 Estructura de un sistema informático.
+– 	 Arquitectura de un sistema operativo. Historia de los Sistemas Operativos.
+– 	 Diseño e implementación de Sistemas Operativos.
+– 	 Funciones de un sistema operativo. Estructura.
+– 	 Gestión de memoria: Particiones fijas y variables. Paginación y segmentación. 
+Memoria virtual. Políticas de sustitución y de asignación de páginas. Diseño de 
+paginación.
+– 	 Gestión del sistema de entrada / salida: Controladores. Interrupciones. Acceso 
+directo a memoria. Buffers. Planificación de disco.
+– 	 Multiprocesadores y sistemas distribuidos: Ventajas e inconvenientes. Gestión 
+de recursos. Servicios remotos. Gestión.
+– 	 Tipos de sistemas operativos: Según número de usuarios, según tipo de licencia, 
+según el número de tareas, según el uso final, etc.
+– 	 Tipos de aplicaciones.
+– 	 Licencias y tipos de licencias.
+– 	 Gestores de arranque.
+– 	 Consideraciones previas a la instalación de sistemas operativos libres y 
+propietarios.
+– 	 Instalación de sistemas operativos. Requisitos, versiones y licencias.
+– 	 Tipos de instalaciones: Automatizada, por red y otras. Instalaciones modo 
+comando y modo gráfico.
+– 	 Instalación/desinstalación de aplicaciones. Requisitos, versiones y licencias.
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67757
+Miércoles, 1 de septiembre de 2010
+– 	 Actualización de sistemas operativos y aplicaciones.
+–	  Instalación de parches:
+– 	 Seguridad.
+– 	 Funcionalidad.
+– 	 Otros.
+– 	 Ficheros de inicio de sistemas operativos.
+– 	 Registro del sistema.
+– 	 Actualización y mantenimiento de controladores de dispositivos.
+2. Administración de software de base:
+– 	 Personalización del entorno.
+– 	 Optimización.
+– 	 Administración de usuarios y grupos locales.
+– 	 Usuarios y grupos predeterminados.
+– 	 Seguridad de cuentas de usuario.
+– 	 Seguridad de contraseñas.
+– 	 Administración de perfiles locales de usuario.
+– 	 Configuración del protocolo TCP/IP en un cliente de red.
+– 	 Configuración de la resolución de nombres.
+– 	 Ficheros de configuración de red.
+– 	 Configuración de red alternativa personalizada.
+– 	 Resolución de problemas de conectividad en sistemas operativos en red.
+– 	 Configuración de las opciones de accesibilidad de un sistema operativo.
+– 	 Optimización de sistemas para ordenadores portátiles y dispositivos móviles. 
+Archivos de red sin conexión.
+– 	 Virtualización: Tipos de virtualización. Ventajas e inconvenientes. Requisitos. 
+Principales tecnologías.
+– 	 Creación de entornos virtualizados. Optimización.
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67758
+Miércoles, 1 de septiembre de 2010
+3. Administración y aseguramiento de la información:
+– 	 Gestión del sistema de archivos. Archivos: Tipos y operaciones. Directorios. 
+Métodos de asignación y diseño. Cachés de disco. Seguridad y protección. 
+Control de acceso.
+– 	 Sistemas de archivos. Sistemas de archivos distribuidos, transaccionales, 
+cifrados, virtuales, entre otros.
+– 	 Gestión de sistemas de archivos mediante comandos y entornos gráficos.
+– 	 Gestión de enlaces.
+– 	 Estructura de directorios de sistemas operativos libres y propietarios.
+– 	 Búsqueda de información del sistema mediante comandos y herramientas 
+gráficas.
+– 	 Identificación del software instalado mediante comandos y herramientas 
+gráficas.
+– 	 Gestión de la información del sistema. Rendimiento. Estadísticas.
+– 	 Montaje y desmontaje de dispositivos en sistemas operativos. Automatización.
+– 	 Herramientas de administración de discos. Particiones y volúmenes. 
+Desfragmentación y chequeo.
+– 	 Extensión de un volumen. Volúmenes distribuidos. RAID0 por software.
+– 	 Tolerancia a fallos de Hardware. RAID1 y RAID5 por software.
+– 	 Montar volúmenes en carpetas.
+– 	 Tolerancia a fallos de software de los datos.
+– 	 Tipos de copias de seguridad. Copias totales, copias incrementales, copias 
+diferenciales y otros tipos de copia. Deduplicación de la información.
+– 	 Planes de copias de seguridad. Programación de copias de seguridad.
+– 	 Recuperación en caso de fallo del sistema.
+– 	 Discos de arranque. Discos de recuperación. Otros dispositivos de arranque y 
+recuperación.
+– 	 Copias de seguridad del sistema. Recuperación del sistema mediante consola. 
+Puntos de recuperación.
+– 	 Creación y recuperación de imágenes de servidores.
+– 	 Cuotas de disco. Niveles de cuota y niveles de advertencia.
+– 	 Servicio de ficheros distribuidos.
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67759
+Miércoles, 1 de septiembre de 2010
+– 	 Encriptación de datos.
+– 	 Compresión de datos.
+4. Administración de dominios:
+– 	 Estructura trabajo en grupo. 
+– 	 Estructura cliente-servidor.
+– 	 Protocolo LDAP.
+– 	 Concepto de dominio. Subdominios. Requisitos necesarios para montar un 
+dominio.
+– 	 Replicación de dominios.
+– 	 Administración de cuentas. Cuentas predeterminadas. 
+– 	 Contraseñas. Bloqueos de cuenta.
+– 	 Cuentas de usuarios y equipos.
+– 	 Perfiles móviles y obligatorios.
+–	 Carpetas personales.
+– 	 Plantillas de usuario. Variables de entorno.
+– 	 Administración de grupos. Tipos. Estrategias de anidamiento. Grupos 
+predeterminados.
+– 	 Administración de Unidades Organizativas. Estrategias de organización. 
+Delegación de la administración.
+5. Administración del acceso al dominio:
+– 	 Equipos del dominio.
+– 	 Permisos y derechos.
+– 	 Administración del acceso a recursos. SAMBA. NFS. 
+– 	 Permisos de red. Permisos locales. Herencia. Permisos efectivos. 
+– 	 Delegación de permisos.
+– 	 Listas de control de acceso.
+– 	 Directivas de grupo. Derechos de usuarios. Directivas de seguridad. Objetos de 
+directiva. Ámbito de las directivas. Plantillas.
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67760
+Miércoles, 1 de septiembre de 2010
+6. Supervisión del rendimiento del sistema:
+– 	 Herramientas de monitorización en tiempo real.
+– 	 Herramientas de monitorización continuada.
+– 	 Herramientas de análisis del rendimiento.
+– Tipos de sucesos: Sucesos del sistema, sucesos de seguridad, sucesos de 
+aplicaciones, entre otros.
+– 	 Registros de sucesos.
+– 	 Monitorización de sucesos.
+–	  Gestión de aplicaciones, procesos y subprocesos.
+–	  Monitorización de aplicaciones y procesos.
+– 	 Monitorización del software base.
+– 	 Monitorización del rendimiento mediante histogramas, gráficos e informes.
+– 	 Tipos de registros del rendimiento: delimitados por comas, tabulaciones, binarios, 
+cíclicos, sql, entre otros.
+– 	 Herramientas para analizar registros de rendimiento.
+– 	 Supervisión y optimización de rendimiento del sistema.
+7. Directivas de seguridad y auditorías:
+– 	 Requisitos de seguridad del sistema y de los datos.
+–	  Seguridad a nivel de usuarios y seguridad a nivel de equipos.
+–	  Derechos de usuario. Acceso a recursos hardware y software.
+– 	 Establecimiento de grupos de usuarios.
+– 	 Directivas de seguridad local. Plantillas de seguridad.
+– 	 Registro del sistema operativo.
+– 	 Objetivos de la auditoría.
+– 	 Ámbito de la auditoría. Aspectos auditables.
+– 	 Mecanismos de auditoría. Alarmas y acciones correctivas.
+– 	 Información del registro de auditoría.
+– 	 Técnicas y herramientas de auditoría.
+– 	 Informes de auditoría.
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67761
+Miércoles, 1 de septiembre de 2010
+8. Resolución de incidencias y asistencia técnica:
+– 	 Interpretación, análisis y elaboración de documentación técnica.
+– 	 Interpretación, análisis y elaboración de manuales de instalación y configuración 
+de sistemas operativos y aplicaciones.
+– 	 Licencias de cliente y licencias de servidor.
+– 	 Control de versiones y licencias.
+– 	 Instalaciones desatendidas. 
+– 	 Implementación de ficheros de respuestas.
+– 	 Servidores de actualizaciones automáticas.
+– 	 Resolución de incidencias por vía telemática.
+– 	 Partes de incidencias.
+– 	 Protocolos de actuación. 
+– 	 Administración remota.
+– 	 Inventarios de software.
+– 	 Inventarios de activos. Concepto de CMDB.
+– 	 Asistencia on-line al usuario.
+– 	 Sistemas de gestión de incidencias. Gestión de eventos y Gestión de problemas. 
+ITIL.
+Orientaciones pedagógicas y metodológicas.
+El módulo se centra en la instalación, configuración, optimización, administración y 
+mantenimiento del software de base de un sistema informático.
+El desarrollo de los contenidos tendrá, sistemáticamente, una metodología activa, 
+participativa y motivadora, cuyo esquema habitual será:
+– 	 Comunicación y exposición de conceptos.
+– 	 Desarrollo de supuestos prácticos por parte del profesorado.
+– 	 Desarrollo de supuestos prácticos por parte del alumnado, cumpliendo las 
+especificaciones establecidas, los estándares existentes, etc. y con la utilización 
+de documentación técnica a partir de las diferentes fuentes disponibles.
+– 	 Evaluación de la metodología seguida, del funcionamiento y del nivel de 
+adecuación a las especificaciones y estándares.
+– 	 Elaboración de la documentación necesaria.
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67762
+Miércoles, 1 de septiembre de 2010
+Se tratarán las diversas fases en la implementación del software de base:
+– Instalación.
+– Configuración.
+– Optimización.
+– Administración.
+– Mantenimiento.
+Las tareas a realizar sobre el sistema informático, siempre que sea posible, se 
+deberán de implementar para que su realización se desarrolle de forma automática.
+Las prácticas se realizarán mediante la utilización de software de base, utilidades y 
+aplicaciones tanto libres como propietarias y realizando su implementación en diferentes 
+plataformas y dispositivos.
+Módulo Profesional: Planificación y administración de redes.
+Equivalencia en créditos ECTS: 12.
+Código: 0370.
+Duración: 192 horas.
+Contenidos:
+1. Caracterización de redes: 
+– 	 Terminología: Redes LAN, MAN y WAN, topologías, arquitecturas, protocolos.
+– 	 Sistemas de numeración decimal, binario y hexadecimal. Conversión entre 
+sistemas. 
+– 	 Arquitectura de redes. 
+– 	 Encapsulamiento de la información.
+– 	 El modelo OSI. Elementos funcionales físicos y lógicos.
+– 	 El modelo TCP/IP.
+– 	 Las tecnologías «Ethernet».
+– 	 El modelo OSI y «Ethernet».
+– 	 Tipos de cableado «Ethernet».
+2. Integración de elementos en una red:
+– 	 Los medios físicos.
+– 	 Ancho de banda y tasa de transferencia. 
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67763
+Miércoles, 1 de septiembre de 2010
+– 	 Los cables metálicos (coaxial, cable de pares trenzados: FTP, STP y UTP). 
+– 	 Parámetros típicos de los cables metálicos. Next y atenuación.
+– 	 Factores físicos que afectan a la transmisión. 
+– 	 Los cables ópticos; fibra monomodo y fibra multimodo.
+– 	 La conexión inalámbrica. Los espectros de onda de microondas y radio. 
+Topologías. Asociación y autenticación en la WLAN. 
+– 	 Adaptadores. Funciones y características. Direccionamiento físico.
+– 	 Adaptadores alámbricos: Instalación y configuración. 
+– 	 Adaptadores inalámbricos: Instalación y configuración. 
+– 	 Direccionamiento IP. 
+– 	 Dominios de colisión y de «broadcast». 
+– 	 Direcciones IPv4 y máscaras de red. 
+– 	 Direccionamiento IPv6.
+– 	 Direccionamiento dinámico (DHCP). 
+– 	 Resolución de direcciones ARP, RARP.
+– 	 Monitorización de la red mediante aplicaciones que usan SNMP.
+3. Configuración y administración de conmutadores: 
+– 	 Componentes de un switch. Características y funcionamiento.
+– 	 Segmentación de la red. Ventajas que presenta. 
+– 	 Conmutadores y dominios de colisión y «broadcast». 
+– 	 Segmentación de redes.
+– 	 Formas de conexión al conmutador para su configuración.
+– 	 Configuración del conmutador.
+– 	 Configuración estática y dinámica de la tabla de direcciones MAC.
+– 	 Diagnóstico de incidencias del conmutador.
+– 	 Las tormentas de «broadcast».
+– 	 El protocolo Spanning-Tree.
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67764
+Miércoles, 1 de septiembre de 2010
+4. Configuración y administración básica de «routers»:
+– 	 Los «routers» en las LAN y en las WAN. 
+– 	 Componentes del «router» y funcionamiento. 
+– 	 Formas de conexión al «router» para su configuración inicial.
+– 	 Comandos para configuración del «router».
+– 	 Comandos para administración del «router».
+– 	 Configuración del enrutamiento estático.
+– 	 Diagnóstico de incidencias del router.
+– 	 Definición y ubicación de listas de control de acceso (ACLs).
+5. Configuración de redes virtuales:
+– 	 El diseño de redes locales a tres capas (núcleo, distribución y acceso).
+– 	 Implantación y configuración de redes virtuales. Ventajas.
+– 	 Diagnóstico de incidencias en redes virtuales.
+– 	 Definición de enlaces troncales en los conmutadores y «routers». El protocolo 
+IEEE802.1Q.
+– 	 Protocolos para la administración centralizada de redes virtuales. El protocolo 
+VTP.
+6. Configuración y administración de protocolos dinámicos:
+– 	 Protocolos enrutables y protocolos de enrutamiento.
+–	  Protocolos de enrutamiento interior y exterior.
+– 	 El enrutamiento sin clase. 
+–	  La subdivisión de redes y el uso de máscaras de longitud variable (VLMs).
+– 	 El agrupamiento de redes usando CIDR.
+– 	 El protocolo RIPv2; comparación con RIPv1.
+– 	 Configuración y administración de RIPv1.
+– 	 Configuración y administración de RIPv2.
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67765
+Miércoles, 1 de septiembre de 2010
+– 	 Diagnóstico de incidencias en RIP.
+– 	 Los protocolos de enrutamiento estado-enlace.
+– 	 Configuración y administración en OSPF.
+– 	 Diagnóstico de incidencias en OSPF.
+7. Configuración del acceso a Internet desde una LAN:
+– 	 Direccionamiento interno y direccionamiento externo. 
+– 	 NAT origen y NAT destino.
+– 	 NAT estático, dinámico, de sobrecarga (PAT) e inverso.
+– 	 Configuración de NAT.
+– 	 Diagnóstico de incidencias de NAT. 
+– 	 Configuración de PAT.
+– 	 Diagnóstico de fallos de PAT.
+– 	 Introducción a las tecnologías WAN: Frame Relay, RDSI, ADSL.
+– 	 Las tecnologías Wifi y Wimax.
+– 	 Las tecnologías UMTS y HSDPA.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para la instalación, 
+configuración, administración y mantenimiento de una red de área local tanto cableada 
+como inalámbrica.
+El desarrollo de los contenidos tendrá siempre una orientación práctica y actualizada; 
+el esquema habitual será:
+– 	 Exposición de conceptos.
+– 	 Demostración práctica de la aplicación de los mismos por parte del profesor.
+– 	 Resolución de supuestos prácticos por parte del alumnado; esta resolución 
+incluirá la búsqueda e interpretación de información técnica y la documentación 
+del proceso llevado a cabo. 
+Aún siendo necesaria la impartición de contenidos referidos a la instalación física 
+de una red local, se recomienda dedicar la mayor parte de las horas del módulo de 
+«Planificación y Administración de Redes» a la configuración y la administración de una 
+red local. 
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67766
+Miércoles, 1 de septiembre de 2010
+Módulo Profesional: Fundamentos de hardware.
+Equivalencia en créditos ECTS: 6.
+Código: 0371.
+Duración: 96 horas.
+Contenidos:
+1. Configuración de equipos y periféricos. Arquitectura de ordenadores:
+– 	 La información. Su representación y soporte.
+– 	 Tipos de ordenadores. Esquema y estructura de un ordenador.
+– 	 Elementos funcionales y subsistemas.
+– 	 Composición de un sistema informático:
+– 	 La unidad central de proceso. Función. Tipos. 
+– 	 La memoria. 
+– 	 El subsistema de E/S. Técnicas de Entrada y Salida de información.
+– 	 Tipos de arquitecturas de bus.
+– 	 Interfaces. Principales interfaces de entrada y salida de información. 
+Interfaces de red. 
+– 	 Ciclo de instrucción.
+– 	 Componentes de integración para el ensamblaje de equipos informáticos:
+– 	 Secuencia de montaje de un ordenador.
+– 	 Herramientas y útiles.
+– 	 Chasis, alimentación y refrigeración. Tipos.
+– 	 Placas base, procesadores y memorias. Características físicas y lógicas. 
+Tecnologías actuales.
+– 	 Dispositivos de almacenamiento. Controladoras. 
+– 	 Periféricos. Adaptadores para la conexión de dispositivos.
+– 	 Mecanismos y técnicas de interconexión.
+– 	 Secuencia de arranque de un equipo. Posibilidades.
+– 	 Instalación y configuración de dispositivos.
+– 	 Normas de seguridad.
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67767
+Miércoles, 1 de septiembre de 2010
+– 	 Configuración y verificación de equipos.
+– 	 Software empotrado de configuración de un equipo. Configuración y 
+actualización.
+– 	 Overclocking.
+– 	 Modding.
+– 	 Chequeo y diagnóstico.
+– 	 Técnicas de conexión y comunicación.
+– 	 Comunicaciones entre sistemas informáticos.
+– 	 Conexión a redes.
+– 	 Mantenimiento del sistema informático. Limpieza y cuidados.
+2. Instalación de software de utilidad y propósito general para un sistema 
+informático: 
+– 	 Entornos operativos.
+– 	 Tipos de aplicaciones. 
+– 	 Instalación y prueba de aplicaciones. Instalaciones estándar, automatizada, 
+distribuida y otras.
+– 	 Necesidades de los entornos de explotación.
+– 	 Requerimiento de las aplicaciones.
+– 	 Comparación de aplicaciones. Evaluación y rendimiento.
+– 	 Software de propósito general:
+– 	 Ofimática y documentación electrónica.
+– 	 Imagen, diseño y multimedia.
+– 	  Programación.
+– 	 Clientes para servicios de Internet.
+– 	 Software a medida. 
+– 	 Utilidades:
+– 	 Compresores. 
+– 	 Monitorización y optimización del sistema.
+– 	 Gestión de ficheros y recuperación de datos.
+–	 Gestión de discos. Fragmentación y particionado.
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67768
+Miércoles, 1 de septiembre de 2010
+– 	 Seguridad.
+– 	 Antivirus, antiespías y cortafuegos.
+–	 Aplicaciones de acceso remoto.
+– 	 Creación de herramientas portables.
+3. Creación de imágenes de software. Respaldo del software base de un sistema:
+– 	 Particionado de discos. Criterios y herramientas.
+– 	 Imágenes de respaldo. Clonación.
+– 	 Opciones de arranque de un sistema. Arranque desde diferentes dispositivos.
+– 	 Creación de imágenes. Soporte de almacenamiento. Herramientas software y 
+hardware.
+– 	 Recuperación de imágenes.
+4. Implantación de hardware en centros de proceso de datos (CPD): 
+– 	 Arquitecturas de ordenadores personales, sistemas departamentales y grandes 
+ordenadores.
+– 	 Evolución actual y tendencia de dispositivos hardware.
+– 	 Estructura de un CPD. Organización. Nivel Tier de un CPD.
+– 	 Condiciones ambientales.
+– 	 Seguridad física.
+– 	 Componentes específicos en soluciones empresariales:
+– 	 Bastidores o «racks».
+– 	 Dispositivos de conexión en caliente.
+– 	 Discos.
+– 	 Fuentes de alimentación.
+– 	 Control remoto.
+– 	 SAI´s y estabilizadores de tensión. Monitorización.
+– 	 Arquitecturas de alta disponibilidad.
+– 	 Inventariado del hardware. Herramientas.
+– 	 Listas de compatibilidad.
+– 	 Desarrollo de un plan de implementación.
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67769
+Miércoles, 1 de septiembre de 2010
+5. Cumplimiento de las normas de prevención de riesgos laborales y protección 
+ambiental:
+– 	 Identificación de riesgos.
+– 	 Determinación de las medidas de prevención de riesgos laborales.
+– 	 Prevención de riesgos laborales en los procesos de montaje y mantenimiento.
+– 	 Equipos de protección individual.
+– 	 Cumplimiento de la normativa de prevención de riesgos laborales.
+– 	 Cumplimiento de la normativa de protección ambiental.
+Orientaciones pedagógicas y metodológicas.
+El módulo se centra en la comprensión y funcionamiento de los principales 
+componentes de un sistema informático, tanto físicos como lógicos, así como de su 
+instalación y mantenimiento.
+El desarrollo de estos contenidos tendrá siempre una orientación práctica; el esquema 
+habitual será:
+– 	 Exposición de conceptos. 
+– 	 Demostración práctica de la aplicación de los mismos por parte del profesorado.
+– 	 Resolución de supuestos prácticos por parte del alumnado; esta resolución 
+incluirá la búsqueda e interpretación de información técnica y la documentación 
+del proceso llevado a cabo.
+Es imprescindible que el alumnado realice prácticas reales de instalación y 
+configuración de los elementos de un sistema microinformático; el uso de simuladores 
+tendrá un carácter complementario con respecto a estas prácticas.
+Debe ponerse, además, especial énfasis en las normas de prevención de riesgos y 
+protección medioambiental.
+Módulo Profesional: Gestión de bases de datos.
+Equivalencia en créditos ECTS: 11.
+Código: 0372.
+Duración: 192 horas.
+Contenidos:
+1. Sistemas de almacenamiento de la información:
+– 	 Ficheros (planos, indexados y acceso directo, entre otros).
+– 	 Bases de datos. Conceptos, usos y tipos según el modelo de datos, la ubicación 
+de la información. 
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67770
+Miércoles, 1 de septiembre de 2010
+– 	 Sistemas de información. Sistemas de información empresarial.
+– 	 Sistemas gestores de base de datos: funciones, componentes y tipos.
+2. Diseño lógico de bases de datos:
+– 	 Modelo de datos.
+– 	 Modelo lógico de la base de datos: modelo relacional, orientado a objetos, 
+otros. 
+– 	 La representación del problema: los diagramas E/R: Entidades y relaciones. 
+Cardinalidad. Debilidad. 
+– 	 El modelo E/R ampliado. Subclases y superclases.
+– 	 El modelo relacional: Terminología del modelo relacional. Características de una 
+relación. Claves primarias y claves ajenas. 
+– 	 Paso del diagrama E/R al modelo relacional.
+– 	 Normalización: Redundancia. Dependencias funcionales. Formas normales. 
+Justificación de la desnormalización.
+3. Diseño físico de bases de datos:
+– 	 Herramientas gráficas proporcionadas por el sistema gestor para la implementación 
+de la base de datos. 
+– 	 El lenguaje de definición de datos. 
+– 	 Creación, modificación y eliminación de bases de datos. 
+– 	 Creación, modificación y eliminación de tablas. Tipos de datos. 
+– 	 Implementación de restricciones. 
+– 	 Verificación de las restricciones.
+– 	 Documentación del diseño. 
+4. Realización de consultas:
+– 	 Herramientas gráficas proporcionadas por el sistema gestor para la realización 
+de consultas. 
+– 	 Herramientas externas al gestor para la realización de consultas.
+– 	 La sentencia SELECT. 
+– 	 Selección y ordenación de registros. Tratamiento de valores nulos. Lógica 
+trivaluada.
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67771
+Miércoles, 1 de septiembre de 2010
+– 	 Consultas de resumen. Funciones de resumen. Agrupamiento de registros. 
+Selección de agrupamientos.
+– 	 Unión de consultas. 
+– 	 Composiciones internas y externas. Combinación de composiciones internas y 
+externas.
+– 	 Subconsultas.
+5. Edición de los datos: 
+– 	 Herramientas gráficas proporcionadas por el sistema gestor para la edición de la 
+información. 
+– 	 Herramientas externas al gestor para la edición de la información.
+– 	 Las sentencias INSERT, DELETE y UPDATE. 
+– 	 Subconsultas y combinaciones en órdenes de edición.
+– 	 Modelos de transacciones y de consultas.
+– 	 Transacciones; sentencias de procesamiento de transacciones. Puntos de 
+recuperación.
+– 	 Acceso simultáneo a los datos: políticas de bloqueo.
+– 	 Niveles de aislamiento.
+– 	 El problema del bloqueo mutuo.
+6. Construcción de guiones:
+– 	 Introducción. Lenguaje de programación. 
+– 	 Tipos de datos, identificadores, variables. 
+– 	 Operadores. Precedencia.
+– 	 Estructuras de control. 
+– 	 Estructuras funcionales: Módulos, procedimientos, funciones,… 
+– 	 Funciones. Librerías. 
+– 	 Herramientas para creación de guiones.
+7. Gestión de la seguridad de los datos: 
+– 	 Recuperación de fallos.
+– 	 Principales fallos en una base de datos. 
+– 	 Herramientas del SGBD para la recuperación ante fallos.
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67772
+Miércoles, 1 de septiembre de 2010
+– 	 Copias de seguridad. Tipos. 
+– 	 Planificación de copias de seguridad.
+– 	 Herramientas gráficas y utilidades proporcionadas por el sistema gestor para la 
+realización y recuperación de copias de seguridad. 
+– 	 Sentencias para la realización y recuperación de copias de seguridad. 
+– 	 Herramientas gráficas y utilidades para importación y exportación de datos. 
+– 	 Transferencia de datos en sistemas gestores.
+– 	 Herramientas de verificación de integridad de la base de datos.
+– 	 Documentación de las medidas y políticas de seguridad.
+Orientaciones pedagógicas y metodológicas.
+El módulo se centra en la implantación del diseño físico de bases de datos, y el 
+diseño y ejecución de operaciones sobre la información almacenada.
+El desarrollo de los contenidos tendrá siempre una orientación práctica; el esquema 
+habitual será:
+– 	 Exposición de conceptos.
+– 	 Demostración práctica de la aplicación de los mismos por parte del profesorado.
+– 	 Resolución de supuestos prácticos por parte del alumnado; esta resolución 
+incluirá la búsqueda e interpretación de información técnica y en su caso la 
+documentación del proceso llevado a cabo.
+Con el fin de ilustrar las similitudes y diferencias entre las distintas versiones de SQL 
+se realizarán ejercicios con diversos sistemas gestores de bases de datos.
+No es objetivo del módulo que el alumnado sea capaz de diseñar el diagrama E/R 
+correspondiente a un problema dado. Si el alumnado debe obtener el diseño lógico de una 
+base de datos, lo hará a partir del enunciado y del diagrama E/R correspondiente.
+Módulo Profesional: Lenguajes de marcas y sistemas de gestión de 
+información.
+Equivalencia en créditos ECTS: 7.
+Código: 0373.
+Duración: 128 horas.
+Contenidos:
+1. Reconocimiento de las características de los lenguajes de marcas:
+– 	 Concepto de lenguaje de marcas. Origen: SGML.
+– 	 Características comunes.
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67773
+Miércoles, 1 de septiembre de 2010
+– 	 Concepto de metalenguaje.
+– 	 Clasificación.
+– 	 XML: Estructura y sintaxis.
+–	 Etiquetas.
+– 	 Herramientas de edición.
+– 	 Elaboración de documentos XML bien formados.
+– 	 Utilización de espacios de nombres en XML.
+2. Utilización de lenguajes de marcas en entornos web:
+– 	 Estructura de una página web en HTML.
+– 	 Identificación de etiquetas y atributos de HTML.
+– 	 XHTM: Diferencias sintácticas y estructurales con HTML.
+– 	 Ventajas de XHTML sobre HTML.
+– 	 Versiones de HTML y de XHTML.
+– 	 Herramientas de diseño web.
+– 	 Transmisión de información mediante lenguajes de marcas.
+– 	 Hojas de estilo. XSL. XSLT, XSL-FO, XPATH, XQUERY.
+3. Aplicación de los lenguajes de marcas a la sindicación de contenidos:
+– 	 Ventajas y características de la sindicación de contenidos.
+– 	 Ámbitos de aplicación.
+– 	 Estructura de los canales de contenidos.
+– 	 Tecnologías de creación de canales de contenidos.
+– 	 Validación.
+– 	 Utilización de herramientas.
+– 	 Directorios de canales de contenidos.
+– 	 Agregación.
+4. Definición de esquemas y vocabularios en XML:
+– 	 Definición de la estructura de documentos XML.
+– 	 Definición de la sintaxis de documentos XML.
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67774
+Miércoles, 1 de septiembre de 2010
+– 	 Utilización de métodos de definición de documentos XML.
+– 	 Creación de descripciones.
+– 	 Asociación de documentos XML.
+– 	 Validación.
+– 	 Herramientas de creación y validación.
+– 	 Ejemplos de lenguajes basados en XML: SVG, MathML, entre otros.
+– 	 Documentación de especificaciones.
+5. Conversión y adaptación de documentos XML:
+– 	 Técnicas de transformación de documentos XML.
+– 	 Formatos de salida.
+– 	 Ámbitos de aplicación.
+– 	 Descripción de la estructura y de la sintaxis.
+– 	 Utilización de plantillas.
+– 	 Utilización de herramientas de procesamiento.
+– 	 Depuración.
+– 	 Verificación de resultados.
+–	  Elaboración de documentación.
+6. Almacenamiento de información:
+– 	 Concepto de bases de datos nativas.
+– 	 Utilización de XML para el almacenamiento de la información.
+– 	 Sistemas de almacenamiento de información.
+– 	 Inserción y extracción de información en XML.
+– 	 Técnicas de búsqueda de información en documentos XML.
+– 	 Lenguajes de consulta y manipulación.
+– 	 Almacenamiento XML nativo.
+– 	 Herramientas de tratamiento y almacenamiento de información en formato XML.
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67775
+Miércoles, 1 de septiembre de 2010
+7. Sistemas de gestión empresarial:
+–	  Instalación.
+–	  Identificación de flujos de información.
+– 	 Adaptación y configuración.
+– 	 Integración de módulos.
+– 	 Elaboración de informes.
+– 	 Planificación de la seguridad.
+– 	 Implantación y verificación de la seguridad.
+– 	 Integración con aplicaciones ofimáticas.
+– 	 Exportación de información.
+– 	 Diseño de la documentación relativa a la explotación de las aplicaciones.
+Orientaciones pedagógicas y metodológicas.
+El módulo se centra en la utilización de métodos de almacenamiento, transmisión, 
+publicación y difusión de la información, así como, gestión y explotación de sistemas de 
+información.
+El desarrollo de estos contenidos tendrá siempre una orientación práctica el esquema 
+habitual será:
+– 	 Exposición de conceptos, sintaxis, semántica y estándares.
+– 	 Demostración práctica a modo de ejemplo por parte del profesorado.
+– 	 Planteamiento y resolución de supuestos prácticos por parte del alumnado 
+cumpliendo con las especificaciones establecidas en el diseño.
+– 	 Evaluar el funcionamiento adecuado de los sistemas de información, así como el 
+cumplimiento de los estándares y especificaciones establecidas en el diseño.
+– 	 Elaborar la documentación completa relativa a las actividades desarrolladas.
+En este módulo debe ponerse especial énfasis en que el alumnado entienda lo que 
+es un metalenguaje y las posibilidades de utilización en múltiples áreas de la gestión de 
+la información.
+Por ser un módulo que está relacionado con el de Implantación de aplicaciones 
+web y dado que ambos, esencialmente gestionan y explotan sistemas de información, 
+se recomienda coordinar la impartición de los contenidos de estos dos módulos para que 
+se complementen y puedan conseguir desarrollar plenamente la unidad de competencia 
+UC0493_3 «Implementar, verificar y documentar aplicaciones web en entornos internet, 
+intranet y extranet».
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67776
+Miércoles, 1 de septiembre de 2010
+Módulo Profesional: Administración de sistemas operativos.
+Equivalencia en créditos ECTS: 8.
+Código: 0374.
+Duración: 147 horas.
+Contenidos:
+1. Administración de servicio de directorio: 
+– 	 Servicio de directorio. Definición, elementos y nomenclatura. LDAP. 
+– 	 Esquema del servicio de directorio. 
+– 	 Funciones del dominio. 
+– 	 Controladores de dominio. 
+– 	 Instalación, configuración y personalización del servicio de directorio. 
+– 	 Integración del servicio de directorio con otros servicios. 
+– 	 Filtros de búsqueda. 
+– 	 Creación de dominios. 
+– 	 Objetos que administra un dominio: usuarios globales, grupos y equipos entre 
+otros. 
+– 	 Relaciones de confianza entre dominios. 
+– 	 Herramientas gráficas de administración del servicio de directorio.
+2. Administración de procesos del sistema: 
+– 	 Procesos. Tipos. Estados. Estructura. Concepto y especificaciones.
+– 	 Hilos de ejecución. 
+– 	 Transiciones 
+de 
+estados. 
+El 
+planificador. Algoritmos. 
+Sincronización 
+y comunicación. Exclusión mutua. Semáforos, monitores y mensajes. 
+Interbloqueo.
+– 	 Prioridades. 
+– 	 Interrupciones. Excepciones. 
+– 	 Identificación de los procesos del sistema. 
+– 	 Gestión de los procesos del sistema. Línea de orden. Entorno gráfico. 
+– 	 Secuencia de arranque del sistema. Demonios y servicios. Administración de 
+servicios: Iniciar, restaurar y parar.
+– 	 Niveles de ejecución del sistema. Cambio y configuración de niveles. 
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67777
+Miércoles, 1 de septiembre de 2010
+3. Información del sistema: 
+– 	 Estructura de directorios. 
+– 	 Búsqueda de información del sistema. Órdenes. Herramientas gráficas. 
+– 	 Sistema de archivos virtual. 
+– 	 Software instalado. Órdenes. Herramientas gráficas. 
+– 	 Gestión de la información del sistema. Rendimiento. Estadísticas. 
+4. Instalación, configuración y uso de servicios de acceso y administración remota y 
+segura:
+– 	 Terminales en modo texto. 
+– 	 Escritorio remoto. 
+– 	 Protocolos de acceso remoto y puertos implicados. 
+– 	 Servicios de acceso remoto del propio sistema operativo. 
+– 	 Herramientas gráficas externas para la administración remota. 
+– 	 Actualización remota del sistema operativo. 
+– 	 Comprobación de la seguridad del sistema. 
+– 	 Encriptación de datos.
+5. Administración de servidores de impresión:
+– 	 Puertos y protocolos de impresión. 
+– 	 Tipos de impresoras para trabajo en red. 
+– 	 Sistemas y lenguajes de impresión. 
+– 	 Órdenes para la gestión de impresoras y trabajos. Colas de impresión.
+– 	 Servidores de impresión y fax. 
+6. Integración de sistemas operativos en red libres y propietarios:
+– 	 Descripción de escenarios heterogéneos. 
+– 	 Instalación, configuración y uso de servicios de red para compartir recursos. 
+– 	 Configuración de recursos compartidos en red. 
+– 	 Sistemas de archivos compartidos en red.
+– 	 Seguridad de los recursos compartidos en red. 
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67778
+Miércoles, 1 de septiembre de 2010
+– 	 Protocolos para redes heterogéneas. Interoperabilidad.
+– 	 Utilización de redes heterogéneas.
+– 	 Migración entre Sistemas Operativos y entre Aplicaciones. Alternativas.
+7. Aplicación de lenguajes de «scripting» en sistemas operativos libres y 
+propietarios: 
+– 	 La «shell» como lenguaje de «scripting». 
+– 	 Estructuras del lenguaje. 
+– 	 Creación y depuración de «scripts». 
+– 	 Interpretación de «scripts» del sistema. Adaptaciones. 
+– 	 Utilización de extensiones de comandos para tareas de administración. 
+– 	 Personalización y/o creación de extensiones de comandos específicos. 
+– 	 Acceso al registro. 
+– 	 «Scripts» para la administración de cuentas de usuario, procesos y servicios del 
+sistema operativo. Programación para la gestión del directorio activo. 
+Orientaciones pedagógicas y metodológicas.
+El módulo se centra en la instalación, configuración, optimización, administración 
+y mantenimiento de diferentes servicios (directorio, impresión, fax) y procesos tanto en 
+modo local como remoto.
+El desarrollo de los contenidos tendrá, sistemáticamente, una metodología activa, 
+participativa y motivadora, cuyo esquema habitual será:
+– 	 Comunicación y exposición de conceptos.
+– 	 Desarrollo de supuestos prácticos por parte del profesorado.
+– 	 Desarrollo de supuestos prácticos por parte del alumnado, cumpliendo las 
+especificaciones establecidas, los estándares existentes, etc. y con la utilización 
+de documentación técnica a partir de las diferentes fuentes disponibles.
+– 	 Evaluación de la metodología seguida, del funcionamiento y del nivel de 
+adecuación a las especificaciones y estándares.
+– 	 Elaboración de la documentación necesaria.
+Se tratarán las diversas fases en la implementación de servicios y procesos:
+– Instalación.
+– Configuración.
+– Optimización.
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67779
+Miércoles, 1 de septiembre de 2010
+– Administración.
+– Mantenimiento.
+Las tareas a realizar sobre el sistema informático, siempre que sea posible, se 
+deberán de implementar para que su realización se desarrolle de forma automática.
+Las prácticas se realizarán mediante la utilización de software de base, utilidades y 
+aplicaciones tanto libres como propietarias y realizando su implementación en diferentes 
+plataformas y dispositivos.
+Módulo Profesional: Servicios de red e internet.
+Equivalencia en créditos ECTS: 8.
+Código: 0375.
+Duración: 147 horas.
+Contenidos:
+1. Instalación y administración de servicios de nombres de dominio: 
+– 	 Sistemas de nombres planos y jerárquicos. 
+– 	 Resolutores de nombres. Proceso de resolución de un nombre de dominio. 
+– 	 Servidores raíz y dominios de primer nivel y sucesivos. 
+– 	 Zonas primarias y secundarias. Transferencias de zona. 
+– 	 Tipos de registros. 
+– 	 Servidores de nombres en direcciones «ip» dinámicas. 
+– 	 Utilización de reenviadores.
+– 	 Resolución inversa.
+– 	 Comandos relativos a la resolución de nombres.
+– 	 Herramientas gráficas de configuración.
+2. Instalación y administración de servicios de configuración automática de red:
+– 	 Funcionamiento del servicio.
+– 	 Mensajes.
+– 	 Asignaciones. Tipos. 
+– 	 Parámetros y declaraciones de configuración. 
+– 	 Servidor autorizado.
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67780
+Miércoles, 1 de septiembre de 2010
+– 	 Comandos utilizados para el funcionamiento del servicio. 
+– 	 Herramientas gráficas de configuración.
+3. Instalación y administración de servidores Web:
+– 	 Características generales de un servidor Web.
+– 	 Protocolo http. 
+– 	 Tipos MIME.
+– 	 Configuración básica de un servidor Web. 
+– 	 Módulos: Instalación, configuración y uso. 
+– 	 «Hosts» virtuales. Creación, configuración y utilización. 
+– 	 Autenticación y control de acceso. 
+– 	 El protocolo https.
+– 	 Certificados. Servidores de certificados. 
+– 	 Navegadores Web. Parámetros de apariencia y uso. 
+– 	 Registro y monitorización. Estadísticas.
+– 	 Herramientas gráficas de configuración.
+4. Instalación y administración de servicios de transferencia de archivos:
+– 	 Funcionalidad del servicio de transferencia de archivos. Servidores y clientes.
+– 	 Configuración del servicio de transferencia de archivos. Permisos y cuotas. 
+– 	 Tipos de usuarios y accesos al servicio. 
+– 	 Modos de conexión del cliente. 
+– 	 Tipos de transferencia de archivos. 
+– 	 Utilización de herramientas gráficas.
+– 	 Utilización del servicio de transferencia de archivos en modo texto. Comandos.
+5. Instalación y administración del servicio de correo electrónico:
+– 	 Elementos del servicio de correo electrónico. Agentes.
+– 	 Estructura de los mensajes de correo electrónico.
+– 	 Protocolo de transferencia de mensajes. 
+– 	 Clientes de correo electrónico. 
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67781
+Miércoles, 1 de septiembre de 2010
+– 	 Cuentas de correo, alias y buzones de usuario. 
+– 	 Servicio de correo electrónico vía web.
+– 	 Correo seguro: Firma digital y cifrado de mensajes.
+– 	 Reenvío de correo y correo no deseado.
+– 	 Protocolos y servicios de descarga de correo. 
+6. Instalación y administración de servicios de mensajería instantánea, noticias y 
+listas de distribución:
+– 	 Características del servicio de mensajería instantánea. Protocolos. 
+– 	 Clientes gráficos de mensajería instantánea. 
+– 	 Clientes en modo texto de mensajería instantánea. 
+– 	 Uso de la mensajería instantánea. 
+– 	 Características del servicio de noticias. Protocolos.
+– 	 Clientes gráficos de noticias.
+– 	 Grupos de noticias.
+– 	 Características del servicio de listas de distribución. Protocolos. 
+– 	 Tipos de acceso a la lista de distribución.
+– 	 Tipos de listas de distribución. 
+7. Instalación y administración del servicio de audio:
+– 	 Funcionalidad del servicio de audio. Instalación y administración.
+– 	 Formatos de audio. 
+– 	 Servidores de «streaming». 
+– 	 Herramientas de reproducción de audio.
+– 	 Sindicación y suscripción de audio. «Podcast».
+8. Instalación y administración del servicio de vídeo y videoconferencia:
+– 	 Funcionalidad del servicio de vídeo. 
+– 	 Formatos de imagen. 
+– 	 Servidores de vídeo. 
+–	 Formatos de vídeo. «Códecs» y reproductores. 
+– 	 Sindicación y suscripción de vídeo. 
+– 	 Funcionalidad del servicio de videoconferencia. 
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67782
+Miércoles, 1 de septiembre de 2010
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar las tareas 
+de instalación, configuración y administración de servicios de red e Internet. 
+El desarrollo de los contenidos tendrá siempre una orientación práctica y actualizada; 
+el esquema habitual será:
+–	 Exposición de conceptos.
+– 	 Demostración práctica de la aplicación de los mismos por parte del profesorado 
+en sistemas reales (clientes y servidores) y utilizando herramientas de 
+virtualización.
+– 	 Resolución de supuestos prácticos por parte de los alumnos; esta resolución 
+incluirá la búsqueda e interpretación de información técnica y la documentación 
+del proceso llevado a cabo.
+Sería interesante realizar prácticas orientadas más a la configuración y administración 
+de servicios de red e Internet que a su instalación.
+Es imprescindible que el alumnado realice prácticas utilizando equipos reales 
+(servidores y clientes). 
+Módulo Profesional: Implantación de aplicaciones web.
+Equivalencia en créditos ECTS: 6.
+Código: 0376.
+Duración: 105 horas.
+Contenidos:
+BLOQUE A: Instalación de servidores web y aplicaciones ofimáticas. Generar 
+documentos web con acceso a base de datos.
+Duración: 63 horas.
+1. Instalación de servidores de aplicaciones web:
+– 	 Análisis de requerimientos.
+– 	 Preparación del sistema operativo del servidor.
+– 	 Servidor web: Instalación y configuración.
+– 	 Sistema gestor de base de datos: Instalación y configuración.
+– 	 Procesamiento de código: Lenguajes de «script», en cliente y servidor.
+– 	 Módulos y componentes necesarios.
+– 	 Utilidades de prueba e instalación integrada.
+– 	 Proceso y mecanismos de documentación.
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67783
+Miércoles, 1 de septiembre de 2010
+2. Implantación de aplicaciones de ofimática web:
+– 	 Tipos de aplicaciones.
+– 	 Funcionalidades y requerimientos.
+– 	 Instalación.
+– 	 Configuración.
+– 	 Integración de aplicaciones heterogéneas.
+– 	 Gestión de usuarios.
+– 	 Control de accesos.
+– 	 Aseguramiento de la información.
+3. Programación de documentos web utilizando lenguajes de «script» de servidor:
+– 	 Clasificación.
+– 	 Integración con los lenguajes de marcas.
+– 	 Sintaxis.
+– 	 Herramientas de edición de código.
+– 	 Elementos del lenguaje.
+- 	 Comentarios.
+- 	 Tipos de datos simples y compuestos.
+- 	 Variables.
+- 	 Constantes.
+- 	 Operadores.
+- 	 Expresiones.
+- 	 Alternativas e iteraciones.
+– 	 Funciones integradas y de usuario.
+– 	 Gestión de errores.
+– 	 Mecanismos de introducción de información: Formularios.
+– 	 Autenticación de usuarios.
+– 	 Control de accesos.
+– 	 Sesiones.
+– 	 Configuración del intérprete.
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67784
+Miércoles, 1 de septiembre de 2010
+4. Acceso a bases de datos desde lenguajes de «script» de servidor:
+– 	 Instalación de sistemas gestores de bases de datos.
+– 	 Preparación del sistema gestor.
+– 	 Integración de los lenguajes de «script» de servidor con los sistemas gestores de 
+base de datos.
+– 	 Conexión a bases de datos.
+– 	 Creación de bases de datos y tablas.
+– 	 Recuperación de la información de la base de datos desde una página web.
+– 	 Técnicas de procesamiento de la información recuperada.
+– 	 Modificación de la información almacenada: inserciones, actualizaciones y 
+borrados.
+– 	 Verificación de la información.
+– 	 Gestión de errores.
+–	 Mecanismos de seguridad y control de accesos.
+– 	 Verificación del funcionamiento y pruebas de rendimiento.
+– 	 Documentación.
+BLOQUE B: Implantación, administración y adaptación de Gestores de 
+Contenidos.
+Duración: 42 horas.
+5. Instalación de gestores de contenidos:
+– 	 Tipos de gestores de contenidos.
+– 	 Licencias de uso.
+– 	 Requerimientos de funcionamiento.
+– 	 Terminología.
+–	  Funcionalidades.
+– 	 Ventajas del uso de gestores de contenidos.
+– 	 Instalación.
+– 	 Creación de la base de datos.
+– 	 Estructura.
+– 	 Modo de operación.
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67785
+Miércoles, 1 de septiembre de 2010
+– 	 Creación de contenidos.
+– 	 Personalización de la interfaz.
+– 	 Adaptación de menús.
+– 	 Mecanismos de seguridad integrados.
+– 	 Verificación del funcionamiento y rendimiento.
+– 	 Publicación.
+– 	 Documentación de la configuración. 
+6. Administración de gestores de contenidos:
+– 	 Usuarios y grupos.
+– 	 Perfiles.
+– 	 Control de accesos.
+– 	 Flujos de trabajo (workflow).
+– 	 Política de seguridad.
+– 	 Registros de actividades.
+– 	 Integración de módulos.
+– 	 Gestión de temas.
+– 	 Plantillas.
+– 	 Copias de seguridad.
+– 	 Sindicación de contenidos.
+– 	 Herramientas de sindicación de contenidos.
+– 	 Importación y exportación de la información.
+7. Adaptación de gestores de contenidos:
+– 	 Principales gestores de contenidos del mercado.
+– 	 Características de los principales gestores de contenidos.
+– 	 Identificación del funcionamiento interno del gestor.
+– 	 Selección de modificaciones a realizar.
+– 	 Reconocimiento de elementos involucrados.
+– 	 Modificación de la apariencia.
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67786
+Miércoles, 1 de septiembre de 2010
+– 	 Incorporación y adaptación de funcionalidades.
+– 	 Verificación del funcionamiento.
+– 	 Depuración.
+– 	 Documentación.
+Orientaciones pedagógicas y metodológicas.
+El módulo se centra en la implantación administración y modificación de gestores de 
+contenidos, así como implantación de aplicaciones web.
+El desarrollo de estos contenidos tendrá siempre una orientación práctica el esquema 
+habitual será:
+– 	 Exposición de conceptos.
+– 	 Demostración práctica a modo de ejemplo por parte del profesorado.
+– 	 Resolución de supuestos prácticos por parte del alumnado utilizando la 
+documentación técnica existente y cumpliendo las especificaciones establecidas 
+en el supuesto.
+– 	 Elaboración de la documentación completa relativa a las actividades 
+desarrolladas.
+Este módulo está relacionado con el de «Lenguaje de marcas», dado que ambos 
+esencialmente gestionan y explotan sistemas de información, se recomienda coordinar la 
+impartición de los contenidos de estos dos módulos para que se complementen y puedan 
+conseguir desarrollar plenamente la unidad de competencia UC0493_3 «Implementar, 
+verificar y documentar aplicaciones web en entornos internet, intranet y extranet».
+Especial atención deberá ponerse en que el alumnado, cumpliendo las 
+especificaciones del profesor, sea capaz de instalar, administrar, adaptar y explorar 
+gestores de contenidos.
+El alumnado adquirirá los conocimientos necesarios para entender y poder hacer 
+modificaciones en los módulos del lado del servidor, sin necesidad de ser un experto 
+programador que no es el objetivo de este módulo.
+Módulo Profesional: Administración de sistemas gestores de bases de datos.
+Equivalencia en créditos ECTS: 5.
+Código: 0377.
+Duración: 63 horas.
+Contenidos:
+1. Instalación y configuración de un sistema gestor de base de datos:
+– 	 Funciones del Sistema gestor de base de datos (SGBD). Componentes. Tipos.
+– 	 Arquitectura del Sistema gestor de base de datos, arquitectura ANSI/SPARC.
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67787
+Miércoles, 1 de septiembre de 2010
+– 	 Sistemas gestores de base de datos comerciales y libres. 
+– 	 Estructura del diccionario de datos. 
+– 	 Ficheros LOG.
+– 	 Instalación y configuración de un SGBD monocapa; parámetros relevantes. 
+– 	 Variables de sistema. Variables dinámicas.
+– 	 Conjuntos de caracteres. Criterios de ordenación.
+– 	 Elementos de un SGBD de dos capas. 
+– 	 Instalación de un SGBD de dos capas. 
+– 	 Interfaces estándar (ODBC, JDBC); conectores. 
+– Configuración de los parámetros relevantes.
+– SGBD de tres capas. 
+– 	 Documentación.
+2. Acceso a la información: 
+– 	 Creación, modificación y eliminación de vistas. 
+– 	 Administración de usuarios.
+– 	 Creación y eliminación de usuarios. 
+– 	 Asignación y desasignación de derechos a usuarios; puntos de acceso al 
+sistema. 
+– 	 Verificación de los derechos de usuario.
+– 	 Asignación de recursos a usuarios.
+– 	 Definición de roles; asignación y desasignación de roles a usuarios. 
+– 	 Conexiones seguras.
+– 	 Normativa legal vigente sobre protección de datos. 
+3. Automatización de tareas. Construcción de guiones de administración: 
+– 	 Herramientas para creación de guiones; procedimientos de ejecución. 
+– 	 Planificación de tareas de administración mediante guiones: 
+– 	 Técnicas de planificación de tareas.
+– 	 Herramientas de planificación del SGBD.
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67788
+Miércoles, 1 de septiembre de 2010
+– 	 Eventos. 
+– 	 Disparadores. 
+– 	 Excepciones.
+– 	 Documentación.
+4. Optimización del rendimiento. Monitorización y optimización:
+– 	 Herramientas de monitorización disponibles en el sistema gestor.
+– 	 Trazas, «log» y alertas.
+– 	 Elementos y parámetros susceptibles de ser monitorizados.
+– 	 Optimización: Almacenamiento en memoria, espacio en disco.
+– 	 Transferencia y comunicaciones.
+– 	 Optimización de consultas.
+– 	 Herramientas y sentencias para la gestión de índices. 
+–	  Herramientas para la creación de alertas de rendimiento. 
+5. Aplicación de criterios de disponibilidad a bases de datos distribuidas y 
+replicadas:
+– 	 Bases de datos distribuidas; reglas de Date. 
+– 	 Tipos de SGBD distribuidos. 
+– 	 SGBD homogéneos y heterogéneos.
+– 	 Datos centralizados y no centralizados.
+– 	 Autonomía de los nodos: compuestos, federados y multibase.
+– 	 Componentes de un SGBD distribuido.
+– 	 Técnicas de fragmentación.
+– 	 Técnicas de asignación. 
+– 	 Consulta distribuida.
+– 	 Transacciones distribuidas.
+– 	 Optimización de consultas sobre bases de datos distribuidas. 
+– 	 Replicación. 
+– 	 Configuración del «nodo maestro» y los «nodos esclavos».
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67789
+Miércoles, 1 de septiembre de 2010
+Orientaciones pedagógicas y metodológicas.
+El módulo se centra en la implantación, configuración y administración de sistemas 
+gestores de bases de datos.
+El desarrollo de los contenidos tendrá siempre una orientación práctica; el esquema 
+habitual será:
+– 	 Exposición de conceptos.
+– 	 Demostración práctica de la aplicación de los mismos por parte del profesorado.
+– 	 Resolución de supuestos prácticos por parte del alumnado; esta resolución 
+incluirá la búsqueda e interpretación de información técnica y en su caso la 
+documentación del proceso llevado a cabo.
+Se realizarán prácticas con diversos sistemas gestores de bases de datos con el fin 
+de ilustrar las similitudes y diferencias entre ellos. 
+Para cada uno de los sistemas gestores se hará uso de diversas herramientas de 
+administración, creación de guiones, entre otros.
+En la resolución de supuestos que impliquen el uso de varios ordenadores, la 
+realización de prácticas con equipos virtualizados tendrá un carácter complementario con 
+respecto a las llevadas a cabo sobre equipos reales.
+Módulo Profesional: Seguridad y alta disponibilidad.
+Equivalencia en créditos ECTS: 6.
+Código: 0378.
+Duración: 105 horas.
+Contenidos:
+1. Adopción de pautas de seguridad informática:
+– 	 Fiabilidad, confidencialidad, integridad y disponibilidad.
+– 	 Elementos vulnerables en el sistema informático: hardware, software y datos.
+– 	 Análisis de las principales vulnerabilidades de un sistema informático.
+– 	 Fraudes informáticos y robos de información.
+– 	 Correo no deseado.
+–	  Amenazas. Tipos:
+–	  Amenazas físicas.
+– 	 Amenazas lógicas.
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67790
+Miércoles, 1 de septiembre de 2010
+– 	 Seguridad física y ambiental:
+– 	 Ubicación y protección física de los equipos y servidores.
+– 	 Sistemas de alimentación ininterrumpida.
+– 	 Sistemas biométricos de identificación.
+– 	 Seguridad lógica:
+– 	 Criptografía.
+– 	 Listas de control de acceso.
+– 	 Establecimiento de políticas de contraseñas.
+– 	 Certificados digitales.
+– 	 Auditorías.
+– 	 Políticas de almacenamiento.
+– 	 Copias de seguridad e imágenes de respaldo.
+– 	 Medios de almacenamiento.
+– 	 Análisis forense en sistemas informáticos:
+– 	 Herramientas y software forense.
+– 	 Análisis e interpretación de resultados los datos sin modificarlos.
+– 	 Documentación de evidencias para su posterior aceptación en un proceso 
+legal.
+2. Implantación de mecanismos de seguridad activa:
+– 	 Ataques y contramedidas en sistemas personales:
+– 	 Clasificación de los ataques.
+– 	 Anatomía de ataques y análisis de software malicioso.
+– 	 Herramientas preventivas. Instalación y configuración.
+– 	 Herramientas paliativas. Instalación y configuración.
+–	  Actualización de sistemas y aplicaciones.
+– 	 Seguridad en la conexión con redes públicas.
+– 	 Pautas y prácticas seguras.
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67791
+Miércoles, 1 de septiembre de 2010
+– 	 Seguridad en la red corporativa:
+– 	 Monitorización del tráfico en redes.
+– 	 Seguridad en los protocolos para comunicaciones inalámbricas.
+– 	 Riesgos potenciales de los servicios de red. 
+– 	 Intentos de penetración. 
+3. Implantación de técnicas de acceso remoto. Seguridad perimetral:
+– 	 Elementos básicos de la seguridad perimetral.
+– 	 Perímetros de red. Zonas desmilitarizadas.
+– 	 Arquitectura débil de subred protegida.
+– 	 Arquitectura fuerte de subred protegida.
+– 	 Redes privadas virtuales. VPN.
+– 	 Beneficios y desventajas con respecto a las líneas dedicadas.
+– 	 Técnicas de cifrado. Clave pública y clave privada:
+– 	 VPN a nivel de red. SSL, IPSec.
+– 	 VPN a nivel de aplicación. SSH.
+– 	 Servidores de acceso remoto:
+– 	 Protocolos de autenticación.
+– 	 Configuración de parámetros de acceso.
+– 	 Servidores de autenticación.
+4. Instalación y configuración de cortafuegos:
+– 	 Utilización de cortafuegos.
+– 	 Filtrado de paquetes de datos.
+– 	 Tipos de cortafuegos. Características. Funciones principales.
+– 	 Instalación de cortafuegos. Ubicación.
+– 	 Reglas de filtrado de cortafuegos.
+– 	 Pruebas de funcionamiento. Sondeo.
+– 	 Registros de sucesos de un cortafuegos.
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67792
+Miércoles, 1 de septiembre de 2010
+5. Instalación y configuración de servidores «Proxy»:
+– 	 Tipos de «Proxy». Características y funciones.
+– 	 Instalación de servidores «Proxy».
+– 	 Instalación y configuración de clientes «Proxy».
+– 	 Configuración del almacenamiento en la caché de un «Proxy».
+– 	 Configuración de filtros.
+– 	 Métodos de autenticación en un «Proxy».
+6. Implantación de soluciones de alta disponibilidad:
+– Definición y objetivos.
+– Análisis de configuraciones de alta disponibilidad.
+– 	 Funcionamiento ininterrumpido.
+– 	 Integridad de datos y recuperación de servicio.
+– 	 Servidores redundantes.
+– 	 Sistemas de «clusters».
+– 	 Balanceadores de carga.
+– 	 Instalación y configuración de soluciones de alta disponibilidad.
+– 	 Alta disponibilidad y Tolerancia a Desastres.
+– 	 Virtualización de sistemas.
+– 	 Posibilidades de la virtualización de sistemas.
+– 	 Herramientas para la virtualización.
+– 	 Configuración y utilización de máquinas virtuales.
+– 	 Alta disponibilidad y virtualización.
+– Simulación de servicios con virtualización. Virtualización de aplicaciones. 
+Virtualización de puesto.
+– 	 Normas y procedimientos de los planes de contingencia.
+– 	 Planes de respaldo.
+– 	 Planes de emergencia.
+– 	 Planes de recuperación.
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67793
+Miércoles, 1 de septiembre de 2010
+7. Legislación y normas sobre seguridad:
+– 	 Legislación sobre protección de datos.
+– 	 Legislación sobre los servicios de la sociedad de la información y correo 
+electrónico.
+– 	 Esquema Nacional de Seguridad.
+– 	 Estándares internacionales sobre los Sistemas de Gestión de la Seguridad de la 
+Información.
+– 	 Especificación de los requisitos necesarios para establecer, implantar, mantener 
+y mejorar un Sistema de Gestión de la Seguridad de la Información.
+Orientaciones pedagógicas y metodológicas.
+El módulo contiene la formación necesaria para hacer que los sistemas informáticos 
+sean seguros, sus transacciones e información confiables y estén siempre disponibles a 
+los procesos de negocio necesarios para el desarrollo de las actividades diarias de una 
+organización.
+El desarrollo de estos contenidos tendrá en su mayor parte una orientación práctica; 
+el esquema habitual será:
+– 	 Exposición de conceptos y estándares.
+– 	 Demostración práctica a modo de ejemplo por parte del profesorado.
+– 	 Planteamiento y resolución de supuestos prácticos por parte del alumnado 
+cumpliendo con las especificaciones establecidas en el sector.
+– 	 Evaluar el funcionamiento adecuado y seguro de los sistemas de información.
+– 	 Elaborar la documentación completa relativa a las actividades desarrolladas bajo 
+estándares internacionales de seguridad y legislación vigente.
+En este módulo debe ponerse especial énfasis en que el alumnado entienda y 
+descubra los riesgos y puntos inseguros de los sistemas informáticos y de su interconexión 
+junto con los problemas que acarrea comprometer la información.
+Es imprescindible que el alumnado realice prácticas lo más reales posibles de 
+diversos ataques o procesos que intenten comprometer la seguridad y disponibilidad de 
+un sistema informático.
+Todos los procedimientos seguidos deberían documentarse para que el alumnado 
+se acostumbre a dejar una constancia escrita de los mecanismos que se han establecido 
+para asegurar y proteger el sistema informático y su entorno.
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67794
+Miércoles, 1 de septiembre de 2010
+Módulo Profesional: Proyecto de administración de sistemas informáticos en red. 
+Equivalencia en créditos ECTS: 5.
+Código: 0379.
+Duración: 30 horas.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional complementa la formación establecida para el resto de los 
+módulos profesionales que integran el título en las funciones de análisis del contexto, 
+diseño del proyecto y organización de la ejecución.
+La función de análisis del contexto incluye las subfunciones de:
+– 	 Recopilación de información.
+– 	 Identificación y priorización de necesidades.
+– 	 Identificación de los aspectos que facilitan o dificultan el desarrollo de la posible 
+intervención.
+La función de diseño del proyecto tiene como objetivo establecer las líneas generales 
+para dar respuesta a las necesidades planteadas concretando los aspectos relevantes 
+para su realización. Incluye las subfunciones de:
+– 	 Definición o adaptación de la intervención.
+– 	 Priorización y secuenciación de las acciones.
+– 	 Planificación de la intervención.
+– 	 Determinación de recursos.
+– 	 Planificación de la evaluación.
+– 	 Diseño de documentación.
+– 	 Plan de atención al cliente.
+La función de organización de la ejecución incluye las subfunciones de:
+– 	 Detección de demandas y necesidades.
+– 	 Programación.
+– 	 Gestión.
+– 	 Coordinación y supervisión de la intervención.
+– 	 Elaboración de informes.
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67795
+Miércoles, 1 de septiembre de 2010
+Las actividades profesionales asociadas a estas funciones se desarrollan en:
+– 	 Áreas de sistemas y departamentos de informática en cualquier sector de 
+actividad.
+– 	 Sector de servicios tecnológicos y comunicaciones.
+– 	 Área comercial con gestión de transacciones por Internet.
+La formación del módulo se relaciona con todos los objetivos generales del ciclo y 
+las competencias profesionales, personales y sociales del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo están relacionadas con:
+– 	 La responsabilidad y la autoevaluación del trabajo realizado.
+– 	 La autonomía y la iniciativa personal.
+–	 El uso de las Tecnologías de la Información y de la Comunicación.
+El proyecto será realizado por el alumnado, de forma individual, preferentemente 
+durante el tercer trimestre del segundo curso. El alumnado será tutorizado por un profesor, 
+que imparta docencia en segundo curso del ciclo formativo, de la especialidad de 
+«Informática» o de «Sistemas y Aplicaciones Informáticas», de acuerdo con lo establecido 
+en el Anexo III A) del Real Decreto 1629/2009, de 30 de octubre, no obstante, dado que los 
+resultados de aprendizaje y criterios de evaluación de este módulo complementan los del 
+resto de los módulos y tiene un carácter integrador de todos los módulos del ciclo, sería 
+conveniente la colaboración de todos los profesores con atribución docente en el ciclo 
+formativo.
+Módulo Profesional: Formación y orientación laboral. 
+Equivalencia en créditos ECTS: 5.
+Código: 0380.
+Duración: 96 horas.
+Contenidos:
+BLOQUE A: Formación, Legislación y Relaciones Laborales.
+Duración: 46 horas.
+1. Búsqueda activa de empleo:
+– 	 Valoración de la importancia de la formación permanente para la trayectoria laboral 
+y profesional del Técnico Superior en Administración de Sistemas Informáticos 
+en Red.
+– 	 Oportunidades de aprendizaje y empleo en Europa. Programas europeos.
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67796
+Miércoles, 1 de septiembre de 2010
+– 	 Valoración de la empleabilidad y adaptación como factores clave para responder 
+a las exigencias del mercado laboral.
+– 	 Análisis de los intereses, aptitudes y motivaciones personales para la carrera 
+profesional.
+– 	 Identificación de itinerarios formativos relacionados con el Técnico Superior en 
+Administración de Sistemas Informáticos en Red.
+– 	 Definición y análisis del sector profesional del Técnico Superior en Administración 
+de Sistemas Informáticos en Red.
+– 	 Proceso de búsqueda de empleo en pequeñas, medianas y grandes empresas 
+del sector.
+– 	 La búsqueda de empleo. Fuentes de información.
+– 	 Técnicas e instrumentos de búsqueda de empleo.
+– 	 Oportunidades de autoempleo.
+– 	 El proceso de toma de decisiones.
+– 	 La igualdad de oportunidades en el acceso al empleo.
+2. Gestión del conflicto y equipos de trabajo:
+– 	 Valoración de las ventajas e inconvenientes del trabajo de equipo para la eficacia 
+de la organización.
+– 	 Tipología de equipos de trabajo.
+– 	 Equipos en la industria de administración de sistemas informáticos en red según 
+las funciones que desempeñan. 
+– 	 Formación y funcionamiento de equipos eficaces.
+– 	 La participación en el equipo de trabajo.
+– 	 Técnicas de participación. 
+– 	 Identificación de roles. Barreras a la participación.
+– 	 Conflicto: Características, fuentes y etapas.
+– 	 Consecuencias de los conflictos.
+– 	 Métodos para la resolución o supresión del conflicto.
+– 	 La comunicación como instrumento fundamental para el trabajo en equipo y la 
+negociación. Comunicación asertiva.
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67797
+Miércoles, 1 de septiembre de 2010
+3. Contrato de trabajo:
+– 	 El derecho del trabajo. Normas fundamentales.
+– 	 Órganos de la administración y jurisdicción laboral.
+– 	 Análisis de la relación laboral individual.
+– 	 Modalidades de contrato de trabajo y medidas de fomento de la contratación.
+– 	 Derechos y deberes derivados de la relación laboral.
+– 	 El tiempo de trabajo.
+– 	 Análisis del recibo de salarios. Liquidación de haberes.
+– 	 Modificación, suspensión y extinción del contrato de trabajo.
+– 	 Valoración de las medidas para la conciliación familiar y profesional.
+– 	 Representación de los trabajadores en la empresa.
+– 	 Medidas de conflicto colectivo. Procedimientos de solución.
+– 	 Análisis de un convenio colectivo aplicable al ámbito profesional del técnico 
+superior en Administración de Sistemas Informáticos en Red.
+– 	 Beneficios para los trabajadores en las nuevas organizaciones: flexibilidad y 
+beneficios sociales, entre otros.
+4. Seguridad Social, Empleo y Desempleo:
+– 	 Estructura del Sistema de la Seguridad Social.
+– 	 Determinación de las principales obligaciones de empresarios y trabajadores en 
+materia de Seguridad Social: afiliación, altas, bajas y cotización.
+– 	 Situaciones protegibles en la protección por desempleo.
+– 	 Cálculo de bases de cotización a la Seguridad Social y determinación de cuotas 
+en un supuesto sencillo.
+– 	 Prestaciones de la Seguridad Social.
+– 	 Cálculo de una prestación por desempleo de nivel contributivo básico.
+BLOQUE B: Prevención de Riesgos Laborales.
+Duración: 50 horas.
+5. Evaluación de riesgos profesionales:
+– 	 Importancia de la cultura preventiva en todas las fases de la actividad. 
+Sensibilización a través de las estadísticas de siniestralidad nacional y en Castilla 
+y León, de la necesidad de hábitos y actuaciones seguras.
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67798
+Miércoles, 1 de septiembre de 2010
+– 	 Valoración de la relación entre trabajo y salud.
+– 	 El riesgo profesional.
+– 	 Análisis de factores de riesgo.
+– 	 Análisis de riesgos ligados a las condiciones de seguridad.
+– 	 Análisis de riesgos ligados a las condiciones ambientales.
+– 	 Análisis de riesgos ligados a las condiciones ergonómicas y psico-sociales.
+– 	 Riesgos específicos en la industria de administración de sistemas informáticos 
+en red.
+– 	 La evaluación de riesgos en la empresa como elemento básico de la actividad 
+preventiva.
+– 	 Técnicas de evaluación de riesgos.
+– 	 Condiciones de trabajo y seguridad.
+– 	 Determinación de los posibles daños a la salud del trabajador que pueden 
+derivarse de las situaciones de riesgo detectadas. Los accidentes de trabajo, las 
+enfermedades profesionales y otras patologías.
+6. Planificación de la prevención de riesgos en la empresa. Prevención integrada:
+– 	 Marco normativo en materia de prevención de riesgos laborales. 
+– 	 Derechos y deberes en materia de prevención de riesgos laborales.
+– 	 Responsabilidades en materia de prevención de riesgos laborales. 
+– 	 Gestión de la prevención en la empresa. Documentación.
+– 	 Organismos públicos relacionados con la prevención de riesgos laborales. 
+– 	 Planificación de la prevención en la empresa. Documentación.
+– 	 Definición del contenido del Plan de prevención de un centro de trabajo relacionado 
+con el sector profesional.
+– 	 Planes de emergencia y de evacuación en entornos de trabajo.
+– 	 Elaboración de un plan de emergencia en una PYME.
+– 	 Representación de los trabajadores en materia preventiva.
+7. Aplicación de medidas de prevención y protección en la empresa:
+– 	 Determinación de las medidas de prevención y protección individual y colectiva.
+– 	 Señalización de seguridad.
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67799
+Miércoles, 1 de septiembre de 2010
+– 	 Protocolo de actuación ante una situación de emergencia.
+– 	 Prioridades y secuencia de actuación en el lugar del accidente.
+– 	 Urgencia médica. Primeros auxilios. Conceptos básicos.
+– 	 Aplicación de técnicas de primeros auxilios.
+– 	 Vigilancia de la salud de los trabajadores.
+– 	 Formación de los trabajadores en materia de planes de emergencia.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para que el alumnado 
+pueda insertarse laboralmente y desarrollar su carrera profesional en el sector de la 
+administración de sistemas informáticos en red.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo versarán sobre:
+– 	 El manejo de las fuentes de información sobre el sistema educativo y laboral, en 
+especial en lo referente al sector informático.
+– 	 La realización de pruebas de orientación y dinámicas sobre la propia personalidad 
+y el desarrollo de las habilidades sociales.
+– 	 La preparación y realización de currículos (CVs) y entrevistas de trabajo.
+– 	 La identificación de la normativa laboral que afecta a los trabajadores del sector, 
+el manejo de los contratos más comúnmente utilizados y la lectura comprensiva 
+de los convenios colectivos de aplicación.
+– 	 La cumplimentación de recibos de salario de diferentes características y otros 
+documentos relacionados.
+– 	 El análisis de la Ley de Prevención de Riesgos Laborales, que le permita la 
+evaluación de los riesgos derivados de las actividades desarrolladas en su 
+sector productivo, y colaborar en la definición de un plan de prevención para una 
+pequeña empresa, así como las medidas necesarias que deban adoptarse para 
+su implementación.
+Para el desarrollo de los contenidos conviene seguir una metodología activa, 
+participativa y motivadora, ajustada al siguiente protocolo:
+– 	 Exposición de contenidos.
+– 	 Desarrollo de supuestos prácticos por parte del alumnado, con la utilización de 
+documentación facilitada por el profesor.
+– 	 Evaluación de los resultados del aprendizaje.
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67800
+Miércoles, 1 de septiembre de 2010
+Módulo Profesional: Empresa e iniciativa emprendedora.
+Equivalencia en créditos ECTS: 4.
+Código: 0381.
+Duración: 63 horas.
+Contenidos:
+1. Iniciativa emprendedora:
+– 	 Innovación y desarrollo económico. Principales características de la innovación 
+en la actividad de administración de sistemas informáticos en red (materiales, 
+tecnología y organización de la producción, entre otros).
+– 	 El trabajo por cuenta propia como fuente de creación de empleo y bienestar 
+social.
+– 	 Responsabilidad social de la empresa.
+– 	 Factores claves de los emprendedores: Iniciativa, creatividad y formación.
+– 	 Desarrollo del espíritu emprendedor a través del fomento de las actitudes de 
+creatividad, iniciativa, autonomía y responsabilidad.
+– 	 La actuación de los emprendedores como empleados de una empresa de 
+informática.
+– 	 Fomento de las capacidades emprendedoras de un trabajador por cuenta 
+ajena.
+– 	 La actuación de los emprendedores como empresarios, de una pequeña empresa 
+en el sector de la informática.
+– 	 Análisis de las oportunidades de negocio en el sector de la informática.
+– 	 Análisis de la capacidad para asumir riesgos del emprendedor.
+– 	 El empresario. Requisitos para el ejercicio de la actividad empresarial. Aptitudes 
+y actitudes.
+– 	 Plan de empresa: La idea de negocio en el ámbito de la informática.
+–	  Búsqueda de ideas de negocio. Análisis y viabilidad de las mismas.
+2. La empresa y su entorno:
+– 	 Funciones básicas de la empresa.
+– 	 Estructura organizativa de la empresa. Organigrama.
+– 	 La empresa como sistema.
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67801
+Miércoles, 1 de septiembre de 2010
+– 	 El entorno general de la empresa en los aspectos económico, social, demográfico 
+y cultural.
+– 	 Competencia. Barreras de entrada.
+– 	 Relaciones con clientes y proveedores.
+– 	 Variables del marketing mix: Precio, producto, comunicación y distribución.
+– 	 Análisis del entorno general de una PYME de informática.
+– 	 Análisis del entorno específico de una PYME de informática.
+– 	 Relaciones de una PYME de informática con su entorno.
+– 	 Cultura empresarial e imagen corporativa.
+– 	 Relaciones de una PYME de informática con el conjunto de la sociedad.
+– 	 El balance social: Los costes y los beneficios sociales.
+– 	 La ética empresarial en empresas de administración de sistemas informáticos.
+3. Creación y puesta en marcha de una empresa:
+– 	 Tipos de empresa. 
+– 	 Elección de la forma jurídica. 
+– 	 La franquicia como forma de empresa.
+– 	 Ventajas e inconvenientes de las distintas formas jurídicas con espacial atención 
+a la responsabilidad legal.
+– 	 La fiscalidad en las empresas. 
+– 	 Impuestos más importantes que afectan a la actividad de la empresa.
+– 	 Trámites administrativos para la constitución de una empresa.
+– 	 Relaciones con organismos oficiales.
+– 	 Subvenciones y ayudas destinadas a la creación de empresa del sector de la 
+administración de sistemas informáticos en red en la localidad de referencia.
+– 	 Viabilidad económica y viabilidad financiera de una PYME de informática.
+– 	 Plan de empresa: Elección de la forma jurídica, estudio de viabilidad económica 
+y financiera, trámites administrativos y gestión de ayudas y subvenciones.
+– 	 Vías externas de asesoramiento y gestión. La ventanilla única empresarial.
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67802
+Miércoles, 1 de septiembre de 2010
+4. Función administrativa:
+– 	 Concepto de contabilidad y nociones básicas.
+– 	 Cuentas anuales obligatorias.
+– 	 Análisis de la información contable.
+– 	 Ratios.
+– 	 Cálculo de costes, beneficio y umbral de rentabilidad.
+– 	 Obligaciones fiscales de las empresas.
+– 	 Calendario fiscal.
+– 	 Gestión administrativa de una empresa de informática.
+– 	 Documentos básicos utilizados en la actividad económica de la empresa: nota de 
+pedido, albarán, factura. Letra de cambio, cheque y otros.
+– 	 Gestión de aprovisionamiento. Valoración de existencias. Volumen óptimo de 
+pedido.
+– 	 Elaboración de un plan de empresa.
+Orientaciones pedagógicas y metodológicas.
+ Este módulo profesional contiene la formación necesaria para desarrollar la propia 
+iniciativa en el ámbito empresarial, tanto hacia el autoempleo como hacia la asunción de 
+responsabilidades y funciones en el empleo por cuenta ajena.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo versarán sobre:
+– 	 El manejo de las fuentes de información sobre el sector de la informática, 
+incluyendo el análisis de los procesos de innovación sectorial en marcha.
+– 	 La realización de casos y dinámicas de grupo que permitan comprender y valorar 
+las actitudes de los emprendedores y ajustar la necesidad de los mismos al 
+sector industrial relacionado con los procesos de administración de sistemas 
+informáticos en red.
+– 	 La utilización de programas de gestión administrativa para PYMES del sector.
+– 	 La realización de un proyecto de plan de empresa relacionada con la actividad de 
+la administración de sistemas informáticos en red y que incluya todas las facetas 
+de puesta en marcha de un negocio, así como justificación de su responsabilidad 
+social.
+– 	 Utilización de la herramienta «Aprende a Emprender».
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+Pág. 67803
+Miércoles, 1 de septiembre de 2010
+Para el desarrollo de los contenidos conviene seguir una metodología activa, 
+participativa y motivadora, ajustada al siguiente protocolo:
+– 	 Exposición de contenidos.
+– 	 Desarrollo de supuestos prácticos por parte del alumnado, con la utilización de 
+documentación facilitada por el profesorado.
+– 	 Evaluación de los resultados del aprendizaje.
+Módulo Profesional: Formación en centros de trabajo. 
+Equivalencia en créditos ECTS: 22.
+Código: 0382.
+Duración: 380 horas.
+Este módulo profesional contribuye a completar las competencias, propias de 
+este título, que se han alcanzado en el centro educativo o a desarrollar competencias 
+características difíciles de conseguir en el mismo.
+CV: BOCYL-D-01092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 169
+http://bocyl.jcyl.es
+D.L.: BU 10-1979 - ISSN 1989-8959
+Pág. 67804
+Miércoles, 1 de septiembre de 2010
+ANEXO III
+ORGANIZACIÓN Y DISTRIBUCIÓN HORARIA
+Módulos profesionales
+Duración 
+del 
+currículo
+(horas)
+Centro Educativo
+Centro 
+de 
+Trabajo
+Curso 1.º
+horas/semanales
+Curso 2.º
+1.º y 2.º
+trimestres
+horas/semanales
+3.er 
+trimestre
+horas
+0369. Implantación de sistemas 
+operativos.
+256
+8
+0370. Planificación y administración 
+de redes.
+192
+6
+0371. Fundamentos de hardware.
+96
+3
+0372. Gestión de bases de datos.
+192
+6
+0373. Lenguajes de marcas y 
+sistemas de gestión de 
+información.
+128
+4
+0374. Administración de sistemas 
+operativos.
+147
+7
+0375. Servicios de red e Internet.
+147
+7
+0376. Implantación de aplicaciones 
+Web.
+105
+5
+0377. Administración de sistemas 
+gestores de bases de datos.
+63
+3
+0378. Seguridad y alta disponibilidad.
+105
+5
+0379. Proyecto de administración de 
+sistemas informáticos en red.
+30
+30
+0380. Formación y orientación 
+laboral.
+96
+3
+0381. Empresa e iniciativa 
+emprendedora.
+63
+3
+0382. Formación en centros de 
+trabajo.
+380
+380
+TOTAL
+2.000
+30
+30
+410
+CV: BOCYL-D-01092010-2

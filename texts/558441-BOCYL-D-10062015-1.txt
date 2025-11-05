@@ -1,0 +1,1316 @@
+Boletín Oficial de Castilla y León
+Núm. 109
+Pág. 39381
+Miércoles, 10 de junio de 2015
+I. COMUNIDAD DE CASTILLA Y LEÓN
+A. DISPOSICIONES GENERALES
+CONSEJERÍA DE EDUCACIÓN
+ORDEN EDU/452/2015, de 2 de junio, por la que se crean y suprimen ficheros 
+automatizados de datos de carácter personal de la Consejería de Educación, por motivos 
+de videovigilancia de seguridad.
+La Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter 
+Personal, en su artículo 20.1, establece que la creación, modificación o supresión de los 
+ficheros de las Administraciones Públicas sólo podrán hacerse por medio de disposición 
+general publicada en el diario oficial correspondiente.
+En este sentido, el Decreto 11/2003, de 23 de enero, por el que se regulan los 
+ficheros de datos de carácter personal susceptibles de tratamiento automatizado de la 
+Administración de la Comunidad de Castilla y León, establece en su artículo 2, que la 
+creación, modificación, o supresión de ficheros automatizados de datos de carácter personal 
+se realizará, previo informe de la Dirección General de Telecomunicaciones y Transportes 
+de la Consejería de Fomento por orden del titular de la consejería competente por razón de 
+la materia a la que afectan. Asimismo, dispone que las órdenes de creación o modificación 
+de ficheros deberán recoger todos los apartados que establece el artículo 20.2 de la 
+Ley Orgánica 15/1999 y las órdenes por las que se supriman ficheros de carácter personal 
+deberán especificar cuál será el destino de los mismos, o en su caso, las previsiones que 
+se adopten para su destrucción.
+No obstante, el Decreto 31/2011 de 7 de julio por el que se establece la estructura 
+orgánica de la Consejería de Hacienda, atribuye a la Dirección General de Atención al 
+Ciudadano, Calidad y Modernización, el ejercicio de las funciones de coordinación y control 
+de las medidas de seguridad aplicables a los ficheros automatizados que contengan datos 
+de carácter personal.
+Por ello, ante la necesidad de instalar videocámaras de vigilancia en centros públicos 
+educativos dependientes de esta administración y para dar cumplimiento a las exigencias 
+legales establecidas garantizando, paralelamente, el derecho a la protección de datos de 
+carácter personal en el tratamiento de las imágenes captadas en estos lugares, se hace 
+preciso la creación de ficheros automatizados de datos.
+Así, en virtud de las citadas normas y demás de general aplicación y previo informe 
+sobre las medidas de seguridad de los ficheros formulado por la Dirección General de 
+Atención al Ciudadano, Calidad y Modernización de la Consejería de Hacienda.
+DISPONGO
+Artículo 1. Objeto.
+La presente orden tiene por objeto la creación y supresión de los ficheros de datos 
+de carácter personal de la Consejería de Educación, por motivos de videovigilancia 
+de seguridad, que se describen en los Anexos I y II, respectivamente, de la presente 
+disposición.
+CV: BOCYL-D-10062015-1
+
+Boletín Oficial de Castilla y León
+Núm. 109
+Pág. 39382
+Miércoles, 10 de junio de 2015
+Artículo 2. Medidas técnicas y organizativas.
+El titular del órgano responsable de cada fichero automatizado, y en su caso el 
+encargado de su tratamiento, adoptarán las medidas de índole técnica y organizativa 
+necesarias que garanticen la seguridad de los datos de carácter personal y eviten su 
+alteración, pérdida, tratamiento o acceso no autorizado, habida cuenta del estado de la 
+tecnología, la naturaleza de los datos almacenados y los riesgos a que están expuestos. 
+Ello implica la implantación de las medidas de seguridad exigibles en función de la 
+naturaleza de los datos protegidos, en los términos establecidos en el Título VIII del Real 
+Decreto 1720/2007, de 21 de diciembre, por el que se aprueba el Reglamento de desarrollo 
+de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter 
+Personal.
+Asimismo cualquier persona que por razón del ejercicio de sus funciones tenga 
+acceso a los datos deberá observar la debida reserva, confidencialidad y sigilo en relación 
+con las mismas.
+Artículo 3. Información.
+Los responsables que cuenten con sistemas de videovigilancia deberán cumplir con 
+el deber de información previsto en el artículo 5 de la Ley Orgánica 15/1999, de 13 de 
+diciembre, de Protección de Datos de Carácter Personal, de acuerdo con lo establecido 
+en el artículo 3 de la Instrucción 1/2006, de 8 de noviembre de la Agencia Española de 
+Protección de Datos, sobre el tratamiento de datos personales con fines de videovigilancia 
+a través de sistemas de cámaras y videocámaras.
+Artículo 4. Derecho de los afectados.
+Los afectados por el fichero podrán ejercitar sus derechos de acceso, rectificación 
+y cancelación de datos, cuando proceda, ante el órgano administrativo responsable del 
+tratamiento de los mismos indicado en el Anexo I, a quien deberá remitir su solicitud 
+haciendo constar su identidad junto con una imagen actualizada.
+DISPOSICIÓN FINAL
+Entrada en vigor.
+La presente orden entrará en vigor el día siguiente al de su publicación en el «Boletín 
+Oficial de Castilla y León».
+Valladolid, 2 de junio de 2015.
+El Consejero,
+Fdo.: Juan José Mateos Otero
+CV: BOCYL-D-10062015-1
+
+Boletín Oficial de Castilla y León
+Núm. 109
+Pág. 39383
+Miércoles, 10 de junio de 2015
+ANEXO I
+FICHEROS CREADOS
+1.– Denominación del fichero: Fichero de videovigilancia de centros públicos 
+dependientes de la Consejería de Educación en la provincia de Ávila.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+edificios e instalaciones de los centros públicos dependientes de la Consejería de 
+Educación. Funciones de vigilancia y seguridad, así como de control de casos de 
+violencia, acoso escolar y actos vandálicos en estos lugares.
+Personas y colectivos afectados:
+Personas que accedan, circulen y permanezcan en edificios e instalaciones de los 
+centros públicos dependientes de la Consejería de Educación.
+Procedimiento de recogida y procedencia de datos:
+El propio afectado de forma directa a través de la grabación de imágenes/voz.
+Estructura básica del fichero y descripción de los datos de carácter personal:
+Grabaciones en video, conteniendo imagen/voz como datos identificativos del 
+afectado.
+Cesiones previstas:
+Sí. Fuerzas y Cuerpos de Seguridad.
+Órganos de la Administración responsables de los ficheros:
+Dirección Provincial de Educación de Ávila.
+Servicios o Unidades ante los que pueden ejercitarse los derechos de acceso, 
+rectificación y cancelación:
+Dirección Provincial de Educación de Ávila.
+Medidas de seguridad:
+Nivel Básico.
+2.– Denominación del fichero: Fichero de videovigilancia de centros públicos 
+dependientes de la Consejería de Educación en la provincia de Burgos.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+edificios e instalaciones de los centros públicos dependientes de la Consejería de 
+Educación. Funciones de vigilancia y seguridad, así como de control de casos de 
+violencia, acoso escolar y actos vandálicos en estos lugares.
+CV: BOCYL-D-10062015-1
+
+Boletín Oficial de Castilla y León
+Núm. 109
+Pág. 39384
+Miércoles, 10 de junio de 2015
+Personas y colectivos afectados:
+Personas que accedan, circulen y permanezcan en edificios e instalaciones de los 
+centros públicos dependientes de la Consejería de Educación.
+Procedimiento de recogida y procedencia de datos:
+El propio afectado de forma directa a través de la grabación de imágenes/voz.
+Estructura básica del fichero y descripción de los datos de carácter personal:
+Grabaciones en video, conteniendo imagen/voz como datos identificativos del 
+afectado.
+Cesiones previstas:
+Sí. Fuerzas y Cuerpos de Seguridad.
+Órganos de la Administración responsables de los ficheros:
+Dirección Provincial de Educación de Burgos.
+Servicios o Unidades ante los que pueden ejercitarse los derechos de acceso, 
+rectificación y cancelación:
+Dirección Provincial de Educación de Burgos.
+Medidas de seguridad:
+Nivel Básico.
+3.– Denominación del fichero: Fichero de videovigilancia de centros públicos 
+dependientes de la Consejería de Educación en la provincia de León.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+edificios e instalaciones de los centros públicos dependientes de la Consejería de 
+Educación. Funciones de vigilancia y seguridad, así como de control de casos de 
+violencia, acoso escolar y actos vandálicos en estos lugares.
+Personas y colectivos afectados:
+Personas que accedan, circulen y permanezcan en edificios e instalaciones de los 
+centros públicos dependientes de la Consejería de Educación.
+Procedimiento de recogida y procedencia de datos:
+El propio afectado de forma directa a través de la grabación de imágenes/voz.
+Estructura básica del fichero y descripción de los datos de carácter personal:
+Grabaciones en video, conteniendo imagen/voz como datos identificativos del 
+afectado.
+CV: BOCYL-D-10062015-1
+
+Boletín Oficial de Castilla y León
+Núm. 109
+Pág. 39385
+Miércoles, 10 de junio de 2015
+Cesiones previstas:
+Sí. Fuerzas y Cuerpos de Seguridad.
+Órganos de la Administración responsables de los ficheros:
+Dirección Provincial de Educación de León.
+Servicios o Unidades ante los que pueden ejercitarse los derechos de acceso, 
+rectificación y cancelación:
+Dirección Provincial de Educación de León.
+Medidas de seguridad:
+Nivel Básico.
+4.– Denominación del fichero: Fichero de videovigilancia de centros públicos 
+dependientes de la Consejería de Educación en la provincia de Palencia.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+edificios e instalaciones de los centros públicos dependientes de la Consejería de 
+Educación. Funciones de vigilancia y seguridad, así como de control de casos de 
+violencia, acoso escolar y actos vandálicos en estos lugares.
+Personas y colectivos afectados:
+Personas que accedan, circulen y permanezcan en edificios e instalaciones de los 
+centros públicos dependientes de la Consejería de Educación.
+Procedimiento de recogida y procedencia de datos:
+El propio afectado de forma directa a través de la grabación de imágenes/voz.
+Estructura básica del fichero y descripción de los datos de carácter personal:
+Grabaciones en video, conteniendo imagen/voz como datos identificativos del 
+afectado.
+Cesiones previstas:
+Sí. Fuerzas y Cuerpos de Seguridad.
+Órganos de la Administración responsables de los ficheros:
+Dirección Provincial de Educación de Palencia.
+Servicios o Unidades ante los que pueden ejercitarse los derechos de acceso, 
+rectificación y cancelación:
+Dirección Provincial de Educación de Palencia.
+Medidas de seguridad:
+Nivel Básico.
+CV: BOCYL-D-10062015-1
+
+Boletín Oficial de Castilla y León
+Núm. 109
+Pág. 39386
+Miércoles, 10 de junio de 2015
+5.– Denominación del fichero: Fichero de videovigilancia de centros públicos 
+dependientes de la Consejería de Educación en la provincia de Salamanca.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+edificios e instalaciones de los centros públicos dependientes de la Consejería de 
+Educación. Funciones de vigilancia y seguridad, así como de control de casos de 
+violencia, acoso escolar y actos vandálicos en estos lugares.
+Personas y colectivos afectados:
+Personas que accedan, circulen y permanezcan en edificios e instalaciones de los 
+centros públicos dependientes de la Consejería de Educación.
+Procedimiento de recogida y procedencia de datos:
+El propio afectado de forma directa a través de la grabación de imágenes/voz.
+Estructura básica del fichero y descripción de los datos de carácter personal:
+Grabaciones en video, conteniendo imagen/voz como datos identificativos del 
+afectado.
+Cesiones previstas:
+Sí. Fuerzas y Cuerpos de Seguridad.
+Órganos de la Administración responsables de los ficheros:
+Dirección Provincial de Educación de Salamanca.
+Servicios o Unidades ante los que pueden ejercitarse los derechos de acceso, 
+rectificación y cancelación:
+Dirección Provincial de Educación de Salamanca.
+Medidas de seguridad:
+Nivel Básico.
+6.– Denominación del fichero: Fichero de videovigilancia de centros públicos 
+dependientes de la Consejería de Educación en la provincia de Segovia.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+edificios e instalaciones de los centros públicos dependientes de la Consejería de 
+Educación. Funciones de vigilancia y seguridad, así como de control de casos de 
+violencia, acoso escolar y actos vandálicos en estos lugares.
+Personas y colectivos afectados:
+Personas que accedan, circulen y permanezcan en edificios e instalaciones de los 
+centros públicos dependientes de la Consejería de Educación.
+CV: BOCYL-D-10062015-1
+
+Boletín Oficial de Castilla y León
+Núm. 109
+Pág. 39387
+Miércoles, 10 de junio de 2015
+Procedimiento de recogida y procedencia de datos:
+El propio afectado de forma directa a través de la grabación de imágenes/voz.
+Estructura básica del fichero y descripción de los datos de carácter personal:
+Grabaciones en video, conteniendo imagen/voz como datos identificativos del 
+afectado.
+Cesiones previstas:
+Sí. Fuerzas y Cuerpos de Seguridad.
+Órganos de la Administración responsables de los ficheros:
+Dirección Provincial de Educación de Segovia.
+Servicios o Unidades ante los que pueden ejercitarse los derechos de acceso, 
+rectificación y cancelación:
+Dirección Provincial de Educación de Segovia.
+Medidas de seguridad:
+Nivel Básico.
+7.– Denominación del fichero: Fichero de videovigilancia de centros públicos 
+dependientes de la Consejería de Educación en la provincia de Soria.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+edificios e instalaciones de los centros públicos dependientes de la Consejería de 
+Educación. Funciones de vigilancia y seguridad, así como de control de casos de 
+violencia, acoso escolar y actos vandálicos en estos lugares.
+Personas y colectivos afectados:
+Personas que accedan, circulen y permanezcan en edificios e instalaciones de los 
+centros públicos dependientes de la Consejería de Educación.
+Procedimiento de recogida y procedencia de datos:
+El propio afectado de forma directa a través de la grabación de imágenes/voz.
+Estructura básica del fichero y descripción de los datos de carácter personal:
+Grabaciones en video, conteniendo imagen/voz como datos identificativos del 
+afectado.
+Cesiones previstas:
+Sí. Fuerzas y Cuerpos de Seguridad.
+CV: BOCYL-D-10062015-1
+
+Boletín Oficial de Castilla y León
+Núm. 109
+Pág. 39388
+Miércoles, 10 de junio de 2015
+Órganos de la Administración responsables de los ficheros:
+Dirección Provincial de Educación de Soria.
+Servicios o Unidades ante los que pueden ejercitarse los derechos de acceso, 
+rectificación y cancelación:
+Dirección Provincial de Educación de Soria.
+Medidas de seguridad:
+Nivel Básico.
+8.– Denominación del fichero: Fichero de videovigilancia de centros públicos 
+dependientes de la Consejería de Educación en la provincia de Valladolid.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+edificios e instalaciones de los centros públicos dependientes de la Consejería de 
+Educación. Funciones de vigilancia y seguridad, así como de control de casos de 
+violencia, acoso escolar y actos vandálicos en estos lugares.
+Personas y colectivos afectados:
+Personas que accedan, circulen y permanezcan en edificios e instalaciones de los 
+centros públicos dependientes de la Consejería de Educación.
+Procedimiento de recogida y procedencia de datos:
+El propio afectado de forma directa a través de la grabación de imágenes/voz.
+Estructura básica del fichero y descripción de los datos de carácter personal:
+Grabaciones en video, conteniendo imagen/voz como datos identificativos del 
+afectado.
+Cesiones previstas:
+Sí. Fuerzas y Cuerpos de Seguridad.
+Órganos de la Administración responsables de los ficheros:
+Dirección Provincial de Educación de Valladolid.
+Servicios o Unidades ante los que pueden ejercitarse los derechos de acceso, 
+rectificación y cancelación:
+Dirección Provincial de Educación de Valladolid.
+Medidas de seguridad:
+Nivel Básico.
+CV: BOCYL-D-10062015-1
+
+Boletín Oficial de Castilla y León
+Núm. 109
+Pág. 39389
+Miércoles, 10 de junio de 2015
+9.– Denominación del fichero: Fichero de videovigilancia de centros públicos 
+dependientes de la Consejería de Educación en la provincia de Zamora.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+edificios e instalaciones de los centros públicos dependientes de la Consejería de 
+Educación. Funciones de vigilancia y seguridad, así como de control de casos de 
+violencia, acoso escolar y actos vandálicos en estos lugares.
+Personas y colectivos afectados:
+Personas que accedan, circulen y permanezcan en edificios e instalaciones de los 
+centros públicos dependientes de la Consejería de Educación.
+Procedimiento de recogida y procedencia de datos:
+El propio afectado de forma directa a través de la grabación de imágenes/voz.
+Estructura básica del fichero y descripción de los datos de carácter personal:
+Grabaciones en video, conteniendo imagen/voz como datos identificativos del 
+afectado.
+Cesiones previstas:
+Sí. Fuerzas y Cuerpos de Seguridad.
+Órganos de la Administración responsables de los ficheros:
+Dirección Provincial de Educación de Zamora.
+Servicios o Unidades ante los que pueden ejercitarse los derechos de acceso, 
+rectificación y cancelación:
+Dirección Provincial de Educación de Zamora.
+Medidas de seguridad:
+Nivel Básico.
+CV: BOCYL-D-10062015-1
+
+Boletín Oficial de Castilla y León
+Núm. 109
+Pág. 39390
+Miércoles, 10 de junio de 2015
+ANEXO II
+FICHEROS SUPRIMIDOS
+1.– Denominación de los ficheros: Fichero de videovigilancia de seguridad del 
+C.E.P.A. de Ávila.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+edificios e instalaciones administrativas y en centros educativos públicos. Funciones 
+de vigilancia y seguridad en estos lugares. Control de casos de violencia, acoso 
+escolar y actos vandálicos en centros educativos públicos.
+Código asignado por la Agencia de Protección de Datos: 2112940416.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Ávila.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de Ávila.
+2.– Denominación de los ficheros: Videovigilancia de seguridad del I.E.S. 
+Alonso del Madrigal.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+edificios e instalaciones administrativas y en centros educativos públicos. Funciones 
+de vigilancia y seguridad en estos lugares. Control de casos de violencia, acoso 
+escolar y actos vandálicos en centros educativos públicos.
+Código asignado por la Agencia de Protección de Datos: 2112940013.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Ávila.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de Ávila.
+3.– Denominación de los ficheros: Videovigilancia I.E.S. María de Córdoba.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+edificios e instalaciones administrativas y en centros públicos. Funciones de vigilancia 
+y seguridad en estos lugares. Control de casos de violencia, acoso escolar y actos 
+vandálicos en centros educativos públicos.
+Código asignado por la Agencia de Protección de Datos: 2112940237.
+CV: BOCYL-D-10062015-1
+
+Boletín Oficial de Castilla y León
+Núm. 109
+Pág. 39391
+Miércoles, 10 de junio de 2015
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Ávila.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de Ávila.
+4.– Denominación de los ficheros: Videovigilancia I.E.S. Isabel de Castilla.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+el edificio. Funciones de vigilancia y seguridad. Control casos de violencia y actos 
+vandálicos.
+Código asignado por la Agencia de Protección de Datos: 2112940421.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Ávila.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de Ávila.
+5.– Denominación de los ficheros: Videovigilancia I.E.S.O. Sotillo.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+edificios e instalaciones administrativas y en centros educativos públicos. Funciones 
+de vigilancia y seguridad en estos lugares. Control de casos de violencia, acoso 
+escolar y actos vandálicos en centros educativos públicos.
+Código asignado por la Agencia de Protección de Datos: 2112940107.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Ávila.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de Ávila.
+6.– Denominación de los ficheros: Videovigilancia I.E.S. Aranguren.
+Fines y usos:
+Control de seguridad de instalaciones.
+Código asignado por la Agencia de Protección de Datos: 2112940326.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Ávila.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de Ávila.
+CV: BOCYL-D-10062015-1
+
+Boletín Oficial de Castilla y León
+Núm. 109
+Pág. 39392
+Miércoles, 10 de junio de 2015
+7.– Denominación de los ficheros: Videovigilancia I.E.S. Doctor Sancho de 
+Matienzo.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+edificios e instalaciones administrativas y en centros educativos públicos. Funciones 
+de vigilancia y seguridad en estos lugares.
+Código asignado por la Agencia de Protección de Datos: 2112940123.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Burgos.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de Burgos.
+8.– Denominación de los ficheros: Videovigilancia I.E.S. Valles del Luna.
+Fines y usos:
+Grabación de imágenes de las personas que accedan a las instalaciones del 
+centro.
+Código asignado por la Agencia de Protección de Datos: 2112940420.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+León.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de León.
+9.– Denominación de los ficheros: Videovigilancia I.E.S. Vía de la Plata.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+edificios e instalaciones administrativas y en centros educativos públicos. Funciones 
+de vigilancia y seguridad en estos lugares.
+Código asignado por la Agencia de Protección de Datos: 2112940238.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+León.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de León.
+CV: BOCYL-D-10062015-1
+
+Boletín Oficial de Castilla y León
+Núm. 109
+Pág. 39393
+Miércoles, 10 de junio de 2015
+10.– Denominación de los ficheros: Videovigilancia I.E.S.O. Puente Domingo 
+Flórez.
+Fines y usos:
+Control, seguridad y protección de personas, así como para la protección de las 
+instalaciones del centro.
+Código asignado por la Agencia de Protección de Datos: 2112940090.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+León.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de León.
+11.– Denominación de los ficheros: Videovigilancia Centro Integrado de 
+Formación Profesional Ciudad de León.
+Fines y usos:
+Captación y grabación de imágenes para el control, la seguridad y protección de las 
+personas, así como para la protección de los edificios e instalaciones del centro.
+Código asignado por la Agencia de Protección de Datos: 2112940120.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+León.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de León.
+12.– Denominación de los ficheros: Videovigilancia C.E.I.P. Jorge Manrique.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+centros públicos. Control de casos de violencia, acoso escolar y actos vandálicos en 
+centros educativos públicos.
+Código asignado por la Agencia de Protección de Datos: 2112940040.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Palencia.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de Palencia.
+CV: BOCYL-D-10062015-1
+
+Boletín Oficial de Castilla y León
+Núm. 109
+Pág. 39394
+Miércoles, 10 de junio de 2015
+13.– Denominación de los ficheros: Videovigilancia I.E.S. Jorge Manrique.
+Fines y usos:
+Videovigilancia.
+Código asignado por la Agencia de Protección de Datos: 2112940325.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Palencia.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de Palencia.
+14.– Denominación de los ficheros: Videovigilancia I.E.S. Victorio Macho.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+edificios e instalaciones administrativas y en centros educativos públicos. Funciones 
+de vigilancia y seguridad en estos lugares.
+Código asignado por la Agencia de Protección de Datos: 2112940361.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Palencia.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de Palencia.
+15.– Denominación de los ficheros: Videovigilancia Escuela Oficial de Idiomas 
+de Palencia.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+edificios e instalaciones administrativas y en centros educativos públicos. Funciones 
+de vigilancia y seguridad en estos lugares. Control de casos de violencia, acoso 
+escolar y actos vandálicos en centros educativos públicos.
+Código asignado por la Agencia de Protección de Datos: 2112940128.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Palencia.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de Palencia.
+CV: BOCYL-D-10062015-1
+
+Boletín Oficial de Castilla y León
+Núm. 109
+Pág. 39395
+Miércoles, 10 de junio de 2015
+16.– Denominación de los ficheros: Videovigilancia I.E.S.O. Tomás Bretón.
+Fines y usos:
+Sistema de cámaras para videovigilancia en el recinto escolar.
+Código asignado por la Agencia de Protección de Datos: 2112940419.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Salamanca.
+Destino de la información: Integración en el fichero de videovigilancia de 
+centros públicos dependientes de la Consejería de Educación en la provincia de 
+Salamanca.
+17.– Denominación de los ficheros: Videovigilancia C.E.O Alto Alagón.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+centros educativos públicos. Funciones de vigilancia y seguridad en estos lugares. 
+Control de casos de actos vandálicos en el centro educativo.
+Código asignado por la Agencia de Protección de Datos: 2112940240.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Salamanca.
+Destino de la información: Integración en el fichero de videovigilancia de 
+centros públicos dependientes de la Consejería de Educación en la provincia de 
+Salamanca.
+18.– Denominación de los ficheros: Videovigilancia I.E.S. Francisco Salinas.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+centros públicos. Control de casos de violencia, acoso escolar y actos vandálicos en 
+centros educativos públicos.
+Código asignado por la Agencia de Protección de Datos: 2112940360.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Salamanca.
+Destino de la información: Integración en el fichero de videovigilancia de 
+centros públicos dependientes de la Consejería de Educación en la provincia de 
+Salamanca.
+CV: BOCYL-D-10062015-1
+
+Boletín Oficial de Castilla y León
+Núm. 109
+Pág. 39396
+Miércoles, 10 de junio de 2015
+19.– Denominación de los ficheros: Videovigilancia I.E.S. Lucía Medrano.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en el 
+centro educativo y control de casos de violencia, acoso escolar y actos vandálicos.
+Código asignado por la Agencia de Protección de Datos: 2112940110.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Salamanca.
+Destino de la información: Integración en el fichero de videovigilancia de 
+centros públicos dependientes de la Consejería de Educación en la provincia de 
+Salamanca.
+20.– Denominación de los ficheros: Videovigilancia I.E.S. Cuerpo de Hombre.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en el 
+centro educativo y control de casos de violencia, acoso escolar y actos vandálicos.
+Código asignado por la Agencia de Protección de Datos: 2112980118.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Salamanca.
+Destino de la información: Integración en el fichero de videovigilancia de 
+centros públicos dependientes de la Consejería de Educación en la provincia de 
+Salamanca.
+21.– Denominación de los ficheros: Videovigilancia I.E.S. Federico García 
+Bernalt.
+Fines y usos:
+Evitar el vandalismo y la protección de las personas y enseres.
+Código asignado por la Agencia de Protección de Datos: 2112940120.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Salamanca.
+Destino de la información: Integración en el fichero de videovigilancia de 
+centros públicos dependientes de la Consejería de Educación en la provincia de 
+Salamanca.
+CV: BOCYL-D-10062015-1
+
+Boletín Oficial de Castilla y León
+Núm. 109
+Pág. 39397
+Miércoles, 10 de junio de 2015
+22.– Denominación de los ficheros: Videovigilancia I.E.S. Antonio Machado.
+Fines y usos:
+Gestión del control de la entrada a las instalaciones.
+Código asignado por la Agencia de Protección de Datos: 2112940353.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Soria.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de Soria.
+23.– Denominación de los ficheros: Videovigilancia I.E.S. Ribera de Jalón.
+Fines y usos:
+Con el fin de preservar la seguridad en la sede del I.E.S. Ribera de Jalón, es preciso 
+controlar el acceso al edificio de las personas que acuden a él. La finalidad del 
+fichero es realizar la vigilancia en el control de acceso al edificio donde se ubica el 
+I.E.S. Ribera de Jalón.
+Código asignado por la Agencia de Protección de Datos: 2112940241.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Soria.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de Soria.
+24.– Denominación de los ficheros: Videovigilancia I.E.S. Pío del Río Hortega.
+Fines y usos:
+Gestión del control de la entrada a las instalaciones. Seguridad y control de acceso 
+a edificios.
+Código asignado por la Agencia de Protección de Datos: 2112940125.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Valladolid.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de Valladolid.
+CV: BOCYL-D-10062015-1
+
+Boletín Oficial de Castilla y León
+Núm. 109
+Pág. 39398
+Miércoles, 10 de junio de 2015
+25.– Denominación de los ficheros: Videovigilancia C.E.P.A. Bernal Díaz del 
+Castillo.
+Fines y usos:
+Control de las personas que accedan, circulen y permanezcan en el edificio.
+Código asignado por la Agencia de Protección de Datos: 2112940042.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Valladolid.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de Valladolid.
+26.– Denominación de los ficheros: Videovigilancia I.E.S. Julián Marías.
+Fines y usos:
+Finalidad de vigilancia. Control de la entrada a las instalaciones.
+Código asignado por la Agencia de Protección de Datos: 2112940153.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Valladolid.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de Valladolid.
+27.– Denominación de los ficheros: Videovigilancia I.E.S. Condesa Eylo 
+Alfonso.
+Fines y usos:
+Vigilancia de las instalaciones del centro.
+Código asignado por la Agencia de Protección de Datos: 2112990071.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Valladolid.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de Valladolid.
+28.– Denominación de los ficheros: Videovigilancia I.E.S. Galileo.
+Fines y usos:
+Gestión del control de la entrada a las instalaciones.
+Código asignado por la Agencia de Protección de Datos: 2112940167.
+CV: BOCYL-D-10062015-1
+
+Boletín Oficial de Castilla y León
+Núm. 109
+Pág. 39399
+Miércoles, 10 de junio de 2015
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Valladolid.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de Valladolid.
+29.– Denominación de los ficheros: Videovigilancia I.E.S. Las Salinas.
+Fines y usos:
+Imágenes del entorno e interior del inmueble por motivos de seguridad.
+Código asignado por la Agencia de Protección de Datos: 2112800269.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Valladolid.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de Valladolid.
+30.– Denominación de los ficheros: Videovigilancia I.E.S. María Moliner.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+el edificio e instalaciones. Funciones de vigilancia y seguridad en estos lugares. 
+Control de casos de violencia, acoso escolar y actos vandálicos.
+Código asignado por la Agencia de Protección de Datos: 2112940114.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Valladolid.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de Valladolid.
+31.– Denominación de los ficheros: Videovigilancia I.E.S. María Moliner.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+el edificio e instalaciones. Funciones de vigilancia y seguridad en estos lugares. 
+Control de casos de violencia, acoso escolar y actos vandálicos.
+Código asignado por la Agencia de Protección de Datos: 2113180369.
+Motivos de la supresión: duplicidad con el fichero de videovigilancia cuyo código de 
+inscripción es 2112940114.
+CV: BOCYL-D-10062015-1
+
+Boletín Oficial de Castilla y León
+Núm. 109
+Pág. 39400
+Miércoles, 10 de junio de 2015
+32.– Denominación de los ficheros: Videovigilancia I.E.S. Arribes de Sayago.
+Fines y usos:
+Gestión del control de la entrada a las instalaciones.
+Código asignado por la Agencia de Protección de Datos: 2112940396.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Zamora.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de Zamora.
+33.– Denominación de los ficheros: Videovigilancia I.E.S. La Vaguada.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en el 
+centro educativo y control de casos de violencia, acoso escolar y actos vandálicos.
+Código asignado por la Agencia de Protección de Datos: 2112940362.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Zamora.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de Zamora.
+34.– Denominación de los ficheros: Videovigilancia I.E.S. Cardenal Pardo 
+Tavera.
+Fines y usos:
+Gestión del control de la entrada a las instalaciones.
+Código asignado por la Agencia de Protección de Datos: 2112940246.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Zamora.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de Zamora.
+35.– Denominación de los ficheros: Videovigilancia CIFP Ávila.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+edificios. Control del cumplimiento de la jornada laboral por parte del personal.
+CV: BOCYL-D-10062015-1
+
+Boletín Oficial de Castilla y León
+Núm. 109
+Pág. 39401
+Miércoles, 10 de junio de 2015
+Código asignado por la Agencia de Protección de Datos: 2132180019.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Ávila.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de Ávila.
+36.– Denominación de los ficheros: Videovigilancia CIFP Fuentecillas.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+edificios. Control del cumplimiento de la jornada laboral por parte del personal.
+Código asignado por la Agencia de Protección de Datos: 2132180006.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Burgos.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de Burgos.
+37.– Denominación de los ficheros: Videovigilancia CIFP León.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+edificios. Control del cumplimiento de la jornada laboral por parte del personal.
+Código asignado por la Agencia de Protección de Datos: 2132180010.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+León.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de León.
+38.– Denominación de los ficheros: Videovigilancia IES Giner de los Ríos.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+edificios. Control del cumplimiento de la jornada laboral por parte del personal.
+Código asignado por la Agencia de Protección de Datos: 2132180009.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+León.
+CV: BOCYL-D-10062015-1
+
+Boletín Oficial de Castilla y León
+Núm. 109
+Pág. 39402
+Miércoles, 10 de junio de 2015
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de León.
+39.– Denominación de los ficheros: Videovigilancia EOI Ponferrada.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+edificios. Control del cumplimiento de la jornada laboral por parte del personal.
+Código asignado por la Agencia de Protección de Datos: 2132180004.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+León.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de León.
+40.– Denominación de los ficheros: Videovigilancia IES Padre Isla.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan 
+en edificios. Funciones de vigilancia y seguridad en el edificio. Control de casos 
+de violencia, acoso escolar y actos vandálicos en el centro educativo. Control del 
+cumplimiento de la jornada laboral por parte del personal.
+Código asignado por la Agencia de Protección de Datos: 2132180013.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+León.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de León.
+41.– Denominación de los ficheros: Videovigilancia CIFP Ciudad de Béjar.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+edificios. Funciones de vigilancia y seguridad en el edificio. Control de casos de 
+violencia, acoso escolar y actos vandálicos en el centro educativo.
+Código asignado por la Agencia de Protección de Datos: 2132180008.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Salamanca.
+CV: BOCYL-D-10062015-1
+
+Boletín Oficial de Castilla y León
+Núm. 109
+Pág. 39403
+Miércoles, 10 de junio de 2015
+Destino de la información: Integración en el fichero de videovigilancia de 
+centros públicos dependientes de la Consejería de Educación en la provincia de 
+Salamanca.
+42.– Denominación de los ficheros: Videovigilancia IES Francisco Giner de los 
+Ríos.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+edificios. Control del cumplimiento de la jornada laboral por parte del personal.
+Código asignado por la Agencia de Protección de Datos: 2132180016.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Segovia.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de Segovia.
+43.– Denominación de los ficheros: Videovigilancia CIFP Segovia.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan 
+en edificios. Control del cumplimiento de la jornada laboral por parte del personal. 
+Controlar la seguridad en el recinto exterior y aparcamiento.
+Código asignado por la Agencia de Protección de Datos: 2132180018.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Segovia.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de Segovia.
+44.– Denominación de los ficheros: Videovigilancia IES María Moliner 
+Segovia.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan 
+en edificios. Control del cumplimiento de la jornada laboral por parte del personal. 
+Controlar la seguridad en el recinto exterior y aparcamiento.
+Código asignado por la Agencia de Protección de Datos: 2132180014.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Segovia.
+CV: BOCYL-D-10062015-1
+
+Boletín Oficial de Castilla y León
+Núm. 109
+Pág. 39404
+Miércoles, 10 de junio de 2015
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de Segovia.
+45.– Denominación de los ficheros: Videovigilancia IES Catalina de Lancaster.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan 
+en edificios. Control del cumplimiento de la jornada laboral por parte del personal. 
+Controlar la seguridad en el recinto exterior y aparcamiento.
+Código asignado por la Agencia de Protección de Datos: 2132180011.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Segovia.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de Segovia.
+46.– Denominación de los ficheros: Videovigilancia CIFP La Merced.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+edificios. Control del cumplimiento de la jornada laboral por parte del personal. Control 
+de los pasillos de acceso a las habitaciones de la residencia de estudiantes.
+Código asignado por la Agencia de Protección de Datos: 2132180017.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Soria.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de Soria.
+47.– Denominación de los ficheros: Videovigilancia IES Alfonso IX.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan 
+en edificios. Control del cumplimiento de la jornada laboral por parte del personal. 
+Vigilancia de los pasillos en el interior del centro.
+Código asignado por la Agencia de Protección de Datos: 2132180003.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Zamora.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de Zamora.
+CV: BOCYL-D-10062015-1
+
+Boletín Oficial de Castilla y León
+Núm. 109
+Pág. 39405
+Miércoles, 10 de junio de 2015
+48.– Denominación de los ficheros: Videovigilancia IES González Allende.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+edificios. Control del cumplimiento de la jornada laboral por parte del personal.
+Código asignado por la Agencia de Protección de Datos: 2132180001.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Zamora.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de Zamora.
+49.– Denominación de los ficheros: Videovigilancia IES María de Molina 
+(Zamora).
+Fines y usos:
+Vigilancia en el interior del centro en el caso de que salten los sensores.
+Código asignado por la Agencia de Protección de Datos: 2132180002.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Zamora.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de Zamora.
+50.– Denominación de los ficheros: Videovigilancia Escuela de Arte.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+edificios. Control del cumplimiento de la jornada laboral por parte del personal.
+Código asignado por la Agencia de Protección de Datos: 2132180007.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Zamora.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de Zamora.
+51.– Denominación de los ficheros: Videovigilancia IES Río Duero.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+edificios. Control del cumplimiento de la jornada laboral por parte del personal.
+CV: BOCYL-D-10062015-1
+
+Boletín Oficial de Castilla y León
+Núm. 109
+Pág. 39406
+Miércoles, 10 de junio de 2015
+Código asignado por la Agencia de Protección de Datos: 2132180012.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Zamora.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de Zamora.
+52.– Denominación de los ficheros: Fichero de videovigilancia de seguridad 
+del CEIP Juan Luis Vives de Sotillo de la Adrada (Ávila).
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+edificios e instalaciones administrativas y en centros educativos públicos. Funciones 
+de vigilancia y seguridad en estos lugares. Control de casos de violencia, acoso 
+escolar y actos vandálicos en centros educativos públicos.
+Código asignado por la Agencia de Protección de Datos: 2142870043.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Ávila.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de Ávila.
+53.– Denominación de los ficheros: Fichero de videovigilancia de seguridad 
+del CEIP Doña Mencía de Velasco de Briviesca (Burgos).
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+edificios e instalaciones administrativas y en centros educativos públicos. Funciones 
+de vigilancia y seguridad en estos lugares. Control de casos de violencia, acoso 
+escolar y actos vandálicos en centros educativos públicos.
+Código asignado por la Agencia de Protección de Datos: 2142870044.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Burgos.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de Burgos.
+54.– Denominación de los ficheros: Fichero de videovigilancia de seguridad 
+del CIFP de Ponferrada (León).
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+edificios e instalaciones administrativas y en centros educativos públicos. Funciones 
+de vigilancia y seguridad en estos lugares. Control de casos de violencia, acoso 
+escolar y actos vandálicos en centros educativos públicos.
+CV: BOCYL-D-10062015-1
+
+Boletín Oficial de Castilla y León
+Núm. 109
+Pág. 39407
+Miércoles, 10 de junio de 2015
+Código asignado por la Agencia de Protección de Datos: 2142870045.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+León.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de León.
+55.– Denominación de los ficheros: Fichero de videovigilancia de seguridad 
+del IES Alonso Berruguete de Palencia.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+edificios e instalaciones administrativas y en centros educativos públicos. Funciones 
+de vigilancia y seguridad en estos lugares. Control de casos de violencia, acoso 
+escolar y actos vandálicos en centros educativos públicos.
+Código asignado por la Agencia de Protección de Datos: 2142870047.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Palencia.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de Palencia.
+56.– Denominación de los ficheros: Fichero de videovigilancia de seguridad 
+del IES Torres Villarroel de Salamanca.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+edificios e instalaciones administrativas y en centros educativos públicos. Funciones 
+de vigilancia y seguridad en estos lugares. Control de casos de violencia, acoso 
+escolar y actos vandálicos en centros educativos públicos.
+Código asignado por la Agencia de Protección de Datos: 2142870048.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Salamanca.
+Destino de la información: Integración en el fichero de videovigilancia de 
+centros públicos dependientes de la Consejería de Educación en la provincia de 
+Salamanca.
+CV: BOCYL-D-10062015-1
+
+Boletín Oficial de Castilla y León
+Núm. 109
+Pág. 39408
+Miércoles, 10 de junio de 2015
+57.– Denominación de los ficheros: Fichero de videovigilancia de seguridad 
+del IES Torrente Ballester de Santa Marta de Tormes (Salamanca).
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+edificios e instalaciones administrativas y en centros educativos públicos. Funciones 
+de vigilancia y seguridad en estos lugares. Control de casos de violencia, acoso 
+escolar y actos vandálicos en centros educativos públicos.
+Código asignado por la Agencia de Protección de Datos: 2142871120.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Salamanca.
+Destino de la información: Integración en el fichero de videovigilancia de 
+centros públicos dependientes de la Consejería de Educación en la provincia de 
+Salamanca.
+58.– Denominación de los ficheros: Fichero de videovigilancia de seguridad 
+del IES Ramón Olleros de Salamanca.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+edificios e instalaciones administrativas y en centros educativos públicos. Funciones 
+de vigilancia y seguridad en estos lugares. Control de casos de violencia, acoso 
+escolar y actos vandálicos en centros educativos públicos.
+Código asignado por la Agencia de Protección de Datos: 2142870046.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Salamanca.
+Destino de la información: Integración en el fichero de videovigilancia de 
+centros públicos dependientes de la Consejería de Educación en la provincia de 
+Salamanca.
+59.– Denominación de los ficheros: Fichero de videovigilancia de seguridad 
+del IES Mateo Hernández de Salamanca.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+edificios e instalaciones administrativas y en centros educativos públicos. Funciones 
+de vigilancia y seguridad en estos lugares. Control de casos de violencia, acoso 
+escolar y actos vandálicos en centros educativos públicos.
+Código asignado por la Agencia de Protección de Datos: 2142870040.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Salamanca.
+CV: BOCYL-D-10062015-1
+
+Boletín Oficial de Castilla y León
+Núm. 109
+Pág. 39409
+Miércoles, 10 de junio de 2015
+Destino de la información: Integración en el fichero de videovigilancia de 
+centros públicos dependientes de la Consejería de Educación en la provincia de 
+Salamanca.
+60.– Denominación de los ficheros: Fichero de videovigilancia de seguridad 
+del IES Fray Luis de León de Salamanca.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+edificios e instalaciones administrativas y en centros educativos públicos. Funciones 
+de vigilancia y seguridad en estos lugares. Control de casos de violencia, acoso 
+escolar y actos vandálicos en centros educativos públicos.
+Código asignado por la Agencia de Protección de Datos: 2142870051.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Salamanca.
+Destino de la información: Integración en el fichero de videovigilancia de 
+centros públicos dependientes de la Consejería de Educación en la provincia de 
+Salamanca.
+61.– Denominación de los ficheros: Fichero de videovigilancia de seguridad 
+del Conservatorio Profesional de Música de Salamanca.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+edificios e instalaciones administrativas y en centros educativos públicos. Funciones 
+de vigilancia y seguridad en estos lugares. Control de casos de violencia, acoso 
+escolar y actos vandálicos en centros educativos públicos.
+Código asignado por la Agencia de Protección de Datos: 2142870041.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Salamanca.
+Destino de la información: Integración en el fichero de videovigilancia de 
+centros públicos dependientes de la Consejería de Educación en la provincia de 
+Salamanca.
+62.– Denominación de los ficheros: Fichero de videovigilancia de seguridad 
+del CIFP Rodríguez Fabrés de Salamanca.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+edificios e instalaciones administrativas y en centros educativos públicos. Funciones 
+de vigilancia y seguridad en estos lugares. Control de casos de violencia, acoso 
+escolar y actos vandálicos en centros educativos públicos.
+CV: BOCYL-D-10062015-1
+
+Boletín Oficial de Castilla y León
+Núm. 109
+Pág. 39410
+Miércoles, 10 de junio de 2015
+Código asignado por la Agencia de Protección de Datos: 2142870052.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Salamanca.
+Destino de la información: Integración en el fichero de videovigilancia de 
+centros públicos dependientes de la Consejería de Educación en la provincia de 
+Salamanca.
+63.– Denominación de los ficheros: Fichero de videovigilancia de seguridad 
+del CIFP Río Tormes de Salamanca.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+edificios e instalaciones administrativas y en centros educativos públicos. Funciones 
+de vigilancia y seguridad en estos lugares. Control de casos de violencia, acoso 
+escolar y actos vandálicos en centros educativos públicos.
+Código asignado por la Agencia de Protección de Datos: 2142870042.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Salamanca.
+Destino de la información: Integración en el fichero de videovigilancia de 
+centros públicos dependientes de la Consejería de Educación en la provincia de 
+Salamanca.
+64.– Denominación de los ficheros: Fichero de videovigilancia de seguridad 
+del IES La Merced de Valladolid.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+edificios e instalaciones administrativas y en centros educativos públicos. Funciones 
+de vigilancia y seguridad en estos lugares. Control de casos de violencia, acoso 
+escolar y actos vandálicos en centros educativos públicos.
+Código asignado por la Agencia de Protección de Datos: 2142870050.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Valladolid.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de Valladolid.
+65.– Denominación de los ficheros: Fichero de videovigilancia de seguridad 
+del IESO Pinares de Pedrajas de Valladolid.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+edificios e instalaciones administrativas y en centros educativos públicos. Funciones 
+de vigilancia y seguridad en estos lugares. Control de casos de violencia, acoso 
+escolar y actos vandálicos en centros educativos públicos.
+CV: BOCYL-D-10062015-1
+
+Boletín Oficial de Castilla y León
+Núm. 109
+Pág. 39411
+Miércoles, 10 de junio de 2015
+Código asignado por la Agencia de Protección de Datos: 2142871122.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Valladolid.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de Valladolid.
+66.– Denominación de los ficheros: Fichero de videovigilancia de seguridad 
+del CIFP Juan de Herrera de Valladolid.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+edificios e instalaciones administrativas y en centros educativos públicos. Funciones 
+de vigilancia y seguridad en estos lugares. Control de casos de violencia, acoso 
+escolar y actos vandálicos en centros educativos públicos.
+Código asignado por la Agencia de Protección de Datos: 2142871123.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Valladolid.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de Valladolid.
+67.– Denominación de los ficheros: Fichero de videovigilancia de seguridad de 
+la EOI de Zamora.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+edificios e instalaciones administrativas y en centros educativos públicos. Funciones 
+de vigilancia y seguridad en estos lugares. Control de casos de violencia, acoso 
+escolar y actos vandálicos en centros educativos públicos.
+Código asignado por la Agencia de Protección de Datos: 2142870049.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Zamora.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de Zamora.
+68.– Denominación de los ficheros: Fichero de videovigilancia de seguridad 
+del CRIE de Zamora.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+edificios e instalaciones administrativas y en centros educativos públicos. Funciones 
+de vigilancia y seguridad en estos lugares. Control de casos de violencia, acoso 
+escolar y actos vandálicos en centros educativos públicos.
+CV: BOCYL-D-10062015-1
+
+Boletín Oficial de Castilla y León
+Núm. 109
+Pág. 39412
+Miércoles, 10 de junio de 2015
+Código asignado por la Agencia de Protección de Datos: 2142870039.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Zamora.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de Zamora.
+69.– Denominación de los ficheros: Fichero de videovigilancia de seguridad 
+del CFIE de Zamora.
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+edificios e instalaciones administrativas y en centros educativos públicos. Funciones 
+de vigilancia y seguridad en estos lugares. Control de casos de violencia, acoso 
+escolar y actos vandálicos en centros educativos públicos.
+Código asignado por la Agencia de Protección de Datos: 2142870053.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Zamora.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de Zamora.
+70.– Denominación de los ficheros: Fichero de videovigilancia de seguridad 
+del CRA de Fonfría (Zamora).
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+edificios e instalaciones administrativas y en centros educativos públicos. Funciones 
+de vigilancia y seguridad en estos lugares. Control de casos de violencia, acoso 
+escolar y actos vandálicos en centros educativos públicos.
+Código asignado por la Agencia de Protección de Datos: 2142871121.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Zamora.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de Zamora.
+71.– Denominación de los ficheros: Fichero de videovigilancia de seguridad 
+del CEIP Ntra. Sra. de la Paz de Villaralbo (Zamora).
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+edificios e instalaciones administrativas y en centros educativos públicos. Funciones 
+de vigilancia y seguridad en estos lugares. Control de casos de violencia, acoso 
+escolar y actos vandálicos en centros educativos públicos.
+CV: BOCYL-D-10062015-1
+
+Boletín Oficial de Castilla y León
+Núm. 109
+http://bocyl.jcyl.es
+D.L.: BU 10-1979 - ISSN 1989-8959
+Pág. 39413
+Miércoles, 10 de junio de 2015
+Código asignado por la Agencia de Protección de Datos: 2142871124.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Zamora.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de Zamora.
+72.– Denominación de los ficheros: Fichero de videovigilancia de seguridad 
+del IESO Morales del Vino de Morales del Vino (Zamora).
+Fines y usos:
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+edificios e instalaciones administrativas y en centros educativos públicos. Funciones 
+de vigilancia y seguridad en estos lugares. Control de casos de violencia, acoso 
+escolar y actos vandálicos en centros educativos públicos.
+Código asignado por la Agencia de Protección de Datos: 2142871124.
+Motivos de la supresión: Incorporación de la información en el fichero de videovigilancia 
+de centros públicos dependientes de la Consejería de Educación en la provincia de 
+Zamora.
+Destino de la información: Integración en el fichero de videovigilancia de centros 
+públicos dependientes de la Consejería de Educación en la provincia de Zamora.
+CV: BOCYL-D-10062015-1

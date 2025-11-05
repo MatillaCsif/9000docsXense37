@@ -1,0 +1,155 @@
+Boletín Oficial de Castilla y León
+Núm. 196
+Pág. 44076
+Lunes, 10 de octubre de 2016
+I. COMUNIDAD DE CASTILLA Y LEÓN
+C. OTRAS DISPOSICIONES
+CONSEJERÍA DE EDUCACIÓN
+RESOLUCIÓN de 30 de septiembre de 2016, de la Dirección General de Innovación 
+y Equidad Educativa, por la que se establece con carácter experimental el proyecto de 
+innovación educativa «TIC STEAM», durante el curso escolar 2016-17.
+La Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa 
+indica en su preámbulo que las tecnologías de la información y la comunicación serán una 
+pieza fundamental para producir el cambio metodológico que lleve a conseguir el objetivo 
+de mejora de la calidad educativa.
+Por otro lado, el Decreto 51/2014, de 9 de octubre, por el que se regula la formación 
+permanente del profesorado de enseñanzas no universitarias que presta sus servicios en 
+centros sostenidos con fondos públicos en la Comunidad de Castilla y León, establece en 
+su artículo 4 los principios que definen la formación permanente del profesorado, entre 
+los que se encuentran, la formación vinculada al desarrollo de las funciones docentes, 
+planteando una formación y evaluación basadas en un modelo de competencias 
+profesionales que debe desarrollar el profesorado, la proyección directa de la formación 
+en la práctica docente y el fomento de la investigación y la innovación educativa. Así 
+mismo, el artículo 5 establece como uno de los objetivos fundamentales de la formación 
+permanente del profesorado el impulso de actividades formativas relacionadas con el uso 
+de las tecnologías de la información y la comunicación y el aumento de la cultura digital.
+En este sentido, la Consejería de Educación de la Junta de Castilla y León, a través 
+de la Dirección General de Innovación y Equidad Educativa, considera esencial promover 
+entre el profesorado el uso de los avances tecnológicos y didácticos de la actual sociedad 
+del conocimiento.
+El siglo XXI nos propone nuevos desafíos tecnológicos, por lo que es preciso 
+trabajar con el profesorado para desarrollar las competencias y aptitudes necesarias que 
+favorezcan la adquisición de estas nuevas tecnologías así como su aprovechamiento 
+en el aula. La programación ayuda a comprender el mundo que nos rodea, proponiendo 
+soluciones a problemas, facilitando la creatividad y el trabajo colaborativo. La robótica 
+facilita el aprendizaje basado en problemas de forma sencilla y divertida para los alumnos 
+mediante la elaboración de pequeños proyectos de trabajo.
+Los programas educativos necesitan adaptarse a esta nueva realidad, facilitando 
+los conocimientos y herramientas que permitan a los alumnos entender e interactuar más 
+fácilmente con el mundo que les rodea. En este sentido, resulta de especial interés la 
+puesta en práctica de pequeños retos de aprendizaje a resolver mediante la utilización de 
+técnicas de programación y la robótica. Llevar a cabo procesos de innovación educativa 
+trabajando en materias como la programación o la robótica constituirá una buena base para 
+CV: BOCYL-D-10102016-18
+
+Boletín Oficial de Castilla y León
+Núm. 196
+Pág. 44077
+Lunes, 10 de octubre de 2016
+fomentar las competencias STEAM (Ciencias, Tecnología, Ingeniería, Artes y Matemáticas) 
+entre los alumnos.
+El nivel de competencia digital del profesorado será un elemento de primordial 
+importancia para este proyecto dado que las tecnologías de la información y la comunicación 
+han de estar en todo momento muy presentes a lo largo de cada una de las diferentes 
+fases del mismo.
+De acuerdo con lo expuesto anteriormente y en función de lo dispuesto en los 
+artículos 40 y 72 de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la 
+Comunidad de Castilla y León
+RESUELVO
+Primero.– Objeto y finalidad.
+1. La presente resolución tiene por objeto establecer con carácter experimental el 
+proyecto de innovación educativa «TIC STEAM», durante el curso escolar 2016-17.
+2. La finalidad de este proyecto es trabajar las competencias en Ciencias, Tecnología, 
+Ingeniería, Artes y Matemáticas (en adelante STEAM), mediante la aplicación de técnicas 
+de programación y la robótica, utilizando como medio transmisor las tecnologías de la 
+información y la comunicación, facilitando al profesorado los medios formativos de apoyo 
+que sean necesarios para su posterior aplicación en el aula. Para ello, resulta necesaria 
+una adecuada preparación y formación del profesorado que se centre fundamentalmente 
+en el desarrollo profesional de las competencias didáctica, digital y de innovación.
+Segundo.– Objetivos del proyecto.
+Los objetivos del proyecto son los siguientes:
+a)	Formar al profesorado en técnicas de programación mediante la utilización de 
+lenguajes de programación libres así como su aplicación posterior sobre kits 
+robóticos.
+b)	Elaborar propuestas de trabajo para la resolución de pequeños retos de 
+aprendizaje, utilizando las técnicas aprendidas a lo largo del proyecto.
+c)	 Desarrollo del proyecto de trabajo para su utilización en el aula.
+d)	Fomentar las competencias STEAM entre el alumnado mediante la aplicación 
+didáctica de técnicas de programación y la robótica.
+Tercero.– Destinatarios del proyecto.
+El proyecto tiene como destinatarios al profesorado de educación primaria de centros 
+educativos públicos de la Comunidad de Castilla y León.
+Cuarto.– Responsable del proyecto.
+El responsable del proyecto será la Dirección General de Innovación y Equidad 
+Educativa que contará con la colaboración del Centro de Recursos y Formación del 
+Profesorado en Tecnologías de la Información y de la Comunicación (en adelante, 
+CRFPTIC).
+CV: BOCYL-D-10102016-18
+
+Boletín Oficial de Castilla y León
+Núm. 196
+Pág. 44078
+Lunes, 10 de octubre de 2016
+Quinto.– Selección de profesores participantes.
+1. La Dirección General de Innovación y Equidad Educativa realizará una convocatoria 
+a través del Portal de Educación de la Junta de Castilla y León (http://www.educa.jcyl.es), 
+dirigida a los destinatarios a que se refiere el apartado tercero que deseen participar en el 
+proyecto.
+2. En la convocatoria se determinarán tanto los criterios de selección como el número 
+de profesores que podrán ser seleccionados.
+Sexto.– Contenido y fases del proyecto.
+Este proyecto se implementará mediante el desarrollo de una actividad formativa 
+que constará de cuatro fases: Teórica, de aplicación, colaborativa y de evaluación:
+1.	 Fase formación teórica. Consiste en la participación de los profesores 
+seleccionados en una sesión de formación presencial, así como una fase de 
+formación online para desarrollar los contenidos propios del proyecto.
+2.	 Fase de aplicación. Consiste en la elaboración de propuestas de trabajo a llevar 
+a cabo con la participación de los alumnos.
+3.	 Fase colaborativa. Módulo de trabajo en el aula virtual. Consiste en el intercambio 
+y el aprendizaje en grupo, aportaciones sobre los proyectos de trabajo y su 
+seguimiento, así como la ayuda en la resolución de dificultades y retos. Esta 
+fase coincide en el tiempo con la fase práctica y se completa con la reflexión final 
+sobre las experiencias realizadas y las competencias adquiridas, desarrollándose 
+de forma online.
+4.	 Fase de evaluación. Encuentro presencial en el que los profesores participantes 
+pondrán en común las propuestas desarrolladas.
+Séptimo.– Evaluación final del proyecto.
+1. Una vez implantado y desarrollado el proyecto por los profesores seleccionados, la 
+Dirección General de Innovación y Equidad Educativa, con la colaboración del CRFPTIC, 
+realizará una evaluación final del proyecto, de acuerdo con los instrumentos de evaluación 
+diseñados y elaborados por esta dirección general, en la que se tendrán en cuenta los 
+siguientes apartados:
+a)	Evaluación mediante diferentes cuestionarios de la formación recibida: 
+consecución de niveles competenciales, elaboración de contenidos, nivel de 
+aplicación al aula y nivel de satisfacción.
+b)	Evaluación de impacto del fomento de las competencias STEAM mediante la 
+utilización de las tecnologías de la información y la comunicación.
+c)	 Evaluación de la participación y colaboración en el espacio colaborativo.
+2. Los resultados obtenidos de esta evaluación servirán para ampliar esta experiencia 
+formativa a un mayor número de profesores. Así mismo, podrán ser objeto de especial 
+reconocimiento las mejores propuestas de trabajo que se han desarrollado y aplicado en 
+el aula por los profesores participantes en este proyecto.
+CV: BOCYL-D-10102016-18
+
+Boletín Oficial de Castilla y León
+Núm. 196
+http://bocyl.jcyl.es
+D.L.: BU 10-1979 - ISSN 1989-8959
+Pág. 44079
+Lunes, 10 de octubre de 2016
+Octavo.– Reconocimiento de la actividad formativa.
+De acuerdo con la normativa vigente en materia de formación permanente del 
+profesorado, la Dirección General de Innovación y Equidad Educativa, a través del 
+CRFPTIC, podrá reconocer hasta un máximo de cinco créditos de formación al profesorado 
+participante en esta actividad, bajo la modalidad de «Proyecto de Innovación Educativa». 
+Noveno.– Efectos.
+La presente resolución surtirá efecto el día siguiente de su publicación en el «Boletín 
+Oficial de Castilla y León».
+Contra la presente resolución, que no pone fin a la vía administrativa, cabe interponer 
+recurso de alzada ante el Consejero de Educación en el plazo de un mes a partir del día 
+siguiente al de su publicación en el «Boletín Oficial de Castilla y León».
+Valladolid, 30 de septiembre de 2016.
+La Directora General de Innovación 
+y Equidad Educativa,
+Fdo.: M.ª del Pilar González García
+CV: BOCYL-D-10102016-18

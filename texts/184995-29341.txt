@@ -1,0 +1,352 @@
+B.O.C. y L. - N.º 191
+Lunes, 5 de octubre 2009
+29341
+CONSEJERÍA DE EDUCACIÓN
+ORDEN EDU/1892/2009, de 28 de septiembre, por la que se crea el fiche-
+ro automatizado de datos de carácter personal de la Consejería de
+Educación denominado «Premios Extraordinarios de Bachillerato de
+Castilla y León».
+La Ley Orgánica 15/1999, de 13 de diciembre, de Protección de
+Datos de Carácter Personal, en su artículo 20, establece que la creación,
+modificación o supresión de los ficheros de las Administraciones Públi-
+cas sólo podrán hacerse por medio de disposición general publicada en el
+diario oficial correspondiente.
+El Decreto 11/2003, de 23 de enero, por el que se regulan los fiche-
+ros de datos de carácter personal susceptibles de tratamiento automatiza-
+do, de la Administración de la Comunidad de Castilla y León, concreta en
+su artículo 2, que la creación, modificación y supresión de los ficheros de
+datos de carácter personal incluidos en el ámbito de aplicación de la cita-
+da ley se realizará, previo informe de la Dirección General de Telecomu-
+nicaciones y Transportes de la Consejería de Fomento, por Orden del titu-
+lar de la Consejería competente por razón de la materia a la que afectan.
+Como consecuencia de la nueva estructura orgánica de la Consejería
+de Administración Autonómica establecida por el Decreto 69/2007, de 12
+de julio, se atribuye a la Dirección General de Innovación y Moderniza-
+ción Administrativa el ejercicio de las funciones de coordinación y con-
+trol de las medidas de seguridad aplicables a los ficheros automatizados
+que contengan datos de carácter personal.
+La Administración Educativa de Castilla y León, pretende estimular
+y reconocer oficialmente a través de los Premios Extraordinarios de
+Bachillerato, los méritos basados en el esfuerzo y en el trabajo a quienes
+demuestran una especial preparación y un excelente rendimiento acadé-
+mico en los estudios de Bachillerato mediante una convocatoria para par-
+ticipar en las pruebas correspondientes y posterior adjudicación de los
+Premios Extraordinarios de Bachillerato cada curso académico, para lo
+cual se hace preciso la creación de un fichero automatizado de datos.
+Por ello, en virtud de las citadas normas y demás de general aplica-
+ción y previo informe de la Dirección General de Innovación y Moderni-
+zación Administrativa de la Consejería de Administración Autonómica
+DISPONGO:
+Artículo 1.– Creación de fichero. 
+La presente Orden tiene por objeto la creación del fichero automati-
+zado de datos de carácter personal de la Consejería de Educación deno-
+minado «Premios Extraordinarios de Bachillerato de Castilla y León»,
+que se describe en el anexo de la presente Orden.
+Artículo 2.– Medidas técnicas y organizativas. 
+El titular del órgano responsable del fichero automatizado a que se
+refiere el artículo 1 y, en su caso, el encargado de su tratamiento, adopta-
+rán las medidas de índole técnica y organizativa necesarias que garanti-
+cen la seguridad de los datos de carácter personal y eviten su alteración,
+pérdida, tratamiento o acceso no autorizado, habida cuenta del estado de
+la tecnología, la naturaleza de los datos almacenados y los riesgos a que
+están expuestos. Ello implica la implantación de las medidas de seguri-
+dad exigibles en función de la naturaleza de los datos protegidos, en los
+términos establecidos en el Real Decreto 1720/2007, de 21 de diciembre,
+por el que se aprueba el Reglamento de desarrollo de la Ley Orgánica
+15/1999, de 13 de diciembre, de protección de datos de carácter personal.
+Artículo 3.– Derecho de acceso, rectificación y cancelación de datos. 
+Los interesados podrán ejercitar sus derechos de acceso, rectificación
+y cancelación de datos, cuando proceda, ante el órgano administrativo
+indicado en el Anexo.
+DISPOSICIÓN FINAL
+Entrada en vigor.– La presente Orden entrará en vigor el día siguien-
+te al de su publicación en el «Boletín Oficial de Castilla y León».
+Valladolid, 28 de septiembre de 2009.
+El Consejero,
+Fdo.: JUAN JOSÉ MATEOS OTERO
+ANEXO 
+FICHERO CREADO: PREMIOS EXTRAORDINARIOS DE BACHI-
+LLERATO DE CASTILLAY LEÓN. 
+Denominación del fichero: 
+Premios Extraordinarios de Bachillerato de Castilla y León. 
+Fines y usos: 
+Gestión de solicitudes para participar en las convocatorias de Premios
+Extraordinarios de Bachillerato de la Comunidad de Castilla y León.
+Organización de pruebas. Adjudicación de los premios. Comunicaciones
+con los premiados para su participación en los Premios Nacionales de
+Bachillerato. 
+Elaboración del listado de solicitantes para la organización y prepara-
+ción de las pruebas. Listado de premiados para publicación en la orden de
+resolución. Comunicaciones a los premiados. 
+Personas y colectivos afectados: 
+Alumnos solicitantes de participación en las pruebas para la obten-
+ción de los premios y alumnos premiados con Premio Extraordinario de
+Bachillerato.
+Procedimiento de recogida y procedencia de datos:
+Presentación de solicitudes de participación por los interesados. Pro-
+ceden de los propios interesados.
+Estructura básica del fichero y descripción de los datos de carácter
+personal: 
+Datos de carácter identificativo de los alumnos: Nombre y apellidos,
+dirección (postal y electrónica), teléfono, firma, fecha de nacimiento. 
+Datos académicos: Centro de estudios, idioma extranjero cursado,
+modalidad de bachillerato.
+Cesiones previstas:
+A otros órganos de la administración de la Comunidad Autónoma y al
+Ministerio de Educación. Empresa adjudicataria de la organización del
+viaje de perfeccionamiento en lengua extranjera para premiados que han
+obtenido Matrícula de Honor.
+Órgano responsable de la Administración del fichero:
+Dirección General de Planificación, Ordenación e Inspección Educativa.
+Servicio o Unidad ante el que pueden ejercitarse los derechos de acceso,
+rectificación y cancelación: 
+Dirección General de Planificación, Ordenación e Inspección Educativa,
+Servicio de Inspección Central. 
+Medidas de seguridad:
+Nivel básico.
+RESOLUCIÓN de 28 de septiembre de 2009, del Director General de
+Universidades e Investigación, por la que se determinan para el
+curso 2009/2010 los másteres oficiales y títulos propios de las uni-
+versidades públicas de Castilla y León que han sido considerados
+estratégicos a los efectos de lo establecido en el Acuerdo del Conse-
+jo de Ministros, de 28 de agosto de 2009, por el que se formalizan
+los criterios de distribución para el programa de formación de titu-
+lados en situación de desempleo, aprobados por la Comisión Gene-
+ral de Política Universitaria.
+Mediante Resolución de 14 de septiembre de 2009, de la Secretaría
+General de Universidades, se publica el Acuerdo del Consejo de Ministros,
+de 28 de agosto de 2009, por el que se formalizan los criterios de distribu-
+ción, para el programa de formación de desempleados en situación de des-
+empleo, aprobados por la Comisión General de Política Universitaria. 
+Dicho Acuerdo determina en su Anexo que a la Comunidad de Casti-
+lla y León le corresponden 1.058.351 euros. Asimismo, establece que
+dicha cantidad se destinará a la financiación de la gratuidad de las matrí-
+culas para títulos de másteres oficiales y títulos propios de las Universi-
+dades que hayan sido seleccionados como estratégicos por la Comunidad
+Autónoma receptora de los fondos, y que podrán ser beneficiarios los
+titulados universitarios españoles, de entre 25 y 40 años, que se encuen-
+
+29342
+Lunes, 5 de octubre 2009
+B.O.C. y L. - N.º 191
+tren percibiendo prestación por desempleo y que cursen las titulaciones
+mencionadas anteriormente en universidades públicas de Castilla y León.
+Por tanto, procede determinar el carácter estratégico, para la Comu-
+nidad de Castilla y León, de determinados másteres oficiales y títulos
+propios impartidos en las universidades públicas de Castilla y León
+durante el curso académico 2009/2010. 
+Para la determinación de los mismos se ha tenido en cuenta lo esta-
+blecido en la «Estrategia Regional de investigación científica, desarrollo
+tecnológico e innovación de Castilla y León (2007-2013)», en lo que res-
+pecta a su interacción con el Marco Estratégico de Competitividad de
+Castilla y León.
+En consecuencia, de conformidad con las facultades legales que me
+son atribuidas.
+RESUELVO
+Determinar, según se detalla en el Anexo, los másteres oficiales y títu-
+los propios impartidos durante el curso 2009/2010 en las universidades
+públicas de Castilla y León, que serán considerados estratégicos, a efec-
+tos de lo establecido en el Acuerdo del Consejo de Ministros de 28 de
+agosto de 2009, por el que se formalizan los criterios de distribución para
+el programa de formación de titulados en situación de desempleo, apro-
+bados por la Comisión General de Política Universitaria.
+Contra la presente Resolución, que no pone fin a la vía administrati-
+va, cabrá interponer recurso de alzada ante el Consejero de Educación, en
+el plazo de un mes que comenzará a contar desde el día siguiente a la
+publicación de la presente resolución. 
+Valladolid, 28 de septiembre de 2009.
+El Director General 
+de Universidades e Investigación,
+Fdo.: JUAN CASADO CANALES
+ANEXO
+UNIVERSIDAD DE BURGOS
+– Másteres Oficiales.
+- Máster Universitario en Seguridad y Biotecnología Alimentarias
+por la Universidad de Burgos.
+- Máster Universitario en Química Avanzada por la Universidad de
+Burgos.
+- Máster Universitario en Investigación en Ingeniería Termodinámi-
+ca de Fluidos por la Universidad de Burgos.
+- Máster Universitario en Ingeniería Térmica por la Universidad de
+Burgos.
+- Máster Universitario en Componentes en Automoción por la Uni-
+versidad de Burgos.
+– Títulos Propios.
+- Magíster en Asesoría y Consultoría en Tecnologías de la Informa-
+ción y las Comunicaciones (TIC).
+- Magíster en intervención social.
+- Magíster en salud mental social.
+- Curso de Perfeccionamiento Curso Europeo de Informática.
+- Curso de Perfeccionamiento en Ingeniería de Proyectos de Instala-
+ciones Solares Térmicas en Edificios.
+- Curso de Perfeccionamiento en Sistemas de Energía Solar y otras
+Energías Renovables en Edificios.
+- Curso de Perfeccionamiento en Ahorro de Energía en el Código
+Técnico de la Edificación-Demanda Energética de los Edificios
+(CTE-HE1).
+- Curso de Perfeccionamiento en análisis hidrológicos de cuencas
+con el modelo HEC-HMS.
+- Curso de Perfeccionamiento en modelización hidráulica con el
+modelo HEC-RAS.
+- Curso de Perfeccionamiento XIII Escuela de Quimiometría.
+- Graduado Superior en Técnico en Restauración del Patrimonio
+Histórico Artístico.
+- Especialista universitario en terapias corporales.
+UNIVERSIDAD DE LEÓN
+- Másteres Oficiales.
+- Máster Universitario en Metodología de Investigación en Biología
+Fundamental y Biomedicina por la Universidad de León.
+- Máster Universitario en Energías Renovables por la Universidad
+de León.
+- Máster Universitario en Ingeniería Acústica y Vibraciones (Interu-
+niversitario) por la Universidad de León.
+- Máster Universitario en Innovación en Ciencias Biomédicas y de
+la Salud por la Universidad de León.
+- Máster Universitario en Investigación en Veterinaria y Ciencia y
+Tecnología de los Alimentos por la Universidad de León.
+- Máster Universitario en Investigación en Ingeniería de Biosiste-
+mas por la Universidad de León.
+- Máster Universitario en Investigación en Cibernética por la Uni-
+versidad de León.
+- Máster Universitario en Gestión de Prevención de Riesgos Labo-
+rales por la Universidad de León.
+UNIVERSIDAD DE SALAMANCA
+– Másteres Oficiales.
+- Máster Universitario en Diseño, Obtención y Evaluación de Fár-
+macos por la Universidad de Salamanca.
+- Máster Universitario en Estudios Sociales de Ciencia y Técnología
+por la Universidad de Salamanca.
+- Máster Universitario en Física y Tecnología de los Láseres por la
+Universidad de Salamanca.
+- Máster Universitario en Gestión de Riesgos laborales por la Uni-
+versidad de Salamanca.
+- Máster Universitario en Gestión y Producción en la Industria Far-
+macéutica por la Universidad de Salamanca.
+- Máster Universitario en Interuniversitario en Psicogerontología
+por la Universidad de Salamanca.
+- Máster Universitario en Neurociencias por la Universidad de
+Salamanca.
+- Máster Universitario en Neuropsicología por la Universidad de
+Salamanca.
+- Máster Universitario en Servicios Públicos y Políticas Sociales por
+la Universidad de Salamanca.
+- Máster Universitario en Sistemas de Información Digital por la
+Universidad de Salamanca.
+- Máster Universitario en Sistemas Inteligentes por la Universidad
+de Salamanca.
+- Máster Universitario en TIC´s en Educación: Análisis y Diseño de
+Procesos, Recursos y Prácticas Formativas por la Universidad de
+Salamanca.
+- Máster Universitario en Tratamiento de Soporte y Cuidados Palia-
+tivos en el Enfermo Oncológico por la Universidad de Salamanca.
+- Máster Universitario en Enseñanza del español como lengua
+extranjera por la Universidad de Salamanca.
+– Títulos Propios.
+- Experto en Demencias y Enfermedad de Alzheimer.
+- Máster en Atención Especializada a Personas y Familiares de Per-
+sonas con Enfermedad de Alzheimer.
+- Especialista en Animación Digital.
+- Experto en Animación Digital.
+- Máster en Animación Digital.
+- Experto en Asistencia Inicial a Urgencias y Emergencias.
+- Experto en Audiología.
+- Especialista en Graduado Superior en Aviación Comercial, Piloto
+de Transporte de Línea Aérea.
+- Especialista en Gestión Aeronáutica y Aeroportuaria.
+- Experto en Tecnología del Agua.
+
+B.O.C. y L. - N.º 191
+Lunes, 5 de octubre 2009
+29343
+- Experto en Gestión de Recursos Hídricos.
+- Máster en Ciencia, Tecnología y Gestión del Agua.
+- Experto en Desarrollo de Sistemas para el Comercio Electrónico.
+- Máster en Desarrollo de Sistemas para el Comercio Electrónico.
+- Experto en Desarrollo de Sistemas para el Comercio Eléctronico
+(on-line).
+- Máster en Desarrollo de Sistemas para el Comercio Eléctronico
+(on-line).
+- Máster en Enoturismo.
+- Máster en Evaluación y Gestión del Patrimonio Histórico. Artístico.
+- Experto en Gerontología.
+- Máster en Gerontología.
+- MBA en Empresas e Instituciones Culturales.
+- Máster en Tecnologías de Gestión y Comercio Electrónico para
+Pymes (E-Busines, E-Commerce).
+- Máster en Integración de Personas con Discapacidad. Programa
+Iberoamericano. 2.º año.
+- Máster en Integración de Personas con Discapacidad. Calidad de
+vida.
+- Experto en Plantas Medicinales.
+- Experto en Desarrollo Comunitario y Nuevas Tecnologías.
+- Máster Iberoamericano en Servicios de Información y Desarrollo
+Comunitario en Nuevas Tecnologías.
+- Experto Técnico Ortopédico.
+- Experto en Tratamiento del Dolor.
+- Máster en Tratamiento del Dolor.
+- Máster en Turismo de Interior.
+UNIVERSIDAD DE VALLADOLID
+– Másteres Oficiales.
+- Máster Universitario en Acústica y Vibraciones por la Universidad
+de Valladolid.
+- Máster Universitario en Automoción por la Universidad de
+Valladolid.
+- Máster Universitario en Calidad, Desarrollo e Innovación de Ali-
+mentos por la Universidad de Valladolid.
+- Máster Universitario en Desarrollo Agroforestal por la Universi-
+dad de Valladolid.
+- Máster Universitario en Desarrollo Económico Regional y Local y
+Gestión del Territorio por la Universidad de Valladolid.
+- Máster Universitario en Energía: Generación, Gestión y Uso Efi-
+ciente por la Universidad de Valladolid.
+- Máster Universitario en Física de los Sistemas de Diagnóstico,
+Tratamiento y Protección en Ciencias de la Salud por la Universi-
+dad de Valladolid.
+- Máster Universitario en Gestión de la Prevención de Riesgos
+Laborales, Calidad y Medio Ambiente por la Universidad de
+Valladolid.
+- Máster Universitario en Gestión y Tecnología Ambiental por la
+Universidad de Valladolid.
+- Máster Universitario en Inmunología y Superficie Ocular por la
+Universidad de Valladolid.
+- Máster Universitario en Investigación Biomédica por la Universi-
+dad de Valladolid.
+- Máster Universitario en Investigación en Ciencias de la Visión por
+la Universidad de Valladolid.
+- Máster Universitario en Investigación en Ingeniería en Procesos y
+Sistemas por la Universidad de Valladolid.
+- Máster Universitario en Investigación en Ingeniería para el Desarro-
+llo Agroforestal por la Universidad de Valladolid.
+- Máster Universitario en Investigación en Ingeniería para la Con-
+servación y Usos Sostenible de Sistemas Forestales por la Univer-
+sidad de Valladolid.
+- Máster Universitario en Logística por la Universidad de Valladolid.
+- Máster Universitario en Modelización Matemática y Computación
+por la Universidad de Valladolid.
+- Máster Universitario en Nanociencia y Nanotecnología Molecular
+por la Universidad de Valladolid.
+- Máster Universitario en Oncología Ocular, Órbita y Oculoplástica
+por la Universidad de Valladolid.
+- Máster Universitario en Retina por la Universidad de Valladolid.
+- Máster Universitario en Tecnologías de la Información y las
+Comunicaciones por la Universidad de Valladolid.
+- Máster Universitario en Investigación en Ingeniería Termodinámi-
+ca de Fluidos por la Universidad de Valladolid.
+– Títulos Propios.
+- Máster en Administración de Industrias Culturales.
+- Máster en Cuidados Paliativos.
+- Máster en Glaucoma.
+- Máster en la Enseñanza del Español como Lengua Extranjera.
+- Máster en Optometría y Ciencias de la Visión.
+- Máster en Química Experimental y Laboratorio.
+- Máster en Dirección de Proyectos.
+- Especialista en Concepción Robusta de Producto.
+- Especialista en Ingeniería de la Calidad.
+- Especialista en Ingeniería de la Climatización.
+- Especialista en Agente de Desarrollo Rural.
+- Especialista en Energía Renovable.
+- Especialista en Enfermería Oftalmológica.
+- Especialista en Ingeniería y Gestión de la Producción.
+- Especialista en Logística Integral.
+- Especialista en Servicios Sociales. Especialidad en Personas
+Mayores y Personas con Discapacidad.

@@ -1,0 +1,122 @@
+Boletín Oficial de Castilla y León
+Núm. 230
+Pág. 54469
+Martes, 29 de noviembre de 2016
+I. COMUNIDAD DE CASTILLA Y LEÓN
+A. DISPOSICIONES GENERALES
+CONSEJERÍA DE EDUCACIÓN
+ORDEN EDU/983/2016, de 22 de noviembre, por la que se crea el fichero 
+automatizado de datos de carácter personal de la Consejería de Educación denominado: 
+«Registro de alumnado matriculado en enseñanzas de ESO cofinanciadas por el Fondo 
+Social Europeo, 2014-2020».
+La Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter 
+Personal, en su artículo 20.1, establece que la creación, modificación o supresión de los 
+ficheros de las Administraciones Públicas sólo podrán hacerse por medio de disposición 
+general publicada en el «Boletín Oficial del Estado» o Diario Oficial correspondiente.
+Por su parte, el Decreto 11/2003, de 23 de enero, por el que se regulan los ficheros 
+de carácter personal susceptibles de tratamiento automatizado de la Administración de 
+la Comunidad de Castilla y León, dispone en su artículo 2.1 que la creación, modificación 
+y supresión de los ficheros de datos de carácter personal incluidos en el ámbito de 
+aplicación de la citada ley, se realizará por orden del titular de la consejería competente 
+por razón de la materia a la que afectan, y que las órdenes de creación y modificación 
+de ficheros deberán recoger todos los apartados que establece el artículo 20 de la Ley 
+Orgánica 15/1999, de 13 de diciembre.
+Por otro lado, el artículo 21de la citada Ley Orgánica dispone, en su apartado primero, 
+que con carácter general los datos de carácter personal no serán comunicados a otras 
+administraciones públicas salvo «cuando la comunicación tenga por objeto el tratamiento 
+posterior de los datos con fines históricos, estadísticos o científicos».
+Para la implantación de la Educación Secundaria Obligatoria (ESO) de conformidad 
+con lo los cambios introducidos por la Ley Orgánica 8/2013, de 9 de diciembre, para 
+la Mejora de la Calidad Educativa, se ha contado con la financiación del Ministerio de 
+Educación, Cultura y Deporte (MECD) y del Fondo Social Europeo (FSE) concretado en 
+un Convenio de colaboración suscrito entre representantes de ambas administraciones, 
+siendo necesario para la justificación del cumplimiento de las obligaciones la recogida de 
+datos de carácter personal de los alumnos de los centros docentes que sean seleccionados. 
+En este sentido, el apartado 2 del artículo 21 de la Ley Orgánica 15/1999, señala que 
+podrán ser objeto de comunicación los datos de carácter personal que una Administración 
+pública obtenga o elabore con destino a otra.
+En virtud de las citadas normas y demás de general aplicación, y previo informe de la 
+Dirección General de Telecomunicaciones, de la Consejería de Fomento y Medio Ambiente, 
+sobre las medidas de seguridad que deben cumplir los ficheros automatizados,
+CV: BOCYL-D-29112016-4
+
+Boletín Oficial de Castilla y León
+Núm. 230
+Pág. 54470
+Martes, 29 de noviembre de 2016
+DISPONGO
+Artículo 1. Objeto.
+La presente orden tiene por objeto la creación del fichero automatizado de datos 
+de carácter personal de la Consejería de Educación denominado «Registro de alumnado 
+matriculado en enseñanzas de ESO cofinanciadas por el Fondo Social Europeo, 2014-2020» 
+con los elementos que se contienen en el Anexo.
+Artículo 2. Medidas técnicas y organizativas.
+El responsable del fichero adoptará las medidas de gestión y organización que sean 
+necesarias para asegurar la confidencialidad, seguridad e integridad de los datos, así como 
+las conducentes a hacer efectivas las garantías, obligaciones y derechos reconocidos en 
+la normativa aplicable.
+Artículo 3. Derechos de los afectados.
+Las personas afectadas por el fichero podrán ejercitar su derecho de acceso, 
+cancelación, oposición y rectificación de datos, cuando proceda, ante el órgano 
+administrativo responsable indicado en el Anexo.
+DISPOSICIÓN FINAL
+Entrada en vigor.
+La presente orden entrará en vigor el día siguiente al de su publicación en el «Boletín 
+Oficial de Castilla y León».
+Valladolid, 22 de noviembre de 2016.
+El Consejero,
+Fdo.: Fernando Rey Martínez
+CV: BOCYL-D-29112016-4
+
+Boletín Oficial de Castilla y León
+Núm. 230
+Pág. 54471
+Martes, 29 de noviembre de 2016
+ANEXO
+Denominación del fichero: 
+«REGISTRO DE ALUMNADO MATRICULADO EN ENSEÑANZAS DE ESO 
+COFINANCIADAS POR EL FONDO SOCIAL EUROPEO, 2014-2020».
+Fines y usos:
+Dar cumplimiento a las obligaciones derivadas de la normativa comunitaria 
+reguladora del Fondo Social Europeo en materia de seguimiento de operaciones 
+cofinanciadas. 
+Personas o colectivos afectados:
+Alumnos y alumnas de ESO de centros docentes seleccionados como operación 
+para participar de la cofinanciación del Fondo Social Europeo, 2014-2020.
+Procedimiento de recogida:
+Formularios de recogida de datos facilitados por los propios alumnos y alumnas, o 
+sus padres o tutores, en el caso de ser menores de edad. 
+Estructura básica del fichero y descripción de los datos de carácter personal:
+Datos de carácter identificativo: Nombre y apellidos, fecha de nacimiento, edad, 
+DNI/NIE, sexo.
+Datos de carácter académico: Curso de ESO, curso académico y grupo.
+Datos de carácter laboral (mayores de 16 años): Empleo, mejoría en la situación 
+laboral.
+Datos de carácter sociodemográfico: Situación en el hogar, tipo de vivienda.
+Dato de discapacidad: (si/no/me reservo a contestar).
+Comunicación de datos de carácter personal previstos:
+Ministerio de Educación Cultura y Deporte y Fondo Social Europeo, como justificación 
+de la ejecución y seguimiento de las actuaciones vinculadas al cumplimiento de 
+las obligaciones derivadas de la normativa comunitaria reguladora del Fondo Social 
+Europeo en materia de seguimiento de operaciones cofinanciadas, y cuyo tratamiento 
+posterior, en su caso, se limitará exclusivamente a fines históricos, estadísticos o 
+científicos.
+Órgano de la Administración responsable del fichero:
+Dirección General de Política Educativa Escolar.
+Servicio o unidad ante el que pueden ejercitarse los derechos de acceso, rectificación, 
+cancelación y oposición:
+Servicio de Educación Infantil, Básica y Bachillerato de la Dirección General de 
+Política Educativa Escolar.
+CV: BOCYL-D-29112016-4
+
+Boletín Oficial de Castilla y León
+Núm. 230
+http://bocyl.jcyl.es
+D.L.: BU 10-1979 - ISSN 1989-8959
+Pág. 54472
+Martes, 29 de noviembre de 2016
+Sistema de tratamiento:
+Parcialmente automatizado (Mixto).
+Nivel de Seguridad:
+Nivel básico.
+CV: BOCYL-D-29112016-4

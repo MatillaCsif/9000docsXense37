@@ -1,0 +1,3450 @@
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37685
+Viernes, 2 de octubre de 2020
+I. COMUNIDAD DE CASTILLA Y LEÓN
+A. DISPOSICIONES GENERALES
+CONSEJERÍA DE EDUCACIÓN
+DECRETO 10/2020, de 1 de octubre, por el que se establece el currículo 
+correspondiente al título de Técnico Superior en Química y Salud Ambiental en la 
+Comunidad de Castilla y León.
+La Constitución Española reserva al Estado, en el artículo 149.1.30.ª, la competencia 
+exclusiva en materia de regulación de las condiciones de obtención, expedición y 
+homologación de títulos académicos y profesionales y normas básicas para el desarrollo 
+del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones 
+de los poderes públicos en esta materia.
+El Estatuto de Autonomía de Castilla y León, en el artículo 73.1, atribuye a la 
+Comunidad de Castilla y León la competencia de desarrollo legislativo y ejecución de 
+la enseñanza en toda su extensión, niveles y grados, modalidades y especialidades de 
+acuerdo con lo dispuesto en la normativa estatal.
+La Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación 
+Profesional, establece en el artículo 10.1 que la Administración General del Estado 
+determinará los títulos y los certificados de profesionalidad que constituirán las ofertas de 
+formación profesional referidos al Catálogo Nacional de Cualificaciones Profesionales, y 
+en el apartado 2 que las Administraciones educativas, en el ámbito de sus competencias, 
+podrán ampliar los contenidos de los correspondientes títulos de formación profesional.
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación, tras su modificación por la 
+Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa, establece 
+en el artículo 6.bis.4 que, en relación con la formación profesional, el Gobierno fijará los 
+objetivos, competencias, contenidos, resultados de aprendizaje y criterios de evaluación 
+del currículo básico, y en el artículo 39.6 que el Gobierno establecerá las titulaciones 
+correspondientes a los estudios de formación profesional, así como los aspectos básicos 
+del currículo de cada una de ellas. 
+El Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación 
+general de la formación profesional del sistema educativo, regula en el artículo 9 la 
+estructura de los títulos de formación profesional tomando como base el Catálogo 
+Nacional de Cualificaciones Profesionales, las directrices fijadas por la Unión Europea y 
+otros aspectos de interés social, y en el artículo 7 se recoge los elementos que definen el 
+perfil profesional de dichos títulos, que incluirá la competencia general, las competencias 
+profesionales, personales y sociales, las cualificaciones profesionales y, en su caso, las 
+unidades de competencia, cuando se refieran al Catálogo Nacional de Cualificaciones 
+Profesionales incluidas en los títulos. Por otro lado, el artículo 8.2, dispone que las 
+Administraciones educativas establecerán los currículos correspondientes respetando lo 
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37686
+Viernes, 2 de octubre de 2020
+en él dispuesto y en las normas que regulen las diferentes enseñanzas de formación 
+profesional.
+Mediante Real Decreto 283/2019, de 22 de abril, se establece el título de Técnico 
+Superior en Química y Salud Ambiental y se fijan los aspectos básicos del currículo. En su 
+artículo 1.2 se determina que lo dispuesto en este real decreto sustituye a la regulación del 
+título de Técnico Superior en Química Ambiental contenida en el Real Decreto 812/1993, 
+de 28 de mayo, por el que se establece el citado título y las correspondientes enseñanzas 
+mínimas, y del título de Técnico Superior en Salud Ambiental contenida en el Real 
+Decreto 540/1995, de 7 de abril, por el que se establece el citado título y las correspondientes 
+enseñanzas mínimas. 
+El presente decreto establece el currículo correspondiente al título de Técnico 
+Superior en Química y Salud Ambiental en la Comunidad de Castilla y León, teniendo 
+en cuenta los principios que han de orientar la actividad educativa según lo previsto en 
+el artículo 1 de la Ley Orgánica 2/2006, de 3 de mayo, y pretende dar respuesta a las 
+necesidades generales de cualificación de las personas.
+Esta norma se ajusta a los principios de buena regulación previstos en el 
+artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común 
+de las Administraciones Públicas. De acuerdo con los principios de necesidad y eficacia, 
+este decreto se dicta en atención al cumplimiento y desarrollo de la normativa estatal básica 
+y viene motivado por una razón de interés general al ser el objetivo básico del currículo en 
+él establecido hacer frente a las actuales necesidades de formación de personal técnico 
+cuya competencia general consiste en vigilar y controlar los efectos sobre la salud de los 
+factores de riesgo ambiental y alimentario, participar en la puesta en marcha y el desarrollo 
+de sistemas de gestión ambiental e intervenir en programas de educación para la salud 
+pública y comunitaria bajo la supervisión, en su caso, del superior responsable, de acuerdo 
+con los protocolos establecidos, respetando la normativa de referencia en condiciones de 
+calidad y seguridad. 
+En relación con el principio de proporcionalidad este decreto contiene la regulación 
+imprescindible para atender la necesidad que el interés general requiere y es acorde con 
+el sistema constitucional de distribución de competencias puesto que, una vez aprobado 
+por la Administración General del Estado un determinado título oficial y el currículo básico, 
+compete a la Administración educativa autonómica el establecimiento de un currículo propio 
+para Castilla y León en los términos determinados en la norma estatal y de acuerdo con el 
+porcentaje de configuración autonómica en ella determinado. Asimismo, esta regulación 
+responde a una de las acciones incluidas en el programa operativo 19/L4 del Plan General 
+de Formación Profesional contenido en la II Estrategia Integrada de Empleo, Formación 
+Profesional, Prevención de Riesgos Laborales e Igualdad y Conciliación en el Empleo, 
+2016-2020, aprobada por Acuerdo del Consejo del Diálogo Social de Castilla y León 
+autorizado el 27 de enero de 2016 por la Junta de Castilla y León, que consiste en la 
+elaboración de nuevos currículos, adaptados a las características socioeconómicas 
+de Castilla y León, a medida que se vayan publicando los nuevos títulos de formación 
+profesional, con la colaboración de los agentes económicos y sociales de nuestra 
+Comunidad.
+A fin de garantizar el principio de seguridad jurídica este decreto se ha elaborado 
+de manera coherente con el resto del ordenamiento jurídico, fundamentalmente con la 
+normativa estatal básica en la materia.
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37687
+Viernes, 2 de octubre de 2020
+En relación con el principio de eficiencia ha de ponerse de manifiesto que la 
+aprobación de este decreto no impone nuevas cargas administrativas y su aplicación 
+supondrá una correcta racionalización de los recursos públicos.
+El principio de transparencia se ha cumplido en la tramitación del decreto a través 
+del Portal de Gobierno Abierto de la Junta de Castilla y León, de conformidad con lo 
+previsto en el artículo 76 en relación con el artículo 75 de la Ley 3/2001, del Gobierno y 
+de la Administración de la Comunidad de Castilla y León, así como del artículo 133 de la 
+Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las 
+Administraciones Públicas, respecto de los trámites de consulta pública previa y de 
+audiencia e información pública, y del artículo 16 de la Ley 3/2015, de 4 de marzo, de 
+Transparencia y Participación Ciudadana de Castilla y León, respecto del trámite de 
+participación ciudadana.
+Por otro lado, en la elaboración de este decreto se ha contado con la colaboración 
+de profesorado de las especialidades con atribución docente en los módulos profesionales 
+del ciclo formativo correspondiente al título de Técnico Superior en Química y Salud 
+Ambiental de los centros educativos de Castilla y León. Asimismo se ha recabado 
+dictamen del Consejo Escolar de Castilla y León de conformidad con el artículo 8.1.a) de la 
+Ley 3/1999, de 17 de marzo, del Consejo Escolar de Castilla y León, e informe del Consejo 
+de Formación Profesional de Castilla y León de conformidad con el artículo 2.g) del 
+Decreto 82/2000, de 27 de abril, de creación de este Consejo.
+En su virtud, la Junta de Castilla y León, a propuesta de la Consejera de Educación, 
+de acuerdo con el dictamen del Consejo Consultivo de Castilla y León, y previa deliberación 
+del Consejo de Gobierno en su reunión de 1 de octubre de 2020
+DISPONE
+Artículo 1. Objeto y ámbito de aplicación.
+1. El presente decreto tiene por objeto establecer el currículo correspondiente al 
+título de Técnico Superior en Química y Salud Ambiental en la Comunidad de Castilla 
+y León. 
+2. Será de aplicación en los centros públicos y privados de la Comunidad de Castilla 
+y León que, debidamente autorizados, impartan este título. 
+Artículo 2. Identificación del título y referentes de formación.
+1. El título de Técnico Superior en Química y Salud Ambiental queda identificado 
+en la Comunidad de Castilla y León por los elementos determinados en el artículo 2 del 
+Real Decreto 283/2019 de 22 de abril, por el que se establece el citado título y se fijan los 
+aspectos básicos del currículo, y por un código, de la forma siguiente: 
+DENOMINACIÓN: Química y Salud Ambiental. 
+NIVEL: Formación Profesional de Grado Superior.
+DURACIÓN: 2.000 horas.
+FAMILIA PROFESIONAL: Seguridad y Medio Ambiente.
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37688
+Viernes, 2 de octubre de 2020
+RAMAS DE CONOCIMIENTO: Ciencias. Ciencias de la salud.
+REFERENTE EUROPEO: CINE-5b (Clasificación Internacional Normalizada de la 
+Educación).
+NIVEL DEL MARCO ESPAÑOL DE CUALIFICACIONES PARA LA EDUCACIÓN 
+SUPERIOR: Nivel 1 Técnico Superior.
+CÓDIGO: SEA 03S.
+2. El currículo del ciclo formativo que conduce al título de Técnico Superior en 
+Química y Salud Ambiental tomará como referentes de formación los aspectos relativos 
+al perfil profesional del título determinado por la competencia general, las competencias 
+profesionales, personales y sociales, y la relación de cualificaciones y unidades de 
+competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título, 
+así como los aspectos referentes al entorno profesional y la prospectiva del título en el 
+sector o sectores, establecidos en los artículos 3 a 8 del Real Decreto 283/2019 de 22 de 
+abril.
+Artículo 3. Módulos profesionales del ciclo formativo.
+Los módulos profesionales que componen el ciclo formativo que conduce a la 
+obtención del título de Técnico Superior en Química y Salud Ambiental serán los siguientes:
+a)	Los módulos profesionales establecidos en el artículo 10 del Real Decreto 
+283/2019, de 22 de abril, y que se indican a continuación: 
+
+1546. Sistemas de gestión ambiental.
+
+1547. Educación para la salud y el medio ambiente.
+
+1548. Control de aguas.
+
+1549. Control de residuos.
+
+1550. Salud y riesgos del medio construido.
+
+1551. Control y seguridad alimentaria.
+
+1552. Contaminación ambiental y atmosférica.
+
+1553. Control de organismos nocivos.
+
+1554. Unidad de salud ambiental.
+
+1555. Proyecto de química y salud ambiental.
+
+1556. Formación y orientación laboral.
+
+1557. Empresa e iniciativa emprendedora.
+
+1558. Formación en centros de trabajo.
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37689
+Viernes, 2 de octubre de 2020
+b)	El módulo profesional que se establece como propio de la Comunidad de Castilla 
+y León:
+
+CL26. Inglés para química y salud ambiental. 
+Artículo 4. Objetivos, duración, contenidos y orientaciones pedagógicas y 
+metodológicas de cada módulo profesional.
+1. Los objetivos de los módulos profesionales relacionados en el artículo 3.a), 
+expresados en términos de resultados de aprendizaje, y los criterios de evaluación, son 
+los que se establecen en el Anexo I del Real Decreto 283/2019 de 22 de abril.
+2. Por su parte, la duración, los contenidos y las orientaciones pedagógicas y 
+metodológicas, de los módulos profesionales relacionados en el artículo 3.a), son los que 
+se establecen en el Anexo I de este decreto, excepto el módulo profesional «Proyecto 
+de química y salud ambiental» sobre el que el citado Anexo solo determina la duración y 
+las orientaciones pedagógicas y metodológicas, y el módulo profesional «Formación en 
+centros de trabajo» sobre el que solo determina la duración.
+3. Los objetivos del módulo profesional indicado en el artículo 3.b) expresados en 
+términos de resultados de aprendizaje y criterios de evaluación, así como la duración, los 
+contenidos y las orientaciones pedagógicas y metodológicas, son los que se establecen 
+en el Anexo I de este decreto junto al resto de módulos profesionales.
+Artículo 5. Módulos profesionales de «Formación en centros de trabajo» y de 
+«Proyecto de química y salud ambiental».
+1. El programa formativo del módulo profesional «Formación en centros de trabajo» 
+se particularizará para cada alumno y se elaborará teniendo en cuenta las características 
+del centro de trabajo. Deberá recoger las actividades formativas que permitan ejecutar 
+o completar la competencia profesional correspondiente al título, los resultados de 
+aprendizaje y los criterios de evaluación previstos en el Anexo I del Real Decreto 283/2019, 
+de 22 de abril.
+2. El módulo profesional de «Proyecto de química y salud ambiental» se definirá de 
+acuerdo con las características de la actividad laboral del ámbito del ciclo formativo y con 
+aspectos relativos al ejercicio profesional y a la gestión empresarial. Tendrá por objeto la 
+integración de las diversas capacidades y conocimientos del currículo del ciclo formativo, 
+contemplará las variables tecnológicas y organizativas relacionadas con el título, y deberá 
+ajustarse a los resultados de aprendizaje y criterios de evaluación previstos en el Anexo I 
+del Real Decreto 283/2019, de 22 de abril.
+El profesorado que imparta docencia en el ciclo formativo determinará, en el marco 
+de la programación general anual, los proyectos que se propondrán para su desarrollo por 
+el alumnado. Los proyectos también podrán ser propuestos por el alumnado, en cuyo caso 
+se requerirá la aceptación del citado profesorado.
+Con carácter general, el módulo profesional «Proyecto de química y salud ambiental» 
+se desarrollará simultáneamente al módulo profesional «Formación en centros de trabajo», 
+salvo que concurran otras circunstancias que no lo permitan.
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37690
+Viernes, 2 de octubre de 2020
+Artículo 6. Organización y distribución de los módulos profesionales. 
+1. Los módulos profesionales que forman las enseñanzas del ciclo formativo de 
+técnico superior en química y salud ambiental, cuando se oferten en régimen presencial, 
+se organizan en dos cursos académicos. Su distribución en cada uno de los cursos y la 
+asignación horaria semanal se recoge en el Anexo II de este decreto.
+2. El periodo de realización del módulo profesional de «Formación en centros de 
+trabajo» establecido en el Anexo II para el tercer trimestre, podrá comenzar en el segundo 
+trimestre si han transcurrido veintidós semanas lectivas a contar desde el inicio del curso 
+escolar.
+Artículo 7. Metodología.
+1. La metodología didáctica aplicada al ciclo formativo de técnico superior en química 
+y salud ambiental integrará los aspectos científicos, tecnológicos y organizativos que en 
+cada caso correspondan, con el fin de que el alumnado adquiera una visión global de los 
+procesos productivos propios de la actividad profesional.
+2. En el desarrollo de las enseñanzas correspondientes al ciclo formativo se deben 
+aplicar metodologías activas de aprendizaje que favorezcan: 
+a)	La participación, implicación y compromiso del alumnado en las tareas y su 
+resolución de una manera creativa, innovadora y autónoma, estimulando su 
+motivación.
+b)	La realización de proyectos o actividades coordinadas en los que intervengan 
+diferentes módulos interrelacionando aquellos que permitan completar las 
+competencias profesionales del ciclo formativo.
+c)	 La evaluación de las actitudes que el profesorado considere imprescindibles para 
+el desempeño de una profesión y la integración en una sociedad cívica y ética.
+d)	La adquisición de competencias, tanto técnicas asociadas a los módulos 
+profesionales que configuran el ciclo formativo, como interpersonales o sociales 
+(competencia digital, trabajo colaborativo, en equipo o cooperativo, otros). 
+e)	El desarrollo de trabajos en el aula que versen sobre actividades que supongan 
+al alumnado el ensayo de rutinas y destrezas de pensamiento y ejecución de 
+tareas que simulen el ambiente real de trabajo en torno al perfil profesional del 
+título, apoyándose en un aprendizaje basado en proyectos, retos o la resolución 
+de problemas complejos que estimulen al alumnado.
+f)	 La comprobación del nivel adquirido por el alumnado en las competencias 
+asociadas al módulo profesional cursado, mediante la elaboración de pruebas 
+con un componente práctico que evidencie dicho desempeño profesional. 
+Artículo 8. Adaptaciones metodológicas y curriculares.
+1. Con objeto de ofrecer a todas las personas la oportunidad de adquirir una 
+formación básica, ampliar y renovar sus conocimientos, habilidades y destrezas de modo 
+permanente y facilitar el acceso a las enseñanzas de formación profesional, la consejería 
+competente en materia de educación podrá flexibilizar la oferta del ciclo formativo de 
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37691
+Viernes, 2 de octubre de 2020
+técnico superior en química y salud ambiental permitiendo, principalmente a las personas 
+adultas, la posibilidad de combinar el estudio y la formación con la actividad laboral o con 
+otras actividades, respondiendo así a las necesidades e intereses personales.
+2. También se podrá adecuar las enseñanzas de este ciclo formativo a las 
+características de la educación a distancia, así como a las características del alumnado 
+con necesidades específicas de apoyo educativo para que se garantice su acceso, 
+permanencia y progresión en el ciclo formativo.
+Artículo 9. Requisitos de los centros para impartir estas enseñanzas.
+Todos los centros de titularidad pública o privada que ofrezcan enseñanzas 
+conducentes a la obtención del título de Técnico Superior en Química y Salud Ambiental 
+se ajustarán a lo establecido en la Ley Orgánica 2/2006, de 3 de mayo, de Educación y 
+en las normas que lo desarrollen, y en todo caso deberán cumplir los requisitos que se 
+establecen en el artículo 46 del Real Decreto 1147/2011, de 29 de julio, por el que se 
+establece la ordenación general de la formación profesional del sistema educativo, en el 
+Real Decreto 283/2019, de 22 de abril, en este decreto, y en lo establecido en la normativa 
+que los desarrolle.
+Artículo 10. Profesorado.
+1. Los aspectos referentes al profesorado con atribución docente en los módulos 
+profesionales del ciclo formativo de técnico superior en química y salud ambiental, 
+relacionados en el artículo 3.a), son los establecidos en el artículo 12 del Real 
+Decreto 283/2019, de 22 de abril.
+2. Las especialidades y, en su caso, las titulaciones del profesorado con atribución 
+docente en el módulo profesional incluido en el artículo 3.b), son las que se determinan en 
+el Anexo III del presente decreto. 
+Artículo 11. Espacios y equipamientos. 
+Los espacios y equipamientos necesarios para el desarrollo de las enseñanzas del 
+ciclo formativo de técnico superior en química y salud ambiental son los establecidos en el 
+artículo 11 del Real Decreto 283/2019, de 22 de abril. 
+Artículo 12. Accesos y vinculación a otros estudios, y correspondencia de módulos 
+profesionales con las unidades de competencia.
+El acceso y vinculación a otros estudios, y la correspondencia de los módulos 
+profesionales con las unidades de competencia, son los que se establecen en el 
+capítulo IV del Real Decreto 283/2019, de 22 de abril.
+Artículo 13. Autonomía de los centros.
+1. Los centros educativos dispondrán de la necesaria autonomía pedagógica, 
+de organización y de gestión económica, para el desarrollo de las enseñanzas del 
+ciclo formativo de técnico superior en química y salud ambiental, y su adaptación a las 
+características concretas del entorno socioeconómico, cultural y profesional. 
+2. Los centros autorizados para impartir el ciclo formativo concretarán y desarrollarán 
+el currículo mediante las programaciones didácticas de cada uno de los módulos 
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37692
+Viernes, 2 de octubre de 2020
+profesionales que componen el ciclo formativo en los términos establecidos en el Real 
+Decreto 283/2019, de 22 de abril, en este decreto, en el marco general del proyecto 
+educativo de centro y en función de las características de su entorno productivo. 
+Las programaciones didácticas incluirán, al menos, los aspectos siguientes: 
+a)	Las competencias profesionales asociadas, las capacidades profesionales u 
+objetivos expresados en resultados de aprendizaje, contenidos y criterios de 
+evaluación establecidos en el currículo de la Comunidad de Castilla y León para 
+el ciclo formativo. 
+b)	La distribución temporal de los contenidos en el curso correspondiente. 
+c)	 La metodología didáctica que se va a aplicar.
+d)	Los procedimientos de evaluación del aprendizaje del alumnado, recogiendo las 
+actuaciones que se llevarán a cabo para evaluar los resultados de aprendizaje 
+y los criterios de calificación de los módulos y el procedimiento y plazos a seguir 
+para la presentación y tramitación de reclamaciones.
+e)	El número máximo de faltas de asistencia no justificadas o las actividades no 
+realizadas que determinarán la imposibilidad de aplicar la evaluación continua y 
+el procedimiento a seguir para la evaluación del alumnado en estos casos. 
+f)	 Los materiales y recursos didácticos que se vayan a utilizar, así como las 
+referencias bibliográficas que se necesiten.
+g)	Las actividades complementarias y extraescolares que, en su caso, se pretendan 
+realizar.
+h)	Las medidas de atención a la diversidad para el alumnado que las precisen, 
+teniendo en cuenta los informes de evaluación psicopedagógica, así como los 
+procesos de evaluación adecuados a las adaptaciones metodológicas, incluyendo 
+la adaptación de los criterios y los procedimientos de evaluación cuando el 
+ciclo formativo vaya a ser cursado por alumnado con necesidades educativas 
+especiales o con algún tipo de discapacidad que garanticen su accesibilidad a 
+las pruebas de evaluación.
+i)	 La planificación de las actividades de recuperación de los módulos profesionales 
+pendientes de superación, y expresamente aquellas que puedan ser realizables 
+de forma autónoma por el alumnado.
+j)	 La utilización de las tecnologías de la información y comunicación (TIC) en la 
+actividad docente.
+3. La consejería competente en materia de educación favorecerá la elaboración de 
+proyectos de innovación, así como de modelos de programación docente y de materiales 
+didácticos que faciliten al profesorado el desarrollo del currículo.
+4. De conformidad con el artículo 120.4 de la Ley Orgánica 2/2006, de 3 de mayo, 
+los centros, en el ejercicio de su autonomía, podrán adoptar experimentaciones, planes de 
+trabajo, formas de organización, normas de convivencia y ampliación del calendario escolar 
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37693
+Viernes, 2 de octubre de 2020
+o del horario lectivo de áreas o materias, en los términos que establezca la consejería 
+competente en materia de educación y dentro de las posibilidades que permita la normativa 
+aplicable, incluida la laboral, sin que, en ningún caso, se impongan aportaciones a las 
+familias ni exigencias para la citada consejería. 
+Artículo 14. Enseñanzas impartidas en lenguas extranjeras.
+1. Teniendo en cuenta que la promoción de la enseñanza y el aprendizaje de lenguas 
+debe de constituir una prioridad de la acción comunitaria en el ámbito de la educación y la 
+formación, la consejería competente en materia de educación podrá autorizar que todos 
+o determinados módulos profesionales del currículo se impartan en lenguas extranjeras.
+2. Los centros autorizados deberán incluir en su proyecto educativo los elementos 
+más significativos de su proyecto lingüístico autorizado.
+3. En todo caso, se exigirá al profesorado que imparta enseñanzas en lenguas 
+extranjeras que acredite el dominio de las competencias correspondientes, al menos, al 
+nivel B2 del Marco Común Europeo de Referencia para las lenguas. 
+Artículo 15. Oferta a distancia del título.
+1. Los módulos profesionales que forman las enseñanzas del ciclo formativo de 
+técnico superior en química y salud ambiental, podrán ofertarse a distancia, siempre 
+que se garantice que el alumnado puede conseguir los resultados de aprendizaje de los 
+mismos, de acuerdo con lo dispuesto en el Real Decreto 283/2019, de 22 de abril, y en 
+este decreto.
+2. La consejería competente en materia de educación establecerá los módulos 
+profesionales susceptibles de ser impartidos a distancia y el porcentaje de horas de cada 
+uno de ellos que tienen que impartirse en régimen presencial.
+DISPOSICIONES ADICIONALES
+Primera. Calendario de implantación.
+1. La implantación del currículo establecido en este decreto tendrá lugar en el curso 
+escolar 2020/2021 para el primer curso del ciclo formativo y en el curso escolar 2021/2022 
+para el segundo curso del ciclo formativo.
+2. El alumnado que, al finalizar el curso escolar 2019/2020, cumpla las condiciones 
+requeridas para cursar el segundo curso de los títulos de Técnico Superior en Química 
+Ambiental y de Técnico Superior en Salud Ambiental y que no haya superado alguno de 
+los módulos profesionales del primer curso de los mencionados títulos, contará con dos 
+convocatorias en cada uno de los dos años sucesivos para poder superar dichos módulos 
+profesionales. Transcurrido dicho periodo, en el curso escolar 2022/2023, se le aplicarán 
+las convalidaciones, para los módulos superados, establecidas en el artículo 15.1 del Real 
+Decreto 283/2019, de 22 de abril.
+3. Al alumnado que, al finalizar el curso escolar 2019/2020, no cumpla las condiciones 
+requeridas para cursar el segundo curso de los títulos de Técnico Superior en Química 
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37694
+Viernes, 2 de octubre de 2020
+Ambiental y de Técnico Superior en Salud Ambiental, se le aplicarán las convalidaciones 
+establecidas en el artículo 15.1 del Real Decreto 283/2019, de 22 de abril.
+4. El alumnado que, al finalizar el curso escolar 2020/2021 no cumpla las condiciones 
+requeridas para obtener los títulos de Técnico Superior en Química Ambiental y de Técnico 
+Superior en Salud Ambiental, contará con dos convocatorias en cada uno de los dos años 
+sucesivos para poder superar dichos módulos profesionales, a excepción del módulo 
+profesional de «Formación en centros de trabajo» para el que se dispondrá de un curso 
+escolar suplementario. Al alumnado que transcurrido dicho periodo no hubiera obtenido el 
+título se le aplicarán las convalidaciones, para los módulos superados, establecidas en el 
+artículo 15.1 del Real Decreto 283/2019, de 22 de abril.
+5. A efectos de lo indicado en los apartados 2 y 4, los departamentos con atribución 
+docente en el ciclo formativo de técnico superior en química y salud ambiental propondrán 
+al alumnado un plan de trabajo, con expresión de las capacidades terminales y los criterios 
+de evaluación exigibles y de las actividades recomendadas, y programarán pruebas 
+parciales y finales para evaluar los módulos profesionales pendientes. 
+Segunda. Titulaciones equivalentes y vinculación con capacitaciones profesionales. 
+1. Las titulaciones equivalentes y la vinculación con capacitaciones profesionales 
+son la que se establecen en la disposición adicional tercera del Real Decreto 283/2019, 
+de 22 de abril.
+2. La formación establecida en el presente decreto en el módulo profesional de 
+«Formación y orientación laboral», incluye un mínimo de cincuenta horas, que capacita 
+para llevar a cabo responsabilidades profesionales equivalentes a las que precisan las 
+actividades de nivel básico en prevención de riesgos laborales, establecidas en el Real 
+Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de los Servicios 
+de Prevención.
+Tercera. Certificación académica de superación del nivel básico en prevención de 
+riesgos laborales. 
+La consejería competente en materia de educación expedirá una certificación 
+académica de la formación de nivel básico en prevención de riesgos laborales al alumnado 
+que haya superado el bloque B del módulo profesional «Formación y orientación laboral», 
+de conformidad con la Orden EDU/2205/2009, de 26 de noviembre, por la que se regula 
+el procedimiento para la certificación de la formación de nivel básico en prevención de 
+riesgos laborales para el alumnado que supere el módulo profesional de Formación y 
+Orientación Laboral de ciclos formativos de Formación Profesional Inicial.
+DISPOSICIÓN DEROGATORIA
+Derogación normativa.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo 
+establecido en el presente decreto. 
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37695
+Viernes, 2 de octubre de 2020
+DISPOSICIONES FINALES
+Primera. Desarrollo normativo.
+Se faculta a la persona titular de la consejería competente en materia de educación 
+para dictar cuantas disposiciones sean precisas para la interpretación, aplicación y 
+desarrollo de lo dispuesto en este decreto.
+Segunda. Entrada en vigor.
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín 
+Oficial de Castilla y León.
+Valladolid, 1 de octubre de 2020.
+El Presidente de la Junta 
+de Castilla y León,
+Fdo.: Alfonso Fernández Mañueco
+La Consejera 
+de Educación,
+Fdo.: Rocío Lucas Navas
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37696
+Viernes, 2 de octubre de 2020
+ANEXO I
+Objetivos, contenidos, duración y orientaciones pedagógicas
+y metodológicas de los módulos profesionales
+Módulo profesional: Sistema de gestión ambiental.
+Equivalencia en créditos ECTS: 6.
+Código: 1546. 
+Duración: 84 horas.
+Contenidos:
+1. Elementos de un sistema de gestión de calidad:
+–
+– Calidad. Labor de los expertos de la calidad.
+–
+– Medio ambiente. La empresa ante el medio ambiente.
+–
+– Prevención de riesgos laborales. Principios de acción preventiva.
+–
+– Evolución histórica de los sistemas de gestión de calidad. Calidad total.
+–
+– Sistemas de gestión. Normas. Organismos de normalización. Ventajas de la 
+normalización y certificación.
+–
+– Mejora continua. Ciclo PDCA.
+–
+– Sistemas Integrados de Gestión de la Calidad, el Medio Ambiente y la Prevención 
+de Riesgos Laborales.
+–
+– Otros tipos de sistemas de gestión: Buenas Prácticas de Fabricación. Buenas 
+Prácticas de Laboratorio.
+–
+– Análisis de las normas más habituales que regulan los Sistemas de Gestión 
+Ambiental.
+–
+– Reglamento Europeo de gestión y auditoría ambientales (EMAS).
+–
+– Norma ISO 14001 para la gestión medioambiental.
+–
+– Beneficios e inconvenientes de la integración de los sistemas de gestión.
+–
+– Principios de la gestión integral.
+–
+– Manuales y sistemas de calidad. Estructura documental.
+–
+– Documentos de los sistemas de calidad.
+–
+– Evaluación de la conformidad. Certificación.
+–
+– Auditoría y evaluación de la calidad. Tipos de auditorías. Proceso de una auditoria.
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37697
+Viernes, 2 de octubre de 2020
+–
+– Acreditación de laboratorios de ensayo y calibración.
+–
+– Responsabilidad social y desarrollo sostenible. Principios jurídicos ambientales.
+2. Elaboración de procedimientos normalizados de trabajo:
+–
+– Organigrama y funciones del personal.
+–
+– Recursos materiales.
+–
+– Actividades de la unidad.
+–
+– Información científico-técnica y normativa relacionada para cada actividad.
+–
+– Procedimientos normalizados de trabajo (PNT). 
+–
+– Criterios y métodos de control de calidad.
+–
+– Tratamiento de resultados.
+–
+– Registros medioambientales.
+–
+– Técnicas de elaboración de informes.
+3. Aspectos medioambientales:
+–
+– Conceptos de aspecto, efecto e impacto medioambiental de la organización.
+–
+– Alcance de la identificación y evaluación de aspectos medioambientales.
+–
+– Metodologías de identificación de aspectos medioambientales posibles de la 
+actividad. Elección de criterios y de su ponderación.
+–
+– Metodologías de valoración de aspectos medioambientales. Definición de 
+objetivos y metas.
+–
+– Establecimiento del nivel de significancia de aspectos medioambientales.
+4. Aplicación de Sistemas de Gestión Ambiental (SGA):
+–
+– Evaluación ambiental de la organización. Análisis DAFO.
+–
+– Política ambiental de la organización.
+–
+– Manual de Gestión Ambiental.
+–
+– Procedimientos generales del SGA.
+–
+– Procedimientos específicos del SGA.
+–
+– Registros del SGA.
+–
+– Programa de Gestión Ambiental.
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37698
+Viernes, 2 de octubre de 2020
+–
+– Elaboración de informes medioambientales.
+–
+– Auditorias medioambientales.
+–
+– Objetivos y alcance.
+–
+– Instrumentos.
+–
+– Etapas.
+–
+– Metodología.
+–
+– No conformidades.
+–
+– Técnicas para la gestión de la calidad y el medioambiente. Técnicas de trabajo 
+en grupo. Tormenta de ideas. Hoja de recogida de datos. Diagrama de Pareto. 
+Diagrama de dispersión. Diagrama causa efecto. Diagrama de flujo.
+–
+– Técnicas estadísticas para la gestión de calidad y medioambiente. Gráficos de 
+control de variables y atributos.
+5. Aplicación de normas de prevención de riesgos laborales y protección ambiental:
+–
+– Riesgos personales y ambientales en unidades de salud y gestión ambiental.
+–
+– Seguridad en unidades de salud y gestión ambiental.
+–
+– Normativa de prevención de riesgos laborales.
+–
+– Gestión ambiental.
+–
+– Gestión de residuos en unidades de salud y gestión ambiental.
+–
+– Planes de emergencia.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar las 
+funciones de planificación y programación, gestión, ejecución, calidad y protección 
+ambiental.
+La función de planificación y programación incluye aspectos como:
+–
+– Definición de informes y protocolos.
+–
+– Establecimiento de puntos críticos del proceso.
+La función de gestión incluye aspectos como:
+–
+– Gestión de inventarios y documentación.
+–
+– Gestión de recursos.
+–
+– Evaluación de impacto ambiental.
+–
+– Asesoramiento ambiental.
+–
+– Gestión de residuos.
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37699
+Viernes, 2 de octubre de 2020
+La función de ejecución incluye aspectos como:
+–
+– Identificación y catalogación.
+–
+– Elaboración de informes.
+–
+– Detección/corrección de incidencias.
+–
+– Elaboración de partes de incidencias.
+La función de calidad incluye aspectos como:
+–
+– Seguimiento del plan de calidad.
+–
+– Aportación a la mejora continua.
+La función de protección ambiental incluye aspectos como:
+–
+– Cumplimiento de las normas ambientales.
+–
+– Supervisión y seguimiento de la normativa ambiental.
+–
+– Detección de impactos y establecimiento de medidas correctoras.
+Las actividades asociadas a esta función se aplican en:
+–
+– El control y documentación de los aspectos medioambientales de la organización, 
+para asegurar su correcto funcionamiento.
+–
+– La colaboración en la propuesta de medidas correctoras.
+–
+– La colaboración en la implantación, desarrollo y mantenimiento del Sistema de 
+Gestión Ambiental de la organización.
+La formación del módulo contribuye a alcanzar los objetivos generales a), m), n), ñ), 
+p), r), s) y t) del ciclo formativo, y las competencias a), l), m), o) y q) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo versarán sobre:
+–
+– El control de parámetros ambientales.
+–
+– La propuesta de medidas correctoras a problemas ambientales.
+–
+– El establecimiento de un Sistema de Gestión Ambiental.
+El sistema metodológico seguido en el módulo profesional se enfocará desde un 
+punto de vista práctico, para facilitar la comprensión de los conceptos teóricos expuestos 
+y para acercar al alumnado a la realidad laboral del técnico superior en química y salud 
+ambiental.
+Se fomentará el empleo de las Tecnologías de la Información y la Comunicación 
+(TIC) para que constituyan una herramienta habitual en el aula. Esto se llevará a cabo 
+mediante la incorporación de medios audiovisuales, búsqueda y consulta de normativa, 
+registro y presentación adecuada de datos y documentos. Esta metodología permitirá el 
+desarrollo de vocabulario técnico y la actualización de conocimientos.
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37700
+Viernes, 2 de octubre de 2020
+Módulo profesional: Educación para la salud y el medio ambiente.
+Equivalencia en créditos ECTS: 4.
+Código: 1547. 
+Duración: 63 horas.
+Contenidos:
+BLOQUE A: Vigilancia Epidemiológica. 
+Duración: 23 horas.
+1. Caracterización de actividades de vigilancia epidemiológica:
+–
+– Salud pública y Sanidad ambiental:
+•	 Determinantes de salud y enfermedad: Determinantes sociales de salud; 
+Determinantes para el sector salud: estilo de vida, biología humana, factores 
+medioambientales, sistema de asistencia sanitaria.
+•	 Indicadores generales del nivel de salud y de las características sociosanitarias 
+de la población: esperanza de vida, mortalidad, morbilidad, limitación de 
+actividad y salud subjetiva, salud materno infantil, hábitos y estilo de vida.
+•	 Medidas de frecuencia de la enfermedad: Incidencia y prevalencia.
+•	 Niveles de prevención de salud: primaria, secundaria y terciaria.
+–
+– Factores de riesgo medioambiental y salud:
+•	 Tipos de factores de riesgo.
+•	 Características de los factores de riesgo.
+•	 Riesgos sinérgicos. Riesgos competitivos.
+•	 Riesgo relativo. Riesgo absoluto.
+–
+– Epidemiología ambiental:
+•	 Características. Valoración del riesgo ambiental.
+•	 Estudios epidemiológicos. Tipos de estudios: Descriptivos. Analíticos. De 
+cohortes. De casos y controles.
+•	 Estudio de la causalidad epidemiológica. Tipos de causas. Relación o 
+asociación causal. Fuerza de la asociación: riesgo relativo, riesgo atribuible.
+•	 Variables epidemiológicas. De tiempo. De persona. De lugar. Características 
+e interrelación.
+–
+– Red de vigilancia epidemiológica:
+•	 Propósito y objetivos. Protocolos.
+•	 Sistemas básicos y específicos de Vigilancia epidemiológica.
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37701
+Viernes, 2 de octubre de 2020
+BLOQUE B: Educación sanitaria y ambiental.
+Duración: 40 horas.
+2. Planificación de actividades de educación sanitaria:
+–
+– Planes y programas de promoción de la salud: principios y objetivos. Ámbitos de 
+actuación. Metodología y estrategias.
+–
+– Educación para la salud: Concepto de educación sanitaria. Objetivos y contenidos. 
+Áreas de aplicación. Agentes de la educación para la salud.
+–
+– Instrumentos y estrategias en actividades de educación sanitaria. Secuenciación 
+de actividades.
+•	 Planificación: Análisis de la situación. Establecer prioridades. Definir objetivos. 
+Diseño y secuenciación de actividades y selección de métodos y medios. 
+Previsión de recursos. Ejecución. Evaluación.
+–
+– Educación ambiental y desarrollo sostenible.
+•	 Evaluación de la problemática ambiental. Objetivos. Programas y estrategias. 
+Índices e indicadores medioambientales.
+•	 Elementos educativos en salud ambiental: agua, aire, suelo y alimentos.
+–
+– Modelos y sistemas de consumo. Educación para el consumo. Consumo 
+responsable.
+–
+– Estudio del grupo diana: criterios de selección y establecimiento de una muestra. 
+Niveles de formación, necesidades y motivación. Métodos y técnicas de recogida 
+de información.
+–
+– Fuentes de información y documentación. Actividades de educación y promoción 
+de la salud. Etapas en el diseño: Formulación de objetivos. Diseño y secuenciación. 
+Recursos.
+3. Preparación de información sobre problemas de salud relacionados con el medio 
+ambiente:
+–
+– Características e identificación del grupo. Fuentes documentales.
+–
+– Contenidos para la prevención de los problemas de salud asociados a los riesgos 
+del medio ambiente:
+•	 Identificación de los problemas de salud: causas y conductas.
+•	 Objetivos de la información que se transmite. Generales y específicos.
+•	 Adaptación de contenidos a distintos grupos receptores.
+•	 Identificación de dificultades.
+–
+– Secuencia y temporalización de actividades.
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37702
+Viernes, 2 de octubre de 2020
+–
+– Previsión de Recursos humanos y materiales.
+–
+– Elaboración de material de trabajo en función de las personas.
+–
+– Tecnologías en la educación sanitaria. Grupo diana y uso de las TIC.
+–
+– Técnicas de grupo aplicadas a la educación sanitaria. Técnicas de investigación, 
+expositivas, de análisis, de desarrollo de habilidades.
+–
+– Recursos didácticos en actividades de promoción y educación para la salud.
+•	 Elaboración de información adaptada y de calidad.
+•	 Aplicación de técnicas de difusión de conocimientos.
+4. Selección de técnicas de comunicación:
+–
+– Características de la información en actividades de promoción de la salud.
+–
+– Comunicación: Concepto. Elementos de la comunicación. Comunicación verbal 
+y no verbal.
+–
+– Técnicas de comunicación y de información:
+•	 Fases de la comunicación.
+•	 Métodos y formas de transmisión de información. Métodos bidireccionales 
+o directos. Métodos unidireccionales o indirectos. Métodos individuales y 
+grupales.
+–
+– Habilidades necesarias para la comunicación. Personales, sociales y educativas.
+–
+– Interferencias en la comunicación. Tipos. Nivel de comprensión.
+–
+– Motivación: factores que favorecen la motivación.
+–
+– Técnicas y estrategias de motivación y refuerzo.
+–
+– Técnicas de animación y dinámica de grupo aplicadas a la educación para la 
+salud.
+–
+– Técnicas de modificación del comportamiento en educación para la salud.
+5. Aplicación de técnicas de evaluación de programas de educación sanitaria:
+–
+– Objetivos y funciones de la evaluación. Cumplimiento de los objetivos del 
+programa.
+–
+– Tipos de evaluación. De estructura, de proceso, de resultados, de impacto.
+–
+– Criterios de evaluación.
+–
+– Procedimientos y estrategias de evaluación de actividades de formación. 
+Aspectos a evaluar.
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37703
+Viernes, 2 de octubre de 2020
+–
+– Técnicas e instrumentos de investigación y evaluación de los programas de 
+educación sanitaria.
+•	 Métodos cualitativos y cuantitativos.
+•	 Eficacia. Efectividad. Eficiencia.
+–
+– Análisis e interpretación de los resultados.
+–
+– Registro de resultados.
+–
+– Medidas correctoras y de refuerzo.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar la función 
+de educación para la salud pública y comunitaria.
+La función de educación para la salud pública y comunitaria incluye aspectos como:
+–
+– Manejo de variables epidemiológicas y factores de riesgo ambiental para la salud.
+–
+– Obtención de información referente a la salud de un colectivo.
+–
+– Diseño de actividades de educación sanitaria.
+–
+– Preparación de información que se tiene que transmitir.
+–
+– Implementación de actividades de educación y promoción de la salud.
+–
+– Aplicación de técnicas de evaluación en programas de educación sanitaria.
+Las actividades asociadas a esta función se aplican en:
+–
+– Áreas de salud pública del sector sanitario.
+–
+– Administraciones con competencias en caracterización, control, vigilancia y 
+gestión de riesgos medioambientales.
+–
+– Empresas privadas de planificación y programación de recursos para la 
+información.
+–
+– Empresas de auditoría y evaluación de resultados.
+La formación del módulo contribuye a alcanzar los objetivos generales c), m), n) y q) 
+del ciclo formativo, y las competencias c), ñ) y o) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo versarán sobre:
+–
+– Selección de información referente a datos epidemiológicos sobre problemas de 
+salud y factores ambientales relacionados.
+–
+– Definición y selección de objetivos del programa.
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37704
+Viernes, 2 de octubre de 2020
+–
+– Caracterización de los colectivos receptores.
+–
+– Programación de actividades de educación y promoción de la salud.
+–
+– Aplicación de técnicas de comunicación y dinámica de grupos.
+–
+– Preparación de información a transmitir.
+–
+– Implementación de actividades de educación sanitaria.
+–
+– Evaluación de actividades realizadas en programas de educación sanitaria.
+La metodología será interactiva, con participación directa del alumnado de forma 
+individual y colectiva, en actividades prácticas en el aula que incluyan análisis e interpretación 
+de estudios epidemiológicos, planteamiento de hipótesis de estudio y desarrollo de un 
+programa de educación sanitaria. Esto permitirá afianzar los conocimientos teóricos y 
+acercará al alumnado a la práctica real en su entorno laboral.
+Se fomentará el empleo de las TIC para que constituyan una herramienta habitual 
+en el aula. Esto se llevará a cabo mediante la incorporación de medios audiovisuales, 
+búsqueda y consulta de normativa y artículos científicos, registro y presentación adecuada 
+de datos y documentos. Esta metodología permitirá el desarrollo de vocabulario técnico y 
+la actualización de conocimientos.
+A la hora de impartir este módulo profesional, se tendrá en cuenta la necesidad de 
+coordinación en contenidos, procesos y actividades procedimentales con el profesorado 
+que imparta los módulos profesionales «1549. Control de residuos», «1550. Salud y 
+riesgos del medio construido», «1551. Control y seguridad alimentaria» y «1554. Unidad 
+de salud ambiental».
+Módulo profesional: Control de aguas.
+Equivalencia en créditos ECTS: 20.
+Código: 1548.
+Duración: 320 horas.
+Contenidos:
+1. Focos de contaminación de aguas de uso y consumo:
+–
+– El agua. Ciclo del agua. Naturaleza del agua. Propiedades físicas y químicas. 
+Concepto sanitario, químico y biológico.
+–
+– Clasificación de aguas. Usos y aplicaciones. El agua como disolvente.
+–
+– Origen, estado y localización del agua. Inventario global y recursos hídricos.
+–
+– Principales contaminantes del agua. Procesos que los originan.
+–
+– Aguas continentales. Contaminación.
+–
+– Medidas de protección y conservación de las aguas continentales.
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37705
+Viernes, 2 de octubre de 2020
+–
+– Aguas marinas. Composición y características. Contaminación.
+–
+– Medidas de protección y conservación del medio marino.
+–
+– Medidas de protección y conservación de las aguas.
+–
+– Autodepuración en el medio natural.
+–
+– Normativa y legislación de aguas de uso y de consumo. Ley de aguas.
+–
+– Límites permitidos por la legislación. Directivas europeas relativas a la 
+contaminación de aguas de uso y consumo.
+–
+– Impacto sobre la salud y el bienestar. Impacto sobre el medio ambiente.
+–
+– Elaboración de planes de trabajo e informes.
+2. Evaluación de las deficiencias técnico-sanitarias de las aguas de uso y consumo:
+–
+– Calidad del agua. Objetivos y criterios.
+–
+– Uso eficiente del agua.
+–
+– Sistemas de abastecimiento de agua. Tipos y diferencias. Medidas de protección 
+de las fuentes de abastecimiento. Sistemas de distribución y almacenamiento 
+de aguas de uso y consumo. Sistemas de conducción. Características higiénico-
+sanitarias. Puntos de control.
+–
+– Plantas envasadoras de aguas. Proceso de envasado de aguas. Características 
+técnico sanitarias.
+–
+– Aguas de baño. Concepto y naturaleza. Procesos de tratamiento.
+–
+– Piscinas e instalaciones acuáticas. Contaminación. Sistemas de tratamiento y 
+depuración en las piscinas e instalaciones acuáticas. Características higiénico-
+sanitarias. Control de las instalaciones. Puntos críticos y control.
+–
+– Normas de calidad de las aguas de baño naturales, de piscina y de instalaciones 
+acuáticas.
+–
+– Programas de inspección y vigilancia de los sistemas de abastecimiento de 
+aguas.
+–
+– Encuestas sanitarias y control de infraestructuras. Balance hídrico, cálculo de 
+consumos. Libros de registro e informes.
+3. Control de los procesos de tratamiento de aguas potables:
+–
+– Aguas para el consumo humano. Criterios de calidad.
+–
+– Características de las aguas de consumo.
+–
+– Tratamientos de agua de consumo: tipos y clasificación. Equipos e instalaciones. 
+Mantenimiento y control de las instalaciones. Principales parámetros que se han 
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37706
+Viernes, 2 de octubre de 2020
+de controlar. Principios fisicoquímicos en los que se fundamentan las principales 
+operaciones de tratamiento.
+–
+– Aguas potables. Definición. Calidad de las aguas potables.
+–
+– Procedimientos de potabilización de aguas: desinfección, cloración, radiación 
+ultravioleta, ozonización y filtros de arena/carbón activo, entre otros.
+–
+– Estaciones de tratamiento de aguas potable. Etapas: pretratamiento clarificación 
+ozonización y desinfección y almacenamiento. Parámetros de control.
+–
+– Equipos e instalaciones de una planta potabilizadora. Mantenimiento y control. 
+Puntos críticos.
+–
+– Calibrado de instrumentos de control.
+–
+– Registro de resultados del proceso. Programas de vigilancia. Redes de vigilancia 
+de las aguas de consumo. Vigilancia y control sanitario.
+–
+– Medidas de seguridad y prevención de riesgos profesionales.
+4. Control de los procesos de tratamiento de las aguas residuales:
+–
+– Aguas residuales: definición, tipos y composición. Calidad de las aguas 
+residuales. Parámetros de control: físicos, químicos y microbiológicos en función 
+de su origen.
+–
+– Sistemas de recogida y evacuación.
+–
+– Tratamiento de aguas residuales.
+–
+– Estaciones depuradoras de aguas residuales. Pretratamiento. Tratamiento 
+primario. Tratamiento secundario aerobio y anaerobio. Tratamiento terciario. 
+Tratamientos de fangos. Principales técnicas de depuración. Variables a controlar 
+en cada una de las etapas.
+–
+– Medidas técnico-sanitarias de los sistemas de alcantarillado, depuración y vertido 
+de aguas residuales.
+–
+– Requisitos de calidad e higiénico-sanitarios que debe cumplir una planta de 
+tratamiento de aguas residuales.
+–
+– Equipos e instalaciones de una planta de tratamiento de aguas residuales. 
+Mantenimiento y control. Puntos críticos. Funcionamiento y la calibración de los 
+instrumentos de control de los diferentes parámetros.
+–
+– Minimización y reutilización de aguas residuales depuradas.
+–
+– Programas de vigilancia. Redes de vigilancia de las aguas de consumo. Vigilancia 
+y control sanitario. Registros de seguimiento y control de calidad.
+–
+– Medidas de seguridad y prevención de riesgos profesionales.
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37707
+Viernes, 2 de octubre de 2020
+5. Toma de muestras de aguas de uso y consumo:
+–
+– Definición de los tipos de muestreo.
+–
+– Técnicas de toma de muestras. Clasificación. Procedimientos de toma de 
+muestras. Planes de muestreo. Número y cantidad de muestra.
+–
+– Instrumentos y equipos de muestreo: equipos para la toma y conservación de la 
+muestra. Calibrado de los instrumentos de toma de muestra.
+–
+– Acondicionamiento de las muestras: recipientes, etiquetado. Transporte.
+–
+– Conservación de las muestras.
+–
+– Preparación de muestras para ensayos microbiológicos. Métodos de muestreo. 
+Medios de cultivo.
+–
+– Registro y documentación. Trazabilidad del proceso.
+–
+– Normativa aplicable.
+–
+– Medidas de seguridad y prevención de riesgos profesionales.
+6. Realización de controles de calidad físico-químicos:
+–
+– Calidades y requerimientos de las aguas según su uso: consumo humano, 
+industrial, agrícola (farmacéutica, alimentarias y calderas entre otras). Parámetros 
+físicos, físico-químicos, químicos, biológicos y microbiológicos del agua. Unidades 
+de expresión. Parámetros de control del agua residual.
+–
+– Clasificación de materiales y reactivos para el análisis químico.
+–
+– Reacciones químicas. Estequiometria. Velocidad de reacción. Equilibrio químico. 
+–
+– Operaciones básicas en el laboratorio. Definición y clasificación.
+–
+– Disoluciones. Concentración de una disolución. Medida de masas y volúmenes. 
+Calibración de equipos volumétricos y gravimétricos. Preparación de disoluciones. 
+Valoración de una disolución.
+–
+– Análisis cualitativo. Definición y aplicaciones. Análisis cuantitativo. Definición y 
+aplicaciones.
+–
+– Técnicas instrumentales. Definición, clasificación de los métodos instrumentales. 
+Calibración de los equipos. Aparatos instrumentales y métodos utilizados para 
+medir las variables de control físicas, fisicoquímicas y químicas. Métodos 
+electroquímicos. Métodos ópticos. Métodos cromatográficos.
+–
+– Técnicas analíticas utilizadas para el control de calidad de aguas. Técnicas 
+fisicoquímicas y químicas de análisis. Fundamentos. Técnicas analíticas 
+fisicoquímicas y químicas utilizables para el control de calidad del agua: medida 
+de pH. Conductividad. Demandas bioquímicas de oxígeno (DBO), demandas 
+químicas de oxígeno (DQO), determinación de nitrógeno. Fosfatos disueltos 
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37708
+Viernes, 2 de octubre de 2020
+y metales pesados. Aplicación de métodos volumétricos y gravimétricos en la 
+determinación de los componentes del agua.
+–
+– Instrumentos y equipos de medida de la calidad de las aguas. Calibración de 
+instrumentos y equipos.
+–
+– Procedimiento de orden y limpieza en el laboratorio.
+–
+– Evaluación y registros de los resultados analíticos. Elaboración del informe. 
+Tratamiento estadístico de resultados. Aseguramiento de la trazabilidad.
+–
+– Normativa de calidad, prevención de riesgos profesionales y protección ambiental.
+7. Realización de control de calidad microbiológico:
+–
+– Microbiología. Tipos de microorganismos. Principales grupos de microorganismos 
+en aguas superficiales, residuales y aguas potables.
+–
+– Laboratorio de microbiología. Limpieza esterilización o desinfección de los 
+equipos y materiales.
+–
+– Técnicas microbiológicas. Medios de cultivo. Técnicas de siembra: inoculación 
+y aislamiento. Crecimiento e incubación de microorganismos. Técnicas de 
+recuento. Pruebas de identificación bioquímica.
+–
+– El microscopio. Tipos, utilización y mantenimiento. Técnicas de tinción y 
+observación.
+–
+– Condiciones de asepsia en los ensayos microbiológicos.
+–
+– Normas de seguridad y salud laboral en los ensayos microbiológicos.
+–
+– Evaluación y registros de los resultados de los ensayos microbiológicos. 
+Elaboración del informe. Aseguramiento de la trazabilidad.
+–
+– Normativa de calidad, prevención de riesgos profesionales y protección ambiental.
+8. Determinación de protocolos de actuación para minimizar los efectos sobre la 
+salud asociados a la contaminación de aguas de uso y consumo:
+–
+– Epidemiología de las enfermedades transmitidas por agua.
+–
+– Enfermedades asociadas a la contaminación biológica del agua. Factores y 
+relación con las fases del sistema de abastecimiento. Prevención y control.
+–
+– Alteraciones de la salud asociadas a la contaminación química o física del agua. 
+Parámetros físico-químicos. Prevención y control.
+–
+– Enfermedades causadas por la contaminación de aguas de uso recreativo y 
+zonas de baño. Prevención y control.
+–
+– Estudio de brotes epidémicos asociados al uso y consumo del agua.
+–
+– Cumplimentación de documentos.
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37709
+Viernes, 2 de octubre de 2020
+–
+– Límites permitidos por la legislación. Directivas europeas relativas a la 
+contaminación de aguas de uso y consumo.
+–
+– Medidas de prevención y control de las enfermedades de transmisión hídrica. 
+Protocolos de actuación en situaciones de emergencia. Medidas correctoras.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar las 
+funciones de planificación, programación, control y gestión de la calidad de aguas uso y 
+de consumo.
+Las funciones de planificación, programación, control y gestión de la calidad incluyen 
+aspectos como:
+–
+– Inspección y control de las condiciones higiénico-sanitarias de las aguas de uso 
+y consumo.
+–
+– Selección de las medidas preventivas y correctoras de las deficiencias detectadas 
+en los procesos de obtención, elaboración, producción y distribución de aguas de 
+uso y consumo.
+–
+– Aplicación de programas de control de calidad a las aguas de uso y consumo.
+–
+– Aplicación de tratamientos a las aguas de uso y consumo.
+–
+– Aplicación de criterios técnico-legales en la toma muestras de aguas.
+–
+– Análisis de la calidad higiénico-sanitaria de las aguas de uso y consumo.
+–
+– Seguimiento del plan de calidad.
+–
+– Aplicación de las medidas preventivas y correctoras en los procesos de 
+generación, control y tratamiento de aguas de uso y consumo.
+Las actividades asociadas a estas funciones se aplican en:
+–
+– Servicios de inspección y control en establecimientos con repercusión en salud 
+ambiental.
+–
+– Plantas de tratamiento de aguas potables.
+–
+– Plantas de tratamiento de aguas residuales.
+–
+– Servicios de tratamiento en aguas de recreo.
+–
+– Laboratorios de calidad de tratamientos de aguas de uso y de consumo.
+La formación del módulo contribuye a alcanzar los objetivos del ciclo formativo b), 
+c), d), e), f), g), m), n), r) y s) y las competencias generales b), c), d), e), f), l), m) p) y q) 
+del título.
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37710
+Viernes, 2 de octubre de 2020
+Las líneas de actuación en el proceso de enseñanza aprendizaje que permiten 
+alcanzar los objetivos del módulo versarán sobre:
+–
+– Aplicación del sistema de gestión de salud y química ambiental.
+–
+– Técnicas de evaluación de sistemas de control de calidad.
+–
+– Interpretación de la normativa y documentación técnica.
+–
+– Realización de toma de muestras.
+–
+– Realización de análisis de control de calidad.
+–
+– Aplicación de tratamientos para el agua de uso y de consumo.
+–
+– Identificación de las medidas preventivas y correctoras en el tratamiento y gestión 
+de las aguas de uso y de consumo.
+–
+– Elaboración de informes y registros de la información generada.
+El sistema metodológico seguido en el módulo profesional se enfocará desde 
+un punto de vista práctico, utilizando material y equipos de laboratorio para facilitar la 
+comprensión de los conceptos teóricos expuestos y para acercar al alumnado a la realidad 
+laboral del Técnico Superior en Química y Salud Ambiental.
+Se fomentará el empleo de las TIC para que constituyan una herramienta habitual 
+en el aula. Esto se llevará a cabo mediante la incorporación de medios audiovisuales, 
+búsqueda y consulta de normativa y artículos científicos, registro y presentación adecuada 
+de datos y documentos. Esta metodología permitirá el desarrollo de vocabulario técnico y 
+la actualización de conocimientos.
+Módulo profesional: Control de residuos. 
+Equivalencia en créditos ECTS: 6.
+Código: 1549. 
+Duración: 126 horas.
+Contenidos:
+1. Identificación de las posibles fuentes de contaminación del suelo:
+–
+– Elementos químicos en el medio ambiente. Ciclos de los elementos químicos en 
+la naturaleza (oxígeno, nitrógeno, carbono, azufre y fósforo).
+–
+– Estudio de los sólidos como contaminantes.
+–
+– Tipos de residuos: concepto y características de los residuos.
+–
+– La contaminación por residuos. Fuentes o actividades de generación de residuos 
+y su clasificación. Industrias productoras de residuos.
+–
+– Suelo. Definición y características generales.
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37711
+Viernes, 2 de octubre de 2020
+–
+– Degradación del suelo por diferentes fuentes. Actividades potencialmente 
+contaminantes del suelo.
+–
+– Impacto sobre el suelo de la generación de residuos sólidos urbanos, tóxicos y 
+especiales.
+–
+– Impacto de la generación de residuos sobre la salud humana y el medio ambiente.
+–
+– Normativa.
+2. Caracterización de los sistemas de gestión de residuos sólidos:
+–
+– Residuos; concepto, fuentes de generación y clasificación en función de su 
+peligrosidad, origen, procedencia, estado, etc. Residuos urbanos. Residuos 
+tóxicos. Residuos peligrosos. Residuos especiales. Residuos sanitarios: 
+biosanitarios y citotóxicos. 
+–
+– Características que permiten clasificar a los residuos como peligrosos.
+–
+– Gestión y tratamiento de residuos.
+–
+– Instalaciones de tratamientos de residuos: definición y clasificación. Vertederos. 
+Incineradoras. Instalaciones de producción de energía. Criterios de elección.
+–
+– Recogida, almacenamiento, almacenamiento intermedio, etiquetaje y transporte 
+de residuos. Estaciones de transferencia.
+–
+– Recuperación y minimización. Utilización de tecnologías limpias.
+–
+– Valorización y gestión de los subproductos obtenidos. Sistemas de tratamiento.
+–
+– Técnicas y equipos de tratamiento: incineración, compostaje, pirólisis, hidrólisis 
+y compactación. Fundamentos y variables que influyen en la elección de una 
+técnica.
+–
+– Sistemas de gestión de calidad. Evaluación y sus etapas.
+–
+– Programas de inspección y vigilancia.
+–
+– Legislación sobre residuos.
+3. Toma de muestras de suelos y de residuos sólidos:
+–
+– Definición de los tipos de muestreo.
+–
+– Técnicas de toma de muestra. Clasificación. Procedimientos de toma de muestras.
+–
+– Planes de muestreo. Puntos de muestreo. Número y tamaño de muestra. 
+Identificación y criterios técnico legales: naturaleza, análisis y ensayos que se 
+harán con la muestra.
+–
+– Instrumentos y equipos de muestreo: Equipos para muestreo de la fase sólida, 
+líquida y gaseosa para suelos y residuos. Manejo y calibración de equipos. 
+Equipos de protección individual.
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37712
+Viernes, 2 de octubre de 2020
+–
+– Acondicionamiento de las muestras: recipientes, etiquetado. Transporte.
+–
+– Conservación de las muestras.
+–
+– Registro y documentación. Trazabilidad del proceso.
+4. Análisis de suelos y residuos sólidos:
+–
+– Principales parámetros físicos (textura, granulometría, densidad, porosidad, 
+grado de compactación), químicos y físico-químicos (pH, conductividad eléctrica, 
+materia orgánica oxidable, nitrógeno, relación C/N, carbonatos, caliza activa, 
+fósforo, potasio, magnesio, calcio, sodio, hierro) y microbiológicos (principales 
+microorganismos asociados a la contaminación de suelos) de caracterización de 
+un residuo o suelo.
+–
+– Técnicas de análisis. Equipos e instrumentos de medida. Manejo y calibración de 
+equipos. Criterios de elección.
+–
+– Características del análisis físico, físico-químico y químico. Parámetros 
+principales.
+–
+– Características del análisis biológico y toxicológico. Parámetros principales.
+–
+– Interpretación de resultados. Registro de resultados.
+–
+– Medidas de prevención.
+–
+– Normativa.
+5. Selección de protocolos de actuación:
+–
+– Sostenibilidad del ecosistema urbano.
+–
+– Impacto sobre la salud y el bienestar.
+–
+– Impacto sobre el medio ambiente.
+–
+– Enfermedades transmisibles relacionadas con el suelo y con la producción y 
+gestión de residuos.
+–
+– Programas de prevención y control.
+–
+– Tratamiento y recuperación de suelos.
+–
+– Cumplimentación de documentos.
+–
+– Límites permitidos por la legislación. Directivas europeas relativas a la gestión 
+de residuos.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar las 
+funciones de planificación, programación, control y gestión de la calidad de residuos 
+sólidos.
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37713
+Viernes, 2 de octubre de 2020
+La función de planificación, programación, control y gestión de la calidad incluye 
+aspectos como:
+–
+– Inspección y control de las fuentes de generación de residuos.
+–
+– Inspección y control de las actividades potencialmente contaminantes del suelo.
+–
+– Evaluación del impacto ambiental por la generación de residuos sólidos.
+–
+– Gestión de residuos.
+–
+– Seguimiento del plan de calidad.
+–
+– Selección de las medidas preventivas y correctoras en la generación de residuos.
+–
+– Selección de las medidas preventivas y correctoras en la recuperación de suelos.
+–
+– Aplicación de programas de control de calidad de residuos y suelos.
+–
+– Aplicación de criterios técnico-legales en la toma muestras de residuos y suelos.
+–
+– Análisis de la calidad de los residuos.
+–
+– Evaluación del impacto ambiental por la generación de residuos.
+–
+– Aplicación de las medidas preventivas y correctoras en los procesos de 
+generación, control y tratamiento de residuos y suelos.
+–
+– Selección de técnicas de minimización, recuperación y valorización de residuos.
+–
+– Elaboración de programas formativos y campañas de información sobre la 
+minimización de residuos y el impacto de la generación de residuos sobre la 
+salud y el medio ambiente.
+Las actividades asociadas a esta función se aplican en:
+–
+– Servicios de inspección y control de suelos y plantas de gestión de residuos con 
+repercusión en salud ambiental.
+–
+– Plantas de tratamiento de residuos.
+–
+– Laboratorios de control de suelos y residuos.
+La formación del módulo contribuye a alcanzar los objetivos del ciclo formativo b), c), 
+d), e), h), m), n), p) y q) y las competencias generales b), c), d), e), g), l), m), r) y s) del título.
+Las líneas de actuación en el proceso de enseñanza aprendizaje que permiten 
+alcanzar los objetivos del módulo versarán sobre:
+–
+– Aplicación del sistema de gestión de salud y química ambiental.
+–
+– Técnicas de evaluación de sistemas de control de calidad.
+–
+– Interpretación de la normativa y documentación técnica.
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37714
+Viernes, 2 de octubre de 2020
+–
+– Realización de toma de muestras.
+–
+– Realización de análisis de control de calidad.
+–
+– Identificación de las medidas correctoras en la generación, tratamiento y gestión 
+de residuos.
+–
+– Identificación de medidas de prevención y correctoras para la recuperación de 
+suelos.
+–
+– Aplicación de técnicas de minimización, recuperación y valoración de residuos.
+–
+– Aplicación de técnicas de recuperación de suelos.
+–
+– Elaboración de informes y registros de la información generada.
+El sistema metodológico seguido en el módulo profesional se enfocará desde 
+un punto de vista práctico, utilizando material y equipos de laboratorio para facilitar la 
+comprensión de los conceptos teóricos expuestos y para acercar al alumnado a la realidad 
+laboral del Técnico Superior en Química y Salud Ambiental.
+Se fomentará el empleo de las TIC para que constituyan una herramienta habitual 
+en el aula. Esto se llevará a cabo mediante la incorporación de medios audiovisuales, 
+búsqueda y consulta de normativa y artículos científicos, registro y presentación adecuada 
+de datos y documentos. Esta metodología permitirá el desarrollo de vocabulario técnico y 
+la actualización de conocimientos.
+Módulo profesional: Salud y riesgos del medio construido.
+Equivalencia en créditos ECTS: 6.
+Código: 1550. 
+Duración: 96 horas.
+Contenidos:
+1. Aplicación de procedimientos de inspección y control en el medio construido:
+–
+– Medio urbano.
+–
+– Medio rural.
+–
+– Principios de salubridad de los asentamientos urbanos y de las viviendas.
+–
+– Programas de prevención de accidentes.
+–
+– Programas de inspección, vigilancia y control.
+–
+– Requerimientos higiénico-sanitarios generales.
+–
+– Requerimientos higiénico-sanitarios específicos.
+–
+– Censos y localización cartográfica de los lugares y actividades a identificar.
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37715
+Viernes, 2 de octubre de 2020
+–
+– Documentación de inspección.
+–
+– Normas de calidad de las viviendas, establecimientos y espacios públicos.
+–
+– Normativa europea, estatal y local relacionada con el medio construido, la salud 
+y el medio ambiente. Directivas. Reglamentos.
+2. Aplicación de procedimientos de control de actividades molestas, insalubres, 
+nocivas y peligrosas (MINP):
+–
+– Clasificación.
+–
+– Gestión de residuos.
+–
+– Procedimiento administrativo de actividad MINP.
+–
+– Técnicas de alejamiento e imposición de medidas correctoras.
+–
+– Estudio de impacto ambiental de nuevos proyectos.
+–
+– Legislación sobre actividades MINP.
+–
+– Legislación sobre prevención y control de la contaminación.
+–
+– Fuentes de información.
+–
+– Registro de emisiones y fuentes contaminantes.
+–
+– Autorización ambiental integrada.
+–
+– Mejoras técnicas disponibles.
+3. Toma de muestras de elementos del medio construido:
+–
+– Tipos de muestra: condiciones y cantidad.
+–
+– Planificación y métodos del muestreo.
+–
+– Instrumentos y equipos para la toma de muestras.
+–
+– Equipos para la conservación y transporte de muestras: Muestreadores que 
+concentran el contaminante y muestreadores puntuales. Muestreadores 
+discontinuos.
+–
+– Envases para muestras.
+–
+– Medidores de lectura directa.
+–
+– Conservación y transporte de muestras. Neveras portátiles. Conservación de 
+muestras biológicas.
+–
+– Equipo fotográfico digital.
+–
+– Documentación en toma de muestra. Impresos estándar, protocolos y actas 
+normalizadas de toma de muestra. Boletines analíticos e informes estandarizados.
+–
+– Medidas de seguridad y prevención de riesgos.
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37716
+Viernes, 2 de octubre de 2020
+4. Realización de análisis y medidas de parámetros físico-químicos de muestras del 
+medio construido:
+–
+– Características generales del análisis físico-químico: Parámetros significativos: 
+Temperatura. Ruido. Vibraciones. Velocidad del aire. Valor del pH.
+–
+– Características del análisis biológico y toxicológico: Contenido en compuestos 
+orgánicos volátiles (COV) y biológicos.
+–
+– Métodos de análisis físico químico.
+–
+– Métodos de análisis biológicos y toxicológicos.
+–
+– Procedimientos normalizados de trabajo.
+–
+– Materiales e instrumentación básica.
+–
+– Equipos medidores y laboratorios portátiles para análisis «in situ»: Equipos 
+medidores de radiactividad, nivel de iluminación. Equipos de medida de ruidos, 
+vibraciones y aislamiento acústico. Equipos portátiles de análisis de parámetros 
+físico-químicos y biológicos.
+–
+– Medios de cultivo.
+–
+– Interpretación de resultados.
+5. Elaboración de programas de vigilancia ambiental en el medio construido:
+–
+– Evaluación de impacto ambiental.
+–
+– Programas de vigilancia y seguimiento ambiental. Objetivos. Actuaciones.
+–
+– Efectos sobre la salud y el bienestar de las condiciones higiénico-sanitarias de 
+las viviendas, establecimientos, centros de estudio y trabajo.
+–
+– Enfermedades transmisibles relacionadas con las viviendas y establecimientos 
+públicos.
+–
+– Principales agentes del medio construido causantes de enfermedades.
+–
+– Programas de prevención y control.
+–
+– Ciudades sostenibles y saludables.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar las 
+funciones de prevención y control de los riesgos para la salud de la población, asociados 
+al medio construido.
+La prevención y control de los riesgos para la salud de la población, asociados al 
+medio construido incluye aspectos como:
+–
+– Inspección y control de las condiciones higiénico-sanitarias del medio construido 
+y medidas preventivas de las deficiencias.
+–
+– Inspección y control de las actividades molestas, insalubres, nocivas y peligrosas 
+y medidas preventivas y correctoras pertinentes.
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37717
+Viernes, 2 de octubre de 2020
+–
+– Toma muestras de elementos del medio construido.
+–
+– Análisis y medida de parámetros físico-químicos de elementos del medio 
+construido,
+–
+– Elaboración de programas de vigilancia ambiental en el medio construido.
+Las actividades profesionales asociadas a esta función se aplican en:
+–
+– Servicios y empresas de inspección y control químico ambiental.
+–
+– Servicios y empresas de inspección y control sanitario ambiental.
+La formación del módulo contribuye a alcanzar los objetivos del ciclo formativo a), 
+b), c), d), e), i), m). o), q), r) y t) y las competencias generales b), c), d), e), h), l), n), p) y 
+q) del título.
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar 
+los objetivos del módulo versarán sobre:
+–
+– La descripción de las características higiénico-sanitarias del medio construido y 
+de las actividades MINP.
+–
+– El reconocimiento de las deficiencias del medio construido utilizando simuladores 
+y modelos del laboratorio.
+–
+– La identificación de las medidas correctoras frente a las deficiencias detectadas.
+–
+– La manipulación de equipos e instrumentos para la toma de muestras.
+–
+– La interpretación de documentación técnica e instrucciones de uso de instrumentos 
+y equipos para toma de muestras y análisis.
+–
+– La realización de supuestos prácticos de calibración y mantenimiento de equipos 
+de toma de muestra, análisis y medidas de parámetros físico-químicos.
+–
+– El análisis de las características higiénico-sanitarias a partir de los resultados 
+obtenidos en supuestos prácticos.
+–
+– La selección de medidas preventivas y correctoras partiendo de supuestos 
+prácticos.
+–
+– La elaboración de programas de educación ambiental.
+El sistema metodológico seguido en el módulo profesional se enfocará desde un 
+punto de vista práctico, para facilitar la comprensión de los conceptos teóricos expuestos 
+y para acercar al alumnado a la realidad laboral del Técnico Superior en Química y Salud 
+Ambiental.
+Se fomentará el empleo de las TIC para que constituyan una herramienta habitual 
+en el aula. Esto se llevará a cabo mediante la incorporación de medios audiovisuales, 
+búsqueda y consulta de normativa y artículos científicos, registro y presentación adecuada 
+de datos y documentos. Esta metodología permitirá el desarrollo de vocabulario técnico y 
+la actualización de conocimientos.
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37718
+Viernes, 2 de octubre de 2020
+Módulo profesional: Control y seguridad alimentaria.
+Equivalencia en créditos ECTS: 14.
+Código: 1551.
+Duración: 252 horas.
+Contenidos:
+1. Elaboración de planes de trabajo de inspección y control sanitario de alimentos:
+–
+– Alimentación y nutrición.
+–
+– Conceptos alimentación, nutrición y dietética. Composición y clasificación de los 
+alimentos. Grupos de alimentos. Características nutritivas. Hidratos de carbono, 
+lípidos, proteínas, agua, sales minerales y vitaminas.
+–
+– Alimentación y salud: Enfermedades relacionadas con la alimentación. 
+Reacciones adversas a alimentos: toxiinfecciones alimentarias, alergias 
+alimentarias, intolerancias alimentarias.
+–
+– Inspección y vigilancia alimentaria: conceptos y campos de actuación.
+–
+– Programa de trabajo.
+–
+– Seguridad alimentaria: concepto y organización. Marco legislativo alimentario. 
+Libro Blanco sobre seguridad alimentaria. Principios de seguridad alimentaria. 
+Autoridad Europea de Seguridad Alimentaria. La Agencia Española de Seguridad 
+Alimentaria y Nutrición. Programa de vigilancia de alimentos. Sistema de análisis 
+de peligros y puntos críticos de control (APPCC). Trazabilidad. Evaluación de 
+riesgos. Plan Nacional de control de la cadena agroalimentaria.
+–
+– Sistemas de alerta alimentaria. Redes de alertas alimentarias. Notificaciones.
+–
+– Normativa sanitaria aplicable a los establecimientos, industrias, actividades, 
+transporte, productos y servicios de alimentos, bebidas y demás productos, 
+directa o indirectamente relacionados con el uso o consumo humano.
+–
+– Censos de establecimientos de elaboración/transformación, distribución y 
+restauración. Registro General Sanitario de empresas alimentarias y alimentos.
+2. Identificación de las deficiencias técnico-sanitarias en productos alimentarios:
+–
+– Los procesos de obtención, elaboración, producción y distribución de alimentos. 
+Actividades básicas en los establecimientos de elaboración/transformación y 
+distribución de los alimentos.
+–
+– Variaciones de las características de los alimentos. Adulteración de alimentos. 
+Alteraciones físicas en alimentos, alteraciones químicas y/o bioquímicas. 
+Alimentos modificados genéticamente (OMG).
+–
+– Contaminación biótica y abiótica de los alimentos.
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37719
+Viernes, 2 de octubre de 2020
+–
+– Contaminación biótica de los alimentos: Factores que afectan al crecimiento 
+de microorganismos en alimentos. Microorganismos patógenos procedentes 
+de la contaminación exógena, de enfermedades animales y microorganismos 
+alterantes. Toxinas bacterianas. 
+–
+– Contaminación abiótica de los alimentos: Contaminantes orgánicos e inorgánicos. 
+Micotoxinas. Biotoxinas marinas. Dioxinas, furanos y PCBS. Hidrocarburos 
+aromáticos policíclicos. Histamina. Metales. Nitratos y nitritos. Residuos 
+fitosanitarios. Acrilamida.
+–
+– Información alimentaria de elementos envasados. Etiquetado de alérgenos. 
+Etiquetado nutricional. Declaraciones adicionales obligatorias.
+–
+– Ingredientes tecnológicos en alimentos: Control sanitario de los aditivos 
+alimentarios. Control sanitario de enzimas alimentarias. Aromas alimentarios. 
+Efectos derivados del consumo.
+–
+– Control sanitario de alérgenos y sustancias presentes en alimentos que provocan 
+intolerancias.
+–
+– Control sanitario de alimentos biotecnológicos (OMG).
+–
+– Criterios microbiológicos de seguridad alimentaria y límites de contaminantes en 
+alimentos. Tipos de criterios microbiológicos: criterios de seguridad alimentaria y 
+criterios de higiene de los procesos.
+–
+– Higienización y conservación de los alimentos para la seguridad alimentaria: 
+Métodos y técnicas de higienización de los alimentos. Métodos de conservación 
+de los alimentos. Frío, calor, desecación, liofilización, salazón, ahumado, otros 
+tratamientos.
+–
+– Análisis de peligros y puntos críticos de control (APPCC): Normativa. Principios. 
+Puntos críticos de control. Diseño de un plan.
+–
+– Inspección sanitaria.
+–
+– Control sanitario de los establecimientos alimentarios.
+–
+– Normalización y legislación alimentaria.
+–
+– Riesgos globales y específicos de la industria alimentaria.
+–
+– Procedimientos de evaluación de calidad: Calidad y certificación. Niveles de 
+control de calidad.
+3. Toma de muestras de alimentos:
+–
+– Métodos de muestreo. Planes de muestreo microbiológico. Planes de muestreo 
+de aceptación por atributos de dos y tres clases. Categorías de riesgo de los 
+alimentos. Otros planes de muestreo.
+–
+– Tipos de muestra según análisis.
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37720
+Viernes, 2 de octubre de 2020
+–
+– Métodos de toma de muestras. Instrumentos de medidas y equipos de recogida. 
+Técnicas de toma de muestra. Puntos de muestreo.
+–
+– Técnicas de conservación y envío de muestras: Equipos para la toma, 
+conservación y transporte de muestras. Envases para muestra: botellas, botes, 
+bolsas.
+–
+– Identificación de la muestra.
+–
+– Preparación de medios de cultivo microbiológicos.
+–
+– Información preanalítica en la toma de muestra. 
+–
+– Documentación preanalítica.
+4. Realización de análisis de la calidad higiénico-sanitaria de los alimentos:
+–
+– Caracteres organolépticos, físico-químicos y microbiológicos de los alimentos de 
+origen animal y vegetal.
+–
+– Métodos y técnicas de análisis físico-químico, inmunoenzimático, biomolecular y 
+microbiológico.
+–
+– Equipos e instrumentos de medida, mantenimiento y calibración.
+–
+– Kits de análisis.
+–
+– Material y reactivos utilizados.
+–
+– Procedimientos de análisis y determinación de los parámetros físico-químicos. 
+Densidad, pH, humedad, extracto seco, grasa, proteínas, hidratos de carbono, 
+acidez.
+–
+– Procedimientos de análisis microbiológico en alimentos. Recuentos de 
+microorganismos en medio sólido y líquido. Microorganismos indicadores y 
+patógenos. Control de superficies, aire y suelo. 
+–
+– Procedimientos de análisis inmunoenzimático (ELISA, inmunocromatografía, 
+aglutinación). Análisis de alérgenos.
+–
+– Introducción a la técnica de PCR (Reacción en cadena de la polimerasa) aplicadas 
+a la identificación en microbiología alimentaria.
+–
+– Registro de los valores analíticos y de las mediciones.
+–
+– Tratamiento estadístico e interpretación de los datos del laboratorio.
+–
+– Legislación o normas técnico-sanitarias vigentes en análisis. Normas 
+microbiológicas en alimentos.
+–
+– Gestión de los residuos generados en el procedimiento analítico.
+–
+– Elaboración de informes y criterios de calidad del mismo.
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37721
+Viernes, 2 de octubre de 2020
+5. Desarrollo de programas formativos y campañas de información sobre seguridad 
+alimentaria y consumo:
+–
+– Epidemiología de las enfermedades adquiridas por ingestión de alimentos.
+–
+– Fundamentos legislativos sobre consumo de alimentos y defensa de los 
+consumidores.
+–
+– Elaboración de programas formativos y campañas de información.
+–
+– Técnicas de evaluación.
+–
+– Técnicas de información y asesoramiento al consumidor.
+–
+– Técnicas de atención de quejas y reclamaciones de consumidores.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar las 
+funciones de prevención y control de los riesgos para la salud de la población, asociados 
+a los alimentos.
+La función de prevención y control de los riesgos para la salud de la población 
+asociados a los alimentos, incluye aspectos como:
+–
+– Inspección y control de las condiciones higiénico-sanitarias de los productos 
+alimentarios.
+–
+– Selección de las medidas preventivas y correctoras de las deficiencias detectadas 
+en los procesos de obtención, elaboración, producción y distribución de alimentos.
+–
+– Aplicación de programas de control de calidad alimentaria.
+–
+– Aplicación de criterios técnico-legales en la toma muestras de alimentos.
+–
+– Análisis de la calidad higiénico-sanitaria de los alimentos.
+–
+– Elaboración de programas formativos y campañas de información sobre seguridad 
+alimentaria y consumo.
+–
+– Aplicación de técnicas de información y comunicación en la atención al 
+consumidor.
+Las actividades asociadas a esta función se aplican en:
+–
+– Servicios y empresas de inspección y control sanitario ambiental.
+–
+– Laboratorios de control de calidad.
+La formación del módulo contribuye a alcanzar los objetivos del ciclo formativo a), 
+b), c), d), e), j), m), o), q), r) y t) y las competencias generales b), c), d), e), i), l), n), p) y q) 
+del título.
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37722
+Viernes, 2 de octubre de 2020
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo versarán sobre:
+–
+– La descripción de las características higiénico-sanitarias de los procesos de 
+obtención, elaboración, producción y distribución de alimentos.
+–
+– El reconocimiento de las deficiencias higiénico-sanitarias de los alimentos.
+–
+– La identificación de las medidas correctoras frente a las deficiencias detectadas.
+–
+– La manipulación de equipos e instrumentos para la toma de muestras.
+–
+– La interpretación de documentación técnica e instrucciones de uso de instrumentos 
+y equipos para toma de muestras y análisis.
+–
+– La realización de supuestos prácticos de calibración y mantenimiento de equipos 
+de toma de muestra y análisis.
+–
+– El análisis de las características higiénico-sanitarias a partir de los resultados 
+obtenidos en supuestos prácticos.
+–
+– La selección de medidas preventivas y correctoras partiendo de supuestos 
+prácticos.
+–
+– La elaboración de programas formativos y campañas de información sobre 
+seguridad alimentaria y consumo.
+El sistema metodológico seguido en el módulo profesional se enfocará desde 
+un punto de vista práctico, utilizando material y equipos de laboratorio para facilitar la 
+comprensión de los conceptos teóricos expuestos y para acercar al alumnado a la realidad 
+laboral del Técnico Superior en Química y Salud Ambiental.
+Se fomentará el empleo de las TIC para que constituyan una herramienta habitual 
+en el aula. Esto se llevará a cabo mediante la incorporación de medios audiovisuales, 
+búsqueda y consulta de normativa y artículos científicos, registro y presentación adecuada 
+de datos y documentos. Esta metodología permitirá el desarrollo de vocabulario técnico y 
+la actualización de conocimientos.
+Módulo profesional: Contaminación ambiental y atmosférica 
+Equivalencia en créditos ECTS: 9.
+Código: 1552. 
+Duración: 160 horas.
+Contenidos:
+1. Identificación de focos de contaminación atmosférica:
+–
+– Concepto de contaminación atmosférica. Unidades utilizadas para expresar la 
+concentración de los contaminantes gaseosos y particulados.
+–
+– La atmósfera: Estructura y composición.
+–
+– Condiciones meteorológicas: temperatura, presión y humedad.
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37723
+Viernes, 2 de octubre de 2020
+–
+– Contaminantes. Clasificación según su origen, generación y naturaleza.
+–
+– Fuentes de emisión de contaminantes.
+–
+– Difusión y dispersión de los contaminantes. Efecto del clima y relieve. Estabilidad 
+atmosférica. Estudio de la altura de chimeneas.
+–
+– Principales contaminantes químicos. Fuentes emisoras de contaminación. 
+Procesos físico-químicos de los contaminantes en la atmósfera.
+–
+– Principales contaminantes físicos. Fuentes de emisión.
+
+Principales contaminantes bióticos. Dispersión y concentración de contaminantes.
+–
+– Efectos de la contaminación sobre materiales, seres vivos y la salud de las 
+personas. Efectos de los contaminantes según su radio de acción. Escala local: 
+niebla contaminante o smog. Escala regional: lluvia ácida. Escala global: efecto 
+invernadero, cambio climático y degradación de la capa de ozono. Principales 
+enfermedades asociadas a la contaminación atmosférica.
+2. Toma de muestras de aire:
+–
+– Inspección de emisiones e inmisiones. Identificación de los puntos e intervalos 
+de muestreo según Procedimiento Normalizado de Trabajo.
+–
+– Métodos de muestreo de gases y partículas en emisión e inmisión según 
+Procedimiento Normalizado de Trabajo: isocinético y no isocinético; directo e 
+indirecto.
+–
+– Equipos de toma de muestra y medida: captadores activos y pasivos; analizadores 
+automáticos; indicadores químicos; sensores remotos. Selección y preparación 
+de material y reactivos.
+–
+– Condiciones de instalación/operación de los equipos de muestreo y medida de 
+contaminantes atmosféricos. Calibración y mantenimiento.
+–
+– Técnicas de conservación, identificación, trazabilidad y transporte de muestras 
+gaseosas y particuladas, según Procedimiento Normalizado de Trabajo.
+3. Determinación de la calidad del aire:
+–
+– Legislación sobre contaminación atmosférica: calidad del aire y protección de la 
+atmósfera. Valor límite y guía, umbral de información y de alerta.
+–
+– Métodos analíticos usados habitualmente para los principales parámetros. 
+Métodos manuales y automáticos. Métodos normalizados.
+–
+– Estándares de calidad del aire: dióxido de azufre, partículas, monóxido de carbono, 
+ozono, dióxido de nitrógeno, plomo, benceno, tolueno, xileno, hidrocarburos 
+policíclicosaromáticos: benzo(a)pireno.
+–
+– Analizadores automáticos. Sensores remotos.
+–
+– Informes de calidad del aire.
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37724
+Viernes, 2 de octubre de 2020
+–
+– Calibración, mantenimiento y verificación de los equipos.
+–
+– Redes de vigilancia. Redes urbanas, industriales y de fondo. Situación de 
+emergencia: prevención, aviso y alerta. Sistemas de transmisión de la información. 
+Características. Funcionamiento.
+–
+– Evaluación de los riesgos para la salud y el medio ambiente. Planteamiento de 
+medidas correctoras.
+–
+– Regiones de calidad del aire.
+4. Sistemas de depuración y control de emisiones atmosféricas:
+–
+– Sistemas de depuración y control de emisiones atmosféricas. Clasificación y 
+características. Funcionamiento y mantenimiento.
+–
+– Control de las fuentes. Identificación y mantenimiento de los sensores y equipos 
+de medida.
+–
+– Separadores de partículas:
+•	 Cámaras de sedimentación.
+•	 Separadores inerciales.
+•	 Separadores por incidencia.
+•	 Limpiadores húmedos.
+•	 Filtros de tela.
+•	 Precipitadores electrostáticos.
+–
+– Control de gases:
+•	 Absorción.
+•	 Adsorción.
+•	 Reducción.
+•	 Condensación.
+•	 Flameado.
+•	 Incineración.
+–
+– Residuos generados. Clasificación. Gestión interna. Selección y uso de Equipos 
+de Protección Individual para la prevención de riesgos.
+5. Contaminación de origen físico:
+–
+– Radiaciones electromagnéticas.
+–
+– Interacción con la materia. Propagación.
+–
+– Radiación no ionizantes: ultravioleta e infrarroja, microondas y radiofrecuencias, 
+y láseres: fuentes y usos industriales.
+–
+– Efectos biológicos.
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37725
+Viernes, 2 de octubre de 2020
+–
+– Límites de exposición; evaluación y control de riesgos. Normas de protección. 
+Uso de Equipos de Protección Individual contra radiaciones.
+–
+– Protección ocular contra radiaciones no ionizantes: equipos de protección en 
+soldadura.
+–
+– Fenómenos vibratorios y ondulatorios.
+–
+– Parámetros característicos del ruido. Clases de ruido. Análisis en bandas. 
+Ponderación.
+–
+– Parámetros característicos de las vibraciones. Medición de ruidos y vibraciones: 
+instrumentos. Calibración de equipos. Medidas correctoras.
+–
+– Evaluación y control del ruido en la industria y en el medio urbano.
+–
+– Legislación sobre el ruido. Áreas acústicas. Índices acústicos.
+–
+– Mapas de ruido. Aislamiento acústico. Efectos del ruido y las vibraciones.
+–
+– Ultrasonidos. Límites de exposición; medidas de control.
+6. Determinación de protocolos de actuación para minimizar los efectos de la 
+contaminación atmosférica y ambiental:
+–
+– Impacto sobre la salud y el bienestar provocado por la contaminación atmosférica.
+–
+– Impacto sobre el medio ambiente.
+–
+– Enfermedades relacionadas con la contaminación atmosférica.
+–
+– Programas de prevención y control. Medidas correctoras.
+–
+– Cumplimentación de documentos.
+–
+– Límites permitidos por la legislación.
+Orientaciones pedagógicas y metodológicas. 
+Este módulo profesional contiene la formación necesaria para desempeñar las 
+funciones de planificación y programación, gestión, ejecución, calidad y protección 
+ambiental.
+La función de planificación y programación incluye aspectos como:
+–
+– Definición de informes y protocolos.
+–
+– Establecimiento de puntos críticos del proceso.
+La función de gestión incluye aspectos como:
+–
+– Gestión de inventarios y documentación.
+–
+– Gestión de recursos.
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37726
+Viernes, 2 de octubre de 2020
+–
+– Evaluación de impacto ambiental.
+–
+– Asesoramiento ambiental.
+–
+– Gestión de residuos.
+La función de ejecución incluye aspectos como:
+–
+– Identificación y catalogación.
+–
+– Toma de datos y muestreo.
+–
+– Interpretación de los resultados de los análisis.
+–
+– Elaboración de informes.
+–
+– Detección/corrección de incidencias.
+–
+– Elaboración de partes de incidencias.
+La función de calidad incluye aspectos como:
+–
+– Seguimiento del plan de calidad.
+–
+– Aportación a la mejora continua.
+La función de protección ambiental incluye aspectos como:
+–
+– Cumplimiento de las normas ambientales.
+–
+– Supervisión y seguimiento de la normativa ambiental.
+–
+– Detección de impactos y establecimiento de medidas correctoras.
+Las actividades asociadas a esta función se aplican en:
+–
+– El control y documentación de los aspectos medioambientales de la organización 
+para asegurar su correcto funcionamiento.
+–
+– La colaboración en la propuesta de medidas correctoras.
+–
+– La colaboración en la implantación, desarrollo y mantenimiento del Sistema de 
+Gestión Ambiental de la organización.
+La formación del módulo contribuye a alcanzar los objetivos generales b), d), e), k), 
+l), m), o) y r) del ciclo formativo, y las competencias b), d), e), j), l), m), n), o) y p) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo versarán sobre:
+–
+– Medida y control de contaminación atmosférica.
+–
+– Propuesta de medidas correctoras a problemas ambientales.
+–
+– Aplicación de un sistema de gestión ambiental.
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37727
+Viernes, 2 de octubre de 2020
+El sistema metodológico seguido en el módulo profesional se enfocará desde 
+un punto de vista práctico, utilizando material y equipos de laboratorio para facilitar la 
+comprensión de los conceptos teóricos expuestos y para acercar al alumnado a la realidad 
+laboral del Técnico Superior en Química y Salud Ambiental.
+Se fomentará el empleo de las TIC para que constituyan una herramienta habitual 
+en el aula. Esto se llevará a cabo mediante la incorporación de medios audiovisuales, 
+búsqueda y consulta de normativa y artículos científicos, registro y presentación adecuada 
+de datos y documentos. Esta metodología permitirá el desarrollo de vocabulario técnico y 
+la actualización de conocimientos.
+Módulo profesional: Control de organismos nocivos.
+Equivalencia en créditos ECTS: 10.
+Código: 1553.
+Duración: 160 horas.
+Contenidos:
+1. Aplicación de procedimientos de inspección de establecimientos comerciales, de 
+servicios y de uso residencial:
+–
+– Fundamentos de biología ambiental: Ecosistemas. Biodiversidad. Términos 
+ecológicos.
+–
+– Concepto de plaga. Conceptos de vector biológico y mecánico. Observación y 
+reconocimiento de plagas urbanas, agrícolas y forestales. Interrelación entre las 
+plagas.
+–
+– Influencia de las condiciones higiénico-sanitarias en la proliferación de organismos 
+nocivos.
+–
+– Elementos estructurales y constructivos que influyen en el desarrollo de 
+organismos nocivos.
+2. Selección de técnicas de identificación y control de plagas, vectores y organismos 
+nocivos:
+–
+– Clasificación de especies. Taxonomía. Principales grupos taxonómicos.
+–
+– Morfología, anatomía, fisiología, ecología y distribución de las especies de interés 
+sanitario. Artrópodos. Roedores.
+–
+– Plagas de los cultivos: Principales grupos de interés en salud pública.
+–
+– Técnicas de identificación de vectores y organismos nocivos. Materiales e 
+instrumental.
+–
+– Concepto de zoonosis.
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37728
+Viernes, 2 de octubre de 2020
+–
+– Enfermedades transmitidas por vectores. Normativa sanitaria nacional e 
+internacional.
+–
+– Mecanismos de transmisión y sintomatología de las enfermedades de transmisión 
+vectorial.
+–
+– Organismos productores de enfermedades. Riesgos para la salud originados por 
+artrópodos y roedores.
+–
+– Medidas de protección frente a vectores. Actuaciones sanitarias en la presentación 
+de brotes epidemiológicos de origen vectorial.
+3. Selección de métodos de lucha utilizados para el control de organismos nocivos 
+y vectores:
+–
+– Clasificación de los diferentes métodos para combatir una plaga.
+–
+– Normas de calidad de aplicación de limpieza, desinfección, desinsectación y 
+desratización (LD-DD).
+–
+– Métodos de control: Métodos directos: físicos, mecánicos, químicos y biológicos. 
+Métodos indirectos: legislativos, culturales, control genético. Plaguicidas 
+biorracionales. Formas de actuación. Usos y limitaciones.
+–
+– Clasificación de los biocidas. Análisis de los principales grupos de biocidas. 
+Composición y formulación. Formas de presentación. Normativa sobre 
+clasificación, envasado y etiquetado. 
+–
+– Productos fitosanitarios. Clasificación de los principales grupos.
+–
+– Manejo de plaguicidas. Mezcla de productos. Materias activas. Resistencias.
+–
+– Introducción a la toxicología. Relación dosis-efecto, dosis-respuesta. Cinética del 
+tóxico. Índices de toxicidad: DL50, CL50, DT50. Nivel de dosis: NOAEL, LOAEL.
+–
+– Intoxicaciones por el uso de biocidas y productos fitosanitarios. Riesgos para la 
+salud. Población expuesta. Factores que influyen en la toxicidad. Vías de entrada 
+en el organismo. Criterios de prevención. Actuación en caso de intoxicación.
+–
+– Prevención de riesgos laborales. Niveles de exposición. Valores límite 
+ambientales: internacionales (TLV-TWA, TLV-STEL, TLV-C) y nacionales (VLA-
+ED, VLA-EC). Valores límite biológicos: identificadores biológicos. Precauciones. 
+Métodos de protección.
+–
+– Ecotoxicología y toxicología ambiental: Efectos ambientales derivados del uso de 
+biocidas y productos fitosanitarios. Protección ambiental.
+–
+– Residuos de plaguicidas. Legislación vigente. Límites máximos de residuos. 
+Métodos de eliminación de restos y envases.
+–
+– Aplicación de plaguicidas. Equipos para la aplicación de plaguicidas. Clasificación. 
+Aplicaciones.
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37729
+Viernes, 2 de octubre de 2020
+–
+– Métodos de aplicación de biocidas. Desinsectación ambiental.
+–
+– Métodos de limpieza, higiene y saneamiento del medio. Buena práctica 
+fitosanitaria. Eliminación de residuos.
+–
+– Técnicas de desinfección y esterilización:
+•	 Principales agentes infecciosos. Conceptos: desinfección, esterilización, 
+bactericida, bacteriostático.
+•	 Métodos de desinfección: Métodos físicos. Métodos químicos: agentes 
+desinfectantes.
+•	 Métodos de estilización: Métodos físicos. Métodos químicos.
+–
+– Técnicas de desinsectación. Análisis de los métodos de lucha y control. 
+–
+– Técnicas de desratización. Análisis de los métodos de lucha y control. 
+4. Toma de muestras de biocidas productos fitosanitarios, vectores de interés en 
+salud pública y otros organismos nocivos.
+–
+– Proceso de muestreo para el análisis de productos químicos biocidas y 
+fitosanitarios. Definiciones: Partida a granel. Partida envasada. Muestra. 
+Materiales y equipos de muestreo. Procedimientos. Tamaño y número de 
+muestras.
+–
+– Identificación de muestras. Transporte, acondicionamiento y conservación de 
+muestras. Precintado y etiquetado.
+–
+– Equipos de inspección de plagas.
+–
+– Técnicas de captura de vectores y organismos nocivos que constituyen plagas. 
+Identificación de señales. Búsqueda directa. Trampas. Muestreo de suelo y por 
+succión. Materiales. Fijación y conservación de vectores. Precintado y etiquetado. 
+–
+– Técnicas de censado y/o monitoreo de artrópodos de interés en salud pública. 
+Tamaño absoluto. Densidad. Distribución espacial de las muestras: tipos de 
+muestreo. Puntos críticos.
+–
+– Técnicas de muestreo en establecimientos y servicios de biocidas y productos 
+fitosanitarios siguiendo los protocolos establecidos.
+5. Identificación de las características de establecimientos y servicios biocidas y 
+productos fitosanitarios:
+–
+– Normativa aplicable a los establecimientos y servicios biocidas. Registro oficial 
+de establecimientos y servicios biocidas.
+–
+– Clasificación de los establecimientos. Actividades. Requisitos de funcionamiento 
+y características físicoestructurales.
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37730
+Viernes, 2 de octubre de 2020
+–
+– Normativa relacionada con el almacenamiento y transporte de sustancias 
+peligrosas. Etiquetado y envasado. Fichas de datos de seguridad.
+–
+– Legislación relativa a la comercialización y uso de biocidas y productos 
+fitosanitarios.
+–
+– Programas de seguridad química. Libro oficial de movimientos de biocidas (LOM).
+–
+– Inspección de establecimientos. Puntos críticos. Requisitos de fabricación, 
+almacenamiento y comercialización. Procesos de notificación.
+6. Elaboración de planes de control integral de plagas:
+–
+– Concepto y objetivo del plan de control integrado de plagas (CIP).
+–
+– Fases del proceso de aplicación de un CIP.
+–
+– Diagnóstico de la situación. Identificación de plagas.
+–
+– Estudio del entorno. Ámbito geográfico. Establecimientos y locales.
+–
+– Inspección. Técnicas de muestreo. Puntos críticos.
+–
+– Planificación de la intervención. Orden y selección de medios. Sistemas de 
+aplicación.
+–
+– Evaluación de las medidas de control.
+–
+– Evaluación de la intervención.
+–
+– Documentación y registros.
+–
+– Sistemas de monitorización de plagas controladas.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar las 
+funciones de inspección, control y gestión de servicios biocidas y de productos fitosanitarios.
+Las funciones de prevención, control y gestión de servicios biocidas y de productos 
+fitosanitarios incluye aspectos como:
+–
+– Inspección de elementos estructurales y condiciones higiénico-sanitarias de 
+establecimientos comerciales, de servicios y de uso residencial.
+–
+– Identificación de organismos nocivos o especies que constituyen plagas.
+–
+– Toma de muestras de vectores y organismos nocivos.
+–
+– Toma de muestras de productos químicos.
+–
+– Elaboración de planes de control integrado de plagas.
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37731
+Viernes, 2 de octubre de 2020
+–
+– Aplicación de distintos métodos de luchas contra organismos nocivos y control 
+de plagas.
+–
+– Gestión de establecimientos y servicios biocidas.
+–
+– Gestión del almacenamiento y comercialización de biocidas y productos 
+fitosanitarios.
+–
+– Gestión de residuos de plaguicidas.
+Las actividades asociadas a estas funciones se aplican en:
+–
+– Almacenamiento, distribución y comercialización de biocidas y de productos 
+fitosanitarios.
+–
+– Servicios biocidas y productos fitosanitarios: Empresas DDD, sanidad ambiental, 
+control de aves y/o animales vagabundos y tratamientos fitosanitarios, entre 
+otras.
+–
+– Área de salud pública del sector sanitario.
+La formación del módulo contribuye a alcanzar los objetivos generales a), b), c), d), 
+e), l), m), n), o), q), r) y t) del ciclo formativo y las competencias generales b), c), d), e), k), 
+l), m), n), ñ), o) y p) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo versarán sobre:
+–
+– La descripción de las características de los establecimientos y servicios biocidas 
+y de productos fitosanitarios.
+–
+– El reconocimiento de las deficiencias higiénico-sanitarias y estructurales de 
+establecimientos.
+–
+– La identificación de organismos nocivos y vectores con riesgo para la salud.
+–
+– La planificación y utilización de equipos para la toma de muestras de biocidas y 
+organismo nocivos.
+–
+– La selección del método de control más adecuado frente a vectores y organismos 
+nocivos.
+–
+– La interpretación de documentación técnica e instrucciones de uso de instrumentos 
+y equipos para toma de muestras y análisis.
+–
+– La selección de medidas preventivas y correctoras partiendo de supuestos 
+prácticos.
+–
+– La elaboración de programas de control integrado de plagas.
+–
+– La elaboración de informes y registros.
+El sistema metodológico seguido en el módulo profesional se enfocará desde un 
+punto de vista práctico, utilizando material y equipos de laboratorio e incluyendo el diseño 
+de un plan de control CIP y la realización de informes proponiendo medidas correctoras, 
+para facilitar la comprensión de los conceptos teóricos expuestos y para acercar al 
+alumnado a la realidad laboral del Técnico Superior en Química y Salud Ambiental.
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37732
+Viernes, 2 de octubre de 2020
+Se fomentará el empleo de las TIC para que constituyan una herramienta habitual 
+en el aula. Esto se llevará a cabo mediante la incorporación de medios audiovisuales, 
+búsqueda y consulta de normativa y artículos científicos, registro y presentación adecuada 
+de datos y documentos. Esta metodología permitirá el desarrollo de vocabulario técnico y 
+la actualización de conocimientos.
+Módulo profesional: Unidad de salud ambiental.
+Equivalencia en créditos ECTS: 9.
+Código: 1554. 
+Duración: 128 horas.
+Contenidos:
+1. Identificación la unidad de Salud Ambiental:
+–
+– La sanidad en el ámbito de la Unión Europea.
+–
+– Sistema sanitario español. Estructura. Niveles de asistencia.
+–
+– Estructuras orgánicas y funcionales de las instituciones sanitarias. Sector público 
+y privado de la sanidad.
+–
+– Flujos de información entre instituciones sanitarias.
+–
+– Organización de centros, unidades y servicios de Salud Ambiental: Función y 
+competencias del Técnico Superior en Química y Salud Ambiental.
+–
+– Servicios de Sanidad Ambiental.
+–
+– Prestación del servicio en Salud Ambiental y Medio Ambiente. Objetivos, fases, 
+operaciones y recursos.
+–
+– Normativa comunitaria, estatal, autonómica y municipal en materia de salud 
+ambiental.
+2. Gestión de la documentación sanitaria y medioambiental:
+–
+– Documentos y registros.
+–
+– Características y tipos según actividad. Documentación científica. Documentación 
+no científica.
+–
+– Tramitación de documentos. Flujo de información.
+–
+– Criterios y condiciones de cumplimentación.
+–
+– Documentación científico-técnica: 
+•	 Recepción, registro y distribución.
+•	 Sistemas de intercambio de información a nivel estatal y europeo.
+–
+– Archivo y custodia de documentos. Tipos de archivos y organización material.
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37733
+Viernes, 2 de octubre de 2020
+–
+– Normas de certificación y acreditación (ISO, UNE, EN).
+–
+– Legislación vigente en Protección de Datos. Confidencialidad. Secreto profesional.
+–
+– Informática básica en gestión documental.
+3. Gestión de recursos materiales en una unidad de Salud Ambiental:
+–
+– Clasificación: Recursos materiales inventariables y fungibles.
+–
+– Almacén. Funciones del almacén.
+–
+– Pedidos y recepción de materiales. Pedido y albarán. Proveedores. Fases en la 
+recepción.
+–
+– Sistemas y técnicas de almacenaje. Criterios de orden y conservación.
+–
+– Normas de seguridad e higiene aplicadas en almacenes.
+–
+– Control de existencias. Nivel de existencias. Stock o depósito de seguridad. 
+Punto de pedido.
+–
+– Documentos de control de existencias. Fichas de almacén. Métodos de 
+elaboración.
+–
+– Inventarios.
+–
+– Aplicaciones informáticas de gestión y control de almacén.
+–
+– Normativa de seguridad e higiene.
+4. Preparación, puesta en marcha y reparación de equipos:
+–
+– Equipamiento de una unidad de salud ambiental. Características técnicas y 
+funciones. Instrucciones y fichas de seguridad.
+–
+– Verificación y calibración de equipos:
+–
+– Control de la limpieza, desinfección y esterilización.
+–
+– Mantenimiento y reparación básica de equipos. Tipos de mantenimiento. Plan de 
+revisiones.
+–
+– Riesgos laborales y precauciones asociados al manejo de equipamiento.
+–
+– Documentación referente al mantenimiento y calibración de equipos. Control de 
+calidad.
+5. Obtención de informes y resúmenes de actividad:
+–
+– Evaluación de la calidad de las bases de datos: Elección de la muestra.
+–
+– Presentación de la información. Tabulación de datos.
+–
+– Estadística aplicada:
+•	 Muestras, poblaciones, tipos de variables.
+•	 Estadística descriptiva univariante.
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37734
+Viernes, 2 de octubre de 2020
+•	 Estadística descriptiva bivariante.
+•	 Cálculo y análisis estadístico de datos.
+–
+– Elaboración de informes y resúmenes. Representación gráfica de datos.
+–
+– Programas informáticos estadísticos:
+–
+– Confidencialidad de los datos.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar las 
+funciones de la gestión de documentación de una unidad de salud ambiental, la gestión de 
+recursos materiales, el mantenimiento de los equipos y el tratamiento de la información de 
+las bases de datos y documentos de la unidad.
+La función de gestión de la documentación incluye aspectos como:
+–
+– Manejo de documentación sanitaria y medio ambiental.
+–
+– Cumplimentación de documentos.
+–
+– Archivo y custodia documental.
+–
+– Utilización de aplicaciones informáticas para la gestión de la documentación.
+La función de gestión de recursos materiales incluye aspectos como:
+–
+– Inventario y control de existencias.
+–
+– Utilización de aplicaciones informáticas para la gestión de existencias e 
+inventarios.
+La función de mantenimiento de equipos incluye aspectos como:
+–
+– Verificación y calibración de equipos.
+–
+– Aplicación de protocolos para garantizar el funcionamiento de equipos.
+–
+– Sustitución de piezas y pequeñas reparaciones.
+La función de tratamiento de la información de las bases de datos y documentos de 
+la unidad incluye aspectos como:
+–
+– Actualización de las bases de datos de la unidad.
+–
+– Registro de resultados.
+–
+– Aplicación de procedimientos y códigos establecidos sobre los datos generados.
+–
+– Obtención de datos estadísticos.
+–
+– Emisión de informes sobre actividades realizadas.
+Las actividades asociadas a estas funciones se aplican en:
+–
+– Áreas de salud pública del sector sanitario.
+–
+– Administraciones con competencias en caracterización, control, vigilancia y 
+gestión de riesgos medioambientales.
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37735
+Viernes, 2 de octubre de 2020
+–
+– Empresas privadas que gestionan para la administración las actividades 
+mencionadas.
+–
+– Laboratorios de salud pública.
+–
+– Laboratorios de investigación y control epidemiológico.
+La formación del módulo contribuye a alcanzar los objetivos generales a), b), e), m), 
+n), ñ) y s) del ciclo formativo, y las competencias a), e), l), m), n), ñ) y o) del título.
+Las líneas de actuación en el proceso de enseñanza aprendizaje que permiten 
+alcanzar los objetivos del módulo versarán sobre:
+–
+– La descripción de las características de la unidad de salud ambiental.
+–
+– El manejo de la documentación y el archivo mediante aplicaciones informáticas 
+específicas.
+–
+– La logística de una unidad de salud ambiental.
+–
+– El control del almacén.
+–
+– La puesta a punto de equipos y materiales.
+–
+– La obtención de indicadores estadísticos a partir del registro de datos obtenidos.
+–
+– La elaboración de informes y resúmenes de actividades.
+La metodología será interactiva, con participación directa del alumnado de forma 
+individual y colectiva, en actividades prácticas en el aula que incluyan la identificación de 
+documentos, la confección de fichas de almacén, inventarios y control de existencias, y 
+la elaboración de informes de actividad con una adecuada recogida y presentación de 
+datos, a partir de supuestos prácticos. Esto permitirá afianzar los conocimientos teóricos y 
+acercará al alumnado a la práctica real en su entorno laboral.
+Se fomentará el empleo de las TIC para que constituyan una herramienta habitual 
+en el aula. Esto se llevará a cabo mediante la incorporación de medios audiovisuales, 
+búsqueda y consulta de normativa y artículos científicos, registro y presentación adecuada 
+de datos y documentos. Esta metodología permitirá el desarrollo de vocabulario técnico y 
+la actualización de conocimientos.
+A la hora de impartir este módulo profesional, se tendrá en cuenta la necesidad de 
+coordinación en contenidos, procesos y actividades procedimentales con el profesorado 
+que imparta los módulos profesionales de «1546. Sistemas de gestión ambiental» y «1547. 
+Educación para la salud y el medio ambiente».
+Módulo profesional: Proyecto de química y salud ambiental.
+Equivalencia en créditos ECTS: 5.
+Código: 1555.
+Duración: 30 horas.
+Orientaciones pedagógicas y metodológicas. 
+Este módulo profesional complementa la formación establecida para el resto de los 
+módulos profesionales que integran el título en las funciones de análisis del contexto, 
+diseño del proyecto y organización de la ejecución.
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37736
+Viernes, 2 de octubre de 2020
+La función de análisis del contexto incluye las subfunciones de recopilación de 
+información, identificación de necesidades y estudio de viabilidad.
+La función de diseño del proyecto tiene como objetivo establecer las líneas generales 
+para dar respuesta a las necesidades planteadas, concretando los aspectos relevantes 
+para su realización. Incluye las subfunciones de definición del proyecto, planificación de la 
+intervención y elaboración de la documentación.
+La función de organización de la ejecución incluye las subfunciones de programación 
+de actividades, gestión de recursos y supervisión de la intervención.
+Las actividades profesionales asociadas a estas funciones se desarrollan en el 
+sector público o privado, en cualquier empresa del ámbito de la química y salud ambiental.
+La formación del módulo se relaciona con la totalidad de los objetivos generales del 
+ciclo y de las competencias profesionales, personales y sociales del título.
+Las líneas de actuación en el proceso de enseñanza aprendizaje que permiten 
+alcanzar los objetivos del módulo están relacionadas con:
+–
+– La ejecución de trabajos en equipo.
+–
+– La responsabilidad y la autoevaluación del trabajo realizado.
+–
+– La autonomía y la iniciativa personal.
+–
+– El uso de las Tecnologías de la Información y de la Comunicación.
+La metodología aplicada en este módulo profesional debe favorecer experiencias de 
+aprendizaje fundamentadas en el conocimiento de:
+–
+– Técnicas de análisis, investigación, búsqueda y recopilación de información. 
+–
+– Búsqueda de recursos bibliográficos. 
+–
+– Planificación, diseño, viabilidad y oportunidad, conclusiones y aportaciones 
+personales, manejo de normativa aplicable, desarrollo del proyecto.
+También será necesaria la utilización de software específico, como procesadores de 
+texto, hojas de cálculo, programas de diseño asistido por ordenador, programas de cálculo 
+específicos y otros en la redacción del documento final, realizando su implementación en 
+el módulo profesional, para la consecución de los objetivos específicos relacionados con 
+el tipo de proyecto que desarrolle el alumnado. 
+Los trabajos a realizar sobre soporte informático se llevarán a cabo, de forma 
+individual. El alumnado deberá ser capaz de trabajar con autonomía y creatividad bajo los 
+parámetros de la calidad exigida, siempre bajo la orientación del profesor-tutor. 
+Las características del módulo profesional son conducentes a aplicar una 
+metodología interdisciplinar que favorezca el carácter global del aprendizaje en los tipos 
+de proyecto que así lo requieran; o bien que desarrolle metodologías que favorezcan la 
+investigación, la innovación o el desarrollo de algún aspecto concreto relacionado con 
+las variables tecnológicas y organizativas relacionadas con los proyectos en el sector 
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37737
+Viernes, 2 de octubre de 2020
+profesional de la química y salud ambiental, ya sea desde el punto de vista técnico o de 
+gestión. 
+Se propone que las tecnologías de la información y la comunicación, sean un 
+instrumento habitual, tanto por parte del profesor-tutor como por parte del alumnado, de 
+forma que éste adopte actitudes activas respecto de su propio aprendizaje mediante la 
+búsqueda bibliográfica y consulta en páginas web de toda la información necesaria para el 
+desarrollo del proyecto y como herramienta para facilitar la acción tutorial. 
+El proyecto será realizado por el alumnado, de forma individual preferentemente, 
+durante el tercer trimestre del segundo curso. El alumnado será tutorizado por un profesor, 
+que imparta docencia en segundo curso del ciclo formativo, de las especialidades con 
+atribución docente en este módulo profesional, de acuerdo con lo establecido en el 
+Anexo III A) del Real Decreto 283/2019, de 22 de abril. No obstante, dado que los resultados 
+de aprendizaje y criterios de evaluación de este módulo complementan los del resto de 
+los módulos profesionales del ciclo y tiene un carácter integrador de los mismos, sería 
+conveniente la colaboración de todos los profesores con atribución docente en el ciclo 
+formativo.
+Módulo profesional: Formación y orientación laboral.
+Equivalencia en créditos ECTS: 5.
+Código: 1556.
+Duración: 96 horas.
+Contenidos:
+BLOQUE A: Formación, legislación y relaciones laborales. 
+Duración: 46 horas.
+1. Búsqueda activa de empleo:
+–
+– Valoración de la importancia de la formación permanente para la trayectoria 
+laboral y profesional del Técnico Superior en Química y Salud Ambiental. 
+–
+– Análisis de los intereses, aptitudes y motivaciones personales para la carrera 
+profesional.
+–
+– Identificación de los itinerarios formativos relacionados con el Técnico Superior 
+en Química y Salud Ambiental. 
+–
+– Definición y análisis del sector profesional del título de Técnico Superior en 
+Química y Salud Ambiental. Yacimientos de empleo.
+–
+– Proceso de búsqueda de empleo en pequeñas, medianas y grandes empresas 
+del sector.
+–
+– Oportunidades de aprendizaje y empleo en Europa. Programas europeos.
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37738
+Viernes, 2 de octubre de 2020
+–
+– Valoración de la empleabilidad y adaptación como factores clave para responder 
+a las exigencias del mercado laboral.
+–
+– Técnicas e instrumentos de búsqueda de empleo. Fuentes de información. El 
+proceso de selección.
+–
+– Oportunidades de autoempleo.
+–
+– El proceso de toma de decisiones.
+–
+– Normativa laboral sobre igualdad de oportunidades entre mujeres y hombres en 
+el acceso al empleo.
+2. Gestión del conflicto y equipos de trabajo:
+–
+– Valoración de las ventajas e inconvenientes del trabajo en equipo para la eficacia 
+de la organización.
+–
+– Concepto y tipos de equipos de trabajo. Formación y funcionamiento de equipos 
+eficaces.
+–
+– Equipos en el sector medioambiental, según las funciones que desempeñan.
+–
+– La participación en el equipo de trabajo. Los roles grupales. Barreras a la 
+participación en el equipo.
+–
+– Técnicas de participación y dinámicas de grupo.
+–
+– Conflicto: características, fuentes y etapas. 
+–
+– Métodos para la resolución o supresión del conflicto: mediación, conciliación y 
+arbitraje.
+–
+– La comunicación en la empresa. Lenguaje inclusivo escrito y verbal. El lenguaje 
+asertivo. La toma de decisiones y la negociación como habilidades sociales para 
+el trabajo en equipo.
+–
+– Mobbing. Detección, métodos para su prevención y erradicación.
+3. Contrato de trabajo:
+–
+– La organización política del Estado Español. Organismos laborales existentes en 
+España.
+–
+– El derecho del trabajo. Normas fundamentales.
+–
+– Órganos de la administración y jurisdicción laboral.
+–
+– Análisis de la relación laboral individual.
+–
+– Modalidades del contrato de trabajo y medidas de fomento de la contratación.
+–
+– Derechos y deberes derivados de la relación laboral. El tiempo de trabajo. Análisis 
+del recibo de salarios. Liquidación de haberes.
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37739
+Viernes, 2 de octubre de 2020
+–
+– Modificación, suspensión y extinción del contrato de trabajo.
+–
+– Valoración de las medidas para la conciliación familiar y profesional.
+–
+– Representación de las trabajadoras y trabajadores.
+–
+– Negociación colectiva como medio para la conciliación de los intereses de 
+trabajadores y empresarios.
+–
+– Medidas de conflicto colectivo. Procedimientos de solución.
+–
+– Análisis de un convenio colectivo aplicable al ámbito profesional del Técnico 
+Superior en Química y Salud Ambiental.
+–
+– Beneficios para las trabajadoras y trabajadores en las nuevas organizaciones: 
+flexibilidad, beneficios sociales, entre otros.
+4. Seguridad Social, empleo y desempleo:
+–
+– La Seguridad Social como pilar del Estado Social de Derecho.
+–
+– Estructura del Sistema de la Seguridad Social. Regímenes.
+–
+– Determinación de las principales obligaciones del empresariado y su personal 
+en materia de Seguridad Social: afiliación, altas, bajas y cotización. Cálculo 
+de bases de cotización a la Seguridad Social y determinación de cuotas en un 
+supuesto sencillo.
+–
+– Acción protectora de la Seguridad Social. Prestaciones de la Seguridad Social. 
+Situaciones protegibles en la prestación por desempleo. Cálculo de una prestación 
+por desempleo de nivel contributivo básico.
+BLOQUE B: Prevención de riesgos laborales.
+Duración: 50 horas.
+5. Evaluación de riesgos profesionales:
+–
+– Importancia de la cultura preventiva en todas las fases de la actividad. 
+Sensibilización, a través de las estadísticas de siniestralidad nacional y en Castilla 
+y León, de la necesidad de hábitos y actuaciones seguras.
+–
+– Valoración de la relación entre trabajo y salud.
+–
+– El riesgo profesional. Mapa de riesgos. Análisis de factores de riesgo.
+–
+– La evaluación de riesgos en la empresa como elemento básico de la actividad 
+preventiva.
+–
+– Análisis de riesgos ligados a las condiciones de seguridad.
+–
+– Análisis de riesgos ligados a las condiciones ambientales. Agentes físicos, 
+químicos y biológicos.
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37740
+Viernes, 2 de octubre de 2020
+–
+– Análisis de riesgos ligados a las condiciones ergonómicas y psicosociales.
+–
+– Riesgos específicos en el sector medioambiental.
+–
+– Técnicas de evaluación de riesgos.
+–
+– Condiciones de trabajo y seguridad.
+–
+– Determinación de los posibles daños a la salud del trabajador o trabajadora que 
+pueden derivarse de las situaciones de riesgo detectadas.
+–
+– Los accidentes de trabajo, las enfermedades profesionales y otras patologías.
+6. Planificación de la prevención de riesgos en la empresa. Prevención integrada:
+–
+– Marco jurídico en materia de prevención de riesgos laborales.
+–
+– Derechos y deberes en materia de prevención de riesgos laborales. 
+Responsabilidades legales.
+–
+– Gestión de la prevención en la empresa. Documentación.
+–
+– Organismos públicos relacionados con la prevención de riesgos laborales.
+–
+– Planificación de la prevención en la empresa. Secuenciación de actuaciones.
+–
+– Definición del contenido del Plan de Prevención de un centro de trabajo 
+relacionado con el sector profesional.
+–
+– Planes de emergencia y de evacuación en entornos de trabajo.
+–
+– Elaboración de un plan de emergencia en una empresa del sector.
+7. Aplicación de medidas de prevención y protección en la empresa:
+–
+– Técnicas de lucha contra los daños profesionales. Seguridad en el trabajo. 
+Higiene industrial y otros.
+–
+– Determinación de las medidas de prevención y protección individual y colectiva.
+–
+– Señalización de seguridad.
+–
+– Protocolo de actuación ante una situación de emergencias.
+–
+– Primeros auxilios. Conceptos básicos. Aplicación de técnicas de primeros auxilios.
+–
+– Vigilancia de la salud de las personas trabajadoras y especificidades de la salud 
+laboral de las trabajadoras.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para que el alumnado 
+pueda insertarse laboralmente y desarrollar su carrera profesional en el sector.
+La formación de este módulo contribuye a alcanzar los objetivos generales n), r), s), 
+t) y v) del ciclo formativo, y las competencias m), ñ), p), q) y s) del título. 
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37741
+Viernes, 2 de octubre de 2020
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+–
+– El manejo de las fuentes de información sobre el sistema educativo y laboral, en 
+especial en lo referente a las empresas del sector.
+–
+– La realización de pruebas de orientación y dinámicas sobre la propia personalidad 
+y el desarrollo de las habilidades sociales.
+–
+– La preparación y realización de modelos de currículum vitae (CV) y entrevistas 
+de trabajo.
+–
+– La identificación de la normativa laboral que afecta a las trabajadoras y 
+trabajadores del sector, manejo de los contratos más comúnmente utilizados y 
+lectura comprensiva de los convenios colectivos de aplicación.
+–
+– La resolución de supuestos prácticos sencillos sobre materias de índole laboral 
+y de Seguridad Social.
+–
+– La cumplimentación de recibos de salario de diferentes características y otros 
+documentos relacionados.
+–
+– El análisis de la Ley de Prevención de Riesgos Laborales que le permita la 
+evaluación de los riesgos derivados de las actividades desarrolladas en su 
+sector productivo, y colaborar en la definición de un plan de prevención para una 
+pequeña empresa, así como en la elaboración de las medidas necesarias para 
+su puesta en funcionamiento.
+En este módulo, especialmente en el bloque B «Prevención de Riesgos Laborales», 
+se tratan contenidos que están relacionados con otros módulos profesionales, por lo que 
+sería recomendable la realización coordinada de las programaciones didácticas en dichas 
+materias. Es aconsejable que el profesorado que imparte el módulo profesional «1556. 
+Formación y orientación laboral» se centre en los aspectos puramente legales, mientras 
+que el profesorado de la Familia Profesional enfoque desde un punto de vista técnico los 
+riesgos específicos del sector y las medidas de prevención y protección de los mismos, de 
+cara a la elaboración de planes de prevención de riesgos laborales.
+Módulo profesional: Empresa e iniciativa emprendedora.
+Equivalencia en créditos ECTS: 4.
+Código: 1557.
+Duración: 63 horas.
+Contenidos:
+1. Iniciativa emprendedora:
+–
+– Innovación y desarrollo económico. Principales características de la innovación 
+en química y salud ambiental. (materiales, tecnología y organización de la 
+producción, entre otros).
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37742
+Viernes, 2 de octubre de 2020
+–
+– El trabajo por cuenta propia como fuente de creación de empleo y bienestar 
+social.
+–
+– La cultura emprendedora. Factores claves de las personas emprendedoras: 
+iniciativa, creatividad y formación.
+–
+– Desarrollo del espíritu emprendedor a través del fomento de las actitudes de 
+creatividad, iniciativa, autonomía y responsabilidad.
+–
+– La actuación de las personas emprendedoras como empleadas de una pyme 
+relacionada con la química y/o salud ambiental.
+–
+– La actuación de las personas emprendedoras como empresarias en el sector del 
+medio ambiente.
+–
+– Análisis de las oportunidades de negocio en el sector del medio ambiente.
+–
+– El empresariado. Requisitos para el ejercicio de la actividad empresarial. 
+Aptitudes y actitudes.
+–
+– Plan de empresa: la idea de negocio en el ámbito del medio ambiente.
+–
+– Búsqueda de ideas de negocio. Análisis y viabilidad de las mismas.
+2. La empresa y su entorno:
+–
+– Concepto de empresa.
+–
+– Estructura organizativa de la empresa. Organigrama.
+–
+– Funciones básicas de la empresa: comercial, técnica, social, financiera y 
+administrativa.
+–
+– La empresa como sistema.
+–
+– Análisis del entorno general y específico de una pyme relacionada con la química 
+y/o la salud ambiental. 
+–
+– Relaciones con clientes, proveedores y competidores.
+–
+– Análisis DAFO.
+–
+– Relaciones de una pyme de química y/o salud ambiental con su entorno.
+–
+– Relaciones de una pyme de química y/o salud ambiental con el conjunto de la 
+sociedad. 
+–
+– La responsabilidad social de la empresa, planes de igualdad, acciones de igualdad 
+y mejora continua. Comunicación y publicidad no sexista. La ética empresarial en 
+empresas del sector.
+–
+– El estudio de mercado. Variables del marketing mix: precio, producto, comunicación 
+y distribución.
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37743
+Viernes, 2 de octubre de 2020
+–
+– El balance social: los costes y los beneficios sociales. 
+–
+– Cultura empresarial e imagen corporativa.
+3. Creación y puesta en marcha de una empresa:
+–
+– Tipos de empresa.
+–
+– Elección de la forma jurídica. Ventajas e inconvenientes de las distintas formas 
+jurídicas con especial atención a la responsabilidad legal.
+–
+– La franquicia como forma de empresa.
+–
+– La fiscalidad en las empresas.
+–
+– Trámites administrativos para la constitución y puesta en marcha de una empresa. 
+Relación con organismos oficiales.
+–
+– Vías externas de asesoramiento y gestión. La ventanilla única empresarial.
+–
+– Pan de inversiones y gastos.
+–
+– Las fuentes de financiación. El plan financiero.
+–
+– Subvenciones y ayudas destinadas a la creación de empresas relacionadas con 
+la química y salud ambiental.
+–
+– Viabilidad económica y viabilidad financiera de una pyme relacionada con la 
+química y la salud ambiental.
+–
+– Plan de empresa: la idea de negocio en el sector de la química y salud ambiental. 
+Elección de la forma jurídica, estudio de viabilidad económica y financiera, 
+trámites administrativos y gestión de ayudas y subvenciones.
+4. Función administrativa:
+–
+– Concepto de contabilidad y nociones básicas.
+–
+– Cuentas anuales obligatorias.
+–
+– Análisis de la información contable.
+–
+– Ratios. Cálculo de coste, beneficio y umbral de rentabilidad.
+–
+– Obligaciones fiscales de las empresas. Principales impuestos aplicables a las 
+empresas del sector.
+–
+– Gestión administrativa de una empresa de química y/o salud ambiental. 
+Documentos básicos utilizados en la actividad económica de la empresa: nota 
+de pedido, albarán, factura, letra de cambio, cheque y otros.
+–
+– Gestión de aprovisionamiento. Valoración de existencias. Volumen óptimo de 
+pedido.
+–
+– Elaboración de un plan de empresa.
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37744
+Viernes, 2 de octubre de 2020
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desarrollar la propia 
+iniciativa en el ámbito empresarial, tanto hacia el autoempleo como hacia la asunción de 
+responsabilidades y funciones en el empleo por cuenta ajena.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+n), ñ), o), p), q), t), u) y v) del ciclo formativo, y las competencias m), n), ñ), o), r) y s) del 
+título.
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar 
+los objetivos del módulo profesional versarán sobre:
+–
+– El manejo de las fuentes de información sobre el sector medioambiental, 
+incluyendo el análisis de los procesos de innovación sectorial en marcha.
+–
+– La realización de casos y dinámicas de grupo que permitan comprender y valorar 
+las actitudes de las personas emprendedoras y ajustar la necesidad de las mismas 
+al sector de los servicios relacionados con los procesos medioambientales.
+–
+– La utilización de programas de gestión administrativa para pymes del sector.
+–
+– La realización de un proyecto de plan de empresa relacionada con la química 
+y/o la salud ambiental, que incluya todas las facetas de puesta en marcha de 
+un negocio: viabilidad, organización de la producción y los recursos humanos, 
+acción comercial, control administrativo y financiero, así como la justificación de 
+su responsabilidad social.
+–
+– Utilización de la herramienta «Aprende a Emprender».
+Módulo profesional: Formación en centros de trabajo.
+Equivalencia en créditos ECTS: 22.
+Código: 1558.
+Duración: 380 horas.
+Este módulo profesional contribuye a completar las competencias de este título y los 
+objetivos generales del ciclo, tanto aquellos que se han alcanzado en el centro educativo, 
+como los que son difíciles de conseguir en el mismo.
+Módulo profesional: Inglés para química y salud ambiental. 
+Código: CL26.
+Resultados de aprendizaje y criterios de evaluación:
+1. Se comunica oralmente con un interlocutor en lengua extranjera interpretando 
+y transmitiendo la información necesaria para establecer los términos que delimiten una 
+relación profesional dentro del sector de la química y salud ambiental. 
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37745
+Viernes, 2 de octubre de 2020
+Criterios de evaluación: 
+a)	Se ha pedido información telefónica sobre un aspecto puntual de una actividad 
+propia del sector, aplicando las fórmulas establecidas y utilizando el léxico 
+adecuado.
+b)	Se ha dado la información requerida a través del teléfono, escogiendo las fórmulas 
+y léxico necesarios para expresarla con la mayor precisión y concreción.
+c)	 Se han identificado los datos claves para descifrar un mensaje grabado 
+relacionado con una actividad profesional habitual del sector de la química y 
+salud ambiental.
+d)	Se ha pedido información, en una comunicación cara a cara, sobre un aspecto 
+puntual de una actividad propia del sector definiendo de entre las fórmulas 
+preestablecidas las más adecuadas.
+e)	Se ha proporcionado información sobre un aspecto puntual de una actividad 
+propia del sector definiendo de entre las fórmulas preestablecidas las más 
+adecuadas.
+f)	 Se ha interpretado la información recibida en una reunión de trabajo.
+g)	Se ha transmitido dicha información seleccionando el registro adecuado.
+2. Interpreta información escrita en lengua extranjera en el ámbito económico, 
+jurídico y financiero propio del sector, analizando los datos fundamentales para llevar a 
+cabo las acciones oportunas. 
+Criterios de evaluación: 
+a)	Se han buscado datos claves en un texto informativo en lengua extranjera sobre 
+el sector de la química y salud ambiental.
+b)	Se han clasificado los datos de dicho texto según su importancia dentro del sector.
+c)	 Se ha sintetizado el texto.
+d)	Se ha traducido con exactitud cualquier escrito referente al sector profesional.
+3. Redacta y/o cumplimenta documentos e informes propios del sector en lengua 
+extranjera con corrección, precisión, coherencia y cohesión, solicitando y/o facilitando una 
+información de tipo general o detallada.
+Criterios de evaluación: 
+a)	Se han cumplimentado documentos comerciales y de gestión específicos del 
+sector.
+b)	Se ha elaborado un informe claro, conciso y preciso según su finalidad y/o 
+destinatario, utilizando estructuras y nexos preestablecidos, basándose en datos 
+recibidos en distintos contextos (conferencia, documentos, seminario, reunión).
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37746
+Viernes, 2 de octubre de 2020
+4. Analiza las normas de protocolo del país del idioma extranjero, con el fin de dar 
+una adecuada imagen en las relaciones profesionales establecidas con dicho país.
+Criterios de evaluación: 
+a)	Se ha presentado a sí mismo ante una supuesta visita a una empresa extranjera.
+b)	Ha informado y se ha informado utilizando el lenguaje con corrección y propiedad, 
+y observando las normas de comportamiento que requiera el caso, de acuerdo 
+con el protocolo profesional establecido en el país.
+c)	 Se comunica con clientes en el idioma correspondiente para transmitir indicaciones 
+y dirigir actividades.
+Duración: 42 horas.
+Contenidos:
+1. Comprensión y producción de mensajes orales: 
+–
+– Conversaciones telefónicas o a través de video-conferencia.
+–
+– Empleo de las destrezas y técnicas básicas para desenvolverse en situaciones 
+de carácter comercial y técnico en el sector de la química y salud ambiental. 
+–
+– Participación en conversaciones telefónicas dentro de un contexto de negocios. 
+–
+– Vocabulario necesario para mantener una conversación en el ámbito comercial. 
+2. Interpretación de mensajes escritos: 
+–
+– Análisis de los elementos morfosintácticos que aparecen en los documentos y 
+textos empleados como elementos de trabajo.
+–
+– Terminología específica en el sector de la química y salud ambiental.
+–
+– Fórmulas y frases hechas utilizadas en la comunicación escrita.
+–
+– Comprensión e interpretación de planos, esquemas y normas técnicas.
+3. Emisión de textos escritos: 
+–
+– Redacción de todo tipo de correspondencia comercial: faxes, informes, notas, 
+correo electrónico, etc. entre otros. 
+4. Realización de exposiciones:
+–
+– Grupos de trabajo para elaborar exposiciones orales sobre algunos de los temas 
+tratados en los demás módulos.
+–
+– Simulación de una ponencia para un congreso relativo a temas del sector.
+–
+– Elaboración de debates sobre temas de actualidad en el sector de la química y 
+salud ambiental.
+–
+– Elaboración de sesiones dirigidas a clientes de lengua extranjera.
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37747
+Viernes, 2 de octubre de 2020
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional mantiene como principal objetivo la formación necesaria 
+para el uso de la lengua inglesa en el desempeño de actividades relacionadas con el 
+sector de la química y salud ambiental, sirviendo, además para profundizar y ampliar en 
+aspectos prácticos de la especialidad.
+El profesorado debe trasladar los contenidos de sus enseñanzas al ámbito de la 
+especialidad, proponiendo actividades para reforzar el aspecto oral de la lengua inglesa, 
+sin descuidar por ello el uso de la lengua escrita. El desarrollo de las clases, será totalmente 
+en inglés. 
+Se han de potenciar, por tanto, la realización de exposiciones orales partiendo de:
+–
+– Audición de grabaciones audio/video procedentes de la vida cotidiana y del sector 
+de la química y salud ambiental.
+–
+– Textos escritos procedentes de medios de comunicación, internet, organismos 
+internacionales, etc.
+Siguiendo en la misma línea, el profesorado propondrá actividades de trabajo que 
+promuevan el desarrollo de las siguientes destrezas:
+–
+– Simulaciones de comunicación telefónica y cara a cara con proveedores y 
+clientes.
+–
+– Recreación de situaciones reales en una empresa o entidad cuya actividad se 
+relacione directamente con las actividades de la química y salud ambiental.
+–
+– Creación de conversaciones que provoquen debates en el grupo acerca del 
+funcionamiento de una pyme o entidad dedicada a la química y salud ambiental.
+–
+– Grabación de situaciones de comunicación o intervenciones profesionales por 
+parte del alumno.
+–
+– Producción y comprensión de textos y mensajes orales, incluso como apoyo de 
+futuras intervenciones profesionales.
+–
+– Fomento del trabajo autónomo por parte del alumnado.
+–
+– Elaboración de sesiones dirigidas en el idioma establecido.
+Este módulo debe reforzar la posibilidad de que el alumnado afronte con garantías 
+de éxito su trabajo ante grupos y colectivos con los que debe emplear la lengua inglesa. De 
+ahí la necesidad de practicar las situaciones cotidianas y ocasionales que los profesionales 
+conocen bien empleando exposiciones comprensivas y haciendo uso de lenguajes técnicos 
+relacionados con la actividad de la química y salud ambiental. 
+Con todo lo anterior se pretende conseguir que el alumnado tenga una actitud 
+positiva hacia los aprendizajes y sea capaz de comprender la gran necesidad del uso de 
+la lengua inglesa en el desempeño de su labor profesional en sector de la química y salud 
+ambiental. Esta actitud debe formar parte de la evaluación del alumnado y, por tanto, 
+deberá impregnar la actuación y metodología didáctica del profesorado.
+A la hora de impartir este módulo profesional, se tendrá en cuenta la necesidad de 
+coordinación en contenidos, procesos y actividades procedimentales, con el profesorado 
+que imparta todos los módulos profesionales. 
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37748
+Viernes, 2 de octubre de 2020
+ANEXO II
+ORGANIZACIÓN Y DISTRIBUCIÓN HORARIA
+Módulos profesionales
+Duración 
+del 
+currículo
+(horas)
+Centro Educativo
+Centro 
+de Trabajo
+Primer curso
+(horas/
+semana)
+Segundo curso
+1.º y 2.º
+trimestres
+(horas/
+semana)
+3.er trimestre
+(horas)
+1546. 	Sistemas de gestión ambiental
+84
+4
+1547. 	Educación para la salud y el medio 
+ambiente
+63
+3
+1548. 	Control de aguas
+320
+10
+1549. 	Control de residuos
+126
+6
+1550. 	Salud y riesgos del medio 
+construido
+96
+3
+1551. 	Control y seguridad alimentaria
+252
+12
+1552. 	Contaminación ambiental y 
+atmosférica
+160
+5
+1553. 	Control de organismos nocivos
+160
+5
+1554. 	Unidad de salud ambiental
+128
+4
+1555. 	Proyecto de química y salud 
+ambiental.
+30
+30
+1556. 	Formación y orientación laboral.
+96
+3
+1557. 	Empresa e iniciativa 
+emprendedora.
+63
+3
+1558. 	Formación en centros de trabajo.
+380
+380
+CL26. 	Inglés para química y salud 
+ambiental.
+42
+2
+TOTAL
+2.000
+30
+30
+410
+CV: BOCYL-D-02102020-1
+
+Boletín Oficial de Castilla y León
+Núm. 205
+http://bocyl.jcyl.es
+D.L.: BU 10-1979 - ISSN 1989-8959
+Pág. 37749
+Viernes, 2 de octubre de 2020
+ANEXO III
+Especialidades y titulaciones del profesorado en el módulo profesional 
+«Inglés para química y salud ambiental»
+1. Especialidades del profesorado con atribución docente en el módulo profesional 
+«Inglés para química y salud ambiental» del ciclo formativo que conduce al título de Técnico 
+Superior en Química y Salud Ambiental.
+Módulo profesional
+Especialidad 
+del profesorado
+Cuerpo
+CL26. 	Inglés para química 
+y salud ambiental. 
+Inglés
+–	
+Catedrático de Enseñanza Secundaria.
+–	
+Profesor de Enseñanza Secundaria.
+2. Para impartir el módulo profesional «Inglés para química y salud ambiental» que 
+conforma el título en los centros de titularidad privada y de otras Administraciones distintas 
+de la educativa, se exigirán las mismas condiciones de formación inicial que para impartir la 
+materia «lengua extranjera» en Educación Secundaria Obligatoria en centros de titularidad 
+privada.
+CV: BOCYL-D-02102020-1

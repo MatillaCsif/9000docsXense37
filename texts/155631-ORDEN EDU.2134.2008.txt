@@ -1,0 +1,559 @@
+REQUISITOS TÉCNICOS.
+Para efectuar los trámites susceptibles de realizar ante el registro tele-
+mático en este procedimiento, es necesario disponer de un certificado reco-
+nocido: Certificado digital de clase 2CA emitido por la Fábrica Nacional de
+Moneda y Timbre, cuyas características y procedimientos de obtención
+pueden consultarse, en http://www.cert.fnmt.es/clase2/ main.htm.
+Podrán admitirse otros certificados electrónicos, siempre y cuando
+estén previamente reconocidos por esta Administración y sean compati-
+bles con los diferentes elementos habilitantes y plataformas tecnológicas
+corporativas.
+DISPOSICIÓN FINAL.
+La presente Orden entrará en vigor al día siguiente de su publicación
+en el «Boletín Oficial de Castilla y León».
+Valladolid, 2 de diciembre de 2008.
+La Consejera,
+Fdo.: ISABEL ALONSO SÁNCHEZ
+CONSEJERÍA DE EDUCACIÓN
+ORDEN EDU/2134/2008, de 10 de diciembre, por la que se regula la
+evaluación en bachillerato en la Comunidad de Castilla y León.
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación dispone en su
+artículo 36.1 que la evaluación del aprendizaje del alumnado de bachille-
+rato será continua y diferenciada según las distintas materias del currículo.
+El Real Decreto 1467/2007, de 2 de noviembre, por el que se esta-
+blece la estructura del bachillerato y se fijan sus enseñanzas mínimas,
+regula en la disposición adicional primera los documentos oficiales de
+evaluación y movilidad del alumnado. 
+La finalidad de la evaluación en esta etapa educativa es comprobar el
+cumplimiento de los objetivos y la adquisición por parte de los alumnos
+de los conocimientos establecidos para cada una de las materias, de modo
+que, al finalizar el bachillerato, los alumnos puedan incorporarse a la vida
+laboral o proseguir otros estudios con garantías de éxito. 
+Aprobados el Decreto 42/2008, de 5 de junio, por el que se establece
+el currículo de bachillerato, y la Orden EDU/1061/2008, de 19 de junio,
+por la que se regula la implantación y el desarrollo de bachillerato, ambos
+en la Comunidad de Castilla y León, corresponde a la Consejería compe-
+tente en materia de educación establecer el marco y el proceso de eva-
+luación del alumnado y de las decisiones que de él se deriven, elaborar
+los documentos correspondientes y precisar determinados aspectos rela-
+cionados con los requisitos para la obtención del título de Bachiller. 
+En su virtud, previo dictamen del Consejo Escolar de Castilla y León,
+y en atención a las facultades conferidas por la Ley 3/2001, de 3 de julio,
+del Gobierno y de la Administración de la Comunidad de Castilla y León.
+DISPONGO
+Artículo 1.– Objeto y ámbito de aplicación.
+La presente Orden tiene por objeto regular la evaluación en bachille-
+rato en la Comunidad de Castilla y León y será de aplicación en los cen-
+tros docentes públicos y privados que impartan estas enseñanzas.
+Artículo 2.– Carácter de la evaluación.
+1. La evaluación del aprendizaje de los alumnos será continua y dife-
+renciada según las distintas materias y se llevará a cabo teniendo en cuen-
+ta los distintos elementos del currículo. 
+2. Los profesores evaluarán a los alumnos teniendo en cuenta los cri-
+terios de evaluación establecidos en el Decreto 42/2008, de 5 de junio,
+por el que se establece el currículo de bachillerato en la Comunidad de
+Castilla y León, y sus concreciones en las programaciones didácticas de
+cada centro. 
+3. Con el fin de garantizar el derecho del alumnado a que su dedica-
+ción, esfuerzo y rendimiento sean valorados y reconocidos con objetivi-
+dad, deberán hacerse públicos los criterios generales que se vayan a apli-
+car para la evaluación de los aprendizajes.
+A este efecto, los departamentos didácticos informarán al alumnado
+al comienzo del período lectivo sobre los contenidos mínimos exigibles
+para la superación de las diferentes materias de él dependientes, los pro-
+cesos de recuperación y de apoyo previstos y los procedimientos y crite-
+rios de evaluación y calificación aplicables. 
+Artículo 3.– Documentos oficiales de evaluación.
+1. De acuerdo con la disposición adicional primera del Real Decreto
+1467/2007, de 2 de noviembre, por el que se establece la estructura del
+bachillerato y se fijan sus enseñanzas mínimas, los documentos oficiales
+en que se consignarán las cuestiones relativas al proceso de evaluación en
+bachillerato son los siguientes: el expediente académico, las actas de eva-
+luación, el informe personal por traslado y el historial académico de
+bachillerato.
+2. Los documentos oficiales de evaluación serán visados por el direc-
+tor del centro y llevarán las firmas autógrafas de las personas que corres-
+ponda en cada caso. Debajo de las mismas constará el nombre y los ape-
+llidos del firmante, así como la referencia al cargo o la atribución docente.
+3. La custodia y archivo de los expedientes académicos y de las actas
+de evaluación corresponden al secretario del centro y se conservarán en
+el propio centro.
+Las Direcciones Provinciales de Educación proveerán las medidas
+adecuadas para su conservación o traslado, en el caso de supresión del
+mismo.
+4. La Consejería de Educación podrá establecer en soporte informáti-
+co los modelos correspondientes a los citados documentos oficiales de
+evaluación.
+5. La centralización electrónica de los expedientes académicos y de
+las actas de evaluación, mediante las correspondientes aplicaciones infor-
+máticas, no supone una subrogación de las facultades de custodia inhe-
+rentes a los centros.
+6. En los documentos oficiales de evaluación deberá figurar siempre
+y en lugar preferente la referencia a la norma que establece el currículo
+de bachillerato en la Comunidad de Castilla y León.
+7. De los documentos reseñados en el apartado 1 de este artículo, se
+consideran documentos básicos de evaluación el historial académico de
+bachillerato y el informe personal por traslado.
+8. Cuando se decida la promoción del alumno al curso siguiente, de
+acuerdo con las normas de promoción y permanencia establecidas en el
+Decreto 42/2008, de 5 de junio y en esta Orden, en los documentos básicos
+de evaluación deberá constar la fecha en que se ha tomado dicha decisión.
+9. En cualquier momento, los centros docentes podrán emitir, a peti-
+ción de los interesados, una certificación de los estudios realizados donde
+se especifiquen las materias cursadas y calificaciones obtenidas. La cer-
+tificación irá firmada por el secretario del centro y visada por el director. 
+Artículo 4.– Expediente académico.
+1. El expediente académico del alumnado se ajustará en su contenido
+al modelo que figura en el Anexo I de la presente Orden.
+2. En el expediente académico figurarán, junto a los datos de identifica-
+ción del centro y los datos personales del alumno, la fecha de apertura y el
+número de expediente, y la información relativa al proceso de evaluación.
+3. En el expediente académico del alumno se reflejarán las califica-
+ciones obtenidas, el seguimiento, en su caso, del proyecto de enseñanza
+bilingüe, las decisiones sobre la promoción, las propuestas de titulación
+y, si procede, de las medidas de atención a la diversidad, y las adaptacio-
+nes curriculares que se hayan adoptado. Del mismo modo, se reflejará la
+fecha de entrega del historial académico previsto en el artículo 6 de esta
+Orden. Asimismo, quedará constancia de las convocatorias de las pruebas
+de acceso a la universidad a las que se presenta.
+Artículo 5.– Actas de evaluación.
+1. Las actas de evaluación se ajustarán en su contenido al modelo que
+figura en el Anexo II de la presente Orden.
+2. Las actas comprenderán la relación nominal del alumnado que
+compone el grupo, junto con los resultados de la evaluación de las mate-
+B.O.C. y L. - N.º 241
+Lunes, 15 de diciembre 2008
+24987
+
+rias en los términos previstos en el artículo 9.9 de la presente Orden.
+Incluirán también las decisiones sobre promoción al curso siguiente.
+3. Las actas de evaluación se extenderán al finalizar cada uno de los
+cursos de bachillerato. Se cerrarán al término del período lectivo ordina-
+rio, en el mes de junio, y tras la celebración de la correspondiente prueba
+extraordinaria.
+4. En el acta de segundo curso figurará el alumnado con materias no
+superadas del curso anterior y recogerán la propuesta de expedición del
+título de Bachiller para el alumnado que reúna las condiciones establecidas
+para su obtención en el artículo 11.1 del Decreto 42/2008, de 5 de junio.
+5. Los alumnos de primer curso que hayan optado por ampliar matrícula
+con materias de segundo, en virtud de lo dispuesto en el artículo 10.4 del
+Decreto 42/2008, de 5 de junio, deberán figurar en el acta de evaluación
+final del curso primero.
+6. Las actas de evaluación serán firmadas por el tutor y los profeso-
+res que componen el equipo docente de cada grupo de alumnos, y en
+todas se hará constar el visto bueno del director del centro.
+7. Una vez cerradas las actas de evaluación y a partir de los datos con-
+signados en las mismas, el director del centro elaborará un informe de los
+resultados de la evaluación final de los alumnos, según el modelo recogi-
+do en el Anexo III de la presente Orden. Una vez cumplimentado se remi-
+tirá al Área de Inspección Educativa de las Direcciones Provinciales de
+Educación, en los diez días siguientes después de concluir el período de
+reclamaciones de la prueba extraordinaria. 
+8. Los centros privados cumplimentarán dos ejemplares de cada acta,
+uno para el propio centro y otro para el instituto de educación secundaria
+al que estén adscritos, que será remitido en los diez días siguientes a la
+finalización de las evaluaciones.
+Artículo 6.– Historial académico de bachillerato.
+1. El historial académico de bachillerato es el documento oficial que
+refleja los resultados de la evaluación y las decisiones relativas al pro-
+greso académico del alumnado a lo largo de la etapa y tiene valor acredi-
+tativo de los estudios realizados. Su custodia corresponde al secretario del
+centro educativo en que el alumno se encuentre escolarizado.
+2. El historial académico será cumplimentado según el modelo del
+Anexo IV de la presente Orden y llevará el visto bueno del director del
+centro.
+3. El historial académico recogerá, al menos: los datos identificativos
+del alumno; las materias cursadas en cada uno de los años de escolariza-
+ción y los resultados de la evaluación obtenidos, con expresión de la con-
+vocatoria concreta (ordinaria o extraordinaria); la indicación de las mate-
+rias que ha cursado con adaptaciones curriculares, cuando proceda; las
+decisiones sobre promoción al curso siguiente y sobre la propuesta de
+expedición del título de Bachiller, junto con la fecha en que se adoptó esta
+decisión; la nota media del bachillerato; la información relativa a los
+cambios de centro y de modalidad; la anulación de matrícula; el segui-
+miento de un proyecto de enseñanza bilingüe, cuando proceda y, la soli-
+citud, por parte del alumno, de la expedición del título correspondiente.
+4. El historial académico de bachillerato se entregará al alumno al tér-
+mino del mismo. Esta circunstancia se reflejará en el correspondiente
+expediente académico.
+5. Podrá efectuarse la impresión mecánica de los registros asentados
+en los historiales académicos de bachillerato, de forma que quede garan-
+tizada la autenticidad y la fiabilidad de los datos contenidos en los mismos.
+6. De acuerdo con el artículo 11.2 del Decreto 42/2008, de 5 de junio,
+para los alumnos que hayan superado las enseñanzas profesionales de
+música y de danza, en el historial académico de bachillerato y en el expe-
+diente académico se extenderá una diligencia, cuyo modelo se incluye en
+el Anexo V de esta Orden, para hacer constar que para obtener el título de
+Bachiller deben cursar únicamente las materias comunes. 
+Artículo 7.– Informe personal por traslado.
+1. Cuando un alumno se traslade a otro centro sin haber concluido
+alguno de los cursos de bachillerato, se emitirá un informe personal por
+traslado que recoja la información que resulte necesaria para la continui-
+dad del proceso de aprendizaje.
+2. El informe personal por traslado contendrá, al menos: los resulta-
+dos de las evaluaciones parciales que se hubieran realizado; la aplicación,
+en su caso, de medidas de apoyo educativo, así como de las adaptaciones
+curriculares realizadas; y, todas aquellas observaciones que se consideren
+oportunas acerca del progreso general del alumno.
+3. Será elaborado y firmado por el tutor, con el visto bueno del direc-
+tor, a partir de los datos facilitados por los profesores de las materias.
+Artículo 8.– Cambio de centro.
+1. Cuando un alumno se traslade a otro centro para continuar sus estu-
+dios sin haber concluido el bachillerato, el centro de origen remitirá al de
+destino, y a petición de éste, el historial académico de bachillerato y, en
+su caso, el informe personal por traslado regulado en el artículo 7 de esta
+Orden, acreditando que los datos que contiene concuerdan con el expe-
+diente académico que guarda el centro. El centro receptor se hará cargo
+de la custodia del historial académico y abrirá el correspondiente expe-
+diente académico del alumno, al que trasladará los datos a que se refiere
+el artículo 6 de la presente Orden.
+2. En el momento del traslado y para permitir la adecuada inscripción
+en el centro de destino en tanto se reciba la documentación pertinente, el
+alumno deberá solicitar del centro de origen una certificación, según
+modelo que figura en el Anexo VI de esta Orden, en la que consten los
+estudios que realiza o ha realizado en ese año académico.
+3. La matriculación del alumno adquirirá carácter definitivo a partir de la
+recepción del historial académico del alumno debidamente cumplimentado.
+4. El traslado de los historiales académicos de bachillerato de los
+alumnos de centros privados deberá efectuarse a través del instituto de
+enseñanza secundaria al que estén adscritos, adjuntando el historial aca-
+démico y la certificación que se recoge en el Anexo VII.
+5. Cuando un alumno se incorpore a un centro extranjero, en España
+o en el exterior, que no imparta enseñanzas del sistema educativo espa-
+ñol, no se trasladará a éste el historial académico de bachillerato. En este
+caso, el centro de origen emitirá una certificación académica completa y
+custodiará el historial académico hasta su reincorporación a las enseñan-
+zas del sistema educativo español o hasta su entrega al alumno tras la
+conclusión de los estudios extranjeros equivalentes a bachillerato. En el
+caso de que se reincorpore a un centro distinto al de origen, se procederá
+según lo establecido en el apartado 1.
+Artículo 9.– Proceso de evaluación de los alumnos.
+1. La evaluación se realizará por el equipo docente, constituido por el
+conjunto de profesores de cada grupo de alumnos, que actuarán de mane-
+ra colegiada, coordinados por el profesor tutor y asesorados, en su caso,
+por el departamento de orientación del centro, en la adopción de las deci-
+siones resultantes del proceso evaluador.
+2. La calificación de cada materia será responsabilidad del profesor
+que la imparte, quien decidirá al término del curso si el alumnado ha
+superado los objetivos de la misma. 
+3. Las sesiones de evaluación serán un mínimo de tres, una por tri-
+mestre, y en ellas se cumplimentará el acta de evaluación, donde se harán
+constar las calificaciones de cada alumno en cada materia. Estas califica-
+ciones serán tenidas en cuenta en la evaluación final para no perder el
+referente de la evaluación continua. La última sesión se entenderá como
+la de evaluación final ordinaria del curso. 
+4. En las sesiones de evaluación se acordará, también, la información
+que el tutor deba transmitir por escrito a los alumnos y a las familias
+sobre el resultado del proceso de aprendizaje seguido y las actividades
+realizadas que incluirá, en todo caso, una valoración sobre la adecuación
+del rendimiento a las capacidades y posibilidades del alumno con indica-
+ción de las medidas educativas propuestas por el equipo docente para
+contribuir a que el alumno alcance los objetivos de dichas materias. 
+5. El tutor de cada grupo emitirá un informe del desarrollo de las
+sesiones de evaluación en el que se hagan constar los acuerdos y las deci-
+siones adoptadas.
+6. Con el fin de facilitar a los alumnos la recuperación de las materias
+con evaluación negativa en la convocatoria ordinaria de junio, los centros
+organizarán la oportuna prueba extraordinaria en el período que determi-
+ne la Orden por la que se establezca el calendario escolar.
+7. La superación de las materias de segundo curso que sean de carác-
+ter progresivo estará condicionada a la evaluación positiva de las corres-
+pondientes de primero, según las correspondencias indicadas en el Anexo III
+de la Orden EDU/1061/2008, de 19 de junio, por la que se regula la
+24988
+Lunes, 15 de diciembre 2008
+B.O.C. y L. - N.º 241
+
+implantación y el desarrollo del bachillerato en la Comunidad de Castilla
+y León. Esta circunstancia se consignará en los documentos de evalua-
+ción, en las materias de segundo que correspondan, como Pendiente de
+primero «P1». 
+8. Los alumnos que accedan a segundo curso mediante la correspon-
+diente convalidación o acreditación de los conocimientos necesarios, de
+acuerdo con lo establecido en el artículo 6.9 de la Orden EDU/1061/2008,
+de 19 de junio, no estarán sujetos a la condición indicada en el apartado
+anterior. 
+9. Los resultados de la evaluación se expresarán mediante califica-
+ciones numéricas de cero a diez sin decimales, considerándose negativas
+las calificaciones inferiores a cinco.
+Cuando el alumnado no se presente a la prueba extraordinaria de sep-
+tiembre, se reflejará como No Presentado «NP», que tendrá a todos los
+efectos la consideración de calificación negativa. 
+10. La nota media será la media aritmética de las calificaciones de
+todas las materias cursadas por el alumno, redondeada a la centésima más
+próxima y, en caso de equidistancia, a la superior.
+11. En el caso de alumnos que cursen simultáneamente las enseñan-
+zas de  bachillerato y las profesionales de música o danza, para el cálcu-
+lo de la nota media se estará a lo dispuesto en la normativa vigente.
+12. Con el fin de garantizar el principio de igualdad y la libre concu-
+rrencia, las calificaciones que se hubieran obtenido en la evaluación de
+las enseñanzas de religión no se computarán en la obtención de la nota
+media a efectos de acceso a la Universidad, en las convocatorias para la
+obtención de becas y ayudas al estudio en que deban entrar en concu-
+rrencia los expedientes académicos y en la concesión de la mención
+«Matrícula de Honor».
+13. A aquellos alumnos que hubieran obtenido en el segundo curso de
+bachillerato una nota media igual o superior a nueve se les podrá consig-
+nar la mención «Matrícula de Honor» en los documentos oficiales de eva-
+luación con la expresión «MH». Dicha mención se concederá a uno de
+cada veinte alumnos matriculados en 2.º curso, o fracción superior a 15.
+Si el número de alumnos es inferior a 20 sólo se podrá conceder a un
+alumno. 
+14. El aprendizaje de los alumnos que cursen alguna materia de
+modalidad a través del régimen a distancia o en otro centro, se evaluará
+con respecto a los objetivos marcados y teniendo en cuenta los criterios
+de evaluación determinados en la programación didáctica de dicho cen-
+tro. Una vez finalizado el curso académico, el secretario del centro en el
+que el alumno ha cursado la materia, emitirá y enviará un certificado, con
+el visto bueno del director, en el que figurará la materia cursada y la cali-
+ficación final obtenida. Dicha calificación se reflejará en el acta de este
+centro y surtirá efectos para la promoción del alumno y para la expedi-
+ción del título correspondiente. 
+El secretario incluirá la calificación obtenida en el expediente y en el
+historial académico del alumno mediante las diligencias oportunas, que
+contarán con el visto bueno del director.
+15. Los alumnos procedentes de otras Comunidades Autónomas con
+lengua propia cooficial con el español que deseen continuar sus estudios de
+bachillerato en un centro de esta Comunidad, deberán presentar sus certifi-
+caciones académicas en castellano, según lo establecido en el artículo 36 de
+la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Adminis-
+traciones Públicas y del Procedimiento Administrativo Común.
+La calificación obtenida en la lengua propia cooficial tendrá la misma
+validez, a efectos académicos, que las restantes materias del currículo. No
+obstante, si la calificación de dicha materia hubiera sido negativa, no se
+computará como pendiente ni tendrá efectos académicos.
+16. A los alumnos con problemas graves de audición, visión o motri-
+cidad a los que se hubiera eximido de calificación en determinadas mate-
+rias del currículo se les hará constar esta circunstancia con la expresión
+Exento «EX» en los documentos oficiales de evaluación. En este caso
+deberá incorporarse al expediente una copia de la resolución de la Direc-
+ción General de Planificación, Ordenación e Inspección Educativa por la
+que se autoriza la exención.
+17. A los efectos de convalidación de alguna de las materias cursadas
+para los alumnos que accedan a bachillerato desde los ciclos formativos
+de grado medio se estará a lo dispuesto en los artículos 46 y 50 del Real
+Decreto 1538/2006, de 15 de diciembre, por el que se establece la orde-
+nación general de la formación profesional del sistema educativo.
+18. Los centros podrán determinar los mecanismos para la participa-
+ción de los alumnos en el proceso de evaluación.
+Artículo 10.– Evaluación del proceso de enseñanza.
+1. El profesorado, además de evaluar los aprendizajes de los alumnos,
+evaluará los procesos de enseñanza y su propia práctica docente en rela-
+ción con la consecución de los objetivos del currículo. El plan de evalua-
+ción del proceso de enseñanza y la práctica docente se incorporará al pro-
+yecto educativo e incluirá los momentos en los que ha de realizarse esta
+evaluación y los instrumentos para realizarla.
+2. Los resultados de la evaluación se incluirán en la memoria anual
+del centro. A partir de estos resultados se deberán modificar aquellos
+aspectos de la práctica docente que hayan sido detectados como poco
+adecuados a las características de los alumnos y al contexto socioeconó-
+mico y cultural del centro.
+3. La evaluación del proceso de enseñanza y de la práctica docente
+tendrá en cuenta los resultados de la evaluación del alumnado y deberá
+incluir, al menos, los siguientes elementos:
+a) La organización y aprovechamiento de los recursos del centro.
+b) El carácter de las relaciones entre los distintos sectores de la comu-
+nidad educativa en favor de una adecuada convivencia.
+c) La coordinación entre los órganos y las personas responsables en
+el centro de la planificación y desarrollo de la práctica docente:
+equipo directivo, claustro de profesores, departamentos y tutores.
+d) La aplicación de los criterios de evaluación del aprendizaje.
+e) Las medidas de apoyo empleadas.
+f) Las actividades de orientación educativa y profesional.
+g) La idoneidad de la metodología, así como de los materiales curri-
+culares y didácticos empleados.
+h) La adecuación de la oferta de materias optativas a las necesidades
+educativas de los alumnos.
+i) Las relaciones con los padres o representantes legales.
+Artículo 11.– Promoción.
+1. Al finalizar el primer curso, y como consecuencia del proceso de
+evaluación, el equipo docente de cada grupo adoptará las decisiones
+correspondientes sobre su promoción al segundo curso.
+2. Promocionarán al segundo curso los alumnos que hayan superado
+todas las materias cursadas o tengan evaluación negativa en dos materias
+como máximo.
+3. Los alumnos que no promocionen a segundo curso deberán perma-
+necer un año más en primero, que deberán cursar de nuevo en su totali-
+dad si el número de materias con evaluación negativa es superior a cuatro.
+4. Los alumnos que no promocionen a segundo curso y tengan tres o
+cuatro materias con evaluación negativa podrán optar por repetir el curso
+en su totalidad o por matricularse de las materias de primero con evalua-
+ción negativa y ampliar matrícula. Dicha ampliación se hará con dos
+materias de segundo, si tiene pendientes cuatro de primer curso, o con
+tres materias de segundo, si tiene pendientes tres de primer curso.
+La ampliación de matrícula podrá llevarse a cabo con materias que no
+sean de carácter progresivo, de acuerdo con lo dispuesto en el Anexo III
+de la Orden EDU/1061/2008, de 19 de junio, respecto de materias de pri-
+mero que tenga suspensas, de forma que se garantice la regular asistencia
+a clase.
+5. La matrícula en estas materias de segundo tendrá carácter condi-
+cionado, siendo preciso estar en condiciones de promocionar a segundo
+dentro del curso escolar, en los términos establecidos en el punto 2 de este
+artículo, para que dichas materias puedan ser calificadas. 
+6. En el caso de los alumnos menores de edad, la decisión de repetir
+curso en su integridad o ampliar matrícula con algunas de segundo debe-
+rá ser comunicada al director del centro por los padres o tutores de los
+alumnos al formalizar la matrícula.
+7. Los alumnos que al término del segundo curso tuvieran evaluación
+negativa en algunas materias, podrán matricularse de ellas sin necesidad
+de cursar de nuevo las materias superadas. 
+B.O.C. y L. - N.º 241
+Lunes, 15 de diciembre 2008
+24989
+
+8. Las materias de carácter progresivo, según correspondencias del
+Anexo III de la Orden EDU/1061/2008, de 19 de junio, contabilizarán
+como materias independientes a efectos de repetición. 
+9. Los centros deberán organizar actividades de recuperación para los
+alumnos que promocionen sin haber superado todas las materias, y esta-
+rán orientadas a la superación de las dificultades detectadas y a la eva-
+luación de las materias pendientes.
+Corresponde a los departamentos didácticos asumir las tareas de
+apoyo y evaluación de los alumnos de segundo curso que tengan materias
+pendientes del curso anterior. A este fin propondrán a los alumnos un plan
+anual de trabajo con expresión de los contenidos mínimos exigibles y de
+las actividades recomendadas. 
+Artículo 12.– Titulación.
+1. La titulación de los alumnos que cursen bachillerato se regirá por
+lo dispuesto en el artículo 11 del Decreto 42/2008, de 5 de junio.
+2. Al finalizar el segundo curso de bachillerato, los alumnos que ten-
+gan evaluación positiva en todas las materias de los dos cursos obtendrán
+el título de Bachiller.
+3. El título de Bachiller facultará al alumno para acceder a la educa-
+ción superior, tanto a la enseñanza universitaria como a las enseñanzas
+artísticas superiores, la formación profesional de grado superior, las ense-
+ñanzas profesionales de artes plásticas y diseño de grado superior y las
+enseñanzas deportivas de grado superior. 
+4. De acuerdo con el artículo 11.2 del Decreto 42/2008, de 5 de junio,
+el alumnado que finalice las enseñanzas profesionales de música y de
+danza, obtendrá el título de Bachiller si supera las materias comunes de
+bachillerato. A tales efectos, en el expediente y en el historial académico,
+se hará constar esta circunstancia mediante diligencia del secretario del
+centro con el visto bueno de la dirección del mismo y se agregará al his-
+torial académico la certificación de las calificaciones correspondiente a
+las enseñanzas de música o danza.
+La propuesta de expedición del título quedará condicionada hasta que el
+centro en el que ha cursado las enseñanzas profesionales de música o de danza
+certifique que se han superado todas las materias de dichas enseñanzas.
+DISPOSICIONES ADICIONALES
+Primera.– Autorización para cursar materias en otros centros o en la
+modalidad de distancia.
+1. En desarrollo de lo previsto en el artículo 6.8 de la Orden
+EDU/1061/2008, de 19 de junio, los alumnos podrán cursar alguna mate-
+ria de modalidad en otro centro escolar o a través de la modalidad a dis-
+tancia si la oferta de dichas materias queda limitada en su centro por razo-
+nes organizativas.
+2. Para ello el interesado o sus padres o representantes legales, si éste
+es menor de edad, presentará una solicitud en la Dirección Provincial de
+Educación en la que figurará el nombre del centro al que desea asistir, así
+como la materia de modalidad que desea cursar.
+3. La Dirección Provincial de Educación correspondiente, previo
+informe de la Inspección Educativa, resolverá la solicitud autorizando al
+alumno la asistencia a clase, siempre que haya plaza y el horario sea com-
+patible, en un centro distinto a aquél en el que está matriculado.
+4. La autorización correspondiente se concederá siempre con carácter
+individual.
+5. La Resolución se hará llegar a los dos centros implicados en el
+proceso.
+6. Una vez concedida la autorización, el alumno se someterá al pro-
+ceso de enseñanza establecido en el centro de destino en lo relativo al
+aprendizaje y evaluación de la materia.
+7. En ningún caso podrá autorizarse la asistencia de alumnos de cen-
+tros privados a centros públicos para cursar una materia y viceversa,
+salvo en la modalidad de régimen a distancia.
+Segunda.– Supervisión del proceso de evaluación.
+Corresponde al Área de Inspección Educativa de las Direcciones Pro-
+vinciales de Educación asesorar y supervisar el desarrollo del proceso de
+evaluación y proponer la adopción de las medidas que contribuyan a per-
+feccionarlo. En este sentido, los inspectores asesorarán al equipo directi-
+vo, los profesores y demás responsables de la evaluación, dedicando
+especial atención a la valoración y análisis del proceso de evaluación de
+los alumnos y al cumplimiento de lo dispuesto en esta Orden.
+Tercera.– Alumnado con necesidades educativas especiales.
+La evaluación del alumnado de bachillerato con necesidades educati-
+vas especiales escolarizado en centros ordinarios se regirá, con carácter
+general, por lo dispuesto en la presente Orden.
+Cuarta.– Convalidaciones y exenciones.
+1. En los documentos de evaluación del alumnado que haya convali-
+dado determinadas materias de Bachillerato con asignaturas de las ense-
+ñanzas profesionales de Música y de Danza, se hará constar esta circuns-
+tancia con la expresión «Convalidada» y/o «CV» en cada materia objeto
+de convalidación.
+2. En los documentos de evaluación del alumnado al que se le haya
+concedido la exención de la materia de Educación física por tener simul-
+táneamente la condición de deportista de alto nivel o alto rendimiento o
+por cursar simultáneamente estudios de las enseñanzas profesionales de
+Danza, se hará constar esta circunstancia con la expresión «Exento/a» y/o
+«EX» en dicha materia.
+Quinta.– Correspondencia con otras enseñanzas.
+Para las correspondencias entre materias del bachillerato y otras ense-
+ñanzas, con excepción de las convalidaciones que se mencionan en la dis-
+posición adicional tercera de esta Orden, y para los efectos que sobre la
+materia de Educación Física deba tener la condición de deportista de alto
+nivel y alto rendimiento, a la que se refiere el Real Decreto 971/2007, de
+13 de julio, se estará a lo previsto en la Disposición Adicional séptima del
+Real Decreto 1467/2007, de 2 de noviembre, por el que se establece la
+estructura del bachillerato y se fijan sus enseñanzas mínimas, y las nor-
+mas que lo desarrollen a este respecto. 
+Sexta.– Garantías de seguridad y confidencialidad.
+La obtención y tratamiento de los datos personales del alumnado, y
+en particular los contenidos en los documentos oficiales de evaluación, su
+cesión de unos centros a otros y la adopción de medidas que garanticen
+la seguridad y confidencialidad de dichos datos, se someten a lo dispues-
+to en la legislación vigente en materia de protección de datos de carácter
+personal y en la disposición adicional vigésimo tercera de la Ley Orgánica
+2/2006, de 3 de mayo, de Educación.
+DISPOSICIONES TRANSITORIAS
+Primera.– Calendario de implantación.
+Los centros docentes aplicarán lo previsto en la presente Orden a lo
+largo de los cursos en los que vayan implantándose las nuevas enseñan-
+zas de bachillerato de acuerdo con el Real Decreto 806/2006, de 30 de
+junio, por el que se establece el calendario de aplicación de la nueva orde-
+nación del sistema educativo, establecida por la Ley Orgánica 2/2006, de
+3 de mayo, de Educación.
+Segunda.– Evaluación de las enseñanzas anteriores a la Ley Orgánica
+2/2006, de 3 de mayo, de Educación. 
+1. En el año académico 2008-2009, los alumnos matriculados en
+segundo curso en régimen ordinario y régimen nocturno Modelo B, y los
+matriculados en régimen nocturno Modelo A en los bloques segundo y
+tercero, en ambos casos con o sin materias pendientes, serán evaluados
+según lo establecido en el Decreto 70/2002, de 23 de mayo, por el que se
+establece el currículo de bachillerato en la Comunidad de Castilla y León.
+2. Los alumnos procedentes del régimen ordinario y del régimen noc-
+turno Modelo B que en el curso 2009-2010 hayan cursado Bachillerato de
+planes anteriores al derivado de la Ley Orgánica 2/2006, de 3 de mayo,
+de Educación sin completarlo, serán evaluados conforme al Decreto
+42/2008, de 5 de junio y la presente Orden. 
+3. En el año académico 2009-2010, los alumnos matriculados en régi-
+men nocturno Modelo A en el bloque segundo, con o sin materias pen-
+dientes del primer bloque, serán evaluados según lo establecido en el
+Decreto 42/2008, de 5 de junio y la presente Orden.
+24990
+Lunes, 15 de diciembre 2008
+B.O.C. y L. - N.º 241
+
+4. En el año académico 2009-2010, los alumnos matriculados en régi-
+men nocturno Modelo A en el bloque tercero, con o sin materias pen-
+dientes de bloques anteriores, serán evaluados según lo establecido en el
+Decreto 70/2002, de 23 de mayo. 
+5. Los alumnos que en el curso 2010-2011 hayan cursado Bachillerato
+de planes anteriores al derivado de la Ley Orgánica 2/2006, de 3 de mayo,
+de Educación sin completarlo, serán evaluados conforme al Decreto 42/2008,
+de 5 de junio, y la presente Orden. 
+DISPOSICIÓN DEROGATORIA
+Derogación normativa.– Quedan derogadas cuantas disposiciones o
+normas se opongan a lo dispuesto en la presente Orden.
+DISPOSICIONES FINALES
+Primera.– Desarrollo normativo.
+Se faculta al titular de la Dirección General de Planificación, Orde-
+nación e Inspección Educativa a dictar cuantas disposiciones sean preci-
+sas para el desarrollo y ejecución de lo dispuesto en esta Orden.
+Segunda.– Entrada en vigor.
+La presente Orden entrará en vigor el día siguiente al de su publica-
+ción en el «Boletín Oficial de Castilla y León».
+Valladolid, 10 de diciembre de 2008.
+El Consejero,
+Fdo.: JUAN JOSÉ MATEOS OTERO
+B.O.C. y L. - N.º 241
+Lunes, 15 de diciembre 2008
+24991

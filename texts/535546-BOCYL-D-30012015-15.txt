@@ -1,0 +1,331 @@
+Boletín Oficial de Castilla y León
+Núm. 20
+Pág. 6701
+Viernes, 30 de enero de 2015
+I. COMUNIDAD DE CASTILLA Y LEÓN
+C. OTRAS DISPOSICIONES
+CONSEJERÍA DE EDUCACIÓN
+RESOLUCIÓN de 22 de enero de 2015, de la Dirección General de Política Educativa 
+Escolar, por la que se establecen las actuaciones que se deben llevar a cabo para la 
+implantación del Código de Identificación Escolar en centros docentes y entidades, cuya 
+titularidad no corresponde a la consejería competente en materia de educación.
+Mediante la Orden EDU/12/2015, de 12 de enero, se crea y regula el Código de 
+Identificación Escolar de los alumnos de enseñanzas no universitarias en la Comunidad 
+de Castilla y León.
+La citada orden, en el artículo 5.1, establece que el Código de Identificación Escolar 
+se asignará a cada alumno por la consejería competente en materia de educación, en la 
+forma que al efecto se determine, cuando se efectúe su primera matriculación en alguno 
+de los centros docentes o entidades de referencia, siendo éstos, según lo indicado en el 
+apartado 3 del mismo artículo, los que han de llevar a cabo todas las actuaciones necesarias 
+para que todos los alumnos matriculados en alguna de las enseñanzas incluidas en el 
+ámbito de aplicación de dicha Orden dispongan de un Código de Identificación Escolar.
+En atención a lo indicado y en uso de las competencias atribuidas por la disposición 
+final primera de la Orden EDU/12/2015, de 12 de enero
+RESUELVO
+Primero.– Objeto y ámbito de aplicación.
+La presente resolución tiene por objeto establecer las actuaciones que se deben 
+llevar a cabo para la implantación del Código de Identificación Escolar (en adelante CIE) por 
+los centros docentes privados, los públicos cuya titularidad no corresponda a la consejería 
+competente en materia de educación, y por las entidades a las que se refiere el artículo 2.2 
+de la Orden EDU/12/2015, de 12 de enero, por la que se crea y regula el Código de 
+Identificación Escolar de los alumnos de enseñanzas no universitarias en la Comunidad 
+de Castilla y León.
+Segundo.– Información de los ficheros de alumnos.
+1. Los centros y entidades, incluidos en el ámbito de aplicación de esta resolución, 
+velarán por que los ficheros de alumnos de sus aplicaciones de gestión académica 
+contengan la información necesaria para la generación del Código de Identificación 
+Escolar, y por la calidad de los datos contenidos en las mismas conforme a lo dispuesto en 
+el artículo 4.1 de la Orden EDU/12/2015, de 12 de enero.
+CV: BOCYL-D-30012015-15
+
+Boletín Oficial de Castilla y León
+Núm. 20
+Pág. 6702
+Viernes, 30 de enero de 2015
+2. Asimismo incluirán el Código de Identificación Escolar en la información personal 
+del alumno y velarán por que se encuentre cumplimentado de forma correcta para todos 
+los alumnos del centro matriculados en alguna de las enseñanzas que se encuentran en 
+el ámbito de aplicación la Orden EDU/12/2015, de 12 de enero de modo que se pueda 
+incorporar a los documentos establecidos en el artículo 5.2 de la citada orden.
+Tercero.– Proceso de asignación del CIE.
+1. El proceso de asignación del CIE se llevará a cabo mediante la aplicación 
+informática web para la gestión del Código de Identificación Escolar disponible en 
+«Stilus enseña», accesible desde el portal de educación de la Junta de Castilla y León 
+(http://www.educa.jcyl.es).
+2. El proceso de asignación constará de las siguientes fases:
+a)	Carga de alumnos candidatos. Los centros incorporarán al módulo web de 
+«Consulta y Asignación de Código de Identificación Escolar» de la aplicación 
+informática, los ficheros con la relación de sus alumnos candidatos. Dichos ficheros 
+incluirán los datos establecidos en el artículo 4.1 de la Orden EDU/12/2015, de 
+12 de enero y se ajustarán a alguno de los formatos de intercambio que figuran 
+como Anexos I y II.
+b)	Asignación automática de Códigos de Identificación Escolar provisionales. Una vez 
+incorporados los alumnos candidatos a obtener Código de Identificación Escolar, 
+se ejecutará el proceso automático de asignación de Código de Identificación 
+Escolar.
+c)	 Resolución de duplicados y colisiones. El centro resolverá manualmente en la 
+aplicación los duplicados y colisiones que eventualmente se puedan producir.
+d)	Asignación de Códigos de Identificación Escolar definitivos a los alumnos. 
+Finalizado el proceso de asignación será posible mediante la aplicación generar 
+ficheros de exportación en cualquiera de los formatos que aparecen en los 
+Anexos I y II, con el objeto de que los centros puedan incorporarlos en sus 
+aplicaciones informáticas de gestión académica.
+Cuarto.– Adaptación de las aplicaciones de gestión académica.
+La consejería competente en materia de educación proporcionará a las empresas 
+que desarrollan y mantienen las aplicaciones informáticas de gestión académica de los 
+centros y entidades, incluidos en el ámbito de aplicación de esta resolución, la información 
+técnica que les permitirá automatizar en lo posible estos procesos.
+Quinto.– Calendario para la asignación del CIE.
+1. En los centros y entidades, incluidos en el ámbito de aplicación de esta resolución, 
+la asignación del Código de Identificación Escolar se iniciará con los alumnos matriculados 
+en el curso 2014-15.
+A tal efecto, la aplicación web para la gestión del Código de Identificación Escolar 
+estará disponible permanentemente a partir del 5 de febrero de 2015 en el portal de 
+educación de la Junta de Castilla y León (http://www.educa.jcyl.es).
+CV: BOCYL-D-30012015-15
+
+Boletín Oficial de Castilla y León
+Núm. 20
+Pág. 6703
+Viernes, 30 de enero de 2015
+2. El proceso de asignación descrito en el apartado tercero, podrá repetirse a lo largo 
+de un curso académico tantas veces como sea necesario hasta lograr la identificación de 
+todos los alumnos matriculados en el centro.
+Sexto.– Eficacia.
+La presente resolución surtirá efectos desde el día siguiente al de su publicación en 
+el «Boletín Oficial de Castilla y León».
+Contra la presente resolución, que no agota la vía administrativa, cabe interponer 
+recurso de alzada ante el titular de la consejería competente en materia de educación en el 
+plazo de un mes a contar desde el día siguiente al de su publicación en el «Boletín Oficial 
+de Castilla y León», en los términos establecidos en el artículo 114 de la Ley 30/1992, de 
+26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento 
+Administrativo Común.
+Valladolid, 22 de enero de 2015.
+El Director General 
+de Política Educativa Escolar,
+Fdo.: Fernando Sánchez-Pascuala Neira
+CV: BOCYL-D-30012015-15
+
+Boletín Oficial de Castilla y León
+Núm. 20
+Pág. 6704
+Viernes, 30 de enero de 2015
+ANEXO I
+Formato Fichero de Intercambio Excel
+La estructura del fichero de intercambio de candidatos en formato Excel presenta las 
+siguientes columnas:
+Cabecera
+Tipo
+Tamaño
+Obligatorio
+Descripción
+1
+CodigoCentro
+Alfanumérico
+8
+Si
+Código del centro educativo
+2
+CursoAcademico
+Numérico
+4
+Si
+Año de inicio del curso académico
+3
+IdOrigen
+Alfanumérico
+15
+No
+Identificador de la matrícula en el sistema origen
+4
+Nombre
+Alfabético
+30
+Si
+Nombre del alumno candidato
+5
+Apellido1
+Alfabético
+30
+Si
+Apellido1 del alumno candidato
+6
+Apellido2
+Alfabético
+30
+No
+Apellido 2 del alumno candidato
+7
+NIFNIE
+Alfanumérico
+9
+No
+NIF/NIE del alumno candidato
+8
+FechaNacimiento
+Fecha
+10
+Si
+Fecha de nacimiento del alumno candidato [DD/MM/YYYY]
+9
+Sexo
+Alfabético
+1
+Si
+Sexo del alumno candidato [V – Varón, M – Mujer]
+10
+Tutor1NIFNIE
+Alfanumérico
+9
+No
+NIF/NIE del primer tutor legal del alumno candidato
+11
+NombreTutor1
+Alfabético
+30
+No
+Nombre del primer tutor legal del alumno candidato
+12
+Apellido1Tutor1
+Alfabético
+30
+No
+Apellido1 del primer tutor legal del alumno candidato
+13
+Apellido2Tutor1
+Alfabético
+30
+No
+Apellido2 del primer tutor legal del alumno candidato
+14
+NIFNIETutor2
+Alfanumérico
+9
+No
+NIF/NIE del segundo tutor legal del alumno candidato
+15
+NombreTutor2
+Alfabético
+30
+No
+Nombre del segundo tutor legal del alumno candidato
+16
+Apellido1Tutor2
+Alfabético
+30
+No
+Apellido1 del segundo tutor legal del alumno candidato
+17
+Apellido2Tutor2
+Alfabético
+30
+No
+Apellido2 del segundo tutor legal del alumno candidato
+18
+CIE
+Alfanumérico
+16
+No
+CIE asignado al alumno candidato
+19
+FechaAsignacion
+Fecha
+10
+No
+Fecha de asignación del CIE. [DD/MM/YYYY]
+20
+CodProceso
+Numérico
+15
+No
+Identificador del proceso interno en el que se asignó el CIE
+Los tres últimos campos no han de estar cumplimentados en el caso de ficheros generados para cargar inicialmente los candidatos en un determinado 
+proceso de identificación. Son valores que se obtienen como resultado del proceso de identificación para cada uno de los candidatos y que estarán 
+cumplimentados en las exportaciones de datos que se realicen en este formato desde la aplicación Web de gestión del Código de Identificación Escolar.
+CV: BOCYL-D-30012015-15
+
+Boletín Oficial de Castilla y León
+Núm. 20
+http://bocyl.jcyl.es
+D.L.: BU 10-1979 - ISSN 1989-8959
+Pág. 6705
+Viernes, 30 de enero de 2015
+La estructura del fichero de intercambio en formato XML es la siguiente:
+códigoCentro
+cursoAcadémico
+idOrigen
+nombre
+Centro
+apellido 1
+apellido 2
+nifNIE
+fechaNacimiento
+sexo
+candidato
+1…∞
+nifNIETutor
+nombreTutor
+tutor
+apellido1Tutor
+apellido2Tutor
+cie
+fechaAsignación
+procesoIdentificación
+Obligatorio. Formato alfanumérico de 8 
+caracteres correspondientes a 8 dígitos con 
+el código del centro educativo  
+Obligatorio. 4 dígitos correspondientes al año de inicio del curso académico 
+en el que se produce la identificación del alumno candidato
+NO obligatorio. Formato alfanumérico para introducir el código del alumno 
+candidato en el sistema origen. Para facilitar importaciones posteriores del 
+CIE asisgnado al candidato
+Obligatorio. Formato alfanumérico de 30 caracteres con el nombre del 
+alumno candidato
+Elemento de grupo correspondiente al 
+centro educativo al que pertenecen los 
+alumnos candidatos a obtener Código de 
+Identificación Escolar CIE
+ANEXO II
+ Formato Fichero de intercambio XML
+Elemento de grupo con los alumnos del 
+centro educativo candidatos a obtener 
+Código de Identificación Escolar CIE 
+NO Obligatorio. Con el código del proceso 
+interno en el que se asignó CIE al candidato. 
+Vacío para candidatos que todavía no disponen 
+de CIE.
+Obligatorio. Formato alfanumérico de 9 
+caracteres con el NIF o  NIE del tutor legal del 
+alumno candidato
+Obligatorio. Formato alfanumérico de 30 
+caracteres con el nombre del tutor legal del 
+alumno candidato
+Obligatorio. Formato alfanumérico de 30 
+caracteres con el  primer apellido del tutor 
+legal del alumno candidato
+NO Obligatorio. Formato alfanumérico de 30 
+caracteres con el segundo apellido del tutor 
+legal del alumno candidato
+                                                0..2
+Elemento de grupo con los tutores legales del 
+alumno candidato
+NO Obligatorio. Formato alfanumérico de 16 
+caracteres con el CIE asignado al candidato. 
+Vacío para candidatos que todavía  no 
+disponen de CIE.
+NO Obligatorio. Fecha de asignación del CIE. 
+Vacío para candidatos que todavía no disponen 
+de CIE. [YYYY-MM-DD]
+Obligatorio. Formato alfanumérico de 30 caracteres con el primer apellido 
+del alumno candidato
+NO Obligatorio. Formato alfanumérico de 30 caracteres con el segundo 
+apellido del alumno candidato
+NO Obligatorio. Formato alfanumérico de 9 caracteres. Sólo se contempla 
+como tipos de documento NIF o NIE
+Obligatorio. Con la fecha de nacimiento del alumno candidato
+ {YYYY-MM-DD}
+Obligatorio. Formato alfabético de 1 carácter con el sexo del alumno 
+candidato. Los valores posibles son:
+V- Varón 
+M-Mujer
+CV: BOCYL-D-30012015-15

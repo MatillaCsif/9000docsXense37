@@ -1,0 +1,1993 @@
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 57961
+Miércoles, 20 de julio de 2011
+I. COMUNIDAD DE CASTILLA Y LEÓN
+A. DISPOSICIONES GENERALES
+CONSEJERÍA DE EDUCACIÓN
+DECRETO 43/2011, de 14 de julio, por el que se establece el currículo correspondiente 
+al título de Técnico Superior en Desarrollo de Aplicaciones Web en la Comunidad de 
+Castilla y León.
+El artículo 73.1 del Estatuto de Autonomía de Castilla y León, atribuye a la Comunidad 
+de Castilla y León la competencia de desarrollo legislativo y ejecución de la enseñanza 
+en toda su extensión, niveles y grados, modalidades y especialidades, de acuerdo con 
+el derecho a la educación que todos los ciudadanos tienen, según lo establecido en el 
+artículo 27 de la Constitución Española y las leyes orgánicas que lo desarrollan.
+La Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación 
+Profesional, establece en el artículo 10.1 que la Administración General del Estado, 
+determinará los títulos y los certificados de profesionalidad, que constituirán las ofertas de 
+formación profesional referidas al Catálogo Nacional de Cualificaciones Profesionales.
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación, determina en su artículo 39.6 
+que el Gobierno, establecerá las titulaciones correspondientes a los estudios de formación 
+profesional, así como los aspectos básicos del currículo de cada una de ellas.
+El Real Decreto 1538/2006, de 15 de diciembre, por el que se establece la 
+ordenación general de la formación profesional del sistema educativo define en el 
+artículo 6, la estructura de los títulos de formación profesional, tomando como base el 
+Catálogo Nacional de Cualificaciones Profesionales, las directrices fijadas por la Unión 
+Europea y otros aspectos de interés social. El artículo 7 concreta el perfil profesional 
+de dichos títulos, que incluirá la competencia general, las competencias profesionales, 
+personales y sociales, las cualificaciones y, en su caso, las unidades de competencia 
+del Catálogo Nacional de Cualificaciones Profesionales incluidas en los títulos.
+Por otro lado, el artículo 17 del Real Decreto 1538/2006, de 15 de diciembre, dispone 
+que las Administraciones educativas establecerán los currículos de las enseñanzas de 
+formación profesional respetando lo en él dispuesto y en las normas que regulen los títulos 
+respectivos.
+Posteriormente, el Real Decreto 686/2010, de 20 de mayo, establece el título de 
+Técnico Superior en Desarrollo de Aplicaciones Web y fija sus enseñanzas mínimas.
+El presente Decreto establece el currículo correspondiente al título de Técnico 
+Superior en Desarrollo de Aplicaciones Web en la Comunidad de Castilla y León, teniendo 
+en cuenta los principios generales que han de orientar la actividad educativa, según lo 
+previsto en el artículo 1 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación. Pretende 
+dar respuesta a las necesidades generales de cualificación de los recursos humanos para 
+su incorporación a la estructura productiva de la Comunidad de Castilla y León.
+CV: BOCYL-D-20072011-1
+
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 57962
+Miércoles, 20 de julio de 2011
+En el proceso de elaboración de este Decreto se ha recabado dictamen del Consejo 
+Escolar de Castilla y León e informe del Consejo de Formación Profesional de Castilla y 
+León.
+En su virtud, la Junta de Castilla y León, a propuesta del Consejero de Educación, y 
+previa deliberación del Consejo de Gobierno en su reunión de 14 de julio de 2011
+DISPONE
+Artículo 1.– Objeto y ámbito de aplicación.
+El presente Decreto tiene por objeto establecer el currículo del título de Técnico 
+Superior en Desarrollo de Aplicaciones Web en la Comunidad de Castilla y León.
+Artículo 2.– Identificación del título.
+El título de Técnico Superior en Desarrollo de Aplicaciones Web queda identificado, 
+en la Comunidad de Castilla y León por los elementos determinados en el artículo 2 del 
+Real Decreto 686/2010, de 20 de mayo, por el que se establece el citado título y fija sus 
+enseñanzas mínimas, y por un código, de la forma siguiente:
+	
+FAMILIA PROFESIONAL: Informática y Comunicaciones.
+	
+DENOMINACIÓN: Desarrollo de Aplicaciones Web.
+	
+NIVEL: Formación Profesional de Grado Superior.
+	
+DURACIÓN: 2.000 horas.
+	
+REFERENTE EUROPEO: CINE-5b (Clasificación Internacional Normalizada de 
+la Educación).
+	
+CÓDIGO: IFC03S.
+Artículo 3.– Referentes de la formación.
+1. Los aspectos relativos al perfil profesional del título de Técnico Superior en 
+Desarrollo de Aplicaciones Web determinado por la competencia general, por las 
+competencias profesionales, personales y sociales, y por la relación de cualificaciones y 
+unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas 
+en el título, así como los aspectos referentes al entorno profesional y la prospectiva del 
+título en el sector o sectores, son los que se especifican en el Real Decreto 686/2010, de 
+20 de mayo.
+2. El aspecto relativo al entorno productivo en Castilla y León es el que se especifica 
+en el Anexo I.
+Artículo 4.– Objetivos generales.
+Los objetivos generales del ciclo formativo de Técnico Superior en Desarrollo de 
+Aplicaciones Web son los establecidos en el artículo 9 del Real Decreto 686/2010, de 20 
+de mayo.
+CV: BOCYL-D-20072011-1
+
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 57963
+Miércoles, 20 de julio de 2011
+Artículo 5.– Principios metodológicos generales.
+1. La metodología didáctica de las enseñanzas de formación profesional integrará 
+los aspectos científicos, tecnológicos y organizativos que en cada caso correspondan, con 
+el fin de que el alumnado adquiera una visión global de los procesos productivos propios 
+de la actividad profesional correspondiente.
+2. Las enseñanzas de formación profesional para personas adultas se organizarán 
+con una metodología flexible y abierta, basada en el autoaprendizaje.
+Artículo 6.– Módulos profesionales del ciclo formativo.
+Los módulos profesionales que componen el ciclo formativo de Técnico Superior en 
+Desarrollo de Aplicaciones Web son los establecidos en el artículo 10 del Real Decreto 
+686/2010, de 20 de mayo:
+0483.	
+Sistemas informáticos.
+0484.	
+Bases de datos.
+0485.	
+Programación.
+0373.	
+Lenguajes de marcas y sistemas de gestión de información.
+0487.	
+Entornos de desarrollo.
+0612.	
+Desarrollo web en entorno cliente.
+0613.	
+Desarrollo web en entorno servidor.
+0614.	
+Despliegue de aplicaciones web.
+0615.	
+Diseño de interfaces WEB.
+0616.	
+Proyecto de desarrollo de aplicaciones web.
+0617.	
+Formación y orientación laboral.
+0618.	
+Empresa e iniciativa emprendedora.
+0619.	
+Formación en centros de trabajo.
+Artículo 7.– Objetivos, contenidos, duración y orientaciones pedagógicas y 
+metodológicas de cada módulo profesional.
+Los objetivos de los módulos profesionales relacionados en el artículo 6, expresados 
+en términos de resultados de aprendizaje, y los criterios de evaluación, son los establecidos 
+en el Real Decreto 686/2010, de 20 de mayo.
+Por su parte, los contenidos, la duración y las orientaciones pedagógicas y 
+metodológicas de los módulos profesionales «Sistemas informáticos», «Bases de datos», 
+«Programación», «Lenguajes de marcas y sistemas de gestión de información», «Entornos 
+de desarrollo», «Desarrollo web en entorno cliente», «Desarrollo web en entorno servidor», 
+«Despliegue de aplicaciones web», «Diseño de interfaces web», «Formación y orientación 
+CV: BOCYL-D-20072011-1
+
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 57964
+Miércoles, 20 de julio de 2011
+laboral» y «Empresa e iniciativa emprendedora», son los que se establecen en el Anexo II. 
+Asimismo, en el citado Anexo se establece la duración y las orientaciones pedagógicas y 
+metodológicas del módulo profesional «Proyecto de desarrollo de aplicaciones web», así 
+como la duración del módulo profesional «Formación en centros de trabajo».
+Artículo 8.– Módulos profesionales de «Formación en centros de trabajo» y «Proyecto 
+de desarrollo de aplicaciones web».
+1. El programa formativo del módulo profesional de «Formación en centros de 
+trabajo» será individualizado para cada alumno y se elaborará teniendo en cuenta las 
+características del centro de trabajo. Deberá recoger las actividades formativas que permitan 
+ejecutar o completar la competencia profesional correspondiente al título, los resultados 
+de aprendizaje y los criterios de evaluación previstos en el Real Decreto 686/2010, de 20 
+de mayo.
+2. El módulo profesional de «Proyecto de desarrollo de aplicaciones web» se definirá 
+de acuerdo con las características de la actividad laboral del ámbito del ciclo formativo y 
+con aspectos relativos al ejercicio profesional y a la gestión empresarial. Tendrá por objeto 
+la integración de las diversas capacidades y conocimientos del currículo del ciclo formativo, 
+contemplará las variables tecnológicas y organizativas relacionadas con el título, y deberá 
+ajustarse a los resultados de aprendizaje y criterios de evaluación previstos en el Real 
+Decreto 686/2010, de 20 de mayo.
+El departamento de la familia profesional de Informática y Comunicaciones 
+determinará, en el marco de la programación general anual, los proyectos que se propondrán 
+para su desarrollo por el alumnado. Los proyectos también podrán ser propuestos por el 
+alumnado, en cuyo caso se requerirá la aceptación del departamento.
+Con carácter general, el módulo profesional de «Proyecto de desarrollo de aplicaciones 
+web» se desarrollará simultáneamente al módulo de «Formación en centros de trabajo», 
+salvo que concurran otras circunstancias que no lo permitan.
+El módulo profesional de «Proyecto de Desarrollo de aplicaciones web» puede ser 
+equivalente con el desarrollo de un Proyecto de Innovación, en el que participe el alumno, 
+cuando tenga un componente integrador de los contenidos de los módulos profesionales 
+que constituyen el ciclo formativo.
+Artículo 9.– Organización y distribución horaria. 
+1. Los módulos profesionales que forman las enseñanzas del ciclo formativo 
+de Técnico Superior en Desarrollo de Aplicaciones Web se organizan en dos cursos 
+académicos. Su distribución en cada uno de ellos y la asignación horaria semanal se 
+recoge en el Anexo III.
+2. El período de realización del módulo profesional de «Formación en centros de 
+trabajo» establecido en el Anexo III para el tercer trimestre, podrá comenzar en el segundo 
+trimestre si han transcurrido veintidós semanas lectivas a contar desde el inicio del curso 
+escolar.
+Artículo 10.– Adaptaciones curriculares.
+1. Con objeto de ofrecer a todas las personas la oportunidad de adquirir una formación 
+básica, ampliar y renovar sus conocimientos, habilidades y destrezas de modo permanente 
+y facilitar el acceso a las enseñanzas de formación profesional, la Consejería competente 
+CV: BOCYL-D-20072011-1
+
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 57965
+Miércoles, 20 de julio de 2011
+en materia de educación podrá flexibilizar la oferta del ciclo formativo de Técnico Superior 
+en Desarrollo de Aplicaciones Web permitiendo, principalmente a los adultos, la posibilidad 
+de combinar el estudio y la formación con la actividad laboral o con otras actividades, 
+respondiendo así a las necesidades e intereses personales.
+2. También se podrá adecuar las enseñanzas de este ciclo formativo a las 
+características de la educación a distancia, así como a las características de los alumnos 
+con necesidades educativas específicas.
+Artículo 11.– Accesos y vinculación a otros estudios, y correspondencia de módulos 
+profesionales con las unidades de competencia.
+El acceso y vinculación a otros estudios, y la correspondencia de los módulos 
+profesionales con las unidades de competencia son los que se establecen en el capítulo IV 
+del Real Decreto 686/2010, de 20 de mayo.
+Artículo 12.– Enseñanzas impartidas en lenguas extranjeras o en lenguas cooficiales 
+de otras Comunidades Autónomas.
+1. Teniendo en cuenta que la promoción de la enseñanza y el aprendizaje de lenguas 
+y de la diversidad lingüística debe constituir una prioridad de la acción comunitaria en el 
+ámbito de la educación y la formación, la Consejería competente en materia de educación 
+podrá autorizar que todos o determinados módulos profesionales del currículo se impartan 
+en lenguas extranjeras o en lenguas cooficiales de otra Comunidad Autónoma, sin perjuicio 
+de lo que se establezca en su normativa específica y sin que ello suponga modificación del 
+currículo establecido en el presente Decreto.
+2. Los centros autorizados deberán incluir en su proyecto educativo los elementos 
+más significativos de su proyecto lingüístico autorizado.
+Artículo 13.– Oferta a distancia del título.
+1. Los módulos profesionales que forman las enseñanzas del ciclo formativo de 
+Técnico Superior en Desarrollo de Aplicaciones Web podrán ofertarse a distancia, siempre 
+que se garantice que el alumno puede conseguir los resultados de aprendizaje de los 
+mismos, de acuerdo con lo dispuesto en el Real Decreto 686/2010, de 20 de mayo, y en 
+este Decreto.
+2. La Consejería competente en materia de educación establecerá los módulos 
+profesionales susceptibles de ser impartidos a distancia y el porcentaje de horas de cada 
+uno de ellos que tienen que impartirse en régimen presencial.
+Artículo 14.– Requisitos de los centros para impartir estas enseñanzas.
+Todos los centros de titularidad pública o privada que ofrezcan enseñanzas 
+conducentes a la obtención del título de Técnico Superior en Desarrollo de Aplicaciones 
+Web se ajustarán a lo establecido en la Ley Orgánica 2/2006, de 3 de mayo, de Educación 
+y en las normas que lo desarrollen, y en todo caso, deberán cumplir los requisitos que se 
+establecen en el artículo 52 del Real Decreto 1538/2006, de 15 de diciembre, por el que 
+se establece la ordenación general de la formación profesional del sistema educativo, 
+en el Real Decreto 686/2010, de 20 de mayo, en este Decreto y en lo establecido en el 
+desarrollo de su propia normativa.
+CV: BOCYL-D-20072011-1
+
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 57966
+Miércoles, 20 de julio de 2011
+Artículo 15.– Profesorado.
+Los aspectos referentes al profesorado con atribución docente en los módulos 
+profesionales del ciclo formativo de Técnico Superior en Desarrollo de Aplicaciones Web, 
+relacionados en el artículo 6, son los establecidos en el artículo 12 del Real Decreto 
+686/2010, de 20 de mayo.
+Artículo 16.– Espacios y equipamientos.
+Los espacios y equipamientos necesarios para el desarrollo de las enseñanzas del 
+ciclo formativo de Técnico Superior en Desarrollo de Aplicaciones Web son los establecidos 
+en el artículo 11 del Real Decreto 686/2010, de 20 de mayo.
+Artículo 17.– Autonomía de los centros.
+1. Los centros educativos dispondrán de la necesaria autonomía pedagógica, de 
+organización y de gestión económica, para el desarrollo de las enseñanzas y su adaptación 
+a las características concretas del entorno socioeconómico, cultural y profesional. Los 
+centros autorizados para impartir el ciclo formativo concretarán y desarrollarán el currículo 
+mediante las programaciones didácticas de cada uno de los módulos profesionales que 
+componen el ciclo formativo en los términos establecidos en el Real Decreto 686/2010, de 
+20 de mayo, en este Decreto, en el marco general del proyecto educativo de centro y en 
+función de las características de su entorno productivo.
+2. La Consejería competente en materia de educación favorecerá la elaboración de 
+proyectos de innovación, así como de modelos de programación docente y de materiales 
+didácticos que faciliten al profesorado el desarrollo del currículo.
+3. Los centros, en el ejercicio de su autonomía, podrán adoptar experimentaciones, 
+planes de trabajo, formas de organización o ampliación del horario escolar en los términos 
+que establezca la Consejería competente en materia de educación, sin que, en ningún 
+caso, se impongan aportaciones ni exigencias a las familias o al alumnado.
+DISPOSICIONES ADICIONALES
+Primera.– Calendario de implantación.
+La implantación del currículo establecido en este Decreto tendrá lugar en el curso 
+escolar 2011/2012 para el primer curso del ciclo formativo y en el curso escolar 2012/2013 
+para el segundo curso del ciclo formativo.
+Segunda.– Vinculación con capacitaciones profesionales.
+La formación establecida en el presente Decreto en el módulo profesional de 
+«Formación y orientación laboral», incluye un mínimo de 50 horas, que capacita para llevar 
+a cabo responsabilidades profesionales equivalentes a las que precisan las actividades de 
+nivel básico en prevención de riesgos laborales, establecidas en el Real Decreto 39/1997, 
+de 17 de enero, por el que se aprueba el Reglamento de los Servicios de Prevención.
+CV: BOCYL-D-20072011-1
+
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 57967
+Miércoles, 20 de julio de 2011
+Tercera.– Certificación académica de superación del nivel básico en prevención de 
+riesgos laborales.
+La Consejería competente en materia de educación expedirá una certificación 
+académica de la formación de nivel básico en prevención de riesgos laborales, al alumnado 
+que haya superado el bloque B del módulo profesional de «Formación y orientación 
+laboral», de acuerdo con el procedimiento que se establezca al efecto.
+Cuarta.– Equivalencia a efectos de docencia en los procedimientos selectivos de 
+ingreso en el Cuerpo de Profesores Técnicos de Formación Profesional.
+En los procesos selectivos convocados por la Consejería competente en materia de 
+educación, el título de Técnico Superior o de Técnico Especialista se declara equivalente 
+a los exigidos para el acceso al Cuerpo de Profesores Técnicos de Formación Profesional, 
+cuando el titulado haya ejercido como profesor interino en centros educativos públicos 
+dependientes de la citada Consejería y en la especialidad docente a la que pretenda 
+acceder durante un período mínimo de dos años antes del 31 de agosto de 2007.
+Quinta.– Accesibilidad universal en las enseñanzas de este título.
+La Consejería competente en materia de educación adoptará las medidas necesarias 
+para que el alumnado pueda acceder y cursar este ciclo formativo en las condiciones 
+establecidas en la disposición final décima de la Ley 51/2003, de 2 de diciembre, de 
+igualdad de oportunidades, no discriminación y accesibilidad universal de las personas 
+con discapacidad.
+DISPOSICIÓN DEROGATORIA
+Derogación normativa.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo 
+establecido en el presente Decreto.
+DISPOSICIONES FINALES
+Primera.– Desarrollo normativo.
+Se faculta al titular de la Consejería competente en materia de educación para dictar 
+cuantas disposiciones sean precisas para la interpretación, aplicación y desarrollo de lo 
+dispuesto en este Decreto.
+Segunda.– Entrada en vigor.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el 
+«Boletín Oficial de Castilla y León».
+Valladolid, a 14 de julio de 2011.
+El Presidente de la Junta 
+de Castilla y León,
+Fdo.: Juan Vicente Herrera Campo
+El Consejero de Educación,
+Fdo.: Juan José Mateos Otero
+CV: BOCYL-D-20072011-1
+
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 57968
+Miércoles, 20 de julio de 2011
+ANEXO I
+ENTORNO PRODUCTIVO DE CASTILLA Y LEÓN 
+El sector de las Tecnologías de la Información y Comunicación ha experimentado un 
+gran avance en los últimos años en Castilla y León. Está constituido por cerca de 1.000 
+empresas, distribuidas en tres subsectores: telecomunicaciones, informática y servicios 
+audiovisuales.
+Castilla y León cuenta con un 3% del total de las empresas de este tipo en España. 
+La evolución experimentada en los últimos años por este indicador es positiva, destacando 
+el crecimiento de las empresas informáticas.
+Como elementos dinamizadores de la actividad empresarial podemos señalar:
+− La creación de los Parques Tecnológicos de Castilla y León, que constituyen el 
+entorno idóneo para el desarrollo de actividades de este sector (más del 50% de 
+las empresas radicadas en estos parques pertenecen al mismo).
+− La instalación del Centro de Innovación en Movilidad en el Parque Tecnológico 
+de Boecillo.
+− El Centro para el Desarrollo de las Telecomunicaciones de Castilla y León 
+(CEDETEL) y el Instituto Tecnológico de la Junta de Castilla y León (ITCL), ambos 
+pertenecientes a la Red de Centros Tecnológicos de la Junta de Castilla y León.
+− El centro de Supercomputación de Castilla y León y el Instituto Nacional de 
+Tecnologías de la Comunicación (INTECO), ubicados ambos en León.
+− La creación de AEI (Agrupación de Empresas Innovadoras).
+− Desarrollo institucional de iniciativas con objeto de mejorar la productividad y 
+competitividad a partir del uso de las TIC, dirigidas a pymes, micro pymes y 
+autónomos. En este marco destacar el proyecto, impulsado por la Red de 
+Asesores TIC y la Consejería de Fomento, para promover el uso de las TIC 
+entre las empresas de la región, con el objetivo de contribuir a la mejora de 
+su productividad y competitividad, dado su importante peso específico en la 
+economía de la Comunidad Autónoma.
+Por otra parte, la proliferación del uso de las TIC en las empresas de Castilla y 
+León ha motivado un aumento considerable en la demanda de software adaptado a sus 
+necesidades de gestión. La mayoría de estas empresas de la región quedan encuadradas 
+dentro de las pymes y micro pymes, y no disponen de personal especializado en las 
+TIC que garantice una administración y explotación correctas de su software de gestión, 
+teniéndose que adaptar, por tanto, a un sistema outsourcing. Esta adaptación hace que se 
+incremente la necesidad de profesionales en desarrollo de software con un perfil similar al 
+de este ciclo formativo.
+También hay que tener presente el fenómeno del nearshore a nivel Europeo, que ha 
+colocado a Castilla y León como una de las regiones más propicias para la implantación de 
+factorías de software, como lo demuestra el hecho de que alberga varios centros de firmas 
+internacionales destinados a ofrecer servicios a precios más competitivos que en otros 
+lugares de la Comunidad Europea. Este fenómeno no sólo afecta a capitales de provincia, 
+sino también a localidades próximas a éstas que están bien comunicadas y cuentan con 
+buenas infraestructuras para las TIC.
+CV: BOCYL-D-20072011-1
+
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 57969
+Miércoles, 20 de julio de 2011
+ANEXO II
+CONTENIDOS, DURACIÓN Y ORIENTACIONES PEDAGÓGICAS Y METODOLÓGICAS 
+DE LOS MÓDULOS PROFESIONALES
+Módulo profesional: Sistemas informáticos.
+Equivalencia en créditos ECTS: 10.
+Código: 0483.
+Duración: 192 horas.
+Contenidos:
+1.	 Explotación de Sistemas microinformáticos:
+− Componentes de un sistema informático. Elementos y conceptos 
+fundamentales.
+− La información y su representación. Sistemas de numeración y cambios de 
+base. Operaciones lógicas.
+− Unidades funcionales. Unidad central de proceso, Memoria y Buses.
+− Periféricos. Adaptadores para la conexión de dispositivos.
+− Normas de seguridad y prevención de riesgos laborales.
+− Concepto y características de las redes. Ventajas e inconvenientes.
+− Tipos de redes.
+− Componentes de una red informática.
+− Topologías de red.
+− Mapa físico y lógico de una red local.
+− Medios de transmisión. Transmisión alámbrica e inalámbrica.
+− Tipos de cableado. Cableado estructurado. Conectores.
+2.	 Instalación de Sistemas Operativos libres y propietarios:
+− Los sistemas operativos. Concepto y evolución. Conceptos fundamentales.
+− Funciones de un sistema operativo. Arquitectura de un sistema operativo.
+− Tipos de sistemas operativos.
+− Tipos de aplicaciones.
+− Licencias y tipos de licencias.
+CV: BOCYL-D-20072011-1
+
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 57970
+Miércoles, 20 de julio de 2011
+− Máquinas virtuales. Concepto. Tipos. Requisitos. Entornos virtualizados. 
+Instalación, configuración y optimización.
+− Consideraciones previas a la instalación de sistemas operativos libres y 
+propietarios.
+− Instalación de sistemas operativos. Requisitos, versiones y licencias. 
+Tipos de instalaciones. Instalaciones automáticas y en red. Instalación 
+desde diversos dispositivos internos y externos. Otras instalaciones. 
+Instalación modo comando y modo gráfico. Transferencia de configuración. 
+Optimización.
+− Instalación y optimización de sistemas operativos en dispositivos portátiles 
+y móviles.
+− Estructura cliente-servidor. Trabajo en grupo y dominios. Gestión de 
+usuarios y grupos. Recursos compartidos.
+− Instalación/desinstalación de aplicaciones. Requisitos, versiones licencias. 
+Aplicaciones básicas.
+− Actualización de sistemas operativos y aplicaciones. Parches.
+− Opciones de arranque. Ficheros de inicio de sistemas operativos. Registro 
+del sistema. Dispositivos de arranque.
+− Controladores de dispositivos. Instalación, actualización y mantenimiento.
+3.	 Gestión de la información:
+− Sistemas de archivos. Gestión de sistemas de archivos mediante comandos 
+y entornos gráficos. Operaciones con archivos. Gestión de enlaces. 
+Sistemas de archivos en red.
+− Estructura de directorios de sistemas operativos libres y propietarios.
+− Seguridad de archivos y directorios. Permisos y derechos.
+− Búsqueda de información del sistema mediante comandos y herramientas 
+gráficas.
+− Identificación del software instalado mediante comandos y herramientas 
+gráficas.
+− Gestores de arranque. Herramientas de administración de discos. 
+Particiones y volúmenes. Desfragmentación y chequeo. RAIDs.
+− Montar volúmenes en carpetas.
+− Tolerancia a fallos. Recuperación.
+− Copias de seguridad. Tipos. Planes y programación. Imágenes.
+− Tareas automáticas. Archivos de automatización y de órdenes. Estructura 
+del lenguaje.
+CV: BOCYL-D-20072011-1
+
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 57971
+Miércoles, 20 de julio de 2011
+4.	 Configuración de sistemas operativos libres y propietarios:
+− Interface de usuario. Configuración y personalización.
+− Configuración de usuarios y grupos locales. Perfiles y cuentas de usuario. 
+Directivas locales.
+− Usuarios y grupos predeterminados.
+− Seguridad de cuentas de usuario.
+− Seguridad de contraseñas.
+− Acceso a recursos. Permisos locales.
+− Servicios y procesos.
+− Comandos de sistemas libres y propietarios.
+− Herramientas de monitorización del sistema.
+5.	 Conexión de sistemas en red:
+− Protocolos de comunicación. Modelo OSI: funciones y niveles. Arquitectura 
+TCP/IP.
+− Protocolos TCP/IP: Configuración del protocolo TCP/IP en un cliente de red 
+para acceso a redes locales y de área extensa. Direcciones IP. Máscaras 
+de subred. IPv4. IPv6. Configuración estática. Configuración dinámica 
+automática.
+− Ficheros de configuración de red.
+− Gestión de puertos.
+− Verificación del funcionamiento de una red mediante el uso de comandos.
+− Resolución de problemas de conectividad en sistemas operativos en red.
+− Comandos utilizados en sistemas operativos libres y propietarios.
+− Monitorización de redes. Herramientas de diagnóstico.
+− Configuración de los adaptadores de red en sistemas operativos libres y 
+propietarios.
+− Interconexión de redes: adaptadores de red y dispositivos de interconexión. 
+Utilización de los dispositivos de interconexión.
+− Redes cableadas. Tipos y características. Adaptadores de red. 
+Conmutadores, enrutadores, entre otros.
+− Redes inalámbricas. Tipos y características. Adaptadores. Dispositivos de 
+interconexión. Instalación y configuración.
+CV: BOCYL-D-20072011-1
+
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 57972
+Miércoles, 20 de julio de 2011
+− Seguridad de comunicaciones. Seguridad básica en redes cableadas e 
+inalámbricas. Contraseñas y cifrado.
+− Seguridad en la comunicación de redes inalámbricas: tecnologías de 
+autentificación y encriptación.
+6.	 Gestión de recursos en una red:
+− Diferencias entre permisos y derechos. Permisos de red. Permisos locales. 
+Herencia. Permisos efectivos. Delegación de permisos. Listas de control de 
+acceso.
+− Derechos de usuarios. Directivas de seguridad. Objetos de directiva. Ámbito 
+de las directivas. Plantillas.
+− Requisitos de seguridad del sistema y de los datos: Seguridad a nivel de 
+usuarios y seguridad a nivel de equipos.
+− Servidores de ficheros.
+− Servidores de impresión. Colas.
+− Servidores de aplicaciones: Servidor de audio y video. Videoconferencia.
+− Técnicas de conexión remota: conexión a redes virtuales.
+− Cortafuegos.
+− Sistemas de detección de intrusión.
+7.	 Explotación de aplicaciones informáticas de propósito general:
+− Tipos de software.
+− Requisitos del software. Instalación y prueba. Comparación.
+− Utilización de herramientas ofimáticas y multimedia.
+− Utilización de herramientas de Internet de comunicación y búsqueda de 
+información.
+− Utilidades de propósito general: antivirus, recuperación de datos, 
+mantenimiento del sistema, herramientas portables, entre otros.
+Orientaciones pedagógicas y metodológicas.
+El módulo profesional se centra, a nivel básico, en la instalación, configuración, y 
+explotación del software de base de un sistema informático y de una red de área local 
+tanto cableada como inalámbrica en modo local y remoto.
+El desarrollo de los contenidos tendrá, sistemáticamente, una metodología activa, 
+participativa, motivadora y con contenidos actualizados, cuyo esquema habitual será:
+− Comunicación y exposición de conceptos.
+− Desarrollo de supuestos prácticos por parte del profesorado, si procede.
+CV: BOCYL-D-20072011-1
+
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 57973
+Miércoles, 20 de julio de 2011
+− Desarrollo de supuestos prácticos por parte del alumnado, cumpliendo las 
+especificaciones establecidas, los estándares existentes, etc. y con la utilización de 
+documentación técnica obtenida a partir de las diferentes fuentes disponibles.
+− Evaluación de la metodología seguida, del funcionamiento y del nivel de 
+adecuación a las especificaciones y estándares.
+− Elaboración de la documentación necesaria.
+Es imprescindible que el alumnado realice prácticas reales; el uso de simuladores 
+tendrá un carácter complementario con respecto a estas prácticas. Igualmente, es 
+imprescindible incorporar los cambios y novedades que se producen continuamente en el 
+mercado sobre los sistemas operativos y de las redes.
+Las prácticas se realizarán mediante la utilización de software de base, utilidades y 
+aplicaciones tanto libres como propietarias y realizando su implementación en diferentes 
+plataformas y dispositivos. Tanto el software de base, las utilidades y aplicaciones utilizadas 
+como las plataformas y dispositivos deberán de ser las que sean estándares «de facto» 
+en cada momento.
+Módulo profesional: Bases de datos.
+Equivalencia en créditos ECTS: 11.
+Código: 0484.
+Duración: 192 horas.
+Contenidos:
+1.	 Almacenamiento de la información:
+− Ficheros (planos, indexados, acceso directo, entre otros).
+− Bases de datos. Conceptos, usos y tipos según el modelo de datos, la 
+ubicación de la información.
+− Sistemas gestores de base de datos: Funciones, componentes y tipos.
+− Sistemas gestores de bases de datos comerciales y libres.
+− Bases 
+de 
+datos 
+centralizadas 
+y 
+bases 
+de 
+datos 
+distribuidas. 
+Fragmentación.
+2.	 Bases de datos relacionales:
+− Modelo de datos.
+− Terminología del modelo relacional. Relaciones, atributos, tuplas.
+− Características de una relación.
+− Tipos de datos. Rango de valores.
+CV: BOCYL-D-20072011-1
+
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 57974
+Miércoles, 20 de julio de 2011
+− Juegos de caracteres. Criterios de comparación y ordenación.
+− Claves primarias: simples y compuestas.
+− Índices. Características. Aplicaciones prácticas.
+− El valor NULL.
+− Claves ajenas. Integridad referencial.
+− Vistas. Aplicaciones prácticas.
+− Usuarios. Roles. Privilegios.
+− Lenguaje de descripción de datos (DDL). Sentencias. Cláusulas.
+− Lenguaje de control de datos (DCL). Sentencias. Cláusulas.
+3.	 Realización de consultas:
+− Herramientas gráficas proporcionadas por el sistema gestor para la 
+realización de consultas.
+− La sentencia SELECT.
+− Sinónimos.
+− Operadores. Operadores de comparación. Operadores lógicos.
+− Precedencia. Evaluación de expresiones. Operar con el valor NULL.
+− Consultas calculadas.
+− Selección y ordenación de registros.
+− Consultas de resumen. Funciones de agregado. Tratamiento de valores 
+nulos.
+− Agrupamiento de registros. Selección de agrupamientos.
+− Unión de consultas.
+− Composiciones internas. Nombres cualificados.
+− Composiciones externas.
+− Subconsultas. Ubicación de subconsultas. Subconsultas anidadas.
+− Optimización de consultas.
+4.	 Tratamiento de datos:
+− Herramientas gráficas proporcionadas por el sistema gestor para la edición 
+de la información.
+− Inserción de registros. Inserciones a partir de una consulta.
+− Borrado de registros. Modificación de registros.
+− Borrados y modificaciones e integridad referencial. Cambios en cascada.
+CV: BOCYL-D-20072011-1
+
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 57975
+Miércoles, 20 de julio de 2011
+− Subconsultas y composiciones en órdenes de edición.
+− Transacciones. Sentencias de procesamiento de transacciones.
+− Problemas asociados al acceso simultáneo a los datos.
+− Bloqueos compartidos y exclusivos. Granularidad. Políticas de bloqueo.
+5.	 Programación de bases de datos:
+− Introducción. Lenguaje de programación.
+− Palabras reservadas.
+− Variables del sistema y variables de usuario.
+− Comentarios.
+− Funciones.
+− Estructuras de control de flujo. Alternativas simples y múltiples. 
+Iteraciones.
+− Herramientas para creación de guiones; procedimientos de ejecución.
+− Procedimientos almacenados. Funciones de usuario.
+− Subrutinas. Ámbito de una variable.
+− Eventos y disparadores.
+− Excepciones. Tratamiento de excepciones.
+− Cursores. Funciones de tratamiento de cursores.
+− APIS para lenguajes externos.
+6.	 Interpretación de Diagramas Entidad/Relación:
+− Herramientas gráficas para la confección de diagramas Entidad/Relación.
+− Entidades y relaciones. Cardinalidad. Tipo.
+− Simbología de los diagramas E/R.
+− Debilidad.
+− El modelo E/R ampliado. Reflexión. Jerarquía.
+− Paso del diagrama E/R al modelo relacional.
+− Formas normales.
+− Normalización de modelos relacionales.
+CV: BOCYL-D-20072011-1
+
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 57976
+Miércoles, 20 de julio de 2011
+7.	 Uso de bases de datos objeto-relacionales:
+− Características de las bases de datos objeto-relacionales.
+− Tipos de datos objeto; atributos, métodos, sobrecarga, constructores.
+− Definición de tipos de objeto. Definición de métodos.
+− Herencia.
+− Identificadores; referencias.
+− Tablas de objetos y tablas con columnas tipo objeto.
+− Tipos de datos colección.
+− Declaración e inicialización de objetos.
+− Uso de la sentencia Select.
+− Navegación a través de referencias.
+− Invocación a métodos.
+− Inserción de objetos.
+− Modificación y borrado de objetos.
+− Borrado de tablas y tipos.
+Orientaciones pedagógicas y metodológicas.
+El módulo profesional se centra en la programación de bases de datos.
+El desarrollo de los contenidos tendrá siempre una orientación práctica; el esquema 
+habitual será:
+− Exposición de conceptos
+− Demostración práctica de la aplicación de los mismos por parte del profesorado.
+− Resolución de supuestos prácticos por parte del alumnado; esta resolución 
+incluirá la búsqueda e interpretación de información técnica y en su caso la 
+documentación del proceso llevado a cabo.
+Es importante que en los ejercicios de SQL se utilicen distintos sistemas gestores de 
+bases de datos, de forma que el alumnado asuma las similitudes y diferencias entre las 
+distintas variantes del mismo.
+Con independencia de que se cubran los objetivos propios del módulo profesional, 
+debe tenerse en cuenta que los módulos profesionales del primer curso deben proporcionar 
+al alumnado la base formativa que requiere un programador; por ello se hará especial 
+hincapié en dos aspectos:
+− El diseño y evaluación de condiciones
+− El uso adecuado de las posibilidades de la programación estructurada.
+CV: BOCYL-D-20072011-1
+
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 57977
+Miércoles, 20 de julio de 2011
+Módulo profesional: Programación.
+Equivalencia en créditos ECTS: 14.
+Código: 0485.
+Duración: 256 horas.
+Contenidos:
+1.	 Identificación de los elementos de un programa informático:
+− Estructura y bloques fundamentales de una aplicación.
+− Estudio de proyectos ejemplo.
+− Elementos del lenguaje en una aplicación:
+− Variables.
+− Tipos de datos.
+− Literales.
+− Constantes.
+− Operadores y expresiones.
+− Conversiones de tipo.
+− Comentarios.
+− Modificación de los diferentes elementos de proyectos.
+2.	 Utilización de objetos, aplicaciones basadas en objetos:
+− Características de los objetos.
+− Constructores.
+− Instanciación de objetos.
+− Utilización de métodos, parámetros y valores devueltos.
+− Utilización de propiedades. Modificación de valores.
+− Utilización de métodos estáticos de clases predefinidas.
+− Incorporación y utilización de librerías de clases de uso común:
+	
+- Clases que encapsulan los tipos primitivos.
+	
+- Clases de E/S de los dispositivos estándar.
+− Destrucción de objetos y liberación de memoria.
+− Creación, compilación y ejecución de aplicaciones simples basadas en 
+objetos utilizando entornos de desarrollo integrados.
+CV: BOCYL-D-20072011-1
+
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 57978
+Miércoles, 20 de julio de 2011
+3.	 Uso de estructuras de control:
+− Estructuras de selección. Optimización de estas sentencias y uso no 
+redundante.
+− Estructuras de repetición. Optimización de estas sentencias y uso no 
+redundante.
+− Estructuras de salto.
+− Control de excepciones. Captura y tratamiento.
+− Documentación de código mediante etiquetas.
+4.	 Desarrollo de clases:
+− Concepto de clase y fundamentos de la programación orientada a objetos.
+− Estructura y miembros de una clase.
+− Creación de atributos.
+− Creación de métodos.
+− Métodos sobrecargados.
+− Métodos estáticos.
+− Creación de constructores.
+− Encapsulación y visibilidad.
+− Utilización de clases y objetos.
+− Utilización de clases heredadas e interfaces.
+− Bibliotecas de clases, predefinidos y de diseño propio.
+5.	 Lectura y escritura de información:
+− Utilización de los sistemas de ficheros.
+− Creación, eliminación y otras operaciones sobre ficheros y directorios.
+− Concepto de flujo. Tipos de flujos. Flujos de bytes y de caracteres.
+− Clases relativas a flujos.
+− Utilización de flujos.
+− Entrada desde teclado.
+− Salida a pantalla con formato.
+− Ficheros de datos. Registros.
+− Apertura y cierre de ficheros. Modos de acceso.
+CV: BOCYL-D-20072011-1
+
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 57979
+Miércoles, 20 de julio de 2011
+− Escritura y lectura de información en ficheros.
+− Almacenamiento de objetos en ficheros. Seriación.
+− Interfaces utilizando el patrón modelo-vista-controlador (MVC).
+− Creación de interfaces gráficos de usuario utilizando asistentes y 
+herramientas del entorno integrado.
+− Concepto de evento.
+− Creación de controladores de eventos.
+6.	 Aplicación de las estructuras de almacenamiento:
+− Estructuras.
+− Declaración, creación e inicialización de arrays y métodos asociados.
+− Optimización del uso de arrays en aplicaciones.
+− Arrays multidimensionales.
+− Cadenas de caracteres y clases asociadas para su tratamiento.
+− Listas y colecciones.
+− Arrays asociativos.
+− Iteradores.
+7.	 Utilización avanzada de clases:
+− Composición de clases y su implementación.
+− Herencia.
+− Superclases y subclases.
+− Clases y métodos abstractos y finales.
+− Sobreescritura de métodos.
+− Constructores y herencia.
+− Acceso a métodos de la superclase.
+− Diseño y creación de jerarquías de clases.
+− Aplicación del polimorfismo a listas de referencias de objetos.
+8.	 Mantenimiento de la persistencia de los objetos:
+− Bases de datos orientadas a objetos.
+− Características de las bases de datos orientadas a objetos.
+− Instalación del gestor de bases de datos.
+− Creación de bases de datos.
+CV: BOCYL-D-20072011-1
+
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 57980
+Miércoles, 20 de julio de 2011
+− Tipos de datos básicos y estructurados.
+− El lenguaje de definición de objetos.
+− Mecanismos de consulta.
+− El lenguaje de consultas: sintaxis, expresiones, operadores.
+− Recuperación, modificación y borrado de información.
+− Tipos de datos objeto; atributos y métodos.
+− Tipos de datos colección.
+9.	 Gestión de bases de datos relacionales:
+− Establecimiento de conexiones.
+− Recuperación de información.
+− Utilización de asistentes.
+− Manipulación de la información.
+− Mecanismos de actualización de la base de datos.
+− Ejecución de consultas sobre la base de datos.
+− Creación de aplicaciones que gestionan la información de una base de 
+datos. 
+Orientaciones pedagógicas y metodológicas.
+El módulo profesional se centra en poner las bases de la programación orientada a 
+objetos, desde los elementos del lenguaje, conceptos y filosofía de la POO, tipos avanzados 
+de datos, flujos de datos, desarrollo de programas/aplicaciones y documentación de las 
+mismas.
+ El desarrollo de estos contenidos tendrá siempre una orientación práctica; el 
+esquema habitual será:
+− Exposición de conceptos, sintaxis, semántica, estilo y estándares de 
+programación.
+− Demostración práctica, a modo de ejemplo, de programas basados en los 
+conceptos y filosofía de la POO (Programación Orientada a Objetos), utilizando 
+el diseño de clases y las herramientas de los entornos de desarrollo.
+− Resolución de supuestos prácticos por parte del alumnado cumpliendo con las 
+especificaciones establecidas: codificación, documentación de código, depuración 
+y ejecución.
+− Evaluar el funcionamiento adecuado de los programas/aplicaciones, así como el 
+cumplimiento de los estándares y especificaciones establecidas en el diseño.
+− Elaborar la documentación completa relativa a los supuestos prácticos 
+desarrollados, utilizando herramientas del entorno de desarrollo.
+CV: BOCYL-D-20072011-1
+
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 57981
+Miércoles, 20 de julio de 2011
+En este módulo profesional debe ponerse especial énfasis en que el alumnado 
+entienda la filosofía y los conceptos en los que se basa la programación orientada a objetos, 
+sus ventajas y técnicas de trabajo; por otro lado, se cuidará que las estructuras de control 
+de secuencia que se utilicen cumplan los principios de la programación estructurada y el 
+código generado esté optimizado y sea no redundante.
+Por ser este módulo profesional el que pone las bases de la programación debe 
+cuidarse la relación y coordinación con los módulos profesionales de primer curso, en 
+especial con el módulo profesional de «Entornos de desarrollo» con el que se desarrollarán 
+actividades compartidas.
+Módulo profesional: Lenguajes de marcas y sistemas de gestión de 
+información.
+Equivalencia en créditos ECTS: 7.
+Código: 0373.
+Duración: 128 horas.
+Contenidos:
+1.	 Reconocimiento de las características de los lenguajes de marcas:
+− Concepto de lenguaje de marcas.
+− Características comunes.
+− Concepto de metalenguaje.
+− Clasificación.
+− XML: estructura y sintaxis.
+− Etiquetas.
+− Herramientas de edición.
+− Elaboración de documentos XML bien formados.
+− Utilización de espacios de nombres en XML.
+2.	 Utilización de lenguajes de marcas en entornos web:
+− Estructura de una página web en HTML.
+− Identificación de etiquetas y atributos de HTML.
+− XHTM: diferencias sintácticas y estructurales con HTML.
+− Ventajas de XHTML sobre HTML.
+− Versiones de HTML y de XHTML.
+CV: BOCYL-D-20072011-1
+
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 57982
+Miércoles, 20 de julio de 2011
+− Herramientas de diseño web.
+− Transmisión de información mediante lenguajes de marcas.
+− Hojas de estilo. XSL.
+3.	 Aplicación de los lenguajes de marcas a la sindicación de contenidos:
+− Ventajas y características de la sindicación de contenidos.
+− Ámbitos de aplicación.
+− Estructura de los canales de contenidos.
+− Tecnologías de creación de canales de contenidos.
+− Validación.
+− Utilización de herramientas.
+− Directorios de canales de contenidos.
+− Agregación.
+4.	 Definición de esquemas y vocabularios en XML:
+− Definición de la estructura de documentos XML.
+− Definición de la sintaxis de documentos XML.
+− Utilización de métodos de definición de documentos XML.
+− Creación de descripciones.
+− Asociación de documentos XML.
+− Validación.
+− Herramientas de creación y validación.
+− Documentación de especificaciones.
+5.	 Conversión y adaptación de documentos XML:
+− Técnicas de transformación de documentos XML.
+− Formatos de salida.
+− Ámbitos de aplicación.
+− Descripción de la estructura y de la sintaxis.
+− Utilización de plantillas.
+− Utilización de herramientas de procesamiento.
+CV: BOCYL-D-20072011-1
+
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 57983
+Miércoles, 20 de julio de 2011
+− Depuración.
+− Verificación de resultados.
+− Elaboración de documentación.
+6.	 Almacenamiento de información:
+− Concepto de bases de datos nativas.
+− Utilización de XML para el almacenamiento de la información.
+− Sistemas de almacenamiento de información.
+− Inserción y extracción de información en XML.
+− Técnicas de búsqueda de información en documentos XML.
+− Lenguajes de consulta y manipulación.
+− Almacenamiento XML nativo.
+− Herramientas de tratamiento y almacenamiento de información en formato 
+XML.
+7.	 Sistemas de gestión empresarial:
+− Instalación.
+− Identificación de flujos de información.
+− Adaptación y configuración.
+− Integración de módulos.
+− Elaboración de informes.
+− Planificación de la seguridad.
+− Implantación y verificación de la seguridad.
+− Integración con aplicaciones ofimáticas.
+− Exportación de información.
+− Diseño de la documentación relativa a la explotación de las aplicaciones.
+Orientaciones pedagógicas y metodológicas.
+El módulo profesional se centra en la utilización de métodos de almacenamiento, 
+transmisión, publicación y difusión de la información, así como, gestión y explotación de 
+sistemas de información.
+CV: BOCYL-D-20072011-1
+
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 57984
+Miércoles, 20 de julio de 2011
+El desarrollo de estos contenidos tendrá siempre una orientación práctica; el esquema 
+habitual será:
+− Exposición de conceptos, sintaxis, semántica y estándares.
+− Demostración práctica a modo de ejemplo por parte del profesorado.
+− Planteamiento y resolución de supuestos prácticos por parte del alumnado 
+cumpliendo con las especificaciones establecidas en el diseño.
+− Evaluar el funcionamiento adecuado de los sistemas de información, así como el 
+cumplimiento de los estándares y especificaciones establecidas en el diseño.
+− Elaborar la documentación completa relativa a las actividades desarrolladas.
+En este módulo profesional debe ponerse especial énfasis en que el alumnado 
+entienda lo que es un metalenguaje y las posibilidades de utilización en múltiples áreas de 
+la gestión de la información.
+XML será utilizado como un estándar para intercambiar información en la Web y en 
+la integración de bases de datos. Los conocimientos de XML se aplicarán en los módulos 
+profesionales de «Desarrollo web en entorno cliente», «Desarrollo web en entorno servidor» 
+y «Diseño de interfaces web» por lo que es necesaria una coordinación con los mismos.
+Módulo profesional: Entornos de desarrollo.
+Equivalencia en créditos ECTS: 6.
+Código: 0487.
+Duración: 96 horas.
+Contenidos:
+1.	 Desarrollo de software.
+− Concepto de programa informático.
+− Relación entre el software y el hardware de un equipo informático.
+− Código fuente, código objeto y código ejecutable; máquinas virtuales.
+− Tipos de lenguajes de programación. Clasificaciones.
+− Características de los lenguajes más difundidos.
+− Proceso de obtención de código ejecutable a partir del código fuente: 
+compilación y linkado; herramientas implicadas.
+− Aplicaciones informáticas. Definición. Clasificación.
+− Fases del desarrollo de una aplicación: análisis, diseño, codificación, 
+pruebas, documentación, explotación y mantenimiento, entre otras.
+− Lenguaje de propósito general para el modelado: UML. Diagramas.
+CV: BOCYL-D-20072011-1
+
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 57985
+Miércoles, 20 de julio de 2011
+2.	 Instalación y uso de entornos de desarrollo:
+− Funciones de un entorno de desarrollo. Estructura. Clasificación de entornos 
+de desarrollo. Características comunes y específicas.
+− Instalación de un entorno de desarrollo.
+− Personalización y actualización del entorno de desarrollo.
+− Uso básico de un entorno de desarrollo.
+− Edición de programas.
+− Generación de ejecutables.
+3.	 Diseño y realización de pruebas:
+− Planificación de Pruebas.
+− Tipos de pruebas: funcionales, estructurales, regresión, entre otras.
+− Procedimientos y casos de prueba.
+− Pruebas de código: cubrimiento, valores límite, clases de equivalencia, 
+entre otras.
+− Pruebas unitarias; herramientas.
+− Automatización de pruebas.
+− Documentación de pruebas.
+− Herramientas de depuración y de prueba del entorno de desarrollo.
+4.	 Optimización y documentación:
+− Refactorización. Concepto. Limitaciones. Patrones de refactorización más 
+usuales. Analizadores de código. Refactorización y pruebas. Herramientas 
+de ayuda a la refactorización. 
+− Control de versiones. Estructura de las herramientas de control de versiones. 
+Repositorio. Herramientas de control de versiones.
+− Pautas para la documentación. Uso de comentarios. Alternativas.
+− Herramientas de refactorización, control de versiones y de generación de 
+documentación del entorno de desarrollo.
+5.	 Elaboración de diagramas de clases:
+− Clases. Atributos, métodos y visibilidad.
+− Objetos. 
+Instanciación. 
+Características 
+de 
+los 
+objetos: 
+estado, 
+comportamiento e identidad.
+CV: BOCYL-D-20072011-1
+
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 57986
+Miércoles, 20 de julio de 2011
+− Relaciones o asociaciones. Interacciones estáticas: Herencia, composición, 
+agregación. Interacciones dinámicas.
+− Notación de los diagramas de clases.
+− Herramientas de diseño de diagramas de clase del entorno de desarrollo. 
+Herramientas alternativas.
+− Generación de código a partir del diagrama de clases. Ingeniería inversa.
+− Diagramas de objetos.
+6.	 Elaboración de diagramas de comportamiento:
+− Tipos. Campo de aplicación. Notación.
+− Diagramas de casos de uso. Actores, escenario, relación de comunicación: 
+«extends» e «include».
+− Diagramas de interacción:
+− Diagramas de secuencia. Eventos. Línea de vida de un objeto, 
+activación, envío de mensajes.
+− Diagramas de colaboración. Objetos, mensajes.
+− Diagramas de estado. Estados, eventos y transiciones.
+− Diagramas de actividades. Actividades (métodos o acciones), transiciones 
+y condiciones.
+− Herramientas de diseño de diagramas de comportamiento del entorno de 
+desarrollo.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional junto con el módulo profesional «Programación» contiene 
+parte de la formación necesaria para desempeñar la función de desarrollador de aplicaciones 
+informáticas.
+Es imprescindible que exista coordinación para el desarrollo de los contenidos de 
+ambos módulos y no sólo en lo referente a conceptos sino también en las demostraciones 
+y resolución de supuestos prácticos pudiéndose plantear al alumno actividades ligadas a 
+ambos módulos profesionales.
+El desarrollo de los contenidos tendrá siempre una orientación práctica; el esquema 
+habitual será:
+− Exposición de conceptos.
+− Demostración práctica de la aplicación de los mismos por parte del profesorado.
+− Resolución de supuestos prácticos por parte del alumnado; esta resolución 
+incluirá la búsqueda e interpretación de información técnica y en su caso la 
+documentación del proceso llevado a cabo.
+CV: BOCYL-D-20072011-1
+
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 57987
+Miércoles, 20 de julio de 2011
+Módulo profesional: Desarrollo Web en entorno cliente. 
+Equivalencia en créditos ECTS: 9.
+Código: 0612.
+Duración: 168 horas.
+Contenidos:
+1.	 Selección de arquitecturas y herramientas de programación:
+− Modelos de programación en entornos cliente/servidor.
+− Mecanismos de ejecución de código en un navegador web.
+− Capacidades y limitaciones de ejecución.
+− Compatibilidad con navegadores web.
+− Lenguajes de programación en entorno cliente. Características de los 
+lenguajes de script.
+− Tecnologías y lenguajes asociados.
+− Herramientas de programación. Entornos de desarrollo integrados. 
+Personalización. Prueba y depuración de código. Documentación de 
+código.
+− Integración del código con las etiquetas de lenguajes de marcas (HTML, 
+XML y otros).
+2.	 Manejo de la sintaxis del lenguaje:
+− Etiquetas y ubicación del código.
+− Tipos de datos. Conversiones entre tipos de datos. Literales.
+− Variables. Declaración y convenciones. Tipos especiales y definidas por el 
+usuario. Ambito.
+− Asignaciones.
+− Operadores.
+− Expresiones.
+− Comentarios al código.
+− Sentencias.
+− Bloques de código.
+− Decisiones.
+− Bucles.
+CV: BOCYL-D-20072011-1
+
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 57988
+Miércoles, 20 de julio de 2011
+3.	 Utilización de los objetos predefinidos del lenguaje:
+− Utilización de objetos. Objetos nativos del lenguaje.
+− Interacción con el navegador. Objetos predefinidos asociados.
+− Generación de texto y elementos HTML desde código.
+− Creación y gestión de marcos. Aplicaciones prácticas de los marcos.
+− Gestión de la apariencia de la ventana. Modificación del aspecto del 
+navegador y documento.
+− Creación de nuevas ventanas. Comunicación entre ventanas.
+− Elementos para la interacción con el usuario.
+4.	 Programación con «arrays», funciones y objetos definidos por el usuario:
+− Funciones predefinidas del lenguaje. Procedimientos. Funciones definidas 
+por el usuario.
+− Llamadas a funciones y procedimientos. Definición de funciones y 
+procedimientos. Argumentos y paso de valores.
+− «Arrays». Declaración, inicialización y recorrido. Búsqueda. Arrays 
+multidimensionales.
+− Creación de objetos.
+− Definición de métodos y propiedades.
+5.	 Interacción con el usuario: eventos y formularios:
+− Modelo de gestión de eventos. Tipos y captura de eventos.
+− Manejadores de eventos.
+− Utilización de formularios desde código. Cargar, mostrar y ocultar.
+− Acceso a los elementos de un formulario. Controles. Formularios 
+dinámicos.
+− Modificación de apariencia y comportamiento.
+− Validación y envío. Expresiones regulares.
+− Utilización de cookies. Escritura y lectura de cookies.
+6.	 Utilización del modelo de objetos del documento (DOM):
+− El modelo de objetos del documento (DOM).
+− Objetos del modelo. Propiedades y métodos de los objetos.
+CV: BOCYL-D-20072011-1
+
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 57989
+Miércoles, 20 de julio de 2011
+− Representación del documento como una estructura en árbol.
+− Acceso al documento desde código.
+− Creación y modificación de elementos.
+− El modelo de eventos. Asociación de eventos.
+− Programación de eventos.
+− Diferencias en las implementaciones del modelo. Motores de navegación 
+(User-Agent).
+− Desarrollo de aplicaciones independientes del navegador.
+− Separación de las facetas de contenido, aspecto y comportamiento de las 
+aplicaciones.
+7.	 Utilización de mecanismos de comunicación asíncrona:
+− Mecanismos 
+de 
+comunicación 
+asíncrona. 
+Utilidad, 
+ventajas 
+e 
+inconvenientes.
+− Objetos, propiedades y métodos relacionados.
+− Recuperación remota de información.
+− Programación de aplicaciones con comunicación asíncrona.
+− Modificación dinámica del documento utilizando comunicación asíncrona.
+− Formatos para el envío y recepción de información.
+− Librerías de actualización dinámica.
+Orientaciones pedagógicas y metodológicas.
+El módulo profesional se centra en el desarrollo de aplicaciones destinadas a su 
+ejecución por navegadores en entornos web.
+El desarrollo de los contenidos tendrá, sistemáticamente, una metodología activa, 
+participativa, motivadora y con contenidos actualizados, cuyo esquema habitual será:
+− Comunicación y exposición de conceptos.
+− Desarrollo de supuestos prácticos por parte del profesorado, si procede.
+− Desarrollo de supuestos prácticos por parte del alumnado, cumpliendo las 
+especificaciones establecidas, los estándares existentes, etc. y con la utilización de 
+documentación técnica obtenida a partir de las diferentes fuentes disponibles.
+− Evaluación de la metodología seguida, del funcionamiento y del nivel de 
+adecuación a las especificaciones y estándares.
+− Elaboración de la documentación necesaria.
+CV: BOCYL-D-20072011-1
+
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 57990
+Miércoles, 20 de julio de 2011
+Se debe de establecer, claramente y en todo momento, la relación e independencia 
+de las tres facetas existentes en el desarrollo de aplicaciones cliente en entornos web: 
+Contenido, aspecto y comportamiento. Esto implica la necesidad de una fuerte coordinación 
+con el módulo profesional de «Diseño de Interfaces web».
+Es imprescindible incorporar los cambios y novedades que se producen continuamente 
+en el mercado.
+Las prácticas se realizarán mediante la utilización de software tanto libre como 
+propietario y realizando su implementación en diferentes plataformas y dispositivos. Tanto 
+el software utilizado como las plataformas y dispositivos deberán de ser los estándares 
+«de facto» en cada momento.
+Módulo profesional: Desarrollo Web en entorno servidor. 
+Equivalencia en créditos ECTS: 12.
+Código: 0613.
+Duración: 189 horas.
+Contenidos:
+1.	 Selección de arquitecturas y herramientas de programación:
+− Modelos de programación en entornos cliente/servidor.
+− Diferencias entre aplicaciones cliente/servidor, aplicaciones Web y 
+aplicaciones Web enriquecidas (RIA).
+− Mecanismos de ejecución de código en un servidor Web.
+− Generación dinámica de páginas Web. Características y ventajas.
+− Lenguajes de programación en entorno servidor.
+− Integración con los lenguajes de marcas.
+− Tecnologías asociadas.
+− Servidores de aplicaciones. Funcionalidades.
+− Integración con los servidores Web.
+− Herramientas de programación.
+−  Entornos de desarrollo, editores y compiladores.
+2.	 Inserción de código en páginas Web:
+− Lenguajes embebidos en HTML.
+− Tecnologías asociadas: PHP, ASP, JSP, Servlets, entre otras.
+CV: BOCYL-D-20072011-1
+
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 57991
+Miércoles, 20 de julio de 2011
+− Aplicaciones distribuidas basadas en componentes.
+− Contenedores de servlets.
+− Obtención del lenguaje de marcas a mostrar en el cliente.
+− Etiquetas para inserción de código.
+− Bloques de código.
+− Directivas.
+− Tipos de datos. Conversiones entre tipos de datos.
+− Variables.
+− Ámbito de utilización de las variables.
+3.	 Programación basada en lenguajes de marcas con código embebido:
+− Tomas de decisión.
+− Bucles.
+− Comentarios de cliente y de servidor.
+− Tipos de datos compuestos.
+− Arrays.
+− Funciones.
+− Paso de parámetros. Devolución de valores.
+− Recuperación y utilización de información proveniente del cliente Web.
+− Interacción con el usuario: formularios.
+− Procesamiento de la información introducida en un formulario.
+4.	 Desarrollo de aplicaciones Web utilizando código embebido:
+− Mantenimiento del estado.
+− Sesiones.
+− Cookies. Aplicaciones prácticas. Las cookies y el navegador.
+− Seguridad: usuarios, perfiles, roles.
+− Autentificación de usuarios. Mecanismos.
+− Herramientas de programación.
+− Pruebas y depuración.
+CV: BOCYL-D-20072011-1
+
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 57992
+Miércoles, 20 de julio de 2011
+5.	 Generación dinámica de páginas Web:
+− Mecanismos de separación de la lógica de negocio de la de presentación. 
+Ventajas.
+− Tecnologías asociadas basadas en la programación orientada a objetos y 
+multicapa.
+− Controles de servidor.
+− Mantenimiento del estado de los controles.
+− Mecanismos de generación dinámica del interface Web.
+− Diseño de formularios de respuesta.
+6.	 Utilización de técnicas de acceso a datos:
+− Utilización de bases de datos relacionales.
+− Establecimiento de conexiones.
+− Ejecución de sentencias SQL.
+− Recuperación y edición de información.
+− Utilización de conjuntos de resultados.
+− Visualización de la información en páginas Web.
+− Mecanismos de edición de la información en un cliente Web.
+− Actualizaciones y eliminaciones.
+− Transacciones.
+− Utilización de otros orígenes de datos.
+7.	 Programación de servicios Web:
+− Arquitecturas de programación orientadas a servicios.
+− Mecanismos y protocolos implicados.
+− Protocolos de intercambio de documentos XML (SOAP y otros). Estructura 
+y sintaxis de los mensajes.
+− Generación de un servicio Web.
+− Descripción del servicio.
+− Interface de un servicio Web.
+− Utilización de un servicio Web.
+CV: BOCYL-D-20072011-1
+
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 57993
+Miércoles, 20 de julio de 2011
+8.	 Generación dinámica de páginas Web interactivas:
+− Procesamiento en el servidor y en el cliente.
+− Librerías y tecnologías relacionadas.
+− Metadatos.
+− Generación dinámica de páginas interactivas.
+− Controles con verificación de información en el cliente.
+− Obtención remota de información.
+− Modificación de la estructura de la página Web.
+9.	 Desarrollo de aplicaciones Web híbridas:
+− Reutilización de código e información.
+− Interfaces de programación de aplicaciones (API) disponibles.
+− Utilización de información proveniente de repositorios.
+− Creación de repositorios a medida.
+− Incorporación de funcionalidades específicas.
+Orientaciones pedagógicas y metodológicas.
+El módulo profesional se centra en conocer los lenguajes y tecnologías que nos 
+permiten desarrollar aplicaciones y servicios ejecutados por servidores en entornos Web.
+El desarrollo de estos contenidos tendrá siempre una orientación práctica, el esquema 
+habitual será:
+− Exposición de conceptos, sintaxis, semántica, estilo y estándares de 
+programación.
+− Demostración práctica a modo de ejemplo de aplicaciones Web.
+− Resolución de supuestos prácticos por parte del alumnado cumpliendo con las 
+especificaciones establecidas y los estándares de programación.
+− Evaluar el funcionamiento adecuado de los programas/aplicaciones, así como el 
+cumplimiento de los estándares y especificaciones establecidas en el diseño.
+− Elaborar la documentación completa relativa a los supuestos prácticos 
+desarrollados, utilizando herramientas del entorno de desarrollo.
+Es importante recordar que los aspectos fundamentales a desarrollar con este 
+módulo profesional deben incluir:
+− La creación de aplicaciones de servidor que generan interfaces Web como 
+resultado de su ejecución.
+− El desarrollo de aplicaciones distribuidas basadas en componentes. Tecnologías 
+Web.
+CV: BOCYL-D-20072011-1
+
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 57994
+Miércoles, 20 de julio de 2011
+− Utilización de plataformas o entornos de desarrollo (framework) que faciliten el 
+desarrollo de las aplicaciones Web cuidando los aspectos estructurales (patrones 
+de programación).
+− La generación de servicios reutilizables y accesibles mediante protocolos Web.
+La coordinación con el resto de los módulos profesionales de segundo curso es 
+importantísima, así como mantener las bases de programación orientada a objetos de 
+primer curso.
+Por último, en este módulo profesional es vital que los conceptos básicos de 
+tecnologías Web y aplicaciones basadas en Webs queden claros, para que el alumnado, 
+pueda adaptarse con facilidad a los avances tanto de nuevas tecnologías como plataformas 
+de trabajo.
+Módulo profesional: Despliegue de aplicaciones Web. 
+Equivalencia en créditos ECTS: 5.
+Código: 0614.
+Duración: 84 horas.
+Contenidos:
+1.	 Implantación de arquitecturas Web.
+− Arquitecturas Web. Modelos. Concepto, características, ventajas e 
+inconvenientes.
+− Servidores Web. Instalación y configuración básica. Protocolos para su 
+funcionamiento.
+− Servidores de aplicaciones. Concepto y clasificación. Instalación y 
+configuración básica.
+− Estructura y recursos que componen una aplicación Web. Capas de una 
+aplicación Web. Descriptor de despliegue.
+2.	 Administración de servidores Web.
+− Funcionamiento de un servidor Web.
+− Configuración avanzada del servidor Web. Parámetros.
+− Módulos: Instalación, configuración y uso. Pruebas de funcionamiento y 
+rendimiento.
+− Hosts virtuales. Creación, configuración y utilización.
+− Autenticación y control de acceso.
+− El protocolo http y HTTPS. Tipos MIME.
+− Certificados digitales. Servidores de certificados.
+− Despliegue de aplicaciones sobre servidores Web.
+CV: BOCYL-D-20072011-1
+
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 57995
+Miércoles, 20 de julio de 2011
+3.	 Administración de servidores de aplicaciones.
+− Arquitectura y configuración básica del servidor de aplicaciones.
+− Administrar aplicaciones Web.
+− Autenticación de usuarios. Dominios de seguridad para la autenticación.
+− Administración de sesiones. Sesiones persistentes.
+− Archivos de registro de acceso y filtro de solicitudes.
+− Configurar el servidor de aplicaciones para cooperar con servidores Web.
+− Despliegue de aplicaciones en el servidor de aplicaciones.
+− Seguridad en el servidor de aplicaciones. Configurar el servidor de 
+aplicaciones con soporte SSL/T.
+4.	 Instalación y administración de servidores de transferencia de archivos.
+− Funcionamiento del servicio de transferencia de archivos. Protocolo base 
+de funcionamiento. Protocolo de transferencia segura de archivos.
+− Instalación del servicio de transferencia de archivos.
+− Configuración del servicio de transferencia de archivos.
+	
+- Permisos y cuotas.
+	
+- Tipos de usuarios y accesos al servicio.
+− Modos de conexión del cliente:
+- 	 Utilización de herramientas gráficas. Utilización del servicio de 
+transferencia de archivos desde el navegador.
+- 	 Utilización línea de comandos.
+− Utilización del servicio de transferencia de archivos en el proceso de 
+despliegue de la aplicación Web.
+5.	 Servicios de red implicados en el despliegue de una aplicación Web.
+− Servicio de nombres de dominio:
+- 	 Resolutores de nombres.
+- 	 Sistemas de nombres planos y jerárquicos.
+- 	 Proceso de resolución de un nombre de dominio.
+- 	 Parámetros de configuración y registros del servidor de nombres 
+afectados en el despliegue.
+CV: BOCYL-D-20072011-1
+
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 57996
+Miércoles, 20 de julio de 2011
+− Servicio de directorios:
+- 	 Características, funcionalidad y estructura lógica.
+- 	 Archivos y parámetros básicos de configuración. Interpretación y uso.
+- 	 Autenticación de usuarios en el servicio de directorios. Usuarios 
+centralizados. Parámetros de configuración para el proceso de validación 
+de usuarios de la aplicación.
+- 	 Adaptación de la configuración del servidor de directorios para el 
+despliegue de la aplicación.
+6.	 Documentación y Sistemas de control de versiones:
+− Herramientas propias de las plataformas y externas para la generación de 
+documentación. Instalación, configuración y uso.
+− Herramientas colaborativas.
+− Creación y utilización de plantillas.
+− Instalación, configuración y uso de sistemas de control de versiones.
+− Operaciones avanzadas.
+− Seguridad de los sistemas de control de versiones.
+− Historia de un repositorio.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar la función 
+de despliegue de aplicaciones Web en un servidor.
+El desarrollo de los contenidos tendrá siempre una orientación práctica; el esquema 
+habitual será:
+− Exposición de conceptos.
+− Demostración práctica de la aplicación de los mismos por parte del profesorado 
+en las que se incluya la instalación y configuración básica de servidores Web y 
+servidores de aplicaciones Web y el despliegue de aplicaciones en ellos.
+− Resolución de supuestos prácticos por parte del alumnado; esta resolución 
+incluirá la búsqueda e interpretación de información técnica y en su caso la 
+documentación del proceso llevado a cabo.
+CV: BOCYL-D-20072011-1
+
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 57997
+Miércoles, 20 de julio de 2011
+Módulo profesional: Diseño de interfaces Web.
+Equivalencia en créditos ECTS: 9.
+Código: 0615.
+Duración: 126 horas.
+Contenidos:
+1.	 Planificación de interfaces gráficas:
+− Elementos del diseño: percepción visual.
+− Color, tipografía, iconos.
+− Interacción persona-ordenador.
+− Interpretación de guías de estilo. Elementos.
+− Generación de documentos y sitios Web.
+− Componentes de una interfaz Web.
+− Aplicaciones para desarrollo Web. Control de versiones.
+− Lenguajes de marcas. Recomendaciones del consorcio W3C.
+− Mapa de navegación. Prototipos.
+− Maquetación Web. Elementos de ordenación. Tablas, marcos y capas.
+− Detección de patrones. Creación de componentes reutilizables.
+− Plantilla de diseño.
+− Guía de estilo. 
+− Documentación.
+2.	 Uso de estilos:
+− Recomendaciones del consorcio W3C.
+− Estilos en línea basados en etiquetas, clases e identificadores.
+− Crear y vincular hojas de estilo.
+− Crear y vincular hojas de estilo en cascada externa.
+− Estilos para la tipografía y el aspecto de los componentes de la interfaz.
+− Modelo de cajas.
+CV: BOCYL-D-20072011-1
+
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 57998
+Miércoles, 20 de julio de 2011
+− Estilos para posicionamiento y visualización de los elementos de la 
+página.
+− Estructuras de distribución (Layouts).
+− Hojas de estilo auditivas.
+− Hojas de estilo para impresión.
+− Herramientas y test de verificación. Chequeo desde diferentes 
+navegadores.
+3.	 Implantación de contenido multimedia:
+− Tipos de Imágenes en la Web.
+− Derechos de la propiedad intelectual. Licencias. Ley de la propiedad 
+intelectual. Derechos de autor.
+− Imágenes: mapa de bits, imagen vectorial. Software para crear y procesar 
+imágenes. Formatos de imágenes. Tamaño y resolución. Filtros y efectos.
+− Optimización de imágenes para la Web.
+− Audio: formatos. Conversiones de formatos (exportar e importar).
+− Vídeo: codificación de vídeo, conversiones de formatos (exportar e 
+importar).
+− Animaciones.
+− Animación de imágenes y texto.
+− Integración de audio y vídeo en una animación.
+4.	 Integración de contenido interactivo:
+− Elementos interactivos básicos y avanzados.
+− Comportamientos interactivos. Comportamiento de los elementos.
+− Ejecución de secuencias de comandos.
+− Chequeo del contenido interactivo desde diferentes navegadores.
+5.	 Diseño de webs accesibles:
+− Concepto de accesibilidad. 
+− Recomendaciones del Consorcio World Wide Web (W3C).
+− Pautas de Accesibilidad al Contenido en la Web (WCAG).
+− Principios generales de diseño accesible.
+CV: BOCYL-D-20072011-1
+
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 57999
+Miércoles, 20 de julio de 2011
+− Técnicas para satisfacer los requisitos definidos en las WCAG:
+- 	 Técnicas fundamentales.
+-  Técnicas HTML.
+- 	 Técnicas CSS.
+− Prioridades. Puntos de verificación. Niveles de adecuación.
+− Métodos para realizar revisiones preliminares y evaluaciones de adecuación 
+o conformidad de documentos Web. 
+− Herramientas de análisis de accesibilidad Web.
+− Chequeo de la accesibilidad Web desde diferentes navegadores y 
+dispositivos móviles.
+6.	 Implementación de la usabilidad en la Web. Diseño amigable:
+− Concepto de usabilidad.
+− Análisis de la usabilidad. Técnicas.
+− Identificación del objetivo de la Web.
+− Tipos de usuario. Directrices según el tipo de usuario.
+− Barreras identificadas por los usuarios.
+− Propósito de la Web (Web de comercio, Web de contenido, Web de comunidad, 
+entre otros). Directrices según el propósito de la Web.
+− Información fácilmente accesible.
+− Velocidad de conexión. Implicaciones en el diseño de la Web.
+− Importancia del uso de estándares externos.
+− Navegación fácilmente recordada frente a navegación redescubierta.
+− Facilidad de navegación en la Web. Orientación (wayfinding).
+− Consistencia. Anticipación. Autonomía. Eficiencia del Usuario. Interfaces 
+Explorables. Protección del Trabajo. Objetos de Interfaz Humana. Uso de 
+Metáforas. Legibilidad.
+− Verificación de la usabilidad en diferentes navegadores y tecnologías. Usabilidad 
+en dispositivos móviles.
+− Herramientas y test de verificación.
+CV: BOCYL-D-20072011-1
+
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 58000
+Miércoles, 20 de julio de 2011
+Orientaciones pedagógicas y metodológicas.
+El módulo profesional se centra en la planificación, creación y mantenimiento de 
+interfaces Web, aplicando guías de estilo y cumpliendo con los criterios de accesibilidad y 
+usabilidad en el desarrollo de aplicaciones Web.
+El desarrollo de estos contenidos tendrá siempre una orientación práctica. El 
+esquema habitual será:
+− Exposición de conceptos, sintaxis, semántica y estándares.
+− Demostración práctica a modo de ejemplo por parte del profesorado.
+− Planteamiento y resolución de supuestos prácticos por parte del alumnado 
+cumpliendo con las especificaciones definidas en el diseño.
+− Evaluar el funcionamiento adecuado, así como el cumplimiento de los 
+estándares.
+− Elaborar la documentación completa relativa a las actividades desarrolladas.
+Es importante que el alumnado conozca las pautas de usabilidad y accesibilidad y 
+las aplique durante el desarrollo de la totalidad de los contenidos del módulo profesional; 
+estas pautas se deberán seguir desde el inicio del desarrollo de la interface.
+Módulo profesional: Proyecto de desarrollo de aplicaciones Web. 
+Equivalencia en créditos ECTS: 5.
+Código: 0616.
+Duración: 30 horas.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional complementa la formación establecida para el resto de los 
+módulos profesionales que integran el título en las funciones de análisis del contexto, 
+diseño del proyecto y organización de la ejecución.
+La función de análisis del contexto incluye las subfunciones de:
+− Recopilación de información.
+− Identificación y priorización de necesidades.
+− Identificación de los aspectos que facilitan o dificultan el desarrollo de la posible 
+intervención.
+La función de diseño del proyecto tiene como objetivo establecer las líneas generales 
+para dar respuesta a las necesidades planteadas concretando los aspectos relevantes 
+para su realización. Incluye las subfunciones de:
+− Definición o adaptación de la intervención.
+− Priorización y secuenciación de las acciones.
+− Planificación de la intervención.
+CV: BOCYL-D-20072011-1
+
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 58001
+Miércoles, 20 de julio de 2011
+− Determinación de recursos.
+− Planificación de la evaluación.
+− Diseño de documentación.
+− Plan de atención al cliente.
+La función de organización de la ejecución incluye las subfunciones de:
+− Detección de demandas y necesidades.
+− Programación.
+− Gestión.
+− Coordinación y supervisión de la intervención.
+− Elaboración de informes.
+Las actividades profesionales asociadas a estas funciones se desarrollan en:
+− Áreas de sistemas y departamentos de informática en cualquier sector de 
+actividad.
+− Sector de servicios tecnológicos y comunicaciones.
+− Área comercial con gestión de transacciones por Internet.
+La formación del módulo profesional se relaciona con todos los objetivos generales 
+del ciclo y las competencias profesionales, personales y sociales del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional están relacionadas con:
+− La responsabilidad y la autoevaluación del trabajo realizado.
+− La autonomía y la iniciativa personal.
+− El uso de las Tecnologías de la Información y de la Comunicación.
+El proyecto será realizado por el alumnado, de forma individual, preferentemente 
+durante el tercer trimestre del segundo curso. El alumnado será tutorizado por un profesor, 
+que imparta docencia en segundo curso del ciclo formativo, de la especialidad de 
+«Informática» o de «Sistemas y Aplicaciones Informáticas», de acuerdo con lo establecido 
+en el Anexo III A) del Real Decreto 686/2010, de 20 de mayo, no obstante, dado que 
+los resultados de aprendizaje y criterios de evaluación de este módulo profesional 
+complementan los del resto de los módulos profesionales y tiene un carácter integrador de 
+todos los módulos profesionales del ciclo, sería conveniente la colaboración de todos los 
+profesores con atribución docente en el ciclo formativo.
+CV: BOCYL-D-20072011-1
+
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 58002
+Miércoles, 20 de julio de 2011
+Módulo Profesional: Formación y orientación laboral. 
+Equivalencia en créditos ECTS: 5.
+Código: 0617.
+Duración: 96 horas.
+Contenidos:
+BLOQUE A: Formación, Legislación y Relaciones Laborales.
+Duración: 46 horas.
+1. 	Búsqueda activa de empleo:
+–	 Valoración de la importancia de la formación permanente para la trayectoria 
+laboral y profesional del Técnico Superior en Desarrollo de Aplicaciones 
+Web.
+–	 Oportunidades de aprendizaje y empleo en Europa. Programas europeos.
+–	 Valoración de la empleabilidad y adaptación como factores clave para 
+responder a las exigencias del mercado laboral.
+–	 Análisis de los intereses, aptitudes y motivaciones personales para la 
+carrera profesional.
+–	 Identificación de itinerarios formativos relacionados con el Técnico Superior 
+en Desarrollo de Aplicaciones Web.
+–	 Definición y análisis del sector profesional del Técnico Superior en Desarrollo 
+de Aplicaciones Web.
+–	 Proceso de búsqueda de empleo en pequeñas, medianas y grandes 
+empresas del sector.
+–	 La búsqueda de empleo. Fuentes de información.
+–	 Técnicas e instrumentos de búsqueda de empleo.
+–	 Oportunidades de autoempleo.
+–	 El proceso de toma de decisiones.
+–	 La igualdad de oportunidades en el acceso al empleo.
+2. 	Gestión del conflicto y equipos de trabajo:
+–	 Valoración de las ventajas e inconvenientes del trabajo de equipo para la 
+eficacia de la organización.
+–	 Tipología de equipos de trabajo.
+–	 Equipos en el sector informático según las funciones que desempeñan. 
+–	 Formación y funcionamiento de equipos eficaces.
+CV: BOCYL-D-20072011-1
+
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 58003
+Miércoles, 20 de julio de 2011
+–	 La participación en el equipo de trabajo.
+–	 Técnicas de participación. 
+–	 Identificación de roles. Barreras a la participación.
+–	 Conflicto: Características, fuentes y etapas.
+–	 Consecuencias de los conflictos.
+–	 Métodos para la resolución o supresión del conflicto.
+–	 La comunicación como instrumento fundamental para el trabajo en equipo 
+y la negociación. Comunicación asertiva.
+3. 	Contrato de trabajo:
+–	 El derecho del trabajo. Normas fundamentales.
+–	 Órganos de la administración y jurisdicción laboral.
+–	 Análisis de la relación laboral individual.
+–	 Modalidades de contrato de trabajo y medidas de fomento de la 
+contratación.
+–	 Derechos y deberes derivados de la relación laboral.
+–	 El tiempo de trabajo.
+–	 Análisis del recibo de salarios. Liquidación de haberes.
+–	 Modificación, suspensión y extinción del contrato de trabajo.
+–	 Valoración de las medidas para la conciliación familiar y profesional.
+–	 Representación de los trabajadores en la empresa.
+–	 Medidas de conflicto colectivo. Procedimientos de solución.
+–	 Análisis de un convenio colectivo aplicable al ámbito profesional del Técnico 
+Superior en Desarrollo de Aplicaciones Web.
+–	 Beneficios para los trabajadores en las nuevas organizaciones: Flexibilidad 
+y beneficios sociales, entre otros.
+4. 	Seguridad Social, Empleo y Desempleo:
+–	 Estructura del Sistema de la Seguridad Social.
+–	 Determinación de las principales obligaciones de empresarios y trabajadores 
+en materia de Seguridad Social: Afiliación, altas, bajas y cotización.
+–	 Situaciones protegibles en la protección por desempleo.
+CV: BOCYL-D-20072011-1
+
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 58004
+Miércoles, 20 de julio de 2011
+–	 Cálculo de bases de cotización a la Seguridad Social y determinación de 
+cuotas en un supuesto sencillo.
+–	 Prestaciones de la Seguridad Social.
+–	 Cálculo de una prestación por desempleo de nivel contributivo básico.
+BLOQUE B: Prevención de Riesgos Laborales.
+Duración: 50 horas.
+5. 	Evaluación de riesgos profesionales:
+–	 Importancia de la cultura preventiva en todas las fases de la actividad. 
+Sensibilización a través de las estadísticas de siniestralidad nacional y en 
+Castilla y León, de la necesidad de hábitos y actuaciones seguras.
+–	 Valoración de la relación entre trabajo y salud.
+–	 El riesgo profesional.
+–	 Análisis de factores de riesgo.
+–	 Análisis de riesgos ligados a las condiciones de seguridad.
+–	 Análisis de riesgos ligados a las condiciones ambientales.
+–	 Análisis de riesgos ligados a las condiciones ergonómicas y psico-
+sociales.
+–	 Riesgos específicos en el sector informático.
+–	 La evaluación de riesgos en la empresa como elemento básico de la 
+actividad preventiva.
+–	 Técnicas de evaluación de riesgos.
+–	 Condiciones de trabajo y seguridad.
+–	 Determinación de los posibles daños a la salud del trabajador que pueden 
+derivarse de las situaciones de riesgo detectadas. Los accidentes de 
+trabajo, las enfermedades profesionales y otras patologías.
+6. 	Planificación de la prevención de riesgos en la empresa. Prevención integrada:
+–	 Marco normativo en materia de prevención de riesgos laborales. 
+–	 Derechos y deberes en materia de prevención de riesgos laborales.
+–	 Responsabilidades en materia de prevención de riesgos laborales. 
+–	 Gestión de la prevención en la empresa. Documentación.
+–	 Organismos públicos relacionados con la prevención de riesgos laborales. 
+CV: BOCYL-D-20072011-1
+
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 58005
+Miércoles, 20 de julio de 2011
+–	 Planificación de la prevención en la empresa. Documentación.
+–	 Definición del contenido del Plan de prevención de un centro de trabajo 
+relacionado con el sector profesional.
+–	 Planes de emergencia y de evacuación en entornos de trabajo.
+–	 Elaboración de un plan de emergencia en una empresa del sector.
+7. 	Aplicación de medidas de prevención y protección en la empresa:
+–	 Determinación de las medidas de prevención y protección individual y 
+colectiva.
+–	 Señalización de seguridad.
+–	 Protocolo de actuación ante una situación de emergencia.
+–	 Prioridades y secuencia de actuación en el lugar del accidente.
+–	 Primeros auxilios. Conceptos básicos.
+–	 Aplicación de técnicas de primeros auxilios.
+–	 Vigilancia de la salud de los trabajadores.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para que el alumnado 
+pueda insertarse laboralmente y desarrollar su carrera profesional en el sector.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+–	 El manejo de las fuentes de información sobre el sistema educativo y laboral, en 
+especial en lo referente al sector informático.
+–	 La realización de pruebas de orientación y dinámicas sobre la propia personalidad 
+y el desarrollo de las habilidades sociales.
+–	 La preparación y realización de currículos (CVs) y entrevistas de trabajo.
+–	 La identificación de la normativa laboral que afecta a los trabajadores del sector, 
+el manejo de los contratos más comúnmente utilizados y la lectura comprensiva 
+de los convenios colectivos de aplicación.
+–	 La cumplimentación de recibos de salario de diferentes características y otros 
+documentos relacionados.
+–	 El análisis de la Ley de Prevención de Riesgos Laborales, que le permita la 
+evaluación de los riesgos derivados de las actividades desarrolladas en su 
+sector productivo, y colaborar en la definición de un plan de prevención para una 
+pequeña empresa, así como las medidas necesarias que deban adoptarse para 
+su implementación.
+CV: BOCYL-D-20072011-1
+
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 58006
+Miércoles, 20 de julio de 2011
+Para el desarrollo de los contenidos conviene seguir una metodología activa, 
+participativa y motivadora, ajustada al siguiente protocolo:
+–	 Exposición de contenidos.
+–	 Desarrollo de supuestos prácticos por parte del alumnado, con la utilización de 
+documentación facilitada por el profesorado.
+–	 Evaluación de los resultados del aprendizaje.
+Módulo Profesional: Empresa e iniciativa emprendedora.
+Equivalencia en créditos ECTS: 4.
+Código: 0618.
+Duración: 63 horas.
+Contenidos:
+1. 	Iniciativa emprendedora:
+–	 Innovación y desarrollo económico. Principales características de la 
+innovación en informática (materiales, tecnología y organización de la 
+producción, entre otros).
+–	 El trabajo por cuenta propia como fuente de creación de empleo y bienestar 
+social.
+–	 Responsabilidad social de la empresa.
+–	 Factores claves de los emprendedores: Iniciativa, creatividad y formación.
+–	 Desarrollo del espíritu emprendedor a través del fomento de las actitudes 
+de creatividad, iniciativa, autonomía y responsabilidad.
+–	 La actuación de los emprendedores como empleados de una pyme 
+relacionada con el sector de la informática.
+–	 Fomento de las capacidades emprendedoras de un trabajador por cuenta 
+ajena.
+–	 La actuación de los emprendedores como empresarios, de una pequeña 
+empresa en el sector de la informática.
+–	 Análisis de las oportunidades de negocio en el sector de la informática.
+–	 Análisis de la capacidad para asumir riesgos del emprendedor.
+–	 El empresario. Requisitos para el ejercicio de la actividad empresarial. 
+–	 Plan de empresa: La idea de negocio en el ámbito de la informática.
+–	 Búsqueda de ideas de negocio. Análisis y viabilidad de las mismas.
+CV: BOCYL-D-20072011-1
+
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 58007
+Miércoles, 20 de julio de 2011
+2. 	La empresa y su entorno:
+–	 Funciones básicas de la empresa.
+–	 Estructura organizativa de la empresa. Organigrama.
+–	 La empresa como sistema.
+–	 El entorno general de la empresa en los aspectos económico, social, 
+demográfico y cultural.
+–	 Competencia. Barreras de entrada.
+–	 Relaciones con clientes y proveedores.
+–	 Variables del marketing mix: Precio, producto, comunicación y 
+distribución.
+–	 Análisis del entorno general de una pyme relacionada con la informática.
+–	 Análisis del entorno específico de una pyme relacionada con la 
+informática.
+–	 Relaciones de una pyme de informática con su entorno.
+–	 Cultura empresarial e imagen corporativa.
+–	 Relaciones de una pyme de informática con el conjunto de la sociedad.
+–	 El balance social: Los costes y los beneficios sociales.
+–	 La ética empresarial en empresas de Desarrollo de Aplicaciones Web.
+3. 	Creación y puesta en marcha de una empresa:
+–	 Tipos de empresa. 
+–	 Elección de la forma jurídica. 
+–	 La franquicia como forma de empresa.
+–	 Ventajas e inconvenientes de las distintas formas jurídicas con espacial 
+atención a la responsabilidad legal.
+–	 La fiscalidad en las empresas. 
+–	 Impuestos más importantes que afectan a la actividad de la empresa.
+–	 Trámites administrativos para la constitución de una empresa.
+–	 Relaciones con organismos oficiales.
+–	 Subvenciones y ayudas destinadas a la creación de empresa del sector de 
+la informática en la localidad de referencia.
+CV: BOCYL-D-20072011-1
+
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 58008
+Miércoles, 20 de julio de 2011
+–	 Viabilidad económica y viabilidad financiera de una pyme relacionada con 
+la informática.
+–	 Plan de empresa: Elección de la forma jurídica, estudio de viabilidad 
+económica y financiera, trámites administrativos y gestión de ayudas y 
+subvenciones.
+–	 Vías externas de asesoramiento y gestión. La ventanilla única 
+empresarial.
+4. 	Función administrativa:
+–	 Concepto de contabilidad y nociones básicas.
+–	 Cuentas anuales obligatorias.
+–	 Análisis de la información contable.
+–	 Ratios.
+–	 Cálculo de costes, beneficio y umbral de rentabilidad.
+–	 Obligaciones fiscales de las empresas.
+–	 Calendario fiscal.
+–	 Gestión administrativa de una empresa de informática.
+–	 Documentos básicos utilizados en la actividad económica de la empresa: 
+Nota de pedido, albarán, factura., letra de cambio, cheque y otros.
+–	 Gestión de aprovisionamiento. Valoración de existencias. Volumen óptimo 
+de pedido.
+–	 Elaboración de un plan de empresa.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desarrollar la propia 
+iniciativa en el ámbito empresarial, tanto hacia el autoempleo como hacia la asunción de 
+responsabilidades y funciones en el empleo por cuenta ajena.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+–	 El manejo de las fuentes de información sobre el sector informático, incluyendo 
+el análisis de los procesos de innovación sectorial en marcha.
+–	 La realización de casos y dinámicas de grupo que permitan comprender y valorar 
+las actitudes de los emprendedores y ajustar la necesidad de los mismos al sector 
+industrial relacionado con los procesos de informática.
+–	 La utilización de programas de gestión administrativa para pymes del sector.
+CV: BOCYL-D-20072011-1
+
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 58009
+Miércoles, 20 de julio de 2011
+–	 La realización de un proyecto de plan de empresa relacionada con la informática 
+y que incluya todas las facetas de puesta en marcha de un negocio, así como 
+justificación de su responsabilidad social.
+–	 Utilización de la herramienta «Aprende a Emprender».
+Para el desarrollo de los contenidos conviene seguir una metodología activa, 
+participativa y motivadora, ajustada al siguiente protocolo:
+–	 Exposición de contenidos.
+–	 Desarrollo de supuestos prácticos por parte del alumnado, con la utilización de 
+documentación facilitada por el profesorado.
+–	 Evaluación de los resultados del aprendizaje.
+Módulo profesional: Formación en centros de trabajo. 
+Equivalencia en créditos ECTS: 22.
+Código: 0619.
+Duración: 380 horas.
+Este módulo profesional contribuye a completar las competencias y objetivos 
+generales, propios de este título, que se han alcanzado en el centro educativo y a desarrollar 
+competencias difíciles de conseguir en el mismo.
+CV: BOCYL-D-20072011-1
+
+Boletín Oficial de Castilla y León
+Núm. 140
+http://bocyl.jcyl.es
+D.L.: BU 10-1979 - ISSN 1989-8959
+Pág. 58010
+Miércoles, 20 de julio de 2011
+ANEXO III
+ORGANIZACIÓN Y DISTRIBUCIÓN HORARIA
+Módulos profesionales
+Duración 
+del 
+currículo
+(horas)
+Centro Educativo
+Centro de 
+Trabajo
+Curso 1.º
+horas/semanales
+Curso 2.º
+1.º y 2.º
+trimestres
+horas/semanales
+3.er trimestre
+horas
+0483. Sistemas informáticos.
+192
+6
+0484. Bases de datos.
+192
+6
+0485. Programación.
+256
+8
+0373. Lenguajes de marcas y 
+sistemas de gestión de 
+información.
+128
+4
+0487. Entornos de desarrollo.
+96
+3
+0612. Desarrollo web en entorno 
+cliente.
+168
+8
+0613. Desarrollo web en entorno 
+servidor.
+189
+9
+0614. Despliegue de aplicaciones 
+web.
+84
+4
+0615. Diseño de interfaces web.
+126
+6
+0616. Proyecto de desarrollo de 
+aplicaciones web.
+30
+30
+0617. Formación y orientación 
+laboral.
+96
+3
+0618. Empresa e iniciativa 
+emprendedora.
+63
+3
+0619. Formación en centros de 
+trabajo.
+380
+380
+TOTAL
+2.000
+30
+30
+410
+CV: BOCYL-D-20072011-1

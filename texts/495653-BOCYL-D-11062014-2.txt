@@ -1,0 +1,177 @@
+Boletín Oficial de Castilla y León
+Núm. 110
+Pág. 40771
+Miércoles, 11 de junio de 2014
+I. COMUNIDAD DE CASTILLA Y LEÓN
+A. DISPOSICIONES GENERALES
+CONSEJERÍA DE EDUCACIÓN
+ORDEN EDU/445/2014, de 2 de junio, por la que se modifican y suprimen ficheros 
+de datos de carácter personal de la Consejería de Educación.
+La Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter 
+Personal, en su artículo 20.1, establece que la creación, modificación o supresión de los 
+ficheros de las Administraciones Públicas sólo podrán hacerse por medio de disposición 
+general publicada en el «Boletín Oficial del Estado» o Diario Oficial correspondiente.
+Por su parte, el Decreto 11/2003, de 23 de enero, por el que se regulan los ficheros 
+de carácter personal susceptibles de tratamiento automatizado de la Administración de la 
+Comunidad de Castilla y León, dispone en su artículo 2 que la creación, modificación y 
+supresión de los ficheros de datos de carácter personal incluidos en el ámbito de aplicación 
+de la citada ley, se realizará por orden del titular de la Consejería competente por razón 
+de la materia a la que afectan, y que las órdenes de creación y modificación de ficheros 
+deberán recoger todos los apartados que establece el artículo 20 de la citada Ley Orgánica 
+15/1999, de 13 de diciembre. Por otro lado, que las órdenes por las que se supriman 
+ficheros de carácter personal deberán especificar cuál será el destino de los mismos, o, en 
+su caso, las previsiones que se adopten para su destrucción.
+Mediante Decreto 40/1999, de 8 de marzo, se crearon diversos ficheros de datos 
+de carácter personal en la entonces Consejería de Educación y Cultura, entre los que se 
+encuentran los denominados «Transferencias bancarias», «Control de horario», y «Gestión 
+de Personal». Este decreto fue derogado por el anterior Decreto 11/2003, de 23 de enero, 
+que dispone en su disposición transitoria que los ficheros contenidos en el Anexo I del 
+Decreto 40/1999, de 8 de marzo, se considerarán vigentes hasta que sean modificados o 
+suprimidos, de acuerdo con lo establecido en el citado artículo 2 de este decreto.
+Mediante Orden EDU/1199/2007, de 2 de julio, se creó el fichero de datos de carácter 
+personal de la Consejería de Educación denominado «Proveedores».
+A través de la presente orden se modifican los ficheros antes enunciados 
+«Transferencias bancarias» y «Control de horario», declarando su sistema de tratamiento 
+como parcialmente automatizados o mixtos, ya que los datos personales que contienen 
+son susceptibles de imprimirse en papel y por lo tanto deben aplicarse también las medidas 
+previstas para los ficheros no automatizados. Asimismo, en el caso del fichero «Control 
+horario» se añade como nuevo dato de carácter identificativo objeto de tratamiento el 
+relativo a la «imagen».
+También se procede a la supresión de los ficheros «Gestión de Personal», al haberse 
+integrado sus datos en el fichero de datos de carácter personal de la Consejería de Hacienda 
+CV: BOCYL-D-11062014-2
+
+Boletín Oficial de Castilla y León
+Núm. 110
+Pág. 40772
+Miércoles, 11 de junio de 2014
+denominado «PÉRSIGO: Sistema Integrado de Gestión de Personal», y «Proveedores», 
+al ser un fichero actualmente en desuso.
+En virtud de las citadas normas y demás de general aplicación, y previo informe de 
+la Dirección General de Atención al Ciudadano, Calidad y Modernización de la Consejería 
+de Hacienda,
+DISPONGO
+Artículo 1. Objeto.
+La presente orden tiene por objeto la modificación y supresión de los ficheros de 
+datos de carácter personal de la Secretaria General de la Consejería de Educación que se 
+contienen en los Anexos I y II.
+Artículo 2. Medidas técnicas y organizativas.
+Los responsables de los ficheros adoptarán las medidas de gestión y organización 
+que sean necesarias para asegurar la confidencialidad, seguridad e integridad de los 
+datos, así como las conducentes a hacer efectivas las garantías, obligaciones y derechos 
+reconocidos en la normativa aplicable.
+Artículo 3. Derechos de los Afectados.
+Las personas físicas y jurídicas afectadas por los ficheros podrán ejercitar su derecho 
+de acceso, cancelación, oposición y rectificación de datos, cuando proceda, ante el órgano 
+administrativo indicado en el Anexo correspondiente.
+DISPOSICIÓN DEROGATORIA
+Derogación normativa.
+Se derogan todas aquellas disposiciones de igual o inferior rango que se opongan a 
+lo dispuesto en la presente orden.
+DISPOSICIÓN FINAL
+Entrada en vigor.
+La presente orden entrará en vigor el día siguiente al de su publicación en el «Boletín 
+Oficial de Castilla y León».
+Valladolid, 2 de junio de 2014.
+El Consejero,
+Fdo.: Juan José Mateos Otero
+CV: BOCYL-D-11062014-2
+
+Boletín Oficial de Castilla y León
+Núm. 110
+Pág. 40773
+Miércoles, 11 de junio de 2014
+ANEXO I
+MODIFICACIÓN DE FICHEROS
+1.– Denominación del fichero: «CONTROL HORARIO».
+Fines y usos:
+Control horario mecanizado. Emisión de informes y estadísticas.
+Personas o colectivos afectados:
+Personal al servicio de la Consejería de Educación en dependencias con control 
+horario mecanizado.
+Procedimiento de recogida y procedencia de los datos:
+El propio interesado o su representante legal. Personal al servicio de la Consejería 
+de Educación en dependencias con control horario mecanizado.
+Estructura básica del fichero y descripción de los tipos de datos de carácter 
+personal:
+Datos de carácter identificativo: D.N.I./N.I.F., nombre y apellidos, dirección, 
+teléfono e imagen.
+Otros datos: Características personales y detalles del empleo.
+Cesiones de datos previstas:
+No están previstas.
+Órgano de la Administración responsable del fichero:
+Secretaría General de la Consejería de Educación.
+Servicio o Unidad ante el que pueden ejercitarse los derechos de acceso, rectificación, 
+cancelación y oposición:
+Servicio de Personal y Asuntos Generales.
+Sistema de tratamiento:
+Parcialmente Automatizado (Mixto).
+Medidas de Seguridad:
+Nivel básico.
+CV: BOCYL-D-11062014-2
+
+Boletín Oficial de Castilla y León
+Núm. 110
+Pág. 40774
+Miércoles, 11 de junio de 2014
+2.– Denominación del fichero: «TRANSFERENCIAS BANCARIAS».
+Fines y usos:
+Pago de facturas y estadísticas.
+Personas o colectivos afectados:
+Terceros que generen facturas.
+Procedimiento de recogida y procedencia de los datos:
+El propio interesado o su representante legal.
+Terceros que generen facturas.
+Estructura básica del fichero y descripción de los tipos de datos de carácter 
+personal:
+Datos de carácter identificativo: N.I.F., nombre y apellidos, dirección.
+Otros datos: Económicos, financieros y de seguros.
+Cesiones de datos previstas:
+No están previstas.
+Órgano de la Administración responsable del fichero:
+Secretaría General de la Consejería de Educación.
+Servicio o Unidad ante el que pueden ejercitarse los derechos de acceso, rectificación, 
+cancelación y oposición:
+Servicio de Asuntos Económicos.
+Sistema de tratamiento:
+Parcialmente Automatizado (Mixto).
+Medidas de Seguridad:
+Nivel básico.
+CV: BOCYL-D-11062014-2
+
+Boletín Oficial de Castilla y León
+Núm. 110
+http://bocyl.jcyl.es
+D.L.: BU 10-1979 - ISSN 1989-8959
+Pág. 40775
+Miércoles, 11 de junio de 2014
+ANEXO II
+SUPRESIÓN DE FICHEROS
+1.– Denominación del fichero: «GESTIÓN DE PERSONAL».
+Fines y usos:
+Elaboración de la nómina.
+IRPF.
+Presupuestos del Capítulo I.
+Código de inscripción asignado por la Agencia de Protección de Datos: 
+1992040011.
+Motivos de la supresión:
+Todos los datos referentes a la gestión de personal, han quedado integrados en el 
+fichero de datos de carácter personal de la Consejería de Hacienda denominado 
+«PÉRSIGO: Sistema Integrado de Gestión de Personal».
+Destino de la información o previsiones adoptadas para su destrucción:
+Destrucción o borrado de todos los datos obrantes en el mismo mediante la 
+adopción de medidas dirigidas a evitar el acceso a la información contenida en el 
+fichero que se suprime o su recuperación posterior.
+2.– Denominación del fichero: «PROVEEDORES».
+Fines y usos:
+Gestión de material de almacén de papelería, solicitud de pedidos, relación de 
+clientes y proveedores.
+Código de inscripción asignado por la Agencia de Protección de Datos: 
+Carece de código al no haberse inscrito en la Agencia.
+Motivos de la supresión: 
+Fichero en desuso.
+Destino de la información o previsiones adoptadas para su destrucción: 
+Destrucción o borrado de todos los datos obrantes en el mismo mediante la 
+adopción de medidas dirigidas a evitar el acceso a la información contenida en el 
+fichero que se suprime o su recuperación posterior.
+CV: BOCYL-D-11062014-2

@@ -1,0 +1,67 @@
+77 
+SIGLAS UTILIZADAS 
+UNIDADES 
+EI 
+PRI 
+ESP 
+Unidades jurídicas de Educación Infantil 
+Unidades jurídicas de Educación Primaria 
+Unidades jurídicas de Educación Especial 
+ 
+PLANTILLA DE CENTROS PÚBLICOS DE EDUCACIÓN INFANTIL, 
+PRIMARIA, ESPECIAL Y OBLIGATORIA 
+EI 
+PRI 
+FI 
+FF 
+EF 
+MU 
+PT 
+AL 
+ORDINARIOS 
+SING. ITIN. 
+C 
+*C 
+Puestos de Educación Infantil 
+Puestos de Educación Primaria 
+Puestos de Filología: Lengua Castellana e Inglés 
+Puestos de Filología: Lengua Castellana y Francés 
+Puestos de Educación Física 
+Puestos de Música 
+Puestos de Educación Especial: Pedagogía Terapéutica 
+Puestos de Educación Especial: Audición y Lenguaje 
+Puestos de trabajo de carácter ordinario 
+Puestos de trabajo de carácter singular/itinerante 
+Profesores compartidos con otros centros 
+Centro que comparte un profesor especialista procedente de otro centro 
+ 
+PLANTILLA EN INSTITUTOS DE EDUCACIÓN SECUNDARIA 
+IN 
+FR 
+LL 
+MA 
+CN 
+GH 
+EF 
+MU 
+PT 
+AL 
+ORDINARIOS 
+SING. ITIN. 
+C 
+*C 
+Puestos de Lengua Extranjera: Inglés 
+Puestos de Lengua Extranjera: Francés 
+Puestos de: Lengua Castellana y Literatura 
+Puestos de Matemáticas 
+Puestos de Ciencias de la Naturaleza 
+Puestos de Ciencias Sociales: Geografía e Historia 
+Puestos de Educación Física 
+Puestos de Música 
+Puestos de Educación Especial: Pedagogía Terapéutica 
+Puestos de Educación Especial: Audición y Lenguaje 
+Puestos de trabajo de carácter ordinario 
+Puestos de trabajo de carácter singular/itinerante 
+Profesores compartidos con otros centros 
+Centro que comparte un profesor especialista procedente de otro centro 
+ 

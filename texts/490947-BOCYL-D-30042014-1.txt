@@ -1,0 +1,349 @@
+Boletín Oficial de Castilla y León
+Núm. 81
+Pág. 29564
+Miércoles, 30 de abril de 2014
+I. COMUNIDAD DE CASTILLA Y LEÓN
+A. DISPOSICIONES GENERALES
+CONSEJERÍA DE EDUCACIÓN
+ORDEN EDU/292/2014, de 16 de abril, por la que se modifican ficheros de datos de 
+carácter personal de la Consejería de Educación.
+La Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter 
+Personal, en su artículo 20.1, establece que la creación, modificación o supresión de los 
+ficheros de las Administraciones Públicas sólo podrán hacerse por medio de disposición 
+general publicada en el «Boletín Oficial del Estado» o Diario Oficial correspondiente.
+Por su parte, el Decreto 11/2003, de 23 de enero, por el que se regulan los ficheros 
+de carácter personal susceptibles de tratamiento automatizado de la Administración de la 
+Comunidad de Castilla y León, dispone en su artículo 2 que la creación, modificación y 
+supresión de los ficheros de datos de carácter personal incluidos en el ámbito de aplicación 
+de la citada ley, se realizará por orden del titular de la Consejería competente por razón 
+de la materia a la que afectan, y que las órdenes de creación y modificación de ficheros 
+deberán recoger todos los apartados que establece el artículo 20 de la citada Ley Orgánica 
+15/1999, de 13 de diciembre.
+Mediante Orden EDU/401/2005, de 17 de marzo, modificada por Orden 
+EDU/2195/2008, de 17 de diciembre, se creó el fichero automatizado de datos de carácter 
+personal de los aspirantes a vacantes de personal laboral.
+A su vez, por Orden EDU/1198/2007, de 2 de julio, se creó el fichero automatizado de 
+datos de carácter personal denominado «Personal Docente de Centros Concertados».
+Finalmente, por Orden EDU/1781/2007, de 6 de noviembre, se crearon varios 
+ficheros automatizados de datos de carácter personal, entre los que se encuentran los 
+denominados «Ayudas de acción social para el profesorado», «Sistema integrado de 
+gestión de personal» y «Programa de nóminas del personal docente».
+A través de la presente orden se modifican los ficheros antes enunciados. Por una 
+parte, se declararan todos ellos como «parcialmente automatizados (mixtos)» respecto 
+al sistema de tratamiento, ya que los datos personales que contienen son susceptibles 
+de imprimirse en papel y por lo tanto deben aplicarse también las medidas previstas para 
+los ficheros no automatizados, siendo pertinente, en ciertos casos, la actualización de la 
+denominación de los propios ficheros. Por otra parte, una vez revisados los niveles de 
+seguridad de aquellos que lo tienen asignado como alto o medio, y que en función de su 
+finalidad, uso concreto o de la naturaleza de los datos que contienen, se ha optado, en 
+algunos casos, por atribuirles el «nivel básico», con el fin de adecuarlos a lo establecido 
+en el artículo 81 del Real Decreto 1720/2007, de 21 de diciembre, por el que se aprueba el 
+Reglamento de desarrollo de la Ley Orgánica 15/1999, de 13 de diciembre, de protección 
+de datos de carácter personal. También se procede a la actualización de la denominación 
+CV: BOCYL-D-30042014-1
+
+Boletín Oficial de Castilla y León
+Núm. 81
+Pág. 29565
+Miércoles, 30 de abril de 2014
+de determinados órganos de la Administración del Estado y de la Comunidad Autónoma 
+que figuran, bien en las cesiones previstas de los datos, o bien, como responsables 
+de los ficheros o ante los que pueden ejercitarse los derechos de acceso, rectificación 
+y cancelación, en virtud de los cambios o modificaciones producidas en su estructura 
+orgánica desde su creación o última modificación.
+En su virtud de las citadas normas y demás de general aplicación, y previo informe de 
+la Dirección General de Atención al Ciudadano, Calidad y Modernización de la Consejería 
+de Hacienda
+DISPONGO
+Artículo único. Modificación de ficheros de datos de carácter personal.
+Se modifican los ficheros de datos de carácter personal que se relacionan, en los 
+términos establecidos en los correspondientes Anexos:
+a)	Anexo I: Aspirantes a vacantes de personal laboral.
+b)	Anexo II: Personal Docente de Centros Concertados.
+c)	 Anexo III: Ayudas de acción social para el profesorado.
+d)	Anexo IV: Sistema integrado de gestión de personal.
+e)	Anexo V: Programa de nóminas del personal docente.
+DISPOSICIÓN FINAL
+Entrada en vigor.
+La presente orden entrará en vigor el día siguiente al de su publicación en el «Boletín 
+Oficial de Castilla y León».
+Valladolid, 16 de abril de 2014.
+El Consejero,
+Fdo.: Juan José Mateos Otero
+CV: BOCYL-D-30042014-1
+
+Boletín Oficial de Castilla y León
+Núm. 81
+Pág. 29566
+Miércoles, 30 de abril de 2014
+ANEXO I
+ASPIRANTES A VACANTES DE PERSONAL LABORAL
+Denominación del fichero:
+	
+Aspirantes a vacantes de personal laboral.
+Fines y usos:
+	
+Gestión de datos relativos a los solicitantes a procesos de provisión de puestos 
+de personal laboral.
+Personas o colectivos afectados:
+	
+Participantes a procesos de provisión de puestos de personal laboral.
+Procedimiento de recogida y procedencia de los datos:
+	
+Datos aportados por el propio interesado o su representante legal en la solicitud 
+de admisión a procesos de provisión de puestos de personal laboral.
+Estructura básica del fichero y descripción de los tipos de datos de carácter 
+personal:
+	
+Datos de carácter identificativo: N.I.F., nombre y apellidos, dirección, teléfono, 
+municipio, provincia, código postal.
+	
+Datos de características personales: Fecha de nacimiento, nacionalidad.
+	
+Datos académicos y profesionales: Formación, centro de expedición, cursos 
+realizados, servicios efectivos prestados.
+	
+Otros datos: Grado de discapacidad o invalidez para la adaptación a procesos de 
+provisión de puestos de personal laboral.
+Cesiones de datos previstas:
+	
+No están previstas.
+Órgano de la Administración responsable del fichero:
+	
+Dirección General de Recursos Humanos de la Consejería de Educación.
+Servicio o Unidad ante el que pueden ejercitarse los derechos de acceso, rectificación, 
+cancelación y oposición:
+	
+Dirección General de Recursos Humanos de la Consejería de Educación.
+Sistema de tratamiento:
+	
+Parcialmente automatizado (mixto).
+Medidas de Seguridad:
+	
+Nivel básico.
+CV: BOCYL-D-30042014-1
+
+Boletín Oficial de Castilla y León
+Núm. 81
+Pág. 29567
+Miércoles, 30 de abril de 2014
+ANEXO II
+PERSONAL DOCENTE DE CENTROS CONCERTADOS
+Denominación del fichero:
+	
+Personal docente de centros concertados.
+Fines y usos:
+	
+Gestión de datos relativos a la nómina del personal docente que presta servicios 
+en centros concertados.
+Personas o colectivos afectados:
+	
+Personal docente de centros concertados.
+Procedimiento de recogida y procedencia de los datos:
+	
+Datos aportados por el propio interesado o su representante legal en los 
+formularios que los centros entregan a la Administración.
+Estructura básica del fichero y descripción de los tipos de datos de carácter 
+personal:
+	
+Datos de carácter identificativo: N.I.F., n.º S.S./Mutualidad, nombre y apellidos, 
+dirección, teléfono, municipio, provincia, código postal.
+	
+Datos de características personales: Datos de estado civil, fecha de nacimiento, 
+edad y sexo.
+	
+Datos de detalle de empleo: Categoría/grado, puestos de trabajo.
+	
+Cesiones de datos previstas:
+	
+No están previstas.
+Órgano de la Administración responsable del fichero:
+	
+Dirección General de Recursos Humanos de la Consejería de Educación.
+Servicio o Unidad ante el que pueden ejercitarse los derechos de acceso, rectificación, 
+cancelación y oposición:
+	
+Dirección General de Recursos Humanos de la Consejería de Educación.
+Sistema de tratamiento:
+	
+Parcialmente automatizado (mixto).
+Medidas de Seguridad:
+	
+Nivel básico.
+CV: BOCYL-D-30042014-1
+
+Boletín Oficial de Castilla y León
+Núm. 81
+Pág. 29568
+Miércoles, 30 de abril de 2014
+ANEXO III
+AYUDAS DE ACCIÓN SOCIAL PARA EL PROFESORADO
+Denominación del fichero:
+	
+Ayudas de Acción Social para el profesorado.
+Fines y usos:
+	
+Gestión de las ayudas para la formación del profesorado y para compensar 
+gastos derivados de accidentes de tráfico sufridos por razón del servicio.
+Personas o colectivos afectados:
+	
+Formación del profesorado: Profesorado destinado en centros públicos y privados 
+de enseñanzas no universitarias de la Junta de Castilla y León.
+	
+Accidentes de tráfico: Profesorado de centros públicos y servicios de apoyo de 
+enseñanzas no universitarias dependientes de la Consejería de Educación de la 
+Junta de Castilla y León.
+Procedimiento de recogida y procedencia de los datos:
+	
+Datos aportados por el propio interesado mediante la presentación de las 
+solicitudes en registros o previa petición de subsanación de documentación.
+Estructura básica del fichero y descripción de los tipos de datos de carácter 
+personal:
+	
+Datos de carácter identificativo de las personas solicitantes de las ayudas: 
+Nombre y apellidos, D.N.I., domicilio (calle, localidad y provincia), importes 
+ayudas y retenciones.
+Cesiones previstas:
+	
+No están previstas.
+Órgano de la Administración responsable del fichero:
+	
+Dirección General de Recursos Humanos de la Consejería de Educación.
+Servicio o Unidad ante el que pueden ejercitarse los derechos de acceso, rectificación 
+y cancelación:
+	
+Dirección General de Recursos Humanos de la Consejería de Educación.
+Sistema de tratamiento:
+	
+Parcialmente automatizado (mixto).
+Medidas de seguridad:
+	
+Nivel básico.
+CV: BOCYL-D-30042014-1
+
+Boletín Oficial de Castilla y León
+Núm. 81
+Pág. 29569
+Miércoles, 30 de abril de 2014
+ANEXO IV
+SISTEMA INTEGRADO DE GESTIÓN DE PERSONAL
+Denominación del fichero:
+	
+Sistema Integrado de Gestión de Personal (SIGP).
+Fines y usos:
+	
+Registro y gestión de todos los actos que afectan a la vida administrativa del 
+personal docente, la determinación de plantillas y vacantes jurídicas de los 
+centros públicos así como la gestión de los procesos de concurso de traslados 
+para el personal funcionario y de selección de funcionarios e interinos.
+Personas o colectivos afectados:
+	
+Personal docente de los centros públicos y de apoyo de enseñanzas no 
+universitarias dependientes de la Consejería de Educación de la Junta de Castilla 
+y León.
+Procedimiento de recogida y procedencia de los datos:
+	
+Datos aportados por el propio interesado mediante declaración y/o formularios 
+que entregan a la Administración y datos obtenidos de los procesos gestionados 
+por la propia Administración.
+Estructura básica del fichero y descripción de los tipos de datos de carácter 
+personal:
+	
+El fichero se estructura en los siguientes módulos: Gestión administrativa del 
+personal, concurso traslados, oposiciones, gestión de listas de interinos y 
+plantillas jurídicas.
+	
+El fichero contiene:
+–	 Datos de carácter identificativo: Nombre, apellidos, cuerpo de pertenencia 
+y forma de acceso, especialidad y nota de acceso, especialidades y 
+habilitaciones, centros de destino y servicio.
+–	 Datos de carácter personal: Sexo, estado civil, número de hijos, fecha y 
+lugar de nacimiento, domicilio y teléfono.
+–	 Datos administrativos: Tomas de posesión, ceses, sexenios, trienios, 
+prórrogas en el servicio activo, cargos, licencias y permisos concedidas, 
+sanciones disciplinarias y situaciones administrativas así como aquéllas 
+que deriven de su relación jurídico-administrativa, puntuaciones de los 
+méritos aportados en los diversos procesos de provisión y selección.
+–	 Datos de plantillas: Código y denominación del centro, municipio, localidad, 
+unidades y puestos jurídicos.
+	
+Todos los datos son actuales e históricos.
+CV: BOCYL-D-30042014-1
+
+Boletín Oficial de Castilla y León
+Núm. 81
+Pág. 29570
+Miércoles, 30 de abril de 2014
+Cesiones previstas:
+	
+Dirección General de la Función Pública de la Consejería de Hacienda, Consejería 
+de Educación, Tesorería General de la Seguridad Social, Ministerio de Educación, 
+Cultura y Deporte, Ministerio de Hacienda y Administraciones Públicas (AEAT) y 
+MUFACE.
+Órgano de la Administración responsable del fichero:
+	
+Dirección General de Recursos Humanos de la Consejería de Educación.
+Servicio o Unidad ante el que pueden ejercitarse los derechos de acceso, rectificación 
+y cancelación:
+	
+Dirección General de Recursos Humanos de la Consejería de Educación y 
+Direcciones Provinciales de Educación.
+Sistema de tratamiento:
+	
+Parcialmente automatizado (mixto).
+Medidas de seguridad:
+	
+Nivel medio.
+CV: BOCYL-D-30042014-1
+
+Boletín Oficial de Castilla y León
+Núm. 81
+http://bocyl.jcyl.es
+D.L.: BU 10-1979 - ISSN 1989-8959
+Pág. 29571
+Miércoles, 30 de abril de 2014
+ANEXO V
+PROGRAMA DE NÓMINAS DEL PERSONAL DOCENTE
+Denominación del fichero:
+	
+Programa de Nóminas del Personal Docente.
+Fines y usos:
+	
+Elaboración de nómina, obtención de hojas de salario, seguros sociales, formularios 
+de retenciones y entregas a cuenta para el I.R.P.F. y certificados de retenciones.
+Personas o colectivos afectados:
+	
+Personal docente de los centros públicos y de apoyo de enseñanzas no 
+universitarias dependientes de la Consejería de Educación de la Junta de Castilla 
+y León.
+Procedimiento de recogida y procedencia de los datos:
+	
+Datos aportados por el propio interesado, mediante declaración y/o formulario, y 
+los que se desprenden del nombramiento o contrato de trabajo en soporte papel.
+Estructura básica del fichero y descripción de los tipos de datos de carácter 
+personal:
+	
+N.I.F., n.º afiliación en la Seguridad Social, nombre y apellidos, dirección, 
+n.º Registro Personal, estado civil, n.º de hijos, fecha de nacimiento, sexo, puesto 
+de trabajo, datos no económicos de nómina, datos bancarios, datos económicos 
+de nómina, grado de discapacidad y afiliación a organización sindical.
+Cesiones previstas:
+	
+Dirección General de la Función Pública de la Consejería de Hacienda, Entidades 
+Bancarias Colaboradoras, Tesorería General de la Seguridad Social, Ministerio 
+de Hacienda y Administraciones Públicas (AEAT) y MUFACE.
+Órgano de la Administración responsable del fichero:
+	
+Dirección General de Recursos Humanos de la Consejería de Educación.
+Servicio o Unidad ante el que pueden ejercitarse los derechos de acceso, rectificación 
+y cancelación:
+	
+Dirección General de Recursos Humanos de la Consejería de Educación y 
+Direcciones Provinciales de Educación.
+Sistema de tratamiento:
+	
+Parcialmente automatizado (mixto).
+Medidas de seguridad:
+	
+Nivel básico.
+CV: BOCYL-D-30042014-1

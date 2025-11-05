@@ -1,0 +1,2764 @@
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71889
+Miércoles, 22 de septiembre de 2010
+I. COMUNIDAD DE CASTILLA Y LEÓN
+A. DISPOSICIONES GENERALES
+CONSEJERÍA DE EDUCACIÓN
+DECRETO 37/2010, de 16 de septiembre, por el que se establece el currículo 
+correspondiente al título de Técnico en Instalaciones de Telecomunicaciones en la 
+Comunidad de Castilla y León.
+El artículo 73.1 del Estatuto de Autonomía de Castilla y León, atribuye a la Comunidad 
+de Castilla y León la competencia de desarrollo legislativo y ejecución de la enseñanza 
+en toda su extensión, niveles y grados, modalidades y especialidades, de acuerdo con 
+el derecho a la educación que todos los ciudadanos tienen, según lo establecido en el 
+artículo 27 de la Constitución Española y las leyes orgánicas que lo desarrollan.
+La Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación 
+Profesional, establece en el artículo 10.1 que la Administración General del Estado, 
+determinará los títulos y los certificados de profesionalidad, que constituirán las ofertas de 
+formación profesional referidas al Catálogo Nacional de Cualificaciones Profesionales.
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación, determina en su artículo 39.6 
+que el Gobierno, establecerá las titulaciones correspondientes a los estudios de formación 
+profesional, así como los aspectos básicos del currículo de cada una de ellas.
+El Real Decreto 1538/2006, de 15 de diciembre, por el que se establece la 
+ordenación general de la formación profesional del sistema educativo define en el 
+artículo 6, la estructura de los títulos de formación profesional, tomando como base el 
+Catálogo Nacional de Cualificaciones Profesionales, las directrices fijadas por la Unión 
+Europea y otros aspectos de interés social. El artículo 7 concreta el perfil profesional 
+de dichos títulos, que incluirá la competencia general, las competencias profesionales, 
+personales y sociales, las cualificaciones y, en su caso, las unidades de competencia del 
+Catálogo Nacional de Cualificaciones Profesionales incluidas en los títulos.
+Por otro lado, el artículo 17 del citado Real Decreto 1538/2006, de 15 de diciembre, 
+dispone que las Administraciones educativas establecerán los currículos de las enseñanzas 
+de formación profesional respetando lo en él dispuesto y en las normas que regulen los 
+títulos respectivos.
+Posteriormente, el Real Decreto 1632/2009, de 30 de octubre, establece el título de 
+Técnico en Instalaciones de Telecomunicaciones y se fijan sus enseñanzas mínimas.
+El presente Decreto establece el currículo correspondiente al título de Técnico 
+en Instalaciones de Telecomunicaciones en la Comunidad de Castilla y León, teniendo 
+en cuenta los principios generales que han de orientar la actividad educativa, según lo 
+previsto en el artículo 1 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación. Pretende 
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71890
+Miércoles, 22 de septiembre de 2010
+dar respuesta a las necesidades generales de cualificación de los recursos humanos para 
+su incorporación a la estructura productiva de la Comunidad de Castilla y León.
+En el proceso de elaboración de este Decreto se ha recabado dictamen del Consejo 
+Escolar de Castilla y León e informe del Consejo de Formación Profesional de Castilla y 
+León.
+En su virtud, la Junta de Castilla y León, a propuesta del Consejero de Educación, y 
+previa deliberación del Consejo de Gobierno en su reunión de 16 de septiembre de 2010
+DISPONE
+Artículo 1.– Objeto y ámbito de aplicación.
+El presente Decreto tiene por objeto establecer el currículo del título de Técnico en 
+Instalaciones de Telecomunicaciones en la Comunidad de Castilla y León. 
+Artículo 2.– Identificación del título.
+El título de Técnico en Instalaciones de Telecomunicaciones queda identificado en 
+la Comunidad de Castilla y León por los elementos determinados en el artículo 2 del Real 
+Decreto 1632/2009, de 30 de octubre, por el que se establece el citado título y se fijan sus 
+enseñanzas mínimas, y por un código, de la forma siguiente:
+FAMILIA PROFESIONAL: Electricidad y Electrónica.
+DENOMINACIÓN: Instalaciones de Telecomunicaciones.
+NIVEL: Formación Profesional de Grado Medio.
+DURACIÓN: 2.000 horas.
+REFERENTE EUROPEO: CINE–3 (Clasificación Internacional Normalizada de la 
+Educación).
+CÓDIGO: ELE02M
+Artículo 3.– Referentes de la formación.
+1.– Los aspectos relativos al perfil profesional del título determinado por la 
+competencia general, por las competencias profesionales, personales y sociales, la relación 
+de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones 
+Profesionales incluidas en el título, el entorno profesional y la prospectiva del título en el 
+sector o sectores, son los que se especifican en el Real Decreto 1632/2009, de 30 de 
+octubre.
+2.– El aspecto relativo al entorno productivo en Castilla y León es el que se especifica 
+en el Anexo I.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71891
+Miércoles, 22 de septiembre de 2010
+Artículo 4.– Objetivos generales.
+Los objetivos generales del ciclo formativo son los establecidos en el artículo 9 del 
+Real Decreto 1632/2009, de 30 de octubre.
+Artículo 5.– Principios metodológicos generales.
+1.– La metodología didáctica de las enseñanzas de formación profesional integrará 
+los aspectos científicos, tecnológicos y organizativos que en cada caso correspondan, con 
+el fin de que el alumnado adquiera una visión global de los procesos productivos propios 
+de la actividad profesional correspondiente.
+2.– Las enseñanzas de formación profesional para personas adultas se organizarán 
+con una metodología flexible y abierta, basada en el autoaprendizaje.
+Artículo 6.– Módulos profesionales del ciclo formativo.
+Los módulos profesionales que componen el ciclo formativo de Técnico en 
+Instalaciones de Telecomunicaciones son los establecidos en el artículo 10 del Real 
+Decreto 1632/2009, de 30 de octubre.
+0237. 	 Infraestructuras comunes de telecomunicación en viviendas y edificios.
+0238. 	 Instalaciones domóticas.
+0359. 	 Electrónica aplicada.
+0360. 	 Equipos microinformáticos.
+0361. 	 Infraestructuras de redes de datos y sistemas de telefonía.
+0362. 	 Instalaciones eléctricas básicas.
+0363. 	 Instalaciones de megafonía y sonorización.
+0364. 	 Circuito cerrado de televisión y seguridad electrónica.
+0365. 	 Instalaciones de radiocomunicaciones.
+0366. 	 Formación y orientación laboral.
+0367.	 Empresa e iniciativa emprendedora.
+0368. 	 Formación en centros de trabajo.
+Artículo 7.– Objetivos, contenidos, duración y orientaciones pedagógicas y 
+metodológicas de cada módulo profesional.
+1.– Los objetivos expresados en términos de resultados de aprendizaje y criterios de 
+evaluación de los módulos profesionales «Infraestructuras comunes de telecomunicación 
+en viviendas y edificios», «Electrónica aplicada», «Equipos microinformáticos», 
+«Infraestructuras de redes de datos y sistemas de telefonía», «Instalaciones eléctricas 
+básicas», «Instalaciones de megafonía y sonorización», «Circuito cerrado de televisión y 
+seguridad electrónica», «Instalaciones de radiocomunicaciones», «Formación y orientación 
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71892
+Miércoles, 22 de septiembre de 2010
+laboral», «Empresa e iniciativa emprendedora» y «Formación en centros de trabajo», son 
+los establecidos en el Real Decreto 1632/2009, de 30 de octubre. 
+Por su parte, los contenidos, la duración y las orientaciones pedagógicas 
+y metodológicas de los módulos profesionales «Infraestructuras comunes de 
+telecomunicación en viviendas y edificios», «Electrónica aplicada», «Equipos 
+microinformáticos», «Infraestructuras de redes de datos y sistemas de telefonía», 
+«Instalaciones eléctricas básicas», «Instalaciones de megafonía y sonorización», «Circuito 
+cerrado de televisión y seguridad electrónica», «Instalaciones de radiocomunicaciones», 
+«Formación y orientación laboral» y «Empresa e iniciativa emprendedora», son los que 
+se establecen en el Anexo II. Asimismo, en el citado Anexo se establece la duración del 
+módulo profesional «Formación en centros de trabajo».
+2.– Los objetivos del módulo profesional «Instalaciones domóticas» expresados en 
+términos de resultados de aprendizaje, criterios de evaluación, duración, contenidos y 
+orientaciones pedagógicas y metodológicas, son los que se establecen en el Anexo II.
+Artículo 8.– Módulo profesional de Formación en centros de trabajo.
+El programa formativo del módulo profesional de «Formación en centros de trabajo» 
+será individualizado para cada alumno y se elaborará teniendo en cuenta las características 
+del centro de trabajo. Deberá recoger las actividades formativas que permitan ejecutar o 
+completar la competencia profesional correspondiente al título, los resultados de aprendizaje 
+y los criterios de evaluación previstos en el Real Decreto 1632/2009, de 30 de octubre.
+Artículo 9.– Organización y distribución horaria. 
+Los módulos profesionales que forman las enseñanzas del ciclo formativo de Técnico 
+en Instalaciones de Telecomunicaciones se organizarán en dos cursos académicos. Su 
+distribución en cada uno de ellos y la asignación horaria semanal se recoge en el Anexo III.
+Artículo 10.– Adaptaciones Curriculares.
+1.– Con objeto de ofrecer a todas las personas la oportunidad de adquirir una 
+formación básica, ampliar y renovar sus conocimientos, habilidades y destrezas de modo 
+permanente y facilitar el acceso a las enseñanzas de formación profesional, la Consejería 
+competente en materia de educación podrá flexibilizar la oferta del ciclo formativo de 
+Técnico en Instalaciones de Telecomunicaciones permitiendo, principalmente a los adultos, 
+la posibilidad de combinar el estudio y la formación con la actividad laboral o con otras 
+actividades, respondiendo así a las necesidades e intereses personales.
+2.– También se podrá adecuar las enseñanzas de este ciclo formativo a las 
+características de la educación a distancia, así como a las características de los alumnos 
+con necesidades educativas específicas.
+Artículo 11.– Accesos y vinculación a otros estudios, y correspondencia de módulos 
+profesionales con las unidades de competencia.
+El acceso y vinculación a otros estudios, y la correspondencia de los módulos 
+profesionales con las unidades de competencia son los que se establecen en el 
+Capítulo IV del Real Decreto 1632/2009, de 30 de octubre.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71893
+Miércoles, 22 de septiembre de 2010
+Artículo 12.– Enseñanzas impartidas en lenguas extranjeras o en lenguas cooficiales 
+de otras Comunidades Autónomas.
+1.– Teniendo en cuenta que la promoción de la enseñanza y el aprendizaje de lenguas 
+y de la diversidad lingüística debe de constituir una prioridad de la acción comunitaria en el 
+ámbito de la educación y la formación, la Consejería competente en materia de educación 
+podrá autorizar que todos o determinados módulos profesionales del currículo se impartan 
+en lenguas extranjeras o en lenguas cooficiales de otra Comunidad Autónoma, sin perjuicio 
+de lo que se establezca en su normativa específica y sin que ello suponga modificación de 
+currículo establecido en el presente Decreto.
+2.– Los centros autorizados deberán incluir en su proyecto educativo los elementos 
+más significativos de su proyecto lingüístico autorizado.
+Artículo 13.– Oferta a distancia del título.
+1.– Los módulos profesionales que forman las enseñanzas del ciclo formativo de 
+Técnico en Instalaciones de Telecomunicaciones podrán ofertarse a distancia, siempre 
+que se garantice que el alumno puede conseguir los resultados de aprendizaje de los 
+mismos, de acuerdo con lo dispuesto en el Real Decreto 1632/2009, de 30 de octubre, y 
+en este Decreto.
+2.– La Consejería competente en materia de educación establecerá los módulos 
+profesionales susceptibles de ser impartidos a distancia y el porcentaje de horas de cada 
+uno de ellos que tienen que impartirse en régimen presencial.
+Artículo 14.– Requisitos de los centros para impartir estas enseñanzas.
+Todos los centros de titularidad pública o privada que ofrezcan enseñanzas 
+conducentes a la obtención del título de Técnico en Instalaciones de Telecomunicaciones 
+se ajustarán a lo establecido en la Ley Orgánica 2/2006, de 3 de mayo, de Educación y 
+en las normas que lo desarrollen, y en todo caso, deberán cumplir los requisitos que se 
+establecen en el artículo 52 del Real Decreto 1538/2006, de 15 de diciembre, por el que 
+se establece la ordenación general de la formación profesional del sistema educativo, en 
+el Real Decreto 1632/2009, de 30 de octubre, en este Decreto y en lo establecido en el 
+desarrollo de su propia normativa.
+Artículo 15.– Profesorado. 
+Los aspectos referentes al profesorado con atribución docente en los módulos 
+profesionales del ciclo formativo de Técnico en Instalaciones de Telecomunicaciones, 
+relacionados en el artículo 6, son los establecidos en el artículo 12 del Real Decreto 
+1632/2009, de 30 de octubre.
+Artículo 16.– Espacios y equipamientos. 
+Los espacios y equipamientos necesarios para el desarrollo de las enseñanzas del 
+ciclo formativo de Técnico en Instalaciones de Telecomunicaciones son los establecidos 
+en el artículo 11 del Real Decreto 1632/2009, de 30 de octubre.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71894
+Miércoles, 22 de septiembre de 2010
+Artículo 17.– Autonomía de los centros.
+1.– Los centros educativos dispondrán de la necesaria autonomía pedagógica, de 
+organización y de gestión económica, para el desarrollo de las enseñanzas y su adaptación 
+a las características concretas del entorno socioeconómico, cultural y profesional. Los 
+centros autorizados para impartir el ciclo formativo concretarán y desarrollarán el currículo 
+mediante las programaciones didácticas de cada uno de los módulos profesionales que 
+componen el ciclo formativo en los términos establecidos en el Real Decreto 1632/2009, 
+de 30 de octubre, en este Decreto en el marco general del proyecto educativo de centro y 
+en función de las características de su entorno productivo. 
+2.– La Consejería competente en materia de educación favorecerá la elaboración de 
+proyectos de innovación, así como de modelos de programación docente y de materiales 
+didácticos que faciliten al profesorado el desarrollo del currículo.
+3.– Los centros, en el ejercicio de su autonomía, podrán desarrollar experiencias, 
+planes de trabajo, formas de organización o ampliación del horario escolar en los términos 
+que establezca la Consejería competente en materia de educación, sin que, en ningún 
+caso, se impongan aportaciones ni exigencias a las familias o al alumnado.
+DISPOSICIONES ADICIONALES
+Primera.– Calendario de implantación.
+La implantación del currículo establecido en este Decreto tendrá lugar en el curso 
+escolar 2010/2011 para el primer curso del ciclo formativo y en el curso escolar 2011/2012 
+para el segundo curso del ciclo formativo.
+Segunda.– Vinculación con capacitaciones profesionales.
+La formación establecida en el presente Decreto en el módulo profesional de 
+«Formación y orientación laboral», incluye un mínimo de 50 horas, que capacita para llevar 
+a cabo responsabilidades profesionales equivalentes a las que precisan las actividades de 
+nivel básico en prevención de riesgos laborales, establecidas en el Real Decreto 39/1997, 
+de 17 de enero, por el que se aprueba el Reglamento de los Servicios de Prevención.
+Tercera.– Certificación académica de superación del nivel básico en prevención de 
+riesgos laborales.
+La Consejería competente en materia de educación expedirá una certificación 
+académica de la formación de nivel básico en prevención de riesgos laborales, al alumnado 
+que haya superado el bloque B del módulo profesional de «Formación y orientación 
+laboral», de acuerdo con el procedimiento que se establezca al efecto.
+Cuarta.– Equivalencia a efectos de docencia en los procedimientos selectivos de 
+ingreso en el Cuerpo de Profesores Técnicos de Formación Profesional.
+En los procesos selectivos convocados por la Consejería competente en materia de 
+educación, el Título de Técnico Superior o de Técnico Especialista se declara equivalente 
+a los exigidos para el acceso al Cuerpo de Profesores Técnicos de Formación Profesional, 
+cuando el titulado haya ejercido como profesor interino en centros educativos públicos 
+dependientes de la Consejería competente en materia de educación y en la especialidad 
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71895
+Miércoles, 22 de septiembre de 2010
+docente a la que pretenda acceder durante un período mínimo de dos años antes del 31 
+de agosto de 2007. 
+Quinta.– Accesibilidad universal en las enseñanzas de este título.
+La Consejería competente en materia de educación adoptará las medidas necesarias 
+para que el alumnado pueda acceder y cursar dicho ciclo formativo en las condiciones 
+establecidas en la disposición final décima de la Ley 51/2003, de 2 de diciembre, de 
+igualdad de oportunidades, no discriminación y accesibilidad universal de las personas 
+con discapacidad. 
+DISPOSICIÓN DEROGATORIA
+Derogación normativa.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo 
+establecido en el presente Decreto.
+DISPOSICIONES FINALES
+Primera.– Desarrollo normativo.
+Se faculta al titular de la Consejería competente en materia de educación para dictar 
+cuantas disposiciones sean precisas para la interpretación, aplicación y desarrollo de lo 
+dispuesto en este Decreto.
+Segunda.– Entrada en vigor.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el 
+«Boletín Oficial de Castilla y León».
+Valladolid, a 16 de septiembre de 2010.
+El Presidente 
+de la Junta de Castilla y León, 
+Fdo.: Juan Vicente Herrera Campo
+El Consejero de Educación, 
+Fdo.: Juan José Mateos Otero
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71896
+Miércoles, 22 de septiembre de 2010
+ANEXO I
+ENTORNO PRODUCTIVO DE CASTILLA Y LEÓN 
+El perfil profesional de este título, dentro del sector terciario, evoluciona hacia un 
+técnico con gran especialización en la instalación y mantenimiento de infraestructuras de 
+telecomunicaciones, sistemas de seguridad, redes, domótica, telefonía, sonido y equipos 
+informáticos y con un incremento en el desempeño de funciones de planificación, calidad 
+y prevención de riesgos laborales.
+La evolución tecnológica se está consolidando sobre las redes de telecomunicación 
+de banda ancha, basadas principalmente en fibra óptica para el tránsito de cualquier tipo 
+de información. 
+La dispersión y gran extensión geográfica de nuestra comunidad,  hace que la 
+distribución de la señal de radio, TV, banda ancha y telefonía móvil requiera de técnicos 
+con la cualificación que aporta este ciclo formativo.
+La plantas productoras de energía ya sean fotovoltaicas, eólicas, o minicentrales 
+hidráulicas, cuya implantación en la Comunidad Autónoma de Castilla y León es muy 
+relevante, se encuentran habitualmente en parajes deshabitados. En estas centrales, 
+dado el interés económico que tienen y debido a su vulnerabilidad, se requiere de forma 
+imprescindible de la instalación de un sistema de seguridad que vaya acompañado de 
+video vigilancia, así como de diferentes sistemas de transmisión telemática de señales. 
+Este ciclo capacita al futuro profesional instalador de telecomunicaciones a la 
+instalación y mantenimiento de los sistemas de video vigilancia, telemando, telemedida y 
+telecontrol de plantas de producción de energías renovables, las cuales en esta Comunidad 
+están implantadas de manera muy significativa. 
+ANEXO II
+OBJETIVOS, CONTENIDOS, DURACIÓN Y ORIENTACIONES PEDAGÓGICAS Y 
+METODOLÓGICAS DE LOS MÓDULOS PROFESIONALES
+Módulo Profesional: Infraestructuras comunes de telecomunicación en 
+viviendas y edificios.
+Código: 0237
+Duración: 126 horas
+Contenidos:
+1. Identificación de los elementos de infraestructuras de telecomunicaciones: 
+– 	 Normativa sobre infraestructuras comunes para servicios de telecomunicación 
+en edificios (ICT). 
+– 	 Instalaciones de ICT: 
+– 	 Recintos y registros. 
+– 	 Canalizaciones y redes. 
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71897
+Miércoles, 22 de septiembre de 2010
+– 	 Antenas y líneas de transmisión: 
+– 	 Antenas de radio. 
+– 	 Antenas de TV. Tipos y elementos. 
+– 	 Telefonía interior e intercomunicación. 
+– 	 Sistemas de telefonía: conceptos y ámbito de aplicación. 
+– 	 Centrales telefónicas: tipología, características y jerarquías. 
+– 	 Simbología en las instalaciones de ICT. 
+– 	 Sistemas de interfonía y videoportería: conceptos básicos y ámbito de 
+aplicación. 
+– 	 Control de accesos y seguridad. 
+– 	 Redes digitales y tecnologías emergentes. 
+2. Configuración de pequeñas instalaciones de infraestructuras de telecomunicaciones 
+en edificios: 
+– 	 Normativa sobre infraestructuras comunes para servicios de telecomunicación 
+en edificios (ICT). 
+– 	 Configuración de las instalaciones de antenas: 
+– 	 Parábolas, mástiles, torres y accesorios de montaje. 
+– 	 Equipo de cabecera. 
+– 	 Elementos para la distribución. 
+– 	 Redes: Cables, fibra óptica y elementos de interconexión. 
+– 	 Instalaciones de antena de TV y radio individuales y en ICT. Elementos y 
+partes. Tipología. Características. 
+– 	 Simbología en las instalaciones de antenas. 
+– 	 Configuración de instalaciones de telefonía e intercomunicación. 
+– 	 Equipos y elementos. 
+– 	 Medios de transmisión: Cables, fibra óptica y elementos de interconexión en 
+instalaciones de telefonía e intercomunicación. 
+– 	 Simbología en las instalaciones de telefonía e intercomunicación. 
+3. Montaje de instalaciones de infraestructuras de telecomunicaciones en edificios: 
+– 	 Documentación y planos de instalaciones de ICT. 
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71898
+Miércoles, 22 de septiembre de 2010
+– 	 Montaje de instalaciones de antenas: 
+– 	 Técnicas específicas de montaje. 
+– 	 Herramientas y útiles para el montaje. 
+– 	 Normas de seguridad personal y de los equipos. 
+– 	 Montaje de instalaciones de telefonía e intercomunicación: 
+– 	 Técnicas específicas de montaje. 
+– 	 Herramientas y útiles para el montaje. 
+– 	 Normas de seguridad personal y de los equipos. 
+– 	 Calidad en el montaje de instalaciones de ICT. 
+4. Verificación, ajuste y medida de los elementos y parámetros de las instalaciones 
+de infraestructuras de telecomunicaciones: 
+– 	 Instrumentos y procedimientos de medida en instalaciones de ICT. 
+– 	 Parámetros de funcionamiento en las instalaciones de ICT. Ajustes y puesta a 
+punto. 
+– 	 Puesta en servicio de la instalación de ICT. 
+5. Localización de averías y disfunciones en equipos e instalaciones de infraestructuras 
+de telecomunicaciones: 
+– 	 Averías típicas en instalaciones de ICT. 
+– 	 Criterios y puntos de revisión. 
+– 	 Operaciones programadas. 
+– 	 Equipos y medios a utilizar. Instrumentos de medida. 
+– 	 Diagnóstico y localización de averías. 
+– 	 Normativa de seguridad. Equipos y elementos. Medidas de protección, 
+señalización y seguridad. 
+6. Reparación de instalaciones de infraestructuras de telecomunicaciones en 
+edificios: 
+– 	 Herramientas y útiles para reparación y mantenimiento de ICT. 
+– 	 Reparación de averías. 
+– 	 Calidad. 
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71899
+Miércoles, 22 de septiembre de 2010
+7. Seguridad, prevención de riesgos laborales y protección ambiental: 
+– 	 Normas de seguridad en el montaje de instalaciones de ICT. 
+– 	 Medios y equipos de seguridad en el montaje de instalaciones de ICT. 
+Orientaciones pedagógicas y metodológicas. 
+Este módulo profesional contiene la formación necesaria para desempeñar la función 
+de montaje y mantenimiento de infraestructuras de telecomunicaciones en edificios. 
+La definición de estas funciones incluye aspectos como: 
+– 	 La interpretación y representación de esquemas de instalaciones de 
+infraestructuras comunes de telecomunicaciones en viviendas y edificios. 
+– 	 La identificación de componentes, herramientas y equipos. 
+– 	 La configuración de pequeñas instalaciones de ICT. 
+– 	 El montaje de instalaciones de ICT. 
+– 	 La medida, ajuste y verificación de parámetros. 
+– 	 La localización de averías y disfunciones en equipos e instalaciones. 
+– 	 El mantenimiento y reparación de instalaciones. 
+– 	 La realización de memorias e informes técnicos asociados. 
+– 	 El cumplimiento de la normativa sobre seguridad, prevención de riesgos laborales 
+y protección ambiental. 
+Las actividades profesionales asociadas a esta función se aplican en: 
+– 	 Instalar y mantener instalaciones de captación de señales de radiodifusión sonora 
+y TV. 
+– 	 Instalar y mantener instalaciones de comunicación interior. 
+– 	 Instalar y mantener instalaciones de telefonía y control de accesos. 
+La formación del módulo contribuye a alcanzar los objetivos generales: 
+– 	 Identificar los elementos de las infraestructuras, instalaciones y equipos, 
+analizando planos y esquemas y reconociendo los materiales y procedimientos 
+previstos, para establecer la logística asociada al montaje y mantenimiento.
+– 	 Elaborar croquis y esquemas, empleando medios y técnicas de dibujo y 
+representación simbólica normalizada, para configurar y calcular la instalación.
+– 	 Obtener los parámetros típicos de las instalaciones y equipos, aplicando 
+procedimientos de cálculo y atendiendo a las especificaciones y prescripciones 
+reglamentarias, para configurar y calcular la instalación.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71900
+Miércoles, 22 de septiembre de 2010
+– 	 Valorar el coste de los materiales y mano de obra, consultando catálogos y 
+unidades de obra, para elaborar el presupuesto del montaje o mantenimiento.
+– 	 Seleccionar el utillaje, herramientas, equipos y medios de montaje y de seguridad, 
+analizando las condiciones de obra y considerando las operaciones a realizar, 
+para acopiar los recursos y medios.
+– 	 Identificar y marcar la posición de los elementos de la instalación o equipo y el 
+trazado de los circuitos, relacionando los planos de la documentación técnica con 
+su ubicación real, para replantear la instalación.
+– 	 Aplicar técnicas de mecanizado, conexión, medición y montaje, manejando los 
+equipos, herramientas e instrumentos, según procedimientos establecidos y en 
+condiciones de calidad y seguridad, para efectuar el montaje o mantenimiento de 
+los elementos componentes de infraestructuras.
+– 	 Ubicar y fijar los equipos y elementos soporte y auxiliares, interpretando los 
+planos y especificaciones de montaje, en condiciones de seguridad y calidad, 
+para montar equipos, instalaciones e infraestructuras.
+– 	 Conectar los equipos y elementos auxiliares mediante técnicas de conexión 
+y empalme, de acuerdo con los esquemas de la documentación técnica, para 
+montar las infraestructuras y para instalar los equipos.
+– 	 Analizar y localizar los efectos y causas de disfunción o avería en las instalaciones 
+y equipos, utilizando equipos de medida e interpretando los resultados, para 
+mantener y reparar instalaciones y equipos.
+– 	 Comprobar la configuración y el software de control de los equipos siguiendo las 
+instrucciones del fabricante, para mantener y reparar instalaciones y equipos.
+– 	 Comprobar el conexionado, software, señales y parámetros característicos entre 
+otros, utilizando la instrumentación y protocolos establecidos, en condiciones de 
+calidad y seguridad, para verificar el funcionamiento de la instalación o equipo.
+– 	 Cumplimentar fichas de mantenimiento, informes de montaje y reparación y 
+manuales de instrucciones, siguiendo los procedimientos y formatos establecidos, 
+para elaborar la documentación de la instalación o equipo.
+– 	 Analizar y describir los procedimientos de calidad, prevención de riesgos laborales 
+y medioambientales, señalando las acciones que es preciso realizar en los casos 
+definidos para actuar de acuerdo con las normas estandarizadas.
+– 	 Mantener comunicaciones efectivas con su grupo de trabajo, interpretando 
+y generando instrucciones, proponiendo soluciones ante contingencias y 
+coordinando las actividades de los miembros del grupo con actitud abierta y 
+responsable, para integrarse en la organización de la empresa.
+La formación del módulo contribuye a alcanzar las competencias profesionales, 
+personales y sociales del título: 
+– 	 Establecer la logística asociada al montaje y mantenimiento, interpretando la 
+documentación técnica de las infraestructuras, instalaciones y equipos.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71901
+Miércoles, 22 de septiembre de 2010
+– 	 Configurar y calcular instalaciones de telecomunicaciones, audiovisuales, 
+domóticas y eléctricas de interior, determinando el emplazamiento y características 
+de los elementos que las constituyen, respetando las especificaciones y las 
+prescripciones reglamentarias.
+– 	 Elaborar el presupuesto de montaje o mantenimiento de la instalación o equipo.
+– 	 Acopiar los recursos y medios para acometer la ejecución del montaje o 
+mantenimiento de las instalaciones y equipos.
+– 	 Replantear la instalación de acuerdo a la documentación técnica, resolviendo 
+los problemas de su competencia e informando de otras contingencias, para 
+asegurar la viabilidad del montaje.
+– 	 Montar los elementos componentes de las infraestructuras e instalaciones 
+(canalizaciones, cableado, armarios, soportes, entre otros) utilizando técnicas de 
+montaje, en condiciones de calidad, seguridad y respeto al medio ambiente.
+– 	 Mantener y reparar instalaciones y equipos realizando las operaciones de 
+comprobación, ajuste o sustitución de sus elementos y reprogramando los 
+equipos, restituyendo su funcionamiento en condiciones de calidad, seguridad y 
+respeto al medio ambiente.
+– 	 Verificar el funcionamiento de la instalación o equipo realizando pruebas 
+funcionales y de comprobación, para proceder a su puesta en servicio.
+– 	 Elaborar la documentación técnica y administrativa de la instalación o equipo, de 
+acuerdo con la reglamentación y normativa vigente y con los requerimientos del 
+cliente.
+– 	 Aplicar los protocolos y normas de seguridad, de calidad y respeto al medio 
+ambiente en las intervenciones realizadas en los procesos de montaje y 
+mantenimiento de las instalaciones.
+– 	 Integrarse en la organización de la empresa colaborando en la consecución 
+de los objetivos y participando activamente en el grupo de trabajo con actitud 
+respetuosa y tolerante.
+– 	 Adaptarse a diferentes puestos de trabajo y nuevas situaciones laborales, originados 
+por cambios tecnológicos y organizativos en los procesos productivos.
+– 	 Resolver problemas y tomar decisiones individuales siguiendo las normas y 
+procedimientos establecidos, definidos dentro del ámbito de su competencia.
+Las líneas de actuación en el proceso enseñanza–aprendizaje que permiten alcanzar 
+los objetivos del módulo versarán sobre: 
+– 	 Interpretación de documentación técnica relativa a ICT. 
+– 	 Realización e interpretación de esquemas de instalaciones. 
+– 	 Montaje y mantenimiento de instalaciones de ICT. 
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71902
+Miércoles, 22 de septiembre de 2010
+– 	 Realización de medidas, ajustes y verificación de parámetros. 
+– 	 Elaboración de documentación técnica. 
+– 	 Valoración de costes, elaboración de presupuestos y documentación 
+administrativa. 
+Módulo Profesional: Instalaciones domóticas.
+Código: 0238
+Resultados de aprendizaje y criterios de evaluación:
+1. Identifica áreas, dispositivos y sistemas automáticos que configuran las 
+instalaciones automatizadas en viviendas, analizando el funcionamiento,  
+características y normas de aplicación.
+Criterios de evaluación:
+a) 	Se han reconocido las distintas tipologías de automatizaciones domésticas.
+b) 	Se han reconocido los principios de funcionamiento de las redes automáticas en 
+viviendas. 
+c) 	Se han reconocido aplicaciones automáticas, autónomas e integrales,  en las 
+áreas de control, confort, seguridad, energía y telecomunicaciones.
+d) 	Se han descrito las distintas tecnologías aplicadas a la automatización de 
+viviendas.
+e) 	Se han descrito las características especiales de los conductores en este tipo de 
+instalación.
+f) 	Se han identificado los equipos y ele­mentos que configuran la instalación 
+automatizada, interpretando la documenta­ción técnica.
+g) 	Se ha consultado la normativa vigente relativa a las instalaciones automatizadas 
+en viviendas.
+h) 	Se han relacionado los elementos de la instalación con los símbolos que aparecen 
+en los esquemas.
+2. Configura sistemas técnicos, justificando su elección y reconociendo su 
+funcionamiento.
+Criterios de evaluación:
+a)	Se han descrito los tipos de instalaciones automatizadas en viviendas y edificios  
+en función del sistema de control.
+b)	Se han reconocido las distintas técnicas de transmisión.
+c)	 Se han identificado los distintos tipos de  sensores y actuadores.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71903
+Miércoles, 22 de septiembre de 2010
+d)	Se han descrito los diferentes protocolos de las instalaciones automatizadas.
+e)	Se ha descrito el sistema de bus de campo.
+f)	 Se han descrito los sistemas controlados por autómata programable y con otros 
+controladores programables.
+g)	Se han descrito los sistemas por corrientes portadoras.
+h)	Se han descrito los sistemas inalámbricos.
+i)	 Se ha utilizado el software de configuración apropiado a cada sistema.
+j)	 Se ha utilizado documentación técnica.
+3. Monta pequeñas instalaciones automatizadas de viviendas, describiendo los 
+elementos que las conforman.
+Criterios de evaluación:
+a)	Se han realizado los croquis y esquemas necesarios para configurar las 
+instalaciones.
+b)	Se han determinado los parámetros de los elementos y equipos de la 
+instalación.
+c)	 Se han conectado los sensores y actuadores para un sistema domótico con 
+autómata programable y para otros con controladores programables.
+d)	Se ha realizado el cableado de un sistema por bus de campo.
+e)	Se han montado sensores y actuadores, elementos de control y supervisión de un 
+sistema domótico por bus de campo, corrientes portadoras y red inalámbrica.
+f)	 Se ha verificado su correcto funcionamiento.
+g)	Se han respetado los criterios de calidad.
+h)	Se ha aplicado la normativa vigente.
+Monta las áreas de control de una instalación domótica siguiendo los procedimientos 
+establecidos.
+Criterios de evaluación:
+a)	Se han consultado catálogos comerciales para seleccionar los materiales a 
+instalar.
+b)	Se han utilizado las herramientas y equipos adecuados para cada uno de los 
+sistemas.
+c)	 Se ha elegido la opción que mejor cumple las especificaciones funcionales, 
+técnicas y normativas así como de obra de la instalación.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71904
+Miércoles, 22 de septiembre de 2010
+d)	Se han realizado los croquis y esquemas para configurar la solución propuesta. 
+e)	Se ha tendido el cableado de acuerdo con las características del sistema.
+f)	 Se han programado los elementos de control de acuerdo a las especificaciones 
+dadas y al manual del fabricante. 
+g)	Se ha realizado la puesta en servicio de la instalación.
+h)	Se ha realizado el presupuesto correspondiente a la solución adoptada.
+i)	 Se han respetado los criterios de calidad. 
+5. Mantiene instalaciones domóticas, atendiendo a las especificaciones del 
+sistema.
+Criterios de evaluación:
+a)	Se han ajustado las distintas áreas de gestión para que funcionen 
+coordinadamente.
+b)	Se han medido los parámetros eléctricos de distorsión en la red.
+c)	 Se han identificado los elementos susceptibles de mantenimiento.
+d)	Se ha comprobado la compatibilidad del elemento sustituido.
+e)	Se ha comprobado, en el caso de mantenimiento correctivo,  que la avería 
+coincide con la indicada en el parte de averías.
+f)	 Se han  realizado las pruebas,  comprobaciones y ajustes con la precisión 
+necesaria para la puesta en servicio de la instalación,  siguiendo lo especificado 
+en la documentación técnica.
+g)	Se ha elaborado, en su caso, un informe de disconformidades relativas al plan de 
+calidad.
+6. Diagnostica averías y disfunciones en equipos e instalaciones domóticas, aplicando 
+técnicas de medición y relacionando éstas con las causas que las producen.
+Criterios de evaluación:
+a)	Se han ajustado las distintas áreas de gestión para que funcionen 
+coordinadamente.
+b)	Se han medido los parámetros eléctricos de distorsión en la red.
+c)	 Se han identificado los elementos susceptibles de mantenimiento.
+d)	Se han propuesto hipótesis razonadas de las posibles causas de la disfunción y 
+su repercusión en la instalación.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71905
+Miércoles, 22 de septiembre de 2010
+e)	Se han realizado las medidas de los parámetros de funcionamiento utilizando los 
+instrumentos o el software adecuados.
+f)	 Se ha localizado la avería utilizando un procedimiento técnico de intervención.
+g)	Se ha reparado la avería.
+h)	Se ha confeccionado un informe de incidencias.
+i)	 Se ha elaborado un informe, en el formato adecuado, de las actividades 
+desarrolladas y de los resultados obtenidos,  que permitirá actualizar el histórico 
+de averías.
+j)	 Se han respetado los criterios de calidad. 
+7. Cumple las normas de prevención de riesgos laborales y de protección ambiental, 
+identificando los riesgos asociados, las medidas y equipos para prevenirlos.
+Criterios de evaluación:
+a)	Se han identificado los riesgos y el nivel de peligrosidad que suponen la 
+manipulación de los materiales, herramientas, útiles, máquinas y medios de 
+transporte.
+b)	Se han operado las máquinas respetando las normas de seguridad.
+c)	 Se han identificado las causas más frecuentes de accidentes en la manipulación 
+de materiales, herramientas, máquinas de corte y conformado, entre otras.
+d)	Se han descrito los elementos de seguridad (protecciones, alarmas, pasos de 
+emergencia, entre otros) de las máquinas y los equipos de protección individual 
+(calzado, protección ocular, indumentaria, entre otros) que se deben emplear en 
+las distintas operaciones de mecanizado.
+e)	Se ha relacionado la manipulación de materiales, herramientas y máquinas con 
+las medidas de seguridad y protección personal requeridos.
+f)	 Se han determinado las medidas de seguridad y de protección personal que se 
+deben adoptar  en la preparación y ejecución de las operaciones de montaje y 
+mantenimiento de las instalaciones domóticas y sus instalaciones asociadas.
+g)	Se han identificado las posibles fuentes de contaminación del entorno 
+ambiental.
+h)	Se han clasificado los residuos generados para su retirada selectiva.
+i)	 Se ha valorado el orden y la limpieza de instalaciones y equipos como primer 
+factor de prevención de riesgos.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71906
+Miércoles, 22 de septiembre de 2010
+Duración: 126 horas
+Contenidos:
+1. Instalaciones domóticas, áreas de utilización: 
+–	 Soluciones autónomas de automatización: Dispositivos de control de persianas–
+toldos, telemandos telefónicos, tiempo-temperatura, entre otros. 
+–	 Sistemas domóticos aplicados a las viviendas. 
+– 	 Transducción de las principales magnitudes físicas (temperatura, presión, 
+velocidad e iluminación, entre otras). 
+–	 Áreas de aplicación de las instalaciones domésticas. 
+–	 Elementos fundamentales de una instalación domótica: Sensores, actuadores, 
+dispositivos de control y elementos auxiliares. 
+2. Sistemas técnicos aplicados en la automatización de viviendas: 
+–	 Sistemas de automatización con autómata programable y con otros sistemas por 
+controladores programables. 
+–	 Sistemas con cableado específico bus de campo. 
+–	 Sistemas por corrientes portadoras. 
+–	 Sistemas inalámbricos. 
+3. Montaje de instalaciones electrotécnicas automatizadas de viviendas:
+–	  Planos y esquemas eléctricos normalizados. Tipología. 
+–	 Emplazamiento y montaje de los elementos de las instalaciones domóticas en 
+viviendas según el área de aplicación. 
+–	 Preinstalación de sistemas automáticos: Canalizaciones, tubos, cajas, estructura, 
+entre otros. 
+–	 Ejecución del montaje: Cableado, conexionado de dispositivos, instalación de 
+dispositivos, configuración de sensores y actuadores. 
+–	 Programación y configuración de elementos. 
+4. Montaje y configuración de las áreas de control en viviendas: 
+–	 Instalaciones con distintas áreas de control. 
+–	 Coordinación entre sistemas distintos. 
+–	 Cableados específicos y comunes en las instalaciones de viviendas domóticas. 
+–	 Programación y puesta en servicios de áreas de control en viviendas. 
+–	 Planificación de las áreas de control de una vivienda domótica. 
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71907
+Miércoles, 22 de septiembre de 2010
+5. Mantenimiento de instalaciones electrotécnicas automatizadas en viviendas: 
+–	 Instrumentos de medida específicos en los sistemas domóticos. 
+–	 Ajustes de elementos de control. 
+–	 Mantenimientos correctivo y preventivo en las instalaciones domóticas. 
+–	 Mantenimiento de áreas en sistemas domóticos. 
+–	 Mantenimiento de sistemas en instalaciones domóticas. 
+–	 Medios y equipos de seguridad. 
+6. Averías en las instalaciones electrotécnicas automatizadas de viviendas: 
+–	 Averías tipo en las instalaciones automatizadas: Síntomas y efectos. 
+–	 Diagnóstico de averías: Pruebas, medidas, procedimientos y elementos de 
+seguridad. 
+–	 Reparación de averías en instalaciones domóticas. 
+–	 Reposición de mecanismos y receptores de sistemas domóticos. 
+–	 Informes de incidencias en las instalaciones domóticas. 
+7. Prevención de riesgos laborales y protección ambiental: 
+–	 Identificación de riesgos. 
+–	 Determinación de las medidas de prevención de riesgos laborales. 
+–	 Prevención de riesgos laborales en los procesos de montaje y mantenimiento. 
+–	 Equipos de protección individual. 
+–	 Cumplimiento de la normativa de prevención de riesgos laborales. 
+–	 Cumplimiento de la normativa de protección ambiental. 
+Orientaciones pedagógicas y metodológicas. 
+Este módulo profesional contiene la formación necesaria para desempeñar la función 
+de instalador, mantenedor de instalaciones automatizadas en viviendas. 
+La definición de estas funciones incluye aspectos como: 
+–	 La interpretación y representación de esquemas de instalaciones automatizadas 
+en viviendas. 
+–	 El montaje y mantenimiento de instalaciones eléctricas automatizadas en el área 
+de gestión de seguridad. 
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71908
+Miércoles, 22 de septiembre de 2010
+–	 El montaje y mantenimiento de instalaciones eléctricas automatizadas en el área 
+de la confortabilidad. 
+–	 El montaje y mantenimiento de instalaciones eléctricas automatizadas en el área 
+de gestión de energía. 
+–	 El montaje y mantenimiento de instalaciones eléctricas automatizadas en el área 
+de gestión de las comunicaciones. 
+–	 La configuración de sistemas automáticos en viviendas. 
+–	 El mantenimiento y la reparación de instalaciones domóticas. 
+–	 La realización de la memoria técnica de diseño o la interpretación de proyectos 
+eléctricos. 
+Las actividades profesionales asociadas a esta función se aplican en montaje y 
+mantenimiento de instalaciones y sistemas domóticos. 
+La formación del módulo contribuye a alcanzar los objetivos generales: 
+–	 Identificar los elementos de las infraestructuras, instalaciones y equipos, 
+analizando planos y esquemas y reconociendo los materiales y procedimientos 
+previstos, para establecer la logística asociada al montaje y mantenimiento.
+–	 Elaborar croquis y esquemas, empleando medios y técnicas de dibujo y 
+representación simbólica normalizada, para configurar y calcular la instalación.
+–	 Obtener los parámetros típicos de las instalaciones y equipos, aplicando 
+procedimientos de cálculo y atendiendo a las especificaciones y prescripciones 
+reglamentarias, para configurar y calcular la instalación.
+–	 Valorar el coste de los materiales y mano de obra, consultando catálogos y 
+unidades de obra, para elaborar el presupuesto del montaje o mantenimiento.
+–	 Seleccionar el utillaje, herramientas, equipos y medios de montaje y de seguridad, 
+analizando las condiciones de obra y considerando las operaciones a realizar, 
+para acopiar los recursos y medios.
+–	 Identificar y marcar la posición de los elementos de la instalación o equipo y el 
+trazado de los circuitos, relacionando los planos de la documentación técnica con 
+su ubicación real, para replantear la instalación.
+–	 Aplicar técnicas de mecanizado, conexión, medición y montaje, manejando los 
+equipos, herramientas e instrumentos, según procedimientos establecidos y en 
+condiciones de calidad y seguridad, para efectuar el montaje o mantenimiento de 
+los elementos componentes de infraestructuras.
+–	 Ubicar y fijar los equipos y elementos soporte y auxiliares, interpretando los 
+planos y especificaciones de montaje, en condiciones de seguridad y calidad, 
+para montar equipos, instalaciones e infraestructuras.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71909
+Miércoles, 22 de septiembre de 2010
+–	 Conectar los equipos y elementos auxiliares mediante técnicas de conexión 
+y empalme, de acuerdo con los esquemas de la documentación técnica, para 
+montar las infraestructuras y para instalar los equipos.
+–	 Analizar y localizar los efectos y causas de disfunción o avería en las instalaciones 
+y equipos, utilizando equipos de medida e interpretando los resultados, para 
+mantener y reparar instalaciones y equipos.
+–	 Comprobar el conexionado, software, señales y parámetros característicos entre 
+otros, utilizando la instrumentación y protocolos establecidos, en condiciones de 
+calidad y seguridad, para verificar el funcionamiento de la instalación o equipo.
+–	 Cumplimentar fichas de mantenimiento, informes de montaje y reparación y 
+manuales de instrucciones, siguiendo los procedimientos y formatos establecidos, 
+para elaborar la documentación de la instalación o equipo.
+La formación del módulo contribuye a alcanzar las competencias profesionales, 
+personales y sociales del título: 
+–	 Establecer la logística asociada al montaje y mantenimiento, interpretando la 
+documentación técnica de las infraestructuras, instalaciones y equipos.
+–	 Configurar y calcular instalaciones de telecomunicaciones, audiovisuales, 
+domóticas y eléctricas de interior, determinando el emplazamiento y características 
+de los elementos que las constituyen, respetando las especificaciones y las 
+prescripciones reglamentarias.
+–	 Elaborar el presupuesto de montaje o mantenimiento de la instalación o equipo.
+–	 Acopiar los recursos y medios para acometer la ejecución del montaje o 
+mantenimiento de las instalaciones y equipos.
+–	 Replantear la instalación de acuerdo a la documentación técnica, resolviendo 
+los problemas de su competencia e informando de otras contingencias, para 
+asegurar la viabilidad del montaje.
+–	 Montar los elementos componentes de las infraestructuras e instalaciones 
+(canalizaciones, cableado, armarios, soportes, entre otros) utilizando técnicas de 
+montaje, en condiciones de calidad, seguridad y respeto al medio ambiente.
+–	 Mantener y reparar instalaciones y equipos realizando las operaciones de 
+comprobación, ajuste o sustitución de sus elementos y reprogramando los 
+equipos, restituyendo su funcionamiento en condiciones de calidad, seguridad y 
+respeto al medio ambiente.
+–	 Verificar el funcionamiento de la instalación o equipo realizando pruebas 
+funcionales y de comprobación, para proceder a su puesta en servicio.
+–	 Elaborar la documentación técnica y administrativa de la instalación o equipo, de 
+acuerdo con la reglamentación y normativa vigente y con los requerimientos del 
+cliente.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71910
+Miércoles, 22 de septiembre de 2010
+–	 Aplicar los protocolos y normas de seguridad, de calidad y respeto al medio 
+ambiente en las intervenciones realizadas en los procesos de montaje y 
+mantenimiento de las instalaciones.
+Las líneas de actuación en el proceso enseñanza–aprendizaje que permiten alcanzar 
+los objetivos del módulo versarán sobre: 
+–	 Reconocimiento de las áreas de automatización en viviendas. 
+–	 Configuración de sistemas aplicados a la automatización de viviendas. 
+–	 Montaje y mantenimiento de instalaciones automáticas en viviendas. 
+–	 Realización de la memoria técnica de diseño o la interpretación de proyectos 
+eléctricos.
+Módulo profesional: Electrónica aplicada.
+Código: 0359
+Duración: 198 horas
+Contenidos:
+1. Cálculos y medidas en corriente continua (CC):
+–	 Naturaleza de la electricidad.
+–	 Generación y consumo de la electricidad.
+–	 Efectos de la electricidad: químico y térmico.
+–	 Magnitudes eléctricas fundamentales. Unidades.
+–	 Leyes fundamentales de la electricidad.
+–	 Aparatos de medida. Procedimientos de medida
+–	 Componentes pasivos. Tipos, características y aplicaciones. 
+–	 Generadores: asociación.
+–	 Receptores: asociación.
+–	 Simbología normalizada.
+2. Reconocimiento de los principios básicos del electromagnetismo:
+–	 Magnetismo.
+–	 Campo magnético creado por una corriente eléctrica: electroimán.
+–	 Magnitudes magnéticas. Unidades.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71911
+Miércoles, 22 de septiembre de 2010
+–	 Interacciones entre campos magnéticos y corrientes eléctricas.
+–	 Fuerzas sobre corrientes situadas en el interior de campos magnéticos.
+–	 Fuerzas electromotrices inducidas.
+–	 Ley de Faraday.
+–	 Interferencia electromagnética.
+–	 Compatibilidad electromagnética: inmunidad y emisividad.
+3. Cálculos y medidas en corriente alterna (CA):
+–	 Tipos de corrientes alternas.
+–	 Valores característicos de una corriente alterna. Cálculos.
+–	 Comportamiento de los receptores elementales (resistencia, bobina y  
+condensador) en corriente alterna.
+–	 Potencia y energía en corriente alterna. Cálculo.
+–	 Factor de potencia. 
+–	 Medidas en corriente alterna. Equipos y procedimientos.
+–	 Resonancia.
+–	 Armónicos.
+–	 Conexión de receptores trifásicos.
+–	 Potencias y energía en trifásico.
+–	 Visualización de señales.
+4. Montaje de circuitos analógicos básicos:
+–	 Componentes activos. Tipos, características y aplicaciones. 
+–	 Amplificadores.
+–	 Circuitos de potencia.
+–	 Circuitos temporizadores y osciladores.
+–	 Circuitos convertidores analógico/digital (A/D).
+–	 Montaje/simulación y medidas de circuitos.
+5. Caracterización de fuentes de alimentación:
+–	 Fuentes lineales:
+–	 Transformador.
+–	 Rectificador.
+–	 Filtrado.
+– Regulación.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71912
+Miércoles, 22 de septiembre de 2010
+–	 Fuentes conmutadas. Características. Fundamentos. Bloques funcionales.
+–	 Medidas y visualización de señales.
+6. Montaje de circuitos con amplificadores operacionales:
+–	 Tipologías.
+–	 Características fundamentales.
+–	 Montaje y simulación de circuitos básicos. Medidas.
+–	 Aplicaciones.
+7. Montaje de circuitos digitales:
+–	 Introducción a las técnicas digitales: sistemas de numeración.
+–	 Puertas lógicas: tipos. Simbología normalizada.
+–	 Circuitos combinacionales: tipologías.
+–	 Circuitos secuenciales: tipologías.
+–	 Circuitos convertidores digital–analógicos (D/A).
+–	 Montaje y simulación de circuitos básicos.
+–	 Aplicaciones.
+8. Aplicación de circuitos microprogramables:
+–	 Estructura de microprocesadores y microcontroladores.
+–	 Lógica asociada:
+–	 Memorias.
+–	 Periféricos.
+–	 Esquemas de bloques de aplicaciones.
+–	 Organigramas de aplicaciones.
+–	 Carga de programas. Ejecución.
+Orientaciones pedagógicas y metodológicas:
+Este módulo profesional es un módulo soporte, por lo que da respuesta a la necesidad 
+de proporcionar una adecuada base teórica y práctica para la comprensión de las funciones 
+y características de equipos y elementos electrónicos utilizados en instalaciones y sistemas 
+de telecomunicaciones, instalaciones domóticas y redes de datos, entre otros.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71913
+Miércoles, 22 de septiembre de 2010
+La formación es de carácter generalista, por lo que el módulo puede ser común en 
+distintos Títulos de la Familia Profesional e incluso servir para Títulos de otras Familias 
+Profesionales que necesiten una formación electrónica de base.
+La definición de estas funciones incluye aspectos como:
+–	 Identificación práctica de los fundamentos de electricidad y electromagnetismo.
+–	 Identificación práctica de las principales características de circuitos electrónicos 
+analógicos y digitales básicos mediante circuitos funcionales.
+–	 Identificación práctica de sistemas de alimentación.
+–	 Implementación de circuitos microprogramables en entrenadores didácticos o 
+similares.
+La formación del módulo contribuye a alcanzar los objetivos generales: 
+–	 Identificar los elementos de las infraestructuras, instalaciones y equipos, 
+analizando planos y esquemas y reconociendo los materiales y procedimientos 
+previstos, para establecer la logística asociada al montaje y mantenimiento.
+–	 Elaborar croquis y esquemas, empleando medios y técnicas de dibujo y 
+representación simbólica normalizada, para configurar y calcular la instalación.
+–	 Obtener los parámetros típicos de las instalaciones y equipos, aplicando 
+procedimientos de cálculo y atendiendo a las especificaciones y prescripciones 
+reglamentarias, para configurar y calcular la instalación.
+–	 Seleccionar el utillaje, herramientas, equipos y medios de montaje y de seguridad, 
+analizando las condiciones de obra y considerando las operaciones a realizar, 
+para acopiar los recursos y medios.
+–	 Analizar y localizar los efectos y causas de disfunción o avería en las instalaciones 
+y equipos, utilizando equipos de medida e interpretando los resultados, para 
+mantener y reparar instalaciones y equipos.
+–	 Comprobar el conexionado, software, señales y parámetros característicos entre 
+otros, utilizando la instrumentación y protocolos establecidos, en condiciones de 
+calidad y seguridad, para verificar el funcionamiento de la instalación o equipo.
+–	 Analizar y describir los procedimientos de calidad, prevención de riesgos laborales 
+y medioambientales, señalando las acciones que es preciso realizar en los casos 
+definidos para actuar de acuerdo con las normas estandarizadas.
+La formación del módulo contribuye a alcanzar las competencias profesionales, 
+personales y sociales del título: 
+–	 Configurar y calcular instalaciones de telecomunicaciones, audiovisuales, 
+domóticas y eléctricas de interior, determinando el emplazamiento y características 
+de los elementos que las constituyen, respetando las especificaciones y las 
+prescripciones reglamentarias.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71914
+Miércoles, 22 de septiembre de 2010
+–	 Acopiar los recursos y medios para acometer la ejecución del montaje o 
+mantenimiento de las instalaciones y equipos.
+–	 Mantener y reparar instalaciones y equipos realizando las operaciones de 
+comprobación, ajuste o sustitución de sus elementos y reprogramando los 
+equipos, restituyendo su funcionamiento en condiciones de calidad, seguridad y 
+respeto al medio ambiente.
+–	 Verificar el funcionamiento de la instalación o equipo realizando pruebas 
+funcionales y de comprobación, para proceder a su puesta en servicio.
+Las líneas de actuación en el proceso de enseñanza–aprendizaje que permiten 
+alcanzar los objetivos del módulo versarán sobre:
+–	 Utilización de aplicaciones prácticas para identificar los fundamentos de circuitos 
+electrónicos básicos.
+–	 Representación gráfica de esquemas electrónicos con la simbología adecuada.
+–	 Elección de los componentes y materiales necesarios.
+–	 Conexionado de equipos e instrumentos de medida y visualización.
+–	 Manejo de manuales de características de fabricantes (en soporte informático y 
+papel).
+–	 Utilización de las tecnologías de la información y comunicación.
+–	 Verificación de la funcionalidad de los circuitos electrónicos básicos.
+–	 Aplicación de técnicas de aprendizaje cooperativo.
+Módulo profesional: Equipos microinformáticos.
+Código: 0360
+Duración: 165 horas 
+Contenidos:
+1. Montaje y configuración de equipos microinformáticos:
+–	 Bloques funcionales de un sistema microinformático.
+–	 Componentes de equipos microinformáticos.
+–	 La placa base y el microprocesador.
+–	 Tipología de los microprocesadores
+–	 Memorias: Tipos y características.
+–	 Sistemas de refrigeración.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71915
+Miércoles, 22 de septiembre de 2010
+–	 Sistemas de almacenamiento de datos.
+–	 Adaptador gráfico.
+–	 Otros dispositivos de entrada/salida integrados.
+–	 Interpretación de documentación técnica.
+–	 Ensamblado de equipos microinformáticos.
+–	 Configuración del software de la placa base.
+–	 Herramientas de chequeo y diagnóstico.
+–	 Sistemas de alimentación ininterrumpida (SAI).
+2. Instalación de sistemas operativos:
+–	 Concepto de sistema operativo. Elementos y estructura del sistema operativo.
+–	 Funciones del sistema operativo.
+–	 Planificación de la instalación del sistema operativo.
+–	 Instalación y actualización de sistemas operativos libres y propietarios.
+–	 Gestores de arranque.
+–	 Verificación de la instalación.
+3. Configuración de los sistemas operativos:
+–	 Gestión de perfiles de usuarios y grupos locales. Contraseñas.
+–	 Gestión del sistema de archivos.
+–	 Recursos compartidos.
+–	 Gestión de los procesos del sistema y de usuario.
+–	 Activación y desactivación de servicios.
+–	 Base de datos de configuración y comportamiento del sistema operativo, hardware 
+instalado y aplicaciones.
+–	 Instalación de aplicaciones (antivirus, antispyware y herramientas de optimización, 
+entre otras). 
+–	 Utilidades para la creación de imágenes de partición/disco.
+–	 Restauración de imágenes.
+–	 Utilidades de partición del disco duro.
+–	 Controladores.
+–	 Configuración para el acceso a redes.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71916
+Miércoles, 22 de septiembre de 2010
+4. Instalación de periféricos:
+–	 Monitores: tipos y características.
+–	 Impresoras: tipos, especificaciones y funcionamiento.
+–	 Periféricos de captura y digitalización de imágenes.
+–	 Otros periféricos multimedia: sonido e  imagen, entre otros.
+–	 Periféricos de entrada/salida.
+–	 Periféricos inalámbricos.
+–	 Periféricos de uso industrial.
+–	 Interpretación de manuales técnicos.
+–	 Mantenimiento básico de los diferentes periféricos.
+5. Manejo de herramientas informáticas:
+–	 Tratamiento y procesado de texto.
+–	 Creación de hojas de cálculo.
+–	 Creación de bases de datos.
+–	 Creación de presentaciones.
+–	 Tratamiento gráfico y de video.
+–	 Manejo de las utilidades de Internet.
+–	 Gestores de correo electrónico y navegadores web.
+–	 Otras aplicaciones.
+6. Mantenimiento de equipos microinformáticos:
+–	 Técnicas de mantenimiento preventivo.
+–	 Detección de averías en un equipo microinformático.
+–	 Señales de aviso, luminosas y acústicas.
+–	 Fallos comunes.
+–	 Ampliaciones de hardware.
+–	 Incompatibilidades.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71917
+Miércoles, 22 de septiembre de 2010
+7. Cumplimiento de las normas de prevención de riesgos laborales y protección 
+ambiental:
+–	 Identificación de riesgos.
+–	 Determinación de las medidas de prevención de riesgos laborales.
+–	 Prevención de riesgos laborales en los procesos de montaje y mantenimiento.
+–	 Equipos de protección individual.
+–	 Cumplimiento de la normativa de prevención de riesgos laborales.
+–	 Cumplimiento de la normativa de protección ambiental.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional es un módulo soporte. Contiene la formación necesaria para 
+desempeñar las funciones de montar y mantener equipos microinformáticos y periféricos 
+comunes, instalar sistemas operativos y trabajar con software ofimático e Internet.
+La definición de estas funciones incluye aspectos como:
+–	 La manipulación de los elementos que forman el componente físico de los equipos 
+microinformáticos.
+–	 El montaje/desmontaje de los componentes de un equipo microinformático.
+–	 El chequeo y monitorización de equipos.
+–	 El diagnóstico y resolución de averías.
+–	 La ampliación y/o sustitución de componentes en equipos.
+–	 La puesta en servicio y mantenimiento de periféricos.
+–	 La instalación y actualización de sistemas operativos para su utilización en 
+sistemas microinformáticos.
+Las actividades profesionales asociadas a esta función se aplican en:
+–	 Montaje y ensamblado de equipos.
+–	 Mantenimiento de equipos.
+–	 Puesta en servicio y mantenimiento de periféricos.
+–	 Instalación y actualización de sistemas operativos. 
+La formación del módulo contribuye a alcanzar los objetivos generales: 
+–	 Identificar los elementos de las infraestructuras, instalaciones y equipos, 
+analizando planos y esquemas y reconociendo los materiales y procedimientos 
+previstos, para establecer la logística asociada al montaje y mantenimiento.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71918
+Miércoles, 22 de septiembre de 2010
+–	 Obtener los parámetros típicos de las instalaciones y equipos, aplicando 
+procedimientos de cálculo y atendiendo a las especificaciones y prescripciones 
+reglamentarias, para configurar y calcular la instalación.
+–	 Valorar el coste de los materiales y mano de obra, consultando catálogos y 
+unidades de obra, para elaborar el presupuesto del montaje o mantenimiento.
+–	 Seleccionar el utillaje, herramientas, equipos y medios de montaje y de seguridad, 
+analizando las condiciones de obra y considerando las operaciones a realizar, 
+para acopiar los recursos y medios.
+–	 Identificar, ensamblar e interconectar periféricos y componentes, atendiendo 
+a las especificaciones técnicas, para montar o ampliar equipos informáticos y 
+periféricos.
+–	 Reconocer y ejecutar los procedimientos de instalación y carga de programas, 
+siguiendo las especificaciones del fabricante y aplicando criterios de calidad, 
+para instalar y configurar software base, sistemas operativos y aplicaciones.  
+–	 Aplicar técnicas de mecanizado, conexión, medición y montaje, manejando los 
+equipos, herramientas e instrumentos, según procedimientos establecidos y en 
+condiciones de calidad y seguridad, para efectuar el montaje o mantenimiento de 
+los elementos componentes de infraestructuras.
+–	 Ubicar y fijar los equipos y elementos soporte y auxiliares, interpretando los 
+planos y especificaciones de montaje, en condiciones de seguridad y calidad, 
+para montar equipos, instalaciones e infraestructuras.
+–	 Conectar los equipos y elementos auxiliares mediante técnicas de conexión 
+y empalme, de acuerdo con los esquemas de la documentación técnica, para 
+montar las infraestructuras y para instalar los equipos.
+–	 Cargar o volcar programas siguiendo las instrucciones del fabricante y aplicando 
+criterios de calidad para instalar equipos.
+–	 Analizar y localizar los efectos y causas de disfunción o avería en las instalaciones 
+y equipos, utilizando equipos de medida e interpretando los resultados, para 
+mantener y reparar instalaciones y equipos.
+–	 Comprobar la configuración y el software de control de los equipos siguiendo las 
+instrucciones del fabricante, para mantener y reparar instalaciones y equipos.
+–	 Sustituir los elementos defectuosos desmontando y montando los equipos 
+y realizando los ajustes necesarios, analizando planes de mantenimiento 
+y protocolos de calidad y seguridad, para mantener y reparar instalaciones y 
+equipos.
+–	 Cumplimentar fichas de mantenimiento, informes de montaje y reparación y 
+manuales de instrucciones, siguiendo los procedimientos y formatos establecidos, 
+para elaborar la documentación de la instalación o equipo.
+–	 Analizar y describir los procedimientos de calidad, prevención de riesgos laborales 
+y medioambientales, señalando las acciones que es preciso realizar en los casos 
+definidos para actuar de acuerdo con las normas estandarizadas.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71919
+Miércoles, 22 de septiembre de 2010
+La formación del módulo contribuye a alcanzar las competencias profesionales, 
+personales y sociales del título: 
+–	 Establecer la logística asociada al montaje y mantenimiento, interpretando la 
+documentación técnica de las infraestructuras, instalaciones y equipos.
+–	 Configurar y calcular instalaciones de telecomunicaciones, audiovisuales, 
+domóticas y eléctricas de interior, determinando el emplazamiento y características 
+de los elementos que las constituyen, respetando las especificaciones y las 
+prescripciones reglamentarias.
+–	 Acopiar los recursos y medios para acometer la ejecución del montaje o 
+mantenimiento de las instalaciones y equipos.
+–	 Montar o ampliar equipos informáticos y periféricos, configurándolos, asegurando 
+y verificando su funcionamiento, en condiciones de calidad y seguridad.
+–	 Instalar y configurar software base, sistemas operativos y aplicaciones asegurando 
+y verificando su funcionamiento, en condiciones de calidad y seguridad.
+–	 Mantener y reparar instalaciones y equipos realizando las operaciones de 
+comprobación, ajuste o sustitución de sus elementos y reprogramando los 
+equipos, restituyendo su funcionamiento en condiciones de calidad, seguridad y 
+respeto al medio ambiente.
+–	 Verificar el funcionamiento de la instalación o equipo realizando pruebas 
+funcionales y de comprobación, para proceder a su puesta en servicio.
+–	 Elaborar la documentación técnica y administrativa de la instalación o equipo, de 
+acuerdo con la reglamentación y normativa vigente y con los requerimientos del 
+cliente.
+–	 Aplicar los protocolos y normas de seguridad, de calidad y respeto al medio 
+ambiente en las intervenciones realizadas en los procesos de montaje y 
+mantenimiento de las instalaciones.
+Las líneas de actuación en el proceso de enseñanza–aprendizaje que permiten 
+alcanzar los objetivos del módulo versarán sobre:
+–	 El montaje/desmontaje de equipos microinformáticos.
+–	 El chequeo de los equipos montados.
+–	 El diagnóstico de equipos con problemas o averiados. 
+–	 La medida de magnitudes eléctricas.
+–	 La elaboración y/o interpretación de inventarios, presupuestos, partes de montaje 
+y reparación.
+–	 La instalación y actualización de sistemas operativos monopuesto.
+–	 La configuración de sistemas operativos.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71920
+Miércoles, 22 de septiembre de 2010
+–	 La instalación de periféricos.
+–	 La interpretación de documentación técnica.
+–	 La elaboración de documentos (manuales, informes, partes de incidencia, entre 
+otros).
+–	 La utilización de programas ofimáticos y de uso informático en general.
+–	 El mantenimiento de equipos informáticos.
+Módulo profesional: Infraestructuras de redes de datos y sistemas de 
+telefonía.
+Código: 0361
+Duración: 231 horas
+Contenidos:
+1. Equipos y elementos componentes de las infraestructuras de redes de datos de 
+área local:
+–	 Tipos de redes. Conmutación de paquetes y conmutación de circuitos.
+–	 Topología física y lógica.
+–	 Configuraciones de redes de datos.
+–	 Técnicas de transmisión. Banda base y banda ancha
+–	 Tipos de redes locales («Ethernet» y «Fast Ethernet», entre otros). 
+–	 Redes locales inalámbricas y VSAT.
+–	 Cableado estructurado. Subsistemas.
+–	 Tipos de cables (par trenzado y fibra óptica, entre otros).
+–	 Conectores.
+–	 Armarios. 
+–	 Equipos y elementos de distribución («switch» y  «router», entre otros).
+–	 Paneles de distribución.
+–	 Tomas de usuario.
+2. Canalización y cableado de instalaciones telefónicas con centralitas y redes de 
+datos:
+–	 Interpretación de planos, esquemas y documentación técnica.
+–	 Planificación de la instalación.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71921
+Miércoles, 22 de septiembre de 2010
+–	 Canalizaciones. Tipos y montaje.
+–	 Tendido de cables. Subsistemas de cableado de campus, horizontal y vertical.
+–	 Montaje y conexionado de tomas de usuario.
+–	 Etiquetado y marcado.
+–	 Herramientas y técnicas empleadas en la instalación.
+–	 Comprobaciones del cableado. Medidas eléctricas.
+3. Instalación de infraestructuras de redes de datos cableadas:
+–	 Herramientas y útiles de montajes generales y específicos para par trenzado y 
+fibra óptica.
+–	 Configuración del armario.
+–	 Suministro eléctrico.
+–	 Preparación del cable.
+–	 Conexión de conectores según tipo de cable (par trenzado y fibra, entre otros).
+–	 Señalización y etiquetado.
+–	 Comprobaciones y ajustes.
+–	 Certificación de una infraestructura de red local.
+–	 Adaptador de red cableada. Configuración.
+–	 Interconexión de los equipos de red y puestos de trabajo.
+–	 Puesta en servicio de la instalación.
+–	 Seguridad básica de una red cableada.
+–	 Elaboración de informes técnicos.
+4. Instalación de redes inalámbricas y VSAT:
+–	 Técnicas de transmisión (infrarrojos, VSAT, microondas, radio y láser, entre 
+otras).
+–	 Redes VSAT y redes celulares. Características. Equipos.
+–	 Redes locales inalámbricas. Características.
+–	 Puntos de acceso inalámbricos.
+–	 Adaptador de red inalámbrica. Tipos. Configuración.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71922
+Miércoles, 22 de septiembre de 2010
+–	 Técnicas de montaje e instalación de antenas y equipos inalámbricos.
+–	 Configuración de los modos de funcionamiento.
+–	 Verificación de la instalación. Herramientas y software de monitorización y 
+análisis.
+–	 Seguridad básica en redes inalámbricas.
+–	 Elaboración de informes técnicos.
+5. Caracterización de centrales telefónicas PBX: 
+–	 Telefonía. Estructura física de la red telefónica. Red telefónica básica (RTB), red 
+digital de servicios integrados (RDSI), ADSL, telefonía sobre IP (VoIP), sistemas 
+DECT y enlaces GSM.
+–	 Bloques funcionales: sistema de control, unidad de conmutación, sistema de 
+conexión, y puertos de enlace, entre otros.
+–	 Tipos y características de centralitas telefónicas. 
+–	 Interfaces de conexión con redes públicas.
+–	 Esquemas y conexionado de centralitas. 
+–	 Servicios integrados: distribución automática de llamadas, conexión con 
+ordenadores, integración de voz y datos, e interconexión de centrales por VoIP, 
+entre otros.
+–	 Servicios asociados: mensajería, megafonía y grabación, entre otros.
+–	 Utilización de catálogos comerciales y manual de usuario.
+6. Configuración de pequeños sistemas de telefonía: 
+–	 Selección de centralitas.
+–	 Selección de elementos de la centralita. Tarjetas de línea externa: líneas 
+analógicas y RDSI e IP, entre otras.
+–	 Selección de terminales para extensiones analógicas y digitales e IP, consolas, 
+telefonía sobre PC y fax, entre otros.
+–	 Selección de elementos auxiliares.
+–	 Elaboración de esquemas. 
+–	 Documentación de la instalación.
+–	 Elaboración de presupuestos. 
+–	 Software de aplicación. Instalación y configuración.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71923
+Miércoles, 22 de septiembre de 2010
+7. Instalación de centralitas:
+–	 Interpretación de manuales técnicos de instalación y puesta en marcha.
+–	 Emplazamiento y montaje de centralitas telefónicas.
+–	 Alimentación 
+eléctrica, 
+puesta 
+a 
+tierra 
+y 
+sistemas 
+de 
+alimentación 
+ininterrumpida.
+–	 Conexión a las líneas, extensiones y otros servicios.
+–	 Instalación de terminales.
+–	 Instalación del software de programación.
+–	 Carga y prueba de programaciones.
+–	 Configuración de servicios de voz y datos. Mensajería vocal.
+–	 Configuración de módulos de grabación.
+–	 Configuración de módulo de servicios: música, buzón, listín.
+8. Mantenimiento y reparación de sistemas de telefonía y redes de datos:
+–	 Verificación de servicios de los operadores.
+–	 Averías tipo en las instalaciones y centralitas telefónicas.
+–	 Averías tipo en redes de datos de área local.
+–	 Aparatos de medida utilizados en el mantenimiento y la localización de averías.
+–	 Mantenimiento y sustitución de elementos en centralitas y sistemas de 
+telefonía.
+–	 Técnicas de diagnóstico y localización de averías en redes: sustitución y ajuste 
+de módulos o equipos de la instalación. Parámetros típicos de una red.
+–	 Ampliación de centralitas y redes.
+–	 Reparaciones en cableado y canalizaciones.
+–	 Elaboración de informes.
+9. Cumplimiento de las normas de prevención de riesgos laborales y protección 
+ambiental:
+–	 Identificación de riesgos.
+–	 Determinación de las medidas de prevención de riesgos laborales.
+–	 Prevención de riesgos laborales en los procesos de montaje y mantenimiento.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71924
+Miércoles, 22 de septiembre de 2010
+–	 Equipos de protección individual.
+–	 Cumplimiento de la normativa de prevención de riesgos laborales.
+–	 Cumplimiento de la normativa de protección ambiental.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar la función 
+de montar y mantener infraestructuras de redes de datos y sistemas de telefonía con 
+centralitas de baja capacidad. 
+La definición de estas funciones incluye aspectos como:
+–	 La configuración de la instalación.
+–	 La interconexión de equipos informáticos en red.
+–	 La instalación de centralitas telefónicas tipo PBX en viviendas y locales como 
+comercios, pequeñas oficinas y centros educativos, entre otros.
+–	 La ampliación de centralitas telefónicas y sistemas asociados.
+–	 La programación de centralitas telefónicas y sus módulos externos.
+Las actividades profesionales asociadas a esta función se aplican en:
+–	 Montaje de infraestructuras de redes locales de datos.
+–	 Mantenimiento de infraestructuras de redes locales de datos.
+–	 Instalación y mantenimiento de sistemas de telefonía. 
+–	 Instalación y programación de centrales telefónicas.
+–	 Mantenimiento de equipos.
+La formación del módulo contribuye a alcanzar los objetivos generales: 
+–	 Identificar los elementos de las infraestructuras, instalaciones y equipos, 
+analizando planos y esquemas y reconociendo los materiales y procedimientos 
+previstos, para establecer la logística asociada al montaje y mantenimiento.
+–	 Elaborar croquis y esquemas, empleando medios y técnicas de dibujo y 
+representación simbólica normalizada, para configurar y calcular la instalación.
+–	 Obtener los parámetros típicos de las instalaciones y equipos, aplicando 
+procedimientos de cálculo y atendiendo a las especificaciones y prescripciones 
+reglamentarias, para configurar y calcular la instalación.
+–	 Valorar el coste de los materiales y mano de obra, consultando catálogos y 
+unidades de obra, para elaborar el presupuesto del montaje o mantenimiento.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71925
+Miércoles, 22 de septiembre de 2010
+–	 Seleccionar el utillaje, herramientas, equipos y medios de montaje y de seguridad, 
+analizando las condiciones de obra y considerando las operaciones a realizar, 
+para acopiar los recursos y medios.
+–	 Identificar y marcar la posición de los elementos de la instalación o equipo y el 
+trazado de los circuitos, relacionando los planos de la documentación técnica con 
+su ubicación real, para replantear la instalación.
+–	 Identificar, ensamblar e interconectar periféricos y componentes, atendiendo 
+a las especificaciones técnicas, para montar o ampliar equipos informáticos y 
+periféricos.
+–	 Reconocer y ejecutar los procedimientos de instalación y carga de programas, 
+siguiendo las especificaciones del fabricante y aplicando criterios de calidad, 
+para instalar y configurar software base, sistemas operativos y aplicaciones.  
+–	 Aplicar técnicas de mecanizado, conexión, medición y montaje, manejando los 
+equipos, herramientas e instrumentos, según procedimientos establecidos y en 
+condiciones de calidad y seguridad, para efectuar el montaje o mantenimiento de 
+los elementos componentes de infraestructuras.
+–	 Ubicar y fijar los equipos y elementos soporte y auxiliares, interpretando los 
+planos y especificaciones de montaje, en condiciones de seguridad y calidad, 
+para montar equipos, instalaciones e infraestructuras.
+–	 Conectar los equipos y elementos auxiliares mediante técnicas de conexión 
+y empalme, de acuerdo con los esquemas de la documentación técnica, para 
+montar las infraestructuras y para instalar los equipos.
+–	 Analizar y localizar los efectos y causas de disfunción o avería en las instalaciones 
+y equipos, utilizando equipos de medida e interpretando los resultados, para 
+mantener y reparar instalaciones y equipos.
+–	 Comprobar la configuración y el software de control de los equipos siguiendo las 
+instrucciones del fabricante, para mantener y reparar instalaciones y equipos.
+–	 Sustituir los elementos defectuosos desmontando y montando los equipos 
+y realizando los ajustes necesarios, analizando planes de mantenimiento 
+y protocolos de calidad y seguridad, para mantener y reparar instalaciones y 
+equipos.
+–	 Comprobar el conexionado, software, señales y parámetros característicos entre 
+otros, utilizando la instrumentación y protocolos establecidos, en condiciones de 
+calidad y seguridad, para verificar el funcionamiento de la instalación o equipo.
+–	 Cumplimentar fichas de mantenimiento, informes de montaje y reparación y 
+manuales de instrucciones, siguiendo los procedimientos y formatos establecidos, 
+para elaborar la documentación de la instalación o equipo.
+–	 Analizar y describir los procedimientos de calidad, prevención de riesgos laborales 
+y medioambientales, señalando las acciones que es preciso realizar en los casos 
+definidos para actuar de acuerdo con las normas estandarizadas.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71926
+Miércoles, 22 de septiembre de 2010
+La formación del módulo contribuye a alcanzar las competencias profesionales, 
+personales y sociales del título: 
+–	 Establecer la logística asociada al montaje y mantenimiento, interpretando la 
+documentación técnica de las infraestructuras, instalaciones y equipos.
+–	 Configurar y calcular instalaciones de telecomunicaciones, audiovisuales, 
+domóticas y eléctricas de interior, determinando el emplazamiento y características 
+de los elementos que las constituyen, respetando las especificaciones y las 
+prescripciones reglamentarias.
+–	 Elaborar el presupuesto de montaje o mantenimiento de la instalación o equipo.
+–	 Acopiar los recursos y medios para acometer la ejecución del montaje o 
+mantenimiento de las instalaciones y equipos.
+–	 Replantear la instalación de acuerdo a la documentación técnica, resolviendo 
+los problemas de su competencia e informando de otras contingencias, para 
+asegurar la viabilidad del montaje.
+–	 Instalar y configurar software base, sistemas operativos y aplicaciones asegurando 
+y verificando su funcionamiento, en condiciones de calidad y seguridad.
+–	 Montar los elementos componentes de las infraestructuras e instalaciones 
+(canalizaciones, cableado, armarios, soportes, entre otros) utilizando técnicas de 
+montaje, en condiciones de calidad, seguridad y respeto al medio ambiente.
+–	 Instalar los equipos (cámaras, procesadores de señal, centralitas, entre otros) 
+utilizando herramientas de programación y asegurando su funcionamiento, en 
+condiciones de calidad y seguridad.
+–	 Mantener y reparar instalaciones y equipos realizando las operaciones de 
+comprobación, ajuste o sustitución de sus elementos y reprogramando los 
+equipos, restituyendo su funcionamiento en condiciones de calidad, seguridad y 
+respeto al medio ambiente.
+–	 Verificar el funcionamiento de la instalación o equipo realizando pruebas 
+funcionales y de comprobación, para proceder a su puesta en servicio.
+–	 Elaborar la documentación técnica y administrativa de la instalación o equipo, de 
+acuerdo con la reglamentación y normativa vigente y con los requerimientos del 
+cliente.
+–	 Aplicar los protocolos y normas de seguridad, de calidad y respeto al medio 
+ambiente en las intervenciones realizadas en los procesos de montaje y 
+mantenimiento de las instalaciones.
+–	 Adaptarse a diferentes puestos de trabajo y nuevas situaciones laborales, originados 
+por cambios tecnológicos y organizativos en los procesos productivos.
+–	 Resolver problemas y tomar decisiones individuales siguiendo las normas y 
+procedimientos establecidos, definidos dentro del ámbito de su competencia.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71927
+Miércoles, 22 de septiembre de 2010
+Las líneas de actuación en el proceso de enseñanza–aprendizaje que permiten 
+alcanzar los objetivos del módulo versarán sobre:
+–	 Interpretación de la normativa y reglamentación vigentes.
+–	 Identificación de las configuraciones de las instalaciones. 
+–	 Planificación de los procesos de montaje o mantenimiento.
+–	 Aplicación de técnicas de montaje (mecanizado, conexionado, empalme, entre 
+otras).
+–	 Programación de centralitas.
+–	 Operación de equipos de medida y de comprobación.
+–	 Elaboración de documentación técnico–administrativa.
+–	 Utilización de las tecnologías de la información y comunicación.
+–	 Aplicación de medidas de seguridad en las operaciones.
+–	 Aplicación de criterios de calidad en todas las fases de los procesos.
+–	 Actitud de respeto al medio ambiente.
+Módulo profesional: Instalaciones eléctricas básicas.
+Código: 0362
+Duración: 132 horas
+Contenidos:
+1. Montaje de circuitos eléctricos básicos:
+–	 Elementos y mecanismos en las instalaciones eléctricas en vivienda.
+–	 Instalaciones comunes en viviendas y edificios.
+–	 Cálculo y medida de las magnitudes fundamentales de las instalaciones 
+interiores.
+–	 Reglamento electrotécnico de baja tensión aplicado a las instalaciones 
+interiores.
+–	 Convencionalismos de representación. Simbología normalizada en las 
+instalaciones eléctricas.
+–	 Interpretación de esquemas de instalaciones eléctricas de interior.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71928
+Miércoles, 22 de septiembre de 2010
+2. Montaje de cuadros de protección en viviendas:
+–	 Dispositivos generales e individuales de mando y protección en instalaciones 
+eléctricas.
+–	 Composición y características de los cuadros.
+–	 Características generales de los dispositivos de corte y protección.
+–	 Elección de las protecciones. Utilización de catálogos comerciales.
+–	 La toma de tierra.
+–	 Técnicas de montaje.
+3. Montaje de instalaciones eléctricas en viviendas:
+–	 Planos y esquemas eléctricos normalizados. Tipología.
+–	 Herramienta eléctrica.
+–	 Canalizaciones eléctricas.
+–	 Elementos de conexión de conductores.
+–	 Envolventes.
+–	 Técnicas de montaje.
+–	 Condiciones generales de las instalaciones interiores de viviendas y edificios.
+–	 Niveles de electrificación y número de circuitos.
+–	 Estancias con bañera o ducha.
+–	 Dispositivos de alumbrado de uso domestico.
+4. Montaje de instalaciones en locales:
+–	 Planos y esquemas eléctricos normalizados. Tipología.
+–	 Características específicas de los locales. Canalizaciones, protecciones, entre 
+otros.
+–	 Previsión de potencias.
+–	 Cuadros de protección. Tipología.
+–	 Protección contra contactos directos e indirectos. Especificaciones.
+–	 Técnicas de montaje y mecanizado. Croquis.
+–	 Conductores. Tipos y secciones. 
+–	 Dispositivos de alumbrado. Tipos de lámparas y luminarias.
+–	 Circuito e iluminación de emergencia.
+–	 Documentación de las instalaciones.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71929
+Miércoles, 22 de septiembre de 2010
+5. Instalaciones eléctricas de pequeñas máquinas:
+–	 Tipos de motores eléctricos.
+–	 Actuadores de máquinas eléctricas (pulsador, interruptor y sondas, entre otros).
+–	 Arranques de motores monofásicos.
+–	 Arranques de motores trifásicos.
+–	 Automatizaciones básicas para motores monofásicos.
+–	 Automatizaciones básicas para motores trifásicos.
+–	 Control electrónico de motores eléctricos.
+–	 Protección de máquinas eléctricas.
+–	 Medidas de instalaciones de máquinas (intensidad de arranque, potencia máxima, 
+factor de potencia y desequilibrio de fases, entre otras).
+6. Mantenimiento y detección de averías en las instalaciones eléctricas:
+–	 Criterios de seguridad en las instalaciones eléctricas.
+–	 Averías tipo en las instalaciones de viviendas. Síntomas y efectos. 
+–	 Diagnóstico de averías: pruebas, medidas, procedimientos y elementos de 
+seguridad.
+–	 Reparación de averías.
+–	 Medidas de tensión, intensidad y continuidad.
+–	 Medidas de potencias eléctricas y factor de potencia.
+–	 Mantenimiento de instalaciones eléctricas.
+7. Prevención de riesgos laborales y protección ambiental:
+–	 Identificación de riesgos.
+–	 Determinación de las medidas de prevención de riesgos laborales.
+–	 Prevención de riesgos laborales en los procesos de montaje y mantenimiento.
+–	 Equipos de protección individual.
+–	 Cumplimiento de la normativa de prevención de riesgos laborales.
+–	 Cumplimiento de la normativa de protección ambiental.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71930
+Miércoles, 22 de septiembre de 2010
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional es un módulo soporte por lo que da respuesta a la necesidad 
+de proporcionar una base teórica y práctica para la comprensión de las funciones y 
+características del montaje y mantenimiento de pequeñas instalaciones eléctricas. 
+La definición de estas funciones incluye aspectos como:
+–	 Interpretación y representación de esquemas de instalaciones eléctricas de 
+viviendas y locales.
+–	 Medición de magnitudes eléctricas.
+–	 Montaje de instalaciones eléctricas de uso doméstico.
+–	 Montaje de instalaciones eléctricas en pequeños locales.
+–	 Instalación de máquinas eléctricas de uso domestico.
+–	 Mantenimiento y reparación de instalaciones eléctricas de uso doméstico.
+Las actividades profesionales asociadas a esta función se aplican en:
+–	 Montaje y mantenimiento de instalaciones eléctricas de viviendas.
+La formación del módulo contribuye a alcanzar los objetivos generales: 
+–	 Identificar los elementos de las infraestructuras, instalaciones y equipos, 
+analizando planos y esquemas y reconociendo los materiales y procedimientos 
+previstos, para establecer la logística asociada al montaje y mantenimiento.
+–	 Elaborar croquis y esquemas, empleando medios y técnicas de dibujo y 
+representación simbólica normalizada, para configurar y calcular la instalación.
+–	 Obtener los parámetros típicos de las instalaciones y equipos, aplicando 
+procedimientos de cálculo y atendiendo a las especificaciones y prescripciones 
+reglamentarias, para configurar y calcular la instalación.
+–	 Valorar el coste de los materiales y mano de obra, consultando catálogos y 
+unidades de obra, para elaborar el presupuesto del montaje o mantenimiento.
+–	 Seleccionar el utillaje, herramientas, equipos y medios de montaje y de seguridad, 
+analizando las condiciones de obra y considerando las operaciones a realizar, 
+para acopiar los recursos y medios.
+–	 Identificar y marcar la posición de los elementos de la instalación o equipo y el 
+trazado de los circuitos, relacionando los planos de la documentación técnica con 
+su ubicación real, para replantear la instalación.
+–	 Aplicar técnicas de mecanizado, conexión, medición y montaje, manejando los 
+equipos, herramientas e instrumentos, según procedimientos establecidos y en 
+condiciones de calidad y seguridad, para efectuar el montaje o mantenimiento de 
+los elementos componentes de infraestructuras.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71931
+Miércoles, 22 de septiembre de 2010
+–	 Ubicar y fijar los equipos y elementos soporte y auxiliares, interpretando los 
+planos y especificaciones de montaje, en condiciones de seguridad y calidad, 
+para montar equipos, instalaciones e infraestructuras.
+–	 Conectar los equipos y elementos auxiliares mediante técnicas de conexión 
+y empalme, de acuerdo con los esquemas de la documentación técnica, para 
+montar las infraestructuras y para instalar los equipos.
+–	 Analizar y localizar los efectos y causas de disfunción o avería en las instalaciones 
+y equipos, utilizando equipos de medida e interpretando los resultados, para 
+mantener y reparar instalaciones y equipos.
+La formación del módulo contribuye a alcanzar las competencias profesionales, 
+personales y sociales del título: 
+–	 Establecer la logística asociada al montaje y mantenimiento, interpretando la 
+documentación técnica de las infraestructuras, instalaciones y equipos.
+–	 Configurar y calcular instalaciones de telecomunicaciones, audiovisuales, 
+domóticas y eléctricas de interior, determinando el emplazamiento y características 
+de los elementos que las constituyen, respetando las especificaciones y las 
+prescripciones reglamentarias.
+–	 Elaborar el presupuesto de montaje o mantenimiento de la instalación o equipo.
+–	 Acopiar los recursos y medios para acometer la ejecución del montaje o 
+mantenimiento de las instalaciones y equipos.
+–	 Replantear la instalación de acuerdo a la documentación técnica, resolviendo 
+los problemas de su competencia e informando de otras contingencias, para 
+asegurar la viabilidad del montaje.
+–	 Montar los elementos componentes de las infraestructuras e instalaciones 
+(canalizaciones, cableado, armarios, soportes, entre otros) utilizando técnicas de 
+montaje, en condiciones de calidad, seguridad y respeto al medio ambiente.
+–	 Mantener y reparar instalaciones y equipos realizando las operaciones de 
+comprobación, ajuste o sustitución de sus elementos y reprogramando los 
+equipos, restituyendo su funcionamiento en condiciones de calidad, seguridad y 
+respeto al medio ambiente.
+–	 Verificar el funcionamiento de la instalación o equipo realizando pruebas 
+funcionales y de comprobación, para proceder a su puesta en servicio.
+Las líneas de actuación en el proceso de enseñanza–aprendizaje que permiten 
+alcanzar los objetivos del módulo versarán sobre:
+–	 Interpretación y montaje de esquemas eléctricos.
+–	 Montaje y mantenimiento de instalaciones eléctricas de viviendas.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71932
+Miércoles, 22 de septiembre de 2010
+–	 Montaje y mantenimiento de instalaciones eléctricas de pequeños locales.
+–	 Montaje de máquinas eléctricas de uso doméstico.
+–	 Prevención de riesgos en las instalaciones eléctricas.
+–	 Protección ambiental.
+Módulo profesional: Instalaciones de megafonía y sonorización.
+Código: 0363
+Duración: 147 horas
+Contenidos:
+1. Identificación de los elementos de megafonía y sonorización:
+–	 Acústica. Tipos de sonido, características, medida y comportamiento.
+–	 Instalaciones de megafonía. Tipología. Elementos. Simbología.
+–	 Canalizaciones, conexiones, cajas, tipos de cableado, multiconectores.
+–	 Sistemas de refuerzo sonoro y megafonía. 
+–	 Sistemas de potencia. Amplificadores. 
+–	 Sistemas de previo.
+–	 Ecualizadores
+–	 Mezcladores, mesas de mezclas
+–	 Microfonía.
+–	 Acústica de recintos. Tipos, reverberación, materiales.
+–	 Métodos de predicción del comportamiento acústico de una sala.
+–	 Megafonía industrial.
+–	 Megafonía en edificios públicos.
+–	 Megafonía por VoIP
+–	 Sonido en espectáculos.
+–	 Sonorización de actos públicos. 
+–	 Instalaciones de sonido en vehículos.
+–	 Programas de edición y tratamiento de señal.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71933
+Miércoles, 22 de septiembre de 2010
+2. Configuración de pequeñas instalaciones de megafonía y sonorización:
+–	 Recepción de instalaciones de megafonía y sonorización. Componentes y 
+equipos.
+–	 Simbología en las instalaciones. Elaboración de croquis. 
+–	 Configuración y montaje de instalaciones de megafonía y sonorización. 
+–	 Herramientas informáticas de cálculo y configuración.
+–	 Normativa y reglamentación.
+–	 Manual de usuario.
+3. Replanteo de pequeñas instalaciones de megafonía y sonorización.
+–	 Interpretación y elaboración de esquemas y documentación técnica.
+–	 Comprobación de la acústica.
+–	 Comprobación de potencia de salida de los amplificadores.
+–	 Comprobación de las características de los difusores.
+–	 Replanteo de la instalación.
+4. Montaje de instalaciones de megafonía, y sonorización:
+–	 Instalación de sistemas de megafonía y sonorización. Procesos, equipos, material, 
+herramientas y medios.
+–	 Técnicas de montaje en instalaciones de megafonía y sonorización.
+–	 Técnicas específicas de montaje en recintos exteriores y vehículos.
+–	 Equipos de sonorización domésticos.
+–	 Medios y equipos de seguridad personal utilizados en el montaje de instalaciones 
+de megafonía.
+5. Verificación, ajuste y medida de los elementos y parámetros de las instalaciones 
+de megafonía y sonorización:
+–	 Unidades y parámetros característicos de la instalación de megafonía y 
+sonorización. 
+–	 Instrumentos y procedimientos de medida en instalaciones de megafonía y 
+sonorización: polímetro, sonómetro, registradores gráficos, osciloscopio, entre 
+otros.
+–	 Ajustes y puesta a punto en instalaciones de megafonía y sonorización.
+–	 Relación señal ruido. Distorsión armónica. 
+–	 Puesta en servicio de la instalación.
+–	 Informe final y resultados.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71934
+Miércoles, 22 de septiembre de 2010
+6. Reparación de averías y disfunciones en equipos e instalaciones de megafonía y 
+sonorización:
+–	 Tipos de mantenimiento en instalaciones de megafonía y sonorización.
+–	 Manuales de mantenimiento y servicio.
+–	 Criterios y puntos de revisión.
+–	 Equipos y medios a utilizar.
+–	 Comprobaciones y pruebas.
+–	 Normativa de seguridad. Equipos y elementos. Medidas de protección, 
+señalización y seguridad. 
+–	 Tipo de averías en instalaciones de megafonía y sonorización.
+–	 Averías tipo en amplificadores de potencia.
+–	 Herramientas y útiles para reparación y mantenimiento de instalaciones de 
+megafonía y sonorización.
+–	 Equipos de seguridad personal utilizados en el montaje y mantenimiento de 
+instalaciones de megafonía y sonorización.
+–	 Diagnóstico y localización de averías.
+–	 Reparación de averías.
+–	 Informes del proceso y resultados. Histórico de averías.
+7. Seguridad, prevención de riesgos laborales y protección ambiental:
+–	 Normas de seguridad personal y de los equipos en instalaciones de megafonía y 
+sonorización. 
+–	 Medios y equipos de seguridad personal utilizados en el montaje de instalaciones 
+de megafonía y sonorización.
+–	 Normativa sobre instalaciones de megafonía y sonorización.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar la función 
+de montaje y mantenimiento de instalaciones de megafonía y sonorización de recintos. 
+La definición de estas funciones incluye aspectos como:
+–	 La interpretación y representación de esquemas de instalaciones de megafonía 
+y sonorización de locales y recintos.
+–	 La identificación de componentes, herramientas y equipos. 
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71935
+Miércoles, 22 de septiembre de 2010
+–	 La configuración de pequeñas instalaciones de megafonía/sonorización.
+–	 El montaje de instalaciones de megafonía y sonorización.
+–	 La medida, ajuste y verificación de parámetros.
+–	 La localización de averías y disfunciones en equipos e instalaciones.
+–	 El mantenimiento y reparación de instalaciones.
+–	 La realización de memorias e informes técnicos asociados.
+–	 El cumplimiento de la normativa sobre seguridad, prevención de riesgos laborales 
+y protección ambiental.
+Las actividades profesionales asociadas a esta función se aplican en:
+–	 Instalar y mantener instalaciones de megafonía en viviendas y edificios.
+–	 Instalar sistemas de megafonía en recintos para espectáculos.
+–	 Instalar y mantener instalaciones de megafonía para seguridad, emergencia y 
+evacuación.
+La formación del módulo contribuye a alcanzar los objetivos generales: 
+–	 Identificar los elementos de las infraestructuras, instalaciones y equipos, 
+analizando planos y esquemas y reconociendo los materiales y procedimientos 
+previstos, para establecer la logística asociada al montaje y mantenimiento.
+–	 Elaborar croquis y esquemas, empleando medios y técnicas de dibujo y 
+representación simbólica normalizada, para configurar y calcular la instalación.
+–	 Obtener los parámetros típicos de las instalaciones y equipos, aplicando 
+procedimientos de cálculo y atendiendo a las especificaciones y prescripciones 
+reglamentarias, para configurar y calcular la instalación.
+–	 Valorar el coste de los materiales y mano de obra, consultando catálogos y 
+unidades de obra, para elaborar el presupuesto del montaje o mantenimiento.
+–	 Seleccionar el utillaje, herramientas, equipos y medios de montaje y de seguridad, 
+analizando las condiciones de obra y considerando las operaciones a realizar, 
+para acopiar los recursos y medios.
+–	 Identificar y marcar la posición de los elementos de la instalación o equipo y el 
+trazado de los circuitos, relacionando los planos de la documentación técnica con 
+su ubicación real, para replantear la instalación.
+–	 Aplicar técnicas de mecanizado, conexión, medición y montaje, manejando los 
+equipos, herramientas e instrumentos, según procedimientos establecidos y en 
+condiciones de calidad y seguridad, para efectuar el montaje o mantenimiento de 
+los elementos componentes de infraestructuras.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71936
+Miércoles, 22 de septiembre de 2010
+–	 Ubicar y fijar los equipos y elementos soporte y auxiliares, interpretando los 
+planos y especificaciones de montaje, en condiciones de seguridad y calidad, 
+para montar equipos, instalaciones e infraestructuras.
+–	 Conectar los equipos y elementos auxiliares mediante técnicas de conexión 
+y empalme, de acuerdo con los esquemas de la documentación técnica, para 
+montar las infraestructuras y para instalar los equipos.
+–	 Cargar o volcar programas siguiendo las instrucciones del fabricante y aplicando 
+criterios de calidad para instalar equipos.
+–	 Analizar y localizar los efectos y causas de disfunción o avería en las instalaciones 
+y equipos, utilizando equipos de medida e interpretando los resultados, para 
+mantener y reparar instalaciones y equipos.
+–	 Comprobar la configuración y el software de control de los equipos siguiendo las 
+instrucciones del fabricante, para mantener y reparar instalaciones y equipos.
+–	 Sustituir los elementos defectuosos desmontando y montando los equipos 
+y realizando los ajustes necesarios, analizando planes de mantenimiento 
+y protocolos de calidad y seguridad, para mantener y reparar instalaciones y 
+equipos.
+–	 Mantener comunicaciones efectivas con su grupo de trabajo, interpretando 
+y generando instrucciones, proponiendo soluciones ante contingencias y 
+coordinando las actividades de los miembros del grupo con actitud abierta y 
+responsable, para integrarse en la organización de la empresa.
+–	 Valorar las actividades de trabajo en un proceso productivo, identificando su 
+aportación al proceso global, para participar activamente en los grupos de trabajo 
+y conseguir los objetivos de la producción.
+–	 Reconocer sus derechos y deberes como agente activo en la sociedad, analizando 
+el marco legal que regula las condiciones sociales y laborales, para participar 
+como ciudadano democrático.
+La formación del módulo contribuye a alcanzar las competencias profesionales, 
+personales y sociales del título: 
+–	 Establecer la logística asociada al montaje y mantenimiento, interpretando la 
+documentación técnica de las infraestructuras, instalaciones y equipos.
+–	 Configurar y calcular instalaciones de telecomunicaciones, audiovisuales, 
+domóticas y eléctricas de interior, determinando el emplazamiento y características 
+de los elementos que las constituyen, respetando las especificaciones y las 
+prescripciones reglamentarias.
+–	 Elaborar el presupuesto de montaje o mantenimiento de la instalación o equipo.
+–	 Acopiar los recursos y medios para acometer la ejecución del montaje o 
+mantenimiento de las instalaciones y equipos.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71937
+Miércoles, 22 de septiembre de 2010
+–	 Replantear la instalación de acuerdo a la documentación técnica, resolviendo 
+los problemas de su competencia e informando de otras contingencias, para 
+asegurar la viabilidad del montaje.
+–	 Instalar y configurar software base, sistemas operativos y aplicaciones asegurando 
+y verificando su funcionamiento, en condiciones de calidad y seguridad.
+–	 Montar los elementos componentes de las infraestructuras e instalaciones 
+(canalizaciones, cableado, armarios, soportes, entre otros) utilizando técnicas de 
+montaje, en condiciones de calidad, seguridad y respeto al medio ambiente.
+–	 Instalar los equipos (cámaras, procesadores de señal, centralitas, entre otros) 
+utilizando herramientas de programación y asegurando su funcionamiento, en 
+condiciones de calidad y seguridad.
+–	 Mantener y reparar instalaciones y equipos realizando las operaciones de 
+comprobación, ajuste o sustitución de sus elementos y reprogramando los 
+equipos, restituyendo su funcionamiento en condiciones de calidad, seguridad y 
+respeto al medio ambiente.
+–	 Verificar el funcionamiento de la instalación o equipo realizando pruebas 
+funcionales y de comprobación, para proceder a su puesta en servicio.
+–	 Elaborar la documentación técnica y administrativa de la instalación o equipo, de 
+acuerdo con la reglamentación y normativa vigente y con los requerimientos del 
+cliente.
+–	 Aplicar los protocolos y normas de seguridad, de calidad y respeto al medio 
+ambiente en las intervenciones realizadas en los procesos de montaje y 
+mantenimiento de las instalaciones.
+–	 Resolver problemas y tomar decisiones individuales siguiendo las normas y 
+procedimientos establecidos, definidos dentro del ámbito de su competencia.
+–	 Ejercer sus derechos y cumplir con las obligaciones derivadas de las relaciones 
+laborales, de acuerdo con lo establecido en la legislación vigente.
+–	 Gestionar su carrera profesional, analizando las oportunidades de empleo, 
+autoempleo y de aprendizaje.
+Las líneas de actuación en el proceso de enseñanza–aprendizaje que permiten 
+alcanzar los objetivos del módulo versarán sobre:
+–	 Interpretación de documentación técnica relativa a megafonía y sonorización.
+–	 Realización e interpretación de esquemas de instalaciones. 
+–	 Montaje y mantenimiento de instalaciones de megafonía/sonorización.
+–	 Realización de medidas, ajustes y verificación de parámetros.
+–	 Utilización de las tecnologías de la información y comunicación.
+–	 Realización de memorias e informes técnicos.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71938
+Miércoles, 22 de septiembre de 2010
+Módulo Profesional: Circuito cerrado de televisión y seguridad electrónica.
+Código: 0364
+Duración: 168 horas
+Contenidos:
+1. Equipos y elementos:
+–	 Análisis de riesgo.
+–	 Detección de intrusión. Detectores. Características y tipos.
+–	 Detección de incendio y gases. Detectores. Características y tipos.
+–	 Elementos de señalización acústicos y luminosos.
+–	 Medios de transmisión. Cable, fibra, inalámbricos. Características.
+–	 Centrales de gestión de alarmas.
+–	 CCTV. Principios básicos de video. Aplicaciones. Equipos: grabadores, cámaras 
+y monitores.
+–	 Tipos de instalaciones de CCTV y detección electrónica. Bloques funcionales.
+–	 Simbología.
+–	 Normativa.
+2. Configuración de pequeñas instalaciones:
+–	 Normativa sobre instalaciones de circuito cerrado de televisión (CCTV) y detección 
+electrónica.
+–	 Características físicas y ambientales de las instalaciones.
+–	 Interpretación de proyectos técnicos. Interpretación de esquemas de las 
+instalaciones de CCTV y seguridad.
+–	 Búsqueda, manejo e interpretación de documentación técnica.
+–	 Aplicación de programas informáticos de cálculo y configuración de las 
+instalaciones. 
+–	 Elaboración de croquis.
+–	 Dibujo técnico aplicado. Planos y esquemas normalizados. Aplicaciones 
+informáticas.
+–	 Elaboración de presupuestos.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71939
+Miércoles, 22 de septiembre de 2010
+3. Montaje de instalaciones de circuito cerrado de televisión:
+–	 Replanteo de la instalación. 
+–	 Interpretación de planos y esquemas.  
+–	 Cámaras. Características. Tipos: analógicas e IP. 
+–	 Medios de transmisión: par trenzado, fibra óptica, wifi, radiofrecuencia, entre 
+otros. 
+–	 Técnicas específicas de montaje. Herramientas y útiles para el montaje.
+–	 Montaje de ópticas, carcasas, motores, focos de infrarrojos, entre otros.
+–	 Verificación de parámetros.
+4. Instalación y configuración de software específico:
+–	 Software de integración en red.
+–	 Programación de sistemas de videograbación. 
+–	 Software de edición.
+–	 Instalación y configuración de software. Vídeo inteligente, reconocimiento de 
+matrículas, sistemas biométricos, entre otros.
+–	 Verificación del funcionamiento de la instalación.
+5. Montaje de centrales y elementos auxiliares:
+–	 Técnicas específicas de montaje. 
+–	 Normas de seguridad personal y de los equipos.
+–	 Montaje de centrales de alarma. Cableadas e inalámbricas. 
+–	 Montaje de elementos de detección.
+–	 Sistemas de transmisión. Características de montaje. 
+–	 Verificación de recepción y visualización de señales. Contramedidas. Centrales 
+receptoras de alarmas (C.R.A). Conexión remota. Centrales de alarmas técnicas. 
+Gestión remota. Centrales y detectores de gas, humo y fuego. 
+6. Montaje de equipos de seguimiento y control:
+–	 Montaje de controles de acceso. 
+–	 Montaje de controles de presencia.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71940
+Miércoles, 22 de septiembre de 2010
+–	 Instalación de equipos de seguimiento y control. 
+–	 Montaje de equipos de gestión y control de rondas. Software de gestión. 
+Configuración.
+–	 Verificación del funcionamiento de la instalación.
+7. Mantenimiento de instalaciones de CCTV y seguridad:
+–	 Averías típicas en instalaciones de CCTV y seguridad.
+–	 Software de diagnóstico.
+–	 Equipos y medios. Instrumentos de medida.
+–	 Diagnóstico y localización de averías.
+–	 Operaciones de telemantenimiento.
+–	 Medidas de parámetros de funcionamiento, protección, señalización y 
+seguridad.
+–	 Informes del proceso y resultados. Histórico de averías.
+8. Normas de prevención de riesgos laborales y de protección ambiental:
+–	 Identificación de riesgos.
+–	 Determinación de las medidas de prevención de riesgos laborales.
+–	 Prevención de riesgos laborales en los procesos de montaje y mantenimiento.
+–	 Equipos de protección individual.
+–	 Cumplimiento de la normativa de prevención de riesgos laborales.
+–	 Cumplimiento de la normativa de protección ambiental.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar las 
+funciones de montaje y mantenimiento de sistemas de seguridad y circuito cerrado de 
+televisión.
+Dichas funciones incluyen aspectos como:
+–	 La interpretación y representación de esquemas de instalaciones de circuito 
+cerrado de televisión y seguridad.
+–	 La identificación y clasificación de los materiales utilizados en instalaciones de 
+CCTV y seguridad.
+–	 La configuración de pequeñas instalaciones de CCTV y sistemas de seguridad 
+electrónica.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71941
+Miércoles, 22 de septiembre de 2010
+–	 El montaje y mantenimiento de instalaciones de circuito cerrado de televisión.
+–	 La carga y configuración del software de control y visualización remota.
+–	 El montaje y mantenimiento de sistemas de detección de intrusión, fuego y gas.
+–	 La sustitución adecuada de elementos en las instalaciones.
+–	 La configuración de los sistemas de transmisión de señales de seguridad y 
+alarma.
+–	 El montaje y mantenimiento de los sistemas de control, seguimiento, rondas, 
+acceso y presencia.
+–	 El establecimiento de conexiones remotas, por Internet e inalámbricas, para 
+realizar operaciones de telecontrol y telemantenimiento. 
+–	 El cumplimiento de la normativa sobre seguridad, prevención de riesgos laborales 
+y protección ambiental.
+Las actividades profesionales asociadas a estas funciones se aplican en:
+–	 Instalar y mantener instalaciones de circuito cerrado de televisión.
+–	 Instalar y mantener instalaciones de sistemas de detección y alarma.
+–	 Instalar y mantener instalaciones de sistemas de control, seguimiento, rondas, 
+acceso y presencia.
+La formación del módulo contribuye a alcanzar los objetivos generales: 
+–	 Identificar los elementos de las infraestructuras, instalaciones y equipos, 
+analizando planos y esquemas y reconociendo los materiales y procedimientos 
+previstos, para establecer la logística asociada al montaje y mantenimiento.
+–	 Elaborar croquis y esquemas, empleando medios y técnicas de dibujo y 
+representación simbólica normalizada, para configurar y calcular la instalación.
+–	 Obtener los parámetros típicos de las instalaciones y equipos, aplicando 
+procedimientos de cálculo y atendiendo a las especificaciones y prescripciones 
+reglamentarias, para configurar y calcular la instalación.
+–	 Valorar el coste de los materiales y mano de obra, consultando catálogos y 
+unidades de obra, para elaborar el presupuesto del montaje o mantenimiento.
+–	 Seleccionar el utillaje, herramientas, equipos y medios de montaje y de seguridad, 
+analizando las condiciones de obra y considerando las operaciones a realizar, 
+para acopiar los recursos y medios.
+–	 Identificar y marcar la posición de los elementos de la instalación o equipo y el 
+trazado de los circuitos, relacionando los planos de la documentación técnica con 
+su ubicación real, para replantear la instalación.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71942
+Miércoles, 22 de septiembre de 2010
+–	 Identificar, ensamblar e interconectar periféricos y componentes, atendiendo 
+a las especificaciones técnicas, para montar o ampliar equipos informáticos y 
+periféricos.
+–	 Aplicar técnicas de mecanizado, conexión, medición y montaje, manejando los 
+equipos, herramientas e instrumentos, según procedimientos establecidos y en 
+condiciones de calidad y seguridad, para efectuar el montaje o mantenimiento de 
+los elementos componentes de infraestructuras.
+–	 Ubicar y fijar los equipos y elementos soporte y auxiliares, interpretando los 
+planos y especificaciones de montaje, en condiciones de seguridad y calidad, 
+para montar equipos, instalaciones e infraestructuras.
+–	 Conectar los equipos y elementos auxiliares mediante técnicas de conexión 
+y empalme, de acuerdo con los esquemas de la documentación técnica, para 
+montar las infraestructuras y para instalar los equipos.
+–	 Cargar o volcar programas siguiendo las instrucciones del fabricante y aplicando 
+criterios de calidad para instalar equipos.
+–	 Analizar y localizar los efectos y causas de disfunción o avería en las instalaciones 
+y equipos, utilizando equipos de medida e interpretando los resultados, para 
+mantener y reparar instalaciones y equipos.
+–	 Comprobar la configuración y el software de control de los equipos siguiendo las 
+instrucciones del fabricante, para mantener y reparar instalaciones y equipos.
+–	 Sustituir los elementos defectuosos desmontando y montando los equipos 
+y realizando los ajustes necesarios, analizando planes de mantenimiento 
+y protocolos de calidad y seguridad, para mantener y reparar instalaciones y 
+equipos.
+–	 Comprobar el conexionado, software, señales y parámetros característicos entre 
+otros, utilizando la instrumentación y protocolos establecidos, en condiciones de 
+calidad y seguridad, para verificar el funcionamiento de la instalación o equipo.
+–	 Cumplimentar fichas de mantenimiento, informes de montaje y reparación y 
+manuales de instrucciones, siguiendo los procedimientos y formatos establecidos, 
+para elaborar la documentación de la instalación o equipo.
+–	 Analizar y describir los procedimientos de calidad, prevención de riesgos laborales 
+y medioambientales, señalando las acciones que es preciso realizar en los casos 
+definidos para actuar de acuerdo con las normas estandarizadas.
+–	 Mantener comunicaciones efectivas con su grupo de trabajo, interpretando 
+y generando instrucciones, proponiendo soluciones ante contingencias y 
+coordinando las actividades de los miembros del grupo con actitud abierta y 
+responsable, para integrarse en la organización de la empresa.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71943
+Miércoles, 22 de septiembre de 2010
+La formación del módulo contribuye a alcanzar las competencias profesionales, 
+personales y sociales del título: 
+–	 Establecer la logística asociada al montaje y mantenimiento, interpretando la 
+documentación técnica de las infraestructuras, instalaciones y equipos.
+–	 Configurar y calcular instalaciones de telecomunicaciones, audiovisuales, 
+domóticas y eléctricas de interior, determinando el emplazamiento y características 
+de los elementos que las constituyen, respetando las especificaciones y las 
+prescripciones reglamentarias.
+–	 Elaborar el presupuesto de montaje o mantenimiento de la instalación o equipo.
+–	 Acopiar los recursos y medios para acometer la ejecución del montaje o 
+mantenimiento de las instalaciones y equipos.
+–	 Replantear la instalación de acuerdo a la documentación técnica, resolviendo 
+los problemas de su competencia e informando de otras contingencias, para 
+asegurar la viabilidad del montaje.
+–	 Montar los elementos componentes de las infraestructuras e instalaciones 
+(canalizaciones, cableado, armarios, soportes, entre otros) utilizando técnicas de 
+montaje, en condiciones de calidad, seguridad y respeto al medio ambiente.
+–	 Instalar los equipos (cámaras, procesadores de señal, centralitas, entre otros) 
+utilizando herramientas de programación y asegurando su funcionamiento, en 
+condiciones de calidad y seguridad.
+–	 Mantener y reparar instalaciones y equipos realizando las operaciones de 
+comprobación, ajuste o sustitución de sus elementos y reprogramando los 
+equipos, restituyendo su funcionamiento en condiciones de calidad, seguridad y 
+respeto al medio ambiente.
+–	 Verificar el funcionamiento de la instalación o equipo realizando pruebas 
+funcionales y de comprobación, para proceder a su puesta en servicio.
+–	 Elaborar la documentación técnica y administrativa de la instalación o equipo, de 
+acuerdo con la reglamentación y normativa vigente y con los requerimientos del 
+cliente.
+–	 Aplicar los protocolos y normas de seguridad, de calidad y respeto al medio 
+ambiente en las intervenciones realizadas en los procesos de montaje y 
+mantenimiento de las instalaciones.
+Las líneas de actuación en el proceso de enseñanza–aprendizaje que permiten 
+alcanzar los objetivos del módulo versarán sobre:
+–	 Interpretación de documentación técnica relativa a ICT, Reglamento de Seguridad 
+Privada, Reglamento de Instalaciones de Protección contra Incendios y Ley 
+Orgánica de protección de datos de carácter personal.
+–	 Realización e interpretación de esquemas de instalaciones.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71944
+Miércoles, 22 de septiembre de 2010
+–	 Montaje y mantenimiento de instalaciones de CCTV y seguridad.
+–	 Realización de medidas, ajustes y verificación de parámetros.
+–	 Utilización de las tecnologías de la información y comunicación.
+–	 Elaboración de documentación técnica.
+–	 Valoración de costes, elaboración de presupuestos y documentación 
+administrativa.
+–	 Aplicación de técnicas de aprendizaje cooperativo.
+Módulo Profesional: Instalaciones de radiocomunicaciones.
+Código: 0365
+Duración: 165 horas
+Contenidos:
+1. Identificación de equipos y elementos de sistemas de radiocomunicaciones:
+–	 Concepto de radiofrecuencia. Propagación. Modulación. Demodulación. Tipos.
+–	 Emisión–recepción. Conceptos. Bloques funcionales.
+–	 Sistemas de radiocomunicaciones. Características. Protocolos.
+–	 Redes móviles y fijas. Arquitectura. Funciones y funcionamiento.
+–	 Tecnologías y servicios. 
+–	 Sistemas de radiodifusión. Sistemas de TV. Fijos. Unidades móviles.
+–	 Estaciones base transportables.
+–	 Radioenlaces analógicos y digitales de radio y TV.
+–	 Redes de acceso vía radio en servicios fijos terrestres.
+–	 Medios de transmisión: guiados y no guiados. Cable, fibra óptica, guías–ondas. 
+–	 Normas de instalación. Medidas. 
+–	 Antenas y sistemas radiantes. Orientación. Medidas.
+–	 Elementos auxiliares: duplexores, conectores, mezcladores, distribuidores, entre 
+otros.
+–	 Simbología normalizada. 
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71945
+Miércoles, 22 de septiembre de 2010
+2. Instalación de equipos de radiocomunicaciones y elementos auxiliares:
+–	 Interpretación de documentación técnica, planos y esquemas, entre otros. 
+–	 Antenas y elementos auxiliares. Medios de transmisión, duplexores, diplexores, 
+entre otros.
+–	 Equipos de comunicaciones.
+–	 Interfaces físicos.
+–	 Técnicas de conectorización de cable coaxial y F.O. Verificaciones.
+–	 Equipos de alimentación. Fuentes de alimentación.
+–	 Sistemas de alimentación ininterrumpida. Grupos electrógenos, convertidores y 
+placas solares.
+3. Configuración de equipos de radiocomunicaciones:
+–	 Software de control.
+–	 Manuales de equipos de radiocomunicaciones.
+–	 Parámetros y herramientas de configuración en redes fijas y móviles. 
+Características.
+–	 Métodos de verificación. Programas y dispositivos de comprobación.
+–	 Software de instalación y utilidades de equipos de radiocomunicación.
+–	 Software de gestión local de equipos de radiocomunicaciones.
+–	 Sistemas de acceso remoto.
+–	 Reglamentación y estándares. Cuadro Nacional de Atribución de Frecuencias. 
+4. Puesta en servicio de equipos de radiocomunicaciones:
+–	 Medidas de parámetros. Medidas de relación de ondas estacionarias (R.O.E.) 
+Gráficas. Potencia radiada. Intermodulación.
+–	 Métodos 
+y 
+equipos 
+de 
+comprobación 
+de 
+exposición 
+y 
+cobertura. 
+Reglamentación.
+–	 Procedimientos de puesta en servicio. 
+–	 Protocolos de seguridad en redes fijas y móviles.
+–	 Elaboración de documentación: método y pruebas de aceptación.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71946
+Miércoles, 22 de septiembre de 2010
+5. Mantenimiento y ampliación de equipos de radiocomunicaciones:
+–	 Herramientas, instrumentos y procedimientos de medida (comprobador de 
+cableado, reflectómetro óptico y analizador de espectro, entre otros).
+–	 Planes de mantenimiento.
+–	 Operaciones periódicas. Manuales de fabricantes.
+–	 Partes de descripción de averías.
+–	 Métodos de ampliación de dispositivos y equipos. 
+–	 Manuales técnicos de equipos.
+–	 Verificaciones, comprobaciones y ajustes.
+–	 Informe de resultados del mantenimiento y/o ampliación.
+6. Restablecimiento de parámetros y funcionalidad:
+–	 Planes de mantenimiento correctivo de sistemas de radiocomunicaciones.
+–	 Técnicas de diagnóstico y localización de averías. Sustitución y ajuste de 
+elementos.
+–	 Instrumentos y procedimientos de medida. 
+–	 Software de diagnóstico.
+–	 Métodos de restablecimiento de parámetros.
+–	 Mantenimiento remoto. 
+–	 Comprobaciones y ajustes.
+–	 Elaboración de informes técnicos.
+7. Prevención de riesgos laborales y protección ambiental:
+–	 Identificación de riesgos.
+–	 Determinación de las medidas de prevención de riesgos laborales.
+–	 Prevención de riesgos laborales en los procesos de montaje y mantenimiento.
+–	 Equipos de protección individual.
+–	 Cumplimiento de la normativa de prevención de riesgos laborales.
+–	 Cumplimiento de la normativa de protección ambiental.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71947
+Miércoles, 22 de septiembre de 2010
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional es un módulo soporte, por lo que da respuesta a la necesidad 
+de proporcionar una adecuada base teórica y práctica para la comprensión de las funciones 
+y características de equipos y elementos electrónicos utilizados en las instalaciones y 
+sistemas de telecomunicaciones.
+Contiene la formación necesaria para desempeñar la función de montar, mantener y 
+configurar equipos de radiocomunicaciones de instalaciones y redes fijas y móviles. 
+La definición de estas funciones incluye aspectos como:
+–	 La configuración de la instalación, en los límites establecidos por la reglamentación 
+vigente
+–	 La interconexión de equipos de radiocomunicaciones.
+–	 La interconexión de los equipos con la red troncal de banda ancha.
+–	 La puesta en marcha de los equipos y dispositivos de radiocomunicaciones.
+–	 La ampliación de las funcionalidades de los equipos de los sistemas de 
+radiocomunicaciones.
+Las actividades profesionales asociadas a esta función se aplican en:
+–	 Montaje de infraestructuras de radiocomunicaciones en instalaciones de redes 
+fijas y móviles.
+–	 Mantenimiento de infraestructuras de radiocomunicaciones en instalaciones de 
+redes fijas y móviles.
+–	 Montaje de equipos de radiocomunicaciones de redes fijas y móviles.
+–	 Mantenimiento de equipos de radiocomunicaciones de redes fijas y móviles.
+La formación del módulo contribuye a alcanzar los objetivos generales: 
+–	 Identificar los elementos de las infraestructuras, instalaciones y equipos, 
+analizando planos y esquemas y reconociendo los materiales y procedimientos 
+previstos, para establecer la logística asociada al montaje y mantenimiento.
+–	 Seleccionar el utillaje, herramientas, equipos y medios de montaje y de seguridad, 
+analizando las condiciones de obra y considerando las operaciones a realizar, 
+para acopiar los recursos y medios.
+–	 Identificar y marcar la posición de los elementos de la instalación o equipo y el 
+trazado de los circuitos, relacionando los planos de la documentación técnica con 
+su ubicación real, para replantear la instalación.
+–	 Aplicar técnicas de mecanizado, conexión, medición y montaje, manejando los 
+equipos, herramientas e instrumentos, según procedimientos establecidos y en 
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71948
+Miércoles, 22 de septiembre de 2010
+condiciones de calidad y seguridad, para efectuar el montaje o mantenimiento de 
+los elementos componentes de infraestructuras.
+–	 Ubicar y fijar los equipos y elementos soporte y auxiliares, interpretando los 
+planos y especificaciones de montaje, en condiciones de seguridad y calidad, 
+para montar equipos, instalaciones e infraestructuras.
+–	 Conectar los equipos y elementos auxiliares mediante técnicas de conexión 
+y empalme, de acuerdo con los esquemas de la documentación técnica, para 
+montar las infraestructuras y para instalar los equipos.
+–	 Cargar o volcar programas siguiendo las instrucciones del fabricante y aplicando 
+criterios de calidad para instalar equipos.
+–	 Analizar y localizar los efectos y causas de disfunción o avería en las instalaciones 
+y equipos, utilizando equipos de medida e interpretando los resultados, para 
+mantener y reparar instalaciones y equipos.
+–	 Comprobar la configuración y el software de control de los equipos siguiendo las 
+instrucciones del fabricante, para mantener y reparar instalaciones y equipos.
+–	 Sustituir los elementos defectuosos desmontando y montando los equipos 
+y realizando los ajustes necesarios, analizando planes de mantenimiento 
+y protocolos de calidad y seguridad, para mantener y reparar instalaciones y 
+equipos.
+–	 Comprobar el conexionado, software, señales y parámetros característicos entre 
+otros, utilizando la instrumentación y protocolos establecidos, en condiciones de 
+calidad y seguridad, para verificar el funcionamiento de la instalación o equipo.
+–	 Cumplimentar fichas de mantenimiento, informes de montaje y reparación y 
+manuales de instrucciones, siguiendo los procedimientos y formatos establecidos, 
+para elaborar la documentación de la instalación o equipo.
+–	 Analizar y describir los procedimientos de calidad, prevención de riesgos laborales 
+y medioambientales, señalando las acciones que es preciso realizar en los casos 
+definidos para actuar de acuerdo con las normas estandarizadas.
+–	 Mantener comunicaciones efectivas con su grupo de trabajo, interpretando 
+y generando instrucciones, proponiendo soluciones ante contingencias y 
+coordinando las actividades de los miembros del grupo con actitud abierta y 
+responsable, para integrarse en la organización de la empresa.
+La formación del módulo contribuye a alcanzar las competencias profesionales, 
+personales y sociales del título: 
+–	 Establecer la logística asociada al montaje y mantenimiento, interpretando la 
+documentación técnica de las infraestructuras, instalaciones y equipos.
+–	 Configurar y calcular instalaciones de telecomunicaciones, audiovisuales, 
+domóticas y eléctricas de interior, determinando el emplazamiento y características 
+de los elementos que las constituyen, respetando las especificaciones y las 
+prescripciones reglamentarias.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71949
+Miércoles, 22 de septiembre de 2010
+–	 Acopiar los recursos y medios para acometer la ejecución del montaje o 
+mantenimiento de las instalaciones y equipos.
+–	 Replantear la instalación de acuerdo a la documentación técnica, resolviendo 
+los problemas de su competencia e informando de otras contingencias, para 
+asegurar la viabilidad del montaje.
+–	 Montar los elementos componentes de las infraestructuras e instalaciones 
+(canalizaciones, cableado, armarios, soportes, entre otros) utilizando técnicas de 
+montaje, en condiciones de calidad, seguridad y respeto al medio ambiente.
+–	 Instalar los equipos (cámaras, procesadores de señal, centralitas, entre otros) 
+utilizando herramientas de programación y asegurando su funcionamiento, en 
+condiciones de calidad y seguridad.
+–	 Mantener y reparar instalaciones y equipos realizando las operaciones de 
+comprobación, ajuste o sustitución de sus elementos y reprogramando los 
+equipos, restituyendo su funcionamiento en condiciones de calidad, seguridad y 
+respeto al medio ambiente.
+–	 Verificar el funcionamiento de la instalación o equipo realizando pruebas 
+funcionales y de comprobación, para proceder a su puesta en servicio.
+–	 Elaborar la documentación técnica y administrativa de la instalación o equipo, de 
+acuerdo con la reglamentación y normativa vigente y con los requerimientos del 
+cliente.
+–	 Aplicar los protocolos y normas de seguridad, de calidad y respeto al medio 
+ambiente en las intervenciones realizadas en los procesos de montaje y 
+mantenimiento de las instalaciones.
+–	 Resolver problemas y tomar decisiones individuales siguiendo las normas y 
+procedimientos establecidos, definidos dentro del ámbito de su competencia.
+Las líneas de actuación en el proceso de enseñanza–aprendizaje que permiten 
+alcanzar los objetivos del módulo versarán sobre:
+–	 Interpretación de la normativa y reglamentación vigentes.
+–	 Identificación de las configuraciones de las instalaciones. 
+–	 Aplicación de técnicas de montaje.
+–	 Operación de equipos de medida y de comprobación.
+–	 Elaboración de documentación técnico–administrativa.
+–	 Utilización de las tecnologías de la información y comunicación.
+–	 Aplicación de medidas de seguridad en las operaciones.
+–	 Aplicación de criterios de calidad en todas las fases de los procesos.
+–	 Actitud de respeto al medio ambiente.
+–	 Aplicación de técnicas de aprendizaje cooperativo.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71950
+Miércoles, 22 de septiembre de 2010
+Módulo Profesional: Formación y orientación laboral.
+Código: 0366
+Duración: 99 horas
+Contenidos:
+BLOQUE A: Formación, Legislación y Relaciones Laborales. 
+Duración: 49 horas
+1. Búsqueda activa de empleo:
+–	 Valoración de la importancia de la formación permanente para la trayectoria 
+laboral y profesional del Técnico en Instalaciones de Telecomunicaciones.
+–	 Oportunidades de aprendizaje y empleo en Europa. Programas europeos.
+–	 Valoración de la empleabilidad y adaptación como factores clave para responder 
+a las exigencias del mercado laboral.
+–	 Identificación de los itinerarios formativos relacionados con el Técnico en 
+Instalaciones de Telecomunicaciones.
+–	 Análisis de los intereses, aptitudes y motivaciones personales para la carrera 
+profesional.
+–	 Definición y análisis del sector profesional del título de Técnico en Instalaciones de 
+Telecomunicaciones. Características personales y profesionales más apreciadas 
+por las empresas del sector en Castilla y León.
+–	 Proceso de búsqueda de empleo en pequeñas, medianas y grandes empresas 
+del sector.
+–	 La búsqueda de empleo. Fuentes de información.
+–	 Técnicas e instrumentos de búsqueda de empleo.
+–	 Oportunidades de autoempleo.
+–	 El proceso de toma de decisiones.
+–	 Reconocimiento del acceso al empleo en igualdad de oportunidades y sin 
+discriminación de cualquier tipo.
+2. Gestión del conflicto y equipos de trabajo:
+–	 Valoración de las ventajas e inconvenientes del trabajo en equipo para la eficacia 
+de la organización.
+–	 Tipología de equipos de trabajo.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71951
+Miércoles, 22 de septiembre de 2010
+–	 Equipos en la industria de Instalaciones de Telecomunicaciones, según las 
+funciones que desempeñan.
+–	 Formación y funcionamiento de equipos eficaces.
+–	 La participación en el equipo de trabajo.
+–	 Técnicas de participación, y Dinámicas de grupo.
+–	 Identificación de roles. Barreras a la participación en el equipo.
+–	 Conflicto: características, fuentes y etapas.
+–	 Consecuencias de los conflictos.
+–	 Métodos para la resolución o supresión del conflicto.
+–	 La comunicación asertiva, la toma de decisiones y la negociación como habilidades 
+sociales para el trabajo en equipo.
+3. Contrato de trabajo:
+–	 El Derecho del Trabajo. Normas fundamentales.
+–	 Órganos de la administración y jurisdicción laboral.
+–	 Análisis de la relación laboral individual.
+–	 Modalidades del contrato de trabajo y medidas de fomento de la contratación.
+–	 Derechos y deberes derivados de la relación laboral.
+–	 El tiempo de trabajo.
+–	 Análisis del recibo de salarios. Liquidación de haberes.
+–	 Modificación, suspensión y extinción del contrato de trabajo.
+–	 Valoración de las medidas para la conciliación familiar y profesional.
+–	 Representación de los trabajadores en la empresa.
+–	 Medidas de conflicto colectivo. Procedimientos de solución.
+–	 Negociación colectiva como medio para la conciliación de los intereses de 
+trabajadores y empresarios.
+–	 Análisis de un convenio colectivo aplicable al ámbito profesional del Técnico en 
+Instalaciones de Telecomunicaciones.
+–	 Beneficios para los trabajadores en las nuevas organizaciones: flexibilidad, 
+beneficios sociales entre otros.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71952
+Miércoles, 22 de septiembre de 2010
+4. Seguridad Social, Empleo y Desempleo:
+–	 Estructura del Sistema de la Seguridad Social.
+–	 Determinación de las principales obligaciones de empresarios y trabajadores en 
+materia de Seguridad Social: afiliación, altas, bajas y cotización.
+–	 Situaciones protegibles en la protección por desempleo.
+–	 Cálculo de bases de cotización a la seguridad social y determinación de cuotas 
+en un supuesto sencillo.
+–	 Prestaciones de la Seguridad Social.
+–	 Cálculo de una prestación por desempleo de nivel contributivo básico.
+BLOQUE B: Prevención de Riesgos Laborales.
+Duración: 50 horas
+5. Evaluación de riesgos profesionales:
+–	 Importancia de la cultura preventiva en todas las fases de la actividad. 
+Sensibilización, a través de las estadísticas de siniestralidad nacional y en Castilla 
+y León, de la necesidad de hábitos y actuaciones seguras.
+–	 Valoración de la relación entre trabajo y salud.
+–	 El riesgo profesional.
+–	 Análisis de factores de riesgo.
+–	 Análisis de riesgos ligados a las condiciones de seguridad.
+–	 Análisis de riesgos ligados a las condiciones ambientales.
+–	 Análisis de riesgos ligados a las condiciones ergonómicas y psicosociales.
+–	 Riesgos específicos en la industria de Instalaciones de  Telecomunicaciones.
+–	 La evaluación de riesgos en la empresa como elemento básico de la actividad 
+preventiva.
+–	 Técnicas de evaluación de riesgos.
+–	 Condiciones de trabajo y seguridad.
+–	 Determinación de los posibles daños a la salud del trabajador que pueden 
+derivarse de las situaciones de riesgo detectadas. Los accidentes de trabajo, las 
+enfermedades profesionales y otras patologías.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71953
+Miércoles, 22 de septiembre de 2010
+6. Planificación de la prevención de riesgos en la empresa. Prevención integrada:
+–	 Marco normativo en materia de prevención de riesgos laborales.
+–	 Derechos y deberes en materia de prevención de riesgos laborales.
+–	 Responsabilidades en materia de prevención de riesgos laborales.
+–	 Gestión de la prevención en la empresa. Documentación.
+–	 Organismos públicos relacionados con la prevención de riesgos laborales.
+–	 Planificación de la prevención en la empresa. Secuenciación de actuaciones.
+–	 Definición del contenido del Plan de Prevención de un centro de trabajo relacionado 
+con el sector profesional.
+–	 Planes de emergencia y de evacuación en entornos de trabajo.
+–	 Elaboración de un plan de emergencia en una «pyme».
+7. Aplicación de medidas de prevención y protección en la empresa:
+–	 Determinación de las medidas de prevención y protección individual y colectiva.
+–	 Señalización de seguridad.
+–	 Protocolo de actuación ante una situación de emergencias.
+–	 Prioridades y secuencia de actuación en el lugar del accidente.
+–	 Primeros auxilios. Conceptos básicos.
+–	 Aplicación de técnicas de primeros auxilios.
+–	 Vigilancia de la salud de los trabajadores.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para que el alumno pueda 
+insertarse laboralmente y desarrollar su carrera profesional en el sector de Instalaciones 
+de Telecomunicaciones.
+Las líneas de actuación en el proceso enseñanza–aprendizaje que permiten alcanzar 
+los objetivos del módulo versarán sobre: 
+–	 El manejo de las fuentes de información sobre el sistema educativo y laboral, en 
+especial en lo referente al sector de Instalaciones de Telecomunicaciones.
+–	 La realización de pruebas de orientación y dinámicas sobre la propia personalidad 
+y el desarrollo de las habilidades sociales. 
+–	 La preparación y realización de currículos (CVs) y entrevistas de trabajo. 
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71954
+Miércoles, 22 de septiembre de 2010
+–	 Identificación de la normativa laboral que afecta a los trabajadores del sector, 
+manejo de los contratos más comúnmente utilizados, lectura comprensiva de los 
+convenios colectivos de aplicación. 
+–	 La cumplimentación de recibos de salario de diferen­tes características y otros 
+documentos relacionados. 
+–	 El análisis de la Ley de Prevención de riesgos laborales que le permita la evaluación 
+de los riesgos derivados de las actividades desarrolladas en el sector productivo 
+y colaborar en la definición de un plan de prevención para la empresa, así como 
+las medidas necesarias que deban adoptarse para su implementación.
+El profesor de Formación y Orientación Laboral se tendrá que coordinar con otros 
+profesores del Ciclo Formativo, ya que hay una parte relativa a la prevención de riesgos 
+laborales que coincide con otros módulos. Por tanto, habrá que hacer los ajustes necesarios 
+para no coincidir en contenidos. Es aconsejable que el profesor de FOL se centre en 
+los aspectos estrictamente legales, como el daño profesional, el riesgo profesional, los 
+accidentes de trabajo, las enfermedades profesionales, las técnicas de prevención, la 
+estadística de la siniestralidad laboral y todo lo concerniente a las responsabilidades 
+legales y a los derechos y obligaciones de las partes en materia preventiva, así como los 
+órganos en materia de seguridad.
+Módulo Profesional: Empresa e iniciativa emprendedora.
+Código: 0367
+Duración: 63 horas
+Contenidos: 
+1. Iniciativa emprendedora: 
+–	 Innovación y desarrollo económico. Principales características de la innovación 
+en la actividad de Instalaciones de Telecomunicaciones (materiales, tecnología, 
+organización de la producción).
+–	 El trabajo por cuenta propia como fuente de creación de empleo y bienestar 
+social.
+–	 Responsabilidad social de la empresa.
+–	 Factores claves de los emprendedores: iniciativa, creatividad y formación.
+–	 Desarrollo del espíritu emprendedor a través del fomento de las actitudes de 
+creatividad, iniciativa, autonomía y responsabilidad.
+–	 La actuación de los emprendedores en una pyme de Instalaciones de 
+Telecomunicaciones.
+–	 Fomento de las capacidades emprendedoras de un trabajador por cuenta 
+ajena.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71955
+Miércoles, 22 de septiembre de 2010
+–	 La actuación de los emprendedores como empresarios de una pequeña empresa 
+en el sector de las  Instalaciones de Telecomunicaciones.
+–	 Análisis de las oportunidades de negocio en el sector de Instalaciones de 
+Telecomunicaciones.
+–	 Análisis de la capacidad para asumir riesgos del emprendedor.
+–	 El empresario. Requisitos para el ejercicio de la actividad empresarial.
+–	 Plan de empresa: la idea de negocio en el ámbito de las Instalaciones de 
+Telecomunicaciones.
+–	 Búsqueda de ideas de negocio. Análisis y viabilidad de las mismas.
+2. La empresa y su entorno: 
+–	 Funciones básicas de la empresa.
+–	 Estructura organizativa de la empresa. Organigrama.
+–	 La empresa como sistema.
+–	 El entorno general de la empresa en los aspectos económico, social, demográfico 
+y cultural.
+–	 Competencia. Barreras de entrada.
+–	 Relaciones con clientes y proveedores.
+–	 Variables del marketing mix: precio, producto, comunicación y distribución.
+–	 Análisis del entorno general y específico de una pyme de Instalaciones de 
+Telecomunicaciones.
+–	 Relaciones de una pyme de Instalaciones de Telecomunicaciones con su 
+entorno. 
+–	 Cultura empresarial e Imagen corporativa.
+–	 Relaciones de una pyme de Instalaciones de Telecomunicaciones con el conjunto 
+de la sociedad.
+–	 El balance social: Los costes y los beneficios sociales.
+–	 La ética empresarial en empresas de actividades de las Instalaciones de 
+Telecomunicaciones.
+3. Creación y puesta en marcha de una empresa: 
+–	 Tipos de empresa. 
+–	 Elección de la forma jurídica.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71956
+Miércoles, 22 de septiembre de 2010
+–	 La franquicia como forma de empresa. Franquicias relacionadas con el título de 
+Técnico en Instalaciones de Telecomunicaciones.
+–	 Ventajas e inconvenientes de las distintas formas jurídicas con especial atención 
+a la responsabilidad legal.
+–	 La fiscalidad en las empresas.
+–	 Impuestos más importantes que afectan a la fiscalidad de la empresa
+–	 Trámites administrativos para la constitución de una empresa. 
+–	 Relación con organismos oficiales. 
+–	 Subvenciones y ayudas destinadas a la creación de empresa del sector en la 
+localidad de referencia y en Castilla y León.
+–	 Viabilidad económica y viabilidad financiera de una pyme de Instalaciones de 
+Telecomunicaciones.
+–	 Plan de empresa: elección de la forma jurídica, estudio de viabilidad económica 
+y financiera, trámites administrativos y gestión de ayudas y subvenciones.
+–	 Elaboración de un plan de empresa.
+–	 Vías externas de asesoramiento y gestión. La ventanilla única empresarial.
+–	 Los Viveros de Empresas.
+4. Función administrativa: 
+–	 Concepto de contabilidad y nociones básicas.
+–	 Cuentas anuales obligatorias.
+–	 Análisis de la información contable.
+–	 Ratios
+–	 Cálculo de coste, beneficio y umbral de rentabilidad.
+–	 Obligaciones fiscales de las empresas. 
+–	 Calendario fiscal.
+–	 Gestión 
+administrativa 
+de 
+una 
+empresa 
+de 
+Instalaciones 
+de 
+Telecomunicaciones.
+–	 Documentos básicos utilizados en la actividad económica de la empresa: nota de 
+pedido, albarán, factura, letra de cambio, cheque y otros.
+–	 Gestión de aprovisionamiento. Valoración de existencias. Volumen óptimo de 
+pedido.
+–	 Elaboración de un plan de empresa.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+Pág. 71957
+Miércoles, 22 de septiembre de 2010
+Orientaciones pedagógicas y metodológicas. 
+Este módulo profesional contiene la formación necesaria para desarrollar la propia 
+iniciativa en el ámbito empresarial, tanto hacia el autoempleo como hacia la asunción de 
+responsabilidades y funciones en el empleo por cuenta propia. 
+Las líneas de actuación en el proceso enseñanza–aprendizaje que permiten alcanzar 
+los objetivos del módulo versarán sobre: 
+–	 Manejo de las fuentes de información sobre el sector de Instalaciones de 
+Telecomunicaciones.
+–	 La realización de casos y dinámicas de grupo que permitan comprender y valorar 
+las actitudes de los emprendedores y ajustar la necesidad de los mismos al sector 
+de Instalaciones de Telecomunicaciones.
+–	 La utilización de programas de gestión administrativa para pymes del sector. 
+actividad.
+–	 La realización de un proyecto de plan de empresa relacionada con la de 
+Instalaciones de Telecomunicaciones  y que incluya todas las facetas de 
+puesta en marcha de un negocio: viabilidad, organización de la producción y 
+los recursos humanos, acción comercial, control administrativo y financiero, así 
+como justificación de su responsabilidad social. 
+–	 Utilización de la herramienta Aprende a Emprender.
+Módulo profesional: Formación en centros de trabajo.
+Código: 0368
+Duración: 380 horas
+Este módulo profesional contribuye a completar las competencias y objetivos 
+generales, propios de este título, que se han alcanzado en el centro educativo y a desarrollar 
+competencias características difíciles de conseguir en el mismo.
+CV: BOCYL-D-22092010-2
+
+Boletín Oficial de Castilla y León
+Núm. 184
+http://bocyl.jcyl.es
+D.L.: BU 10-1979 - ISSN 1989-8959
+Pág. 71958
+Miércoles, 22 de septiembre de 2010
+ANEXO III
+ORGANIZACIÓN Y DISTRIBUCIÓN HORARIA
+Módulos profesionales
+Duración del 
+currículo
+(horas)
+Centro Educativo
+Centro de 
+Trabajo
+Curso 1.º
+horas/
+semanales
+Curso 2.º
+1.º y 2.º
+trimestres
+horas/semanales
+3.er 
+trimestre
+horas
+0237. Infraestructuras comunes de 
+telecomunicación en viviendas y 
+edificios.
+126
+6
+0238. Instalaciones domóticas.
+126
+6
+0359. Electrónica aplicada.
+198
+6
+0360. Equipos microinformáticos.
+165
+5
+0361. Infraestructuras de redes de 
+datos y sistemas de telefonía.
+231
+7
+0362. Instalaciones eléctricas básicas.
+132
+4
+0363. Instalaciones de megafonía y 
+sonorización.
+147
+7
+0364. Circuito cerrado de televisión y 
+seguridad electrónica.
+168
+8
+0365. Instalaciones de 
+radiocomunicaciones.
+165
+5
+0366. Formación y orientación laboral.
+99
+3
+0367. Empresa e iniciativa 
+ emprendedora.
+63
+3
+0368. Formación en centros de 
+ trabajo.
+380
+380
+TOTAL
+2000
+30
+30
+380
+CV: BOCYL-D-22092010-2

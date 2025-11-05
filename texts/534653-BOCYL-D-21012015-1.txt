@@ -1,0 +1,124 @@
+Boletín Oficial de Castilla y León
+Núm. 13
+Pág. 4878
+Miércoles, 21 de enero de 2015
+I. COMUNIDAD DE CASTILLA Y LEÓN
+A. DISPOSICIONES GENERALES
+CONSEJERÍA DE EDUCACIÓN
+ORDEN EDU/12/2015, de 12 de enero, por la que se crea y regula el Código de 
+Identificación Escolar de los alumnos de enseñanzas no universitarias en la Comunidad 
+de Castilla y León.
+La Ley 11/2007, de 22 de junio, de Acceso Electrónico de los Ciudadanos a los 
+Servicios Públicos reconoce en el artículo 6 el derecho de los ciudadanos a relacionarse con 
+las administraciones públicas utilizando medios electrónicos. Por otra parte, la Ley 2/2010, 
+de 11 de marzo, de Derechos de los Ciudadanos en sus Relaciones con la Administración 
+de la Comunidad de Castilla y León, consagra en el artículo 43 este derecho y la obligación 
+de la administración en Castilla y León de implantar el uso de medios electrónicos en las 
+prestaciones de servicios, comunicaciones y relaciones con los ciudadanos.
+En el ámbito educativo es preciso profundizar en las medidas dirigidas a facilitar la 
+incorporación de las tecnologías de la información a la gestión administrativa de los centros 
+educativos, lo cual implica la creación de sistemas integrados en los que la información 
+sea completa y se encuentre permanentemente actualizada y disponible. En nuestros 
+días, esto constituye un requisito imprescindible para implantar procesos de administración 
+electrónica, de simplificación administrativa y de interoperabilidad.
+Para ello la Consejería de Educación trabaja en la configuración de un sistema 
+integrado para la gestión de la educación escolar que, bajo la denominación de «Stilus», 
+pretende lograr la consecución de este objetivo. En este contexto, se plantea como primera 
+necesidad la creación de un código de identificación escolar que permita identificar de 
+forma segura y unívoca a todo el alumnado que cursa enseñanzas no universitarias en 
+Castilla y León.
+Por medio de la presente orden se procede a crear este código, que tendrá carácter 
+irrepetible y único a lo largo de la vida escolar, y a regular los aspectos esenciales para 
+su efectiva implantación en los centros docentes públicos y privados de la Comunidad de 
+Castilla y León.
+Por todo lo cual y en virtud de las atribuciones que me confiere la Ley 3/2001, de 
+3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, previo 
+dictamen del Consejo Escolar de Castilla y León,
+DISPONGO
+Artículo 1. Objeto.
+La presente orden tiene por objeto la creación y regulación del código de identificación 
+escolar (en adelante CIE) de los alumnos de enseñanzas no universitarias en la Comunidad 
+de Castilla y León.
+CV: BOCYL-D-21012015-1
+
+Boletín Oficial de Castilla y León
+Núm. 13
+Pág. 4879
+Miércoles, 21 de enero de 2015
+Artículo 2. Ámbito de aplicación.
+1. Lo establecido en esta orden será de aplicación al alumnado escolarizado en los 
+centros docentes públicos y privados de la Comunidad de Castilla y León que impartan 
+alguna de las enseñanzas establecidas en el artículo 3.2 de la Ley Orgánica 2/2006, de 
+3 de mayo, de Educación, excepto la universitaria.
+2. Será de aplicación también al alumnado escolarizado en entidades que, sin ser 
+centros docentes, cuenten con autorización para impartir en un año académico alguna de 
+las enseñanzas indicadas en el apartado anterior.
+Artículo 3. Definición y características.
+1. El CIE es un identificador que se asignará a todos los alumnos matriculados en 
+alguna de las enseñanzas indicadas en el artículo 2, y será único y exclusivo para cada 
+alumno e invariable durante toda su vida escolar.
+2. El CIE se constituye como un código alfanumérico que consta de dieciséis 
+caracteres.
+Artículo 4. Generación.
+1. Para la generación del CIE y para la resolución de los posibles duplicados, los 
+centros docentes y entidades proporcionarán a la consejería competente en materia de 
+educación los siguientes datos de sus alumnos:
+a)	Datos imprescindibles:
+1.	 Año académico vigente en el momento de la petición.
+2.	 Centro de escolarización en el momento de la petición.
+3.	 Nombre del alumno.
+4.	 Primer apellido del alumno.
+5.	 Fecha de nacimiento del alumno.
+6.	 Sexo del alumno.
+b)	Otros datos:
+1.	 Segundo apellido del alumno.
+2.	 NIF/NIE del alumno.
+3.	 Datos del padre, madre, representante legal o tutor (NIF/NIE, nombre, 
+primer apellido, segundo apellido).
+2. Los datos aportados serán incorporados al fichero denominado «Registro del 
+código de identificación (CIE) de los alumnos de enseñanzas escolares de Castilla y 
+León», creado al efecto por la orden de la Consejería de Educación EDU/99/2014, de 
+13 de febrero, para su tratamiento automatizado, de conformidad con la Ley Orgánica 
+15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.
+CV: BOCYL-D-21012015-1
+
+Boletín Oficial de Castilla y León
+Núm. 13
+http://bocyl.jcyl.es
+D.L.: BU 10-1979 - ISSN 1989-8959
+Pág. 4880
+Miércoles, 21 de enero de 2015
+Artículo 5. Gestión.
+1. El CIE se asignará a cada alumno por la consejería competente en materia 
+de educación, en la forma que al efecto se determine, cuando se efectúe su primera 
+matriculación en alguno de los centros docentes o entidades de referencia.
+2. El CIE se hará constar en toda la documentación relativa al alumno con el objeto 
+de garantizar su adecuada identificación. En todo caso ha de figurar en los siguientes 
+documentos, según proceda en cada enseñanza:
+a)	Expediente académico.
+b)	Historial académico.
+c)	 Certificación académica.
+d)	Libro de calificaciones.
+e)	Documentación por traslado de centro.
+3. Los centros docentes y entidades llevarán a cabo ante la consejería competente en 
+materia de educación todas las actuaciones necesarias para que los alumnos matriculados 
+en alguna de las enseñanzas incluidas en el ámbito de aplicación de la presente orden 
+dispongan de CIE.
+DISPOSICIÓN ADICIONAL
+Adaptación de aplicaciones informáticas.
+Los centros directivos de la consejería competente en materia de educación 
+responsables funcionales de aplicaciones informáticas realizarán las actuaciones 
+necesarias para que aquéllas que gestionan procesos con información individualizada de 
+alumnos incluyan el CIE, en tanto no se produzca su integración con el sistema «Stilus».
+DISPOSICIONES FINALES
+Primera. Desarrollo.
+Se faculta al titular de la dirección general competente en materia de tratamiento de 
+la información educativa integrada para adoptar las medidas que sean necesarias para la 
+aplicación y ejecución de lo establecido en la presente orden.
+Segunda. Entrada en vigor.
+La presente orden entrará en vigor el día siguiente al de su publicación en el «Boletín 
+Oficial de Castilla y León».
+Valladolid, 12 de enero de 2015.
+El Consejero,
+Fdo.: Juan José Mateos Otero
+CV: BOCYL-D-21012015-1

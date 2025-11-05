@@ -1,0 +1,418 @@
+21238
+Martes, 13 de noviembre 2007
+B.O.C. y L. - N.º 220
+Personas y colectivos afectados: 
+Personal docente de los centros públicos y de apoyo de enseñanzas no
+universitarias dependientes de la Consejería de Educación de la Junta de
+Castilla y León.
+Procedimiento de recogida y procedencia de datos:
+Datos aportados por el propio interesado, mediante declaración y/o
+formulario, y los que se desprenden del nombramiento o contrato de tra-
+bajo en soporte papel.
+Estructura básica del fichero y descripción de los datos de carácter
+personal: 
+N.I.F., n.º afiliación en la Seguridad Social, nombre y apellidos, direc-
+ción, n.º Registro Personal, estado civil, n.º de hijos, fecha de nacimien-
+to, sexo, puesto de trabajo, datos no económicos de nómina, datos ban-
+carios, datos económicos de nómina, grado de discapacidad y afiliación a
+organización sindical. 
+Cesiones previstas:
+Dirección General de la Función Pública de la Consejería de Admi-
+nistración Autonómica, Entidades Bancarias Colaboradoras, Tesorería
+General de la Seguridad Social, Ministerio de Hacienda (AEAT) y
+MUFACE.
+Órgano responsable de la Administración del fichero:
+Dirección General de Recursos Humanos de la Consejería de Educación.
+Servicio o Unidad ante el que pueden ejercitarse los derechos de
+acceso, rectificación y cancelación: 
+Dirección General de Recursos Humanos de la Consejería de Educa-
+ción y Direcciones Provinciales de Educación.
+Medidas de seguridad:
+Alto.
+ANEXO II
+FICHERO MODIFICADO
+DATOS DE CARÁCTER PERSONAL RELATIVOS ALALUMNADO
+CON NECESIDADES EDUCATIVAS ESPECÍFICAS 
+Denominación del fichero: 
+Datos relativos al alumnado con Necesidades Educativas Específicas
+(creado por Orden EDU/571/2005, de 26 de abril. «B.O.C. y L.» número
+86 de 6 de mayo de 2005).
+Fines y usos: 
+Gestión de datos relativos a los alumnos con Necesidades Educativas
+Específicas para su uso por la Administración Educativa.
+Personas y colectivos afectados: 
+Alumnado de los centros educativos de Castilla y León con Necesi-
+dades Educativas Específicas debido a: Discapacidad, graves trastornos
+de personalidad o conducta, procedencia geográfica, minoría cultural,
+desfavorecidos, superdotación, necesidades específicas de lenguaje o
+capacidad intelectual límite.
+Procedimiento de recogida y procedencia de datos:
+Información aportada por los centros educativos.
+Estructura básica del fichero y descripción de los datos de carácter
+personal:
+Datos de carácter identificativo: nombre y apellidos.
+Datos de características personales: fecha de nacimiento, edad, sexo,
+nacionalidad y discapacidad.
+Datos de circunstancias sociales: marginalidad, minoría cultural, tem-
+porero, hospitalización, itinerante.
+Datos académicos y profesionales: historial del estudiante, superdota-
+ción, absentismo, capacidad intelectual límite. 
+Cesiones previstas:
+Ninguna.
+Órgano responsable de la Administración del fichero:
+Dirección General de Planificación, Ordenación e Inspección Educativa.
+Servicio o Unidad ante el que pueden ejercitarse los derechos de
+acceso, rectificación y cancelación: 
+Dirección General de Planificación, Ordenación e Inspección Educativa.
+Medidas de seguridad:
+Nivel Alto.
+ANEXO III
+MEDIDAS DE SEGURIDAD PARA LA SUPRESIÓN
+DEL FICHERO DE DATOS DE CARÁCTER PERSONAL
+DENOMINADO «ADMISIÓN EN ESCUELAS INFANTILES»,
+A ADOPTAR POR LOS ÓRGANOS AFECTADOS
+1.– Se borrará físicamente el fichero de referencia.
+2.– Se establecerán las medidas necesarias para impedir que los
+soportes que contengan datos de carácter personal del fichero que se
+suprime, se puedan recuperar.
+ORDEN EDU/1782/2007, de 6 de noviembre, por la que se programa el
+curso preparatorio para las pruebas de acceso a los ciclos formati-
+vos de grado superior de formación profesional, para el año 2008.
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación establece, en el
+Art. 41, que podrán cursar la formación profesional de grado superior
+aquellos aspirantes que, careciendo de los requisitos académicos, super-
+en una prueba de acceso regulada por la Administración educativa. 
+Asimismo establece que las Administraciones educativas podrán pro-
+gramar y ofertar cursos destinados a la preparación de las pruebas para el
+acceso a la formación profesional de grado superior por parte de quienes
+estén en posesión del título de Técnico. Las calificaciones obtenidas en
+estos cursos serán tenidas en cuenta en la nota final de la respectiva prue-
+ba de acceso conforme al sistema de cálculo establecido en el Real Decre-
+to 1538/2006, de 15 de diciembre, por el que se establece la Ordenación
+General de la Formación Profesional del sistema educativo.
+De conformidad con lo expuesto y en virtud de las atribuciones con-
+feridas por la Ley 3/2001, de 3 de julio, del Gobierno y de la Adminis-
+tración de la Comunidad de Castilla y León, se programa el correspon-
+diente curso preparatorio con arreglo a las siguientes
+BASES:
+Primera.– Objeto.
+El objeto de la presente Orden es programar el curso preparatorio para
+las pruebas de acceso a los ciclos formativos de grado superior de for-
+mación profesional, para el año 2008, dirigido al alumnado que dispone
+de título de Técnico en las enseñanzas de formación profesional.
+Segunda.– Características generales del curso.
+2.1. El curso tendrá como finalidad el desarrollo de la madurez del
+alumnado en relación con los objetivos del Bachillerato y sus capacida-
+des referentes al campo profesional del ciclo formativo al que se quiera
+acceder.
+2.2. Las materias cursadas no serán convalidadas con sus homólogas
+del Bachillerato, siendo su validez de tipo preparatorio para la prueba de
+acceso, a través del desarrollo de las capacidades básicas requeridas para
+cursar el correspondiente ciclo formativo.
+Tercera.– Destinatarios del curso. 
+El curso preparatorio está dirigido a las personas que cumplan los
+siguientes requisitos:
+a) Haber superado un ciclo formativo de grado medio de formación
+profesional.
+b) Tener interés en presentarse a las pruebas de acceso a alguno de los
+ciclos formativos de grado superior de formación profesional de la
+
+B.O.C. y L. - N.º 220
+Martes, 13 de noviembre 2007
+21239
+misma familia profesional que el ciclo formativo de grado medio
+que han superado.
+Cuarta.– Contenido del curso.
+4.1. El curso versará sobre los contenidos relativos a tres materias,
+dos de ellas con dos opciones:
+a) Lengua castellana y literatura.
+b) Lengua extranjera, a elegir entre inglés y francés.
+c) Matemáticas, a elegir entre matemáticas o matemáticas aplicadas a
+las ciencias sociales en función de los ciclos que se vayan a cursar,
+según Anexo I.
+4.2. Los contenidos se adecuarán al currículo oficial de 1.º y 2.º de
+Bachillerato de acuerdo al Decreto 70/2002 de 23 de mayo, por el que se
+establece el Currículo de Bachillerato de la Comunidad de Castilla y León.
+4.3. Se programarán seis períodos lectivos semanales para lengua cas-
+tellana y literatura, seis para lengua extranjera y ocho para matemáticas.
+Quinta.– período de realización del curso.
+5.1. Las actividades lectivas comenzaran el día 21 de enero de 2008
+y se desarrollaran a lo largo del curso académico, debiendo finalizar el 13
+de junio de 2008.
+5.2. El horario será elaborado por el jefe de estudios del centro antes
+del comienzo del curso.
+Sexta.– Lugar de realización. 
+Los cursos se realizarán en los Institutos de Enseñanza Secundaria
+que se relacionan en el Anexo II. Cada uno de los centros autorizados
+impartirá todas las materias que se contemplan en la base cuarta. 
+Séptima.– Constitución de grupos.
+7.1. En cada centro autorizado se ofertará un grupo con 35 plazas.
+Para la constitución del grupo se requerirá un mínimo de 15 alumnos. En
+el caso de que existan más de 60 solicitudes se podrá constituir un segun-
+do grupo.
+7.2. Cada grupo tendrá un tutor, que ejercerá las funciones propias de
+la tutoría y se regirá por los criterios establecidos en la normativa vigente.
+Octava.– Criterios de admisión.
+8.1. Cuando el número de plazas ofertadas en el curso preparatorio
+sea igual o superior al número de solicitudes presentadas serán admitidos
+todos los solicitantes.
+8.2. Cuando el número de solicitudes sea superior al de plazas oferta-
+das, la dirección del centro elaborará la lista de alumnos admitidos y
+excluidos de acuerdo con los siguientes criterios: 
+a) Tendrán prioridad quienes hubieran finalizado el ciclo formativo
+de grado medio en el año 2007 frente a los del año 2006 y estos
+frente al resto.
+b) En caso de empate en cada uno de los supuestos anteriores, primará la
+nota media obtenida en el ciclo formativo de grado medio cursado.
+8.3. En caso de persistir el empate se utilizará como criterio de des-
+empate la primera letra del primer apellido y la primera letra del segun-
+do apellido de acuerdo con el sorteo público que se celebra a estos efec-
+tos en la Consejería de Educación, el día 18 de diciembre de 2008, a las
+10.00 horas. Para quienes carezcan de segundo apellido se tendrá en
+cuenta la segunda letra de su apellido.
+Novena.– Solicitud de admisión.
+9.1. La solicitud de admisión se formalizará, por duplicado, conforme
+al modelo que se incluye como Anexo III a la presente Orden y se pre-
+sentará en el centro en el que se solicita la plaza.
+9.2. A la solicitud se acompañará la siguiente documentación, origi-
+nal o copia compulsada:
+a) D.N.I. o documento equivalente que acredite la personalidad.
+b) Certificación académica personal o libro de calificaciones de for-
+mación profesional.
+Décima.– Proceso de admisión y matrícula.
+El proceso de admisión de solicitudes y el plazo de matriculación se
+realizará en las siguientes fechas:
+a) De 17 de diciembre de 2007 a 9 de enero de 2008: presentación de
+solicitudes.
+b) Día 10 de enero: publicación de las listas provisionales en los centros.
+c) Días 10, 11 y 12 de enero: reclamaciones a las listas provisionales
+ante el titular del centro.
+d) Día 14 de enero: resolución de reclamaciones y publicación de las
+listas definitivas de alumnos con su orden de prioridad, indicando
+a los que se ha adjudicado plaza.
+e) Días 15, 16 y 17 de enero: matriculación de alumnos.
+Undécima.– Programación de materias. 
+11.1. Los departamentos didácticos de los centros, antes del comien-
+zo del curso, elaborarán la programación de la materia correspondiente,
+adaptada a las características del curso preparatorio y a la prueba de acce-
+so a los ciclos formativos de grado superior, especificando los conteni-
+dos, metodología, recursos didácticos y los criterios e instrumentos de
+evaluación y calificación. Las programaciones estarán supervisadas por
+la inspección educativa.
+11.2. El equipo de profesores del curso preparatorio deberá adaptar
+las programaciones a las características de sus alumnos, a la asignación
+horaria de las materias y a las peculiaridades de las pruebas de acceso a
+ciclos de grado superior.
+11.3. Las materias serán impartidas por profesorado perteneciente a
+los cuerpos de profesores de enseñanza secundaria adscritos a dichas
+especialidades.
+11.4. El profesorado del curso se integrará en los departamentos
+didácticos correspondientes a su materia.
+11.5. En todo lo relacionado con la dedicación del profesorado se
+estará a lo que se establece con carácter general en la normativa vigente
+Duodécima.– Evaluación. 
+12.1. La evaluación será continua y se realizará por materias, estable-
+ciéndose una sesión de evaluación intermedia y una final para cada una
+de ellas, de las que se levantará acta. 
+El acta de la sesión de evaluación final reflejará la calificación de
+cada materia, que deberá expresarse en términos numéricos de 1 a 10, sin
+decimales. El cálculo de la calificación final del curso, se realizará
+mediante la media aritmética de las calificaciones de las materias que
+constituyen el curso y se expresará con dos cifras decimales. 
+El alumno que abandone el curso aparecerá como «no evaluado».
+12.2. La evaluación será realizada por la comisión de evaluación,
+constituida por el tutor del curso, que la presidirá y por los profesores que
+impartan el curso preparatorio, que actuarán como vocales.
+12.3. El acta final, cuyo modelo se incluye según el Anexo IV, será
+firmado por todos los miembros de la comisión de evaluación.
+12.4. A los alumnos que hayan realizado el curso de preparación de la
+prueba de acceso, de acuerdo con lo contemplado en el Art. 41 de la Ley
+Orgánica 2/2006, de 3 de mayo, de Educación, les será de aplicación lo
+dispuesto en el artículo 27.2 del Real Decreto 1538/2006, de 15 de
+diciembre por el que se establece la ordenación general de la formación
+profesional del sistema educativo.
+Decimotercera.– Documentación académica y certificaciones. 
+13.1. Los centros que matriculen alumnos para realizar el curso pre-
+paratorio abrirán a cada uno de ellos un expediente académico, según el
+modelo del Anexo V. A este expediente se incorporará la documentación
+exigida para su solicitud y toda la que en lo sucesivo se genere.
+13.2. La secretaría del centro emitirá, a solicitud del interesado, cer-
+tificado de haber cursado el curso preparatorio con indicación de la nota
+alcanzada según el modelo que se adjunta como Anexo VI.
+Decimocuarta.– Seguimiento.
+La Dirección General de Formación Profesional, con el apoyo de la
+Inspección Educativa, hará el seguimiento y evaluación de estos cursos,
+adoptando, en el marco de esta Orden, aquellas decisiones que mejoren
+su funcionamiento.
+Decimoquinta.– Base final. 
+Se faculta al Director General de Formación Profesional para dictar
+cuantas resoluciones sean necesarias para el cumplimiento de lo previsto
+en la presente Orden.
+Contra la presente Orden, que pone fin a la vía administrativa, cabe
+interponer potestativamente recurso de reposición en el plazo de un mes
+ante el Consejero de Educación o bien directamente recurso contencioso-
+administrativo ante la Sala de lo Contencioso-Administrativo del Tribu-
+
+21240
+Martes, 13 de noviembre 2007
+B.O.C. y L. - N.º 220
+nal Superior de Justicia de Castilla y León en el plazo de dos meses.
+Ambos plazos se computarán a partir del día siguiente al de su publica-
+ción en el «Boletín Oficial de Castilla y León».
+Valladolid, 6 de noviembre de 2007.
+El Consejero,
+Fdo.: JUAN JOSÉ MATEOS OTERO
+ANEXO I
+OPCIONES DE LAS ASIGNATURAS DE MATEMÁTICAS
+Y MATEMÁTICAS APLICADAS A LAS CIENCIAS SOCIALES
+SEGÚN EL CICLO FORMATIVO DE GRADO SUPERIOR
+QUE SE DESEA CURSAR
+OPCIÓN A: MATEMÁTICAS
+FAMILIA
+CICLO FORMATIVO
+• ACTIVIDADES AGRARIAS:
+1. Gestión y Organización de Empresas Agropecuarias
+2. Gestión y Organización de los Recursos Naturales y Paisa-
+jísticos
+• ACTIVIDADES MARÍTIMO PESQUERAS:
+1. Navegación, Pesca y Transporte Marítimo
+2. Producción Acuícola
+3. Supervisión y Control de Máquinas e Instalaciones del
+Buque
+• ARTES GRÁFICAS Y DISEÑO:
+1. Diseño y Producción Editorial
+2. Producción en Industrias de Artes Gráficas
+• EDIFICACIÓN Y OBRA CIVIL:
+1. Desarrollo de Proyectos Urbanísticos y Operaciones Topo-
+gráficas
+2. Desarrollo y Aplicación de Proyectos de Construcción
+3. Realización y Planes de Obras
+• ELECTRICIDAD Y ELECTRÓNICA:
+1. Desarrollo de Productos Electrónicos
+2. Instalaciones Electrotécnicas
+3. Sistemas de Regulación y Control Automáticos
+4. Sistemas de Telecomunicación e Informáticos
+• FABRICACIÓN MECÁNICA:
+1. Construcciones Metálicas
+2. Desarrollo de Proyectos Mecánicos
+3. Producción por Fundición y Pulvimetalurgia
+4. Producción por Mecanizado
+5. Óptica de Anteojería 
+• IMAGEN PERSONAL:
+1. Asesoría de Imagen Personal
+2. Estética
+• INDUSTRIAS ALIMENTARIAS:
+1. Industria Alimentaría
+• MADERA Y MUEBLE:
+1. Desarrollo de Productos en Carpintería y Mueble
+2. Producción de Madera y Mueble
+• MANTENIMIENTO DE VEHÍCULOS AUTOPROPULSADOS:
+1. Automoción
+2. Mantenimiento Aeromecánico
+3. Mantenimiento de Aviónica
+• MANTENIMIENTO Y SERVICIOS A LA PRODUCCIÓN:
+1. Desarrollo de Proyectos de Instalaciones de Fluidos, Térmi-
+cas y de Manutención
+2. Mantenimiento de Equipo Industrial
+3. Prevención de Riesgos Profesionales
+4. Mantenimiento y Montaje de Instalaciones de Edificio y
+Proceso
+• QUÍMICA:
+1. Análisis y Control
+2. Fabricación de Productos Farmacéuticos y Afines
+3. Industrias de Proceso de Pasta y Papel
+4. Industrias de Proceso Químico
+5. Plásticos y Caucho
+6. Química Ambiental
+• SANIDAD:
+1. Anatomía, Patología y Citología
+2. Dietética
+3. Audioprótesis
+4. Documentación Sanitaria
+5. Higiene Bucodental
+6.
+Imagen para el Diagnóstico
+7. Laboratorio de Diagnóstico Clínico
+8. Ortoprotésica
+9. Prótesis Dentales
+10. Radioterapia
+11.Salud Ambiental
+• TEXTIL, CONFECCIÓN Y PIEL:
+1. Curtidos
+2. Patronaje
+3. Procesos de Confección Industrial
+4. Procesos de Ennoblecimiento Textil
+5. Procesos Textiles de Hilatura y Tejeduría de Calada
+6.
+Procesos Textiles de Tejeduría de Punto
+• VIDRIO Y CERÁMICA:
+1. Desarrollo y Fabricación de Productos Cerámicos
+2. Fabricación y Transformación de Productos de Vidrio
+OPCIÓN B: MATEMÁTICAS APLICADAS A LAS CIENCIAS
+SOCIALES
+FAMILIA
+CICLO FORMATIVO
+• ACTIVIDADES FÍSICAS Y DEPORTIVAS:
+1. Animación de Actividades Físicas y Deportivas
+• ADMINISTRACIÓN:
+1. Administración y Finanzas
+2. Secretariado
+• COMERCIO Y MARKETING:
+1. Comercio Internacional
+2. Gestión Comercial y Marketing
+3. Gestión del Transporte
+4. Servicios al Consumidor
+• COMUNICACIÓN, IMAGEN Y SONIDO:
+1. Imagen
+2. Producción de Audiovisuales, Radio y Espectáculos
+3. Realización de Audiovisuales y Espectáculos
+4. Sonido
+
+B.O.C. y L. - N.º 220
+Martes, 13 de noviembre 2007
+21241
+• HOSTELERÍA Y TURISMO:
+1. Restauración
+2. Alojamiento
+3. Agencias de Viajes
+4. Animación Turística
+5. Información y Comercialización Turísticas
+• INFORMÁTICA:
+1. Administración de Sistemas Informáticos
+2. Desarrollo de Aplicaciones Informáticas
+• SERVICIOS SOCIOCULTURALES Y A LA COMUNIDAD:
+1. Animación Sociocultural
+2. Educación Infantil
+3. Interpretación de la Lengua de Signos
+4. Integración Social
+ANEXO II 
+RELACIÓN DE CENTROS DONDE SE IMPARTE EL CURSO PREPARATORIO PARA LAS PRUEBAS DE ACCESO 
+A LOS CICLOS FORMATIVOS DE GRADO SUPERIOR
+
+21242
+Martes, 13 de noviembre 2007
+B.O.C. y L. - N.º 220
+
+B.O.C. y L. - N.º 220
+Martes, 13 de noviembre 2007
+21243
+
+21244
+Martes, 13 de noviembre 2007
+B.O.C. y L. - N.º 220
+
+B.O.C. y L. - N.º 220
+Martes, 13 de noviembre 2007
+21245
+
+21246
+Martes, 13 de noviembre 2007
+B.O.C. y L. - N.º 220
+
+B.O.C. y L. - N.º 220
+Martes, 13 de noviembre 2007
+21247
+
+21248
+Martes, 13 de noviembre 2007
+B.O.C. y L. - N.º 220

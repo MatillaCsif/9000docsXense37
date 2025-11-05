@@ -1,0 +1,204 @@
+5468
+Miércoles, 30 de marzo 2005
+B.O.C. y L. - N.º 60
+CONSEJERÍA DE EDUCACIÓN
+ORDEN EDU/401/2005, de 17 de marzo, por la que se crean ficheros
+automatizados de datos de carácter personal.
+La Ley Orgánica 15/1999, de 13 de diciembre, de Protección de
+Datos de Carácter Personal, en su artículo 20, establece que la creación,
+modificación o supresión de los ficheros de las Administraciones Públi-
+cas sólo podrán hacerse por medio de disposición general publicada en el
+diario oficial correspondiente.
+Por su parte, el Decreto 11/2003, de 23 de enero, por el que se regu-
+lan los ficheros de datos de carácter personal susceptibles de tratamiento
+automatizado, de la Administración de la Comunidad de Castilla y León,
+concreta en su artículo 2, que la creación, modificación y supresión de los
+ficheros de datos de carácter personal incluidos en el ámbito de aplica-
+ción de la citada Ley, se realizará previo informe de la Dirección General
+de Telecomunicaciones y Transportes de la Consejería de Fomento, por
+Orden del titular de la Consejería competente por razón de la materia a la
+que afectan.
+Por ello, y ante la necesidad de lograr una mayor agilidad y eficien-
+cia en la organización y gestión administrativa llevada a cabo por la Con-
+sejería de Educación, garantizando, paralelamente, el derecho a la pro-
+tección de datos de carácter personal de los administrados, se hace
+preciso la creación de ficheros automatizados de datos.
+En su virtud,
+DISPONGO:
+Artículo 1.– Se crean los ficheros de datos de carácter personal de la
+Consejería de Educación, que se indican y describen en el Anexo de la
+presente Orden.
+Artículo 2.– El titular del órgano responsable de cada fichero auto-
+matizado a los que se refiere el artículo anterior, y en su caso el encarga-
+do de su tratamiento, deberá adoptar las medidas de índole técnica y orga-
+nizativa necesarias que garanticen la seguridad de los datos de carácter
+personal y eviten su alteración, pérdida tratamiento o acceso no autoriza-
+do, habida cuenta del estado de la tecnología, la naturaleza de los datos
+almacenados y los riesgos a que están expuestos. Ello implica la implan-
+tación de las medidas de seguridad exigibles en función de la naturaleza de los
+datos protegidos, en los términos establecidos en el Real Decreto 994/1999,
+de 11 de junio, por el que se aprueba el Reglamento de medidas de seguridad
+de los ficheros automatizados que contengan datos de carácter personal.
+Artículo 3.– Los interesados tendrán derecho a solicitar y obtener gra-
+tuitamente información de sus datos de carácter personal sometidos a tra-
+tamiento, el origen de dichos datos, así como las comunicaciones reali-
+zadas o que se prevea realizar con los mismos.
+DISPOSICIÓN FINAL:
+Unica.– La presente Orden entrará en vigor el día siguiente al de su
+publicación en el «Boletín Oficial de Castilla y León».
+Valladolid, 17 de marzo de 2005.
+El Consejero,
+Fdo.: FRANCISCO JAVIER ÁLVAREZ-GUISASOLA
+ANEXO
+Denominación del fichero:
+Fichero automatizado de datos de carácter personal de los aspirantes
+a vacantes de personal laboral.
+Fines y usos:
+Gestión de datos relativos a los solicitantes a estas pruebas selecti-
+vas para su uso en SSCC, en cumplimiento del Acuerdo de 3 de diciem-
+bre de 2002, del Foro de Convergencia del personal laboral transferido
+por R.D. 1340/1999, de 31 de julio, con el personal laboral de la Junta de
+Castilla y León.
+Personas o colectivos afectados:
+Solicitantes a pruebas selectivas.
+Procedimiento de recogida de datos:
+Datos aportados por el propio interesado o su representante legal en
+la solicitud de admisión a pruebas selectivas.
+Estructura básica del fichero y descripción de los tipos de datos:
+Datos de carácter identificativo; N.I.F., Nombre y Apellidos, Direc-
+ción, Teléfono, Municipio, Provincia, Código Postal.
+Datos de características personales; Tipo de discapacidad y adapta-
+ción que solicita, Fecha de nacimiento, Nacionalidad.
+Datos académicos y profesionales; Formación, Centro de expedición,
+Cursos realizados, Servicios efectivos prestados.
+Cesiones de datos previstas:
+No previstas.
+Órgano de la Administración responsable del fichero:
+Consejería de Educación.
+Servicio o Unidad ante el que pueden ejercitarse los derechos de
+acceso, rectificación, cancelación y oposición:
+Dirección General de Recursos Humanos.
+Medidas de Seguridad:
+Nivel Básico.
+ORDEN EDU/402/2005, de 17 de marzo, por la que se crean ficheros
+automatizados de datos de carácter personal de la Consejería de
+Educación.
+La Ley orgánica 15/1999, de 13 de diciembre, de Protección de Datos
+de Carácter Personal, en su artículo 20, establece que la creación, modi-
+ficación o supresión de los ficheros de las Administraciones Públicas sólo
+podrán hacerse por medio de disposición general publicada en el diario
+oficial correspondiente.
+Por su parte, el Decreto 11/2003, de 23 de enero, por el que se regu-
+lan los ficheros de datos de carácter personal susceptibles de tratamiento
+automatizado, de la Administración de la Comunidad de Castilla y León,
+concreta en su artículo 2, que la creación, modificación y supresión de los
+ficheros de datos de carácter personal incluidos en el ámbito de aplica-
+ción de la citada Ley, se realizará previo informe de la Dirección General
+de Telecomunicaciones y Transportes de la Consejería de Fomento, por
+Orden del titular de la Consejería competente por razón de la materia a la
+que afectan.
+Por ello, y ante la necesidad de lograr una mayor agilidad y eficien-
+cia en la organización y gestión administrativa llevada a cabo por la Con-
+sejería de Educación garantizando, paralelamente, el derecho a la protec-
+ción de datos de carácter personal de los administrados, se hace preciso
+la creación de ficheros automatizados de datos.
+En su virtud,
+DISPONGO:
+Artículo 1.– Creación de ficheros.
+Se crean los ficheros de datos de carácter personal de la Consejería de
+Educación, que se indican y describen en el Anexo I de la presente Orden.
+Artículo 2.– Medidas técnicas y organizativas.
+El titular del órgano responsable de cada fichero automatizado a los
+que se refiere el artículo anterior, y en su caso el encargado de su trata-
+miento, deberá adoptar las medidas de índole técnica y organizativa nece-
+sarias que garanticen la seguridad de los datos de carácter personal y evi-
+ten su alteración, pérdida tratamiento o acceso no autorizado, habida
+cuenta del estado de la tecnología, la naturaleza de los datos almacenados
+y los riesgos a que están expuestos. Ello implica la implantación de las
+medidas de seguridad exigibles en función de la naturaleza de los datos
+
+B.O.C. y L. - N.º 60
+Miércoles, 30 de marzo 2005
+5469
+protegidos, en los términos establecidos en el Real Decreto 994/1999, de
+11 de junio, por el que se aprueba el Reglamento de medidas de seguridad de
+los ficheros automatizados que contengan datos de carácter personal.
+Artículo 3.– Derecho de acceso.
+Los interesados tendrán derecho a solicitar y obtener gratuitamente
+información de sus datos de carácter personal sometidos a tratamiento, el
+origen de dichos datos, así como las comunicaciones realizadas o que
+prevea realizar con los mismos.
+DISPOSICIÓN FINAL
+Única.– Entrada en vigor.
+La presente Orden entrará en vigor el día siguiente al de su publica-
+ción en el «Boletín Oficial de Castilla y León».
+Valladolid, 17 de marzo de 2005.
+El Consejero,
+Fdo.: FRANCISCO JAVIER ÁLVAREZ GUISASOLA
+ANEXO I
+Denominación del fichero: Admisión.
+Fines y usos:
+Gestión de la admisión del alumnado en centros docentes sostenidos con Fondos Públicos.
+Personas o colectivos afectados:
+Solicitantes de admisión en centros docentes sostenidos con Fondos Públicos.
+Procedimiento de recogida de datos:
+Datos Aportados por los interesados mediante impresos de solicitud normalizados creados 
+a estos efectos y a través de la Agencia Estatal de Administración Tributaria.
+Estructura básica del fichero 
+Base de datos relacional.
+y descripción de los tipos de datos:
+Datos de carácter personal:
+Nombre y apellidos, N.I.F., y estado civil del solicitante (padre, madre o tutor), así como el cónyuge.
+Domicilio familiar/laboral.
+Número de teléfono.
+Nombre, apellidos y N.I.F. del alumno.
+Número de miembros de la unidad familiar
+Centro y curso en el que se encuentra matriculado.
+Condición legal de familia numerosa.
+* Existencia o no, de discapacidades en el alumno, padres y/o hermanos iguales o superiores al 33%
+* Padecimiento o no, por parte del alumno, de enfermedades crónicas que afecten al sistema digestivo,
+endocrino o metabólico. 
+Datos económico-financieros:
+Renta per cápita de la unidad familiar.
+Cesiones de datos previstas:
+Consejería de Educación (Servicios Centrales, Direcciones Provinciales y Centros Educativos).
+Órgano de la administración responsable 
+Dirección General de Planificación y Ordenación Educativa.
+del fichero:
+Servicio o unidad ante el que puede 
+Dirección General de Planificación y Ordenación Educativa.
+ejercitarse el derecho de acceso,
+rectificación, cancelación y oposición:
+Medidas de Seguridad:
+Nivel de seguridad alto.
+AYUNTAMIENTO DE VITIGUDINO
+(SALAMANCA)
+ACUERDO del Pleno del Ayuntamiento de 3 de marzo de 2005, relati-
+vo a la aprobación definitiva del Estudio de Detalle del Sector 4A
+del Suelo Urbano No Consolidado.
+Don Ignacio Rivas Carballo, Secretario-Interventor del Ilmo. Ayunta-
+miento de Vitigudino (Salamanca), CERTIFICO:
+Que el Pleno de la Corporación, en sesión celebrada el día 3 de marzo
+de 2005, con asistencia de diez de sus once miembros, adoptó entre otros
+el siguiente Acuerdo:
+AP /9/2005.
+Sexto.– Aprobación definitiva del Estudio de Detalle del Sector 4A de
+Suelo Urbano No Consolidado. Dictamen.– Mediante escrito de 3-6-
+2004 por don Castor Rodríguez se promueve Estudio de Detalle del Sector 4
+a de SUNC, que ha sido redactado por el Arquitecto don Jesús Marcos Nevado.
+Previo informe técnico de 3-6-2004, y a requerimiento de subsana-
+ción del mismo día, la documentación fue completada el día 17-6 siguien-
+te. Consta en el expediente informe favorable por el Arquitecto Munici-
+pal el día 17 del mismo mes.
+Se recabó informes favorables de la Administración General del Estado
+(6 y 10 de julio de 2004) y la Excma Diputación Provincial de Sala-
+manca (13-10-2004), y del Servicio de Fomento de la Junta de Castilla y
+León (15-10-2004).
+El Estudio de Detalle (ED) fue aprobado con carácter inicial median-
+te Acuerdo Plenario 49/2004, de 28 de octubre, y previa inserción de
+edictos en los oportunos medios, el expediente ha sido sometido a infor-
+mación pública por plazo de un mes, durante el que fue presentada una
+alegación por IGNACIA ANITA GONZÁLEZ SANTOS.
+La alegación presentada ha sido objeto de informe por el Arquitecto
+Municipal el día 13 de enero, proponiéndose su desestimación. En idéntico
+sentido ha sido emitido informe en esta fecha por el Secretario-Interventor.

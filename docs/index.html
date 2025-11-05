@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="es">
+<meta charset="utf-8">
+<title>Buscador Normativo (Xense37)</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<h1>Buscador Normativo</h1>
+<input id="q" placeholder="Buscar (palabras clave)..." style="width:100%;padding:8px;font-size:16px"/>
+<p id="count"></p>
+<div id="results"></div>
+
+<script src="https://unpkg.com/lunr/lunr.js"></script>
+<script>
+async function loadData(){
+  const res = await fetch('docs_index.json');
+  const data = await res.json();
+  const idx = lunr(function(){
+    this.ref('id');
+    this.field('snippet');
+    this.field('date');
+    data.forEach(d => this.add(d), this);
+  });
+  const q = document.getElementById('q');
+  const out = document.getElementById('results');
+  const count = document.getElementById('count');
+  function render(list){
+    out.innerHTML = list.map(hit=>{
+      const d = data.find(x=>x.id===hit.ref) || {};
+      return `
+        <div style="border:1px solid #ddd;padding:10px;margin:8px 0;border-radius:8px">
+          <div><b>Fecha:</b> ${d.date || ''}</div>
+          <div style="margin:6px 0"><b>Vista previa:</b> ${(d.snippet||'').slice(0,350)}...</div>
+          <div>
+            <a href="${d.pdf_url}" target="_blank">Abrir PDF (boletín)</a> |
+            <a href="../${d.text_relpath}" target="_blank">Abrir texto extraído (.txt)</a>
+          </div>
+        </div>
+      `;
+    }).join('');
+    count.textContent = `${list.length} resultado(s)`;
+  }
+  render([]);
+  q.addEventListener('input', ()=>{
+    const s = q.value.trim();
+    if(!s){ render([]); return; }
+    try{ render(idx.search(s)); }
+    catch(e){ render(idx.search(s.replace(/[-~*:^+?]/g,' '))); }
+  });
+}
+loadData();
+</script>
+</html>

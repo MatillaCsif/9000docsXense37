@@ -1,0 +1,130 @@
+Boletín Oficial de Castilla y León
+Núm. 14
+Pág. 5981
+Viernes, 21 de enero de 2011
+I. COMUNIDAD DE CASTILLA Y LEÓN
+C. OTRAS DISPOSICIONES
+CONSEJERÍA DE EDUCACIÓN
+ORDEN EDU/15/2011, de 18 de enero, por la que se crea el fichero automatizado 
+de Datos de Carácter Personal de la Consejería de Educación denominado «Usuarios de 
+ordenadores miniportátiles vinculados a RedXXI».
+Una de las medidas fundamentales de la estrategia «Red de Escuelas Digitales de 
+Castilla y León» (RedXXI) consiste en permitir, previa autorización, el uso privativo de los 
+ordenadores miniportátiles RedXXI por el alumnado de los centros educativos de esta 
+Comunidad, con el ánimo de hacer efectivo el acceso generalizado a las nuevas tecnologías 
+con carácter educativo, independientemente de las particularidades territoriales.
+Así, mediante Orden EDU/303/2010, de 9 de marzo, («B.O.C. y L.» n.º 53 de 
+17 de marzo de 2010), se regula la autorización de uso privativo de ordenadores 
+miniportátiles en el marco de la Estrategia Red de Escuelas Digitales de Castilla y León 
+Siglo XXI (RedXXI) y se establecen las condiciones para su uso con carácter educativo, 
+recogiéndose también el derecho del usuario del ordenador miniportátil a disponer de un 
+servicio de mantenimiento para resolver los problemas que puedan afectar a los programas 
+preinstalados, contemplando la posibilidad de hacerlo de modo remoto en el domicilio del 
+usuario.
+La coordinación y el control del desarrollo de esta actuación y las características de 
+funcionamiento del servicio de mantenimiento de los ordenadores miniportátiles requieren 
+el tratamiento de  datos de carácter personal, haciendo necesaria la creación de un fichero 
+automatizado.
+La Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter 
+Personal, en su artículo 20, establece que la creación, modificación o supresión de los 
+ficheros de las Administraciones Públicas sólo podrán hacerse por medio de disposición 
+general publicada en el diario oficial correspondiente.
+El Decreto 11/2003, de 23 de enero, por el que se regulan los ficheros de datos de 
+carácter personal susceptibles de tratamiento automatizado, de la Administración de la 
+Comunidad de Castilla y León, concreta en su artículo 2, que la creación, modificación y 
+supresión de los ficheros de datos de carácter personal incluidos en el ámbito de aplicación 
+de la citada ley se realizará, previo informe de la Dirección General de Telecomunicaciones 
+y Transportes de la Consejería de Fomento, por Orden del titular de la Consejería 
+competente por razón de la materia a la que afectan.
+Como consecuencia de la nueva estructura orgánica de la Consejería de 
+Administración Autonómica establecida por el Decreto 69/2007, de 12 de julio, se atribuye 
+a la Dirección General de Innovación y Modernización Administrativa el ejercicio de las 
+funciones de coordinación y control de las medidas de seguridad aplicables a los ficheros 
+automatizados que contengan datos de carácter personal.
+CV: BOCYL-D-21012011-18
+
+Boletín Oficial de Castilla y León
+Núm. 14
+Pág. 5982
+Viernes, 21 de enero de 2011
+Por ello, en virtud de las citadas normas y demás de general aplicación y previo 
+informe de la Dirección General de Innovación y Modernización Administrativa de la 
+Consejería de Administración Autonómica
+DISPONGO:
+Artículo 1.– Objeto. 
+La presente Orden tiene por objeto la creación del fichero automatizado de datos de 
+carácter personal de la Consejería de Educación denominado “Usuarios de ordenadores 
+miniportátiles vinculados a RedXXI” que se describe en el Anexo de la presente Orden.
+Artículo 2.– Medidas técnicas y organizativas. 
+El titular del órgano responsable del fichero automatizado a que se refiere el 
+artículo 1 y, en su caso, el encargado de su tratamiento, adoptarán las medidas de índole 
+técnica y organizativa necesarias que garanticen la seguridad de los datos de carácter 
+personal y eviten su alteración, pérdida, tratamiento o acceso no autorizado, habida 
+cuenta del estado de la tecnología, la naturaleza de los datos almacenados y los riesgos 
+a que están expuestos. Ello implica la implantación de las medidas de seguridad exigibles 
+en función de la naturaleza de los datos protegidos, en los términos establecidos en el 
+Real Decreto 1720/2007, de 21 de diciembre, por el que se aprueba el Reglamento de 
+desarrollo de la Ley Orgánica 15/1999, de 13 de diciembre, de protección de datos de 
+carácter personal.
+Artículo 3.– Derecho de acceso, rectificación y cancelación de datos. 
+Los interesados podrán ejercitar sus derechos de acceso, rectificación y cancelación 
+de datos, cuando proceda, ante el órgano administrativo indicado en el Anexo.
+DISPOSICIÓN FINAL
+Entrada en vigor. La presente Orden entrará en vigor el día siguiente al de su 
+publicación en el «Boletín Oficial de Castilla y León».
+Valladolid, 18 de enero de 2011.
+El Consejero,
+Fdo.: Juan José Mateos Otero
+CV: BOCYL-D-21012011-18
+
+Boletín Oficial de Castilla y León
+Núm. 14
+Pág. 5983
+Viernes, 21 de enero de 2011
+ANEXO
+FICHERO: SERVICIO TELEFÓNICO A FAMILIAS PARA EL MANTENIMIENTO 
+REMOTO DE MINIPORTÁTILES REDXXI. 
+Denominación del fichero:
+«Usuarios de ordenadores miniportátiles vinculados a RedXXI».
+Fines y usos: 
+Registro de usuarios de ordenadores miniportátiles RedXXI autorizados para su uso 
+privativo, control del desarrollo de la actuación y gestión de las incidencias comunicadas 
+por éstos al Servicio de Atención al Usuario vinculado a la estrategia RedXXI.
+Personas y colectivos afectados: 
+Solicitantes y alumnado adjudicatario de autorización de uso privativo de miniportátil 
+RedXXI.
+Profesorado de centros y niveles de implantación de la Estrategia RedXXI.
+Procedimiento de recogida y procedencia de datos:
+Presentación de solicitudes de autorización de uso privativo por los interesados, 
+procedentes de los propios interesados.
+Cumplimentación de ficha de datos de los responsables de aula, procedente de los 
+propios interesados.
+Estructura básica del fichero y descripción de los datos de carácter personal: 
+Datos de carácter identificativo: Nombre y apellidos del alumnado; Nombre, 
+apellidos, DNI, dirección (postal y electrónica) y teléfono del responsable de la unidad 
+familiar. Nombre, apellidos, DNI, dirección electrónica y teléfono del responsable de aula 
+del alumnado.
+Datos de carácter administrativo: Provincia, localidad y centro educativo de estudios; 
+Curso y grupo del alumnado; marca, modelo y número de serie del miniordenador; 
+confirmación de ingreso del precio público por servicio de mantenimiento o circunstancia 
+de exención o bonificación.
+Cesiones previstas:
+A otros órganos de la administración de la Comunidad Autónoma y al Ministerio de 
+Educación.
+A la entidad privada adjudicataria del servicio de mantenimiento de los miniportátiles.
+CV: BOCYL-D-21012011-18
+
+Boletín Oficial de Castilla y León
+Núm. 14
+http://bocyl.jcyl.es
+D.L.: BU 10-1979 - ISSN 1989-8959
+Pág. 5984
+Viernes, 21 de enero de 2011
+Órgano responsable de la Administración del fichero:
+Viceconsejería de Educación Escolar.
+Servicio o Unidad ante el que pueden ejercitarse los derechos de acceso, rectificación 
+y cancelación: 
+Viceconsejería de Educación Escolar.
+Medidas de seguridad:
+Nivel básico.
+CV: BOCYL-D-21012011-18

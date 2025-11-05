@@ -1,0 +1,117 @@
+B.O.C. y L. - N.º 169
+Jueves, 3 de septiembre 2009
+26843
+CONSEJERÍA DE EDUCACIÓN
+ORDEN EDU/1774/2009, de 28 de agosto, por la que se crea el fichero
+automatizado de datos de carácter personal de la Consejería de
+Educación denominado «Sistema integrado de becas y ayudas al
+estudio». 
+La Ley Orgánica 15/1999, de 13 de diciembre, de Protección de
+Datos de Carácter Personal, en su artículo 20, establece que la creación,
+modificación o supresión de los ficheros de las Administraciones Públi-
+cas sólo podrán hacerse por medio de disposición general publicada en el
+diario oficial correspondiente.
+Por su parte, el Decreto 11/2003, de 23 de enero, por el que se regu-
+lan los ficheros de datos de carácter personal susceptibles de tratamiento
+automatizado, de la Administración de la Comunidad de Castilla y León,
+concreta en su artículo 2, que la creación, modificación y supresión de los
+ficheros de datos de carácter personal incluidos en el ámbito de aplica-
+ción de la citada ley se realizará, previo informe de la Dirección General
+de Telecomunicaciones y Transportes de la Consejería de Fomento, por
+Orden del titular de la Consejería competente por razón de la materia, dis-
+posición de creación que deberá recoger todos los apartados que estable-
+ce el artículo 20.2 de la Ley Orgánica 15/1999, de 13 de diciembre.
+No obstante, el Decreto 69/2007, de 12 de julio, por le que se esta-
+blece la estructura orgánica de la Consejería de Administración Autonó-
+mica, atribuye a la Dirección General de Innovación y Modernización
+Administrativa el ejercicio de las funciones de coordinación y control de
+las medidas de seguridad aplicables a los ficheros automatizados que con-
+tengan datos de carácter personal.
+Por ello, ante la necesidad de dar cumplimiento alas exigencias lega-
+les establecidas y lograr una mayor eficiencia en la organización y ges-
+tión administrativa llevada a cabo por la Consejería de Educación, garan-
+tizando, paralelamente, el derecho a la protección de datos de carácter
+personal de los ciudadanos relacionados con ella, se hace preciso la
+creación del fichero automatizado de datos «Sistema integrado de becas
+y ayudas al estudio».
+En su virtud y previo informe de la Dirección General de Innovación
+y Modernización Administrativa de la Consejería de Administración
+Autonómica sobre las medidas de seguridad que deben de cumplir los
+ficheros automatizados
+DISPONGO:
+Artículo 1.– Creación de fichero. 
+La presente Orden tiene por objeto la creación del fichero automati-
+zado de datos de carácter personal de la Consejería de Educación deno-
+minado «Sistema integrado de becas y ayudas al estudio», incluido en el
+ámbito de aplicación de la Ley Orgánica 15/1999, de 13 de diciembre, de
+Protección de Datos de Carácter Personal, cuya descripción figura en el
+Anexo de la presente Orden.
+Artículo 2.– Medidas técnicas y organizativas. 
+El titular del órgano responsable del fichero automatizado a que se
+refiere el artículo anterior y, en su caso, el encargado de su tratamiento,
+adoptarán las medidas de índole técnica y organizativa necesarias que
+garanticen la seguridad de los datos de carácter personal y eviten su alte-
+ración, pérdida, tratamiento o acceso no autorizado, habida cuenta del
+estado de la tecnología, la naturaleza de los datos almacenados y los ries-
+gos a que están expuestos. Ello implica la implantación de las medidas de
+seguridad exigibles en función de la naturaleza de los datos protegidos,
+en los términos establecidos en el Real Decreto 1720/2007, de 21 de
+diciembre, por el que se aprueba el Reglamento de desarrollo de la Ley
+Orgánica 15/1999, de 13 de diciembre, de protección de datos de carác-
+ter personal.
+Artículo 3.– Derecho de acceso, rectificación y cancelación de datos. 
+Los interesados tendrán derecho a solicitar y obtener gratuitamente
+información de sus datos de carácter personal sometidos a tratamiento, el
+origen de dichos datos, así como las comunicaciones realizadas o que se
+prevea realizar con los mismos y podrán ejercitar sus derechos de rectifi-
+cación y cancelación de datos, cuando proceda, ante el órgano adminis-
+trativo indicado en el Anexo.
+DISPOSICIÓN FINAL
+Entrada en vigor.– La presente Orden entrará en vigor el día siguien-
+te al de su publicación en el «Boletín Oficial de Castilla y León».
+Valladolid, 28 de agosto de 2009.
+El Consejero,
+Fdo.: JUAN JOSÉ MATEOS OTERO
+ANEXO
+FICHERO CREADO: SISTEMA INTEGRADO DE BECAS Y
+AYUDAS AL ESTUDIO.
+Denominación del fichero:
+Sistema integrado de becas y ayudas al estudio.
+Fines y usos:
+Gestión de becas y ayudas al estudio dirigidas a alumnos, en el
+ámbito de la Consejería de Educación.
+Personas o colectivos afectados:
+Estudiantes, miembros de la unidad familiar de los mismos y sus
+representantes legales.
+Procedimiento de recogida de datos:
+A través de los formularios de solicitud presentados por los intere-
+sados o sus representantes legales. Se podrán recabar datos depo-
+sitados en los centros educativos. Asimismo, se obtendrán datos
+obrantes en otras Administraciones Públicas.
+Estructura básica del fichero y descripción de los tipos de datos:
+Datos de carácter identificativo: N.I.F., apellidos y nombre.
+Datos de carácter personal: Sexo, nacionalidad, fecha de naci-
+miento, grado de minusvalía, estado civil, otros vínculos, direc-
+ción, teléfono, correo electrónico, domicilio fiscal, datos de
+empadronamiento.
+Datos sociales: Condición de familia numerosa, condición de
+víctima de acto terrorista o de víctima de violencia de género,
+condición de huérfano.
+Datos académicos y profesionales: estudios realizados, califica-
+ciones obtenidas, estudios a realizar, titulaciones, profesión, cir-
+cunstancias educativas especiales.
+Datos económicos y financieros: Datos que permitan determinar
+el nivel de renta y patrimonio de la unidad familiar, datos
+bancarios.
+Cesiones de datos previstas: 
+A las administraciones competentes en materia de control de sub-
+venciones y a la Administración Estatal para la incorporación de
+los mismos a las bases de datos de subvenciones y bases de datos
+de becarios del Estado.
+Órgano de la Administración responsable del fichero: 
+Secretaría General.
+Servicio o Unidad ante la que puede ejercitarse los derechos de
+acceso, rectificación, cancelación y oposición:
+Servicio de Estudios Superiores Artísticos y de Becas y Ayudas al
+Estudio de la Secretaría General.
+Nivel de seguridad: Nivel alto.

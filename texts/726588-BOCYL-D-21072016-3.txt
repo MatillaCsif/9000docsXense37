@@ -1,0 +1,86 @@
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 33898
+Jueves, 21 de julio de 2016
+I. COMUNIDAD DE CASTILLA Y LEÓN
+A. DISPOSICIONES GENERALES
+CONSEJERÍA DE EDUCACIÓN
+ORDEN EDU/650/2016, de 12 de julio, por la que se crea el fichero automatizado 
+de datos de carácter personal de la Consejería de Educación denominado «Alumnos 
+participantes en el programa de reutilización de libros texto “Releo”».
+La Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter 
+Personal, establece en su artículo 20.1 que la creación, modificación o supresión de los 
+ficheros automatizados de las Administraciones Públicas sólo podrán hacerse por medio 
+de disposición general publicada en el diario oficial correspondiente.
+El Decreto 11/2003, de 23 de enero, que regula los ficheros de datos de carácter 
+personal susceptibles de tratamiento automatizado de la Administración de la Comunidad 
+de Castilla y León, concreta, en su artículo 2.1, que la creación, modificación y supresión 
+de los ficheros de datos de carácter personal incluidos en el ámbito de aplicación de la 
+citada Ley se realizará, por orden del titular de la consejería competente por razón de la 
+materia a la que afectan, y que las órdenes de creación y modificación de ficheros deberán 
+recoger todos los apartados que establece el artículo 20 de la Ley Orgánica 15/1999, de 
+13 de diciembre.
+En virtud de las citadas normas y las demás de general aplicación y previo informe 
+de la Dirección General de Telecomunicaciones de la Consejería de Fomento y Medio 
+Ambiente, sobre las medidas de seguridad que debe cumplir el fichero.
+DISPONGO
+Artículo 1. Objeto.
+La presente orden tiene por objeto la creación del fichero automatizado de datos de 
+carácter personal de la Consejería de Educación denominado «Alumnos participantes en 
+el programa de reutilización de libros texto “RELEO”», que se describe en el Anexo.
+Artículo 2. Medidas técnicas y organizativas.
+El responsable del fichero adoptará las medidas de gestión y organización que sean 
+necesarias para asegurar la confidencialidad, seguridad e integridad de los datos, así como 
+las conducentes a hacer efectivas las garantías, obligaciones y derechos reconocidos en 
+la normativa aplicable.
+CV: BOCYL-D-21072016-3
+
+Boletín Oficial de Castilla y León
+Núm. 140
+Pág. 33899
+Jueves, 21 de julio de 2016
+Artículo 3. Derecho de los afectados.
+Los afectados por el fichero podrán ejercitar su derecho de acceso, rectificación y 
+cancelación de datos, cuando proceda, ante el órgano administrativo responsable de los 
+mismos indicado en el Anexo.
+DISPOSICIÓN FINAL
+Entrada en vigor.
+La presente orden entrará en vigor el día siguiente al de su publicación en el «Boletín 
+Oficial de Castilla y León».
+Valladolid, 12 de julio de 2016.
+El Consejero,
+Fdo.: Fernando Rey Martínez
+CV: BOCYL-D-21072016-3
+
+Boletín Oficial de Castilla y León
+Núm. 140
+http://bocyl.jcyl.es
+D.L.: BU 10-1979 - ISSN 1989-8959
+Pág. 33900
+Jueves, 21 de julio de 2016
+ANEXO
+Denominación del fichero:
+«Alumnos participantes en el programa de reutilización de libros texto “RELEO”».
+Fines y usos: 
+Tratamiento de datos de carácter personal para la gestión del programa de reutilización 
+de libros de texto «RELEO».
+Personas o colectivos afectados: 
+Alumnos participantes en el programa de reutilización de libros texto “RELEO” en 
+centros docentes de Castilla y León.
+Procedimiento de recogida y procedencia de datos:
+Formularios de solicitud.
+Estructura básica del fichero y descripción de los datos de carácter personal:
+Nombre y apellidos del alumno, DNI/NIF, fecha de nacimiento, país de nacimiento, 
+sexo.
+Cesiones previstas:
+No.
+Órgano responsable de la administración del fichero:
+Dirección General Innovación y Equidad Educativa.
+Servicio o unidad ante el que pueden ejercitarse los derechos de acceso, 
+rectificación y cancelación: 
+Servicio de Innovación Educativa.
+Medidas de seguridad:
+Nivel básico.
+Sistema de tratamiento:
+Mixto o parcialmente automatizado.
+CV: BOCYL-D-21072016-3

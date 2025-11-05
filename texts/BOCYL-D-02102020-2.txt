@@ -1,0 +1,3843 @@
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37750
+Viernes, 2 de octubre de 2020
+I. COMUNIDAD DE CASTILLA Y LEÓN
+A. DISPOSICIONES GENERALES
+CONSEJERÍA DE EDUCACIÓN
+DECRETO 11/2020, de 1 de octubre, por el que se establece el currículo 
+correspondiente al título de Técnico Superior en Electromedicina Clínica en la Comunidad 
+de Castilla y León.
+La Constitución Española reserva al Estado, en el artículo 149.1.30.ª, la competencia 
+exclusiva en materia de regulación de las condiciones de obtención, expedición y 
+homologación de títulos académicos y profesionales y normas básicas para el desarrollo 
+del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones 
+de los poderes públicos en esta materia.
+El Estatuto de Autonomía de Castilla y León, en el artículo 73.1, atribuye a la 
+Comunidad de Castilla y León la competencia de desarrollo legislativo y ejecución de 
+la enseñanza en toda su extensión, niveles y grados, modalidades y especialidades de 
+acuerdo con lo dispuesto en la normativa estatal.
+La Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación 
+Profesional, establece en el artículo 10.1 que la Administración General del Estado 
+determinará los títulos y los certificados de profesionalidad que constituirán las ofertas de 
+formación profesional referidos al Catálogo Nacional de Cualificaciones Profesionales, y 
+en el apartado 2 que las Administraciones educativas, en el ámbito de sus competencias, 
+podrán ampliar los contenidos de los correspondientes títulos de formación profesional.
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación, tras su modificación por la 
+Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa, establece 
+en el artículo 6.bis.4 que, en relación con la formación profesional, el Gobierno fijará los 
+objetivos, competencias, contenidos, resultados de aprendizaje y criterios de evaluación 
+del currículo básico, y en el artículo 39.6 que el Gobierno establecerá las titulaciones 
+correspondientes a los estudios de formación profesional, así como los aspectos básicos 
+del currículo de cada una de ellas. 
+El Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación 
+general de la formación profesional del sistema educativo, regula en el artículo 9 la estructura 
+de los títulos de formación profesional tomando como base el Catálogo Nacional de 
+Cualificaciones Profesionales, las directrices fijadas por la Unión Europea y otros aspectos 
+de interés social, y en el artículo 7 se recoge los elementos que definen el perfil profesional 
+de dichos títulos, que incluirá la competencia general, las competencias profesionales, 
+personales y sociales, las cualificaciones profesionales y, en su caso, las unidades de 
+competencia, cuando se refieran al Catálogo Nacional de Cualificaciones Profesionales 
+incluidas en los títulos. Por otro lado, el artículo 8.2, dispone que las Administraciones 
+educativas establecerán los currículos correspondientes respetando lo en él dispuesto y 
+en las normas que regulen las diferentes enseñanzas de formación profesional.
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37751
+Viernes, 2 de octubre de 2020
+Mediante Real Decreto 838/2015, de 21 de septiembre, se establece el título de 
+Técnico Superior en Electromedicina Clínica y se fijan los aspectos básicos del currículo. 
+El presente decreto establece el currículo correspondiente al título de Técnico 
+Superior en Electromedicina Clínica en la Comunidad de Castilla y León, teniendo en 
+cuenta los principios que han de orientar la actividad educativa según lo previsto en 
+el artículo 1 de la Ley Orgánica 2/2006, de 3 de mayo, y pretende dar respuesta a las 
+necesidades generales de cualificación de las personas.
+Esta norma se ajusta a los principios de buena regulación previstos en el 
+artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común 
+de las Administraciones Públicas. De acuerdo con los principios de necesidad y eficacia, 
+este decreto se dicta en atención al cumplimiento y desarrollo de la normativa estatal básica 
+y viene motivado por una razón de interés general al ser el objetivo básico del currículo en 
+él establecido hacer frente a las actuales necesidades de formación de personal técnico 
+cuya competencia general consiste en gestionar y realizar el montaje y mantenimiento 
+de instalaciones, sistemas y equipos de electromedicina clínica, considerando las 
+recomendaciones del fabricante, los requerimientos oportunos de calidad y seguridad y la 
+normativa vigente aplicable, de acuerdo con el desarrollo económico y social de Castilla 
+y León.
+En relación con el principio de proporcionalidad este decreto contiene la regulación 
+imprescindible para atender la necesidad que el interés general requiere y es acorde con 
+el sistema constitucional de distribución de competencias puesto que, una vez aprobado 
+por la Administración General del Estado un determinado título oficial y el currículo básico, 
+compete a la Administración educativa autonómica el establecimiento de un currículo propio 
+para Castilla y León en los términos determinados en la norma estatal y de acuerdo con el 
+porcentaje de configuración autonómica en ella determinado. Asimismo, esta regulación 
+responde a una de las acciones incluidas en el programa operativo 19/L4 del Plan General 
+de Formación Profesional contenido en la II Estrategia Integrada de Empleo, Formación 
+Profesional, Prevención de Riesgos Laborales e Igualdad y Conciliación en el Empleo, 
+2016-2020, aprobada por Acuerdo del Consejo del Diálogo Social de Castilla y León 
+autorizado el 27 de enero de 2016 por la Junta de Castilla y León, que consiste en la 
+elaboración de nuevos currículos, adaptados a las características socioeconómicas 
+de Castilla y León, a medida que se vayan publicando los nuevos títulos de formación 
+profesional, con la colaboración de los agentes económicos y sociales de nuestra 
+Comunidad.
+A fin de garantizar el principio de seguridad jurídica este decreto se ha elaborado 
+de manera coherente con el resto del ordenamiento jurídico, fundamentalmente con la 
+normativa estatal básica en la materia.
+En relación con el principio de eficiencia ha de ponerse de manifiesto que la 
+aprobación de este decreto no impone nuevas cargas administrativas y su aplicación 
+supondrá una correcta racionalización de los recursos públicos.
+El principio de transparencia se ha cumplido en la tramitación del decreto a través 
+del Portal de Gobierno Abierto de la Junta de Castilla y León, de conformidad con lo 
+previsto en el artículo 76 en relación con el artículo 75 de la Ley 3/2001, del Gobierno y 
+de la Administración de la Comunidad de Castilla y León, así como del artículo 133 de la 
+Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las 
+Administraciones Públicas, respecto de los trámites de consulta pública previa y de 
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37752
+Viernes, 2 de octubre de 2020
+audiencia e información pública, y del artículo 16 de la Ley 3/2015, de 4 de marzo, de 
+Transparencia y Participación Ciudadana de Castilla y León, respecto del trámite de 
+participación ciudadana.
+Por otro lado, en la elaboración de este decreto se ha contado con la colaboración de 
+profesorado de las especialidades con atribución docente en los módulos profesionales del 
+ciclo formativo correspondiente al título de Técnico Superior en Electromedicina Clínica de 
+los centros educativos de Castilla y León. Asimismo se ha recabado dictamen del Consejo 
+Escolar de Castilla y León de conformidad con el artículo 8.1.a) de la Ley 3/1999, de 
+17 de marzo, del Consejo Escolar de Castilla y León, e informe del Consejo de Formación 
+Profesional de Castilla y León de conformidad con el artículo 2.g) del Decreto 82/2000, de 
+27 de abril, de creación de este Consejo.
+En su virtud, la Junta de Castilla y León, a propuesta de la Consejera de Educación, 
+de acuerdo con el dictamen del Consejo Consultivo de Castilla y León, y previa deliberación 
+del Consejo de Gobierno en su reunión de 1 de octubre de 2020
+DISPONE
+Artículo 1. Objeto y ámbito de aplicación.
+1. El presente decreto tiene por objeto establecer el currículo correspondiente al 
+título de Técnico Superior en Electromedicina Clínica en la Comunidad de Castilla y León. 
+2. Será de aplicación en los centros públicos y privados de la Comunidad de Castilla 
+y León que, debidamente autorizados, impartan este título. 
+Artículo 2. Identificación del título y referentes de formación.
+1. El título de Técnico Superior en Electromedicina Clínica queda identificado en la 
+Comunidad de Castilla y León por los elementos determinados en el artículo 2 del Real 
+Decreto 838/2015, de 21 de septiembre, por el que se establece el citado título y se fijan 
+los aspectos básicos del currículo, y por un código, de la forma siguiente:
+DENOMINACIÓN: Electromedicina Clínica. 
+NIVEL: Formación Profesional de Grado Superior.
+DURACIÓN: 2.000 horas.
+FAMILIA PROFESIONAL: Electricidad y Electrónica.
+REFERENTE EUROPEO: CINE-5b (Clasificación Internacional Normalizada de la 
+Educación).
+NIVEL DEL MARCO ESPAÑOL DE CUALIFICACIONES PARA LA EDUCACIÓN 
+SUPERIOR: Nivel 1 Técnico Superior.
+CÓDIGO: ELE 05S.
+2. El currículo del ciclo formativo que conduce a la obtención del título de Técnico 
+Superior en Electromedicina Clínica tomará como referentes de formación los aspectos 
+relativos al perfil profesional del título determinado por la competencia general, las 
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37753
+Viernes, 2 de octubre de 2020
+competencias profesionales, personales y sociales, y la relación de cualificaciones y 
+unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas 
+en el título, así como los aspectos referentes al entorno profesional y la prospectiva del 
+título en el sector o sectores, establecidos en los artículos 3 a 8 del Real Decreto 838/2015 
+de 21 de septiembre.
+Artículo 3. Módulos profesionales del ciclo formativo.
+Los módulos profesionales que componen el ciclo formativo que conduce a la 
+obtención del título de Técnico Superior en Electromedicina Clínica serán los siguientes:
+a)	Los módulos profesionales establecidos en el artículo 10 del Real 
+Decreto 838/2015, de 21 de septiembre, y que se indican a continuación: 
+
+1585. Instalaciones eléctricas.
+
+1586. Sistemas electromecánicos y de fluidos.
+
+1587. Sistemas electrónicos y fotónicos.
+
+1588. Sistemas de radiodiagnóstico, radioterapia e imagen médica.
+
+1589. Sistemas de monitorización, registro y cuidados críticos.
+
+1590. Sistemas de laboratorio y hemodiálisis.
+
+1591. Sistemas de rehabilitación y pruebas funcionales.
+
+1592. Tecnología sanitaria en el ámbito clínico.
+
+1593. Planificación de la adquisición de sistemas de electromedicina.
+
+1594. Gestión del montaje y mantenimiento de sistemas de electromedicina.
+
+1595. Proyecto de electromedicina clínica.
+
+1596. Empresa e iniciativa emprendedora.
+
+1597. Formación y orientación laboral.
+
+1598. Formación en centros de trabajo.
+b)	Los módulos profesionales que se establecen como propios de la Comunidad de 
+Castilla y León: 
+
+CL25. Inglés para electromedicina clínica.
+
+CL27. Sistemas microprogramables en el ámbito de la salud.
+Artículo 4. Objetivos, duración, contenidos, y orientaciones pedagógicas y 
+metodológicas de cada módulo profesional.
+1. Los objetivos de los módulos profesionales relacionados en el artículo 3.a), 
+expresados en términos de resultados de aprendizaje, y los criterios de evaluación, son 
+los que se establecen en el Anexo I del Real Decreto 838/2015, de 21 de septiembre.
+2. Por su parte la duración, los contenidos y las orientaciones pedagógicas y 
+metodológicas, de los módulos profesionales relacionados en el artículo 3.a), son los que 
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37754
+Viernes, 2 de octubre de 2020
+se establecen en el Anexo I de este decreto, excepto el módulo profesional «Proyecto 
+de electromedicina clínica» sobre el que el citado Anexo solo determina la duración y 
+las orientaciones pedagógicas y metodológicas, y el módulo profesional «Formación en 
+centros de trabajo» sobre el que solo determina la duración.
+3. Los objetivos de los módulos profesionales indicados en el artículo 3.b) expresados 
+en términos de resultados de aprendizaje y criterios de evaluación, así como la duración, 
+los contenidos y las orientaciones pedagógicas y metodológicas, son los que se establecen 
+en el Anexo I de este decreto junto al resto de módulos profesionales.
+Artículo 5. Módulos profesionales de «Formación en centros de trabajo» y de 
+«Proyecto de electromedicina clínica».
+1. El programa formativo del módulo profesional «Formación en centros de trabajo» 
+se particularizará para cada alumno y se elaborará teniendo en cuenta las características 
+del centro de trabajo. Deberá recoger las actividades formativas que permitan ejecutar 
+o completar la competencia profesional correspondiente al título, los resultados de 
+aprendizaje y los criterios de evaluación previstos en el Anexo I del Real Decreto 838/2015, 
+de 21 de septiembre.
+2. El módulo profesional de «Proyecto de electromedicina clínica» se definirá de 
+acuerdo con las características de la actividad laboral del ámbito del ciclo formativo y con 
+aspectos relativos al ejercicio profesional y a la gestión empresarial. Tendrá por objeto la 
+integración de las diversas capacidades y conocimientos del currículo del ciclo formativo, 
+contemplará las variables tecnológicas y organizativas relacionadas con el título, y deberá 
+ajustarse a los resultados de aprendizaje y criterios de evaluación previstos en el Anexo I 
+del Real Decreto 838/2015, de 21 de septiembre.
+El profesorado que imparta docencia en el ciclo formativo determinará, en el marco 
+de la programación general anual, los proyectos que se propondrán para su desarrollo por 
+el alumnado. Los proyectos también podrán ser propuestos por el alumnado, en cuyo caso 
+se requerirá la aceptación del citado profesorado.
+Con carácter general, el módulo profesional «Proyecto de electromedicina clínica» 
+se desarrollará simultáneamente al módulo profesional «Formación en centros de trabajo», 
+salvo que concurran otras circunstancias que no lo permitan. 
+Artículo 6. Organización y distribución de los módulos profesionales. 
+1. Los módulos profesionales que forman las enseñanzas del ciclo formativo de 
+técnico superior en electromedicina clínica, cuando se oferten en régimen presencial, se 
+organizan en dos cursos académicos. Su distribución en cada uno de los cursos y la 
+asignación horaria semanal se recoge en el Anexo II de este decreto.
+2. El perÍodo de realización del módulo profesional de «Formación en centros de 
+trabajo» establecido en el Anexo II para el tercer trimestre, podrá comenzar en el segundo 
+trimestre si han transcurrido veintidós semanas lectivas a contar desde el inicio del curso 
+escolar.
+Artículo 7. Metodología.
+1. La metodología didáctica aplicada al ciclo formativo de técnico superior en 
+electromedicina clínica integrará los aspectos científicos, tecnológicos y organizativos que 
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37755
+Viernes, 2 de octubre de 2020
+en cada caso correspondan, con el fin de que el alumnado adquiera una visión global de 
+los procesos productivos propios de la actividad profesional.
+2. En el desarrollo de las enseñanzas correspondientes al ciclo formativo se deben 
+aplicar metodologías activas de aprendizaje que favorezcan: 
+a)	La participación, implicación y compromiso del alumnado en las tareas y su 
+resolución de una manera creativa, innovadora y autónoma, estimulando su 
+motivación.
+b)	La realización de proyectos o actividades coordinadas en los que intervengan 
+diferentes módulos interrelacionando aquellos que permitan completar las 
+competencias profesionales del ciclo formativo.
+c)	 La evaluación de las actitudes que el profesorado considere imprescindibles para 
+el desempeño de una profesión y la integración en una sociedad cívica y ética.
+d)	La adquisición de competencias, tanto técnicas asociadas a los módulos 
+profesionales que configuran el ciclo formativo, como interpersonales o sociales 
+(competencia digital, trabajo colaborativo, en equipo o cooperativo, otros). 
+e)	El desarrollo de trabajos en el aula que versen sobre actividades que supongan 
+al alumnado el ensayo de rutinas y destrezas de pensamiento y ejecución de 
+tareas que simulen el ambiente real de trabajo en torno al perfil profesional del 
+título, apoyándose en un aprendizaje basado en proyectos, retos o la resolución 
+de problemas complejos que estimulen al alumnado.
+f)	 La comprobación del nivel adquirido por el alumnado en las competencias 
+asociadas al módulo profesional cursado, mediante la elaboración de pruebas 
+con un componente práctico que evidencie dicho desempeño profesional. 
+Artículo 8. Adaptaciones metodológicas y curriculares.
+1. Con objeto de ofrecer a todas las personas la oportunidad de adquirir una 
+formación básica, ampliar y renovar sus conocimientos, habilidades y destrezas de modo 
+permanente y facilitar el acceso a las enseñanzas de formación profesional, la consejería 
+competente en materia de educación podrá flexibilizar la oferta del ciclo formativo de 
+técnico superior en electromedicina clínica permitiendo, principalmente a las personas 
+adultas, la posibilidad de combinar el estudio y la formación con la actividad laboral o con 
+otras actividades, respondiendo así a las necesidades e intereses personales.
+2. También se podrá adecuar las enseñanzas de este ciclo formativo a las 
+características de la educación a distancia, así como a las características del alumnado 
+con necesidades específicas de apoyo educativo para que se garantice su acceso, 
+permanencia y progresión en el ciclo formativo.
+Artículo 9. Requisitos de los centros para impartir estas enseñanzas.
+Todos los centros de titularidad pública o privada que ofrezcan enseñanzas 
+conducentes a la obtención del título de Técnico Superior en Electromedicina Clínica se 
+ajustarán a lo establecido en la Ley Orgánica 2/2006, de 3 de mayo, de Educación y 
+en las normas que lo desarrollen, y en todo caso deberán cumplir los requisitos que se 
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37756
+Viernes, 2 de octubre de 2020
+establecen en el artículo 46 del Real Decreto 1147/2011, de 29 de julio, por el que se 
+establece la ordenación general de la formación profesional del sistema educativo, en el 
+Real Decreto 838/2015, de 21 de septiembre, en este decreto, y en lo establecido en la 
+normativa que los desarrolle.
+Artículo 10. Profesorado. 
+1. Los aspectos referentes al profesorado con atribución docente en los módulos 
+profesionales del ciclo formativo de técnico superior en electromedicina clínica, relacionados 
+en el artículo 3.a), son los establecidos en el artículo 12 del Real Decreto 838/2015, 
+de 21 de septiembre.
+2. Las especialidades y, en su caso, las titulaciones del profesorado con atribución 
+docente en los módulos profesionales incluidos en el artículo 3.b), son las que se 
+determinan en el presente decreto en el Anexo III.A para el módulo profesional de «Inglés 
+para electromedicina clínica» y en el Anexo III.B para el módulo profesional de «Sistemas 
+microprogramables en el ámbito de la salud. 
+Artículo 11. Espacios y equipamientos.
+Los espacios y equipamientos necesarios para el desarrollo de las enseñanzas del 
+ciclo formativo de técnico superior en electromedicina clínica son los establecidos en el 
+artículo 11 del Real Decreto 838/2015, de 21 de septiembre. 
+Artículo 12. Accesos y vinculación a otros estudios, y correspondencia de módulos 
+profesionales con las unidades de competencia.
+El acceso y vinculación a otros estudios, y la correspondencia de los módulos 
+profesionales con las unidades de competencia, son los que se establecen en el 
+capítulo IV del Real Decreto 838/2015, de 21 de septiembre.
+Artículo 13. Autonomía de los centros.
+1. Los centros educativos dispondrán de la necesaria autonomía pedagógica, de 
+organización y de gestión económica, para el desarrollo de las enseñanzas del ciclo 
+formativo de técnico superior en electromedicina clínica, y su adaptación a las características 
+concretas del entorno socioeconómico, cultural y profesional. 
+2. Los centros autorizados para impartir el ciclo formativo concretarán y desarrollarán 
+el currículo mediante las programaciones didácticas de cada uno de los módulos 
+profesionales que componen el ciclo formativo en los términos establecidos en el Real 
+Decreto 838/2015, de 21 de septiembre, en este decreto, en el marco general del proyecto 
+educativo de centro y en función de las características de su entorno productivo. 
+Las programaciones didácticas incluirán, al menos, los aspectos siguientes: 
+a)	Las competencias profesionales asociadas, las capacidades profesionales u 
+objetivos expresados en resultados de aprendizaje, contenidos y criterios de 
+evaluación establecidos en el currículo de la Comunidad de Castilla y León para 
+el ciclo formativo. 
+b)	La distribución temporal de los contenidos en el curso correspondiente. 
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37757
+Viernes, 2 de octubre de 2020
+c)	 La metodología didáctica que se va a aplicar.
+d)	Los procedimientos de evaluación del aprendizaje del alumnado, recogiendo las 
+actuaciones que se llevarán a cabo para evaluar los resultados de aprendizaje 
+y los criterios de calificación de los módulos y el procedimiento y plazos a seguir 
+para la presentación y tramitación de reclamaciones.
+e)	El número máximo de faltas de asistencia no justificadas o las actividades no 
+realizadas que determinarán la imposibilidad de aplicar la evaluación continua y 
+el procedimiento a seguir para la evaluación del alumnado en estos casos. 
+f)	 Los materiales y recursos didácticos que se vayan a utilizar, así como las 
+referencias bibliográficas que se necesiten.
+g)	Las actividades complementarias y extraescolares que, en su caso, se pretendan 
+realizar.
+h)	Las medidas de atención a la diversidad para el alumnado que las precisen, 
+teniendo en cuenta los informes de evaluación psicopedagógica, así como los 
+procesos de evaluación adecuados a las adaptaciones metodológicas, incluyendo 
+la adaptación de los criterios y los procedimientos de evaluación cuando el 
+ciclo formativo vaya a ser cursado por alumnado con necesidades educativas 
+especiales o con algún tipo de discapacidad que garanticen su accesibilidad a 
+las pruebas de evaluación.
+i)	 La planificación de las actividades de recuperación de los módulos profesionales 
+pendientes de superación, y expresamente aquellas que puedan ser realizables 
+de forma autónoma por el alumnado.
+j)	 La utilización de las tecnologías de la información y comunicación (TIC) en la 
+actividad docente.
+3. La consejería competente en materia de educación favorecerá la elaboración de 
+proyectos de innovación, así como de modelos de programación docente y de materiales 
+didácticos que faciliten al profesorado el desarrollo del currículo.
+4. De conformidad con el artículo 120.4 de la Ley Orgánica 2/2006, de 3 de mayo, 
+los centros, en el ejercicio de su autonomía, podrán adoptar experimentaciones, planes de 
+trabajo, formas de organización, normas de convivencia y ampliación del calendario escolar 
+o del horario lectivo de áreas o materias, en los términos que establezca la consejería 
+competente en materia de educación y dentro de las posibilidades que permita la normativa 
+aplicable, incluida la laboral, sin que, en ningún caso, se impongan aportaciones a las 
+familias ni exigencias para la citada consejería. 
+Artículo 14. Enseñanzas impartidas en lenguas extranjeras.
+1. Teniendo en cuenta que la promoción de la enseñanza y el aprendizaje de lenguas 
+debe de constituir una prioridad de la acción comunitaria en el ámbito de la educación y la 
+formación, la consejería competente en materia de educación podrá autorizar que todos 
+o determinados módulos profesionales del currículo se impartan en lenguas extranjeras.
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37758
+Viernes, 2 de octubre de 2020
+2. Los centros autorizados deberán incluir en su proyecto educativo los elementos 
+más significativos de su proyecto lingüístico autorizado.
+3. En todo caso, se exigirá al profesorado que imparta enseñanzas en lenguas 
+extranjeras que acredite el dominio de las competencias correspondientes, al menos, al 
+nivel B2 del Marco Común Europeo de Referencia para las lenguas.
+Artículo 15. Oferta a distancia del título.
+1. Los módulos profesionales que forman las enseñanzas del ciclo formativo de 
+técnico superior en electromedicina clínica, podrán ofertarse a distancia, siempre que se 
+garantice que el alumnado puede conseguir los resultados de aprendizaje de los mismos, 
+de acuerdo con lo dispuesto en el Real Decreto 838/2015, de 21 de septiembre, y en este 
+decreto.
+2. La consejería competente en materia de educación establecerá los módulos 
+profesionales susceptibles de ser impartidos a distancia y el porcentaje de horas de cada 
+uno de ellos que tienen que impartirse en régimen presencial.
+DISPOSICIONES ADICIONALES
+Primera. Calendario de implantación.
+La implantación del currículo establecido en este decreto tendrá lugar en el curso 
+escolar 2020/2021 para el primer curso del ciclo formativo y en el curso escolar 2021/2022 
+para el segundo curso del ciclo formativo.
+Segunda. Vinculación con capacitaciones profesionales.
+La formación establecida en el presente decreto en el módulo profesional de 
+«Formación y orientación laboral», incluye un mínimo de cincuenta horas, que capacita 
+para llevar a cabo responsabilidades profesionales equivalentes a las que precisan las 
+actividades de nivel básico en prevención de riesgos laborales, establecidas en el Real 
+Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de los Servicios 
+de Prevención.
+Tercera. Certificación académica de superación del nivel básico en prevención de 
+riesgos laborales. 
+La consejería competente en materia de educación expedirá una certificación 
+académica de la formación de nivel básico en prevención de riesgos laborales al alumnado 
+que haya superado el bloque B del módulo profesional «Formación y orientación laboral», 
+de conformidad con la Orden EDU/2205/2009, de 26 de noviembre, por la que se regula 
+el procedimiento para la certificación de la formación de nivel básico en prevención de 
+riesgos laborales para el alumnado que supere el módulo profesional de Formación y 
+Orientación Laboral de ciclos formativos de Formación Profesional Inicial.
+DISPOSICIÓN DEROGATORIA
+Derogación normativa.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo 
+establecido en el presente decreto. 
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37759
+Viernes, 2 de octubre de 2020
+DISPOSICIONES FINALES
+Primera. Desarrollo normativo.
+Se faculta a la persona titular de la consejería competente en materia de educación 
+para dictar cuantas disposiciones sean precisas para la interpretación, aplicación y 
+desarrollo de lo dispuesto en este decreto.
+Segunda. Entrada en vigor.
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín 
+Oficial de Castilla y León. 
+Valladolid, 1 de octubre de 2020.
+El Presidente de la Junta 
+de Castilla y León,
+Fdo.: Alfonso Fernández Mañueco
+La Consejera 
+de Educación,
+Fdo.: Rocío Lucas Navas
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37760
+Viernes, 2 de octubre de 2020
+ANEXO I
+Objetivos, contenidos, duración y orientaciones pedagógicas 
+y metodológicas de los módulos profesionales
+Módulo profesional: Instalaciones eléctricas.
+Equivalencia en créditos ECTS: 6.
+Código: 1585.
+Duración: 96 horas.
+Contenidos:
+1. Documentación técnica asociada a la instalación eléctrica:
+–
+– Interpretación de la documentación técnica. Desglose y principales partes del 
+proyecto. Interpretación básica de planos. Identificación de certificaciones.
+–
+– Interpretación de planos de obra civil. Identificación de escalas. Identificación de 
+cotas. Estudio de detalles.
+–
+– Interpretación y características de esquemas eléctricos: plano general. De 
+funcionamiento. De circuitos. Esquemas unifilares. Esquemas secundarios. 
+Circuitos básicos. Técnicas de localización de fallos.
+–
+– Simbología normalizada y convencionalismos. Representación de cuadros y 
+canalizaciones. Representación de elementos de protección.
+–
+– Normativa vigente. Reglamento electrotécnico de baja tensión (REBT).
+2. Cálculo de parámetros característicos de líneas de corriente alterna:
+–
+– Circuitos de corriente alterna monofásica. Parámetros de funcionamiento básicos: 
+tensión, intensidad, potencias, factor de potencia y frecuencia de resonancia. 
+Comportamiento de los receptores elementales en corriente alterna monofásica. 
+Potencias en corriente alterna monofásica. Corrección del factor de potencia. 
+Cálculo de caída de tensión en líneas de corriente alterna.
+–
+– Sistemas trifásicos. Introducción de los sistemas polifásicos. Distribución a tres y 
+cuatro hilos. Conexión de receptores trifásicos. Potencia en sistemas trifásicos. 
+Corrección del factor de potencia de una instalación trifásica.
+–
+– Medidas en circuitos de corriente alterna. Medidas de tensiones e intensidades en 
+sistemas trifásicos. Medidas de potencia activa en sistemas trifásicos. Medidas 
+de energía en sistemas trifásicos.
+–
+– Armónicos. Causas y efectos. Filtrado de armónico. Parámetros característicos 
+de los armónicos en las magnitudes eléctricas.
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37761
+Viernes, 2 de octubre de 2020
+3. Características de motores y transformadores:
+–
+– Motores de corriente continua, alterna y paso a paso. Fundamentos de operación. 
+Partes fundamentales. Tipología y características técnicas. Sistemas de arranque 
+y frenado.
+–
+– Transformadores. 
+Construcción. 
+Características 
+técnicas. 
+Tipología. 
+Funcionamiento en servicio y vacío. Ensayos. Conexiones. Aplicaciones en el 
+entorno sanitario.
+–
+– Regulación de velocidad de motores. Magnitudes. Sistemas de control. Variadores. 
+Ahorro de energía. Etapas de potencia y control. Medición de velocidad en el eje: 
+Encoder. Tacodinamo. Resolver. Motores DC: Modulación de anchura de pulso 
+(PWM). Motores AC: Relación entre polos, frecuencia y velocidad. Modulación de 
+anchura de pulso (PWM). Control de velocidad con frecuencia. Frenado por DC, 
+controlado por PWM (rampa de deceleración). Motores paso a paso: Técnicas de 
+control (unipolar y bipolar).
+–
+– Aplicación y uso de motores y transformadores en el entorno sanitario. Ejemplo 
+tipo.
+4. Técnicas de medida de instalaciones eléctricas:
+–
+– Equipos de medida. Sistemas de medida. Instrumentos de medida. Multímetro. 
+Pinza multifunción. Telurómetro. Medidor de aislamiento. Medidor de corriente 
+de fugas. Detector de tensión. Analizador-registrador de potencia y energía. 
+Medidas de niveles de iluminación. Luxómetro.
+–
+– Procedimientos de medida. Medidas de resistencia. Resistencia de puesta a 
+tierra, resistividad del terreno, resistencias de aislamiento, medida de rigidez 
+dieléctrica. Medidas de tensión. Medidas de intensidad. Medidas de corrientes 
+de fuga. Medida de potencia. Medidas de energía.
+–
+– Calibración de los aparatos de medida. Normativa. Instalaciones de calibración. 
+Certificados de calibración. Corrección de errores en medidas eléctricas.
+–
+– Cálculo de la sección de los conductores de una instalación. Conductividad. Tipos 
+de cables. Materiales y aislantes. Calentamiento. Caída de tensión en líneas 
+eléctricas.
+–
+– Riesgo eléctrico. Seguridad en instalaciones eléctricas. Tipos de accidentes 
+eléctricos. Reglas para la realización de trabajos sin tensión.
+–
+– Protecciones en instalaciones eléctricas. Protecciones contra sobreintensidades 
+y sobretensiones. Protecciones contra contactos directos e indirectos.
+5. Operaciones de montaje de instalaciones eléctricas:
+–
+– Mecanización de cuadros e instalaciones. Cuadros eléctricos, tipos y 
+características. Criterios de montaje y mecanizado de cuadros eléctricos. 
+Simbología normalizada. Acopio y provisión de materiales y herramientas. 
+Organización del montaje de cuadros. Técnicas específicas en las instalaciones 
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37762
+Viernes, 2 de octubre de 2020
+automáticas industriales. Normas de aplicación. Precauciones. Normas de 
+compatibilidad electromagnética.
+–
+– Montaje de armarios, cuadros eléctricos y canalizaciones. Interpretación de 
+esquema. Distribución de elementos. Fijación de elementos.
+–
+– Sensores y actuadores. Características y aplicaciones. Criterios de selección. 
+Sensores: detectores inductivos, detectores capacitivos. Criterios de selección. 
+Actuadores: contactores, relés auxiliares, relés temporizados, electro-válvulas, 
+entre otros.
+–
+– Arranque y maniobra de motores. Automatización de maniobras y arranques de 
+motores eléctricos. Características fundamentales de los arranques de motores. 
+Motores AC: circuitos con contactores (arranque, inversión de giro). Relés 
+auxiliares, relés temporizados. Precauciones y normas.
+–
+– Montaje de las instalaciones y automatismos. Circuitos de fuerza. Circuitos de 
+mando.
+–
+– Equipos y herramientas. Técnicas de montaje.
+–
+– Análisis y propuesta de optimización de los recursos energéticos en el edificio y 
+en la instalación.
+–
+– Plantear la optimización energética en la edificación, adecuar los consumos y la 
+iluminación a las necesidades, contribuyendo a la sostenibilidad y la lucha contra 
+el cambio climático.
+Orientaciones pedagógicas y metodológicas. 
+Este módulo profesional contiene la formación necesaria para desempeñar las 
+funciones de montar y realizar medidas en instalaciones eléctricas propias de entornos 
+sanitarios. 
+La definición de estas funciones incluye aspectos como:
+–
+– La identificación de la documentación técnica. 
+–
+– El cálculo de parámetros básicos. 
+–
+– La medición de magnitudes.
+–
+– El montaje de instalaciones eléctricas
+Las actividades profesionales asociadas a esta función se aplican en:
+–
+– El montaje de instalaciones eléctricas, así como de cuadros eléctricos y elementos 
+de protección.
+–
+– La verificación del funcionamiento de motores y transformadores. 
+La formación del módulo contribuye a alcanzar los objetivos generales c), e), i), k), l) 
+del ciclo formativo y las competencias c), e), g), i), j), l) del título.
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37763
+Viernes, 2 de octubre de 2020
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo versarán sobre:
+–
+– La interpretación de esquemas eléctricos y documentación técnica.
+–
+– El cálculo y medida de los parámetros característicos en líneas de corriente 
+alterna monofásica y trifásica. 
+–
+– La caracterización del funcionamiento de motores y transformadores.
+–
+– La identificación de los principales riesgos asociados a instalaciones eléctricas. 
+–
+– El montaje de instalaciones eléctricas, cuadros y elementos de protección.
+–
+– La verificación del funcionamiento de una instalación eléctrica.
+Módulo profesional: Sistemas electromecánicos y de fluidos.
+Equivalencia en créditos ECTS: 6 
+Código: 1586. 
+Duración: 96 horas.
+Contenidos:
+1. Determinación de bloques funcionales de sistemas y equipos mecánicos:
+–
+– Cadenas cinemáticas. Definición. Eslabones. Concepto de par cinemático. Tipos.
+–
+– Transmisión de movimientos. Tipos y aplicaciones. Acopladores de ejes de 
+transmisión. Superficies de deslizamiento: guías, columnas, casquillos y carros, 
+entre otros.
+–
+– Análisis funcional de mecanismos. Reductores. Transformadores de movimiento 
+lineal a circular y viceversa. Embragues: Embrague de fricción de disco. Embragues 
+hidráulicos. Embrague electromagnético. Otros. Frenos: neumáticos. Eléctricos. 
+Hidráulicos. Electromagnéticos. Manuales. Trenes de engranajes. Poleas. Cajas 
+de cambio de velocidad. Diferenciales. Transmisiones de movimiento angular.
+2. Montaje y desmontaje de sistemas mecánicos:
+–
+– Montaje y desmontaje de elementos mecánicos: 
+•	 Rodamientos. Selección de rodamientos en función de las especificaciones 
+técnicas del equipo o máquina. Verificación de funcionalidad de rodamientos. 
+Útiles para el montaje y desmontaje de rodamientos.
+•	 Elementos de transmisión. Verificación de los elementos de transmisión. Útiles 
+para el montaje y desmontaje de los elementos de transmisión.
+•	 Superficies de deslizamiento. Regulación. Herramientas para montar y 
+desmontar. Verificación del deslizamiento y posicionamiento. Lubricación.
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37764
+Viernes, 2 de octubre de 2020
+•	 Juntas. Verificación de funcionalidad: estanqueidad estática y dinámica.
+•	 Uniones atornilladas. Aplicaciones. Selección de tornillos. Elementos de 
+seguridad en los tornillos. 
+•	 Remachado.
+–
+– Montaje de guías, columnas y carros de desplazamiento.
+–
+– Instalación y montaje en planta de maquinaria y equipos. Técnicas de movimiento 
+de máquinas. Técnicas de instalación y ensamblado de máquinas y equipos. 
+Cimentaciones y anclajes. Instalaciones de alimentación de máquinas y sistemas. 
+Verificación de funcionalidad de máquinas y equipos.
+–
+– Respeto a los protocolos y normativa de prevención de riesgos personales y 
+ambientales. 
+3. Caracterización del funcionamiento de componentes neumáticos y electro-
+neumáticos:
+–
+– Aire comprimido. Leyes básicas y propiedades de los gases. Producción: 
+compresores. Almacenamiento. Preparación. Distribución.
+–
+– Válvulas, actuadores e indicadores. Tipos, funcionamiento, aplicación y 
+mantenimiento.
+–
+– Elementos de control, mando y regulación. Sensores y reguladores: presostatos. 
+Captadores de fuga. Captadores fluídicos de proximidad. Detectores de paso o 
+barrera de aire. Amplificadores neumáticos. 
+–
+– Análisis y realización de croquis y esquemas de circuitos neumáticos. Análisis 
+de circuitos electroneumáticos. Elementos de control (relés y contactores). 
+Elementos de protección. Elementos de medida. Interpretación de esquemas 
+neumáticos-electroneumáticos.
+4. Caracterización del funcionamiento de componentes hidráulicos y electro-
+hidráulicos:
+–
+– Hidráulica. Leyes básicas y propiedades de los líquidos. Acumuladores hidráulicos. 
+Bombas, motores y cilindros hidráulicos. Características, aplicación y tipos.
+–
+– Tipos, funcionamiento, mantenimiento y aplicaciones. Dispositivos de mando y 
+regulación. Sensores y reguladores. Válvulas y servoválvulas. 
+–
+– Elementos de medida. Interpretación de esquemas hidráulicos-electrohidráulicos. 
+Elementos de control, mando y regulación hidráulica. Análisis de circuitos 
+hidráulicos. Análisis de circuitos electrohidráulicos. Elementos de control (relés y 
+contactores). Elementos de protección. Elementos de medida Interpretación de 
+esquemas hidráulicos y electrohidráulicos.
+–
+– Diferencias entre sistemas de control hidráulico y electrohidráulico.
+–
+– Actuadores hidráulicos. Cilindros. Motores. 
+–
+– Respeto a los protocolos y normativa de prevención de riesgos personales y 
+ambientales. 
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37765
+Viernes, 2 de octubre de 2020
+5. 
+Montaje 
+de 
+circuitos 
+neumáticos 
+y 
+electro-neumáticos/hidráulicos 
+y 
+
+electro-hidráulicos:
+–
+– Elaboración de croquis de posicionado de circuitos.
+–
+– Técnica operativa del conexionado. Equipos y herramientas.
+–
+– Normas de práctica profesional comúnmente aceptadas en el sector.
+–
+– Medidas en los sistemas automáticos. 
+–
+– Instrumentos y procedimientos de medición de las variables que hay que regular y 
+controlar: tensiones, potencias, caudales, presiones y temperaturas, entre otros. 
+–
+– Medios y procedimiento.
+–
+– Operaciones de montaje y pruebas funcionales. Medios y procedimientos. 
+Regulación y puesta en marcha del sistema. 
+–
+– Respeto a los protocolos y normativa de prevención de riesgos personales y 
+ambientales. 
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar las 
+funciones derivadas de la caracterización y el montaje de equipos mecánicos, neumáticos 
+e hidráulicos. 
+La definición de estas funciones incluye aspectos como:
+–
+– El montaje y desmontaje de elementos de máquinas.
+–
+– La identificación y selección de componentes hidráulicos y neumáticos.
+–
+– El montaje de automatismos neumáticos/electroneumáticos e hidráulicos/
+electrohidráulicos.
+Las actividades profesionales asociadas a esta función se aplican en:
+–
+– El montaje y desmontaje de sistemas mecánicos, neumáticos e hidráulicos.
+–
+– La puesta en marcha de sistemas mecánicos, neumáticos e hidráulicos.
+La formación del módulo contribuye a alcanzar los objetivos generales k), l), n) y ñ) 
+del ciclo formativo y las competencias k), l) y n) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo versarán sobre:
+–
+– La identificación de los diferentes tipos de elementos de transmisión de 
+movimiento, sus componentes y sus características de funcionamiento.
+–
+– La identificación de los diferentes medios de unión de elementos y sus 
+características constructivas y operativas.
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37766
+Viernes, 2 de octubre de 2020
+–
+– La caracterización de sistemas neumáticos e hidráulicos, describiendo su 
+funcionamiento, componentes, estructura y tipología.
+–
+– La realización de esquemas de sistemas neumáticos e hidráulicos.
+–
+– El montaje y desmontaje de sistemas mecánicos, neumáticos e hidráulicos.
+Módulo profesional: Sistemas electrónicos y fotónicos.
+Equivalencia en créditos ECTS: 7.
+Código: 1587. 
+Duración: 128 horas.
+Contenidos:
+1. Aplicación de técnicas de medida y visualización de señales eléctricas y ópticas:
+–
+– Medidas de magnitudes eléctricas básicas. Equipos de medida de ondas 
+eléctricas. Voltímetro, amperímetro y óhmetro. Osciloscopio. Técnicas de medida 
+y comprobación de componentes.
+–
+– Funcionamiento y aplicaciones de los generadores de señales eléctricas básicas. 
+Fuente de alimentación, generador de funciones y otros.
+–
+– Equipos de medida de ondas eléctricas. Sonda lógica y analizador lógico. 
+Técnicas de medida. Precauciones en el manejo de equipos de medida.
+–
+– Láseres. Medidores de potencia óptica. Generadores ópticos. Técnicas de 
+medida. Precauciones en el manejo de equipos de medida.
+–
+– Instrumentación virtual.
+–
+– Precauciones en el manejo de equipos de medida. 
+–
+– Criterios de calidad y seguridad en los procesos de medida. 
+2. Determinación de la estructura de circuitos analógicos: 
+–
+– Componentes pasivos. Tipos y características. Simbología. Circuitos tipo.
+–
+– Bloques funcionales de circuitos electrónicos. Rectificadores y circuitos de 
+alimentación. Fuentes de alimentación lineales y conmutadas. Convertidores 
+DC/DC. Convertidores DC/AC. Funcionamiento. Aplicaciones. Sistemas de 
+alimentación ininterrumpida.
+–
+– Circuitos electrónicos básicos. Amplificadores con transistores. Osciladores. 
+Multivibradores y otros. 
+–
+– Circuitos con amplificadores operacionales. Estructuras típicas. Funcionamiento, 
+características y aplicaciones. Filtros. Tipos de filtros según su respuesta en 
+frecuencia. Filtros activos y pasivos.
+–
+– Medidas en circuitos electrónicos. Parámetros de funcionamiento de 
+amplificadores. Parámetros de funcionamiento de filtros. 
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37767
+Viernes, 2 de octubre de 2020
+3. Determinación de la estructura de circuitos digitales:
+–
+– Simbología de componentes de electrónica digital. Interpretación de esquemas.
+–
+– Parámetros característicos de las familias lógicas de electrónica digital.
+–
+– Circuitos combinacionales. Codificadores. Decodificadores. Otros.
+–
+– Circuitos secuenciales. Biestables. Contadores. Registros. Verificación del 
+funcionamiento de circuitos secuenciales. Cronogramas. 
+–
+– Arquitectura de microprocesadores. Microcontroladores. Sistemas basados 
+en microprocesador. Bloques funcionales. Periféricos y dispositivos auxiliares. 
+Principios básicos de manejo de software.
+4. Estructura de circuitos de instrumentación: 
+–
+– Sensores resistivos (potenciométricos, RTD, galgas extensiométricas, termistores 
+y fotorresistencias). Sensores capacitivos. Sensores inductivos. Sensores 
+electromagnéticos. Termopares. Sensores piezorresistivos y piroeléctricos. 
+Sensores electroquímicos. Sensores ópticos generadores de señal. Sensores de 
+efecto Hall. Criterios para la selección de sensores. 
+–
+– Parámetros de un sensor. Rango. Precisión. Sensibilidad. Repetitividad. 
+Histéresis. Otros.
+–
+– Acondicionamiento de señales. Puentes de medida. Tensión de referencia. 
+Amplificación de la señal del puente. Amplificadores de instrumentación. 
+Parámetros típicos: ganancia, respuesta en frecuencia, relación de rechazo en 
+modo común, impedancia de entrada, entre otros. Amplificadores de aislamiento. 
+Modificadores de nivel de señal.
+–
+– Convertidores de datos (DAC-ADC). Circuitos de muestreo y retención. Análisis 
+de entradas y salidas en conversores DAC-ADC. Parámetros de funcionamiento. 
+5. Características de componentes y circuitos fotónicos:
+–
+– Principios de la transmisión óptica. Ventajas e inconvenientes.
+–
+– Fibras ópticas. Fundamentos tipos y parámetros. Tipos. Parámetros de fibras: 
+apertura numérica, atenuación, dispersión, entre otros.
+–
+– Emisores electroópticos.
+–
+– Detectores ópticos.
+–
+– Amplificadores ópticos. 
+–
+– Multiplexores y demultiplexores ópticos.
+–
+– Moduladores electroópticos.
+–
+– Acopladores. Divisores. Filtros. 
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37768
+Viernes, 2 de octubre de 2020
+6. Verificación del funcionamiento de circuitos electrónicos y ópticos:
+–
+– Análisis del funcionamiento de circuitos electrónicos a través de su documentación 
+técnica. Diagrama de bloques, esquema eléctrico, tensiones de alimentación, 
+oscilogramas y cronogramas.
+–
+– Comprobación de circuitos electrónicos. División funcional del circuito. 
+Determinación de puntos de control y prueba.
+–
+– Elección de equipos y técnicas de medida según la tipología de los circuitos 
+electrónicos. Identificación de los puntos de ajuste. Técnicas de ajuste.
+–
+– Manipulación de circuitos electrónicos y fotónicos. Medidas de protección 
+personal. Protección de los equipos. Protección electrostática.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional da respuesta a la necesidad de proporcionar una adecuada 
+base teórica y práctica para la comprensión de las funciones y características de los 
+componentes y circuitos utilizados en equipos electrónicos y ópticos.
+La definición de estas funciones incluye aspectos como:
+–
+– La identificación de las principales características de los componentes 
+electrónicos, tanto analógicos como digitales.
+–
+– La identificación de las principales características de los circuitos ópticos, así́ 
+como de instrumentación.
+–
+– La medida, visualización y verificación de señales eléctricas y ópticas.
+–
+– Manejo de equipos de medida de señales y parámetros dentro del ámbito de la 
+electromedicina. 
+–
+– Montaje sistemas electrónicos y ópticos en el ámbito de la electromedicina.
+–
+– Análisis de los parámetros de calidad de señales eléctricas, digitales y ópticas. 
+Las actividades profesionales asociadas a esta función se aplican en:
+–
+– La identificación de los circuitos electrónicos básicos, tanto analógicos como 
+digitales.
+–
+– El reconocimiento de bloques funcionales de circuitos electrónicos y ópticos.
+–
+– La conexión de equipos de medida y visualización.
+–
+– La realización e interpretación de medidas eléctricas, electrónicas y ópticas.
+–
+– La simulación de circuitos electrónicos.
+–
+– La verificación del funcionamiento de circuitos electrónicos y ópticos.
+La formación del módulo contribuye a alcanzar los objetivos generales j), k), m) y n) 
+del ciclo formativo y las competencias j), k), m), n) y ñ) del título.
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37769
+Viernes, 2 de octubre de 2020
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+–
+– La descripción de los circuitos electrónicos analógicos, digitales y ópticos. 
+Visualización y medida de sus parámetros fundamentales.
+–
+– La identificación de los diferentes componentes, características y las aplicaciones 
+de cada uno.
+–
+– La descripción, en los bloques, del funcionamiento y las aplicaciones de los 
+circuitos electrónicos analógicos, digitales y ópticos. Descripción de las señales. 
+Visualización y medida de sus parámetros fundamentales.
+–
+– La descripción de estructura de circuitos de instrumentación. Visualización 
+y medida de sus parámetros fundamentales. Identificación de los diferentes 
+componentes, características y las aplicaciones de cada uno.
+–
+– La medida de parámetros de calidad en los circuitos electrónicos analógicos, 
+digitales y ópticos.
+–
+– La conexión de equipos de medida y visualización.
+–
+– La realización e interpretación de medidas eléctricas, electrónica y ópticas.
+–
+– La simulación de circuitos electrónicos.
+–
+– La verificación del funcionamiento de circuitos electrónicos y ópticos.
+–
+– La prevención de riesgos laborales y protección medioambiental será́  transversal 
+en los contenidos tratados en el módulo.
+Módulo profesional: Sistemas de radiodiagnóstico, radioterapia e imagen 
+médica. 
+Equivalencia en créditos ECTS: 14.
+Código: 1588. 
+Duración: 192 horas.
+Contenidos:
+1. Características técnicas y operativas de instalaciones, sistemas y equipos: 
+–
+– Radiaciones ionizantes y no ionizantes. Efectos sobre el organismo humano. 
+Reglamentación. Protección radiológica y aplicación en centros sanitarios. 
+–
+– Principios físicos para la obtención de imágenes médicas: 
+•	 Rayos X. Producción de rayos X. Fluoroscopía. 
+•	 Medicina Nuclear. Radiofármacos. Detectores de radiación.
+•	 Ultrasonidos. Física de los ultrasonidos. Efecto Doppler.
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37770
+Viernes, 2 de octubre de 2020
+•	 Resonancia 
+magnética 
+nuclear. 
+Campos 
+magnéticos. 
+Interferencias 
+electromagnéticas.
+•	 Óptica endoscópica. Fibra óptica. Dispositivos de carga acoplada (Coupled 
+Charge Device, CCD).
+–
+– Estructura y características técnicas de una sala de radiología. Apantallamiento. 
+Control de radiaciones. Dosimetría.
+–
+– Bloques fundamentales, características técnicas y funcionamiento de equipos de 
+radiodiagnóstico.
+•	 Equipos de rayos X: Equipos de radiología general, mamógrafos, angiógrafros 
+y otros equipos de rayos X. Radiología convencional frente a radiología digital. 
+Tomografía computarizada (TC). 
+•	 Equipos de diagnóstico de Medicina Nuclear. Gammacámara. Tomografía por 
+emisión de fotones únicos (SPECT). Tomografía por emisión de positrones 
+(PET). Equipos híbridos.
+–
+– Estructura y características técnicas de salas de imagen médica. Blindaje 
+electromagnético. Distribución eléctrica. Gases medicinales. REBT.
+–
+– Bloques fundamentales, características técnicas y funcionamiento de equipos de 
+imagen médica. 
+•	 Ecógrafo. Generación y detección de ultrasonidos. Transductores ultrasónicos.
+•	 Resonancia Magnética. Equipos de resonancia abiertos y cerrados.
+•	 Sistemas de endoscopia. Endoscopia flexible y endoscopia rígida. Tipos de 
+endoscopios.
+–
+– Sistemas de información en el entorno médico: RIS, HIS y PACS. Bases de datos. 
+Digitalización de la imagen médica. Estándares DICOM y HL7.
+–
+– Redes de comunicación en el ámbito de la electromedicina clínica. Tipos 
+de redes de datos. Medios de transmisión y dispositivos de red. Protocolos y 
+estándares: TCP/IP, Ethernet, Wi-Fi, etc. Montaje, conexión y configuración de 
+equipos de radiodiagnóstico e imagen médica en redes de área local. Técnicas 
+de verificación. Monitorización y mantenimiento de redes.
+–
+– Bloques fundamentales, características técnicas y funcionamiento de equipos de 
+radioterapia. Braquiterapia y radioterapia externa. Acelerador lineal de electrones. 
+Bomba de cobalto.
+2. Recepción de sistemas y equipos: 
+–
+– Subsistemas y elementos típicos en equipos de radiodiagnóstico, radioterapia e 
+imagen médica. Equipos de control, monitores, teclados, software informático, 
+sondas y fungibles asociados.
+–
+– Etiquetado e identificación de información administrativa. Datos básicos del 
+equipamiento. Declaración CE de conformidad. Datos del proveedor.
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37771
+Viernes, 2 de octubre de 2020
+–
+– Certificaciones y acreditaciones requeridas en salas de radiología, radioterapia e 
+imagen médica. Consejo de Seguridad Nuclear. Normativa vigente. Conformidad 
+del fabricante. Permisos.
+–
+– Documentación típica en sistemas y equipos de radiodiagnóstico, radioterapia 
+e imagen médica. Manuales de servicio y de usuario. Normativa y legislación. 
+Periodos de garantía.
+–
+– Protocolos de entrega de sistemas y equipos de radiodiagnóstico, radioterapia e 
+imagen médica. Responsable de recepción. Listas de chequeo. 
+–
+– Opciones de adquisición de sistemas y equipos de radiodiagnóstico, radioterapia 
+e imagen médica. Contratos de compra, cesión y alquiler. Coberturas de la 
+garantía. Tratamiento específico de fungibles y repuestos.
+3. Verificación de espacios físicos e infraestructuras: 
+–
+– Planos de salas de radiología e imagen médica. Identificación de espacios. 
+Simbología específica. Escalas típicas. 
+–
+– Espacios e infraestructuras típicas en salas de radiología. Salas de 
+intervencionismo. Sala de control médico. Características típicas de climatización, 
+sonoridad e iluminación. Reglamento de instalaciones térmicas en edificios 
+(RITE). Sala de paciente. Zona caliente y zona fría.
+–
+– Espacios e infraestructuras típicas en salas de imagen médica. Sala de paciente. 
+Características típicas de climatización, sonoridad e iluminación.
+–
+– Requerimientos especiales en cuanto a espacios e infraestructuras de sistemas y 
+equipos de radiodiagnóstico, radioterapia e imagen médica. Dimensiones mínimas. 
+Soporte de la cimentación y estructuras. Interferencias electromagnéticas.
+–
+– Montaje y acondicionamiento de infraestructuras en salas de radiología e imagen 
+médica para sistemas y equipos tipo. Cableado eléctrico y protecciones.
+–
+– Instrumentación de medida de uso general. Luxómetros digitales, registradores 
+medioambientales, sonómetros digitales, termómetros de contacto, etc.
+4. Montaje y desmontaje de instalaciones, sistemas y equipos:
+–
+– Interpretación de planes de montaje y desmontaje de sistemas y equipos en salas 
+de radiología e imagen médica. Estructura y partes específicas. Precauciones. 
+–
+– Protocolos de desembalaje para sistemas y equipos tipo de radiodiagnóstico, 
+radioterapia e imagen médica. Precauciones específicas. Certificaciones 
+requeridas. 
+–
+– Técnicas de montaje y conexionado típicas en instalaciones, sistemas y equipos 
+de radiodiagnóstico, radioterapia e imagen médica. Conexión eléctrica. Conexión 
+de cables de vídeo. Conexión de cables de datos. Precauciones. 
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37772
+Viernes, 2 de octubre de 2020
+–
+– Maquinaria y herramientas utilizadas típicamente en el montaje de instalaciones, 
+sistemas y equipos de radiodiagnóstico, radioterapia e imagen médica. 
+Herramientas específicas de fabricante.
+–
+– Señalización de instalaciones y sistemas de radiodiagnóstico, radioterapia e 
+imagen médica en proceso de montaje y desmontaje. 
+–
+– Materiales, componentes y accesorios reutilizables en equipos de radiodiagnóstico, 
+radioterapia e imagen médica. Monitores y teclados. Hardware electrónico. 
+Elementos mecánicos. Sondas
+–
+– Documentación de las contingencias surgidas. Informe de montaje y desmontaje 
+tipo. 
+5. Puesta en marcha de instalaciones, sistemas y equipos: 
+–
+– Protocolos típicos de puesta en marcha en salas de radiología e imagen médica, 
+así como en sus equipos asociados. 
+–
+– Equipos de simulación y comprobación. Fantomas y comprobadores de 
+endoscopios. Herramientas de ensayo radiológico. Fotómetros. Multímetro de 
+ensayo de calidad de rayos X. Medidores de mA y mAs.
+–
+– Equipos para la medición de radiaciones. Calibración. Dosímetros. Monitores 
+de radiación ambiental. Monitores de radiación local. Medidores de inspección 
+avanzados.
+–
+– Medición de parámetros característicos en instalaciones de radiología e imagen 
+médica, así como en sus sistemas y equipos asociados. Pruebas eléctricas. 
+Radiaciones y dosimetría. Autochequeos.
+–
+– Descripción de la configuración típica de controles, botones y alarmas en sistemas 
+y equipos de radiodiagnóstico, radioterapia e imagen médica. 
+–
+– Análisis de seguridad eléctrica en sistemas y equipos de radiodiagnóstico, 
+radioterapia e imagen médica. Analizadores de seguridad eléctrica y su 
+configuración. Resistencia de tierra. Corrientes de fugas. Resistencias de 
+aislamiento. Normativa vigente.
+–
+– Documentación de resultados. Actas de puestas en marcha típicas. 
+Cumplimentación de la documentación.
+6. Mantenimiento preventivo de instalaciones, sistemas y equipos:
+–
+– Interpretación de un plan de mantenimiento preventivo para sistemas y equipos 
+de radiodiagnóstico, radioterapia e imagen médica. Estructura y secciones de 
+interés. Partes y órdenes de trabajo. Identificación de equipamiento. Identificación 
+de herramientas y comprobadores. 
+–
+– Intervenciones típicas de mantenimiento preventivo en salas de radiología 
+e imagen médica, así como en los sistemas y equipos asociados. Control de 
+radiaciones. Revisiones eléctricas. Protocolos y recomendaciones del fabricante.
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37773
+Viernes, 2 de octubre de 2020
+–
+– Pruebas típicas de inspección visual en sistemas y equipos de radiodiagnóstico, 
+radioterapia e imagen médica. Limpieza y daños físicos. Revisión de controles y 
+botones. Intensidad de luces y controles luminosos. Revisión de fusibles, cables 
+y enchufes. Revisión de filtros. Revisión de etiquetado y documentación. Revisión 
+de fungibles.
+–
+– Pruebas y medidas típicas de funcionamiento y funcionalidad en sistemas y 
+equipos de radiodiagnóstico, radioterapia e imagen médica. Verificación de 
+alarmas. Funcionamiento en baterías. Precisión de medidas. Comprobación de 
+parámetros de salida.
+–
+– Seguridad en el mantenimiento. Bloqueo de equipos en revisión. Riesgos 
+eléctricos de alta tensión. Riesgos de radiación excesiva. Riesgos mecánicos. 
+Prevención de infecciones.
+–
+– Documentación del proceso e informe de mantenimiento. Estructura, partes y 
+documentación a rellenar en informes tipo.
+–
+– Responsabilidad asociada al proceso de mantenimiento. Normativa vigente. 
+Mantenimiento de alta tecnología.
+7. Diagnosis de averías en instalaciones, sistemas y equipos:
+–
+– Elementos y sistemas susceptibles de producir averías en salas de radiología 
+e imagen médica, así como en los sistemas y equipos asociados. Relación 
+con diagramas de bloques según las características de los equipos. Enfoque 
+automático en colimación. Control de iluminación. Sistema de medida de 
+distancias foco-paciente. Sistema de control de movimiento tablero-paciente. 
+Carcasas de endoscopios. Canales de guiado en endoscopios. Sistema de 
+control mecánico de manipulación. Sistema de captación de CCD. Obstrucción 
+de canales. Sondas ecográficas.
+–
+– Técnicas de diagnóstico de averías en sistemas y equipos de radiodiagnóstico, 
+radioterapia e imagen médica. Detección de averías. Averías tipo. Autodiagnosis. 
+–
+– Mediciones típicas de control de disfunciones y averías en sistemas y equipos 
+de radiodiagnóstico, radioterapia e imagen médica. Puntos de medida. 
+Procedimientos de medida. Protección frente a descargas eléctricas. Protección 
+frente a radiaciones. 
+–
+– Revisión del histórico de averías. Almacenamiento informático. Archivo de partes 
+de trabajo.
+–
+– Garantía y tipología de contratos asociados a instalaciones, sistemas y equipos 
+presentes en salas de radiología e imagen médica. Contratos tipo de adquisición 
+de alta tecnología. Contratos de compra. Contratos de alquiler. Contratos de 
+cesión. Garantía tipo y su cobertura. Contratos de mantenimiento.
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37774
+Viernes, 2 de octubre de 2020
+8. Reparación de averías en instalaciones, sistemas y equipos:
+–
+– Planificación del proceso de reparación y sustitución de elementos típicos en salas 
+de radiología e imagen médica, así como de sus sistemas y equipos asociados. 
+Intervención de primer nivel. Intervención especializada. Servicios técnicos.
+–
+– Análisis de manuales de servicio típicos de sistemas y equipos de radiodiagnóstico, 
+radioterapia e imagen médica. Protocolos de sustitución de elementos. 
+Recomendaciones del fabricante. Precauciones.
+–
+– Compatibilidad de elementos. Características específicas. Proveedores.
+–
+– Técnicas de reparación de averías tipo en sistemas y equipos radiodiagnóstico, 
+radioterapia e imagen médica. Ejemplos de averías frecuentes y su reparación.
+–
+– Comprobaciones de puesta en servicio en equipos de radiodiagnóstico, 
+radioterapia e imagen médica. Precisión en las medidas. Verificación de alarmas. 
+Comprobación de parámetros de salida.
+–
+– Seguridad y calidad en las intervenciones. Bloqueo de equipos en reparación. 
+Riesgos de radiaciones. Riesgos eléctricos de alta tensión. Riesgos mecánicos. 
+Plan de equipos de sustitución.
+–
+– Reciclado de residuos. Tubo de rayos X. Transformadores de alta tensión. Cables 
+de alta tensión. Residuos electrónicos. Gestores de residuos autorizados.
+–
+– Documentación del proceso. Partes tipo de mantenimiento correctivo. Actas tipo 
+de puesta en servicio. Cumplimentación de documentación. 
+9. Prevención de riesgos, seguridad y protección medioambiental:
+–
+– Identificación de riesgos en salas de radiología, radioterapia e imagen médica, 
+así como en los sistemas y equipos asociados. Riesgos eléctricos. Riesgos de 
+radiaciones. Riesgos mecánicos.
+–
+– Normativa de prevención de riesgos laborales relativa al mantenimiento de 
+instalaciones eléctricas, hidráulicas y neumáticas asociadas a las salas de 
+radiología, radioterapia e imagen médica. 
+–
+– Prevención de riesgos laborales en los procesos de montaje y mantenimiento de 
+instalaciones, sistemas y equipos de radiaciones ionizantes. 
+–
+– Equipos de protección individual. Características. Criterios de utilización.
+–
+– Protección colectiva. Medios y equipos de protección.
+–
+– Normativa reguladora en gestión de residuos. Plan de gestión de residuos. 
+Residuos radiactivos. Legislación vigente.
+–
+– Normativa de protección ambiental y protección radiológica.
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37775
+Viernes, 2 de octubre de 2020
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar la función 
+de ejecutar el montaje, puesta en marcha y mantenimiento de sistemas y equipos de 
+radiodiagnóstico, radioterapia e imagen médica, así como de sus instalaciones asociadas. 
+La definición de estas funciones incluye aspectos como: 
+–
+– La recepción de sistemas y equipos.
+–
+– La verificación y acondicionamiento de la infraestructura necesaria.
+–
+– El montaje y desmontaje de sistemas y equipos.
+–
+– La actualización y sustitución de elementos en instalaciones, sistemas y equipos.
+Las actividades profesionales asociadas a estas funciones se aplican en: 
+–
+– La realización del montaje y puesta en marcha de instalaciones, sistemas y 
+equipos.
+–
+– La ejecución del mantenimiento preventivo de instalaciones, sistemas y equipos.
+–
+– La reparación de averías en instalaciones, sistemas y equipos.
+La formación del módulo contribuye a alcanzar los objetivos generales j), k), l), m), n) 
+y ñ) del ciclo formativo, y las competencias j), k), l), m), n) y ñ) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo versarán sobre: 
+–
+– La identificación de la funcionalidad y características técnicas de instalaciones, 
+sistemas y equipos.
+–
+– La ejecución de protocolos de recepción de sistemas y equipos.
+–
+– La verificación y acondicionamiento de infraestructuras para el apropiado montaje 
+y desmontaje de sistemas y equipos.
+–
+– La realización de operaciones de montaje y desmontaje de instalaciones, 
+sistemas y equipos.
+–
+– La puesta en marcha de sistemas y equipos, así como de sus instalaciones 
+asociadas.
+–
+– La realización de operaciones de mantenimiento preventivo, así como de pruebas 
+funcionales, en instalaciones, sistemas y equipos.
+–
+– El diagnóstico y la reparación de averías en instalaciones, sistemas y equipos.
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37776
+Viernes, 2 de octubre de 2020
+Módulo profesional: Sistemas de monitorización, registro y cuidados críticos.
+Equivalencia en créditos ECTS: 14.
+Código: 1589. 
+Duración: 192 horas.
+Contenidos:
+1. Características técnicas y operativas de instalaciones, sistemas y equipos:
+–
+– Estructura y características técnicas de un quirófano. Distribución eléctrica. 
+Elementos de protección eléctrica. Revisión eléctrica y su periodicidad. Gases 
+medicinales, su instalación y su distribución.
+–
+– Estructura y características técnicas de una sala de cuidados críticos. Distribución 
+eléctrica. Elementos de protección eléctrica. Revisión eléctrica y su periodicidad. 
+Gases medicinales, su instalación y su distribución.
+–
+– Bloques fundamentales, características técnicas y funcionamiento de equipos 
+de monitorización. Transductores. Amplificadores. Medidas de biopotenciales. 
+Medidas de presión sanguínea. Monitor multiparámetros. Central de 
+monitorización. Sistema de telemetría. Monitor fetal. Monitor de apnea.
+–
+– Bloques fundamentales, características técnicas y funcionamiento de equipos de 
+registro. Electrocardiógrafo. Registro Holter.
+–
+– Bloques fundamentales, características técnicas y funcionamiento de equipos de 
+cuidados críticos. Respirador. Mesa de anestesia. Bomba de infusión/perfusión. 
+Electrobisturí. Desfibrilador. Marcapasos. Incubadora.
+2. Recepción de sistemas y equipos:
+–
+– Subsistemas y elementos típicos en equipos de monitorización, registro y cuidados 
+críticos. Monitores. Teclados. Software informático. Fungibles asociados. 
+Compresor. Manguitos. Sondas.
+–
+– Etiquetado e identificación de información administrativa. Datos básicos del 
+equipamiento. Declaración CE de conformidad. Datos del proveedor.
+–
+– Certificaciones y acreditaciones en quirófanos y salas de cuidados críticos, así 
+como sus sistemas y equipos asociados. Permisos. Conformidad del fabricante. 
+Normativa vigente.
+–
+– Documentación típica en sistemas y equipos de monitorización, registro y 
+cuidados críticos. Manuales tipo de servicio y usuario. Periodo de garantía típico. 
+Normativa y legislación.
+–
+– Protocolos de entrega de sistemas y equipos de monitorización, registro y 
+cuidados críticos. Listas de chequeo típicas. Responsable de la recepción.
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37777
+Viernes, 2 de octubre de 2020
+–
+– Opciones de adquisición de sistemas y equipos de monitorización, registro 
+y cuidados críticos. Contratos de compra. Contratos de cesión. Contratos de 
+alquiler. Tratamiento específico de fungibles y repuestos. Coberturas de la 
+garantía.
+3. Verificación de espacios físicos e infraestructuras:
+–
+– Planos de quirófanos y salas de cuidados críticos. Identificación de espacios. 
+Simbología especifica. Escalas típicas. Ejemplos.
+–
+– Espacios e infraestructuras típicas en quirófanos. Características típicas en 
+cuanto a climatización, sonoridad e iluminación. Reglamento de instalaciones 
+térmicas en edificios (RITE). Sala de paciente. Sala de control eléctrico. Sala 
+audiovisual.
+–
+– Espacios e infraestructuras típicas en salas de cuidados críticos. Características 
+típicas en cuanto a climatización, sonoridad, e iluminación. Reglamento de 
+instalaciones térmicas en edificios (RITE). Sala de monitorización. Sala de 
+aislamiento de paciente. Sala polivalente.
+–
+– Requerimientos especiales en cuanto a espacios e infraestructuras de sistemas 
+y equipos de monitorización, registro y cuidados críticos. Distribución eléctrica. 
+Protecciones eléctricas. Reglamento Electrotécnico de Baja Tensión (REBT). 
+Gases medicinales. Control presión positiva. Sistemas de control ambiental. UTA 
+(unidad de tratamiento de aire). 
+–
+– Montaje y acondicionamiento de infraestructuras en quirófanos y salas de 
+cuidados críticos para sistemas y equipos tipo. Montaje de cableado eléctrico 
+y protecciones. Montaje de canalizaciones neumáticas e hidráulicas. Control de 
+presión.
+4. Montaje y desmontaje de instalaciones, sistemas y equipos:
+–
+– Interpretación de planes de montaje y de desmontaje de sistemas y equipos 
+en quirófanos y salas de cuidados críticos. Estructura y partes específicas. 
+Precauciones. Ejemplos tipo.
+–
+– Protocolos de desembalaje para sistemas y equipos tipo de monitorización, 
+registro y cuidados críticos. Precauciones específicas. Ejemplos tipo.
+–
+– Técnicas de montaje y conexionado típicas en instalaciones, sistemas y 
+equipos de monitorización, registro y cuidados críticos. Conexionado eléctrico. 
+Conexionado neumático. Precauciones. Ejemplos tipo. 
+–
+– Maquinaria y herramientas utilizadas típicamente en el montaje de instalaciones, 
+sistemas y equipos de monitorización, registro y cuidados críticos.
+–
+– Señalización de instalaciones y sistemas de monitorización, registro y cuidados 
+críticos en proceso de montaje y desmontaje. Ejemplos tipo.
+–
+– Materiales, componentes y accesorios reutilizables en equipos de monitorización, 
+registro y cuidados críticos. Monitores. Teclados. Hardware electrónico. Elementos 
+mecánicos. Compresores.
+–
+– Documentación de las contingencias surgidas. Informe de montaje y desmontaje 
+tipo. Ejemplos de documentación de información.
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37778
+Viernes, 2 de octubre de 2020
+5. Puesta en marcha de instalaciones, sistemas y equipos:
+–
+– Protocolos de puesta en marcha en quirófanos y salas de cuidados críticos, así 
+como en sus equipos asociados. Ejemplos tipo.
+–
+– Equipos de simulación y comprobación de sistemas de monitorización y registros. 
+Simulación de signos vitales. Simulación de ECG. Simulación/análisis de SpO2. 
+Simulación/análisis de presión no invasiva (NIBP). Simulación fetal. Otros 
+simuladores.
+–
+– Equipos de simulación y comprobación de sistemas de cuidados críticos. 
+Analizador de flujo. Analizador de gases anestésicos. Analizador de bombas 
+de infusión. Medidor de oxígeno. Analizador de electrobisturís. Analizador de 
+desfibriladores. Analizador de incubadoras. Otros analizadores.
+–
+– Medición de parámetros característicos en instalaciones de quirófanos y salas 
+de cuidados críticos, así como en sus sistemas y equipos asociados. Pruebas 
+eléctricas. Medidas de estanqueidad. Control de presión. Autochequeos.
+–
+– Descripción de la configuración típica de controles, botones y alarmas en sistemas 
+y equipos de monitorización, registro y cuidados críticos. Ejemplos tipo.
+–
+– Análisis de seguridad eléctrica en sistemas y equipos de monitorización, registro 
+y cuidados críticos. Analizadores de seguridad eléctrica y su configuración. 
+Resistencia de tierra. Corrientes de fugas. Resistencias de aislamiento. Normativa 
+vigente.
+–
+– Documentación de resultados. Actas de puestas en marcha típicas. 
+Cumplimentación de la documentación.
+6. Mantenimiento preventivo de instalaciones, sistemas y equipos:
+–
+– Interpretación de un plan de mantenimiento preventivo para sistemas y equipos 
+de monitorización, registro y cuidados críticos. Estructura y secciones de interés. 
+Partes y órdenes de trabajo. Identificación de equipamiento. Identificación de 
+herramientas y comprobadores. Ejemplos tipo.
+–
+– Intervenciones típicas de mantenimiento preventivo en quirófanos y salas de 
+cuidados críticos, así como en los sistemas y equipos asociados. Revisiones 
+eléctricas. Control de presión.
+–
+– Pruebas típicas de inspección visual en sistemas y equipos de monitorización, 
+registro y cuidados críticos. Limpieza y daños físicos. Revisión de controles y 
+botones. Intensidad de luces y controles luminosos. Revisión de fusibles, cables 
+y enchufes. Revisión de filtros. Revisión de etiquetado y documentación. Revisión 
+de fungibles.
+–
+– Pruebas y medidas típicas de funcionamiento y funcionalidad en sistemas y 
+equipos de monitorización, registro y cuidados críticos. Verificación de alarmas. 
+Funcionamiento en baterías. Precisión de medidas (frecuencia cardiaca, 
+frecuencia respiratoria, volumen tidal, presión sanguínea, humedad, temperatura, 
+entre otros.). Comprobación de parámetros de salida (potencia eléctrica, flujos, 
+entre otros.).
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37779
+Viernes, 2 de octubre de 2020
+–
+– Seguridad en el mantenimiento. Bloqueo de equipos en revisión. Peligros 
+químicos. Riesgos eléctricos de alta tensión. Duplicidad de equipamiento de 
+cuidados críticos. Instalación de Sistemas de alimentación ininterrumpida (SAI). 
+Prevención de infecciones. Personal de apoyo en tareas de riesgo.
+–
+– Documentación del proceso e informe de mantenimiento. Estructura, partes y 
+documentación a rellenar en informes tipo.
+–
+– Responsabilidad asociada al proceso de mantenimiento. Normativa vigente.
+7. Diagnosis de averías en instalaciones, sistemas y equipos:
+–
+– Elementos y sistemas susceptibles de producir averías en quirófanos y salas 
+de cuidados críticos, así como en los sistemas y equipos asociados. Relación 
+con diagramas de bloques según las características de los equipos. Conexiones. 
+Cables. Manguitos. Electrodos. Paneles de control.
+–
+– Técnicas de diagnóstico de averías en sistemas y equipos de monitorización, 
+registro y cuidados críticos. Técnicas tipo de detección de averías. Averías tipo. 
+Autodiagnósticos. Ejemplos.
+–
+– Mediciones típicas de control de disfunciones y averías en sistemas y equipos de 
+monitorización, registro y cuidados críticos. Puntos de medida. Procedimientos 
+de medida. Protección frente a descargas eléctricas. Ejemplos de medidas.
+–
+– Revisión del histórico de averías. Almacenamiento informático. Archivo de partes 
+de trabajo.
+–
+– Garantía y tipología de contratos asociados a instalaciones, sistemas y equipos 
+presentes en quirófanos y salas de cuidados críticos. Contratos tipo de adquisición. 
+Contratos de compra. Contratos de alquiler. Contratos de cesión. Garantía tipo y 
+su cobertura.
+8. Reparación de averías en instalaciones, sistemas y equipos:
+–
+– Planificación del proceso de reparación y sustitución de elementos típicos en 
+quirófanos y salas de cuidados críticos, así como de sus sistemas y equipos 
+asociados. Intervención de primer nivel. Intervención especializada. Servicios 
+técnicos.
+–
+– Análisis de manuales de servicio típicos de equipos y sistemas de monitorización, 
+registro y cuidados críticos. Protocolos de sustitución de elementos. 
+Recomendaciones del fabricante. Precauciones.
+–
+– Compatibilidad de elementos. Características específicas. Proveedores.
+–
+– Técnicas de reparación de averías tipo en sistemas y equipos de monitorización, 
+registro y cuidados críticos. Ejemplos de reparación de equipos tipo.
+–
+– Comprobaciones de puesta en servicio en equipos de monitorización, registro 
+y cuidados críticos. Precisión en las medidas. Verificación de alarmas. 
+Comprobación de parámetros de salida.
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37780
+Viernes, 2 de octubre de 2020
+–
+– Seguridad y calidad en las intervenciones. Bloqueo de equipos en reparación. 
+Peligros químicos. Riesgos eléctricos de alta tensión. Plan de equipos de 
+sustitución.
+–
+– Reciclado de residuos. Residuos plásticos. Residuos electrónicos.
+–
+– Documentación del proceso. Partes tipo de mantenimiento correctivo. Actas tipo 
+de puesta en servicio. Cumplimentación de documentación.
+9. Prevención de riesgos, seguridad y protección medioambiental:
+–
+– Identificación de riesgos y niveles de peligrosidad, en quirófanos y salas de 
+cuidados críticos, así como en los sistemas y equipos asociados. Riesgos 
+eléctricos. Riesgos químicos. Riesgos mecánicos.
+–
+– Normativa de prevención de riesgos laborales relativa al mantenimiento de 
+instalaciones eléctricas, hidráulicas y neumáticas.
+–
+– Prevención de riesgos laborales en procesos de montaje y mantenimiento de 
+instalaciones, sistemas y equipos.
+–
+– Equipos de protección individual. Características. Criterios de utilización.
+–
+– Protección colectiva. Medios y equipos de protección.
+–
+– Normativa reguladora en gestión de residuos. Plan de gestión de residuos. 
+Criterios de sostenibilidad y lucha contra el cambio climático en la gestión de los 
+residuos. 
+–
+– Normativa de protección ambiental. 
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar la función 
+de ejecutar el montaje, puesta en marcha y mantenimiento de sistemas y equipos de 
+monitorización, registro y cuidados críticos, así como de sus instalaciones asociadas.
+La definición de estas funciones incluye aspectos como:
+–
+– La recepción de sistemas y equipos. 
+–
+– La verificación y acondicionamiento de la infraestructura necesaria. 
+–
+– El montaje y desmontaje de sistemas y equipos.
+–
+– La actualización y sustitución de elementos en instalaciones, sistemas y equipos.
+Las actividades profesionales asociadas a estas funciones se aplican en:
+–
+– La realización del montaje y puesta en marcha de instalaciones, sistemas y 
+equipos. 
+–
+– La ejecución del mantenimiento preventivo de instalaciones, sistemas y equipos.
+–
+– La reparación de averías en instalaciones, sistemas y equipos. 
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37781
+Viernes, 2 de octubre de 2020
+La formación del módulo contribuye a alcanzar los objetivos generales j), k), l), m), n) 
+y ñ) del ciclo formativo, y las competencias j), k), l), m), n) y ñ) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo versarán sobre:
+–
+– La identificación de la funcionalidad y características técnicas de instalaciones, 
+sistemas y equipos. 
+–
+– La ejecución de protocolos de recepción de sistemas y equipos.
+–
+– La verificación y acondicionamiento de infraestructuras para el apropiado montaje 
+y desmontaje de sistemas y equipos. 
+–
+– La realización de operaciones de montaje y desmontaje de instalaciones, 
+sistemas y equipos. 
+–
+– La puesta en marcha de sistemas y equipos, así como de sus instalaciones 
+asociadas. 
+–
+– La realización de operaciones de mantenimiento preventivo, así como de pruebas 
+funcionales, en instalaciones, sistemas y equipos.
+–
+– El diagnóstico y la reparación de averías en instalaciones, sistemas y equipos.
+Módulo profesional: Sistemas de laboratorio y hemodiálisis. 
+Equivalencia en créditos ECTS: 8.
+Código: 1590.
+Duración: 126 horas.
+Contenidos:
+1. Características técnicas y operativas de instalaciones, sistemas y equipos:
+–
+– Tratamiento y calidad del agua en el entorno clínico. Osmosis inversa. Agua 
+osmotizada y agua ultrapura. Controles de calidad y mantenimiento.
+–
+– Estructura y características técnicas de las instalaciones requeridas por una 
+unidad de laboratorio. Distribución, protección y revisión eléctrica. Red de agua.
+–
+– Bloques fundamentales, características técnicas y funcionamiento de equipos de 
+laboratorio. Analizador y autoanalizador, microscopio, secuenciador y otros.
+–
+– Principios físicos y químicos de la hemodiálisis. Transporte por difusión. Transporte 
+por convección o ultrafiltración. Retrofiltración. Recirculación. Aclaración. 
+Transferencia de masas. Factores que influyen a la eficacia de la diálisis.
+–
+– Estructura y características técnicas de las instalaciones requeridas por una 
+unidad de hemodiálisis. Distribución eléctrica. Elementos de protección eléctrica. 
+Revisión eléctrica y periodicidad. Red de agua.
+–
+– Bloques fundamentales, características técnicas y funcionamiento de equipos de 
+hemodiálisis. Monitores de hemodiálisis y de hemodiálisis peritoneal.
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37782
+Viernes, 2 de octubre de 2020
+2. Recepción de sistemas y equipos de laboratorio:
+–
+– Subsistemas y elementos típicos en equipos de laboratorio y hemodiálisis. 
+Teclados, monitores, software informático. Fungibles asociados. Equipos de 
+control/desinfección. Circuitos de paciente.
+–
+– Etiquetado e identificación de información administrativa. Datos básicos. 
+Declaración CE de conformidad. Datos del proveedor.
+–
+– Certificaciones y acreditaciones en unidades de laboratorio y hemodiálisis, 
+así como en sus sistemas y equipos asociados. Permisos. Conformidad del 
+fabricante. Normativa vigente.
+–
+– Documentación típica en equipos de laboratorio y hemodiálisis. Manuales de 
+servicio y usuario. Tiempo de garantía. Normativa y legislación.
+–
+– Protocolos de entrega de sistemas y equipos de laboratorio y hemodiálisis. Listas 
+de revisión. Responsable de recepción.
+–
+– Opciones de adquisición típicas de sistemas y equipos de laboratorio y 
+hemodiálisis. Contratos de compra, cesión y alquiler. Tratamiento específico de 
+fungibles y repuestos. Coberturas de garantía.
+3. Verificación de espacios físicos e infraestructuras:
+–
+– Planos de unidades de laboratorio y hemodiálisis. Espacios. Simbología 
+específica.
+–
+– Espacios e infraestructuras típicas en unidades de laboratorio. Climatización, 
+sonoridad e iluminación. Reglamento de instalaciones térmicas en edificios 
+(RITE). Control y centralización de datos. Área de urgencias. Área de hematología. 
+Áreas de análisis clínicos. Área de microbiología. Área de anatomía patológica.
+–
+– Espacios e infraestructuras típicas en unidades de hemodiálisis. Área del 
+paciente. Características de climatización, sonoridad e iluminación. Planta de 
+tratamiento de agua/osmosis inversa.
+–
+– Requerimientos especiales en cuanto a espacios e infraestructuras de sistemas y 
+equipos de laboratorio y hemodiálisis. Reglamento electrotécnico de baja tensión 
+(REBT). Red de distribución de agua.
+–
+– Montaje y acondicionamiento de infraestructuras en unidades de laboratorio y 
+hemodiálisis para sistemas y equipos tipo. Cableado eléctrico y protecciones. 
+Montaje de canalizaciones neumáticas e hidráulicas. Control de presión.
+4. Montaje y desmontaje de instalaciones, sistemas y equipos:
+–
+– Interpretación de planes de montaje y de desmontaje de sistemas y equipos 
+en unidades de laboratorio y hemodiálisis. Estructuras y partes específicas. 
+Precauciones.
+–
+– Protocolos de desembalaje para sistemas y equipos tipo de laboratorio y 
+hemodiálisis. Precauciones específicas. 
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37783
+Viernes, 2 de octubre de 2020
+–
+– Técnicas de montaje y conexionado típicas en instalaciones, sistemas y equipos 
+de laboratorio y hemodiálisis. Conexionado eléctrico y de tuberías. Precauciones. 
+–
+– Maquinaria y herramientas utilizadas típicamente en el montaje de instalaciones, 
+sistemas y equipos de laboratorio y hemodiálisis.
+–
+– Señalización de instalaciones y sistemas de laboratorio y hemodiálisis en proceso 
+de montaje o desmontaje. 
+–
+– Materiales, componentes y accesorios reutilizables en sistemas y equipos de 
+laboratorio y hemodiálisis. Monitores y teclados. Hardware electrónico. Elementos 
+mecánicos y compresores.
+–
+– Documentación de las contingencias surgidas. Informe de montaje y desmontaje. 
+Ejemplos de documentación de información.
+5. Puesta en marcha de instalaciones, sistemas y equipos:
+–
+– Protocolos típicos de puesta en marcha en unidades de laboratorio y hemodiálisis, 
+así como en sus equipos asociados. 
+–
+– Equipos de comprobación en diálisis. Medidores de referencia para diálisis.
+–
+– Equipos de comprobación en laboratorio. Tacómetro, termómetro y cronómetro.
+–
+– Medición de parámetros característicos en instalaciones de laboratorio y 
+hemodiálisis, así como en sus sistemas y equipos asociados. Pruebas eléctricas. 
+Medidas de estanquidad y temperatura. Autochequeos.
+–
+– Descripción de la configuración típica de controles, botones y alarmas en sistemas 
+y/o equipos de laboratorio y hemodiálisis. 
+–
+– Análisis de seguridad eléctrica en sistemas y equipos de laboratorio y hemodiálisis. 
+Analizadores de seguridad eléctrica y su configuración. Resistencia a tierra. 
+Corrientes de fuga. Resistencias de aislamiento. Normativa.
+–
+– Documentación de resultados. Actos de puesta en marcha y cumplimentación de 
+documentación.
+6. Mantenimiento preventivo de instalaciones, sistemas y equipos:
+–
+– Interpretación de un plan de mantenimiento preventivo para sistemas y equipos 
+de laboratorio y hemodiálisis. Estructura y secciones de interés. Órdenes de 
+trabajo. Identificación de herramientas y comprobadores. 
+–
+– Intervenciones típicas de mantenimiento preventivo en unidades de laboratorio 
+y hemodiálisis, así́ como en los sistemas y equipos asociados. Revisiones 
+eléctricas. Medidas de temperatura.
+–
+– Pruebas típicas de inspección visual en sistemas y equipos de laboratorio y 
+hemodiálisis. Limpieza y daños físicos. Revisión de controles y juego de botones. 
+Intensidad de las luces y controles luminosos. Revisión de fusibles, cables y 
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37784
+Viernes, 2 de octubre de 2020
+enchufes. Revisión de filtros. Revisión de etiquetado y documentación. Revisión 
+de fungibles.
+–
+– Pruebas y medidas típicas de funcionamiento y funcionalidad en sistemas y 
+equipos de laboratorio y hemodiálisis. Verificación de alarmas. Funcionamiento 
+con baterías. Precisión de medidas. Comprobación de parámetros de salida.
+–
+– Seguridad en el mantenimiento. Bloqueo de equipos en revisión. Peligros 
+químicos. Riesgos eléctricos. Prevención de infecciones.
+–
+– Documentación del proceso e informe de mantenimiento. Estructura, partes y 
+documentación a rellenar en informes tipo.
+–
+– Responsabilidad asociada al proceso de mantenimiento. Normativa vigente.
+7. Diagnosis de averías en instalaciones, sistemas y equipos:
+–
+– Elementos y sistemas susceptibles de producir averías en unidades de laboratorio 
+y hemodiálisis, así como en los sistemas y equipos asociados. Relación con 
+diagramas de bloques según las características de los equipos. Sistemas de 
+control de carruseles. Fotodetectores. Servos y robots. Sistemas de aspiración. 
+Sistemas de medida de distancias. Sistemas de calibración.
+–
+– Técnicas de diagnóstico de averías en sistemas y equipos de laboratorio y 
+hemodiálisis. Técnicas tipo de detección de averías. Averías tipo. Autodiagnosis. 
+–
+– Mediciones típicas de control de disfunciones y averías en sistemas y equipos 
+de laboratorio y hemodiálisis. Puntos de medida y procedimientos. Protección 
+contra descargas eléctricas.
+–
+– Revisión del archivo histórico de averías. Almacenaje informático. Archivo de 
+partes de trabajo.
+–
+– Garantía y tipología de contratos de instalaciones, sistemas y equipos presentes 
+en unidades de laboratorio y hemodiálisis. Contratos de compra, cesión y alquiler. 
+Coberturas de garantía.
+8. Reparación de averías en instalaciones, sistemas y equipos de laboratorio:
+–
+– Planificación del proceso de reparación y sustitución de elementos típicos en 
+unidades de laboratorio y hemodiálisis, así como de sus sistemas y equipos 
+asociados. Intervención de primer nivel. Intervención especializada. Servicios 
+técnicos.
+–
+– Análisis de manuales de servicio típicos de equipos y sistemas de laboratorio 
+y hemodiálisis. Protocolos de sustitución de elementos. Recomendaciones del 
+fabricante. Precauciones.
+–
+– Compatibilidad de elementos. Características específicas. Proveedores.
+–
+– Técnicas de reparación de averías tipo en sistemas y equipos de laboratorio y 
+hemodiálisis. Ejemplos de reparación de equipos tipo.
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37785
+Viernes, 2 de octubre de 2020
+–
+– Comprobaciones de puesta en servicio en equipos de laboratorio y hemodiálisis. 
+Precisión en las medidas. Verificación de alarmas. Comprobación de parámetros 
+de salida.
+–
+– Seguridad y calidad en las intervenciones. Bloqueo de equipos en revisión. 
+Peligros químicos. Riesgos eléctricos. Plan de equipos de sustitución.
+–
+– Reciclaje de residuos. Residuos electrónicos. Residuos químicos/reactivos.
+–
+– Documentación del proceso. Partes tipo de mantenimiento correctivo. Actas tipo 
+de respuesta en servicio. Cumplimentación de documentación.
+9. Prevención de riesgos, seguridad y protección medioambiental:
+–
+– Identificación de riesgos en unidades de laboratorio y hemodiálisis, así́ como en 
+los sistemas y equipos asociados. Riesgos eléctricos. Riesgos químicos. Riesgos 
+mecánicos.
+–
+– Normativa de prevención de riesgos laborales relativa al mantenimiento de 
+instalaciones eléctricas, hidráulicas y neumáticas.
+–
+– Prevención de riesgos laborales en los procesos de montaje y mantenimiento de 
+instalaciones, sistemas y equipos.
+–
+– Equipos de protección individual. Características. Criterios de uso.
+–
+– Protección colectiva. Medios y equipos de protección.
+–
+– Normativa reguladora en gestión de residuos. Plan de gestión de residuos.
+–
+– Normativa de protección ambiental.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar la función 
+de ejecutar el montaje, puesta en marcha y mantenimiento de sistemas y equipos de 
+laboratorio y hemodiálisis, así como de sus instalaciones asociadas.
+La definición de estas funciones incluye aspectos como:
+–
+– La recepción de sistemas y equipos.
+–
+– La verificación y acondicionamiento de la infraestructura necesaria.
+–
+– El montaje y desmontaje de sistemas y equipos.
+–
+– La actualización y sustitución de elementos en instalaciones, sistemas y equipos.
+Las actividades profesionales asociadas a esta función se aplican en:
+–
+– La realización del montaje y puesta en marcha de instalaciones, sistemas y 
+equipos.
+–
+– La ejecución del mantenimiento preventivo de instalaciones, sistemas y equipos.
+–
+– La reparación de averías en instalaciones, sistemas y equipos.
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37786
+Viernes, 2 de octubre de 2020
+La formación del módulo contribuye a alcanzar los objetivos generales j), k), l), m), n) 
+y ñ) del ciclo formativo, y las competencias j), k), l), m), n) y ñ) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+–
+– La identificación de la funcionalidad y características técnicas de instalaciones, 
+sistemas y equipos.
+–
+– La ejecución de protocolos de recepción de sistemas y equipos.
+–
+– La verificación y acondicionamiento de infraestructuras para el apropiado montaje 
+y desmontaje de sistemas y equipos.
+–
+– La realización de operaciones de montaje y desmontaje de instalaciones, 
+sistemas y equipos.
+–
+– La puesta en marcha de sistemas y equipos, así́ como de sus instalaciones 
+asociadas.
+–
+– La realización de operaciones de mantenimiento preventivo, así́ como de pruebas 
+funcionales, en instalaciones, sistemas y equipos.
+–
+– El diagnóstico y la reparación de averías en instalaciones, sistemas y equipos.
+–
+– La prevención de riesgos laborales y protección medioambiental.
+Módulo profesional: Sistemas de rehabilitación y pruebas funcionales. 
+Equivalencia en créditos ECTS: 6.
+Código: 1591.
+Duración: 105 horas.
+Contenidos:
+1. Características técnicas y operativas de instalaciones, sistemas y equipos: 
+–
+– Estructura y características técnicas de una sala de rehabilitación. Distribución 
+eléctrica. Elementos de protección eléctrica.
+–
+– Estructura y características técnicas de una consulta para pruebas funcionales. 
+Distribución eléctrica. Elementos de protección eléctrica.
+–
+– Bloques fundamentales, características técnicas y funcionamiento de equipos 
+de rehabilitación. Equipos de electroterapia. Equipos de microondas. Equipos 
+de ultrasonidos. Equipos de radiofrecuencia. Equipos de fototerapia. Equipos de 
+crioterapia. Equipos de magnetoterapia. Equipos de termoterapia. Equipos de 
+presoterapia. Equipos de fototerapia. Láser.
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37787
+Viernes, 2 de octubre de 2020
+–
+– Bloques fundamentales, características técnicas y funcionamiento de equipos de 
+pruebas funcionales. Sistema de pruebas de esfuerzo. Espirometría. Exploración 
+pulmonar. Audiometría. Electroencefalografía. Electromiografía.
+–
+– Prótesis y su automatización. Tipos de prótesis. Materiales. Robotización y 
+automatización de prótesis. Sistemas de control mioeléctrico. Exoesqueletos 
+robóticos.
+–
+– El papel de las TIC en la rehabilitación. Ambient Assisted Living (AAL). Sistemas de 
+control ambiental. Telemedicina: Sistemas de teleasistencia y telemonitorización. 
+Tejidos inteligentes. Internet de las cosas médicas (IoMT).
+2. Recepción de sistemas y equipos: 
+–
+– Subsistemas y elementos típicos en equipos de rehabilitación y pruebas 
+funcionales. Elementos mecánicos. Servos y robots. Elementos de protección de 
+paciente/usuario.
+–
+– Etiquetado e identificación de información administrativa. Datos básicos del 
+equipamiento. Declaración CE de conformidad. Datos del proveedor.
+–
+– Certificaciones y acreditaciones en salas de rehabilitación y consultas de pruebas 
+funcionales, así como sus sistemas y equipos asociados. Normativa vigente. 
+Conformidad del fabricante. Permisos. 
+–
+– Documentación típica en equipos de rehabilitación y pruebas funcionales. 
+Manuales tipo de servicio y usuario. Normativa y legislación. Periodos de garantía. 
+–
+– Protocolos de entrega de sistemas y equipos de rehabilitación y pruebas 
+funcionales. Responsable de la recepción. Listas de chequeo.
+–
+– Opciones de adquisición de sistemas y equipos de rehabilitación y pruebas 
+funcionales. Contratos de compra, cesión y alquiler. Coberturas de la garantía. 
+Tratamiento específico de fungibles y repuestos. 
+3. Verificación de espacios físicos e infraestructuras: 
+–
+– Análisis de planos típicos de salas de rehabilitación y consultas de pruebas 
+funcionales. Identificación de espacios. Simbología especifica. Escalas típicas. 
+–
+– Espacios e infraestructuras típicas en salas de rehabilitación. Versatilidad y 
+reorganización de espacios. Características típicas en cuanto a climatización, 
+sonoridad e iluminación. Reglamento de instalaciones térmicas en edificios 
+(RITE). Versatilidad y reorganización de espacios. Salas de aplicación. Sala de 
+rehabilitación.
+–
+– Espacios e infraestructuras típicas en consultas de pruebas funcionales. 
+Características típicas en cuanto a climatización, sonoridad e iluminación. 
+Reglamento de instalaciones térmicas en edificios (RITE). Versatilidad y 
+reorganización de espacios.
+–
+– Requerimientos especiales en cuanto a espacios e infraestructuras de sistemas 
+y equipos de rehabilitación y pruebas funcionales. Distribución eléctrica. 
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37788
+Viernes, 2 de octubre de 2020
+Protecciones eléctricas. Reglamento Electrotécnico de Baja Tensión (REBT). 
+Gases medicinales.
+–
+– Montaje y acondicionamiento de infraestructuras en salas de rehabilitación 
+y consultas de pruebas funcionales para sistemas y equipos tipo. Montaje de 
+cableado eléctrico y protecciones. Montaje de canalizaciones neumáticas e 
+hidráulicas. Control de presión.
+4. Montaje y desmontaje de instalaciones, sistemas y equipos:
+–
+– Interpretación de planes de montaje y de desmontaje de sistemas y equipos en 
+salas de rehabilitación y consultas de pruebas funcionales. Estructura y partes 
+específicas. Precauciones. 
+–
+– Protocolos de desembalaje para sistemas y equipos tipo de rehabilitación y 
+pruebas funcionales. Precauciones específicas. 
+–
+– Técnicas de montaje y conexionado típicas en instalaciones, sistemas y equipos 
+de rehabilitación y pruebas funcionales. Conexionado eléctrico. Conexionado 
+neumático. Precauciones. 
+–
+– Maquinaria y herramientas utilizadas típicamente en el montaje de instalaciones, 
+sistemas y equipos de rehabilitación y pruebas funcionales. Herramientas 
+específicas de fabricante.
+–
+– Señalización de instalaciones y sistemas de rehabilitación y pruebas funcionales 
+en proceso de montaje o desmontaje. 
+–
+– Materiales, componentes y accesorios reutilizables en equipos de rehabilitación 
+y pruebas funcionales. Monitores y teclados. Hardware electrónico. Elementos 
+mecánicos. Sondas.
+–
+– Documentación de las contingencias surgidas. Informe de montaje y desmontaje 
+tipo. 
+5. Puesta en marcha de instalaciones, sistemas y equipos: 
+–
+– Protocolos típicos de puesta en marcha en salas de rehabilitación y consultas de 
+pruebas funcionales, así como en sus equipos asociados. 
+–
+– Equipos de comprobación. Calibración. Radiómetro de fototerapia. Vatímetro de 
+ultrasonidos. Medidor de fugas de transductores de ultrasonidos. Fotómetro.
+–
+– Medición de parámetros característicos en instalaciones de salas de rehabilitación 
+y consultas de pruebas funcionales, así como en sus sistemas y equipos 
+asociados. Pruebas eléctricas. Medidas de estanqueidad. Control de presión. 
+Autochequeos.
+–
+– Descripción de la configuración típica de controles, botones y alarmas en sistemas 
+y equipos de rehabilitación y pruebas funcionales. 
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37789
+Viernes, 2 de octubre de 2020
+–
+– Análisis de seguridad eléctrica en sistemas y equipos de rehabilitación y pruebas 
+funcionales. Analizadores de seguridad eléctrica y su configuración. Resistencia 
+de tierra. Corrientes de fugas. Resistencias de aislamiento. Normativa vigente.
+–
+– Documentación de resultados. Actas de puestas en marcha típicas. 
+Cumplimentación de la documentación.
+6. Mantenimiento preventivo de instalaciones, sistemas y equipos:
+–
+– Interpretación de un plan de mantenimiento preventivo para sistemas y equipos 
+de rehabilitación y pruebas funcionales. Estructura y secciones de interés. 
+Partes y órdenes de trabajo. Identificación de equipamiento. Identificación de 
+herramientas y comprobadores. 
+–
+– Intervenciones típicas de mantenimiento preventivo en salas de rehabilitación y 
+consultas de pruebas funcionales, así como en los sistemas y equipos asociados. 
+Revisiones eléctricas. Control de presión. Protocolos y recomendaciones del 
+fabricante.
+–
+– Pruebas típicas de inspección visual en sistemas y equipos de rehabilitación y 
+pruebas funcionales. Limpieza y daños físicos. Revisión de controles y botones. 
+Intensidad de luces y controles luminosos. Revisión de fusibles, cables y 
+enchufes. Revisión de filtros. Revisión de etiquetado y documentación. Revisión 
+de fungibles.
+–
+– Pruebas y medidas típicas de funcionamiento y funcionalidad en sistemas y equipos 
+de rehabilitación y pruebas funcionales. Verificación de alarmas. Funcionamiento 
+en baterías. Precisión de medidas. Comprobación de parámetros de salida.
+–
+– Seguridad en el mantenimiento. Bloqueo de equipos en revisión. Peligros 
+químicos. Riesgos eléctricos. Riesgos mecánicos. Prevención de infecciones. 
+–
+– Documentación del proceso e informe de mantenimiento. Estructura, partes y 
+documentación a rellenar en informes tipo.
+–
+– Responsabilidad asociada al proceso de mantenimiento. Normativa vigente.
+7. Diagnosis de averías en instalaciones, sistemas y equipos:
+–
+– Elementos y sistemas susceptibles de producir averías en salas de rehabilitación 
+y consultas de pruebas funcionales, así como en los sistemas y equipos 
+asociados. Relación con diagramas de bloques según las características de los 
+equipos. Interruptores corte/seguridad paciente. Cables y electrodos. Cabezales. 
+Aplicadores de fibra óptica. Servos y robots. Emisores de onda corta. Cronómetros.
+–
+– Técnicas de diagnóstico de averías en sistemas y equipos de rehabilitación 
+y pruebas funcionales. Técnicas tipo de detección de averías. Averías tipo. 
+Autodiagnósticos. 
+–
+– Mediciones típicas de control de disfunciones y averías en sistemas y equipos 
+de rehabilitación y pruebas funcionales. Puntos de medida. Procedimientos de 
+medida. Protección frente a descargas eléctricas. 
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37790
+Viernes, 2 de octubre de 2020
+–
+– Revisión del histórico de averías. Almacenamiento informático. Archivo de partes 
+de trabajo.
+–
+– Garantía y tipología de contratos asociados a instalaciones, sistemas y equipos 
+presentes en salas de rehabilitación y consultas de pruebas funcionales. Contratos 
+tipo de adquisición. Contratos de compra. Contratos de alquiler. Contratos de 
+cesión. Garantía tipo y su cobertura. Contratos de mantenimiento.
+8. Reparación de averías en instalaciones, sistemas y equipos:
+–
+– Planificación del proceso de reparación y sustitución de elementos típicos en salas 
+de rehabilitación y consultas de pruebas funcionales, así como de sus sistemas 
+y equipos asociados. Intervención de primer nivel. Intervención especializada. 
+Servicios técnicos.
+–
+– Análisis de manuales de servicio típicos de sistemas y equipos de rehabilitación y 
+pruebas funcionales. Protocolos de sustitución de elementos. Recomendaciones 
+del fabricante. Precauciones.
+–
+– Compatibilidad de elementos. Características específicas. Proveedores.
+–
+– Técnicas de reparación de averías tipo en sistemas y equipos de rehabilitación y 
+pruebas funcionales. Ejemplos de averías frecuentes y su reparación.
+–
+– Comprobaciones de puesta en servicio en equipos de rehabilitación y pruebas 
+funcionales. Precisión en las medidas. Verificación de alarmas. Comprobación 
+de parámetros de salida.
+–
+– Seguridad y calidad en las intervenciones. Bloqueo de equipos en reparación. 
+Riesgos mecánicos. Riesgos eléctricos. Plan de equipos de sustitución.
+–
+– Reciclado de residuos. Residuos electrónicos. Residuos plásticos. Gestores de 
+residuos autorizados.
+–
+– Documentación del proceso. Partes tipo de mantenimiento correctivo. Actas tipo 
+de puesta en servicio. Cumplimentación de documentación.
+9. Prevención de riesgos, seguridad y protección medioambiental:
+–
+– Identificación de riesgos en salas de rehabilitación y consultas de pruebas 
+funcionales, así como en los sistemas y equipos asociados. Riesgos eléctricos. 
+Riesgos químicos. Riesgos mecánicos.
+–
+– Normativa de prevención de riesgos laborales relativa al mantenimiento de 
+instalaciones eléctricas, hidráulicas y neumáticas.
+–
+– Prevención de riesgos laborales en los procesos de montaje y mantenimiento de 
+instalaciones, sistemas y equipos.
+–
+– Equipos de protección individual. Características. Criterios de utilización.
+–
+– Protección colectiva. Medios y equipos de protección.
+–
+– Normativa reguladora en gestión de residuos. Plan de gestión de residuos.
+–
+– Normativa de protección ambiental.
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37791
+Viernes, 2 de octubre de 2020
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar la función 
+de ejecutar el montaje, puesta en marcha y mantenimiento de sistemas y equipos de 
+rehabilitación y pruebas funcionales, así como de sus instalaciones asociadas. 
+La definición de estas funciones incluye aspectos como: 
+–
+– La recepción de sistemas y equipos.
+–
+– La verificación y acondicionamiento de la infraestructura necesaria.
+–
+– El montaje y desmontaje de sistemas y equipos.
+–
+– La actualización y sustitución de elementos en instalaciones, sistemas y equipos.
+Las actividades profesionales asociadas a estas funciones se aplican en: 
+–
+– La realización del montaje y puesta en marcha de instalaciones, sistemas y 
+equipos.
+–
+– La ejecución del mantenimiento preventivo de instalaciones, sistemas y equipos.
+–
+– La reparación de averías en instalaciones, sistemas y equipos.
+La formación del módulo contribuye a alcanzar los objetivos generales j), k), l), m), n) 
+y ñ) del ciclo formativo, y las competencias j), k), l), m), n) y ñ) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo versarán sobre: 
+–
+– La identificación de la funcionalidad y características técnicas de instalaciones, 
+sistemas y equipos.
+–
+– La ejecución de protocolos de recepción de sistemas y equipos.
+–
+– La verificación y acondicionamiento de infraestructuras para el apropiado montaje 
+y desmontaje de sistemas y equipos.
+–
+– La realización de operaciones de montaje y desmontaje de instalaciones, 
+sistemas y equipos.
+–
+– La puesta en marcha de sistemas y equipos, así como de sus instalaciones 
+asociadas.
+–
+– La realización de operaciones de mantenimiento preventivo, así como de pruebas 
+funcionales, en instalaciones, sistemas y equipos.
+–
+– El diagnóstico y la reparación de averías en instalaciones, sistemas y equipos.
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37792
+Viernes, 2 de octubre de 2020
+Módulo profesional: Tecnología sanitaria en el ámbito clínico.
+Equivalencia en créditos ECTS: 4.
+Código: 1592.
+Duración: 64 horas.
+Contenidos:
+1. Reconocimiento de los sistemas y aparatos del organismo humano, estructuras, 
+funcionamiento y enfermedades típicas asociadas:
+–
+– Estructura y organización general del cuerpo humano.
+–
+– Sistema nervioso. Estructura y principales patologías.
+–
+– Aparato digestivo. Constitución del aparato digestivo. Patologías y enfermedades 
+digestivas.
+–
+– Aparato locomotor. Enfermedades del aparato locomotor.
+–
+– Aparato cardiocirculatorio. Bases anatomofisiológicas del corazón. Descripción 
+general de la sangre. Enfermedades de la sangre.
+–
+– Aparato respiratorio. Circulación pulmonar. Patología pulmonar.
+–
+– Sistemas renal y genital. Manifestaciones patológicas y enfermedades renales 
+del aparato genital masculino y femenino.
+–
+– Sistema endocrino.
+–
+– Sistema inmunitario. Clasificación de las alteraciones del sistema inmune. 
+2. Identificación de la estructura del sistema nacional de salud:
+–
+– El sistema sanitario español. Legislación y normativa reguladora vigente. 
+Organización funcional del Sistema Nacional de Salud. Profesionales sanitarios 
+colegiados.
+–
+– Productos sanitarios. Clasificación de productos sanitarios. Marcado CE
+–
+– La organización hospitalaria desde el punto de vista clínico/asistencial y 
+administrativo. Estudio de los distintos modelos hospitalarios organizativos.
+–
+– Requisitos de la asistencia técnica en el ámbito de la electromedicina clínica.
+–
+– Recomendaciones y normativa vigente aplicable en la asistencia técnica de 
+productos sanitarios de la Agencia Española de Medicamentos y Productos 
+Sanitarios.
+3. Características del servicio de electromedicina clínica en una institución hospitalaria 
+y su relación con servicios de asistencia técnica:
+–
+– Modelos organizativos de servicios de electromedicina clínica. Servicios 
+patrimoniales, mixtos y contratas, entre otros.
+–
+– Gestión del servicio de electromedicina clínica de una institución hospitalaria/ 
+sanitaria. Organigrama. Relación del servicio con empresas. 
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37793
+Viernes, 2 de octubre de 2020
+–
+– Subcontrataciones. Tipos de contratos con empresas de servicio técnico. 
+Servicios de asistencia técnica.
+–
+– Repercusión del buen mantenimiento y uso de los productos sanitarios. Ciclo de 
+vida del equipamiento electromédico.
+–
+– Normativa vigente.
+4. Técnicas de comunicación:
+–
+– Comunicación. Objetivos. La comunicación generadora de comportamientos.
+–
+– Redes de comunicación. Canales.
+–
+– La comunicación no verbal.
+–
+– Actitudes y técnicas de la comunicación oral. Modelo de comunicación 
+interpersonal. Barreras y dificultades.
+–
+– Ventajas e inconvenientes de los distintos canales de comunicación. Métodos 
+para la emisión del mensaje, información o canalización a otras personas.
+–
+– La comprensión del mensaje y el grado de satisfacción.
+5. Riesgos en el entorno del paciente:
+–
+– Riesgos comunes en el entorno del paciente. Clasificación.
+–
+– Gestión de riesgos en productos sanitarios. El proceso de gestión de riesgo.
+–
+– Interferencias electromagnéticas en instituciones hospitalarias. Principales 
+fuentes de interferencia y artefactos.
+–
+– Residuos biosanitarios. Identificación y clasificación. Envasado y etiquetado. 
+Protocolos de emergencia sanitaria. Descripción de protocolos de urgencias y 
+emergencias más comunes.
+–
+– El personal clínico/asistencial del centro sanitario y el técnico de electromedicina 
+clínica.
+6. Caracterización de los elementos de creación de un sistema de información 
+sanitario (SIS):
+–
+– Tipos de sistemas de información.
+–
+– Características y proceso de la información.
+–
+– Componentes de un SIS. Requerimientos tecnológicos de un Sistema de 
+Información Hospitalaria. Subsistemas SIS.
+–
+– Los SIS en atención primaria y especializada. Datos clínicos y no clínicos.
+–
+– Estándares en la información sanitaria y digitalización de la imagen.
+–
+– Aplicación de nuevas tecnologías de la información y la comunicación en el 
+entorno sanitario.
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37794
+Viernes, 2 de octubre de 2020
+Orientaciones pedagógicas y metodológicas:
+Este módulo profesional contiene la formación necesaria para desempeñar las 
+funciones de caracterizar el entorno sanitario/asistencial y analizar y clasificar los productos 
+sanitarios activos no implantables (PSANI).
+La definición de estas funciones incluye aspectos como:
+–
+– El reconocimiento de los sistemas del organismo humano.
+–
+– La identificación de la organización de centros sanitarios tipo.
+–
+– La caracterización del servicio de electromedicina y empresas proveedoras de 
+servicios técnicos.
+–
+– La identificación de los principales riesgos del entorno del paciente.
+Las actividades profesionales asociadas a estas funciones se aplican en:
+–
+– La caracterización y mejor conocimiento del entorno de trabajo.
+–
+– La mejora de la comunicación con el personal sanitario y asistencial.
+–
+– La identificación de riesgos para los pacientes.
+–
+– El conocimiento del sistema de información sanitario.
+La formación del módulo contribuye a alcanzar los objetivos generales a), b), p), r), 
+u), y v) del ciclo formativo, y las competencias a), b), q), r), u), y v) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo versaran sobre:
+–
+– La identificación de las características fundamentales, funcionamiento, 
+localización y señales fisiológicas generadas por los principales sistemas del 
+organismo humano.
+–
+– La descripción de la organización de centros sanitarios tipo, relacionando los 
+principales servicios clínico/asistenciales y los productos sanitarios disponibles 
+en ellos.
+–
+– La caracterización del servicio de electromedicina clínica dentro de centros 
+sanitarios tipo, prestando especial atención a la repercusión de su gestión y 
+correcto funcionamiento.
+–
+– La comunicación efectiva con personal clínico/asistencial y técnico dentro del 
+centro sanitario.
+–
+– La identificación de los principales riesgos del entorno del paciente en un centro 
+sanitario.
+–
+– La descripción de las principales características y elementos de un sistema de 
+información sanitario.
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37795
+Viernes, 2 de octubre de 2020
+Módulo profesional: Planificación de la adquisición de sistemas de 
+electromedicina.
+Equivalencia en créditos ECTS: 10.
+Código: 1593. 
+Duración: 147 horas.
+Contenidos:
+1. Elaboración de un plan de renovación y adquisición de nuevos sistemas y equipos 
+de electromedicina:
+–
+– Ciclo de vida de equipamiento electromédico. Vida útil. Vida tecnológica. Vida del 
+equipo en mercadotecnia. Histórico de vida del equipamiento. 
+–
+– Nivel de urgencia en el reemplazamiento de equipamiento electromédico. 
+Obsolescencia de equipamiento electromédico. Obsolescencia programada. 
+Flujo de pacientes y carga asistencial de un centro sanitario. 
+–
+– Planes de renovación de equipamiento en base al establecimiento de prioridades. 
+Definición de variables a considerar. Evaluación en base a riesgos. 
+–
+– Políticas de renovación de equipamiento y planes de nueva adquisición a corto 
+y largo plazo.
+–
+– Optimización de los recursos sanitarios de alta y baja tecnología. 
+–
+– Herramientas para el análisis del parque de equipos. Optimización de recursos.
+2. Determinación de las características técnicas del nuevo equipamiento a adquirir:
+–
+– Evolución de la tecnología médica. Últimas tendencias. Congresos internacionales. 
+Estrategias para mejorar la asistencia clínica a través de la innovación tecnológica.
+–
+– Técnicas para estar actualizado en tecnología sanitaria, así́ como en la legislación 
+y reglamentación que afecta al entorno sanitario. Empresas consultoras. 
+Colaboración con fabricantes como partes tecnológicos. Sistemas de detección 
+temprana de tecnologías emergentes.
+–
+– Colaboración internacional para la evaluación de tecnologías sanitarias. Sociedad. 
+Internacional de Evaluación de Tecnologías Sanitarias (Thai). Red Internacional 
+de Agencias de Evaluación de Tecnologías Sanitarias (INAHTA). Red Europea de 
+Evaluación de Tecnologías Sanitarias (EUnetHTA).
+–
+– Comparación de tecnologías. Criterios tecnológicos. Criterios asistenciales. 
+Criterios de Eficiencia Sanitaria.
+–
+– Informes de especificaciones y datos técnicos. Evaluación Técnica.
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37796
+Viernes, 2 de octubre de 2020
+3. Replanteo de instalaciones de electromedicina:
+–
+– Técnicas de marcado y replanteo. Ejemplos tipo. 
+–
+– Tipos de cimentaciones, estructuras y bancadas de equipos. Bancadas de 
+sistemas y equipos de electromedicina. Verificación de las condiciones técnicas 
+de cimentaciones. 
+–
+– Elaboración de esquemas eléctricos, neumáticos e hidráulicos. Simbología. 
+Cableado. Herramientas informáticas. 
+–
+– Elaboración de croquis a mano alzada. Normas generales de croquizado. 
+–
+– Elaboración de documentación gráfica. Normas generales de representación. 
+Líneas normalizadas, Escalas. Manejo de programas de diseño asistido por 
+ordenador (CAD). 
+–
+– Replanteo de salas tipo de centros sanitarios. Quirófanos y cuidados críticos. 
+Salas con equipos de radiaciones ionizantes e imagen médica. Laboratorios y 
+hemodiálisis. Otras salas. 
+–
+– Medidas de P.R.L. y asistenciales en las obras en servicios.
+–
+– Planificación del traslado de los servicios asistenciales a ubicaciones temporales.
+4. Análisis de costes de las diferentes alternativas de adquisición:
+–
+– Costes de acondicionamiento de espacios. Unidades de obra. Mediciones. 
+Criterios para la valoración. 
+–
+– Costes de instalación. Costes de preinstalación de la infraestructura necesaria. 
+Costes de montaje y puesta en marcha. 
+–
+– Costes de mantenimiento y reparación. Costes de interrupción de equipamiento, 
+instalaciones o servicios. Costes de cerrar estancias típicas (quirófano, sala de 
+cuidados críticos, laboratorio, unidad de hemodiálisis, sala de radiología, entre 
+otros.) 
+–
+– Costes de informar al personal técnico y clínico. Costes directos e indirectos en 
+acciones informativas. 
+–
+– Amortización de instalaciones, sistemas y equipos electromédicos. 
+–
+– Cuadros de precios. Manejo de catálogos comerciales y bases de datos de 
+fabricantes y precios. 
+–
+– Valoraciones por partidas. Costes de mano de obra, materiales y recursos. 
+–
+– Programas informáticos para análisis de costes. 
+5. Determinación del equipamiento e identificación de la modalidad de adquisición:
+–
+– Aspectos a considerar en la compra de nuevo equipamiento. Calidad y seguridad. 
+Coste-efectividad. Facilidad de mantenimiento. Conformidad con normativa, 
+reglamentación y recomendaciones. 
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37797
+Viernes, 2 de octubre de 2020
+–
+– Modalidades de adquisición de equipamiento electromédico. Compra. Concurso 
+público, concurso negociado, alquiler. Cesión. Leasing. Equipos de demostración 
+e investigación. Ejemplos tipo de adquisición y tipos de contratos para diferentes 
+familias de equipamiento electromédico. Alta y baja tecnología. 
+–
+– Equipamiento de segunda mano. Ventajas e inconvenientes. Mercado 
+electromédico de segunda mano. Proveedores. Precauciones. 
+–
+– Contratación pública. Cuestiones prácticas. Centrales de compras. 
+–
+– Proveedores, gestión del marketing y análisis de ofertas. Aspectos a considerar. 
+Precauciones. 
+–
+– Documentación para la adquisición de equipamiento electromédico. Pliegos de 
+condiciones. Tipos. Partes. Redacción. Precauciones. 
+–
+– Gestión del proceso de compra. Procedimientos de compra. Aspectos a revisar. 
+Responsables del proceso. 
+6. Elaboración de un plan de inventario y su actualización:
+–
+– Inventario. Definición. Tipos. 
+–
+– Información a incluir en el inventario. Establecimiento de códigos y números de 
+inventario. Etiquetado. 
+–
+– Equipos a introducir en el inventario. Trato específico de equipos de demostración 
+o cesión temporal. 
+–
+– Procedimientos de actualización de un inventario. Altas y bajas. Revisión anual. 
+–
+– Herramientas informáticas para la gestión y mantenimiento de inventarios. 
+–
+– El inventario como herramienta. Previsión y elaboración de presupuestos. 
+Planificación y equipamiento de un taller técnico. Determinación de personal. 
+Planificación de pedidos de fungibles y repuestos. Fomento de la estandarización 
+de los equipos. Gestión de equipamiento perdido (o no disponible) dentro del 
+centro sanitario. 
+7. Planificación de acciones informativas destinadas a personal clínico y técnico:
+–
+– Actividades informativas en el entorno laboral. Criterios de selección. Tipología. 
+–
+– Identificación de necesidades en personal clínico. Clasificación según perfil: 
+facultativos, personal de enfermería, técnicos especialistas. 
+–
+– Identificación de necesidades en personal técnico. Acreditaciones. 
+–
+– Programación de acciones informativas. Necesidades y objetivos. Coordinación 
+con proveedores y usuarios. Contenido y planificación, turnos. Formación teórica 
+y práctica. El proceso de aprendizaje con personas adultas.
+–
+– Comprobación de resultados. Selección de indicadores. Recogida de indicadores. 
+Estrategias y secuencia de recogida. Técnica e instrumentos. Pautas de diseño.
+–
+– Gestión de la transferencia del conocimiento en nuevos recursos. Cursos de 
+actualización y optimización de técnicas.
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37798
+Viernes, 2 de octubre de 2020
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar la función 
+de planificar la renovación y adquisición de nuevas instalaciones, sistemas y equipos de 
+electromedicina clínica.
+La definición de estas funciones incluye aspectos como:
+–
+– La elaboración de informes sobre el estado del equipamiento existente.
+–
+– La actualización en las últimas tendencias en tecnología sanitaria.
+–
+– El replanteo de instalaciones y sistemas.
+–
+– El establecimiento de un sistema de inventario.
+Las actividades profesionales asociadas a esta función se aplican en:
+–
+– La adquisición de nuevo equipamiento.
+–
+– La actualización del inventario.
+–
+– La planificación de acciones formativas sobre el equipamiento adquirido.
+La formación del módulo contribuye a alcanzar los objetivos generales a), b) c), d), 
+o) y q) del ciclo formativo, y las competencias a), b), c), d), p) y r) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+–
+– El estudio de la obsolescencia y estado del parque tecnológico de un centro 
+sanitario.
+–
+– La elaboración de planes de renovación y adquisición de nuevos sistemas y 
+equipos de electromedicina.
+–
+– El análisis de características técnicas, compatibilidad y conectividad de 
+equipamiento electromédico.
+–
+– El replanteo de instalaciones y sistemas de electromedicina tipo.
+–
+– El estudio de costes en el equipamiento electromédico.
+–
+– La selección de equipamiento electromédico en base a la valoración de aspectos 
+como características técnicas, compatibilidad, conectividad y costes.
+–
+– La caracterización de las modalidades de adquisición típicas para equipamiento 
+electromédico de diferentes familias. 
+–
+– El conocimiento profundo y la redacción de pliegos de condiciones. 
+–
+– La elaboración de planes de inventario así como de los mecanismos más 
+habituales para su actualización. 
+–
+– La planificación de acciones formativas orientadas a personal técnico y clínico.
+–
+– Medida de parámetros de calidad en los planes de renovación y adquisición de 
+nuevos sistemas y equipos de electromedicina.
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37799
+Viernes, 2 de octubre de 2020
+Módulo profesional: Gestión del montaje y mantenimiento de sistemas de 
+electromedicina. 
+Equivalencia en créditos ECTS: 9.
+Código: 1594. 
+Duración: 147 horas.
+Contenidos:
+1. Planificación del montaje y puesta en marcha: 
+–
+– Programas de montaje. Especificación y secuenciación de las operaciones. 
+Cargas de trabajo. Recursos materiales y humanos. Especificaciones técnicas 
+del montaje. 
+–
+– Técnicas de planificación y programación: Gantt, ADM y PDM. Estimación 
+de la duración de las tareas y definición de hitos. Obtención de la ruta crítica. 
+Asignación de recursos a tareas. Control y seguimiento del montaje. Aplicaciones 
+informáticas.
+–
+– Documentación técnica de referencia. Manual de servicio. Despieces, planos o 
+esquemas, identificación de componentes, configuración técnica, etc. Normativa 
+vigente.
+–
+– Normas de utilización de los equipos, material e instalaciones. Aplicación de la 
+normativa y reglamentación vigente.
+–
+– Protocolos de puesta en marcha. Ensayos y comprobaciones. Pruebas de 
+aceptación técnica. Precisión en las medidas.
+–
+– Seguridad Eléctrica. Normativa vigente aplicable.
+2. Elaboración de programas de mantenimiento: 
+–
+– Tipos de mantenimiento. Teoría y objetivos. Mantenimiento preventivo. 
+Mantenimiento correctivo. Mantenimiento predictivo. Mantenimiento técnico-
+legal. Mantenimiento evolutivo. Mantenimiento integral.
+–
+– Mantenimiento preventivo en electromedicina. Elementos y subsistemas que 
+requieren mantenimiento preventivo en instalaciones, sistemas y equipos tipo. 
+Cálculo de la periodicidad del preventivo en base a riesgos. Herramientas 
+necesarias para realizar el mantenimiento en instalaciones y sistemas de 
+electromedicina.
+–
+– Planificación del mantenimiento preventivo. Asignación de recursos materiales 
+y humanos. Programación de fechas para tareas de mantenimiento. Aplicación 
+de la normativa y reglamentación vigente, así como de las recomendaciones del 
+fabricante.
+–
+– Efectividad de un programa de mantenimiento preventivo. Medición de resultados. 
+Plan de mejoras.
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37800
+Viernes, 2 de octubre de 2020
+–
+– Ejecución del mantenimiento correctivo. Protocolos de intervención para 
+reparación de averías. Factores influyentes. Inspección y vuelta al servicio. 
+Préstamo de equipos en caso de avería.
+–
+– Gestión de mantenimiento asistido por ordenador (GMAO). Software informático 
+de planificación. Programación y control de mantenimiento.
+3. Elaboración del programa de aprovisionamiento y catálogo de repuestos:
+–
+– Gestión del aprovisionamiento. Función. Objetivos. Estrategias. Requerimientos. 
+Plan de suministro. Protocolo de recepción y de cumplimiento de la normativa de 
+seguridad de los materiales suministrados.
+–
+– Proceso de compras. Ciclo de compras. Especificaciones. Debilidades.
+–
+– Proveedores. Homologación. Clasificación. Tramitación de compras. Trazabilidad. 
+Plazos de entrega y calidad en el suministro. Compatibilidad de productos de 
+distintos proveedores.
+–
+– Sistemas de organización del almacén. Control de existencias y de preparación 
+de pedidos. Gestión de herramientas, instrumentos y utillaje. Condiciones de 
+almacenamiento de material específico. Codificación de repuestos. Inventariado. 
+Tecnología RFID para la gestión de almacenes.
+–
+– Duplicidad de equipos en función de la actividad clínico-asistencial. Actividades 
+de riesgo. Criterios. Condiciones de almacenaje de los equipos.
+–
+– Programas informáticos de aprovisionamiento y almacenamiento. Métodos FIFO, 
+LIFO y PMP.
+4. Planificación y gestión del tratamiento de residuos: 
+–
+– Residuos generados en instalaciones y sistemas de electromedicina. Tipos de 
+residuos.
+–
+– Normativa medioambiental de gestión de residuos. Trámites administrativos. 
+Emisión de contaminantes a la atmósfera. Prohibición de vertido de residuos a la 
+red de saneamiento o al suelo.
+–
+– Clasificación y almacenamiento de residuos según características de peligrosidad. 
+Envasado. Etiquetado. Manipulación.
+–
+– Tratamiento y recogida de residuos. Procedimientos de trazabilidad. Empresas 
+de recogida. Autorizaciones y certificaciones.
+–
+– Plan de gestión de residuos. Partes y elementos del plan de gestión de residuos.
+–
+– Zonas de almacenaje temporal. Características. Condiciones. Precauciones. 
+Limitaciones.
+–
+– Reutilización de componentes y accesorios en condiciones de seguridad y 
+calidad.
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37801
+Viernes, 2 de octubre de 2020
+5. Definición del plan de supervisión del montaje, puesta en marcha y mantenimiento:
+–
+– Certificación periódica de equipos de simulación, analizadores y comprobadores. 
+Normativa vigente relativa a calidad en laboratorios de certificación y ensayo.
+–
+– Normativa de prevención de riesgos laborales. Requisitos, características y 
+criterios de utilización de equipos de protección individual y colectiva.
+–
+– Protocolos para la notificación de contingencias. 
+–
+– Cuarentena en obras e instalaciones de electromedicina. Precauciones. 
+–
+– Técnicas de supervisión, control y trato con personal técnico y clínico. Tipos de 
+supervisión. Niveles de aplicación. Modelos de supervisión. Documentación y 
+registro. Perfil del supervisor.
+6. Elaboración y archivo de documentación::
+–
+– Documentación en electromedicina. Modelos propuestos por fabricantes. 
+Normativa vigente. Especificidades de cada familia de equipamiento.
+–
+– Modelos tipo. Listas de chequeo. Actas de recepción. Informes de mantenimiento. 
+Partes de correctivo. Otros.
+–
+– Archivo de documentos. Clasificación y ordenación de documentos. Captación, 
+elaboración de datos y su custodia. La destrucción de documentación. 
+–
+– Confidencialidad de la información y documentación.
+7. Información de personal clínico y técnico:
+–
+– Plan de formación. Tipos de formación. Evaluación de resultados y seguimiento. 
+Formación por parte de empresas fabricantes o suministradoras de equipamiento.
+–
+– Elaboración de material didáctico. Medios y soportes (impresos y audiovisuales). 
+Recursos Informáticos.
+–
+– Material didáctico en electromedicina. Instrucciones de seguridad. Uso básico 
+de equipamiento. Esterilización. Tipos y ejemplos. Instrucciones de seguridad. 
+Uso básico de equipamiento. Cambio de desechables y fungible. Esterilización. 
+Posición típica de controles y botones. Reparaciones de averías. 
+–
+– Actividades formativas en el entorno laboral. Motivación. Procedimientos de 
+enseñanza-aprendizaje. 
+–
+– Procedimientos de transmisión de información a personal clínico. Imagen 
+personal. Atención personalizada.
+8. Aplicación de técnicas de control de calidad:
+–
+– Definición de calidad. Normativa básica de calidad. Reconocimiento de calidad. 
+Homologación y certificación. Responsable de calidad.
+–
+– Control dimensional y estadístico del proceso. Técnicas metrológicas. Control de 
+calibración de equipos y elementos de medición.
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37802
+Viernes, 2 de octubre de 2020
+–
+– Aplicación de la calidad en compras, montaje y mantenimiento. Sistemas de 
+aseguramiento de calidad. Herramientas para el aseguramiento y gestión de la 
+calidad.
+–
+– Procesos de mejora continua. Registro de datos en los documentos de calidad. 
+Auditorías internas. Planes de mejora.
+–
+– Análisis de las principales normas de aseguramiento de la gestión de la calidad. 
+Manual de calidad y de procesos. Normas ISO 9001. Norma ISO 13485.
+–
+– Aplicación de las TIC en el control de calidad. Programas informáticos en la 
+planificación de la gestión de calidad. 
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar las 
+funciones de programar, gestionar y supervisar el montaje y mantenimiento de instalaciones, 
+sistemas y equipos de electromedicina clínica.
+La definición de estas funciones incluye aspectos como:
+–
+– La elaboración de planes de montaje, puesta en marcha y mantenimiento.
+–
+– La gestión del aprovisionamiento, así como de residuos.
+–
+– La elaboración y archivo de documentación.
+–
+– El control de la calidad y la seguridad.
+Las actividades profesionales asociadas a estas funciones se aplican en:
+–
+– El control del nivel de repuestos y fungibles en el almacén.
+–
+– La gestión y organización del montaje, puesta en marcha y mantenimiento de 
+instalaciones, sistemas y equipos.
+–
+– El tratamiento de residuos.
+La formación del módulo contribuye a alcanzar los objetivos generales e), f), g), h), i) 
+y o) del ciclo formativo, y las competencias e), f), g), h), i) y o) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo versarán sobre:
+–
+– La elaboración de planes de montaje y mantenimiento de instalaciones, sistemas 
+y equipos, utilizando como recurso los diagramas de programación y control.
+–
+– La elaboración de programas de aprovisionamiento para sistemas y equipos 
+electromédicos.
+–
+– La planificación del tratamiento y almacenamiento de residuos generados en el 
+montaje y mantenimiento de equipamiento electromédico.
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37803
+Viernes, 2 de octubre de 2020
+–
+– La supervisión del montaje, puesta en marcha y mantenimiento de instalaciones, 
+sistemas o equipos.
+–
+– El diseño de documentación asociada a los procesos de montaje, puesta en 
+marcha y mantenimiento de equipamiento electromédico.
+–
+– El archivo de documentación generada durante el montaje, puesta en marcha y 
+mantenimiento de equipamiento electromédico.
+–
+– La transmisión de información básica sobre el uso y mantenimiento de 
+equipamiento electromédico a personal clínico y técnico.
+–
+– El control de la calidad en la realización de todos los procesos.
+Módulo profesional: Proyecto de electromedicina clínica.
+Equivalencia en créditos ECTS: 5.
+Código: 1595.
+Duración: 30 horas.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional complementa la formación establecida para el resto de los 
+módulos profesionales que integran el título en las funciones de análisis del contexto, 
+diseño del proyecto y organización de la ejecución.
+La función de análisis del contexto incluye las subfunciones de recopilación de 
+información, identificación y estudio de viabilidad.
+La función de diseño del proyecto tiene como objetivo establecer las líneas generales 
+para dar respuesta a las necesidades planteadas, concretando los aspectos relevantes 
+para su realización. Incluye las subfunciones de definición del proyecto, planificación de la 
+intervención y elaboración de la documentación.
+La función de organización de la ejecución incluye las subfunciones de programación 
+de actividades, gestión de recursos y supervisión de la intervención.
+Las actividades profesionales asociadas a estas funciones se desarrollan en el 
+sector público o privado, en cualquier empresa que tenga como objeto la elaboración o 
+investigación en electromedicina clínica. 
+La formación del módulo profesional se relaciona con la totalidad de los objetivos 
+generales del ciclo y de las competencias profesionales, personales y sociales del título.
+Las líneas de actuación en el proceso de enseñanza­aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional están relacionadas con:
+–
+– La ejecución de trabajos en equipo.
+–
+– La responsabilidad y la autoevaluación del trabajo realizado.
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37804
+Viernes, 2 de octubre de 2020
+–
+– La autonomía y la iniciativa personal.
+–
+– El uso de las tecnologías de la información y de la comunicación.
+La metodología aplicada en este módulo profesional debe favorecer experiencias de 
+aprendizaje fundamentadas en el conocimiento de:
+–
+– Técnicas de análisis, investigación, búsqueda y recopilación de información.
+–
+– Búsqueda de recursos bibliográficos.
+–
+– Planificación, diseño, viabilidad y oportunidad, conclusiones y aportaciones 
+personales, manejo de normativa aplicable, desarrollo del proyecto.
+También será necesaria la utilización de software específico, como procesadores de 
+texto, hojas de cálculo, programas de gestión asistido por ordenador, programas de cálculo 
+específicos y otros en la redacción del documento final, realizando su implementación en 
+el módulo profesional, para la consecución de los objetivos específicos relacionados con 
+el tipo de proyecto que desarrolle el alumnado. 
+Los trabajos a realizar sobre soporte informático se llevarán a cabo, de forma 
+individual. El alumnado deberá ser capaz de trabajar con autonomía y creatividad bajo los 
+parámetros de la calidad exigida, siempre bajo la orientación del profesor-tutor. 
+Las características del módulo profesional son conducentes a aplicar una 
+metodología interdisciplinar que favorezca el carácter global del aprendizaje en los tipos 
+de proyecto que así lo requieran; o bien que desarrolle metodologías que favorezcan la 
+investigación, la innovación o el desarrollo de algún aspecto concreto relacionado con las 
+variables tecnológicas y organizativas relacionadas con los proyectos en el sector de la 
+electromedicina clínica, ya sea desde el punto de vista técnico o de gestión.
+Se propone que las tecnologías de la información y la comunicación, sean un 
+instrumento habitual, tanto por parte del profesor-tutor como por parte del alumnado, de 
+forma que éste adopte actitudes activas respecto de su propio aprendizaje mediante la 
+búsqueda bibliográfica y consulta en páginas web de toda la información necesaria para el 
+desarrollo del proyecto y como herramienta para facilitar la acción tutorial.
+El proyecto será realizado por el alumnado, de forma individual, preferentemente 
+durante el tercer trimestre del segundo curso. El alumnado será tutorizado por un profesor, 
+que imparta docencia en el ciclo formativo, de la especialidad de «Sistemas Electrotécnicos 
+y automáticos» o de «Equipos Electrónicos» de acuerdo con lo establecido en el 
+Anexo III A) del Real Decreto 838/2015, de 21 de septiembre. No obstante, dado que 
+los resultados de aprendizaje y criterios de evaluación de este módulo profesional 
+complementan los del resto de los módulos profesionales del ciclo y tiene un carácter 
+integrador de los mismos, sería conveniente la colaboración de todos los profesores con 
+atribución docente en el ciclo formativo. 
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37805
+Viernes, 2 de octubre de 2020
+Módulo profesional: Empresa e iniciativa emprendedora.
+Equivalencia en créditos ECTS: 4.
+Código: 1596.
+Duración: 63 horas.
+Contenidos:
+1. Iniciativa emprendedora:
+–
+– Innovación y desarrollo económico. Principales características de la innovación en 
+electromedicina clínica (materiales, tecnología y organización de la producción, 
+entre otros).
+–
+– El trabajo por cuenta propia como fuente de creación de empleo y bienestar 
+social.
+–
+– La cultura emprendedora. Factores claves de las personas emprendedoras: 
+iniciativa, creatividad y formación.
+–
+– Desarrollo del espíritu emprendedor a través del fomento de las actitudes de 
+creatividad, iniciativa, autonomía y responsabilidad.
+–
+– La actuación de las personas emprendedoras como empleadas de una pyme 
+relacionada con la electromedicina clínica.
+–
+– La actuación de las personas emprendedoras como empresarias en el sector de 
+la electromedicina clínica. 
+–
+– Análisis de las oportunidades de negocio en el sector de la electromedicina 
+clínica.
+–
+– El empresariado. Requisitos para el ejercicio de la actividad empresarial. 
+Aptitudes y actitudes.
+–
+– Plan de empresa: la idea de negocio en el ámbito de la electromedicina clínica.
+–
+– Búsqueda de ideas de negocio. Análisis y viabilidad de las mismas.
+2. La empresa y su entorno:
+–
+– Concepto de empresa.
+–
+– Estructura organizativa de la empresa. Organigrama.
+–
+– Funciones básicas de la empresa: comercial, técnica, social, financiera y 
+administrativa.
+–
+– La empresa como sistema.
+–
+– Análisis del entorno general y específico de una pyme relacionada con la 
+electromedicina clínica. 
+–
+– Relaciones con clientes, proveedores y competidores.
+–
+– Análisis DAFO.
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37806
+Viernes, 2 de octubre de 2020
+–
+– Relaciones de una pyme de electromedicina clínica con su entorno.
+–
+– Relaciones de una pyme en el ámbito de la electromedicina clínica con el conjunto 
+de la sociedad. 
+–
+– La responsabilidad social de la empresa, planes de igualdad, acciones de igualdad 
+y mejora continua. Comunicación y publicidad no sexista. La ética empresarial en 
+empresas del sector.
+–
+– El estudio de mercado. Variables del marketing mix: precio, producto, comunicación 
+y distribución.
+–
+– El balance social: los costes y los beneficios sociales. 
+–
+– Cultura empresarial e imagen corporativa. 
+3. Creación y puesta en marcha de una empresa:
+–
+– Tipos de empresa.
+–
+– Elección de la forma jurídica. Ventajas e inconvenientes de las distintas formas 
+jurídicas con especial atención a la responsabilidad legal.
+–
+– La franquicia como forma de empresa.
+–
+– La fiscalidad en las empresas.
+–
+– Trámites administrativos para la constitución y puesta en marcha de una empresa. 
+Relación con organismos oficiales.
+–
+– Vías externas de asesoramiento y gestión. La ventanilla única empresarial.
+–
+– Pan de inversiones y gastos.
+–
+– Las fuentes de financiación. El plan financiero.
+–
+– Subvenciones y ayudas destinadas a la creación de empresas relacionadas con 
+la electromedicina clínica.
+–
+– Viabilidad económica y viabilidad financiera de una pyme relacionada con la 
+electromedicina clínica.
+–
+– Plan de empresa: la idea de negocio en el sector de la electromedicina clínica. 
+Elección de la forma jurídica, estudio de viabilidad económica y financiera, 
+trámites administrativos y gestión de ayudas y subvenciones.
+4. Función administrativa:
+–
+– Concepto de contabilidad y nociones básicas.
+–
+– Cuentas anuales obligatorias.
+–
+– Análisis de la información contable.
+–
+– Ratios. Cálculo de coste, beneficio y umbral de rentabilidad.
+–
+– Obligaciones fiscales de las empresas. Principales impuestos aplicables a las 
+empresas del sector.
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37807
+Viernes, 2 de octubre de 2020
+–
+– Gestión administrativa de una empresa de electromedicina clínica. Documentos 
+básicos utilizados en la actividad económica de la empresa: nota de pedido, 
+albarán, factura, letra de cambio, cheque y otros.
+–
+– Gestión de aprovisionamiento. Valoración de existencias. Volumen óptimo de 
+pedido.
+–
+– Elaboración de un plan de empresa.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desarrollar la propia 
+iniciativa en el ámbito empresarial, tanto hacia el autoempleo como hacia la asunción de 
+responsabilidades y funciones en el empleo por cuenta ajena.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+w), x), y), y z) del ciclo formativo, y las competencias w), x),e y) del título.
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar 
+los objetivos del módulo profesional versarán sobre:
+–
+– El manejo de las fuentes de información sobre el sector de la electromedicina 
+clínica, incluyendo el análisis de los procesos de innovación sectorial en marcha.
+–
+– La realización de casos y dinámicas de grupo que permitan comprender y valorar 
+las actitudes de las personas emprendedoras y ajustar la necesidad de las mismas 
+al sector de los servicios relacionados con los procesos de electromedicina 
+clínica.
+–
+– La utilización de programas de gestión administrativa para pymes del sector.
+–
+– La realización de un proyecto de plan de empresa relacionada con el sector de 
+la electromedicina clínica, que incluya todas las facetas de puesta en marcha de 
+un negocio: viabilidad, organización de la producción y los recursos humanos, 
+acción comercial, control administrativo y financiero, así como justificación de su 
+responsabilidad social.
+–
+– Utilización de la herramienta «Aprende a Emprender».
+Módulo profesional: Formación y orientación laboral.
+Equivalencia en créditos ECTS: 5.
+Código: 1597.
+Duración: 96 horas.
+Contenidos:
+BLOQUE A: Formación, legislación y relaciones laborales. 
+Duración: 46 horas.
+1. Búsqueda activa de empleo:
+–
+– Valoración de la importancia de la formación permanente para la trayectoria 
+laboral y profesional del Técnico Superior en Electromedicina Clínica. 
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37808
+Viernes, 2 de octubre de 2020
+–
+– Análisis de los intereses, aptitudes y motivaciones personales para la carrera 
+profesional.
+–
+– Identificación de los itinerarios formativos relacionados con el Técnico Superior 
+en Electromedicina Clínica. 
+–
+– Definición y análisis del sector profesional del título de Técnico Superior en 
+Electromedicina Clínica. Yacimientos de empleo.
+–
+– Proceso de búsqueda de empleo en pequeñas, medianas y grandes empresas 
+del sector.
+–
+– Oportunidades de aprendizaje y empleo en Europa. Programas europeos.
+–
+– Valoración de la empleabilidad y adaptación como factores clave para responder 
+a las exigencias del mercado laboral.
+–
+– Técnicas e instrumentos de búsqueda de empleo. Fuentes de información. El 
+proceso de selección.
+–
+– Oportunidades de autoempleo.
+–
+– El proceso de toma de decisiones.
+–
+– Normativa laboral sobre igualdad de oportunidades entre mujeres y hombres en 
+el acceso al empleo.
+2. Gestión del conflicto y equipos de trabajo:
+–
+– Valoración de las ventajas e inconvenientes del trabajo en equipo para la eficacia 
+de la organización.
+–
+– Concepto y tipos de equipos de trabajo. Formación y funcionamiento de equipos 
+eficaces.
+–
+– Equipos en el sector de la electromedicina clínica según las funciones que 
+desempeñan.
+–
+– La participación en el equipo de trabajo. Los roles grupales. Barreras a la 
+participación en el equipo.
+–
+– Técnicas de participación y dinámicas de grupo.
+–
+– Conflicto: características, fuentes y etapas. 
+–
+– Métodos para la resolución o supresión del conflicto: mediación, conciliación y 
+arbitraje.
+–
+– La comunicación en la empresa. Lenguaje inclusivo escrito y verbal. El lenguaje 
+asertivo. La toma de decisiones y la negociación como habilidades sociales para 
+el trabajo en equipo.
+–
+– El mobbing. Detección, métodos para su prevención y erradicación.
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37809
+Viernes, 2 de octubre de 2020
+3. Contrato de trabajo:
+–
+– La organización política del Estado Español. Organismos laborales existentes en 
+España.
+–
+– El derecho del trabajo. Normas fundamentales.
+–
+– Órganos de la administración y jurisdicción laboral.
+–
+– Análisis de la relación laboral individual.
+–
+– Modalidades del contrato de trabajo y medidas de fomento de la contratación.
+–
+– Derechos y deberes derivados de la relación laboral. El tiempo de trabajo. Análisis 
+del recibo de salarios. Liquidación de haberes.
+–
+– Modificación, suspensión y extinción del contrato de trabajo.
+–
+– Valoración de las medidas para la conciliación familiar y profesional.
+–
+– Representación de los trabajadores y de las trabajadoras en la empresa.
+–
+– Negociación colectiva como medio para la conciliación de los intereses de 
+trabajadores y empresarios.
+–
+– Medidas de conflicto colectivo. Procedimientos de solución.
+–
+– Análisis de un convenio colectivo aplicable al ámbito profesional del Técnico 
+Superior en Electromedicina Clínica.
+–
+– Beneficios para las trabajadoras y trabajadores en las nuevas organizaciones: 
+flexibilidad, beneficios sociales, entre otros.
+4. Seguridad Social, empleo y desempleo:
+–
+– La Seguridad Social como pilar del Estado Social de Derecho.
+–
+– Estructura del Sistema de la Seguridad Social. Regímenes.
+–
+– Determinación de las principales obligaciones del empresariado y su personal 
+en materia de Seguridad Social: afiliación, altas, bajas y cotización. Cálculo 
+de bases de cotización a la Seguridad Social y determinación de cuotas en un 
+supuesto sencillo.
+–
+– La acción protectora de la Seguridad Social. Prestaciones de la Seguridad 
+Social. Situaciones protegibles en la prestación por desempleo. Cálculo de una 
+prestación por desempleo de nivel contributivo básico.
+BLOQUE B: Prevención de riesgos laborales.
+Duración: 50 horas.
+5. Evaluación de riesgos profesionales:
+–
+– Importancia de la cultura preventiva en todas las fases de la actividad. 
+Sensibilización, a través de las estadísticas de siniestralidad nacional y en Castilla 
+y León, de la necesidad de hábitos y actuaciones seguras.
+–
+– Valoración de la relación entre trabajo y salud.
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37810
+Viernes, 2 de octubre de 2020
+–
+– El riesgo profesional. Mapa de riesgos. Análisis de factores de riesgo.
+–
+– La evaluación de riesgos en la empresa como elemento básico de la actividad 
+preventiva.
+–
+– Análisis de riesgos ligados a las condiciones de seguridad.
+–
+– Análisis de riesgos ligados a las condiciones ambientales. Agentes físicos, 
+químicos y biológicos.
+–
+– Análisis de riesgos ligados a las condiciones ergonómicas y psicosociales.
+–
+– Riesgos específicos en el sector de la electromedicina clínica.
+–
+– Técnicas de evaluación de riesgos.
+–
+– Condiciones de trabajo y seguridad.
+–
+– Determinación de los posibles daños a la salud del trabajador o trabajadora que 
+pueden derivarse de las situaciones de riesgo detectadas.
+–
+– Los accidentes de trabajo, las enfermedades profesionales y otras patologías.
+6. Planificación de la prevención de riesgos en la empresa. Prevención integrada:
+–
+– Marco jurídico en materia de prevención de riesgos laborales.
+–
+– Derechos y deberes en materia de prevención de riesgos laborales. 
+Responsabilidades legales.
+–
+– Gestión de la prevención en la empresa. Documentación.
+–
+– Organismos públicos relacionados con la prevención de riesgos laborales.
+–
+– Planificación de la prevención en la empresa. Secuenciación de actuaciones.
+–
+– Definición del contenido del Plan de Prevención de un centro de trabajo 
+relacionado con el sector profesional.
+–
+– Planes de emergencia y de evacuación en entornos de trabajo.
+–
+– Elaboración de un plan de emergencia en una empresa del sector.
+7. Aplicación de medidas de prevención y protección en la empresa:
+–
+– Técnicas de lucha contra los daños profesionales. Seguridad en el trabajo. 
+Higiene industrial y otros.
+–
+– Determinación de las medidas de prevención y protección individual y colectiva.
+–
+– Señalización de seguridad.
+–
+– Protocolo de actuación ante una situación de emergencia.
+–
+– Primeros auxilios. Conceptos básicos. Aplicación de técnicas de primeros auxilios.
+–
+– Vigilancia de la salud de las personas trabajadoras y especificidades de la salud 
+laboral de las trabajadoras.
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37811
+Viernes, 2 de octubre de 2020
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para que el alumno pueda 
+insertarse laboralmente y desarrollar su carrera profesional en el sector.
+La formación de este módulo contribuye a alcanzar los objetivos generales q), r), 
+s), t), u), v), w), x), y) y z) del ciclo formativo, y las competencias r), s), t), u), v), w) e y) 
+del título. 
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+–
+– El manejo de las fuentes de información sobre el sistema educativo y laboral, en 
+especial en lo referente a las empresas del sector.
+–
+– La realización de pruebas de orientación y dinámicas sobre la propia personalidad 
+y el desarrollo de las habilidades sociales.
+–
+– La preparación y realización de modelos de currículum vitae (CV) y entrevistas 
+de trabajo.
+–
+– La identificación de la normativa laboral que afecta a las trabajadoras y 
+trabajadores del sector, manejo de los contratos más comúnmente utilizados y 
+lectura comprensiva de los convenios colectivos de aplicación.
+–
+– La resolución de supuestos prácticos sencillos sobre materias de índole laboral 
+y de Seguridad Social.
+–
+– La cumplimentación de recibos de salario de diferentes características y otros 
+documentos relacionados.
+–
+– El análisis de la Ley de Prevención de Riesgos Laborales que le permita la 
+evaluación de los riesgos derivados de las actividades desarrolladas en su 
+sector productivo, y colaborar en la definición de un plan de prevención para una 
+pequeña empresa, así como en la elaboración de las medidas necesarias para 
+su puesta en funcionamiento.
+En este módulo, especialmente en el bloque B «Prevención de Riesgos Laborales», 
+se tratan contenidos que están relacionados con otros módulos profesionales, por lo 
+que sería recomendable la realización coordinada de las programaciones didácticas en 
+dichas materias. Es aconsejable que el profesorado que imparte el módulo profesional 
+«1597. Formación y orientación laboral» se centre en los aspectos puramente legales, 
+mientras que el profesorado de la Familia Profesional enfoque desde un punto de vista 
+técnico los riesgos específicos del sector y las medidas de prevención y protección de los 
+mismos, de cara a la elaboración de planes de prevención de riesgos laborales.
+Módulo profesional: Formación en centros de trabajo.
+Equivalencia en créditos ECTS: 22.
+Código: 1598.
+Duración: 380 horas.
+Este módulo profesional contribuye a completar las competencias de este título y los 
+objetivos generales del ciclo, tanto aquellos que se han alcanzado en el centro educativo, 
+como los que son difíciles de conseguir en el mismo.
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37812
+Viernes, 2 de octubre de 2020
+Módulo profesional: Inglés para electromedicina clínica. 
+Código: CL25.
+Resultados de aprendizaje y criterios de evaluación:
+1. Se comunica oralmente con un interlocutor en lengua extranjera interpretando 
+y transmitiendo la información necesaria para establecer los términos que delimiten una 
+relación profesional dentro del sector de la electromedicina clínica. 
+Criterios de evaluación: 
+a)	Se ha pedido información telefónica sobre un aspecto puntual de una actividad 
+propia del sector, aplicando las fórmulas establecidas y utilizando el léxico 
+adecuado.
+b)	Se ha dado la información requerida a través del teléfono, escogiendo las fórmulas 
+y léxico necesarios para expresarla con la mayor precisión y concreción.
+c)	 Se han identificado los datos claves para descifrar un mensaje grabado relacionado 
+con una actividad profesional habitual del sector de la electromedicina clínica.
+d)	Se ha pedido información, en una comunicación cara a cara, sobre un aspecto 
+puntual de una actividad propia del sector definiendo de entre las fórmulas 
+preestablecidas las más adecuadas.
+e)	Se ha proporcionado información sobre un aspecto puntual de una actividad 
+propia del sector definiendo de entre las fórmulas preestablecidas las más 
+adecuadas.
+f)	 Se ha interpretado la información recibida en una reunión de trabajo.
+g)	Se ha transmitido dicha información seleccionando el registro adecuado.
+2. Interpreta información escrita en lengua extranjera en el ámbito económico, 
+jurídico y financiero propio del sector, analizando los datos fundamentales para llevar a 
+cabo las acciones oportunas. 
+Criterios de evaluación: 
+a)	Se han buscado datos claves en un texto informativo en lengua extranjera sobre 
+el sector de la electromedicina clínica.
+b)	Se han clasificado los datos de dicho texto según su importancia dentro del sector.
+c)	 Se ha sintetizado el texto.
+d)	Se ha traducido con exactitud cualquier escrito referente al sector profesional.
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37813
+Viernes, 2 de octubre de 2020
+3. Redacta y/o cumplimenta documentos e informes propios del sector en lengua 
+extranjera con corrección, precisión, coherencia y cohesión, solicitando y/o facilitando una 
+información de tipo general o detallada.
+Criterios de evaluación: 
+a)	Se han cumplimentado documentos comerciales y de gestión específicos del 
+sector.
+b)	Se ha elaborado un informe claro, conciso y preciso según su finalidad y/o 
+destinatario, utilizando estructuras y nexos preestablecidos, basándose en datos 
+recibidos en distintos contextos (conferencia, documentos, seminario, reunión).
+4. Analiza las normas de protocolo del país del idioma extranjero, con el fin de dar 
+una adecuada imagen en las relaciones profesionales establecidas con dicho país.
+Criterios de evaluación: 
+a)	Se ha presentado a sí mismo ante una supuesta visita a una empresa extranjera.
+b)	Ha informado y se ha informado utilizando el lenguaje con corrección y propiedad, 
+y observando las normas de comportamiento que requiera el caso, de acuerdo 
+con el protocolo profesional establecido en el país.
+c)	 Se comunica con clientes en el idioma correspondiente para transmitir indicaciones 
+y dirigir actividades.
+Duración: 42 horas.
+Contenidos:
+1. Comprensión y producción de mensajes orales: 
+–
+– Conversaciones telefónicas o a través de video-conferencia.
+–
+– Empleo de las destrezas y técnicas básicas para desenvolverse en situaciones 
+de carácter comercial y técnico en el sector de la electromedicina clínica. 
+–
+– Participación en conversaciones telefónicas dentro de un contexto de negocios. 
+–
+– Vocabulario necesario para mantener una conversación en el ámbito comercial. 
+2. Interpretación de mensajes escritos: 
+–
+– Análisis de los elementos morfosintácticos que aparecen en los documentos y 
+textos empleados como elementos de trabajo.
+–
+– Terminología específica de la fabricación en el sector de la electromedicina 
+clínica.
+–
+– Fórmulas y frases hechas utilizadas en la comunicación escrita.
+–
+– Comprensión e interpretación de planos, esquemas y normas técnicas.
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37814
+Viernes, 2 de octubre de 2020
+3. Emisión de textos escritos: 
+–
+– Redacción de todo tipo de correspondencia comercial: faxes, informes, notas, 
+correo electrónico, etc. entre otros. 
+4. Realización de exposiciones:
+–
+– Grupos de trabajo para elaborar exposiciones orales sobre algunos de los temas 
+tratados en los demás módulos.
+–
+– Simulación de una ponencia para un congreso relativo a temas del sector.
+–
+– Elaboración de debates sobre temas de actualidad en el sector de la 
+electromedicina clínica.
+–
+– Elaboración de sesiones dirigidas a clientes de lengua extranjera.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional mantiene como principal objetivo la formación necesaria 
+para el uso de la lengua inglesa en el desempeño de actividades relacionadas con el sector 
+de la electromedicina clínica, sirviendo, además para profundizar y ampliar en aspectos 
+prácticos de la especialidad.
+El profesorado debe trasladar los contenidos de sus enseñanzas al ámbito de la 
+especialidad, proponiendo actividades para reforzar el aspecto oral de la lengua inglesa, 
+sin descuidar por ello el uso de la lengua escrita. El desarrollo de las clases, será totalmente 
+en inglés. 
+Se han de potenciar, por tanto, la realización de exposiciones orales partiendo de:
+–
+– Audición de grabaciones audio/video procedentes de la vida cotidiana y del sector 
+de la electromedicina clínica.
+–
+– Textos escritos procedentes de medios de comunicación, internet, organismos 
+internacionales, etc.
+Siguiendo en la misma línea, el profesorado propondrá actividades de trabajo que 
+promuevan el desarrollo de las siguientes destrezas:
+–
+– Simulaciones de comunicación telefónica y cara a cara con proveedores y 
+clientes.
+–
+– Recreación de situaciones reales en una empresa o entidad cuya actividad se 
+relacione directamente con las actividades de la electromedicina clínica.
+–
+– Creación de conversaciones que provoquen debates en el grupo acerca del 
+funcionamiento de una pyme o entidad dedicada a la electromedicina clínica.
+–
+– Grabación de situaciones de comunicación o intervenciones profesionales por 
+parte del alumno.
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37815
+Viernes, 2 de octubre de 2020
+–
+– Producción y comprensión de textos y mensajes orales, incluso como apoyo de 
+futuras intervenciones profesionales.
+–
+– Fomento del trabajo autónomo por parte del alumnado.
+–
+– Elaboración de sesiones dirigidas en el idioma establecido.
+Este módulo debe reforzar la posibilidad de que el alumnado afronte con garantías 
+de éxito su trabajo ante grupos y colectivos con los que debe emplear la lengua inglesa. De 
+ahí la necesidad de practicar las situaciones cotidianas y ocasionales que los profesionales 
+conocen bien empleando exposiciones comprensivas y haciendo uso de lenguajes técnicos 
+relacionados con la actividad de la electromedicina clínica. 
+Con todo lo anterior se pretende conseguir que el alumnado tenga una actitud 
+positiva hacia los aprendizajes y sea capaz de comprender la gran necesidad del uso de la 
+lengua inglesa en el desempeño de su labor profesional en la electromedicina clínica. Esta 
+actitud debe formar parte de la evaluación del alumnado y, por tanto, deberá impregnar la 
+actuación y metodología didáctica del profesorado.
+A la hora de impartir este módulo profesional, se tendrá en cuenta la necesidad de 
+coordinación en contenidos, procesos y actividades procedimentales, con el profesorado 
+que imparta todos los módulos profesionales. 
+Módulo profesional: Sistemas microprogramables en el ámbito de la salud.
+Código: CL27.
+Resultados de aprendizaje y criterios de evaluación.
+1. Configura sistemas microprogramables en el ámbito de la salud.
+Criterios de evaluación:
+a)	Se ha definido el concepto y los campos de aplicación de los sistemas 
+microprogramables en el ámbito de la salud.
+b)	Se han identificado las diferentes placas que existan en el mercado y sus 
+componentes.
+c)	 Se han identificado las diferentes entradas y salidas digitales y analógicas de las 
+placas de desarrollo, así como sus puertos de comunicaciones.
+d)	Se han identificado todas las conexiones de las placas de desarrollo.
+e)	Se han realizado los informes documentados de los resultados obtenidos, junto 
+con las conclusiones.
+2. Programa en el lenguaje utilizado por el sistema microcontrolador elegido. 
+Criterios de evaluación:
+a)	Se han elaborado diagramas de flujo y algoritmos.
+b)	Se han identificado variables simples y compuestas.
+c)	 Se han utilizado estructuras condicionales y repetitivas.
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37816
+Viernes, 2 de octubre de 2020
+d)	Se han elaborado e interpretado programas completos utilizando sentencias, 
+funciones de usuario, librerías.
+e)	Se han utilizado compiladores del lenguaje elegido.
+f)	 Se han realizado los informes documentados de los resultados obtenidos, junto 
+con las conclusiones.
+3. Caracteriza y conexiona sensores y dispositivos en el ámbito de la salud, montando 
+elementos de control (LEDs, pequeños motores cc, servomotores, relés, entre otros). 
+Criterios de evaluación:
+a)	Se han identificado sensores compatibles con las placas de desarrollo utilizadas.
+b)	Se han configurado las conexiones cableadas e inalámbricas para establecer la 
+interconexión de diferentes dispositivos (USB, Ethernet, Wifi, Bluetooth, GPRS, 
+entre otros)
+c)	 Se ha identificado, configurad y realizado el montaje de módulos complementarios.
+d)	Se ha conexionado, configurado y programado elementos actuadores de control 
+LEDs, motores de cc, servomotores, relés, entre otros.
+e)	Se ha conexionado, configurado y programado elementos actuadores de control 
+(USB, Ethernet, Wifi, Bluetooth, GPRS, entre otros. 
+f)	 Se han conexionado, configurado y programado elementos y aplicaciones 
+utilizando entornos de programación gráfica.
+g)	Se han realizado los informes documentados de los resultados obtenidos, junto 
+con las conclusiones.
+4. Identifica, configura y programa sensores biométricos para la salud.
+Criterios de evaluación:
+a)	Se han identificado los distintos sensores biométricos para la salud. Sensor de 
+pulso, oxígeno en sangre, flujo de aire, temperatura corporal, electrocardiograma, 
+glucómetro, respuesta galvánica de la piel (GSR- sudoración), presión arterial, 
+posición de paciente (acelerómetro) y sensor de músculo/eletromyography 
+(EMG).
+b)	Se han instalado y configurado sensores biométricos para la salud.
+c)	 Se ha diseñado la aplicación de control para sensores biométricos para la salud.
+d)	Se ha realizado el montaje y puesta en marcha sensores biométricos para la 
+salud.
+e)	Se han realizado los informes documentados de los resultados obtenidos, junto 
+con las conclusiones.
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37817
+Viernes, 2 de octubre de 2020
+5. Monta, configura y pone en marcha dispositivos que utilizan cámaras para 
+aplicaciones de mantenimiento, seguimiento y control en el ámbito de la salud.
+Criterios de evaluación:
+a)	Se ha realizado el montaje de dispositivos ya diseñados o se diseñan e imprimen 
+con impresoras 3D.
+b)	Se ha configurado y puesto en marcha el dispositivo bajo control inalámbrico.
+c)	 Se ha realizado el mantenimiento de averías que se produzcan en el dispositivo 
+controlado o bien en el dispositivo que controla.
+d)	Se ha identificado posibles dispositivos de control terrestres. 
+e)	Se han identificado cámaras de grabación pequeñas.
+f)	 Se ha realizado la configuración de las cámaras para la visualización y/o grabación 
+de imágenes con el fin de realizar aplicaciones de mantenimiento, seguimiento 
+o control.
+g)	Se han realizado los informes documentados de los resultados obtenidos, junto 
+con las conclusiones.
+Duración 96 horas.
+Contenidos:
+1. Microcontroladores y microprocesadores. Placas de desarrollo de hardware para 
+construir dispositivos digitales y dispositivos interactivos: definición, tipos y características. 
+E/S digitales, E/S analógicas, conexiones. 
+2. Conceptos básicos de programación. Diagramas de flujo, algoritmos. Variables 
+simples y compuestas (arrays). Estructuras condicionales, estructuras repetitivas (bucles). 
+Sentencias. Funciones de usuario. Librerías. Compiladores y compiladores específicos 
+para aplicaciones. 
+3. Elementos de control: LEDs, motores de cc, servomotores, relés entre otros. 
+Elementos para la visualización de medidas y resultados (LEDs, PC, pantallas LCD, Oled 
+entre otros). elementos y aplicaciones para control/telecontrol de dispositivos electrónicos 
+a través Wifi, Bluetooth, GPRS entre otros. 
+4. Sensores biométricos para la salud: pulso, oxígeno en sangre, flujo de aire, 
+temperatura corporal, electrocardiograma, glucómetro, respuesta galvánica de la piel 
+(GSR- sudoración), presión arterial, posición de paciente (acelerómetro) y sensor de 
+músculo/eletromyography (EMG). 
+5. Utilización de cámaras para aplicaciones de mantenimiento, seguimiento y control 
+en el ámbito de la salud.
+Orientaciones pedagógicas.
+Este módulo profesional contiene la formación básica que capacita para desempeñar 
+las funciones de análisis, diseño y configuración de microcontroladores y microprocesadores 
+así como de los sensores utilizados en el ámbito de la salud.
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37818
+Viernes, 2 de octubre de 2020
+La definición de estas funciones incluye aspectos como:
+–
+– Identificación y selección de los componentes y placas de desarrollo.
+–
+– Reconocimiento de los componentes, conexiones y puertos de comunicaciones 
+de los dispositivos a interconectar.
+–
+– Interconexión de sensores biométricos para la salud. 
+–
+– Interconexión de LEDs, motores de cc, servomotores, relés entre otros. 
+–
+– Interconexión de elementos y aplicaciones para control/telecontrol de dispositivos 
+electrónicos a través Wifi, Bluetooth, GPRS.
+–
+– Interconexión cámaras para aplicaciones de mantenimiento, seguimiento y 
+control en el ámbito de la salud.
+–
+– Programación de aplicaciones para microcontroladores y microprocesadores..
+–
+– Modernización de las tecnologías.
+–
+– Montaje, configuración, telecontrol y mantenimiento de dispositivos con o sin 
+cámaras para aplicaciones de uso cotidiano y de gran utilidad en los diferentes 
+sectores del ámbito de la salud.
+Las actividades profesionales asociadas a esta función se aplican en:
+–
+– Determinar los recursos necesarios, equipos y elementos.
+–
+– Elaboración de documentación gráfica y esquemas a partir de los datos obtenidos.
+–
+– Diseño y montaje de aplicaciones basadas en control en microcontroladores y 
+microprocesadores en el ámbito de la salud. 
+–
+– Mantenimiento y actualización de aplicaciones en sistemas basados en 
+microcontroladores y microprocesadores en el ámbito de la salud.
+La formación del módulo contribuye a alcanzar los objetivos generales j), k), m) y n) 
+del ciclo formativo y las competencias j), k), m), n) y ñ) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo versarán sobre:
+–
+– Identificación de las necesidades para sistemas basados en microcontroladores 
+y/o microprocesadores en el ámbito de la salud. 
+–
+– Diseño e interconexión de dispositivos para crear aplicaciones en el ámbito de 
+la salud.
+–
+– Diseño y programación de aplicaciones para sistemas basados en 
+microcontroladores y/o microprocesadores en el ámbito de la salud.
+–
+– Mantenimiento y actualización de aplicaciones para sistemas basados en 
+microcontroladores y/o microprocesadores en el ámbito de la salud.
+–
+– Selección de los equipos y elementos necesarios para la elaboración de proyectos 
+basados en microcontroladores y/o microprocesadores en el ámbito de la salud.
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37819
+Viernes, 2 de octubre de 2020
+ANEXO II
+ORGANIZACIÓN Y DISTRIBUCIÓN HORARIA
+Módulos profesionales
+Duración 
+del 
+currículo
+(horas)
+Centro Educativo
+Centro 
+de Trabajo
+Primer curso
+(horas/semana)
+Segundo curso
+1.º y 2.º trimestres
+(horas/semana)
+3.er trimestre
+(horas)
+1585.	Instalaciones eléctricas.
+96
+3
+1586.	Sistemas electromecánicos y de 
+fluidos.
+96
+3
+1587.	Sistemas 
+electrónicos 
+y 
+fotónicos.
+128
+4
+1588.	Sistemas de radiodiagnóstico, 
+radioterapia e imagen médica.
+192
+6
+1589.	Sistemas 
+de 
+monitorización, 
+registro y cuidados críticos.
+192
+6
+1590.	Sistemas 
+de 
+laboratorio 
+y 
+hemodiálisis.
+126
+6
+1591.	Sistemas de rehabilitación y 
+pruebas funcionales.
+105
+5
+1592.	Tecnología sanitaria en el ámbito 
+clínico.
+64
+2
+1593.	Planificación de la adquisición 
+de sistemas de electromedicina.
+147
+7
+1594.	Gestión 
+del 
+montaje 
+y 
+mantenimiento de sistemas de 
+electromedicina.
+147
+7
+1595.	Proyecto 
+de 
+electromedicina 
+clínica.
+30
+30
+1596.	Empresa 
+e 
+iniciativa 
+emprendedora.
+63
+3
+1597.	Formación y orientación laboral.
+96
+3
+1598.	Formación en centros de trabajo.
+380
+380
+CL25.	Inglés 
+para 
+electromedicina 
+clínica.
+42
+2
+CL27.	Sistemas microprogramables en 
+el ámbito de la salud
+96
+3
+TOTAL
+2.000
+30
+30
+410
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+Pág. 37820
+Viernes, 2 de octubre de 2020
+ANEXO III.A
+Especialidades y titulaciones del profesorado en el módulo profesional 
+«Inglés para electromedicina clínica»
+1. Especialidades del profesorado con atribución docente en el módulo profesional 
+«Inglés para electromedicina clínica» del ciclo formativo que conduce al título de Técnico 
+Superior en Electromedicina Clínica.
+Módulo profesional
+Especialidad 
+del profesorado
+Cuerpo
+CL25. 	 Inglés para electromedicina 
+clínica. 
+Inglés
+- Catedrático de Enseñanza Secundaria.
+- Profesor de Enseñanza Secundaria.
+2. Para impartir el módulo profesional «Inglés para electromedicina clínica» que 
+conforma el título en los centros de titularidad privada y de otras Administraciones distintas 
+de la educativa, se exigirán las mismas condiciones de formación inicial que para impartir la 
+materia «lengua extranjera» en Educación Secundaria Obligatoria en centros de titularidad 
+privada.
+CV: BOCYL-D-02102020-2
+
+Boletín Oficial de Castilla y León
+Núm. 205
+http://bocyl.jcyl.es
+D.L.: BU 10-1979 - ISSN 1989-8959
+Pág. 37821
+Viernes, 2 de octubre de 2020
+ANEXO III.B
+Especialidades y titulaciones del profesorado en el módulo profesional 
+«Sistemas microprogramables en el ámbito de la salud»
+1. Especialidades del profesorado con atribución docente en el módulo profesional 
+«Sistemas microprogramables en el ámbito de la salud» del ciclo formativo que conduce 
+al título de Técnico Superior en Electromedicina Clínica.
+Módulo profesional
+Especialidad del 
+profesorado
+Cuerpo
+CL27. 	 Sistemas microprogramables 
+en el ámbito de la salud
+Sistemas 
+Electrónicos
+- Catedrático de Enseñanza Secundaria.
+- Profesor de Enseñanza Secundaria.
+2. Titulaciones requeridas para impartir el módulo profesional «Sistemas 
+microprogramables en el ámbito de la salud» del ciclo formativo que conduce al título de 
+Técnico Superior en Electromedicina Clínica, en los centros de titularidad privada y de 
+otras Administraciones distintas de la educativa. 
+Módulo profesional
+Titulaciones
+CL27. 	 Sistemas microprogramables 
+en el ámbito de la salud
+- Diplomado en Radioelectrónica Naval
+- Ingeniero Técnico Aeronaútico, especialidad en Aeronavegación.
+- Ingeniero Técnico en Informática de Sistemas.
+- Ingeniero Técnico Industrial, especialidad en Electricidad, 
+especialidad en Electrónica Industrial. 
+- Ingeniero Técnico de Telecomunicación, en todas sus 
+especialidades
+CV: BOCYL-D-02102020-2

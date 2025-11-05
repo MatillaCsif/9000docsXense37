@@ -1,0 +1,1467 @@
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 68707
+Viernes, 26 de agosto de 2011
+I. COMUNIDAD DE CASTILLA Y LEÓN
+A. DISPOSICIONES GENERALES
+CONSEJERÍA DE EDUCACIÓN
+ORDEN EDU/1030/2011, de 16 de agosto, por la que se crean ficheros automatizados 
+de datos de carácter personal de la Consejería de Educación, por motivos de videovigilancia 
+de seguridad.
+La Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter 
+Personal, en su artículo 20, establece que la creación, modificación o supresión de los 
+ficheros de las Administraciones Públicas sólo podrán hacerse por medio de disposición 
+general publicada en el diario oficial correspondiente.
+Por su parte, el Decreto 11/2003, de 23 de enero, por el que se regulan los 
+ficheros de datos de carácter personal susceptibles de tratamiento automatizado, de la 
+Administración de la Comunidad de Castilla y León, concreta en su artículo 2, que la 
+creación, modificación y supresión de los ficheros de datos de carácter personal incluidos 
+en el ámbito de aplicación de la citada Ley, se realizará, previo informe de la Dirección 
+General de Telecomunicaciones y Transportes de la Consejería de Fomento, por Orden 
+del titular de la Consejería competente por razón de la materia a la que afectan.
+No obstante, el Decreto 69/2007 por la que se establece la estructura orgánica de la 
+Consejería de Administración Autonómica, atribuye a la Dirección General de Innovación 
+y Modernización Administrativa, el ejercicio de las funciones de coordinación y control de 
+las medidas de seguridad aplicables a los ficheros automatizados que contengan datos de 
+carácter personal.
+Asimismo la Instrucción 1/2006, de 8 de noviembre de la Agencia Española de 
+Protección de Datos, sobre el tratamiento de datos personales con fines de videovigilancia 
+a través de sistemas de cámaras y videocámaras, insta a la regularización de datos 
+personales de imágenes de personas físicas identificadas o identificables, con fines de 
+vigilancia a través de sistemas de cámaras o videocámaras.
+Por ello, ante la necesidad de instalar cámaras y videocámaras de vigilancia en 
+centros públicos educativos dependientes de esta administración y en las dependencias 
+administrativas de la propia Consejería de Educación, y para dar cumplimiento a las 
+exigencias legales establecidas garantizando, paralelamente, el derecho a la protección de 
+datos de carácter personal en el tratamiento de las imágenes captadas en estos lugares, 
+se hace preciso la creación de ficheros automatizados de datos.
+Así, en virtud de las citadas normas y demás de general aplicación y previo informe 
+sobre las medidas de seguridad de los ficheros formulado por la Dirección General 
+de Innovación y Modernización Administrativa de la Consejería de Administración 
+Autonómica
+CV: BOCYL-D-26082011-5
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 68708
+Viernes, 26 de agosto de 2011
+DISPONGO:
+Artículo 1.– Creación de ficheros. 
+La presente Orden tiene por objeto la creación de los ficheros de datos de carácter 
+personal de la Consejería de Educación, por motivos de videovigilancia de seguridad, que 
+se describen en el Anexo de esta disposición.
+Artículo 2.– Medidas técnicas y organizativas. 
+El titular del órgano responsable de cada fichero automatizado, y en su caso el 
+encargado de su tratamiento, adoptarán las medidas de índole técnica y organizativa 
+necesarias que garanticen la seguridad de los datos de carácter personal y eviten su 
+alteración, pérdida, tratamiento o acceso no autorizado, habida cuenta del estado de la 
+tecnología, la naturaleza de los datos almacenados y los riesgos a que están expuestos. Ello 
+implica la implantación de las medidas de seguridad exigibles en función de la naturaleza 
+de los datos protegidos, en los términos establecidos en el Real Decreto 1720/2007, de 
+21 de diciembre, por el que se aprueba el Reglamento de desarrollo de la Ley Orgánica 
+15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.
+Asimismo cualquier persona que por razón del ejercicio de sus funciones tenga 
+acceso a los datos deberá observar la debida reserva, confidencialidad y sigilo en relación 
+con las mismas.
+Artículo 3.– Información.
+Los responsables que cuenten con sistemas de videovigilancia deberán cumplir con 
+el deber de información previsto en el artículo 5 de la Ley Orgánica 15/1999, de 13 de 
+diciembre, de Protección de Datos de Carácter Personal, de acuerdo con lo establecido 
+en el artículo 3 de la Instrucción 1/2006, de 8 de noviembre de la Agencia Española de 
+Protección de Datos, sobre el tratamiento de datos personales con fines de videovigilancia 
+a través de sistemas de cámaras y videocámaras.
+Artículo 4.– Derecho de acceso, rectificación y cancelación de datos. 
+Los afectados podrán ejercitar sus derechos de acceso, rectificación y cancelación 
+de datos, cuando proceda, ante el órgano administrativo responsable del tratamiento 
+indicado en el Anexo, a quien deberá remitir su solicitud haciendo constar su identidad 
+junto con una imagen actualizada.
+DISPOSICIÓN FINAL
+Entrada en vigor.– La presente Orden entrará en vigor el día siguiente al de su 
+publicación en el «Boletín Oficial de Castilla y León».
+Valladolid, 16 de agosto de 2011.
+El Consejero,
+Fdo.: Juan José Mateos Otero
+CV: BOCYL-D-26082011-5
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 68709
+Viernes, 26 de agosto de 2011
+ANEXO 
+FICHEROS CREADOS
+1.– NOMBRE DE FICHERO/Denominación de los ficheros: Videovigilancia 
+Monasterio Nuestra Señora de Prado.
+Fines y usos: 
+	
+Grabación de imágenes de las personas que accedan, circulen y permanezcan 
+en edificios. Funciones de vigilancia y seguridad en el edificio, control de casos 
+de violencia y actos vandálicos.
+Personas y colectivos afectados: 
+	
+Personas que accedan, circulen y permanezcan en edificios e instalaciones 
+administrativos y en centros educativos públicos.
+Procedimiento de recogida y procedencia de datos:
+	
+El propio afectado de forma directa a través de la grabación de imágenes y/o 
+voz.
+Estructura básica del fichero y descripción de los datos de carácter personal: 
+	
+Grabaciones en video, conteniendo imagen/voz como datos identificativos del 
+afectado.
+Cesiones previstas:
+	
+Sí. Fuerzas y Cuerpos de Seguridad.
+Órganos de la Administración responsables de los ficheros:
+	
+Consejería de Educación y Consejería de Cultura y Turismo.
+Servicios o Unidades ante los que pueden ejercitarse los derechos de acceso, 
+         rectificación y cancelación:
+	
+Consejería de Educación y Consejería de Cultura y Turismo.
+Medidas de seguridad:
+	
+Nivel Básico.
+CV: BOCYL-D-26082011-5
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 68710
+Viernes, 26 de agosto de 2011
+2.– NOMBRE DE FICHERO/Denominación de los ficheros: Videovigilancia 
+Edificio Emilio Alarcos.
+Fines y usos: 
+	
+Grabación de imágenes de las personas que accedan, circulen y permanezcan 
+en edificios. Funciones de vigilancia y seguridad en el edificio, control de casos 
+de violencia y actos vandálicos.
+Personas y colectivos afectados: 
+	
+Personas que accedan, circulen y permanezcan en edificios e instalaciones 
+administrativos y en centros educativos públicos.
+Procedimiento de recogida y procedencia de datos:
+	
+El propio afectado de forma directa a través de la grabación de imágenes y/o 
+voz.
+Estructura básica del fichero y descripción de los datos de carácter personal: 
+	
+Grabaciones en video, conteniendo imagen/voz como datos identificativos del 
+afectado.
+Cesiones previstas:
+	
+Sí. Fuerzas y Cuerpos de Seguridad.
+Órganos de la Administración responsables de los ficheros:
+	
+Consejería de Educación.
+Servicios o Unidades ante los que pueden ejercitarse los derechos de acceso, 
+         rectificación y cancelación:
+	
+Consejería de Educación.
+Medidas de seguridad:
+	
+Nivel Básico.
+CV: BOCYL-D-26082011-5
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 68711
+Viernes, 26 de agosto de 2011
+3.– NOMBRE DE FICHERO/Denominación de los ficheros: Videovigilancia 
+Dirección Provincial de Educación de Ávila.
+Fines y usos: 
+	
+Grabación de imágenes de las personas que accedan, circulen y permanezcan 
+en la Dirección Provincial de Ávila. Funciones de vigilancia y seguridad en estos 
+lugares. Control de casos de violencia y actos vandálicos.
+Personas y colectivos afectados: 
+	
+Personas que accedan, circulen y permanezcan en las dependencias de la de la 
+Dirección Provincial de Educación de Ávila.
+Procedimiento de recogida y procedencia de datos:
+	
+El propio afectado forma directa a través de la grabación de imágenes y/o voz.
+Estructura básica del fichero y descripción de los datos de carácter personal: 
+	
+Grabaciones en video, conteniendo imagen/voz como datos identificativos del 
+afectado.
+Cesiones previstas:
+	
+Sí. Fuerzas y Cuerpos de Seguridad.
+Órganos de la Administración responsables de los ficheros:
+	
+Consejería de Educación de la Junta de Castilla y León.
+Servicios o Unidades ante los que pueden ejercitarse los derechos de acceso, 
+         rectificación y cancelación:
+	
+Dirección Provincial de Educación de Ávila.
+Medidas de seguridad:
+	
+Nivel Básico.
+CV: BOCYL-D-26082011-5
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 68712
+Viernes, 26 de agosto de 2011
+4.– NOMBRE DE FICHERO/Denominación de los ficheros: Fichero de 
+videovigilancia de seguridad del C.E.P.A. de Ávila.
+Fines y usos: 
+	
+Grabación de imágenes de las personas que accedan, circulen y permanezcan 
+en edificios e instalaciones administrativas y en centros educativos públicos. 
+Funciones de vigilancia y seguridad en estos lugares. Control de casos de 
+violencia, acoso escolar y actos vandálicos en centros educativos públicos.
+Personas y colectivos afectados: 
+	
+Personas que accedan, circulen y permanezcan en las dependencias del centro 
+docente. 
+Procedimiento de recogida y procedencia de datos:
+	
+Los datos registrados son recogidos por cámaras de videovigilancia mediante 
+captura de imágenes. Los datos proceden del propio afectado de forma directa a 
+través de la grabación de imágenes y/o voz.
+Estructura básica del fichero y descripción de los datos de carácter personal: 
+	
+Grabaciones en video, conteniendo imagen/voz como datos identificativos del 
+afectado.
+Cesiones previstas:
+	
+Sí. Fuerzas y Cuerpos de Seguridad.
+	Órganos de la Administración responsables de los ficheros:
+	Consejería de Educación de la Junta de Castilla y León.
+Servicios o Unidades ante los que pueden ejercitarse los derechos de acceso, 
+         rectificación y cancelación:
+	
+C.E.P.A. de Ávila.
+Medidas de seguridad:
+	
+Nivel Básico.
+CV: BOCYL-D-26082011-5
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 68713
+Viernes, 26 de agosto de 2011
+5.– NOMBRE DE FICHERO/Denominación de los ficheros: Videovigilancia de 
+seguridad del I.E.S. Alonso del Madrigal.
+Fines y usos: 
+	
+Grabación de imágenes de las personas que accedan, circulen y permanezcan 
+en edificios e instalaciones administrativos y en centros educativos públicos. 
+Funciones de vigilancia y seguridad en estos lugares. Control de casos de 
+violencia, acoso escolar y actos vandálicos en centros educativos públicos.
+Personas y colectivos afectados: 
+	
+Personas que accedan, circulen y permanezcan en las dependencias del centro 
+docente.
+Procedimiento de recogida y procedencia de datos:
+	
+Los datos registrados son recogidos por cámaras de videovigilancia mediante 
+captura de imágenes. Los datos proceden del propio afectado de forma directa a 
+través de la grabación de imágenes y/o voz.
+Estructura básica del fichero y descripción de los datos de carácter personal: 
+	
+Grabaciones en video, conteniendo imagen/voz como datos identificativos del 
+afectado.
+Cesiones previstas:
+	
+Sí. Fuerzas y Cuerpos de Seguridad.
+Órganos de la Administración responsables de los ficheros:
+	
+Consejería de Educación.
+Servicios o Unidades ante los que pueden ejercitarse los derechos de acceso, 
+         rectificación y cancelación:
+	
+I.E.S. Alonso del Madrigal.
+Medidas de seguridad:
+	
+Nivel Básico.
+CV: BOCYL-D-26082011-5
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 68714
+Viernes, 26 de agosto de 2011
+6.– NOMBRE DE FICHERO/Denominación de los ficheros: Videovigilancia I.E.S. 
+María de Córdoba.
+Fines y usos: 
+	
+Grabación de imágenes de las personas que accedan, circulen y permanezcan 
+en edificios e instalaciones administrativas y en centros públicos. Funciones de 
+vigilancia y seguridad en estos lugares. Control de casos de violencia, acoso 
+escolar y actos vandálicos en centros educativos públicos.
+Personas y colectivos afectados: 
+	
+Personas que accedan, circulen y permanezcan en las dependencias del centro 
+docente.
+Procedimiento de recogida y procedencia de datos:
+	
+Los datos registrados son recogidos por cámaras de videovigilancia mediante 
+captura de imágenes. Los datos proceden del propio afectado de forma directa a 
+través de la grabación de imágenes y/o voz.
+Estructura básica del fichero y descripción de los datos de carácter personal: 
+	
+Grabaciones en video, conteniendo imagen/voz como datos identificativos del 
+afectado.
+Cesiones previstas:
+	
+Sí. Fuerzas y Cuerpos de Seguridad.
+Órganos de la Administración responsables de los ficheros:
+	
+Consejería de Educación.
+Servicios o Unidades ante los que pueden ejercitarse los derechos de acceso, 
+         rectificación y cancelación:
+	
+I.E.S. María de Córdoba.
+Medidas de seguridad:
+	
+Nivel Básico.
+CV: BOCYL-D-26082011-5
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 68715
+Viernes, 26 de agosto de 2011
+7.– NOMBRE DE FICHERO/Denominación de los ficheros: Videovigilancia I.E.S. 
+Isabel de Castilla.
+Fines y usos: 
+	
+Grabación de imágenes de las personas que accedan, circulen y permanezcan 
+en el edificio. Funciones de vigilancia y seguridad. Control casos de violencia y 
+actos vandálicos.
+Personas y colectivos afectados: 
+	
+Personas que accedan, circulen y permanezcan en las dependencias del centro 
+docente.
+Procedimiento de recogida y procedencia de datos:
+	
+Los datos registrados son recogidos por cámaras de videovigilancia mediante 
+captura de imágenes. Los datos proceden del propio afectado de forma directa a 
+través de la grabación de imágenes y/o voz.
+Estructura básica del fichero y descripción de los datos de carácter personal: 
+	
+Grabaciones en video, conteniendo imagen/voz como datos identificativos del 
+afectado.
+Cesiones previstas:
+	
+Sí. Fuerzas y Cuerpos de Seguridad.
+Órganos de la Administración responsables de los ficheros:
+	
+Consejería de Educación.
+Servicios o Unidades ante los que pueden ejercitarse los derechos de acceso, 
+         rectificación y cancelación:
+	
+I.E.S. Isabel de Castilla.
+Medidas de seguridad:
+	
+Nivel Básico.
+CV: BOCYL-D-26082011-5
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 68716
+Viernes, 26 de agosto de 2011
+8.– NOMBRE DE FICHERO/Denominación de los ficheros: Videovigilancia 
+I.E.S.O. Sotillo.
+Fines y usos: 
+	
+Grabación de imágenes de las personas que accedan, circulen y permanezcan 
+en edificios e instalaciones administrativas y en centros educativos públicos. 
+Funciones de vigilancia y seguridad en estos lugares. Control de casos de 
+violencia, acoso escolar y actos vandálicos en centros educativos públicos.
+Personas y colectivos afectados: 
+	
+Personas que accedan, circulen y permanezcan en las dependencias del centro 
+docente.
+Procedimiento de recogida y procedencia de datos:
+	
+Los datos registrados son recogidos por cámaras de videovigilancia mediante 
+captura de imágenes. Los datos proceden del propio afectado de forma directa a 
+través de la grabación de imágenes y/o voz.
+Estructura básica del fichero y descripción de los datos de carácter personal: 
+	
+Grabaciones en video, conteniendo imagen/voz como datos identificativos del 
+afectado.
+Cesiones previstas:
+	
+Sí. Fuerzas y Cuerpos de Seguridad.
+Órganos de la Administración responsables de los ficheros:
+	
+Consejería de Educación.
+Servicios o Unidades ante los que pueden ejercitarse los derechos de acceso, 
+         rectificación y cancelación:
+	
+I.E.S.O. «Villa de Sotillo».
+Medidas de seguridad:
+	
+Nivel Básico.
+CV: BOCYL-D-26082011-5
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 68717
+Viernes, 26 de agosto de 2011
+9.– NOMBRE DE FICHERO/Denominación de los ficheros: Videovigilancia 
+I.E.S. Aranguren.
+Fines y usos: 
+	
+Control de seguridad de instalaciones.
+Personas y colectivos afectados: 
+	
+Personas que accedan, circulen y permanezcan en las dependencias del centro 
+docente.
+Procedimiento de recogida y procedencia de datos:
+	
+Los datos registrados son recogidos por cámaras de videovigilancia mediante 
+captura de imágenes. Los datos proceden del propio afectado de forma directa a 
+través de la grabación de imágenes y/o voz.
+Estructura básica del fichero y descripción de los datos de carácter personal: 
+	
+Grabaciones en video, conteniendo imagen/voz como datos identificativos del 
+afectado.
+Cesiones previstas:
+	
+Sí. Fuerzas y Cuerpos de Seguridad.
+Órganos de la Administración responsables de los ficheros:
+	
+Consejería de Educación.
+Servicios o Unidades ante los que pueden ejercitarse los derechos de acceso, 
+         rectificación y cancelación:
+	
+I.E.S. «José Luis López Aranguren».
+Medidas de seguridad:
+	
+Nivel Básico.
+CV: BOCYL-D-26082011-5
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 68718
+Viernes, 26 de agosto de 2011
+10.– NOMBRE DE FICHERO/Denominación de los ficheros: Videovigilancia 
+I.E.S. Doctor Sancho de Matienzo.
+Fines y usos: 
+	
+Grabación de imágenes de las personas que accedan, circulen y permanezcan 
+en edificios e instalaciones administrativas y en centros educativos públicos. 
+Funciones de vigilancia y seguridad en estos lugares. 
+Personas y colectivos afectados: 
+	
+Personas que accedan, circulen y permanezcan en las dependencias del centro 
+docente.
+Procedimiento de recogida y procedencia de datos:
+	
+Los datos registrados son recogidos por cámaras de videovigilancia mediante 
+captura de imágenes. Los datos proceden del propio afectado de forma directa a 
+través de la grabación de imágenes y/o voz.
+Estructura básica del fichero y descripción de los datos de carácter personal: 
+	
+Grabaciones en video, conteniendo imagen/voz como datos identificativos del 
+afectado.
+Cesiones previstas:
+	
+Sí. Fuerzas y Cuerpos de Seguridad.
+Órganos de la Administración responsables de los ficheros:
+	
+Consejería de Educación.
+Servicios o Unidades ante los que pueden ejercitarse los derechos de acceso, 
+         rectificación y cancelación:
+	
+I.E.S. Doctor Sancho de Matienzo.
+Medidas de seguridad:
+	
+Nivel Básico.
+CV: BOCYL-D-26082011-5
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 68719
+Viernes, 26 de agosto de 2011
+11.– NOMBRE DE FICHERO/Denominación de los ficheros: Videovigilancia 
+I.E.S. Valles del Luna.
+Fines y usos: 
+	
+Grabación de imágenes de las personas que accedan, a las instalaciones del 
+centro.
+Personas y colectivos afectados: 
+	
+Personas que accedan, circulen y permanezcan en las dependencias del centro 
+docente.
+Procedimiento de recogida y procedencia de datos:
+	
+Los datos registrados son recogidos por cámaras de videovigilancia mediante 
+captura de imágenes. Los datos proceden del propio afectado de forma directa a 
+través de la grabación de imágenes y/o voz.
+Estructura básica del fichero y descripción de los datos de carácter personal: 
+	
+Grabaciones en video, conteniendo imagen/voz como datos identificativos del 
+afectado.
+Cesiones previstas:
+	
+Sí. Fuerzas y Cuerpos de Seguridad.
+Órganos de la Administración responsables de los ficheros:
+	
+Consejería de Educación.
+Servicios o Unidades ante los que pueden ejercitarse los derechos de acceso, 
+         rectificación y cancelación:
+	
+I.E.S. «Valles del Luna».
+Medidas de seguridad:
+	
+Nivel Básico.
+CV: BOCYL-D-26082011-5
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 68720
+Viernes, 26 de agosto de 2011
+12.– NOMBRE DE FICHERO/Denominación de los ficheros: Videovigilancia 
+I.E.S. Vía de la Plata.
+Fines y usos: 
+	
+Grabación de imágenes de las personas que accedan, circulen y permanezcan 
+en edificios e instalaciones administrativas y en centros educativos públicos. 
+Funciones de vigilancia y seguridad en estos lugares. 
+Personas y colectivos afectados: 
+	
+Personas que accedan, circulen y permanezcan en las dependencias del centro 
+docente.
+Procedimiento de recogida y procedencia de datos:
+	
+Los datos registrados son recogidos por cámaras de videovigilancia mediante 
+captura de imágenes. Los datos proceden del propio afectado de forma directa a 
+través de la grabación de imágenes y/o voz.
+Estructura básica del fichero y descripción de los datos de carácter personal: 
+	
+Grabaciones en video, conteniendo imagen/voz como datos identificativos del 
+afectado.
+Cesiones previstas:
+	
+Sí. Fuerzas y Cuerpos de Seguridad.
+Órganos de la Administración responsables de los ficheros:
+	
+Consejería de Educación.
+Servicios o Unidades ante los que pueden ejercitarse los derechos de acceso, 
+         rectificación y cancelación:
+	
+I.E.S. «Vía de la Plata».
+Medidas de seguridad:
+	
+Nivel Básico.
+CV: BOCYL-D-26082011-5
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 68721
+Viernes, 26 de agosto de 2011
+13.– NOMBRE DE FICHERO/Denominación de los ficheros: Videovigilancia 
+I.E.S.O. Puente Domingo Flórez.
+Fines y usos: 
+	
+Control, seguridad y protección de personas, así como para la protección de las 
+instalaciones del centro. 
+Personas y colectivos afectados: 
+	
+Personas que accedan, circulen y permanezcan en las dependencias del centro 
+docente.
+Procedimiento de recogida y procedencia de datos:
+	
+Los datos registrados son recogidos por cámaras de videovigilancia mediante 
+captura de imágenes. Los datos proceden del propio afectado de forma directa a 
+través de la grabación de imágenes y/o voz.
+Estructura básica del fichero y descripción de los datos de carácter personal: 
+	
+Grabaciones en video, conteniendo imagen/voz como datos identificativos del 
+afectado.
+Cesiones previstas:
+	
+Sí. Fuerzas y Cuerpos de Seguridad.
+Órganos de la Administración responsables de los ficheros:
+	
+Consejería de Educación.
+Servicios o Unidades ante los que pueden ejercitarse los derechos de acceso, 
+         rectificación y cancelación:
+	
+I.E.S.O. «Puente Domingo Flórez».
+Medidas de seguridad:
+	
+Nivel Básico.
+CV: BOCYL-D-26082011-5
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 68722
+Viernes, 26 de agosto de 2011
+14.– NOMBRE DE FICHERO/Denominación de los ficheros: Videovigilancia 
+Centro Integrado de Formación Profesional Ciudad de León.
+Fines y usos: 
+	
+Captación y grabación de imágenes para el control, la seguridad y protección 
+de las personas, así como para la protección de los edificios e instalaciones del 
+centro.
+Personas y colectivos afectados: 
+	
+Personas que accedan, circulen y permanezcan en las dependencias del centro 
+docente.
+Procedimiento de recogida y procedencia de datos:
+	
+Los datos registrados son recogidos por cámaras de videovigilancia mediante 
+captura de imágenes. Los datos proceden del propio afectado de forma directa a 
+través de la grabación de imágenes y/o voz.
+Estructura básica del fichero y descripción de los datos de carácter personal: 
+	
+Grabaciones en video, conteniendo imagen/voz como datos identificativos del 
+afectado.
+Cesiones previstas:
+	
+Sí. Fuerzas y Cuerpos de Seguridad.
+Órganos de la Administración responsables de los ficheros:
+	
+Consejería de Educación.
+Servicios o Unidades ante los que pueden ejercitarse los derechos de acceso, 
+         rectificación y cancelación:
+	
+Centro Integrado de Formación Profesional n.º 2 de León.
+Medidas de seguridad:
+	
+Nivel Básico.
+CV: BOCYL-D-26082011-5
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 68723
+Viernes, 26 de agosto de 2011
+15.– NOMBRE DE FICHERO/Denominación de los ficheros: Videovigilancia 
+C.E.I.P. Jorge Manrique.
+Fines y usos: 
+	
+Grabación de imágenes de las personas que accedan circulen y permanezcan en 
+centros públicos. Control en casos de violencia, acoso escolar y actos vandálicos 
+en centros educativos públicos.
+Personas y colectivos afectados: 
+	
+Personas que accedan, circulen y permanezcan en las dependencias del centro 
+docente.
+Procedimiento de recogida y procedencia de datos:
+	
+Los datos registrados son recogidos por cámaras de videovigilancia mediante 
+captura de imágenes. Los datos proceden del propio afectado de forma directa a 
+través de la grabación de imágenes y/o voz.
+Estructura básica del fichero y descripción de los datos de carácter personal: 
+	
+Grabaciones en video, conteniendo imagen/voz como datos identificativos del 
+afectado.
+Cesiones previstas:
+	
+Sí. Otros órganos de la Comunidad Autónoma.
+Órganos de la Administración responsables de los ficheros:
+	
+Consejería de Educación.
+Servicios o Unidades ante los que pueden ejercitarse los derechos de acceso, 
+         rectificación y cancelación:
+	
+C.E.I.P. «Jorge Manrique».
+Medidas de seguridad:
+	
+Nivel Básico.
+CV: BOCYL-D-26082011-5
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 68724
+Viernes, 26 de agosto de 2011
+16.– NOMBRE DE FICHERO/Denominación de los ficheros: Videovigilancia 
+I.E.S. Jorge Manrique.
+Fines y usos: 
+	
+Videovigilancia.
+Personas y colectivos afectados: 
+	
+Personas que accedan, circulen y permanezcan en las dependencias del centro 
+docente.
+Procedimiento de recogida y procedencia de datos:
+	
+Los datos registrados son recogidos por cámaras de videovigilancia mediante 
+captura de imágenes. Los datos proceden del propio afectado de forma directa a 
+través de la grabación de imágenes y/o voz.
+Estructura básica del fichero y descripción de los datos de carácter personal: 
+	
+Grabaciones en video, conteniendo imagen/voz como datos identificativos del 
+afectado.
+Cesiones previstas:
+	
+Sí. Fuerzas y Cuerpos de Seguridad.
+Órganos de la Administración responsables de los ficheros:
+	
+Consejería de Educación.
+Servicios o Unidades ante los que pueden ejercitarse los derechos de acceso, 
+         rectificación y cancelación:
+	
+I.E.S. «Jorge Manrique».
+Medidas de seguridad:
+	
+Nivel Básico.
+CV: BOCYL-D-26082011-5
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 68725
+Viernes, 26 de agosto de 2011
+17.– NOMBRE DE FICHERO/Denominación de los ficheros: Videovigilancia 
+I.E.S. Victorio Macho.
+Fines y usos: 
+	
+Grabación de imágenes de las personas que accedan, circulen y permanezcan 
+en edificios e instalaciones administrativas y en centros educativos públicos. 
+Funciones de vigilancia y seguridad en estos lugares. 
+Personas y colectivos afectados: 
+	
+Personas que accedan, circulen y permanezcan en las dependencias del centro 
+docente.
+Procedimiento de recogida y procedencia de datos:
+	
+Los datos registrados son recogidos por cámaras de videovigilancia mediante 
+captura de imágenes. Los datos proceden del propio afectado de forma directa a 
+través de la grabación de imágenes y/o voz.
+Estructura básica del fichero y descripción de los datos de carácter personal: 
+	
+Grabaciones en video, conteniendo imagen/voz como datos identificativos del 
+afectado.
+Cesiones previstas:
+	
+Sí. Órganos Judiciales y Fuerzas y Cuerpos de Seguridad. 
+Órganos de la Administración responsables de los ficheros:
+	
+Consejería de Educación.
+Servicios o Unidades ante los que pueden ejercitarse los derechos de acceso, 
+         rectificación y cancelación:
+	
+I.E.S. «Victorio Macho».
+Medidas de seguridad:
+	
+Nivel Básico.
+CV: BOCYL-D-26082011-5
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 68726
+Viernes, 26 de agosto de 2011
+18.– NOMBRE DE FICHERO/Denominación de los ficheros: Videovigilancia 
+Escuela Oficial de Idiomas de Palencia.
+Fines y usos: 
+	
+Grabación de imágenes de las personas que accedan circulen y permanezcan 
+en edificios e instalaciones administrativos y en centros educativos públicos. 
+Funciones de vigilancia y seguridad en estos lugares. Control de casos de 
+violencia acoso escolar y actos vandálicos en centros educativos públicos.
+Personas y colectivos afectados: 
+	
+Personas que accedan, circulen y permanezcan en las dependencias del centro 
+docente.
+Procedimiento de recogida y procedencia de datos:
+	
+Los datos registrados son recogidos por cámaras de videovigilancia mediante 
+captura de imágenes. Los datos proceden del propio afectado de forma directa a 
+través de la grabación de imágenes y/o voz.
+Estructura básica del fichero y descripción de los datos de carácter personal: 
+	
+Grabaciones en video, conteniendo imagen/voz como datos identificativos del 
+afectado.
+Cesiones previstas:
+	
+Sí. Órganos judiciales. Otros órganos de la Administración Local. Interesados 
+Legítimos.
+Órganos de la Administración responsables de los ficheros:
+	
+Consejería de Educación.
+Servicios o Unidades ante los que pueden ejercitarse los derechos de acceso, 
+         rectificación y cancelación:
+	
+Escuela Oficial de Idiomas de Palencia.
+Medidas de seguridad:
+	
+Nivel Básico.
+CV: BOCYL-D-26082011-5
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 68727
+Viernes, 26 de agosto de 2011
+19.– NOMBRE DE FICHERO/Denominación de los ficheros: Videovigilancia 
+I.E.S.O. Tomás Bretón.
+Fines y usos: 
+	
+Sistema de cámaras para video vigilancia en el recinto escolar.
+Personas y colectivos afectados: 
+	
+Personas que accedan, circulen y permanezcan en las dependencias del centro 
+docente.
+Procedimiento de recogida y procedencia de datos:
+	
+Los datos registrados son recogidos por cámaras de videovigilancia mediante 
+captura de imágenes. Los datos proceden del propio afectado de forma directa a 
+través de la grabación de imágenes y/o voz.
+Estructura básica del fichero y descripción de los datos de carácter personal: 
+	
+Grabaciones en video, conteniendo imagen/voz como datos identificativos del 
+afectado.
+Cesiones previstas:
+	
+Sí. Órganos Judiciales. Fuerzas y Cuerpos de Seguridad.
+Órganos de la Administración responsables de los ficheros:
+	
+Consejería de Educación.
+Servicios o Unidades ante los que pueden ejercitarse los derechos de acceso, 
+         rectificación y cancelación:
+	
+I.E.S.O. «Tomás Bretón».
+Medidas de seguridad:
+	
+Nivel Básico.
+CV: BOCYL-D-26082011-5
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 68728
+Viernes, 26 de agosto de 2011
+20.– NOMBRE DE FICHERO/Denominación de los ficheros: Videovigilancia 
+C.E.O Alto Alagón.
+Fines y usos: 
+	
+Grabación de imágenes de las personas que accedan, circulen y permanezcan 
+en centros educativos públicos. Funciones de vigilancia y seguridad en estos 
+lugares. Control de casos de actos vandálicos en el centro educativo.
+Personas y colectivos afectados: 
+	
+Personas que accedan, circulen y permanezcan en las dependencias del centro 
+docente.
+Procedimiento de recogida y procedencia de datos:
+	
+Los datos registrados son recogidos por cámaras de videovigilancia mediante 
+captura de imágenes. Los datos proceden del propio afectado de forma directa a 
+través de la grabación de imágenes y/o voz.
+Estructura básica del fichero y descripción de los datos de carácter personal: 
+	
+Grabaciones en video, conteniendo imagen/voz como datos identificativos del 
+afectado.
+Cesiones previstas:
+	
+Sí. Cuerpos de Seguridad del Estado.
+Órganos de la Administración responsables de los ficheros:
+	
+Consejería de Educación.
+Servicios o Unidades ante los que pueden ejercitarse los derechos de acceso, 
+         rectificación y cancelación:
+	
+C.E.O. «Alto Alagón».
+Medidas de seguridad:
+	
+Nivel Básico.
+CV: BOCYL-D-26082011-5
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 68729
+Viernes, 26 de agosto de 2011
+21.– NOMBRE DE FICHERO/Denominación de los ficheros: Videovigilancia 
+I.E.S. Francisco Salinas.
+Fines y usos: 
+	
+Grabación de imágenes de las personas que accedan circulen y permanezcan en 
+centros públicos. Control de casos de violencia, acoso escolar y actos vandálicos 
+en centros educativos públicos.
+Personas y colectivos afectados: 
+	
+Personas que accedan, circulen y permanezcan en las dependencias del centro 
+docente.
+Procedimiento de recogida y procedencia de datos:
+	
+Los datos registrados son recogidos por cámaras de videovigilancia mediante 
+captura de imágenes. Los datos proceden del propio afectado de forma directa a 
+través de la grabación de imágenes y/o voz.
+Estructura básica del fichero y descripción de los datos de carácter personal: 
+	
+Grabaciones en video, conteniendo imagen/voz como datos identificativos del 
+afectado.
+Cesiones previstas:
+	
+Sí. Fuerzas y Cuerpos de Seguridad.
+Órganos de la Administración responsables de los ficheros:
+	
+Consejería de Educación.
+Servicios o Unidades ante los que pueden ejercitarse los derechos de acceso, 
+         rectificación y cancelación:
+	
+I.E.S. «Francisco Salinas».
+Medidas de seguridad:
+	
+Nivel Básico.
+CV: BOCYL-D-26082011-5
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 68730
+Viernes, 26 de agosto de 2011
+22.– NOMBRE DE FICHERO/Denominación de los ficheros: Videovigilancia 
+I.E.S. Lucía Medrano.
+Fines y usos: 
+	
+Grabación de imágenes de las personas que accedan, circulen y permanezcan 
+en el centro educativo y control de casos de violencia, acoso escolar y actos 
+vandálicos.
+Personas y colectivos afectados: 
+	
+Personas que accedan, circulen y permanezcan en las dependencias del centro 
+docente.
+Procedimiento de recogida y procedencia de datos:
+	
+Los datos registrados son recogidos por cámaras de videovigilancia mediante 
+captura de imágenes. Los datos proceden del propio afectado de forma directa a 
+través de la grabación de imágenes y/o voz.
+Estructura básica del fichero y descripción de los datos de carácter personal: 
+	
+Grabaciones en video, conteniendo imagen/voz como datos identificativos del 
+afectado.
+Cesiones previstas:
+	
+Sí. Fuerzas y Cuerpos de Seguridad.
+Órganos de la Administración responsables de los ficheros:
+	
+Consejería de Educación.
+Servicios o Unidades ante los que pueden ejercitarse los derechos de acceso, 
+         rectificación y cancelación:
+	
+I.E.S. «Lucía Medrano».
+Medidas de seguridad:
+	
+Nivel Básico.
+CV: BOCYL-D-26082011-5
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 68731
+Viernes, 26 de agosto de 2011
+23.– NOMBRE DE FICHERO/Denominación de los ficheros: Videovigilancia 
+I.E.S. Cuerpo de Hombre.
+Fines y usos: 
+	
+Grabación de imágenes de las personas que accedan, circulen y permanezcan 
+en el centro educativo y control de casos de violencia, acoso escolar y actos 
+vandálicos.
+Personas y colectivos afectados: 
+	
+Personas que accedan, circulen y permanezcan en las dependencias del centro 
+docente.
+Procedimiento de recogida y procedencia de datos:
+	
+Los datos registrados son recogidos por cámaras de videovigilancia mediante 
+captura de imágenes. Los datos proceden del propio afectado de forma directa a 
+través de la grabación de imágenes y/o voz.
+Estructura básica del fichero y descripción de los datos de carácter personal: 
+	
+Grabaciones en video, conteniendo imagen/voz como datos identificativos del 
+afectado.
+Cesiones previstas:
+	
+No.
+Órganos de la Administración responsables de los ficheros:
+	
+Consejería de Educación.
+Servicios o Unidades ante los que pueden ejercitarse los derechos de acceso, 
+         rectificación y cancelación:
+	
+I.E.S. «Río Cuerpo de Hombre».
+Medidas de seguridad:
+	
+Nivel Básico.
+CV: BOCYL-D-26082011-5
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 68732
+Viernes, 26 de agosto de 2011
+24.– NOMBRE DE FICHERO/Denominación de los ficheros: Videovigilancia 
+I.E.S. Federico García Bernalt.
+Fines y usos: 
+	
+Evitar el vandalismo y la protección de las personas y enseres.
+Personas y colectivos afectados: 
+	
+Personas que accedan, circulen y permanezcan en las dependencias del centro 
+docente.
+Procedimiento de recogida y procedencia de datos:
+	
+Los datos registrados son recogidos por cámaras de videovigilancia mediante 
+captura de imágenes. Los datos proceden del propio afectado de forma directa a 
+través de la grabación de imágenes y/o voz.
+Estructura básica del fichero y descripción de los datos de carácter personal: 
+	
+Grabaciones en video, conteniendo imagen/voz como datos identificativos del 
+afectado.
+Cesiones previstas:
+	
+Sí. Fuerzas y Cuerpos de Seguridad.
+Órganos de la Administración responsables de los ficheros:
+	
+Consejería de Educación.
+Servicios o Unidades ante los que pueden ejercitarse los derechos de acceso, 
+         rectificación y cancelación:
+	
+I.E.S. «Federico García Bernalt».
+Medidas de seguridad:
+	
+Nivel Básico.
+CV: BOCYL-D-26082011-5
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 68733
+Viernes, 26 de agosto de 2011
+25.– NOMBRE DE FICHERO/Denominación de los ficheros: Videovigilancia 
+I.E.S. Antonio Machado.
+Fines y usos: 
+	
+Gestión del control de la entrada a las instalaciones.
+Personas y colectivos afectados: 
+	
+Personas que accedan, circulen y permanezcan en las dependencias del centro 
+docente.
+Procedimiento de recogida y procedencia de datos:
+	
+Los datos registrados son recogidos por cámaras de videovigilancia mediante 
+captura de imágenes. Los datos proceden del propio afectado de forma directa a 
+través de la grabación de imágenes y/o voz.
+Estructura básica del fichero y descripción de los datos de carácter personal: 
+	
+Grabaciones en video, conteniendo imagen/voz como datos identificativos del 
+afectado.
+Cesiones previstas:
+	
+Sí. Fuerzas y Cuerpos de Seguridad.
+Órganos de la Administración responsables de los ficheros:
+	
+Consejería de Educación.
+Servicios o Unidades ante los que pueden ejercitarse los derechos de acceso, 
+         rectificación y cancelación:
+	
+I.E.S. «Antonio Machado».
+Medidas de seguridad:
+	
+Nivel Básico.
+CV: BOCYL-D-26082011-5
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 68734
+Viernes, 26 de agosto de 2011
+26.– NOMBRE DE FICHERO/Denominación de los ficheros: Videovigilancia 
+I.E.S. Ribera de Jalón.
+Fines y usos: 
+	
+Con el fin de preservar la seguridad en la sede del I.E.S. Ribera de Jalón, es 
+preciso controlar el acceso al edificio de las personas que acuden a el. La finalidad 
+del fichero es realizar la vigilancia en el control de acceso al edificio donde se 
+ubica el I.E.S. Ribera de Jalón.
+Personas y colectivos afectados: 
+	
+Personas que accedan, circulen y permanezcan en las dependencias del centro 
+docente.
+Procedimiento de recogida y procedencia de datos:
+	
+Los datos registrados son recogidos por cámaras de videovigilancia mediante 
+captura de imágenes. Los datos proceden del propio afectado de forma directa a 
+través de la grabación de imágenes y/o voz.
+Estructura básica del fichero y descripción de los datos de carácter personal: 
+	
+Grabaciones en video, conteniendo imagen/voz como datos identificativos del 
+afectado.
+Cesiones previstas:
+	
+Sí. Órganos judiciales. Fuerzas y Cuerpos de Seguridad.
+Órganos de la Administración responsables de los ficheros:
+	
+Consejería de Educación.
+Servicios o Unidades ante los que pueden ejercitarse los derechos de acceso, 
+         rectificación y cancelación:
+	
+I.E.S. «Ribera de Jalón».
+Medidas de seguridad:
+	
+Nivel Básico.
+CV: BOCYL-D-26082011-5
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 68735
+Viernes, 26 de agosto de 2011
+27.– NOMBRE DE FICHERO/Denominación de los ficheros: Videovigilancia 
+I.E.S. Pío del Río Hortega.
+Fines y usos: 
+	
+Gestión del control de la entrada a las instalaciones. Seguridad y control de 
+acceso a edificios.
+Personas y colectivos afectados: 
+	
+Personas que accedan, circulen y permanezcan en las dependencias del centro 
+docente.
+Procedimiento de recogida y procedencia de datos:
+	
+Los datos registrados son recogidos por cámaras de videovigilancia mediante 
+captura de imágenes. Los datos proceden del propio afectado de forma directa a 
+través de la grabación de imágenes y/o voz.
+Estructura básica del fichero y descripción de los datos de carácter personal: 
+	
+Grabaciones en video, conteniendo imagen/voz como datos identificativos del 
+afectado.
+Cesiones previstas:
+	
+Sí. Fuerzas y Cuerpos de Seguridad.
+Órganos de la Administración responsables de los ficheros:
+	
+Consejería de Educación.
+Servicios o Unidades ante los que pueden ejercitarse los derechos de acceso, 
+         rectificación y cancelación:
+	
+I.E.S. «Pío del Río Hortega».
+Medidas de seguridad:
+	
+Nivel Básico.
+CV: BOCYL-D-26082011-5
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 68736
+Viernes, 26 de agosto de 2011
+28.– NOMBRE DE FICHERO/Denominación de los ficheros: Videovigilancia 
+C.E.P.A. Bernal Díaz del Castillo. 
+Fines y usos: 
+	
+Control de las personas que accedan, circulen y permanezcan en el edificio.
+Personas y colectivos afectados: 
+	
+Personas que accedan, circulen y permanezcan en las dependencias del centro 
+docente.
+Procedimiento de recogida y procedencia de datos:
+	
+Los datos registrados son recogidos por cámaras de videovigilancia mediante 
+captura de imágenes. Los datos proceden del propio afectado de forma directa a 
+través de la grabación de imágenes y/o voz.
+Estructura básica del fichero y descripción de los datos de carácter personal: 
+	
+Grabaciones en video, conteniendo imagen/voz como datos identificativos del 
+afectado.
+Cesiones previstas:
+	
+Sí. Fuerzas y Cuerpos de Seguridad.
+Órganos de la Administración responsables de los ficheros:
+	
+Consejería de Educación.
+Servicios o Unidades ante los que pueden ejercitarse los derechos de acceso, 
+         rectificación y cancelación:
+	
+C.E.P.A. «Bernal Díaz del Castillo».
+Medidas de seguridad:
+	
+Nivel Básico.
+CV: BOCYL-D-26082011-5
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 68737
+Viernes, 26 de agosto de 2011
+29.– NOMBRE DE FICHERO/Denominación de los ficheros: Videovigilancia 
+I.E.S. Julián Marías.
+Fines y usos: 
+	
+Finalidad de vigilancia. Control de la entrada a las instalaciones.
+Personas y colectivos afectados: 
+	
+Personas que accedan, circulen y permanezcan en las dependencias del centro 
+docente.
+Procedimiento de recogida y procedencia de datos:
+	
+Los datos registrados son recogidos por cámaras de videovigilancia mediante 
+captura de imágenes. Los datos proceden del propio afectado de forma directa a 
+través de la grabación de imágenes y/o voz.
+Estructura básica del fichero y descripción de los datos de carácter personal: 
+	
+Grabaciones en video, conteniendo imagen/voz como datos identificativos del 
+afectado.
+Cesiones previstas:
+	
+Sí. Fuerzas y Cuerpos de Seguridad.
+Órganos de la Administración responsables de los ficheros:
+	
+Consejería de Educación.
+Servicios o Unidades ante los que pueden ejercitarse los derechos de acceso, 
+         rectificación y cancelación:
+	
+I.E.S. «Julián Marías».
+Medidas de seguridad:
+	
+Nivel Básico.
+CV: BOCYL-D-26082011-5
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 68738
+Viernes, 26 de agosto de 2011
+30.– NOMBRE DE FICHERO/Denominación de los ficheros: Videovigilancia 
+I.E.S. Condesa Eylo Alfonso.
+Fines y usos: 
+	
+Vigilancia de las instalaciones del centro.
+Personas y colectivos afectados: 
+	
+Personas que accedan, circulen y permanezcan en las dependencias del centro 
+docente.
+Procedimiento de recogida y procedencia de datos:
+	
+Los datos registrados son recogidos por cámaras de videovigilancia mediante 
+captura de imágenes. Los datos proceden del propio afectado de forma directa a 
+través de la grabación de imágenes y/o voz.
+Estructura básica del fichero y descripción de los datos de carácter personal: 
+	
+Grabaciones en video, conteniendo imagen/voz como datos identificativos del 
+afectado.
+Cesiones previstas:
+	
+Sí. Fuerzas y Cuerpos de Seguridad.
+Órganos de la Administración responsables de los ficheros:
+	
+Consejería de Educación.
+Servicios o Unidades ante los que pueden ejercitarse los derechos de acceso, 
+         rectificación y cancelación:
+	
+I.E.S. «Condesa Eylo Alfonso».
+Medidas de seguridad:
+	
+Nivel Básico.
+CV: BOCYL-D-26082011-5
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 68739
+Viernes, 26 de agosto de 2011
+31.– NOMBRE DE FICHERO/Denominación de los ficheros: Videovigilancia 
+I.E.S. Galileo.
+Fines y usos: 
+	
+Gestión del control de la entrada a las instalaciones.
+Personas y colectivos afectados: 
+	
+Personas que accedan, circulen y permanezcan en las dependencias del centro 
+docente.
+Procedimiento de recogida y procedencia de datos:
+	
+Los datos registrados son recogidos por cámaras de videovigilancia mediante 
+captura de imágenes. Los datos proceden del propio afectado de forma directa a 
+través de la grabación de imágenes y/o voz.
+Estructura básica del fichero y descripción de los datos de carácter personal: 
+	
+Grabaciones en video, conteniendo imagen/voz como datos identificativos del 
+afectado.
+Cesiones previstas:
+	
+Sí. Fuerzas y Cuerpos de Seguridad.
+Órganos de la Administración responsables de los ficheros:
+	
+Consejería de Educación.
+Servicios o Unidades ante los que pueden ejercitarse los derechos de acceso, 
+         rectificación y cancelación:
+	
+I.E.S. «Galileo».
+Medidas de seguridad:
+	
+Nivel Básico.
+CV: BOCYL-D-26082011-5
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 68740
+Viernes, 26 de agosto de 2011
+32.– NOMBRE DE FICHERO/Denominación de los ficheros: Videovigilancia 
+I.E.S. Las Salinas.
+Fines y usos: 
+	
+Imágenes del entorno e interior del inmueble por motivos de seguridad.
+Personas y colectivos afectados: 
+	
+Personas que accedan, circulen y permanezcan en las dependencias del centro 
+docente.
+Procedimiento de recogida y procedencia de datos:
+	
+Los datos registrados son recogidos por cámaras de videovigilancia mediante 
+captura de imágenes. Los datos proceden del propio afectado de forma directa a 
+través de la grabación de imágenes y/o voz.
+Estructura básica del fichero y descripción de los datos de carácter personal: 
+	
+Grabaciones en video, conteniendo imagen/voz como datos identificativos del 
+afectado.
+Cesiones previstas:
+	
+No.
+Órganos de la Administración responsables de los ficheros:
+	
+Consejería de Educación.
+Servicios o Unidades ante los que pueden ejercitarse los derechos de acceso, 
+         rectificación y cancelación:
+	
+I.E.S. «Las Salinas».
+Medidas de seguridad:
+	
+Nivel Básico.
+CV: BOCYL-D-26082011-5
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 68741
+Viernes, 26 de agosto de 2011
+33.– NOMBRE DE FICHERO/Denominación de los ficheros: Videovigilancia 
+I.E.S. María Moliner.
+Fines y usos: 
+	
+Grabación de imágenes de las personas que accedan, circulen y permanezcan en 
+el edificio e instalaciones. Funciones de vigilancia y seguridad en estos lugares. 
+Control de casos de violencia, acoso escolar y actos vandálicos.
+Personas y colectivos afectados: 
+	
+Personas que accedan, circulen y permanezcan en las dependencias del centro 
+docente.
+Procedimiento de recogida y procedencia de datos:
+	
+Los datos registrados son recogidos por cámaras de videovigilancia mediante 
+captura de imágenes. Los datos proceden del propio afectado de forma directa a 
+través de la grabación de imágenes y/o voz.
+Estructura básica del fichero y descripción de los datos de carácter personal: 
+	
+Grabaciones en video, conteniendo imagen/voz como datos identificativos del 
+afectado.
+Cesiones previstas:
+	
+Sí. Órganos judiciales y Fuerzas y Cuerpos de Seguridad.
+Órganos de la Administración responsables de los ficheros:
+	
+Consejería de Educación.
+Servicios o Unidades ante los que pueden ejercitarse los derechos de acceso, 
+         rectificación y cancelación:
+	
+I.E.S. «Maria Moliner».
+Medidas de seguridad:
+	
+Nivel Básico.
+CV: BOCYL-D-26082011-5
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 68742
+Viernes, 26 de agosto de 2011
+34.– NOMBRE DE FICHERO/Denominación de los ficheros: Videovigilancia 
+I.E.S. Cardenal Pardo Tavera.
+Fines y usos: 
+	
+Gestión del control de la entrada a las instalaciones.
+Personas y colectivos afectados: 
+	
+Personas que accedan, circulen y permanezcan en las dependencias del centro 
+docente.
+Procedimiento de recogida y procedencia de datos:
+	
+Los datos registrados son recogidos por cámaras de videovigilancia mediante 
+captura de imágenes. Los datos proceden del propio afectado de forma directa a 
+través de la grabación de imágenes y/o voz.
+Estructura básica del fichero y descripción de los datos de carácter personal: 
+	
+Grabaciones en video, conteniendo imagen/voz como datos identificativos del 
+afectado.
+Cesiones previstas:
+	
+Sí. Fuerzas y Cuerpos de Seguridad.
+Órganos de la Administración responsables de los ficheros:
+	
+Consejería de Educación.
+Servicios o Unidades ante los que pueden ejercitarse los derechos de acceso, 
+         rectificación y cancelación:
+	
+I.E.S. «Cardenal Pardo Tavera».
+Medidas de seguridad:
+	
+Nivel Básico.
+CV: BOCYL-D-26082011-5
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 68743
+Viernes, 26 de agosto de 2011
+35.– NOMBRE DE FICHERO/Denominación de los ficheros: Videovigilancia 
+I.E.S. Arribes de Sayago.
+Fines y usos: 
+	
+Gestión del control de la entrada a las instalaciones.
+Personas y colectivos afectados: 
+	
+Personas que accedan, circulen y permanezcan en las dependencias del centro 
+docente.
+Procedimiento de recogida y procedencia de datos:
+	
+Los datos registrados son recogidos por cámaras de videovigilancia mediante 
+captura de imágenes. Los datos proceden del propio afectado de forma directa a 
+través de la grabación de imágenes y/o voz.
+Estructura básica del fichero y descripción de los datos de carácter personal: 
+	
+Grabaciones en video, conteniendo imagen/voz como datos identificativos del 
+afectado.
+Cesiones previstas:
+	
+Sí. Fuerzas y Cuerpos de Seguridad.
+Órganos de la Administración responsables de los ficheros:
+	
+Consejería de Educación.
+Servicios o Unidades ante los que pueden ejercitarse los derechos de acceso, 
+         rectificación y cancelación:
+	
+I.E.S. «Arribes de Sayago».
+Medidas de seguridad:
+	
+Nivel Básico.
+CV: BOCYL-D-26082011-5
+
+Boletín Oficial de Castilla y León
+Núm. 165
+http://bocyl.jcyl.es
+D.L.: BU 10-1979 - ISSN 1989-8959
+Pág. 68744
+Viernes, 26 de agosto de 2011
+36.– NOMBRE DE FICHERO/Denominación de los ficheros: Videovigilancia 
+I.E.S. La Vaguada.
+Fines y usos: 
+	
+Grabación de imágenes de las personas que accedan, circulen y permanezcan 
+en el centro educativo y control de casos de violencia, acoso escolar y actos 
+vandálicos.
+Personas y colectivos afectados: 
+	
+Personas que accedan, circulen y permanezcan en las dependencias del centro 
+docente.
+Procedimiento de recogida y procedencia de datos:
+	
+Los datos registrados son recogidos por cámaras de videovigilancia mediante 
+captura de imágenes. Los datos proceden del propio afectado de forma directa a 
+través de la grabación de imágenes y/o voz.
+Estructura básica del fichero y descripción de los datos de carácter personal: 
+	
+Grabaciones en video, conteniendo imagen/voz como datos identificativos del 
+afectado.
+Cesiones previstas:
+	
+Sí. Fuerzas y Cuerpos de Seguridad.
+Órganos de la Administración responsables de los ficheros:
+	
+Consejería de Educación.
+Servicios o Unidades ante los que pueden ejercitarse los derechos de acceso, 
+         rectificación y cancelación:
+	
+I.E.S. «La Vaguada».
+Medidas de seguridad:
+	
+Nivel Básico.
+CV: BOCYL-D-26082011-5

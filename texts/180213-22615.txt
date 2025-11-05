@@ -1,0 +1,223 @@
+B.O.C. y L. - N.º 135
+Viernes, 17 de julio 2009
+22615
+CONSEJERÍA DE EDUCACIÓN
+ORDEN EDU/1521/2009, de 9 de julio, por la que se crean los ficheros
+automatizados de datos de carácter personal denominados «Pro-
+grama de Apoyo a Proyectos de Investigación» y «Ayudas a la For-
+mación y a la Contratación de Personal Investigador».
+La Ley Orgánica 15/1999, de 13 de diciembre, de Protección de
+Datos de Carácter Personal, en su artículo 20.1, establece que la creación,
+modificación o supresión de los ficheros de las Administraciones Públi-
+cas sólo podrán hacerse por medio de disposición general publicada en el
+diario oficial correspondiente.
+Por su parte, el Decreto 11/2003, de 23 de enero, por el que se regu-
+lan los ficheros de datos de carácter personal susceptibles de tratamiento
+automatizado, de la Administración de la Comunidad Autónoma de Cas-
+tilla y León, específica en su artículo 2, que la creación de ficheros auto-
+matizados de datos de carácter personal se realizará, previo informe de la
+Dirección General de Telecomunicaciones y Transportes de la Consejería
+de Fomento, por Orden del titular de la Consejería competente por razón
+de la materia, disposición de creación que deberá recoger todos los apar-
+tados que establece el artículo 20.2 de la Ley Orgánica 15/1999.
+No obstante, el Decreto 69/2007 por la que se establece la estructura
+orgánica de la Consejería de Administración Autonómica, atribuye a la
+Dirección General de Innovación y Modernización Administrativa, el
+ejercicio de las funciones de coordinación y control de las medidas de
+seguridad aplicables a los ficheros automatizados que contengan datos de
+carácter personal.
+Por ello, ante la necesidad de dar cumplimiento a las exigencias lega-
+les establecidas y lograr una mayor eficiencia en la organización y ges-
+tión administrativa llevada a cabo por la Consejería de Educación garan-
+tizando, paralelamente, el derecho a la protección de datos de carácter
+personal de los administrados relacionados con ella, se hace preciso la
+creación de varios ficheros automatizados de datos.
+En su virtud y previo informe de la Dirección General de Innovación
+y Modernización Administrativa de la Consejería de Administración
+Autonómica, sobre las medidas de seguridad que deben cumplir los fiche-
+ros automatizados,
+DISPONGO:
+Artículo 1.– Objeto. 
+La presente Orden tiene por objeto la creación de los ficheros auto-
+matizados de datos de carácter personal de la Consejería de Educación,
+denominados «Programa de apoyo a proyectos de investigación» y «Ayu-
+
+22616
+Viernes, 17 de julio 2009
+B.O.C. y L. - N.º 135
+das a la formación y a la contratación de personal investigador», inclui-
+dos en el ámbito de aplicación de la Ley Orgánica 15/1999, de 13 de
+diciembre, de Protección de Datos de Carácter Personal, cuya descripción
+figura en el Anexo I de la presente Orden. 
+Artículo 2.– Medidas técnicas y organizativas. 
+El titular del órgano responsable del fichero automatizado a que se
+refiere el artículo anterior y, en su caso, el encargado de su tratamiento,
+adoptarán las medidas de índole técnica y organizativa necesarias que
+garanticen la seguridad de los datos de carácter personal y eviten su alte-
+ración, pérdida, tratamiento o acceso no autorizado, habida cuenta del
+estado de la tecnología, la naturaleza de los datos almacenados y los ries-
+gos a que están expuestos. Ello implica la implantación de las medidas de
+seguridad exigibles en función de la naturaleza de los datos protegidos,
+en los términos establecidos en el Real Decreto 1720/2007, de 21 de
+diciembre, por el que se aprueba el Reglamento de desarrollo de la Ley
+Orgánica 15/1999, de 13 de diciembre, de protección de datos de carác-
+ter personal. 
+Artículo 3.– Derecho de acceso, rectificación y cancelación de datos.
+Los interesados tendrán derecho a solicitar y obtener gratuitamente
+información de sus datos de carácter personal sometidos a tratamiento, el
+origen de dichos datos, así como las comunicaciones realizadas o que se
+prevea realizar con los mismos y podrán ejercitar sus derechos de rectifi-
+cación y cancelación de datos, cuando proceda, ante el órgano adminis-
+trativo indicado en el Anexo.
+DISPOSICIÓN FINAL
+Entrada en vigor.– La presente Orden entrará en vigor el día siguien-
+te al de su publicación en el «Boletín Oficial de Castilla y León».
+Valladolid, 9 de julio de 2009.
+El Consejero,
+Fdo.: JUAN JOSÉ MATEOS OTERO
+ANEXO
+FICHEROS CREADOS
+1.– PROGRAMADE APOYO APROYECTOS DE INVESTIGACIÓN.
+Denominación del fichero:
+Programa de apoyo a proyectos de investigación.
+Fines y usos:
+Gestión de datos relativos a los organismos solicitantes y a los
+investigadores que participan en el programa de apoyo a proyectos
+de investigación para su uso por la Dirección General de Univer-
+sidades e Investigación y otras unidades administrativas de la Con-
+sejería de Educación.
+Personas o colectivos afectados:
+Los organismos solicitantes y los investigadores que participan en
+el programa de apoyo a proyectos de investigación de la Conseje-
+ría de Educación de la Junta de Castilla y León.
+Procedimiento de recogida de datos:
+Datos aportados por los organismos solicitantes y por el investiga-
+dor principal en representación del proyecto de Investigación soli-
+citado.
+Los datos se recibirán mediante transmisión electrónica/Internet
+pero también se presentarán documentos impresos y en formato
+electrónico en CD/DVD.
+Estructura básica del fichero y descripción de los tipos de datos:
+Datos de carácter identificativo: D.N.I., apellidos y nombre, dirección,
+teléfono.
+Datos de carácter personal: Fecha y lugar de nacimiento, edad,
+sexo y nacionalidad.
+Datos académicos y profesionales: Formación, titulaciones, expe-
+riencia profesional.
+Datos de empleo: Categoría/grado, historial del trabajador.
+Datos de información comercial: No previstos.
+Cesiones de datos previstas:
+A la Hacienda Pública y la Administración tributaria para el cum-
+plimiento de las obligaciones tributarias, a organismos de la Segu-
+ridad Social para cumplimiento de obligaciones frente a la Seguri-
+dad Social y a otros órganos de la Comunidad Autónoma para
+elaboración de informes.
+Órgano de la Administración responsable del fichero:
+Dirección General de Universidades e Investigación.
+Servicio o Unidad ante la que puede ejercitarse los derechos de acce-
+so, rectificación, cancelación y oposición:
+Servicio de Investigación Científica, Transferencia de Conoci-
+miento e Infraestructura Universitaria de la Dirección General de
+Universidades e Investigación.
+Nivel de seguridad:
+Nivel básico.
+2.– AYUDAS A LA FORMACIÓN YA LA CONTRATACIÓN DE
+PERSONAL INVESTIGADOR.
+Denominación del fichero:
+Ayudas a la formación y a la contratación de personal investigador.
+Fines y usos:
+Gestión de datos relativos a los organismos solicitantes y a los
+investigadores y titulados superiores que participan en las convo-
+catorias de ayudas a la formación y a la contratación de personal
+investigador para su uso por la Dirección General de Universida-
+des e Investigación y otras unidades administrativas de la Conse-
+jería de Educación.
+Personas o colectivos afectados:
+Los organismos solicitantes y los investigadores y titulados supe-
+riores que participan en las convocatorias de ayudas a la formación
+y a la contratación de personal investigador de la Consejería de
+Educación de la Junta de Castilla y León.
+Procedimiento de recogida de datos:
+Datos aportados por los organismos solicitantes y por los investi-
+gadores y titulados superiores participantes.
+Los datos se recibirán mediante transmisión electrónica/Internet
+pero también se presentarán documentos impresos y en formato
+electrónico en CD/DVD.
+Estructura básica del fichero y descripción de los tipos de datos:
+Datos de carácter identificativo: D.N.I., apellidos y nombre, direc-
+ción, teléfono, número de la Seguridad Social.
+Datos de carácter personal: fecha y lugar de nacimiento, edad, sexo
+y nacionalidad.
+Datos académicos y profesionales: formación, titulaciones, expe-
+riencia profesional.
+Datos de empleo: Categoría/Grado, Historial del trabajador.
+Datos de información comercial: No previstos.
+Cesiones de datos previstas:
+A la Hacienda Pública y la Administración tributaria para el cum-
+plimiento de las obligaciones tributarias, a organismos de la Segu-
+ridad Social para cumplimiento de obligaciones frente a la Seguri-
+dad Social y a otros órganos de la Comunidad Autónoma para
+elaboración de informes.
+
+B.O.C. y L. - N.º 135
+Viernes, 17 de julio 2009
+22617
+Órgano de la Administración responsable del fichero:
+Dirección General de Universidades e Investigación.
+Servicio o Unidad ante la que puede ejercitarse los derechos de acce-
+so, rectificación, cancelación y oposición:
+Servicio de Investigación Científica, Transferencia de Conoci-
+miento e Infraestructura Universitaria de la Dirección General de
+Universidades e Investigación.
+Nivel de seguridad:
+Nivel básico.
+ORDEN EDU/1522/2009, de 10 de julio, por la que se resuelve la con-
+vocatoria para la concesión de subvenciones a centros educativos
+privados concertados de Castilla y León para la adquisición de
+equipamiento y material informático. 
+Por Orden EDU/415/2009, de 26 de febrero, publicada en el «B.O.C. y L.»
+n.º 43, de 4 de marzo, se realiza convocatoria para la concesión de sub-
+venciones a centros educativos privados concertados de Castilla y León
+para la adquisición de equipamiento y material informático.
+De conformidad con el apartado 8.2 y 9.1 de la citada Orden, previa
+evaluación de las solicitudes e informe de la comisión de valoración, a
+propuesta de la Dirección General de Infraestructuras, Equipamiento y
+Servicios,
+RESUELVO
+Primero.– Conceder subvenciones para la adquisición de equipa-
+miento y material informático, por un importe de 1.650.000 euros con
+cargo a la aplicación presupuestaria 07.03.322A05.7700P.0, a los centros
+educativos privados concertados de Castilla y León y por las cuantías que
+se especifican en el Anexo I de la presente Orden. 
+Segundo.– Denegar ayudas a los solicitantes que se relacionan en el
+Anexo II por las causas que en éste figuran.
+Tercero.– 3.1. Los beneficiarios deben justificar el cumplimiento de
+la finalidad para la que se concedió la subvención quedando obligados a
+presentar la documentación justificativa relacionada en el apartado 10.3
+de la Orden de convocatoria hasta el día 15 de octubre de 2009, inclusive.
+3.2. Asimismo, a los efectos de acreditar la situación indicada en el
+apartado 4.4 de la Orden de convocatoria y de conformidad con lo dis-
+puesto en los apartados 3 y 4 del artículo 6 del Decreto 75/2008, de 30 de
+octubre, por el que se regula la acreditación del cumplimiento de la nor-
+mativa para la integración laboral de las personas con discapacidad y el
+establecimiento de criterios de valoración y preferencia en la concesión
+de subvenciones y ayudas públicas de la Administración de la Comuni-
+dad de Castilla y León, los beneficiarios deberán presentar original o
+copia compulsada de la siguiente documentación:
+a) Certificado de reconocimiento de la discapacidad emitido por
+órgano competente.
+b) Contratos celebrados con los trabajadores discapacitados en los
+términos del artículo 8.3 del Real Decreto Legislativo 1/1995, 24
+de marzo, por el que se aprueba el Texto Refundido de la Ley del
+Estatuto de los Trabajadores.
+c) Boletín de cotización TC2. Relación nominal de trabajadores.
+Contra la presente Orden, que pone fin a la vía administrativa, cabe
+interponer potestativamente recurso de reposición, en el plazo de un mes,
+ante el Consejero de Educación, o bien directamente recurso contencio-
+so-administrativo ante la Sala de lo Contencioso-administrativo del Tri-
+bunal Superior de Justicia de Castilla y León, en el plazo de dos meses.
+Ambos plazos se computarán a partir del día siguiente al de su publica-
+ción en el «Boletín Oficial de Castilla y León».
+Valladolid, 10 de julio de 2009.
+El Consejero,
+Fdo.: JUAN JOSÉ MATEOS OTERO

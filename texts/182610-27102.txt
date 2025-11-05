@@ -1,0 +1,3550 @@
+DECRETO 53/2009, de 3 de septiembre, por el que se establece el
+currículo correspondiente al Título de Técnico Superior en Pro-
+gramación de la Producción en Fabricación Mecánica en la
+Comunidad de Castilla y León.
+El artículo 73.1 del Estatuto de Autonomía de Castilla y León, atri-
+buye a la Comunidad de Castilla y León la competencia de desarrollo
+legislativo y ejecución de la enseñanza en toda su extensión, niveles y
+grados, modalidades y especialidades, de acuerdo con el derecho a la edu-
+cación que todos los ciudadanos tienen, según lo establecido en el artícu-
+lo 27 de la Constitución Española y las leyes orgánicas que lo desarrollan.
+La Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de
+la Formación Profesional, establece en el artículo 10.1 que la Adminis-
+tración General del Estado, determinará los títulos y los certificados de
+profesionalidad, que constituirán las ofertas de formación profesional
+referidas al Catálogo Nacional de Cualificaciones Profesionales.
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación, determina en
+su artículo 39.6 que el Gobierno, establecerá las titulaciones correspon-
+dientes a los estudios de formación profesional, así como los aspectos
+básicos del currículo de cada una de ellas.
+El Real Decreto 1538/2006, de 15 de diciembre, por el que se esta-
+blece la ordenación general de la formación profesional del sistema edu-
+cativo define en el artículo 6, la estructura de los títulos de formación pro-
+fesional, tomando como base el Catálogo Nacional de Cualificaciones
+Profesionales, las directrices fijadas por la Unión Europea y otros aspec-
+tos de interés social. El artículo 7 concreta el perfil profesional de dichos
+
+B.O.C. y L. - N.º 173
+Miércoles, 9 de septiembre 2009
+27103
+títulos, que incluirá la competencia general, las competencias profesiona-
+les, personales y sociales, las cualificaciones y, en su caso, las unidades
+de competencia del Catálogo Nacional de Cualificaciones Profesionales
+incluidas en los títulos.
+Por otro lado, el artículo 17 del citado Real Decreto 1538/2006, de 15
+de diciembre, dispone que las Administraciones educativas establecerán
+los currículos de las enseñanzas de formación profesional respetando lo
+en él dispuesto y en las normas que regulen los títulos respectivos.
+Posteriormente, el Real Decreto 1687/2007, de 14 de diciembre, esta-
+blece el título de Técnico Superior en Programación de la Producción en
+Fabricación Mecánica y se fijan sus enseñanzas mínimas y dispone en el
+artículo 1, que sustituye a la regulación del título denominado Producción
+por Mecanizado, contenido en el Real Decreto 2417/1994, de 16 de
+diciembre. 
+El presente Decreto establece el currículo correspondiente al título de
+Técnico Superior en Programación de la Producción en Fabricación
+Mecánica en la Comunidad de Castilla y León teniendo en cuenta los
+principios generales que han de orientar la actividad educativa, según lo
+previsto en el artículo 1 de la Ley Orgánica 2/2006, de 3 de mayo, de
+Educación. Se pretende dar respuesta a las necesidades generales de cua-
+lificación de los recursos humanos para su incorporación a la estructura
+productiva de la Comunidad de Castilla y León.
+En su virtud, la Junta de Castilla y León, a propuesta del Consejero
+de Educación, previo informe del Consejo de Formación Profesional de
+Castilla y León y dictamen del Consejo Escolar de Castilla y León, y pre-
+via deliberación del Consejo de Gobierno en su reunión de 3 de septiem-
+bre de 2009
+DISPONE:
+Artículo 1.– Objeto y ámbito de aplicación.
+El presente Decreto tiene por objeto establecer el currículo corres-
+pondiente al título de Técnico Superior en Programación de la Produc-
+ción en Fabricación Mecánica en la Comunidad de Castilla y León, que
+se incorpora como Anexo I.
+Artículo 2.– Autonomía de los centros.
+1. Los centros educativos dispondrán de la necesaria autonomía peda-
+gógica, de organización y de gestión económica, para el desarrollo de las
+enseñanzas y su adaptación a las características concretas del entorno
+socioeconómico, cultural y profesional. Los centros autorizados para
+impartir el ciclo formativo concretarán y desarrollarán el currículo
+mediante las programaciones didácticas de cada uno de los módulos pro-
+fesionales que componen el ciclo formativo en los términos establecidos
+en este Decreto en el marco general del proyecto educativo de centro y en
+función de las características de su entorno productivo. 
+2. La Consejería competente en materia de educación favorecerá la
+elaboración de proyectos de innovación, así como de modelos de progra-
+mación docente y de materiales didácticos que faciliten al profesorado el
+desarrollo del currículo.
+3. Los centros, en el ejercicio de su autonomía, podrán adoptar expe-
+rimentaciones, planes de trabajo, formas de organización o ampliación
+del horario escolar en los términos que establezca la Consejería compe-
+tente en materia de educación, sin que, en ningún caso, se impongan
+aportaciones a las familias ni exigencias para la misma.
+Artículo 3.– Requisitos de los centros para impartir estas enseñanzas.
+Todos los centros de titularidad pública o privada que ofrezcan ense-
+ñanzas conducentes a la obtención del título de Técnico Superior en Pro-
+gramación de la Producción en Fabricación Mecánica se ajustarán a lo
+establecido en la Ley Orgánica 2/2006, de 3 de mayo, de Educación y en
+las normas que lo desarrollen, y en todo caso, deberán cumplir los requi-
+sitos que se indican en el artículo 52 del Real Decreto 1538/2006, de 15
+de diciembre, por el que se establece la ordenación general de la forma-
+ción profesional del sistema educativo, además de lo establecido en su
+propia normativa.
+Artículo 4.– Módulos profesionales de Formación en Centros de Tra-
+bajo y Proyecto de Fabricación de Productos Mecánicos.
+1. Los módulos profesionales de Proyecto de Fabricación de Produc-
+tos Mecánicos y Formación en Centros de Trabajo deberán ajustarse a los
+resultados de aprendizaje y criterios de evaluación previstos en el Anexo I
+de este Decreto, correspondiendo a los centros educativos concretar la
+programación específica de cada alumno, de acuerdo con la orientación
+metodológica y las características del centro del trabajo. 
+2. El módulo profesional de Proyecto de Fabricación de Productos
+Mecánicos se realizará, preferentemente, a lo largo del periodo de reali-
+zación del módulo de Formación en Centros de Trabajo.
+3. El módulo profesional de Proyecto de Fabricación de Productos
+Mecánicos puede ser equivalente con el desarrollo de un Proyecto de
+Innovación en el que participe el alumno cuando tenga un componente
+integrador de los contenidos de los módulos que constituyen el ciclo
+formativo.
+Artículo 5.– Adaptaciones Curriculares.
+1. Con objeto de ofrecer a todas las personas la oportunidad de adqui-
+rir una formación básica, ampliar y renovar sus conocimientos, habilida-
+des y destrezas de modo permanente y facilitar el acceso a las enseñan-
+zas de formación profesional, la Consejería competente en materia de
+educación podrá flexibilizar la oferta del ciclo formativo de Técnico
+Superior en Programación de la Producción en Fabricación Mecánica
+permitiendo, principalmente a los adultos, la posibilidad de combinar el
+estudio y la formación con la actividad laboral o con otras actividades,
+respondiendo así a las necesidades e intereses personales.
+2. También se podrá adecuar las enseñanzas de este ciclo formativo a
+las características de la educación a distancia, así como a las característi-
+cas de los alumnos con necesidades educativas específicas.
+Artículo 6.– Enseñanzas impartidas en lenguas extranjeras o en len-
+guas cooficiales de otras Comunidades Autónomas.
+1. Teniendo en cuenta que la promoción de la enseñanza y el apren-
+dizaje de lenguas y de la diversidad lingüística debe constituir una prio-
+ridad de la acción comunitaria en el ámbito de la educación y la forma-
+ción, la Consejería competente en materia de educación podrá autorizar
+que todos o determinados módulos profesionales del currículo se impar-
+tan en lenguas extranjeras o en lenguas cooficiales de otra Comunidad
+Autónoma, sin perjuicio de lo que se establezca al respecto en su norma-
+tiva específica y sin que ello suponga modificación de currículo estable-
+cido en el presente Decreto.
+2. Los centros autorizados deberán incluir en su proyecto educativo
+los elementos más significativos del proyecto lingüístico autorizado.
+Artículo 7.– Oferta a distancia del título.
+1. Los módulos profesionales que forman las enseñanzas del ciclo
+formativo de Técnico Superior en Programación de la Producción en
+Fabricación Mecánica podrán ofertarse a distancia, siempre que se garan-
+tice que el alumno puede conseguir los resultados de aprendizaje de los
+mismos, de acuerdo con lo dispuesto en este Decreto. 
+2. La Consejería competente en materia de educación establecerá los
+módulos profesionales susceptibles de ser impartidos a distancia y el por-
+centaje de horas de cada uno de ellos que tienen que impartirse en régi-
+men presencial.
+Artículo 8.– Organización y distribución horaria.
+Los módulos profesionales del ciclo formativo de Técnico Superior
+en Programación de la Producción en Fabricación Mecánica se organizan
+en dos cursos académicos. Su distribución en cada uno de ellos y la asig-
+nación horaria semanal se recoge en el Anexo II.
+Artículo 9.– Profesorado.
+1. Los aspectos referentes al profesorado con atribución docente en
+los módulos profesionales del ciclo formativo de Técnico Superior en
+Programación de la Producción en Fabricación Mecánica son los estable-
+cidos en el Real Decreto 1687/2007, de 14 de diciembre, y se reproducen
+en el Anexo III.
+2. Además de lo anteriormente indicado y de conformidad con el
+artículo 4.2 del Real Decreto 1834/2008, de 8 de noviembre, por el que
+se definen las condiciones de formación para el ejercicio de la docencia
+en la educación secundaria obligatoria, el bachillerato, la formación pro-
+fesional y las enseñanzas de régimen especial y se establecen las espe-
+cialidades de los cuerpos docentes de enseñanza secundaria, la atribución
+docente a especialidades del cuerpo de profesores de enseñanza secunda-
+ria se extenderá a las especialidades docentes del cuerpo de catedráticos
+de enseñanza secundaria que se establecen en el Real Decreto 1687/2007,
+de 14 de diciembre.
+
+27104
+Miércoles, 9 de septiembre 2009
+B.O.C. y L. - N.º 173
+Artículo 10.– Espacios y equipamientos. 
+1. Los espacios necesarios para el desarrollo de las enseñanzas de este
+ciclo formativo son los establecidos en el Real Decreto 1687/2007, de 14
+de diciembre, que se recogen como Anexo IV.
+2. Los espacios dispondrán de la superficie necesaria y suficiente
+para desarrollar las actividades de enseñanza que se deriven de los resul-
+tados de aprendizaje de cada uno de los módulos profesionales que se
+imparten en cada uno de los espacios, además deberán cumplir las
+siguientes condiciones:
+a) La superficie se establecerá en función del número de personas que
+ocupen el espacio formativo y deberá permitir el desarrollo de las
+actividades de enseñanza-aprendizaje con la «ergonomía» y la
+movilidad requerida dentro del mismo. 
+b) Cubrir la necesidad espacial de mobiliario, equipamiento e instru-
+mentos auxiliares de trabajo, así como la observación de los espa-
+cios o superficies de seguridad de las máquinas y equipos en su
+funcionamiento. 
+c) Cumplir con la normativa referida a la prevención de riesgos labo-
+rales, la seguridad y salud en el puesto de trabajo y cuantas otras
+normas les sean de aplicación. 
+3. Los espacios formativos establecidos pueden ser ocupados por
+diferentes grupos de alumnos que cursen el mismo u otros ciclos forma-
+tivos, o etapas educativas. 
+4. Los diversos espacios formativos identificados no deben diferen-
+ciarse necesariamente mediante cerramientos. 
+5. Los equipamientos que se incluyen en cada espacio han de ser los
+necesarios y suficientes para garantizar la adquisición de los resultados de
+aprendizaje y la calidad de la enseñanza a los alumnos según el sistema
+de calidad adoptado, además deberán cumplir las siguientes condiciones: 
+a) El equipamiento (equipos, máquinas, etc.) dispondrá de la instala-
+ción necesaria para su correcto funcionamiento, cumplirá con las
+normas de seguridad y prevención de riesgos y con cuantas otras
+sean de aplicación.
+b) La cantidad y características del equipamiento deberá estar en fun-
+ción del número de alumnos y permitir la adquisición de los resul-
+tados de aprendizaje, teniendo en cuenta los criterios de evaluación
+y los contenidos que se incluyen en cada uno de los módulos pro-
+fesionales que se impartan en los referidos espacios. 
+6. La Consejería competente en materia de educación velará para que
+los espacios y el equipamiento sean los adecuados en cantidad y caracte-
+rísticas para el desarrollo de los procesos de enseñanza y aprendizaje que
+se derivan de los resultados de aprendizaje de los módulos correspon-
+dientes y garantizar así la calidad de estas enseñanzas.
+Artículo 11.– Accesos y vinculación a otros estudios, y corresponden-
+cia de módulos profesionales con las unidades de competencia.
+El acceso y vinculación a otros estudios y la correspondencia de
+módulos profesionales con las unidades de competencia son los estable-
+cidos en el capítulo IV del Real Decreto 1687/2007, de 14 de diciembre,
+y se reproducen en el Anexo V.
+Artículo 12.– Principios metodológicos generales.
+1. La metodología didáctica de las enseñanzas de formación profe-
+sional integrará los aspectos científicos, tecnológicos y organizativos que
+en cada caso correspondan, con el fin de que el alumnado adquiera una
+visión global de los procesos productivos propios de la actividad profe-
+sional correspondiente.
+2. Las enseñanzas de formación profesional para personas adultas
+se organizarán con una metodología flexible y abierta, basada en el
+autoaprendizaje. 
+DISPOSICIONES ADICIONALES
+Primera.– Calendario de implantación.
+1. La implantación de los contenidos curriculares establecidos en el
+presente Decreto tendrá lugar en el curso escolar 2009/2010 para el pri-
+mer curso del ciclo formativo y en el curso escolar 2010-2011 para el
+segundo curso del ciclo formativo.
+2. El alumnado de primer curso que deba repetir, se matriculará de
+acuerdo con el nuevo currículo, teniendo en cuenta su calendario de
+implantación.
+3. En el curso 2009/2010, los alumnos de segundo curso con módu-
+los pendientes de primero se matricularán, excepcionalmente, de estos
+módulos profesionales de acuerdo con el currículo que los alumnos venían
+cursando. En este caso, se arbitrarán las medidas adecuadas que permitan
+la recuperación de las enseñanzas correspondientes.
+4. En el curso 2010/2011, los alumnos con módulos pendientes de
+segundo curso se podrán matricular, excepcionalmente, de estos módu-
+los profesionales de acuerdo con el currículo que los alumnos venían
+cursando. 
+5. A efecto de lo indicado en los apartados 3 y 4, el Departamento de
+Familia Profesional propondrá a los alumnos un plan de trabajo, con
+expresión de las capacidades terminales y los criterios de evaluación exi-
+gibles y de las actividades recomendadas, y programarán pruebas parcia-
+les y finales para evaluar los módulos profesionales pendientes.
+Segunda.– Titulaciones equivalentes y vinculación con capacitacio-
+nes profesionales.
+1. De acuerdo con lo establecido en la disposición adicional trigési-
+mo primera de la Ley Orgánica 2/2006, de Educación, los títulos de Téc-
+nico Especialista de la Ley 14/1970, de 4 de agosto, General de Educa-
+ción y Financiamiento de la Reforma Educativa, que a continuación se
+relacionan, tendrán los mismos efectos académicos y profesionales que el
+título de Técnico Superior en Programación de la Producción en Fabrica-
+ción Mecánica, establecido en el Real Decreto 1687/2007, de 14 de
+diciembre.
+a) Montaje y Construcción de Maquinaria (Metal).
+b) Micromecánica de Máquinas Herramientas (Metal). 
+c) Micromecánica de Instrumentos (Metal).
+d) Instrumentista en Sistemas de Medida (Metal).
+e) Utillajes y Montajes Mecánicos (Metal).
+f) Mecánico de Armas (Metal).
+g) Fabricación Mecánica (Metal).
+h) Máquinas-Herramientas (Metal).
+i) Matricería y Moldes (Metal).
+j) Control de Calidad (Metal).
+k) Micromecánica y Relojería (Metal).
+2. El título de Técnico Superior en Producción por Mecanizado, esta-
+blecido por el Real Decreto 2417/1994, de 16 de diciembre, tendrá los
+mismos efectos profesionales y académicos que el título de Técnico
+Superior en Programación de la Producción en Fabricación Mecánica,
+establecido en el Real Decreto 1687/2007, de 14 de diciembre. 
+3. La formación establecida en el presente Decreto para el módulo
+profesional de Formación y Orientación Laboral, incluye un mínimo de
+50 horas, que capacita para llevar a cabo responsabilidades profesionales
+equivalentes a las que precisan las actividades de nivel básico en preven-
+ción de riesgos laborales, establecidas en el Real Decreto 39/1997, de 17
+de enero, por el que se aprueba el Reglamento de los Servicios de
+Prevención. 
+Tercera.– Equivalencia a efectos de docencia en los procedimientos
+selectivos de ingreso en el Cuerpo de Profesores Técnicos de Formación
+Profesional.
+En los procesos selectivos convocados por la Consejería competente
+en materia de educación, se declaran equivalentes a efectos de docencia
+las titulaciones de Técnico Especialista y Técnico Superior en una espe-
+cialidad de formación profesional, siempre que se acredite una experien-
+cia docente en la misma de, al menos, dos años en centros educativos
+públicos dependientes de la Consejería competente en materia de educa-
+ción, cumplidos a 31 de agosto de 2007. 
+Cuarta.– Accesibilidad universal en las enseñanzas de este título.
+La Consejería competente en materia de educación adoptará las medi-
+das necesarias para que el alumnado pueda acceder y cursar este ciclo for-
+mativo en las condiciones establecidas en la disposición final décima de
+la Ley 51/2003, de 2 de diciembre, de igualdad de oportunidades, no dis-
+criminación y accesibilidad universal de las personas con discapacidad. 
+Quinta.– Regulación del ejercicio de la profesión.
+1. De conformidad con lo establecido en el Real Decreto 1538/2006,
+de 15 de diciembre, por el que se establece la ordenación general de la
+formación profesional del sistema educativo, los elementos recogidos en
+
+B.O.C. y L. - N.º 173
+Miércoles, 9 de septiembre 2009
+27105
+el presente Decreto no constituyen una regulación del ejercicio de profe-
+sión titulada alguna. 
+2. Asimismo, las equivalencias de titulaciones académicas estableci-
+das en el apartado 1 de la disposición adicional tercera del Real Decreto
+1687/2007, de 14 de diciembre, se entenderán sin perjuicio del cumpli-
+miento de las disposiciones que habilitan para el ejercicio de las profe-
+siones reguladas.
+Sexta.– Certificación académica de la formación de nivel básico en
+prevención de riesgos laborales.
+La Consejería competente en materia de educación expedirá una cer-
+tificación académica de la formación de nivel básico en prevención de
+riesgos laborales, al alumnado que haya superado el bloque B del módu-
+lo profesional de Formación y Orientación Laboral, de acuerdo con el
+procedimiento que se establezca al efecto.
+Séptima.– Autorización de los centros educativos. 
+Todos los centros de titularidad pública o privada que, en la fecha de
+entrada en vigor de este Decreto, tengan autorizadas enseñanzas condu-
+centes a la obtención del Título de Técnico Superior en Producción por
+Mecanizado, regulado en el Real Decreto 2417/1994, de 16 de diciembre,
+quedarán autorizados para impartir el título de Técnico Superior en Pro-
+gramación de la Producción en Fabricación Mecánica que se establece en
+el Real Decreto 1687/2007, de 14 de diciembre. 
+DISPOSICIÓN DEROGATORIA
+Derogación normativa.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se
+opongan a lo establecido en el presente Decreto.
+DISPOSICIONES FINALES
+Primera.– Desarrollo normativo.
+Se faculta al titular de la Consejería competente en materia de educa-
+ción para dictar cuantas disposiciones sean precisas para la interpreta-
+ción, aplicación y desarrollo de lo dispuesto en este Decreto.
+Segunda.– Entrada en vigor.
+El presente Decreto entrará en vigor el día siguiente al de su publica-
+ción en el «Boletín Oficial de Castilla y León».
+Valladolid, a 3 de septiembre de 2009.
+El Presidente de la Junta
+de Castilla y León,
+Fdo.: JUAN VICENTE HERRERA CAMPO
+El Consejero de Educación,
+Fdo.: JUAN JOSÉ MATEOS OTERO
+ANEXO I
+1. IDENTIFICACIÓN DEL TÍTULO
+1.1. DENOMINACIÓN: Programación de la Producción en Fabrica-
+ción Mecánica.
+1.2. FAMILIA PROFESIONAL: Fabricación Mecánica.
+1.3. NIVEL: Formación Profesional de Grado Superior.
+1.4. DURACIÓN DEL CICLO FORMATIVO: 2.000 horas.
+1.5. REFERENTE EUROPEO: CINE-5b (Clasificación Internacional
+Normalizada de la Educación).
+1.6. CÓDIGO: FME01S.
+2. CURRÍCULO
+2.1. Sistema productivo.
+2.1.1. Perfil Profesional.
+El perfil profesional del título de Técnico Superior en Programación
+de la Producción en Fabricación Mecánica queda determinado por su
+competencia general, sus competencias profesionales, personales y socia-
+les, y por la relación de cualificaciones y, en su caso, unidades de com-
+petencia del Catálogo Nacional de Cualificaciones Profesionales inclui-
+das en el título. 
+2.1.2. Competencia general.
+La competencia general de este título consiste en planificar, progra-
+mar y controlar la fabricación por mecanizado y montaje de bienes de
+equipo, partiendo de la documentación del proceso y las especificaciones
+de los productos a fabricar, asegurando la calidad de la gestión y de los
+productos, así como la supervisión de los sistemas de prevención de ries-
+gos laborales y protección ambiental. 
+2.1.3. Competencias profesionales, personales y sociales.
+Las competencias profesionales, personales y sociales de este título
+son las que se relacionan a continuación: 
+a) Determinar los procesos de mecanizado, interpretando la infor-
+mación técnica incluida en los planos, normas de fabricación y
+catálogos. 
+b) Elaborar los procedimientos de montaje de bienes de equipo, a par-
+tir de la interpretación de la información técnica incluida en los
+planos, normas de fabricación y catálogos. 
+c) Supervisar la programación y puesta a punto de las máquinas de
+control numérico, robots y manipuladores para el mecanizado ase-
+gurando el cumplimiento de las normativas de calidad, prevención
+de riesgos laborales y protección ambiental. 
+d) Programar la producción utilizando técnicas y herramientas de
+gestión informatizada, controlando su cumplimiento y respondien-
+do a situaciones imprevistas, para alcanzar los objetivos establecidos. 
+e) Determinar el aprovisionamiento necesario, a fin de garantizar el
+suministro en el momento adecuado, reaccionando ante las contin-
+gencias no previstas y resolviendo los conflictos surgidos en el
+aprovisionamiento. 
+f) Asegurar que los procesos de fabricación se ajustan a los procedi-
+mientos establecidos, supervisando y controlando el desarrollo de
+los mismos y resolviendo posibles contingencias que se puedan
+presentar. 
+g) Gestionar el mantenimiento de los recursos de su área, planifican-
+do, programando y verificando su cumplimiento en función de las
+cargas de trabajo y la necesidad del mantenimiento. 
+h) Mantener los modelos de gestión y sistemas de calidad, prevención
+de riesgos laborales y protección ambiental, supervisando y audi-
+tando el cumplimiento de normas, procesos e instrucciones y ges-
+tionando el registro documental. 
+i) Organizar, coordinar y potenciar el trabajo en equipo de los miem-
+bros de su grupo, en función de los requerimientos de los procesos
+productivos, motivando y ejerciendo influencia positiva sobre los
+mismos. 
+j) Potenciar la innovación, mejora y adaptación de los miembros del
+equipo a los cambios funcionales o tecnológicos para aumentar la
+competitividad. 
+k) Reconocer las competencias técnicas personales y sociales de su
+equipo planificando las acciones de aprendizaje para adecuarlas a
+las necesidades requeridas. 
+l) Crear y gestionar una pequeña empresa, realizando un estudio de
+viabilidad de productos, de planificación de la producción y de
+comercialización. 
+m) Participar de forma activa en la vida económica, social y cultural,
+con una actitud crítica y de responsabilidad. 
+2.1.4. Relación de cualificaciones y unidades de competencia del
+Catálogo Nacional de Cualificaciones Profesionales incluidas en el
+título.
+Cualificaciones profesionales completas: 
+a) FME187_3. Producción en mecanizado, conformado y montaje
+mecánico. (Real Decreto 1228/2006, de 27 de octubre) que com-
+prende las siguientes unidades de competencia: 
+UC0593_3. Definir procesos de mecanizado en fabricación
+mecánica. 
+UC0594_3. Definir procesos de conformado en fabricación
+mecánica. 
+UC0595_3. Definir procesos de montaje en fabricación mecánica. 
+
+27106
+Miércoles, 9 de septiembre 2009
+B.O.C. y L. - N.º 173
+UC0596_3. Programar el Control Numérico Computerizado
+(CNC) en máquinas o sistemas de mecanizado y conformado
+mecánico. 
+UC0591_3. Programar sistemas automatizados en fabricación
+mecánica.
+UC0592_3. Supervisar la producción en fabricación mecánica. 
+b) FME356_3. Gestión de la producción en fabricación mecánica.
+(1699/2007, de 14 de diciembre) que comprende las siguientes
+unidades de competencia: 
+UC1267_3. Programar y controlar la producción en fabricación
+mecánica. 
+UC1268_3. Aprovisionar los procesos productivos de fabrica-
+ción mecánica. 
+2.2. Entorno productivo.
+2.2.1. Entorno profesional.
+Este profesional ejerce su actividad en industrias transformadoras de
+metales relacionadas con los subsectores de construcción de maquinaria
+y equipo mecánico, de material y equipo eléctrico electrónico y óptico, y
+de material de transporte encuadrado en el sector industrial. 
+Las ocupaciones y puestos de trabajo más relevantes son los siguientes: 
+a) Técnicos en mecánica. 
+b) Encargados de instalaciones de procesamiento de metales. 
+c) Encargado de operadores de máquinas para trabajar metales. 
+d) Encargado de montadores. 
+e) Programador de CNC. 
+f) Programador de sistemas automatizados en fabricación mecánica. 
+g) Programador de la producción. 
+2.2.2. Prospectiva del título en el sector o sectores. 
+La Consejería competente en materia de educación tendrá en cuenta,
+al desarrollar el currículo, las siguientes consideraciones: 
+a) El perfil profesional de este título, evoluciona hacia una mayor
+integración, en la pequeña y mediana empresa, de los sistemas de
+gestión relacionados con la calidad, prevención de riesgos labora-
+les y la protección ambiental, complementado con la gestión de
+recursos y personas desde el conocimiento de las tecnologías y los
+procesos de fabricación, para alcanzar un alto grado de competiti-
+vidad en un sector muy globalizado. 
+b) Un aspecto importante de este perfil será la intervención en la
+cadena de suministro tratando aspectos relacionados con los pro-
+veedores y clientes en todas sus vertientes tecnológicas, relaciona-
+les y económicas. 
+c) La gestión de la producción se ve favorecida por el desarrollo de
+aplicaciones informáticas que facilitan el control y la toma de deci-
+siones para mantener un alto índice de productividad. Esto hace de
+este profesional la necesidad de tener capacidades relacionadas
+con la adaptación de soluciones de software de gestión especial-
+mente en la pequeña empresa. 
+d) Las estructuras organizativas tienden a configurarse sobre la base
+de decisiones descentralizadas, trabajo en equipo y asunción de
+funciones anteriormente asignadas a otros departamentos como
+calidad, logística, mantenimiento, producción, u otros. 
+e) La evolución tecnológica se está consolidando hacia la integración
+y automatización de los procesos, siendo cada vez más frecuente
+el mecanizado de alta velocidad y el mecanizado de alto rendi-
+miento (combinación de procesos) por lo que se requerirán com-
+petencias técnicas más polivalentes. 
+f) La flexibilidad en la producción será una constante para adaptarse
+a las exigencias del mercado y requerirá de este profesional capa-
+cidades asociadas a la preparación de sistemas de fabricación que
+requerirán dominios de tecnologías de programación CAM, PLCs
+y robots además de control de sistemas automáticos de tecnologí-
+as neumáticas, hidráulicas, eléctricas o sus combinaciones. 
+2.2.3. Entorno productivo de Castilla y León.
+La situación geográfica de Castilla y León le convierte en un área
+importante a nivel de comunicaciones interterritoriales. Esto ha favoreci-
+do que el tejido industrial se localice en ciudades con importancia logís-
+tica para las empresas y las mercancías y que la población se concentre
+en núcleos de tamaño medio, entre los que se encuentran las capitales de
+provincia, y en ellos se localizan las principales industrias y servicios. 
+Es de esperar que este tejido industrial se mantenga, e incluso incre-
+mente teniendo en cuenta las mejoras en las vías de comunicación y cier-
+to desplazamiento empresarial y de población.
+Además de contar con grandes empresas dedicadas a la fabricación
+mecánica, también resulta relevante la presencia de numerosas empresas
+de pequeño tamaño, que genera numerosos puestos de trabajo dentro este
+sector productivo.
+2.3. Objetivos generales del ciclo formativo.
+Los objetivos generales de este ciclo formativo son los siguientes: 
+a) Interpretar la información contenida en los planos de fabricación y
+de conjunto, analizando su contenido según normas de representa-
+ción gráfica, para determinar el proceso de mecanizado. 
+b) Analizar las necesidades operativas en la ejecución de las fases y
+las operaciones de mecanizado, para distribuir en planta los recur-
+sos necesarios en el desarrollo del proceso. 
+c) Analizar las necesidades operativas en la ejecución de las fases y
+las operaciones de montaje, para distribuir en planta los recursos
+necesarios en el desarrollo del proceso. 
+d) Interpretar el listado de instrucciones de programas, relacionando
+las características del mismo con los requerimientos del proceso
+para supervisar la programación y puesta a punto de máquinas
+herramientas de CNC, robot y manipuladores. 
+e) Reconocer y aplicar herramientas y programas informáticos de
+gestión para programar la producción. 
+f) Reconocer y aplicar técnicas de gestión, analizando el desarrollo
+de los procesos para determinar el aprovisionamiento necesario de
+materiales y herramientas a los puestos de trabajo. 
+g) Identificar, y valorar las contingencias que se pueden presentar en
+el desarrollo de los procesos analizando las causas que las provocan y
+tomando decisiones para resolver los problemas que originan. 
+h) Interpretar los planes de mantenimiento de los medios de produc-
+ción, relacionándoles con la aplicación de técnicas de gestión para
+supervisar el desarrollo y aplicación de los mismos. 
+i) Analizar los sistemas de calidad, prevención de riesgos laborales y
+protección ambiental identificando las acciones necesarias que hay
+que realizar para mantener los modelos de gestión y sistemas de
+calidad, prevención de riesgos laborales y protección ambiental. 
+j) Determinar posibles combinaciones de actuaciones de trabajo en
+equipo, valorando con responsabilidad su incidencia en la produc-
+tividad para cumplir los objetivos de producción. 
+k) Identificar nuevas competencias analizando los cambios tecnoló-
+gicos y organizativos, determinando y planificando las actuaciones
+necesarias para conseguirlas. 
+l) Adaptarse a diferentes puestos de trabajo y nuevas situaciones
+laborales, originados por cambios tecnológicos y organizativos en
+los procesos productivos. 
+m)Reconocer sus derechos y deberes como agente activo en la socie-
+dad, analizando el marco legal que regula las condiciones sociales
+y laborales para participar como ciudadano democrático. 
+n) Reconocer las oportunidades de negocio, identificando y analizan-
+do demandas del mercado para crear y gestionar una pequeña
+empresa. 
+ñ) Identificar y valorar las oportunidades de aprendizaje y empleo,
+analizando las ofertas y demandas del mercado laboral para ges-
+tionar su carrera profesional. 
+o) Valorar las actividades de trabajo en un proceso productivo, iden-
+tificando su aportación al proceso global para conseguir los obje-
+tivos de la producción.
+2.4. Módulos profesionales. 
+Los módulos profesionales que componen este ciclo formativo son:
+0007. Interpretación gráfica. 
+0160. Definición de procesos de mecanizado, conformado y montaje. 
+0002. Mecanizado por control numérico. 
+
+B.O.C. y L. - N.º 173
+Miércoles, 9 de septiembre 2009
+27107
+0161. Fabricación asistida por ordenador (CAM). 
+0162. Programación de sistemas automáticos de fabricación mecánica. 
+0163. Programación de la producción. 
+0164. Ejecución de procesos de fabricación. 
+0165. Gestión de la calidad, prevención de riesgos laborales y pro-
+tección ambiental.
+0166. Verificación de productos. 
+0167. Proyecto de fabricación de productos mecánicos. 
+0168. Formación y orientación laboral. 
+0169. Empresa e iniciativa emprendedora. 
+0170. Formación en centros de trabajo. 
+Módulo Profesional: Interpretación gráfica.
+Equivalencia en créditos ECTS: 7.
+Código: 0007.
+Resultados de aprendizaje y criterios de evaluación.
+1. Determina la forma y dimensiones de productos a construir, inter-
+pretando la simbología representada en los planos de fabricación.
+Criterios de evaluación:
+a) Se han reconocido los diferentes sistemas de representación gráfica.
+b) Se han descrito los diferentes formatos de planos empleados en
+fabricación mecánica.
+c) Se ha interpretado el significado de las líneas representadas en el
+plano (aristas, ejes, auxiliares, entre otros).
+d) Se ha interpretado la forma del objeto representado en las vistas o
+sistemas de representación gráfica.
+e) Se han identificado los cortes y secciones representados en los planos. 
+f) Se han interpretado las diferentes vistas, secciones y detalles de los
+planos, determinando la información contenida en éstos.
+g) Se han definido los criterios para la elección de la vista principal
+del objeto representado.
+h) Se han caracterizado las formas normalizadas del objeto represen-
+tado (roscas, soldaduras, entalladuras, y otros).
+2. Identifica tolerancias de formas y dimensiones y otras característi-
+cas de los productos que se quieren fabricar, analizando e interpretando
+la información técnica contenida en los planos de fabricación.
+Criterios de evaluación:
+a) Se ha definido el concepto de intercambiabilidad así como los con-
+ceptos fundamentales de la normalización de las tolerancias.
+b) Se han identificado los elementos normalizados que formaran
+parte del conjunto. 
+c) Se han interpretado las dimensiones y tolerancias (dimensionales,
+geométricas y superficiales) de fabricación de los objetos
+representados.
+d) Se han identificado los materiales del objeto representado.
+e) Se han identificado los tratamientos térmicos y superficiales del
+objeto representado.
+f) Se han representado las relaciones mecánicas existentes entre las
+piezas que encajan o se acoplan entre sí. 
+f) Se han determinado los elementos de unión.
+g) Se ha valorado la influencia de los datos determinados en la cali-
+dad del producto final.
+3. Realiza croquis de utillajes y herramientas para la ejecución de los
+procesos, definiendo las soluciones constructivas en cada caso.
+Criterios de evaluación:
+a) Se ha seleccionado el sistema de representación gráfica más ade-
+cuado para representar la solución constructiva.
+b) Se han preparado los instrumentos de representación y soportes
+necesarios.
+c) Se ha realizado el croquis de la solución constructiva del utillaje o
+herramienta según las normas de representación gráfica.
+d) Se ha representado en el croquis la forma, dimensiones (cotas,
+tolerancias dimensionales, geométricas y superficiales), tratamien-
+tos, elementos normalizados y materiales.
+e) Se ha realizado un croquis completo de forma que permita el des-
+arrollo y construcción del utillaje.
+f) Se han propuesto posibles mejoras de los útiles y herramientas
+disponibles.
+4. Interpreta esquemas de automatización de máquinas y equipos,
+identificando y relacionando los elementos representados en instalacio-
+nes neumáticas, hidráulicas, eléctricas, programables y no programables.
+Criterios de evaluación:
+a) Se ha interpretado la simbología utilizada para representar ele-
+mentos electrónicos, eléctricos, hidráulicos y neumáticos.
+b) Se han relacionado los componentes utilizados en automatización
+con los símbolos del esquema de la instalación.
+c) Se han identificado las referencias comerciales de los componen-
+tes de la instalación.
+d) Se han identificado los valores de funcionamiento de la instalación
+y sus tolerancias.
+e) Se han analizado los equipos con el objetivo de cumplir exacta-
+mente todos los ciclos de trabajo previstos.
+f) Se han identificado las conexiones y etiquetas de conexionado de
+la instalación. 
+g) Se han identificado los mandos de regulación del sistema.
+h) Se ha interpretado la simbología utilizada en los diagramas de
+flujo.
+5. Diseña modelos de entidades geométricas, utilizando aplicaciones
+informáticas.
+Criterios de evaluación:
+a) Se han empleado aplicaciones informáticas para la creación de
+entidades geométricas.
+b) Se han diseñado modelos para obtener planos de fabricación de
+piezas o conjuntos de éstas.
+Duración: 160 horas.
+Contenidos:
+1. Determinación de formas y dimensiones representadas en planos
+de fabricación:
+– Interpretación de planos de fabricación. 
+– Normas de dibujo industrial.
+– Designación normalizada de los materiales en los planos.
+– Geometría descriptiva.
+– Planos de conjunto y despiece.
+– Sistemas de representación gráfica.
+– Métodos de proyección.
+– Vistas. Elección de vistas.
+– Acotación. Disposición global de cotas.
+– Cortes y secciones.
+– Roturas o vistas interrumpidas.
+– Desarrollo metódico del trabajo.
+2. Identificación de tolerancias de dimensiones y formas:
+– Intercambiabilidad. Conceptos fundamentales.
+– Conceptos básicos de normalización de las tolerancias.
+– Sistemas ISO de tolerancias.
+– Interpretación de los símbolos utilizados en los planos de fabrica-
+ción. Acotación.
+– Representación de tolerancias dimensionales, geométricas y super-
+ficiales.
+– Ajustes. Representación y verificación de ajustes.
+– Manipulación de catálogos comerciales.
+– Representación de métodos de unión. Fijas y desmontables.
+– Representación de materiales.
+– Representación de tratamientos térmicos, termoquímicos, electro-
+químicos.
+– Representación de formas normalizadas (chavetas, roscas, guías,
+pasadores, soldaduras y otros).
+– Desarrollo metódico del trabajo.
+
+27108
+Miércoles, 9 de septiembre 2009
+B.O.C. y L. - N.º 173
+3. Realización de croquis de utillajes y herramientas:
+– Croquización a mano alzada de soluciones constructivas de herra-
+mientas y utillajes para procesos de fabricación.
+– Técnicas de croquización a mano alzada.
+– Creatividad e innovación en las soluciones constructivas.
+– Valoración del orden y limpieza en la realización del croquis.
+– Valoración del trabajo en equipo.
+4. Interpretación de esquemas de automatización:
+– Identificación de componentes en sistemas neumáticos, hidráuli-
+cos, eléctricos y programables.
+– Simbología de elementos neumáticos, hidráulicos, eléctricos, elec-
+trónicos y programables. Normalización.
+– Simbología de conexiones entre componentes. Normalización.
+– Esquemas de funcionamiento de máquinas y circuitos.
+– Etiquetas de conexiones.
+– Simbología en los diagramas de flujo.
+– Desarrollo metódico del trabajo.
+5. Diseño asistido por ordenador.
+Orientaciones metodológicas.
+Este módulo profesional contiene la formación necesaria para desem-
+peñar las funciones de la producción de construcciones metálicas.
+La formación del módulo contribuye a alcanzar el objetivo general a)
+b) y c) del ciclo formativo y la competencia a) del título.
+Las líneas de actuación en el proceso enseñanza-aprendizaje que per-
+miten alcanzar los objetivos del módulo versarán sobre:
+– La interpretación de información gráfica y técnica incluida en los
+planos de conjunto o fabricación, esquemas de automatización,
+catálogos comerciales, diseños asistidos por ordenador y cualquier
+otro soporte que incluya representaciones gráficas.
+– La propuesta de soluciones constructivas de elementos de sujeción
+y pequeños utillajes representados mediante croquis.
+Módulo Profesional: Definición de procesos de mecanizado, con-
+formado y montaje.
+Equivalencia en créditos ECTS: 10.
+Código: 0160.
+Resultados de aprendizaje y criterios de evaluación.
+1. Determina procesos de mecanizado por arranque de viruta, abra-
+sión, electroerosión y especiales, analizando y justificando la secuencia y
+variables del proceso.
+Criterios de evaluación:
+a) Se han analizado los materiales y productos mecánicos disponibles
+en el mercado, sus propiedades y aplicaciones, para su uso según
+las especificaciones solicitadas.
+b) Se han identificado los distintos procedimientos de mecanizado
+que intervienen en la fabricación mecánica.
+c) Se han relacionado las características dimensionales, de forma y
+cantidad de unidades a fabricar con los procedimientos de mecani-
+zado, las máquinas, herramientas y útiles necesarios para realizarlos.
+d) Se ha descompuesto el proceso de mecanizado en las fases y ope-
+raciones necesarias, determinando las dimensiones en bruto del
+material en cada una de ellas.
+e) Se han especificado, para cada fase y operación de mecanizado, los
+medios de trabajo, utillajes, herramientas, útiles de medida y com-
+probación.
+f) Se han especificado los parámetros de trabajo (velocidad, avance,
+profundidad de pasada, e intensidad de corriente, entre otros) que
+deben utilizarse en cada operación.
+g) Se ha identificado el estado (laminado, forjado, fundido, recocido,
+y templado, entre otros) del material que se debe mecanizar.
+h) Se han calculado los tiempos de cada operación y el tiempo unita-
+rio, como factor para la estimación de los costes de producción.
+i) Se han propuesto modificaciones en el diseño del producto que, sin
+menoscabo de su funcionalidad, mejoren su fabricación, calidad y
+coste.
+j) Se ha elaborado y gestionado la documentación técnica referente
+al proceso de mecanizado.
+k) Se han identificado los riesgos y las normas de protección ambien-
+tal aplicables al proceso.
+2. Determina procesos de conformado, analizando y justificando la
+secuencia y variables del proceso.
+Criterios de evaluación:
+a) Se han analizado los materiales y productos mecánicos disponibles
+en el mercado, sus propiedades y aplicaciones, para su uso según
+las especificaciones solicitadas.
+b) Se han identificado los distintos procedimientos de conformado
+que intervienen en la fabricación mecánica.
+c) Se han relacionado las características dimensionales, de forma y
+cantidad de unidades a fabricar con los procedimientos de con-
+formado, las máquinas, herramientas y útiles necesarios para
+realizarlos.
+d) Se ha descompuesto el proceso de conformado en las fases y ope-
+raciones necesarias, determinando las dimensiones en bruto del
+material en cada una de ellas.
+e) Se han especificado, para cada fase y operación de conformado,
+los medios de trabajo, utillajes, herramientas, útiles de medida y
+comprobación.
+f) Se han especificado los parámetros de trabajo (velocidad, avance,
+temperatura, fuerza, entre otros) que deben utilizarse en cada
+operación.
+g) Se ha identificado el estado (recocido, fundido, entre otros) del
+material que se debe conformar.
+h) Se han calculado los tiempos de cada operación y el tiempo unita-
+rio, como factor para la estimación de los costes de producción.
+i) Se han propuesto modificaciones en el diseño del producto que, sin
+menoscabo de su funcionalidad, mejoren su fabricación, calidad y
+coste.
+j) Se ha elaborado y gestionado adecuadamente la documentación
+técnica referente al proceso de conformado.
+k) Se han identificado los riesgos y las normas de protección ambien-
+tal aplicables al proceso.
+3. Determina procesos de montaje, analizando y justificando la
+secuencia y variables del proceso.
+Criterios de evaluación:
+a) Se han analizado los materiales y productos mecánicos disponibles
+en el mercado, considerando sus propiedades, estado y aplicacio-
+nes, para su uso según las especificaciones solicitadas.
+b) Se han identificado los distintos procedimientos de montaje que
+intervienen en la fabricación mecánica.
+c) Se han propuesto varios procesos de montaje, justificando el más
+adecuado desde el punto de vista de la eficiencia.
+d) Se han identificado las etapas, fases y operaciones del montaje,
+describiendo las secuencias de trabajo.
+e) Se han especificado, para cada fase y operación de montaje, los
+medios de trabajo, utillajes, herramientas, útiles de medida y
+comprobación.
+f) Se han determinado las condiciones de trabajo (temperatura, fuer-
+za, par de torsión, entre otras) de cada operación.
+g) Se han calculado y estimado los tiempos de cada operación, así
+como del total del montaje, para la determinación de los costes de
+producción.
+h) Se han propuesto modificaciones en el diseño del producto que, sin
+menoscabo de su funcionalidad, mejoren su montaje, calidad y
+coste.
+i) Se ha elaborado y gestionado adecuadamente la documentación
+técnica referente al proceso de montaje.
+j) Se han identificado los riesgos y las normas de protección ambien-
+tal aplicables al proceso.
+4. Determina los costes de mecanizado, conformado y montaje anali-
+zando los costes de las distintas soluciones de fabricación.
+Criterios de evaluación:
+a) Se han identificado los distintos componentes de coste de los pro-
+cesos de mecanizado, conformado y montaje.
+
+B.O.C. y L. - N.º 173
+Miércoles, 9 de septiembre 2009
+27109
+b) Se han comparado las distintas soluciones del mecanizado desde el
+punto de vista económico.
+c) Se ha valorado la influencia en el coste de la variación de los dis-
+tintos parámetros del mecanizado (velocidad de corte, avance, pro-
+fundidad de pasada, entre otros).
+d) Se han comparado las distintas soluciones del conformado desde el
+punto de vista económico.
+e) Se ha valorado la influencia en el coste de la variación de los dis-
+tintos parámetros del conformado (velocidad, cadencia, tempera-
+tura, entre otros).
+f) Se han comparado las distintas soluciones de montaje desde el
+punto de vista económico.
+g) Se ha realizado el presupuesto del proceso.
+5. Distribuye en planta las máquinas y equipos relacionando la dispo-
+sición física de los mismos con el proceso de fabricación.
+Criterios de evaluación:
+a) Se ha identificado las superficies necesarias para la ubicación de
+máquinas y equipos.
+b) Se han interpretado las etapas y fases del proceso.
+c) Se han propuesto varias soluciones para la distribución de los
+recursos.
+d) Se han determinado los flujos de materiales optimizando los
+recorridos.
+e) Se han identificado los cuellos de botella en la producción.
+f) Se han aplicado las normas de prevención de riesgos laborales y de
+protección ambiental en la distribución en planta de máquinas y
+equipos.
+Duración: 192 horas.
+Contenidos:
+1. Procesos de mecanizado:
+– Clasificación de los materiales: metálicos, polímeros, cerámicos,
+compuestos.
+– Propiedades y características de los materiales.
+– Diagramas de Fase.
+– Estructura de los aceros. Diagrama Fe-C.
+– Aleaciones férreas y no férreas.
+– Tipos de materiales utilizados en mecanizado. Formas comerciales.
+– Nomenclatura y siglas de comercialización.
+– Sistemas de transformación metalúrgica y aplicaciones.
+– Tratamientos térmicos y superficiales:
+– Tipos. Aplicaciones. Procedimientos.
+– Variables que se deben controlar en los procesos de tratamiento.
+– Influencia de los tratamientos térmicos y superficiales habituales
+en las fases de los procesos de mecanizado.
+– Herramientas de corte: 
+– Materiales y tipos. Denominación.
+– Funciones, formas y geometrías de corte.
+– Composición y características de las muelas. Estructura y elemen-
+tos constituyentes.
+– Selección de herramientas de corte:
+– Factores a considerar.
+– Rendimiento, desgaste y vida de las herramientas.
+– El fenómeno de la formación de la viruta: Parámetros que lo
+definen.
+– Mecanizado por arranque de viruta, abrasión, electroerosión y
+especiales.
+– Máquinas herramientas: 
+– Clasificación, capacidades y limitaciones.
+– Partes principales y funcionamiento.
+– Elementos de transmisión. Cadenas cinemáticas.
+– Operaciones fundamentales en las distintas máquinas.
+– Descripción de la secuencia de operaciones. 
+– Formas y calidades que se obtienen. 
+– Utillajes de sujeción y embridado de piezas: mordazas, bridas, pla-
+tos, pinzas, etc.
+– Condiciones de corte en las operaciones de mecanizado.
+– Cálculo de los parámetros de mecanizado.
+– Comportamiento de los materiales en los procesos de mecanizado.
+– Metrología: medición y verificación.
+– Instrumentos de medición y verificación.
+– Selección de útiles de medición y verificación en función de la
+medida o aspecto a comprobar.
+– Hojas de proceso.
+– Fluidos de corte.
+– Planificación metódica de las tareas a realizar con previsión de las
+dificultades y el modo de superarlas.
+– Reconocimiento y valoración de las técnicas de organización.
+– AMFE del proceso de mecanizado.
+2. Procesos de conformado:
+– Procedimientos y operaciones de corte y conformado.
+– Punzonado, troquelado, plegado, cizallado, procesado de chapa,
+curvado, forjado, embutido, extrusionado, laminado, trefilado, etc.
+– Máquinas para el conformado: 
+– Tipos.
+– Partes principales y funcionamiento.
+– Variables que definen su capacidad para la obtención de formas.
+– Sistemas de transformación y aplicaciones.
+– Formas comerciales de los materiales.
+– Descripción de la secuencia de operaciones de procesos de meca-
+nizado por corte y conformado.
+– Accesorios y utillajes.
+– Útiles de herramientas que intervienen en cada procedimiento.
+– Utillajes de sujeción y embridado de piezas.
+– Selección de herramientas empleadas en conformado.
+– Formas y calidades que se obtienen en las máquinas de corte y
+conformado.
+– Deformación plástica de los metales.
+– Comportamiento de los materiales en los procesos de conformado.
+– Definición de las variables y de los parámetros de trabajo (veloci-
+dad, avance, fuerza, par de torsión).
+– Selección de útiles de medición y verificación en función de la
+medida o aspecto a comprobar.
+– Procedimientos de medición y verificación utilizados en los pro-
+cesos de conformado.
+– Reconocimiento y valoración de las técnicas de organización.
+– AMFE de proceso de conformado.
+3. Procesos de montaje:
+– Procedimientos y sistemas de montaje.
+– Interpretación de la información de los manuales en los montajes. 
+– Ensamblado, pegado, entre otros.
+– Elementos de unión. Tipos de unión.
+– Selección de los métodos de unión más apropiados.
+– Esfuerzos que deben resistir los elementos de unión.
+– Máquinas, accesorios y utillajes.
+– Funcionamiento de las máquinas utilizadas en los montajes y las
+variables que definen su capacidad.
+– Materiales y elementos de montaje normalizados en fabricación
+mecánica.
+– Comportamiento de los materiales en el montaje.
+– Influencia de los tratamientos térmicos y superficiales habituales
+en las fases de los procesos de montaje.
+– Selección de herramientas.
+
+27110
+Miércoles, 9 de septiembre 2009
+B.O.C. y L. - N.º 173
+– Características de las herramientas y útiles de sujeción y de control. 
+– Procedimientos de medición y verificación utilizados en los pro-
+cesos de montaje.
+– Instrumentos de medida y verificación utilizados para medir las
+piezas y conjuntos montados.
+– Planificación metódica de las tareas a realizar con previsión de las
+dificultades y el modo de superarlas.
+– Criterios para la definición del orden de la colocación en los
+montajes.
+– Lubricantes y tratamientos contra la corrosión.
+– Reconocimiento y valoración de las técnicas de organización.
+– AMFE de procesos de montaje. 
+4. Valoración de costes de mecanizado, conformado y montaje:
+– Componentes del coste.
+– Cálculo y análisis de tiempos de los distintos procesos de: meca-
+nizado, conformado y montaje.
+– Cálculo de costes de los distintos procesos de: mecanizado, con-
+formado y montaje.
+– Elaboración de presupuestos de mecanizado, conformado y montaje.
+– Valoración de la disminución del coste en la competitividad del
+proceso.
+5. Distribución en planta:
+– Sistemas de fabricación y montaje en fabricación mecánica.
+– Manipulación, transporte y almacenaje en el mecanizado, confor-
+mado y montaje.
+– Distribución en planta de los recursos.
+– Consideraciones en la distribución en planta para la prevención de
+riesgos Laborales.
+– Consideraciones en la distribución en planta para la protección
+ambiental. 
+Orientaciones metodológicas.
+Este módulo profesional contiene la formación necesaria para desem-
+peñar la función de definición de procesos de fabricación.
+La función de definición de procesos de fabricación incluye aspectos
+como:
+– El desarrollo de procesos de mecanizado por arranque de viruta,
+abrasión, electroerosión y otros.
+– El desarrollo de procesos de conformado, punzonado, plegado,
+procesado de chapa, forjado, entre otros.
+– El desarrollo de procesos de montaje mecánico ensamblado, pega-
+do, entre otros. 
+– El cálculo de los costes de fabricación de los procesos de mecani-
+zado, conformado y montaje.
+Las actividades profesionales asociadas a esta función se aplican en:
+– El mecanizado con máquinas herramienta de arranque de viruta.
+– El mecanizado con máquinas herramienta de abrasión, electroero-
+sión, y especiales.
+– El mecanizado con máquinas herramienta de corte y conformado
+(térmico y mecánico).
+– El montaje de conjuntos mecánicos.
+La formación del módulo contribuye a alcanzar los objetivos genera-
+les b) c) y f) del ciclo formativo y las competencias a) b) y e) del título.
+Las líneas de actuación en el proceso enseñanza-aprendizaje que per-
+miten alcanzar los objetivos del módulo versarán sobre:
+– La identificación y análisis de las principales etapas, fases y ope-
+raciones que intervienen en los procesos de fabricación.
+– El comportamiento de los materiales empleados en fabricación
+mecánica en los procesos de mecanizado, conformado y montaje,
+contemplando la influencia de los diversos tratamientos térmicos y
+superficiales.
+– La distribución de máquinas, equipos e instalaciones en planta.
+– El desarrollo de procesos relacionando máquinas, equipos, herra-
+mientas, utillajes y sistemas en función del tipo de piezas y proceso
+de fabricación.
+– El cálculo y análisis de tiempos y costes de los procesos obser-
+vando la calidad del producto a obtener y la normativa aplicable a
+la prevención de riesgos laborales y protección medioambiental.
+Módulo Profesional: Mecanizado por control numérico.
+Equivalencia en créditos ECTS: 18.
+Código: 0002.
+Resultados de aprendizaje y criterios de evaluación.
+1. Elabora programas de control numérico, analizando y aplicando los
+distintos tipos de programación. 
+Criterios de evaluación:
+a) Se han identificado los lenguajes de programación de control
+numérico.
+b) Se han descrito las etapas en la elaboración de programas.
+c) Se han analizado las instrucciones generadas con las equivalentes
+en otros lenguajes de programación.
+d) Se ha realizado el programa de acuerdo con las especificaciones
+del manual de programación del control numérico computerizado
+(CNC) empleado. 
+e) Se han introducido los datos de las herramientas y los traslados de
+origen. 
+f) Se han introducido los datos tecnológicos en el programa de meca-
+nizado asistido por computador (CAM) para que el proceso se des-
+arrolle en el menor tiempo posible.
+g) Se ha verificado el programa simulando el mecanizado en el ordenador. 
+h) Se han corregido los errores detectados en la simulación. 
+i) Se ha guardado el programa en la estructura de archivos generada. 
+j) Se ha mostrado una actitud responsable e interés por la mejora del
+proceso. 
+2. Organiza su trabajo en la ejecución del mecanizado, analizando la
+hoja de procesos y elaborado la documentación necesaria.
+Criterios de evaluación:
+a) Se ha identificado la secuencia de operaciones de preparación de
+las máquinas en función de las características del proceso a realizar. 
+b) Se han identificado las herramientas, útiles y soporte de fijación de
+piezas. 
+c) Se han relacionado las necesidades de materiales y recursos nece-
+sarios en cada etapa.
+d) Se han establecido las medidas de seguridad en cada etapa. 
+e) Se ha determinado la recogida selectiva de residuos.
+f) Se han enumerado los equipos de protección individual para cada
+actividad. 
+g) Se han obtenido los indicadores de calidad a tener en cuenta en
+cada operación. 
+3. Prepara máquinas de control numérico (CNC), seleccionando los
+útiles y aplicando las técnicas o procedimientos requeridos.
+Criterios de evaluación:
+a) Se han seleccionado y montado las herramientas, útiles y soportes
+de fijación de piezas. 
+b) Se ha cargado el programa de control numérico.
+c) Se han ajustado los parámetros de la máquina. 
+d) Se han introducido los valores en las tablas de herramientas. 
+e) Se ha realizado el reglaje de herramientas.
+f) Se ha realizado la puesta en marcha y tomado la referencia de los
+ejes de la máquina.
+g) Se han seleccionado los instrumentos de medición o verificación
+en función de la operación a realizar. 
+h) Se han aplicado las normas de seguridad requeridas. 
+i) Se han identificado y se han resuelto satisfactoriamente los pro-
+blemas planteados en el desarrollo de su actividad.
+
+B.O.C. y L. - N.º 173
+Miércoles, 9 de septiembre 2009
+27111
+j) Se ha mantenido el área de trabajo con el grado apropiado de orden
+y limpieza.
+4. Controla el proceso de mecanizado, relacionando el funcionamien-
+to del programa de control numérico con las características del producto
+final. 
+Criterios de evaluación:
+a) Se han identificado los ciclos fijos y los subprogramas. 
+b) Se han descrito los modos de operación del CNC (en vacío, auto-
+mático, editor, periférico y otros). 
+c) Se han seleccionado los modos de operación adecuados para cada
+fase del proceso de mecanizado.
+d) Se ha comprobado que las trayectorias de las herramientas no
+generan colisiones con la pieza o con los órganos de la máquina en
+la simulación en vacío. 
+e) Se ha ajustado el programa de control numérico a pie de máquina
+para eliminar los errores. 
+f) Se ha ejecutado el programa de control numérico. 
+g) Se ha verificado la pieza obtenida y comprobado sus características. 
+h) Se han compensado los datos de las herramientas o en las trayec-
+torias para corregir las desviaciones observadas en la verificación
+de la pieza. 
+i) Se han aplicado las normas de prevención de riesgos laborales y
+protección ambiental requeridas.
+j) Se ha mantenido una actitud responsable y de respeto a las normas
+y procedimientos de seguridad y calidad.
+k) Se han valorado las ventajas de la fabricación por control numérico.
+l) Se han valorado las ventajas de la fabricación flexible.
+m)Se han generado y transferido a máquina programas de mecaniza-
+do mediante CAM.
+n) Se han elaborado y ejecutado programas de fabricación flexible.
+5. Cumple las normas de prevención de riesgos laborales y de protec-
+ción ambiental, identificando los riesgos asociados y las medidas y equi-
+pos para prevenirlos.
+Criterios de evaluación:
+a) Se han identificado los riesgos y el nivel de peligrosidad que supo-
+nen la manipulación de los distintos materiales, herramientas, úti-
+les, máquinas y medios de transporte.
+b) Se han operado las máquinas respetando las normas de seguridad.
+c) Se han identificado las causas más frecuentes de accidentes en la
+manipulación de materiales, herramientas, máquinas de mecaniza-
+do, corte y conformado.
+d) Se han descrito los elementos de seguridad (protecciones, alarmas,
+pasos de emergencia,…) de las máquinas y los equipos de protec-
+ción individual (calzado, protección ocular, indumentaria,…) que
+se deben emplear en las distintas operaciones de mecanizado.
+e) Se ha relacionado la manipulación de materiales, herramientas y
+máquinas con las medidas de seguridad y protección personal
+requeridos.
+f) Se han determinado las medidas de seguridad y de protección per-
+sonal que se deben adoptar en la preparación y ejecución de las
+operaciones de mecanizado.
+g) Se han identificado las posibles fuentes de contaminación del
+entorno ambiental.
+h) Se ha valorado el orden y la limpieza de instalaciones y equipos
+como primer factor de prevención de riesgos.
+Duración: 192 horas.
+Contenidos: 
+1. Programación de control numérico: 
+– Lenguajes de programación de control numérico. 
+– Técnicas de programación.
+– Definición de trayectorias.
+– Subrutinas.
+– Ciclos fijos de mecanizado.
+– Programación paramétrica.
+– Simulación de programas. 
+– Identificación y resolución de errores.
+– La iniciativa como herramienta de resolución de problemas.
+– Valoración del orden y limpieza en la ejecución de tareas. 
+– Planificación de la actividad.
+– Identificación y resolución de problemas.
+– Autoevaluación de resultados. 
+2. Organización del trabajo: 
+– Interpretación del proceso. 
+– Relación del proceso con los medios y máquinas. 
+– Distribución de cargas de trabajo. 
+– Elección de los medios y máquinas necesarios para la ejecución
+del proceso.
+– Medidas de prevención y de tratamientos de residuos. 
+– Calidad, normativas y catálogos. 
+– Control de la calidad y normativa aplicable.
+– Aplicación de medidas de prevención y de seguridad.
+– Planificación de las tareas.
+– Valoración del orden y limpieza durante las fases del proceso. 
+– Reconocimiento y valoración de las técnicas de organización. 
+3. Preparación de máquinas de control numérico: 
+– Manejo y uso de diversas máquinas de control numérico. 
+– Manejo y uso de diversos controles numéricos. 
+– Operaciones de amarre de piezas y herramientas: Centrado o toma
+de referencias. 
+– Montaje de piezas y herramientas.
+– Reglaje de herramientas. 
+– Transferencia de programas entre ordenador, periféricos y máquina.
+– Edición y simulación de programas de C.N.
+– Identificación y resolución de problemas. 
+– Utilización de manuales de la máquina. 
+– Aplicación de la normativa de prevención de riesgos laborales. 
+– Aplicación de la normativa de protección ambiental. 
+– Valoración del orden y limpieza durante las fases del proceso. 
+4. Control de procesos de mecanizado: 
+– Preparación y puesta a punto de accesorios (aparatos divisores, etc.).
+– Ejecución de operaciones de mecanizados en todo tipo máquinas
+herramientas de control numérico. 
+– Aplicación de medidas de prevención de riesgos laborales y de tra-
+tamientos de residuos.
+– Empleo de útiles de verificación y control. 
+– Corrección de las desviaciones de las piezas mecanizadas (tole-
+rancias dimensionales geométricas y superficiales).
+– Identificación y resolución de problemas. 
+– Valoración del orden y limpieza durante las fases del proceso. 
+– Actitud ordenada y metódica en la realización de las tareas. 
+5. Prevención de riesgos laborales y protección ambiental:
+– Identificación de riesgos.
+– Determinación de las medidas de prevención de riesgos laborales.
+– Prevención de riesgos laborales en las operaciones de mecanizado
+por arranque de viruta, abrasión, electroerosión, corte y conformado.
+– Sistemas de seguridad aplicados a las máquinas de mecanizado,
+corte y conformado.
+– Equipos de protección individual.
+– Cumplimiento de la normativa de prevención de riesgos laborales.
+– Cumplimiento de la normativa de protección ambiental.
+Orientaciones metodológicas.
+Este módulo profesional contiene la formación necesaria para desem-
+peñar la función de ejecución de mecanizado con máquinas automatiza-
+das de control numérico. 
+
+27112
+Miércoles, 9 de septiembre 2009
+B.O.C. y L. - N.º 173
+La función de ejecución de mecanizado por control numérico incluye
+aspectos como: 
+– Preparación de máquinas. 
+– Producción de productos de mecanizado. 
+– Control del proceso de mecanizado. 
+Este módulo tiene continuación en cuanto al desarrollo de sus conte-
+nidos con el módulo de 2.º curso «Fabricación asistida por ordenador
+(CAM)».
+Las actividades profesionales asociadas a esta función se aplican en:
+– El mecanizado por arranque de material con máquinas herramien-
+tas de corte, así como por abrasión, electroerosión y por procesos
+especiales. 
+– El mecanizado por conformado térmico y mecánico. 
+– El mecanizado por corte térmico y mecánico. 
+La formación del módulo contribuye a alcanzar el objetivo general d)
+del ciclo formativo y la competencia c) del título. 
+Las líneas de actuación en el proceso enseñanza-aprendizaje que per-
+miten alcanzar los objetivos del módulo versarán sobre:
+– El análisis de la programación, etapas significativas y leguajes uti-
+lizados, así como la elaboración de programas de control numéri-
+co de máquinas automatizadas. 
+– Las fases de preparación de la ejecución del mecanizado y de la
+adaptación y carga del programa propio de la máquina. 
+– La ejecución del programa mecanizado para obtener la primera
+pieza y ajuste requerido en función de los resultados. 
+Módulo Profesional: Fabricación asistida por ordenador (CAM). 
+Equivalencia en créditos ECTS: 5.
+Código: 0161.
+Resultados de aprendizaje y criterios de evaluación. 
+1. Modifica la geometría de la pieza interpretando las especificacio-
+nes del proceso de mecanizado aplicando técnicas de CAD. 
+Criterios de evaluación:
+a) Se ha importado la geometría de la pieza a modificar en un formato
+de intercambio adecuado al software de CAD que se va a emplear. 
+b) Se han identificado las superficies a mecanizar especificadas en el
+proceso. 
+c) Se ha realizado la manipulación de las superficies para asegurar el
+mecanizado (orientación, partición, división). 
+d) Se han empleado las herramientas de manipulación de superficies
+y sólidos mas adecuadas a la operación a realizar. 
+e) Se ha dibujado la geometría auxiliar necesaria para programar las
+operaciones CAM. 
+f) Se han organizado las nuevas geometrías generadas en capas o
+niveles de trabajo. 
+g) Se ha generado un archivo informático que contenga el objeto
+modelado en un formato exportable a un software de CAD/CAM. 
+2. Elabora programas de fabricación asistida por ordenador analizan-
+do las especificaciones del proceso de trabajo y aplicando técnicas de
+CAM. 
+Criterios de evaluación:
+a) Se ha configurado el entorno CAM en función de la máquina que
+se va a emplear. 
+b) Se ha situado correctamente la pieza a mecanizar según los ejes y
+sistemas de referencia. 
+c) Se han descrito las diferentes estrategias de mecanizado de las ope-
+raciones CAM. 
+d) Se han introducido los datos de las herramientas.
+e) Se ha realizado el reglaje de herramientas.
+f) Se ha realizado la puesta en marcha y tomado la referencia de los
+ejes de la máquina.
+g) Se ha verificado el programa simulando el mecanizado en el ordenador.
+h) Se han corregido los errores detectados en la simulación.
+i) Se ha realizado el postprocesado del programa CAM para el con-
+trol numérico que se va a utilizar.
+j) Se ha guardado el programa en el soporte adecuado.
+k) Se han simulado en máquina los programas transferidos. 
+l) Se ha mostrado una actitud responsable e interés por la mejora del
+proceso. 
+3. Organiza su trabajo en la ejecución del mecanizado, analizando la
+hoja de procesos y elaborando la documentación necesaria. 
+Criterios de evaluación:
+a) Se ha identificado la secuencia de operaciones de preparación de
+las máquinas en función de las características del proceso a realizar. 
+b) Se han identificado las herramientas, útiles y soporte de fijación de
+piezas. 
+c) Se han relacionado las necesidades de materiales y recursos nece-
+sarios en cada etapa. 
+d) Se han establecido las medidas de seguridad en cada etapa. 
+e) Se han identificado las causas más frecuentes de accidentes en la
+manipulación de materiales, herramientas, máquinas de mecaniza-
+do, corte y conformado. 
+f) Se ha determinado la recogida selectiva de residuos. 
+g) Se han enumerado los equipos de protección individual para cada
+actividad. 
+h) Se han obtenido los indicadores de calidad a tener en cuenta en
+cada operación. 
+4. Ajusta el programa de CAM comprobando que la pieza mecaniza-
+da y el proceso cumplen con las especificaciones establecidas. 
+Criterios de evaluación:
+a) Se ha transferido el programa CAM a la máquina de CNC según el
+procedimiento establecido. 
+b) Se ha comprobado que las trayectorias de las herramientas no
+generan colisiones con la pieza o con los órganos de la máquina en
+la simulación en vacío. 
+c) Se ha ajustado el programa de control numérico a pie de máquina
+para eliminar los errores detectados. 
+d) Se ha verificado la pieza y comprobado sus características. 
+e) Se han compensado los datos de las herramientas o de las trayec-
+torias para corregir las desviaciones observadas en la verificación
+de la pieza. 
+f) Se han aplicado las normas de prevención de riesgos laborales y
+protección ambiental requeridas. 
+g) Se ha mantenido una actitud de respeto a las normas y procedi-
+mientos de seguridad y calidad. 
+h) Se han identificado las posibles fuentes de contaminación del
+entorno ambiental. 
+i) Se ha relacionado la manipulación de materiales, herramientas y
+máquinas con las medidas de seguridad y protección personal
+requeridos.
+Duración: 126 horas.
+Contenidos: 
+1. Modificación de geometrías: 
+– Sistemas de representación en 2D. 
+– Sistemas de representación en 3D. 
+– Creación de entidades gráficas. 
+– Manipulación de entidades gráficas. 
+– Formatos de intercambio gráfico. 
+2. Programación asistida por ordenador (CAM): 
+– Definición y reglaje de herramientas.
+– Generación de trayectorias.
+– Definición de orígenes de coordenadas. 
+– Definición de planos referencia.
+– Operaciones de mecanizado. 
+
+B.O.C. y L. - N.º 173
+Miércoles, 9 de septiembre 2009
+27113
+– Estrategias de mecanizado. 
+– Mecanizado virtual. 
+– Lenguajes de maquina.
+– Post-procesadores.
+– Generación del código CNC. 
+– Comunicación con la máquina.
+– Transferencia de archivos.
+– Simulación del mecanizado en la máquina. 
+3. Organización del trabajo: 
+– Interpretación del proceso. 
+– Relación del proceso con los medios y máquinas. 
+– Introducción a los sistemas automatizados de fabricación Mecánica.
+– Sistemas de fabricación flexible. 
+– Distribución de cargas de trabajo. 
+– Medidas de prevención y de tratamientos de residuos. 
+– Sistemas de seguridad aplicados a las máquinas de mecanizado,
+corte y conformado.
+– Equipos de protección individual.
+– Calidad, normativas y catálogos. 
+– Planificación de las tareas. 
+– Valoración del orden y limpieza durante las fases del proceso. 
+– Reconocimiento y valoración de las técnicas de organización. 
+4. Ajuste de la programación: 
+– Ejecución de operaciones de mecanizado en máquinas herramien-
+tas de control numérico. 
+– Ejecución de operaciones de conformado en máquinas herramien-
+tas de control numérico. 
+– Empleo de útiles de verificación y control. 
+– Corrección de las desviaciones de las piezas mecanizadas (tole-
+rancias dimensionales, geométricas y superficiales). 
+– Identificación y resolución de problemas. 
+Orientaciones metodológicas.
+Este módulo profesional contiene la formación necesaria para desem-
+peñar la función de Programación de sistemas automatizados. 
+La función de Programación de sistemas automatizados incluye
+aspectos como la programación de máquinas de control numérico con
+CAM. 
+Las actividades profesionales asociadas a esta función se aplican en: 
+– El mecanizado por arranque de material con máquinas herramien-
+tas de corte, así como por abrasión, electroerosión y especiales. 
+– El mecanizado por corte y conformado térmico y mecánico. 
+La formación del módulo contribuye a alcanzar el objetivo general d)
+del ciclo formativo y la competencia c) del título. 
+El desarrollo de algunos de los contenidos de este módulo es la con-
+tinuación del módulo de 1.º curso «Mecanizado por Control Numérico».
+Las líneas de actuación en el proceso enseñanza-aprendizaje que per-
+miten alcanzar los objetivos del módulo versarán sobre: 
+– El análisis del proceso de trabajo, de las fases y operaciones que
+los componen, así como de las herramientas y útiles empleados. 
+– La obtención de geometrías en 2D y 3D válidas para su tratamien-
+to con aplicaciones CAM. 
+– La obtención de programas de control numérico de máquinas
+herramientas mediante herramientas cad/cam. 
+– Las fases de preparación de la ejecución del mecanizado y de la
+adaptación y carga del programa propio de la máquina. 
+– La ejecución del programa de mecanizado para obtener la primera
+pieza y ajuste requerido en función de los resultados. 
+– Propuestas de mejora del proceso para aumentar el rendimiento de
+los equipos. 
+Módulo Profesional: Programación de sistemas automáticos de
+fabricación mecánica. 
+Equivalencia en créditos ECTS: 9.
+Código: 0162.
+Resultados de aprendizaje y criterios de evaluación.
+1. Identifica los componentes de una instalación automatizada de
+fabricación mecánica, analizando su funcionamiento y ubicación en los
+sistemas de producción.
+Criterios de evaluación:
+a) Se han descrito las características de una instalación automatizada
+de fabricación (gestión de herramientas y utillajes, gestión de pie-
+zas, fabricación y verificación).
+b) Se ha interpretado la información de esquemas de automatización
+neumática, hidráulica, eléctrica, y sus combinaciones.
+c) Se han enumerado los diferentes elementos que componen un sis-
+tema automatizado, relacionándolos con la función que realizan.
+d) Se han descrito los distintos tipos de robots y manipuladores indi-
+cando sus principales características.
+e) Se han analizado las diferentes tecnologías de automatización
+(neumática, eléctrica, hidráulica, electroneumohidráulica, electró-
+nica) y valorando la oportunidad de uso de cada una de ellas.
+f) Se han explicado las diferencias de configuración de los sistemas
+de fabricación automática (célula, sistema de fabricación flexible,
+entorno CIM).
+g) Se han valorado las ventajas e inconvenientes de los sistemas auto-
+matizados frente a otros sistemas de fabricación.
+h) Se han descrito el funcionamiento y la estructura de las comunica-
+ciones entre los distintos elementos y el gestor.
+i) Se han desarrollado las actividades con responsabilidad mostrando
+compromiso con la profesión.
+2. Elabora los programas de los componentes de un sistema automa-
+tizado analizando y aplicando los distintos tipos de programación.
+Criterios de evaluación:
+a) Se ha descrito la función que debe realizar cada uno de los com-
+ponentes del sistema en el ámbito del proceso a automatizar.
+b) Se han detallado los movimientos y las trayectorias que deben de
+seguir los elementos que se van programar (robots, manipuladores,
+actuadores).
+c) Se han elaborado los programas para el control de los robots y
+manipuladores.
+d) Se han elaborado los programas de los controladores lógicos
+(PLCs).
+e) Se han elaborado los programas de gestión del sistema automati-
+zado.
+f) Se ha establecido el sistema de transferencia PLCs – PC.
+g) Se han introducido los datos utilizando el lenguaje específico.
+h) Se ha verificado el programa realizando la simulación de los siste-
+mas programables.
+i) Se han comprobado las variables (aceleración, fuerza, presión,
+velocidad, u otros.).
+j) Se ha comprobado en la simulación que las trayectorias cumplen
+con las especificaciones.
+k) Se han corregido los errores detectados en la simulación.
+l) Se ha guardado el programa en el soporte adecuado.
+m)Se han resuelto los problemas planteados en el desarrollo de su
+actividad.
+n) Se han propuesto actividades de mejora con el fin de optimizar la
+gestión de la producción. 
+ñ) Se ha aplicado la normativa de prevención de riesgos laborales y
+protección ambiental.
+3. Organiza y pone a punto componentes de una instalación automa-
+tizado seleccionando y aplicando las técnicas o procedimientos requeridos.
+
+27114
+Miércoles, 9 de septiembre 2009
+B.O.C. y L. - N.º 173
+Criterios de evaluación:
+a) Se han configurado los componentes de la instalación atendiendo
+al proceso de fabricación.
+b) Se han transferido los programas de robots, manipuladores y PLCs
+desde el archivo fuente al sistema.
+c) Se han identificado los elementos de accionamientos de corrección
+(estranguladores, limitadores de caudal, limitadores de potencia).
+d) Se han colocado las herramientas y útiles de acuerdo con la
+secuencia de operaciones programada.
+e) Se ha realizado la puesta en marcha de los equipos aplicando el
+procedimiento establecido en el manual.
+f) Se han verificado las magnitudes de las variables con los instru-
+mentos adecuados (manómetros, reglas, tacómetros, y otros.).
+g) Se han seleccionado los instrumentos de medición o verificación
+en función de la operación a realizar.
+h) Se han adoptado las medidas de protección necesarias para garan-
+tizar la seguridad personal y la integridad de los equipos.
+i) Se han resuelto satisfactoriamente los problemas planteados en el
+desarrollo de su actividad.
+j) Se ha mantenido el área de trabajo con el grado apropiado de orden
+y limpieza.
+k) Se han aplicado normas de prevención de riesgos laborales y pro-
+tección ambiental.
+4. Controla y supervisa los sistemas automatizados analizando el pro-
+ceso y ajustando los parámetros de las variables del sistema.
+Criterios de evaluación:
+a) Se han efectuado las pruebas en vacío necesarias para la compro-
+bación del funcionamiento del sistema.
+b) Se han seleccionado y posicionado los diferentes tipos de sensores.
+c) Se han establecido procedimiento para realizar mediciones.
+d) Se ha comprobado que el proceso cumple con las especificaciones
+de producción descritas.
+e) Se han realizado las modificaciones en los programas a partir de
+las desviaciones observadas en la verificación del proceso.
+f) Se ha monitorizado en pantalla el estado del proceso y de sus com-
+ponentes.
+g) Se han propuesto mejoras en el sistema que supongan un aumento
+del rendimiento y/o de la calidad del producto.
+h) Se han aplicado las normas de prevención de riesgos laborales y
+protección ambiental requeridas.
+i) Se ha mantenido una actitud de respeto a las normas y procedi-
+mientos de seguridad y calidad.
+j) Se han descrito las operaciones de mantenimiento de primer nivel
+de equipos, máquinas y herramientas.
+k) Se han verificado y mantenido los niveles de los lubricantes.
+Duración: 126 horas.
+Contenidos:
+1. Automatización de procesos de fabricación mecánica:
+– Interpretación de esquemas de automatización neumáticos, hidráu-
+licos, eléctricos y sus combinaciones.
+– Fundamentos de la automatización de la fabricación.
+– Células, líneas y sistemas de fabricación flexible.
+– Integración de sistemas flexibles.
+– Aplicaciones de la robótica en fabricación.
+– Procesos de transporte y montaje automático.
+– Sistemas modulares automáticos de útiles y herramientas.
+– Fabricación integrada por ordenador (CIM).
+– Automatización neumática.
+– Automatización Hidráulica.
+– Automatización electroneumohidráulica.
+– Automatización Eléctrica y electrónica.
+– Relacionar los elementos mecánicos, neumáticos hidráulicos,
+eléctricos.
+2. Programación de sistemas automáticos:
+– Robots.
+– Manipuladores.
+– Controladores lógicos programables.
+– Lenguajes de programación de PLCs y robots.
+– Programación de PLCs.
+– Programación de robots.
+– Transferencia PLCs- PC.
+– Planificación de las actividades.
+– Elaborar programas de gestión del sistema.
+– Variables a controlar (fuerzas, velocidad, presión, tiempo).
+– Modificación de programas.
+– Realizar simulación de cargas.
+3. Preparación de sistemas automatizados:
+– Planificación de la actividad.
+– Puesta en marcha de máquinas y equipos.
+– Reglaje de máquinas y accesorios.
+– Montaje de útiles y herramientas.
+– Órganos de regulación.
+– Parámetros de control.
+– Útiles de verificación (cronómetros, manómetros, caudalímetros,
+presostatos…).
+– Riesgos laborales asociados a la preparación de máquinas. 
+– Factores y situaciones de riesgo.
+– Riesgos medioambientales asociados a la preparación de máquinas.
+4. Control y supervisión:
+– Control de la estación de trabajo.
+– Distribución de las instrucciones de control a las estaciones de
+trabajo.
+– Control de la producción.
+– Control del tráfico.
+– Control de las herramientas.
+– Monitorización de piezas.
+– Informes y control de seguimiento.
+– Sistemas SCADA.
+– Diagnósticos.
+– Identificación y resolución de problemas.
+– Procedimiento para realizar mediciones.
+– Sensores. Tipos y aplicaciones.
+– Realizar las operaciones de mantenimiento (engrase, niveles de
+líquido y evacuación de residuos.
+– Plan de mantenimiento y documento de registro.
+Orientaciones metodológicas.
+Este módulo profesional contiene la formación necesaria para desem-
+peñar la función de Programación de sistemas automatizados.
+La función de Programación de sistemas automatizados incluye
+aspectos como:
+– La programación de robots y manipuladores.
+– La programación de controles lógicos (PLCs).
+– La preparación de máquinas.
+– La puesta a punto de máquinas.
+– La supervisión y control del proceso de fabricación.
+Las actividades profesionales asociadas a esta función se aplican en:
+– El mecanizado por arranque de material con máquinas herramien-
+tas de corte, así como por abrasión, electroerosión y especiales.
+– El mecanizado por corte y conformado térmico y mecánico.
+
+B.O.C. y L. - N.º 173
+Miércoles, 9 de septiembre 2009
+27115
+La formación del módulo contribuye a alcanzar los objetivos genera-
+les d) y h) del ciclo formativo y las competencias c) y f) del título.
+Las líneas de actuación en el proceso enseñanza-aprendizaje que per-
+miten alcanzar los objetivos del módulo versarán sobre:
+– El análisis de instalaciones automatizadas describiendo su funcio-
+namiento, componentes, estructura y tipología.
+– La programación de robots, manipuladores y PLCs y la integración
+de sistemas neumohidráulicos.
+– La puesta en marcha del proceso automático requerido montando
+los elementos que intervienen y regulando y controlando la res-
+puesta del sistema, respetando los espacios de seguridad y la apli-
+cación de los equipos de protección individual.
+– La supervisión y control del proceso de fabricación, obteniendo
+informes de seguimiento, realizando los diagnósticos correspon-
+dientes y efectuando la toma de decisiones oportunas para mejorar
+el rendimiento del sistema.
+Módulo Profesional: Programación de la Producción.
+Equivalencia en créditos ECTS: 8.
+Código: 0163.
+Resultados de aprendizaje y criterios de evaluación.
+1. Elabora programas de fabricación analizando las capacidades pro-
+ductivas de las instalaciones, sus posibles adaptaciones y las necesidades
+de aprovisionamiento.
+Criterios de evaluación:
+a) Se ha identificado la cantidad de piezas a fabricar así como el
+plazo de ejecución en función de los plazos de entrega.
+b) Se ha determinado el tamaño de los lotes de producción.
+c) Se han identificado los equipos, utillajes e instalaciones disponi-
+bles que respondan al procedimiento establecido.
+d) Se ha identificado la ruta que debe seguir el material en proceso.
+e) Se ha identificado la capacidad de los equipos disponibles. 
+f) Se ha analizado la relación carga y capacidad total de los recursos
+utilizados para eliminar cuellos de botella y optimizar la producción.
+g) Se han determinado la producción por unidad de tiempo para satis-
+facer la demanda en el plazo previsto.
+h) Se han distribuido las tareas dependiendo del perfil de los recursos
+humanos y de los recursos materiales disponibles.
+i) Se han elaborado los gráficos y diagramas empleados en los estu-
+dios de planificación y programación de la producción.
+j) Se han descrito los sistemas de producción justo a tiempo, así
+como los requisitos de implementación de los mismos, estable-
+ciendo un control total de la calidad.
+k) Se han definido los principales problemas de la planificación y
+programación de la producción.
+2. Elabora el plan de mantenimiento y define los parámetros de con-
+trol del mismo, relacionando los requerimientos de los medios y las nece-
+sidades de la producción.
+Criterios de evaluación:
+a) Se han explicado los términos más importantes a emplear en man-
+tenimiento (fiabilidad, disponibilidad y mantenibilidad).
+b) Se han analizado los diferentes tipos de mantenimiento, estable-
+ciendo las diferencias, ventajas e inconvenientes de cada uno de
+ellos.
+c) Se ha identificado el tipo de mantenimiento necesario para cada
+uno de los equipos e instalaciones del ámbito de trabajo.
+d) Se ha establecido el plan de mantenimiento minimizando las inter-
+ferencias con la producción.
+e) Se han descrito las actuaciones que se deberían llevar a cabo en
+caso de fallo de la producción (por causa de la avería de una
+máquina, herramienta defectuosa, parámetros incorrectos).
+f) Se ha elaborado un catálogo de repuestos considerando los grupos
+de máquinas, identificado qué elementos de sustitución necesitan
+un stock mínimo, cuáles son intercambiables, entre otros.
+g) Se han registrado los controles y revisiones efectuadas para con-
+trolar su cumplimiento y así poder asegurar la trazabilidad de los
+procesos.
+h) Se han distribuido las tareas dependiendo del perfil de los recursos
+humanos y de los recursos materiales disponibles.
+i) Se han planificado metódicamente las tareas a realizar con previ-
+sión de las dificultades y el modo de superarlas.
+3. Gestiona la documentación empleada en la programación de la pro-
+ducción definiendo y aplicando un plan de organización y procesado de
+la información.
+Criterios de evaluación:
+a) Se han definido las funciones de un código, así como los benefi-
+cios de un sistema de codificación.
+b) Se han identificado los documentos necesarios para programar y
+controlar la producción.
+c) Se han utilizado programas informáticos de ayuda a la organiza-
+ción y control de la producción.
+d) Se han generado los diferentes documentos de trabajo (hojas de
+ruta, lista de materiales, fichas de trabajo, control estadístico del
+proceso, entre otros).
+e) Se ha registrado toda la documentación en los sistemas de gestión
+de calidad, medio ambiente y/o prevención de riesgos laborales.
+f) Se ha organizado y archivado la documentación técnica consulta-
+da y/o generada.
+g) Se han planificado metódicamente las tareas a realizar con previ-
+sión de las dificultades y el modo de superarlas.
+4. Controla la producción relacionando las técnicas para el control
+con los requerimientos de producción. 
+Criterios de evaluación:
+a) Se ha identificado el modelo de control de la producción más ade-
+cuado para el proceso de fabricación.
+b) Se han descrito todas y cada una de las fases que componen el
+modelo de control de la producción.
+c) Se han identificado el tamaño de los lotes de fabricación y los pla-
+zos de entrega.
+d) Se ha determinado el método de seguimiento de la producción que
+permite optimizar el control de la misma así como el tiempo de
+reacción en caso de que fuera necesario.
+e) Se han caracterizado modelos de reprogramación para periodos de
+especial disposición de recursos o modificación de la demanda.
+f) Se han descrito estrategias de supervisión y control de la producción.
+g) Se han reconocido y valorado las técnicas de organización y ges-
+tión en la realización de las tareas de control de la producción.
+h) Se han interpretado y elaborado informes destinados al seguimien-
+to y control de la fabricación.
+i) Se han establecido los tiempos-tipo designados a cada operación
+básica. 
+j) Se ha definido un plan diario de control de producción.
+k) Se ha mostrado interés por la exploración de soluciones técnicas
+ante problemas que se presenten y también como elemento de
+mejora del proceso.
+5. Determina el plan de aprovisionamiento de materias primas y com-
+ponentes necesarios analizando los modelos de aprovisionamiento.
+Criterios de evaluación:
+a) Se ha definido el concepto de stock, así como los distintos tipos de
+existencias objeto del aprovisionamiento.
+b) Se han identificado las necesidades de materias primas y compo-
+nentes a proveer en función del producto y del proceso de trabajo.
+c) Se ha calculado la cantidad óptima de material así como la fre-
+cuencia con la que se deberá disponer del mismo con relación a los
+lotes de producción.
+d) Se han determinado la localización y tamaño de los stocks.
+e) Se han determinado los medios de transporte internos así como la
+ruta que deberán seguir.
+
+27116
+Miércoles, 9 de septiembre 2009
+B.O.C. y L. - N.º 173
+f) Se han identificado las características de los transportes externos
+que afectan al aprovisionamiento.
+g) Se ha determinado el plan de aprovisionamiento teniendo en cuen-
+ta el stock y los tiempos de entrega de los proveedores.
+h) Se ha planificado metódicamente las tareas a realizar con previsión
+de las dificultades y el modo de superarlas.
+i) Se han explicado los procedimientos del control de aprovisiona-
+miento (control de almacén, puntos de distribución, plazos, forma
+de entrega, destinos, entre otros), indicando las medidas de correc-
+ción más usuales (descuentos, devolución, entre otros).
+j) Se han analizado los distintos costos de aprovisionamiento.
+6. Gestiona el almacén relacionando las necesidades de almacena-
+miento según los requerimientos de la producción con los procesos de
+almacenaje, manipulación y distribución interna.
+Criterios de evaluación:
+a) Se han establecido los objetivos del almacenamiento con el fin de
+una gestión y control de inventarios apropiada.
+b) Se han identificado las acciones necesarias para verificar docu-
+mentalmente que los productos recepcionados corresponden con
+los solicitados.
+c) Se ha descrito el método de almacenaje más adecuado al tamaño y
+características de la organización. 
+d) Se ha caracterizado los distintos tipos de almacén de planta o de
+puesto de trabajo y su organización.
+e) Se ha definido el tipo de embalaje y/o contenedores para optimizar
+el espacio y la manipulación de las mercancías.
+f) Se ha definido el sistema óptimo de etiquetado para facilitar la
+identificación del producto.
+g) Se han explicado los principales sistemas de control de existencias,
+valorando sus ventajas, inconvenientes y aplicaciones.
+h) Se han analizado los distintos costos de almacenaje y distribución.
+i) Se han identificado los riesgos para la seguridad y salud de los tra-
+bajadores y protección ambiental en las fases de recepción de
+materiales, almacenamiento y expedición de producto.
+j) Se ha determinado la frecuencia y métodos utilizados para el con-
+trol del inventario.
+Duración: 126 horas.
+Contenidos:
+1. Programación de la producción:
+– Productividad. Eficiencia. Eficacia. Efectividad. 
+– Ciclo productivo.
+– Políticas de producción. Distintas políticas de producción: con
+limitaciones de stoks, producción regular y extraordinaria, produc-
+ción por lotes.
+– Planificación de la producción.
+– Problemas de planificación de la producción.
+– MRP.
+– Capacidad de máquina.
+– Carga de trabajo.
+– Asignación y secuenciación de cargas de trabajo.
+– Rutas de producción.
+– Diagrama del proceso.
+– Lotes de producción.
+– Camino critico.
+– Distribución de la planta industrial.
+– Tecnología de producción optimizada. OPT. 
+– Teoría de las limitaciones (T.O.C.). 
+– Sistemas de producción justo a tiempo. JIT.
+– Requisitos de implementación del JIT.
+– Control total de la calidad.
+– Ingeniería concurrente.
+– Software de gestión de la producción GPAO.
+– Principales problemas de la programación de la producción.
+2. Mantenimiento:
+– Terminología del mantenimiento (fiabilidad, disponibilidad y man-
+tenibilidad).
+– Tipos de mantenimiento: correctivo, preventivo, predictivo y
+proactivo.
+– Mantenimiento sistemático y condicional.
+– Mantenimiento centrado en la fiabilidad (RCM).
+– Mantenimiento productivo total (TPM).
+– Mantenimiento eléctrico.
+– Mantenimiento mecánico.
+– Planes de mantenimiento.
+– Software de gestión de mantenimiento.
+3. Documentación:
+– Tratamiento, archivo y consulta de la documentación. 
+– Documentos para la programación de la producción: diagrama del
+proceso, distribución en planta, hojas de ruta, lista de materiales,
+fichas de trabajo, hojas de instrucciones, planos de fabricación,
+control estadístico del proceso, hoja de toma de tiempos, entre otros.
+– Funciones del código.
+– Técnicas de codificación y archivo de documentación.
+– Beneficios de un sistema de codificación.
+– Software de gestión documental de la planificación y control de la
+producción.
+4. Control de la producción:
+– Fases del control de la producción.
+– Técnicas de control de la producción.
+– Estadística aplicada al control de la producción.
+– Supervisión de procesos.
+– Reprogramación.
+– Métodos de seguimiento de la producción: PERT, GANTT, ROY,
+coste mínimo.
+5. Aprovisionamiento:
+– Concepto de stock.
+– Tipos de existencias.
+– Demanda aleatoria. Stock de seguridad.
+– Lote óptimo de pedido.
+– Plan de aprovisionamiento. 
+– Planificación de los requerimientos de materiales MRP y MRP II. 
+– Lanzamiento de órdenes. Hoja de pedido.
+– Transporte y flujo de materiales.
+– Modalidades de transporte.
+– Rutas de aprovisionamiento y logística de distribución y transporte.
+– Objetivos de la logística.
+– Gestión con proveedores.
+– Gestión de stocks.
+– Costos de aprovisionamiento.
+6. Almacenaje y distribución:
+– Objetivos del almacenamiento.
+– Logística de almacenamiento.
+– Sistemas de almacenaje.
+– Manipulación de mercancías.
+– Gestión de almacén.
+– Embalaje y etiquetado.
+– Control de inventarios.
+– Costos de almacenaje y distribución.
+– Sistemas informáticos de gestión de logística y almacenamiento.
+
+B.O.C. y L. - N.º 173
+Miércoles, 9 de septiembre 2009
+27117
+Orientaciones metodológicas.
+Este módulo profesional contiene la formación necesaria para desem-
+peñar la función de gestión y control de la producción.
+La función de gestión y control de la producción incluye aspectos
+como:
+– Gestión de la producción utilizando herramientas y programas
+informáticos específicos.
+– Aprovisionamiento de materiales y herramientas aplicando técni-
+cas de gestión para determinar el aprovisionamiento de los puestos
+de trabajo.
+– Supervisión del mantenimiento aplicando técnicas de planificación
+y seguimiento para gestionar el mantenimiento de los recursos de
+producción.
+– Cumplimiento de los objetivos de la producción, colaborando con
+el equipo de trabajo y actuando conforme a los principios de res-
+ponsabilidad y tolerancia.
+Las actividades profesionales asociadas a esta función se aplican en:
+– El mecanizado por arranque de material con máquinas herramien-
+tas de corte, así como por abrasión, electroerosión y por procesos
+especiales.
+– El mecanizado por conformado térmico y mecánico.
+– El mecanizado por corte térmico y mecánico.
+La formación del módulo contribuye a alcanzar los objetivos genera-
+les e), f), g), j), k) y p) del ciclo formativo y las competencias d), e), g),
+i) y k) del título.
+Las líneas de actuación en el proceso enseñanza-aprendizaje que per-
+miten alcanzar los objetivos del módulo versarán sobre:
+– La elaboración y control de programas de producción y manteni-
+miento para el aseguramiento de las características y plazos de
+entrega requeridos.
+– La gestión de aprovisionamiento, almacenaje y distribución de
+materias primas así como de productos acabados.
+Módulo Profesional: Ejecución de procesos de fabricación.
+Equivalencia en créditos ECTS: 9.
+Código: 0164.
+Resultados de aprendizaje y criterios de evaluación.
+1. Organiza la ejecución de los procesos de fabricación interpretando
+las especificaciones del producto y las hojas de proceso.
+Criterios de evaluación:
+a) Se han analizado las características que afectan a su procesado,
+tanto de los materiales como de los productos mecánicos que se
+van a emplear en la fabricación del producto.
+b) Se ha analizado el funcionamiento de las máquinas, equipos,
+herramientas y utillajes, así como las condiciones de trabajo de
+cada técnica en lo que afecta al producto a fabricar y a los medios
+de producción.
+c) Se ha identificado la secuencia de operaciones a realizar en las
+máquinas, en función de las especificaciones solicitadas y de la
+hoja de proceso.
+d) Se han identificado las herramientas, útiles y soportes de fijación
+de piezas.
+e) Se han identificado las necesidades de materiales y recursos nece-
+sarios en cada fase.
+f) Se han establecido las medidas de seguridad en cada fase.
+g) Se ha determinado la recogida selectiva de residuos.
+h) Se han estipulado los equipos de protección individual para cada
+actividad.
+i) Se han identificado y concretado los indicadores de calidad a tener
+en cuenta en cada operación.
+2. Prepara y pone a punto las máquinas, equipos, utillajes y herra-
+mientas que intervienen en el proceso de mecanizado y de montaje apli-
+cando las técnicas y procedimientos requeridos.
+Criterios de evaluación:
+a) Se han descrito las funciones de las máquinas y sistemas de fabri-
+cación, así como los útiles y accesorios.
+b) Se han verificado y regulado los mecanismos, dispositivos, presio-
+nes y caudales de las máquinas.
+c) Se han seleccionado las herramientas y utillajes en función de las
+características de cada operación.
+d) Se ha comprobado la correcta geometría de corte y dimensiones de
+referencia de las herramientas.
+e) Se han montado, alineado y regulado las herramientas, útiles y
+accesorios necesarios.
+f) Se han introducido los parámetros del proceso de mecanizado en
+la máquina.
+g) Se ha montado la pieza sobre el utillaje centrándola y alineándola
+con la precisión exigida y aplicando la normativa de seguridad.
+h) Se ha realizado correctamente la toma de referencias de acuerdo
+con las especificaciones del proceso.
+i) Se ha mantenido el área de trabajo con el grado apropiado de orden
+y limpieza.
+j) Se ha actuado con rapidez en situaciones problemáticas.
+3. Opera las máquinas y equipos que intervienen en el proceso de
+mecanizado y de montaje, relacionando su funcionamiento con las con-
+diciones del proceso y las características del producto final.
+Criterios de evaluación:
+a) Se han descrito los modos característicos de obtener formas
+mediante los distintos sistemas de fabricación.
+b) Se han descrito los modos característicos de montar elementos de
+fabricación mecánica.
+c) Se ha descrito el fenómeno de la formación de la viruta en los dis-
+tintos materiales utilizados, así como los defectos más comunes en
+el procesado de chapa y las causas que los provocan.
+d) Se ha descrito el fenómeno de desgaste de las herramientas indi-
+cando los tipos y límites tolerables.
+e) Se han descrito las distintas variables a tener en cuenta para el
+montaje: ajustes, alineación, rugosidad, temperatura, presiones,
+pares de apriete, entre otros.
+f) Se ha aplicado la técnica operativa necesaria para ejecutar el
+proceso.
+g) Se han comprobado las características de las piezas mecanizadas y
+montadas.
+h) Se han comprobado las características de los conjuntos montados.
+i) Se han analizado las diferencias entre el proceso definido y el
+realizado.
+j) Se han relacionado los errores más frecuentes de forma final en las
+piezas con los defectos de amarre y alineación.
+k) Se ha discernido si las deficiencias son debidas a las herramientas,
+condiciones y parámetros de corte, máquinas o al material.
+l) Se han corregido las desviaciones del proceso actuando sobre la
+máquina o herramienta.
+m)Se ha mantenido el área de trabajo con el grado apropiado de orden
+y limpieza.
+n) Se ha actuado metódicamente y con rapidez en situaciones problemáticas.
+4. Realiza el mantenimiento de primer nivel de las máquinas, herra-
+mientas y utillajes relacionándolo con su funcionalidad.
+Criterios de evaluación:
+a) Se ha reconocido el plan de mantenimiento de cada una de las
+máquinas, herramientas y utillaje.
+b) Se han descrito las operaciones de mantenimiento de usuario de
+herramientas, máquinas y equipos de fabricación.
+c) Se han localizado los elementos sobre los que hay que actuar.
+d) Se han realizado desmontajes y montajes de elementos simples de
+acuerdo con el procedimiento.
+e) Se ha realizado el listado de operaciones de mantenimiento para
+que la máquina, herramienta o útil actúe dentro de los parámetros
+exigidos.
+f) Se han recogido residuos de acuerdo con las normas de protección
+ambiental.
+
+27118
+Miércoles, 9 de septiembre 2009
+B.O.C. y L. - N.º 173
+g) Se ha valorado la importancia de realizar el mantenimiento de pri-
+mer nivel en los tiempos establecidos.
+5. Cumple las normas de prevención de riesgos laborales y de protec-
+ción ambiental, identificando los riesgos asociados y las medidas y equi-
+pos para prevenirlos.
+Criterios de evaluación:
+a) Se han identificado los riesgos y el nivel de peligrosidad que supo-
+ne la manipulación de los distintos materiales, herramientas, útiles,
+máquinas y medios de transporte.
+b) Se han identificado las causas más frecuentes de accidentes en la
+manipulación de materiales, herramientas, máquinas y equipos.
+c) Se han descrito los elementos de seguridad (protecciones, alarmas,
+pasos de emergencia, entre otros) de las máquinas y los equipos de
+protección individual (calzado, protección ocular, indumentaria,
+entre otros) que se deben emplear en las distintas operaciones del
+proceso de fabricación.
+d) Se ha relacionado la manipulación de materiales, herramientas,
+máquinas y equipos con las medidas de seguridad y protección
+personal requeridas.
+e) Se han determinado los elementos de seguridad y de protección
+personal que se deben adoptar en la preparación y ejecución de las
+distintas operaciones del proceso de fabricación.
+f) Se ha aplicado la normativa de seguridad utilizando los sistemas de
+seguridad y de protección personal.
+g) Se han identificado las posibles fuentes de contaminación del
+entorno ambiental.
+h) Se han descrito los medios de vigilancia más usuales de afluentes
+y efluentes, en los procesos de producción y depuración en la
+industria de fabricación mecánica.
+i) Se ha justificado la importancia de las medidas de protección, en
+lo referente a su propia persona, la colectividad y el medio ambiente.
+Duración: 192 horas.
+Contenidos: 
+1. Organización del trabajo:
+– Análisis del producto a fabricar.
+– Identificación de las máquinas en el taller.
+– Identificación de los materiales, herramientas, útiles y soportes de
+fijación de las piezas.
+– Organización de las distintas fases del proceso, contemplando la
+relación con los medios y máquinas.
+– Análisis de la documentación sobre calidad, normativas y catálogos.
+– Medidas de prevención y de tratamientos de residuos.
+2. Preparación de máquinas, equipos, utillajes y herramientas:
+– Elementos y mandos de las máquinas.
+– Preparación de máquinas, equipos, utillajes y herramientas.
+– Verificación y alineación de los elementos de la máquina.
+– Trazado y marcado de piezas.
+– Montaje y reglaje de utillajes.
+– Montaje de piezas, herramientas, utillajes y accesorios para el
+mecanizado.
+– Regulación de parámetros del proceso.
+– Medios de refrigeración y lubricación.
+– Toma de referencias.
+3. Operaciones de mecanizado, conformado y montaje:
+– Funcionamiento de las máquinas herramientas.
+– Operaciones fundamentales.
+– Técnicas operativas de arranque de viruta.
+– Herramientas de corte.
+– Análisis e influencia de los desgastes de la herramienta.
+– Selección de herramientas y utillajes en función de las caracterís-
+ticas de cada operación. 
+– Parámetros de corte.
+– Útiles de verificación y medición en función de la medida o aspec-
+to que se ha de comprobar.
+– Metrología y verificación de piezas.
+– Afilado de herramientas:
+– Tipos de máquinas. Funcionamiento.
+– Geometría de corte.
+– Técnicas operativas de afilado.
+– Mecanizado con abrasivos.
+– Máquinas para la abrasión. Tipos.
+– Elementos constituyentes y su funcionamiento.
+– Operaciones fundamentales y formas obtenibles.
+– Herramientas y utillajes en función de las características de cada
+operación.
+– Técnicas operativas de rectificado.
+– Parámetros de corte. 
+– Máquinas de electroerosión. Tipos.
+– Elementos constituyentes y su funcionamiento.
+– Operaciones fundamentales y formas obtenibles.
+– Técnicas operativas en el mecanizado por electroerosión: por
+penetración y corte.
+– Parámetros de erosión.
+– Mecanizados especiales.
+– Mecanizado por chorro de agua.
+– Mecanizado por ultrasonidos.
+– Mecanizado por láser.
+– Mecanizado por plasma.
+– Técnicas operativas en los mecanizados especiales.
+– Útiles de verificación y medición en función de la medida o aspec-
+to que se ha de comprobar.
+– Corte y conformado.
+– Máquinas para el corte y conformado.
+– Operaciones fundamentales.
+– Formas y calidades que se obtienen en las máquinas de corte y
+conformado.
+– Útiles y herramientas que intervienen en cada procedimiento.
+– Prerreglaje de piezas y herramientas.
+– Técnicas operativas de corte y conformado.
+– Modificaciones para corregir desviaciones en la calidad del pro-
+ducto obtenido.
+– Defectos en el procesado de chapas y perfiles y las causas que los
+provocan.
+– Montaje de conjuntos mecánicos.
+– Técnicas operativas de montaje.
+– Variables que se han de tener en cuenta para el montaje: ajustes,
+alineación, rugosidad, temperatura, presiones, pares de apriete.
+– Verificación del funcionamiento del conjunto.
+– Lubricación y tratamientos contra la corrosión.
+– Valoración del trabajo responsable.
+– Actitud ordenada y metódica en la realización de tareas.
+4. Mantenimiento de máquinas y equipos:
+– Engrases, niveles de líquidos y liberación de residuos.
+– Técnicas y procedimientos para la sustitución de elementos.
+– Plan de mantenimiento y documentación de registro.
+– Valoración del orden y limpieza en la ejecución de tareas. 
+– Participación solidaria en los trabajos de equipo.
+5. Prevención de riesgos laborales y protección ambiental:
+– Prevención de riesgos laborales en las operaciones de mecanizado,
+conformado y montaje.
+– Factores físicos del entorno de trabajo.
+– Factores químicos del entorno de trabajo.
+
+B.O.C. y L. - N.º 173
+Miércoles, 9 de septiembre 2009
+27119
+– Sistemas de seguridad aplicados a las máquinas.
+– Equipos de protección individual.
+– Cumplimiento de la normativa de prevención de riesgos laborales.
+– Cumplimiento de la normativa de protección ambiental.
+– Gestión de residuos en el taller.
+Orientaciones metodológicas.
+Este módulo profesional contiene la formación necesaria para desem-
+peñar la función de producción.
+La función de producción incluye aspectos como:
+– La preparación de máquinas, equipos, utillajes y herramientas.
+– La puesta a punto de máquinas, equipos, utillajes y herramientas.
+– La ejecución del mecanizado y montaje de elementos.
+– Mantenimiento de usuario o de primer nivel.
+Las actividades profesionales asociadas a esta función se aplican en:
+– El mecanizado por arranque de material con máquinas herramien-
+ta de corte.
+– El mecanizado por arranque de material con máquinas herramien-
+ta de abrasión, electroerosión y especiales.
+– El mecanizado sin arranque de material con máquinas herramien-
+ta de corte y conformado (térmico y mecánico).
+– El montaje de conjuntos mecánicos. 
+La formación del módulo contribuye a alcanzar los objetivos genera-
+les b), c) y j) del ciclo formativo y las competencias a), b), c), f) del título.
+Las líneas de actuación en el proceso enseñanza-aprendizaje que per-
+miten alcanzar los objetivos del módulo versarán sobre:
+– La preparación y puesta a punto de las máquinas, equipos, utilla-
+jes y herramientas que intervienen en el proceso.
+– La ejecución de operaciones de mecanizados de productos mecá-
+nicos de acuerdo con el proceso estipulado y con la calidad del
+producto a obtener, observando actuaciones relativas a:
+– Detección de fallos o desajustes en la ejecución de las fases del
+proceso y su correspondiente corrección actuando sobre la
+máquina o herramienta.
+– Realización del mantenimiento de primer nivel en los tiempos
+establecidos.
+– La aplicación de las medidas de seguridad y aplicación de los
+equipos de protección individual en la ejecución operativa.
+– La aplicación de la normativa de Protección ambiental relacio-
+nada con los residuos, aspectos contaminantes y tratamiento de
+los mismos.
+La ejecución de operaciones de montaje de conjuntos mecánicos de
+acuerdo con el proceso estipulado y la calidad del producto a obtener. 
+Módulo Profesional: Gestión de la calidad, prevención de riesgos
+laborales y protección ambiental. 
+Equivalencia en créditos ECTS: 9.
+Código: 0165.
+Resultados de aprendizaje y criterios de evaluación. 
+1. Define actuaciones para facilitar la implantación y mantenimiento
+de los sistemas de aseguramiento de la calidad interpretando los concep-
+tos y factores básicos de los mismos. 
+Criterios de evaluación:
+a) Se han identificado los fundamentos y principios de los sistemas
+de aseguramiento de la calidad. 
+b) Se han identificado los requisitos legales establecidos en los siste-
+mas de gestión de la calidad. 
+c) Se han descrito los requisitos y el procedimiento que se deben
+incluir en una auditoría interna de la calidad. 
+d) Se han descrito el soporte documental y los requisitos mínimos
+que deben contener los documentos para el análisis del funciona-
+miento de los sistemas de calidad. 
+e) Se ha interpretado el contenido de las normas que regulan el ase-
+guramiento de la calidad. 
+f) Se ha controlado la documentación de un sistema de aseguramien-
+to de la calidad. 
+g) Se ha descrito el procedimiento estándar de actuación en una
+empresa para la certificación en un sistema de calidad. 
+2. Define actuaciones para facilitar la implantación y mantenimiento
+de los modelos de excelencia empresarial interpretando los conceptos y
+factores básicos de los mismos. 
+Criterios de evaluación:
+a) Se han identificado los conceptos y finalidades de un sistema de
+calidad total. 
+b) Se ha descrito la estructura organizativa del modelo EFQM identi-
+ficando las ventajas e inconvenientes del mismo. 
+c) Se han detectado las diferencias del modelo de EFQM con otros
+modelos de excelencia empresarial. 
+d) Se han descrito los requisitos y el procedimiento que se deben
+incluir en una autoevaluación del modelo. 
+e) Se han descrito metodologías y herramientas de gestión de la cali-
+dad (5s, gestión de competencias, gestión de procesos, entre otras). 
+f) Se han relacionado las metodologías y herramientas de gestión de
+la calidad con su campo de aplicación. 
+g) Se han definido los principales indicadores de un sistema de cali-
+dad en las industrias de fabricación mecánica. 
+h) Se han seleccionado las posibles áreas de actuación en función de
+los objetivos de mejora indicados. 
+i) Se han relacionado objetivos de mejora caracterizados por sus
+indicadores con las posibles metodologías o herramientas de la
+calidad susceptibles de aplicación.
+j) Se ha planificado la aplicación de la herramienta o modelo. 
+k) Se han elaborado los documentos necesarios para la implantación
+y seguimiento de un sistema de gestión de la calidad. 
+l) Se ha descrito el procedimiento estándar de actuación en una
+empresa para la obtención del reconocimiento a la excelencia
+empresarial. 
+3. Define actuaciones para facilitar la implantación y mantenimiento
+de los sistemas de la prevención de riesgos laborales interpretando los
+conceptos y factores básicos de los mismos. 
+Criterios de evaluación:
+a) Se han identificado los fundamentos, principios y requisitos lega-
+les establecidos en los sistemas de prevención de riesgos laborales. 
+b) Se han descrito los elementos que integran un plan de emergencia
+en el ámbito de la empresa. 
+c) Se ha explicado mediante diagramas y organigramas la estructura
+funcional de la prevención de riesgos laborales en una empresa
+tipo. 
+d) Se han descrito los requisitos y el procedimiento que se deben
+incluir en una auditoría interna de la prevención de riesgos laborales. 
+e) Se han descrito los requisitos mínimos que debe contener el siste-
+ma documental de la prevención de riesgos laborales y su control. 
+f) Se han clasificado los equipos de protección individual con rela-
+ción a los peligros de los que protegen. 
+g) Se han descrito las operaciones de mantenimiento, conservación y
+reposición, de los equipos de protección individual. 
+h) Se ha descrito la forma de utilizar los equipos de protección indi-
+vidual. 
+i) Se han descrito las técnicas de promoción de la prevención de ries-
+gos laborales.
+j) Se han evaluado los riesgos de un medio de producción según la
+norma. 
+k) Se han relacionado los factores de riesgo con las técnicas preven-
+tivas de actuación. 
+4. Define actuaciones para facilitar la implantación y mantenimiento
+de los sistemas de gestión ambiental interpretando los conceptos y facto-
+res básicos de los mismos. 
+
+27120
+Miércoles, 9 de septiembre 2009
+B.O.C. y L. - N.º 173
+Criterios de evaluación:
+a) Se han identificado los fundamentos y principios de los sistemas
+de gestión ambiental. 
+b) Se han identificado los requisitos legales establecidos en los siste-
+mas de gestión ambiental. 
+c) Se han descrito los requisitos y el procedimiento que se deben
+incluir en una auditoría interna. 
+d) Se han descrito los requisitos mínimos que deben contener los
+documentos para el análisis del funcionamiento de los sistemas de
+gestión ambiental. 
+e) Se ha interpretado el contenido de las normas que regulan la pro-
+tección ambiental. 
+f) Se han elaborado procedimientos para el control de la documenta-
+ción de un sistema de protección ambiental. 
+g) Se han descrito las técnicas de promoción de la reducción de
+contaminantes. 
+h) Se ha descrito el programa de control y reducción de contaminantes. 
+i) Se han establecido pautas de compromiso ético con los valores de
+conservación y defensa del patrimonio ambiental y cultural de la
+sociedad. 
+5. Reconoce los principales focos contaminantes que pueden generar-
+se en la actividad de las empresas de fabricación mecánica describiendo
+los efectos de los agentes contaminantes sobre el medio ambiente. 
+Criterios de evaluación:
+a) Se ha representado mediante diagramas el proceso productivo de
+una empresa tipo de fabricación mecánica. 
+b) Se han identificado los principales agentes contaminantes aten-
+diendo a su origen y los efectos que producen sobre los diferentes
+medios receptores y la normativa básica que les afecta.
+c) Se ha elaborado el inventario de los aspectos medioambientales
+generados en la actividad industrial. 
+d) Se han clasificado los diferentes focos en función de su origen pro-
+poniendo medidas correctoras. 
+e) Se han identificado los límites legales aplicables. 
+f) Se han identificado las diferentes técnicas de muestreo incluidas
+en la legislación o normas de uso para cada tipo de contaminante. 
+g) Se han identificado las principales técnicas analíticas utilizadas, de
+acuerdo con la legislación y/o normas internacionales. 
+h) Se ha explicado el procedimiento de recogida de datos más idóneo
+respecto a los aspectos ambientales asociados a la actividad o
+producto. 
+i) Se han aplicado programas informáticos para el tratamiento de los
+datos y realizado cálculos estadísticos.
+j) Se han propuesto alternativas válidas para la gestión de los resi-
+duos, desde la minimización, hasta su disposición final. 
+k) Se han definido procedimientos para convertir la gestión de los
+residuos en un punto más dentro de las actividades cotidianas de
+las empresas, con una visión clara de sus ventajas.
+Duración: 128 horas.
+Contenidos: 
+1. Aseguramiento de la calidad: 
+– Terminología básica de calidad.
+– Origen y evolución del concepto de calidad.
+– Evolución de la gestión de la calidad.
+– Normas de aseguramiento de la calidad. Norma ISO. 
+– Normalización y certificación.
+– Política de calidad.
+– Sistema documental. Manual de calidad: control de documentos.
+– Descripción de procesos. Procedimientos. Registros. Indicadores.
+Objetivos. 
+– Auditorías: tipos, objetivos y metodologías empleadas. 
+2. Gestión de la calidad: 
+– Principios de la gestión de la calidad. 
+– Gestión de la calidad total.
+– Diferencias entre los modelos de excelencia empresarial. 
+– El modelo europeo EFQM Los criterios del modelo EFQM. Eva-
+luación de la empresa al modelo EFQM. El modelo ISO.
+– Implantación de modelos de excelencia empresarial. 
+– Sistemas de autoevaluación: ventajas e inconvenientes. 
+– Proceso de autoevaluación. 
+– Plan de mejora. Medición y análisis. 
+– Aspectos económicos de la calidad.
+– Reconocimiento a la empresa. Certificaciones.
+– Herramientas de la calidad total. («5s», gestión de competencias,
+gestión de procesos, entre otros). 
+3. Prevención de riesgos laborales: 
+– Disposiciones de ámbito estatal, autonómico o local. 
+– Clasificación de normas por sector de actividad y tipo de riesgo. 
+– La prevención de riesgos en las normas internas de las empresas.
+– Áreas funcionales de la empresa relacionadas con la prevención.
+Organigramas. 
+– La organización de la prevención dentro de la empresa. 
+– Equipos y lugares de trabajo. 
+– Protección colectiva.
+– Señalización de seguridad. 
+– Plan de prevención. 
+– Técnicas de prevención.
+– Equipos de protección individual con relación a los peligros de los
+que protegen. Normas de conservación y mantenimiento. 
+– Normas de certificación y uso. 
+– Promoción de la cultura de la prevención de riesgos como modelo
+de política empresarial. 
+4. Protección del medio ambiente: 
+– Disposiciones de ámbito estatal y autonómico.
+– Áreas funcionales de la empresa relacionadas con la protección
+ambiental. 
+– Organigramas. 
+– La organización de la protección ambiental dentro de la empresa. 
+– Planificación, Implantación y Funcionamiento.
+– Responsabilidades Medioambientales.
+– Promoción de la cultura de la protección ambiental como modelo
+de política empresarial. 
+5. Gestión de los residuos industriales: 
+– Residuos industriales más característicos. 
+– Documentación necesaria para formalizar la gestión de los resi-
+duos industriales. 
+– Recogida y transporte de residuos industriales. 
+– Centros de almacenamiento de residuos industriales. 
+– Minimización de los residuos industriales: modificación del pro-
+ducto, optimización del proceso, buenas prácticas y utilización de
+tecnologías limpias. 
+– Técnicas de muestreo y recogida de datos. 
+– Reciclaje en origen.
+– Técnicas estadísticas de evaluación de la protección ambiental. 
+– La mejora continua en la gestión de residuos. 
+– Comprobación de la acción correctora.
+Orientaciones metodológicas.
+Este módulo profesional contiene la formación necesaria para desem-
+peñar la función de calidad en fabricación mecánica. 
+La función de calidad incluye aspectos como: 
+– La gestión de los sistemas de calidad. 
+– La prevención de riesgos laborales. 
+– La protección ambiental. 
+
+B.O.C. y L. - N.º 173
+Miércoles, 9 de septiembre 2009
+27121
+Las actividades profesionales asociadas a esta función se aplican en: 
+– El mecanizado por arranque de material con máquinas herramien-
+tas de corte, así como por abrasión, electroerosión y especiales. 
+– El conformado térmico y mecánico. 
+– El montaje de productos de fabricación mecánica. 
+La formación del módulo contribuye a alcanzar el objetivo general i)
+del ciclo formativo, y la competencia h) del título. 
+Las líneas de actuación en el proceso enseñanza-aprendizaje que per-
+miten alcanzar los objetivos del módulo versarán sobre: 
+– La implantación y mantenimiento de los procedimientos de asegu-
+ramiento de la calidad. 
+– La implantación y mantenimiento de los modelos de excelencia
+empresarial. 
+– La implantación y mantenimiento de los sistemas de prevención de
+riesgos laborales. 
+– La implantación y mantenimiento del sistema de protección
+ambiental.
+En este módulo se tratan contenidos que están relacionados con el
+bloque de Prevención de Riesgos del módulo de Formación y Orientación
+Laboral. Se hará más hincapié en el aspecto de la gestión de los sistemas
+de Prevención de Riesgos Laborales. Las programaciones didácticas se
+realizarán en coordinación con las del módulo de Formación y Orienta-
+ción Laboral.
+Módulo Profesional: Verificación de productos. 
+Equivalencia en créditos ECTS: 9.
+Código: 0166.
+Resultados de aprendizaje y criterios de evaluación.
+1. Determina pautas de control, relacionando características dimen-
+sionales de piezas y procesos de fabricación con la frecuencia de medi-
+ción y los instrumentos de medida. 
+Criterios de evaluación:
+a) Se han interpretado los símbolos gráficos relativos a las dimensio-
+nes lineales o geométricas representados en los planos de control o
+fabricación para seleccionar el instrumento, proceso de verifica-
+ción o medición. 
+b) Se han descrito los instrumentos y dispositivos de control utiliza-
+dos en la fabricación mecánica. 
+c) Se han descrito las técnicas metrológicas empleadas en el control
+dimensional. 
+d) Se han identificado los errores de medida. 
+e) Se han determinado los instrumentos y la técnica de control en fun-
+ción de los parámetros a verificar. 
+f) Se han aplicado técnicas y procedimientos de medición de pará-
+metros dimensionales geométricos y superficiales. 
+g) Se han planificado metódicamente las tareas a realizar con previ-
+sión de las dificultades y el modo de superarlas. 
+h) Se ha definido el concepto de intercambiabilidad así como los con-
+ceptos fundamentales de la normalización de las tolerancias.
+2. Planifica el control de las características y de las propiedades del
+producto fabricado, relacionando los equipos y máquinas de ensayos des-
+tructivos y no destructivos con las características a medir o verificar. 
+Criterios de evaluación:
+a) Se han relacionado los diferentes ensayos destructivos con las
+características que controlan. 
+b) Se han descrito los instrumentos y máquinas empleados en los
+ensayos destructivos y no destructivos y el procedimiento de
+empleo. 
+c) Se han explicado los errores más característicos que se dan en los
+equipos y máquinas empleados en los ensayos y la manera de
+corregirlos. 
+d) Se han descrito las características de las probetas necesarias para
+la ejecución de los ensayos. 
+e) Se han ejecutado los ensayos, aplicando las normas o procedi-
+mientos adecuados. 
+f) Se han expresado los resultados de los ensayos con la tolerancia
+adecuada a la precisión requerida. 
+g) Se han relacionado los defectos de las piezas con las causas que los
+provocan. 
+h) Se han descrito las normas de seguridad que deben aplicarse en la
+realización de ensayos. 
+i) Se han planificado metódicamente las tareas a realizar con previ-
+sión de las dificultades y el modo de superarlas. 
+3. Calibra instrumentos de medición describiendo procedimientos de
+corrección de errores sistemáticos de los mismos. 
+Criterios de evaluación:
+a) Se han explicado los conceptos de calibración y trazabilidad. 
+b) Se han identificado las pautas de calibración de las normas aplicables. 
+c) Se han descrito los elementos que componen un plan de calibración. 
+d) Se han descrito los procedimientos de calibración. 
+e) Se ha calculado la incertidumbre de instrumentos de medición. 
+f) Se han ajustado instrumentos y equipos de medición, verificación
+o control, aplicando procedimientos o la norma de calibración. 
+g) Se ha valorado la tarea como parte esencial del proceso de medi-
+ción y verificación.
+4. Determina el aseguramiento de la calidad del producto y de la esta-
+bilidad del proceso calculando datos estadísticos de control del producto
+y del proceso. 
+Criterios de evaluación:
+a) Se han descrito las técnicas empleadas en el control estadístico del
+proceso. 
+b) Se han descrito el fundamento y el campo de aplicación de los grá-
+ficos de control por atributos y variables. 
+c) Se han confeccionado los gráficos de control del proceso utilizan-
+do la información suministrada por las mediciones efectuadas. 
+d) Se han interpretado los gráficos de control identificando en los grá-
+ficos las incidencias, tendencias y puntos fuera de control, entre
+otros. 
+e) Se ha calculado la capacidad del proceso a partir de los datos regis-
+trados en los gráficos de control. 
+f) Se han determinado los porcentajes de piezas fuera de especifica-
+ciones, a partir del estudio de capacidad del proceso. 
+g) Se ha realizado la valoración y respeto de lo que nos aporta el
+intercambio comunicativo. 
+Duración: 189 horas.
+Contenidos: 
+1. Control dimensional: 
+– Pautas de control. 
+– Concepto de medida. Magnitudes. Patrones.
+– Instrumentos de medición y verificación. 
+– Precisión y calidades de los instrumentos.
+– Procesos de medida. 
+– Requisitos de la normas para los equipos de inspección, medida y
+ensayo. 
+– Errores en la medición y su cálculo. 
+– Cálculo de incertidumbre. 
+– Criterios de rechazo de medidas.
+– Expresión de los resultados de una medida.
+– Técnicas metrológicas.
+– Verificación de elementos aislados, asociados y de la posición de
+los elementos asociados.
+– Metrología trigonométrica.
+– Rugosidad. Parámetros. 
+– Medición y verificación de roscas y engranajes.
+– Máquinas de medición por coordenadas (MMC).
+– Tipos de metrología y normas.
+– Intercambiabilidad. Conceptos fundamentales. 
+
+27122
+Miércoles, 9 de septiembre 2009
+B.O.C. y L. - N.º 173
+– Tolerancias dimensionales y geométricas.
+– Conceptos básicos de normalización de las tolerancias.
+– Sistemas ISO de tolerancias.
+– Calibres de tolerancias.
+– Verificación de ajustes. 
+– Planificación metódica de las tareas a realizar con previsión de las
+dificultades y el modo de superarlas.
+2. Control de características: 
+– Ensayos Destructivos (ED). Tracción, Resilencia, Dureza, Fatiga,
+Tecnológicos.
+– Ensayos No Destructivos (END). Líquidos penetrantes, partículas
+magnéticas, Inducción, Ultrasonidos, Rayos X y Rayos Gamma.
+– Probetas. 
+– Errores en los ensayos. 
+– Prevención de riesgos en la ejecución de ensayos destructivos y no
+destructivos. 
+3. Calibración: 
+– Calibración y trazabilidad. 
+– Cadena de calibración.
+– Plan de calibración, finalidad e implantación.
+– Normas de calibración. 
+– Incertidumbre en la medida. 
+– Ajuste de instrumentos de medida y ensayo. 
+– Valoración de la tarea como parte esencial del proceso de medición
+y verificación.
+4. Técnicas estadísticas de control de calidad: 
+– Conceptos estadísticos. 
+– Distribuciones de probabilidad y variabilidad de los procesos. 
+– Gráficos de control. 
+– Control por variables y por atributos. 
+– Estudio de capacidad. 
+– Capacidad de proceso y de máquina. 
+Orientaciones metodológicas.
+Este módulo profesional contiene la formación necesaria para desem-
+peñar la función de calidad de procesos de fabricación mecánica. 
+La función de calidad de procesos de fabricación mecánica incluye
+aspectos como: 
+– La verificación de las características del producto. 
+– El mantenimiento de instrumentos y equipos de medición. 
+Las actividades profesionales asociadas a esta función se aplican en: 
+– El mecanizado por arranque de material con máquinas herramien-
+tas de corte, así como por abrasión, electroerosión y especiales. 
+– El conformado térmico y mecánico. 
+– El montaje. 
+La formación del módulo contribuye a alcanzar los objetivos genera-
+les a), b), c), f), g), e i) del ciclo formativo y las competencias a), b) c),
+e), f), g) y h) del título. 
+Las líneas de actuación en el proceso enseñanza-aprendizaje que per-
+miten alcanzar los objetivos del módulo versarán sobre: 
+– La planificación de pautas de control referidas a la medición
+dimensional y verificación de productos. 
+– La calibración de instrumentos de medida y verificación. 
+– El control estadístico del producto y del proceso y la interpretación
+de los criterios de valoración de las características a controlar. 
+Módulo Profesional: Proyecto de fabricación de productos mecánicos.
+Equivalencia en créditos ECTS: 5.
+Código: 0167.
+Resultados de aprendizaje y criterios de evaluación.
+1. Identifica necesidades del sector productivo relacionándolas con
+proyectos tipo que las puedan satisfacer. 
+Criterios de evaluación:
+a) Se han clasificado las empresas del sector por sus características
+organizativas y el tipo de producto o servicio que ofrecen. 
+b) Se han caracterizado las empresas tipo indicando la estructura
+organizativa y las funciones de cada departamento. 
+c) Se han identificado las necesidades más demandadas a las empresas. 
+d) Se han valorado las oportunidades de negocio previsibles en el sector. 
+e) Se ha identificado el tipo de proyecto requerido para dar respuesta
+a las demandas previstas. 
+f) Se han determinado las características específicas requeridas al
+proyecto. 
+g) Se han determinado las obligaciones fiscales, laborales y de pre-
+vención de riesgos y sus condiciones de aplicación. 
+h) Se han identificado posibles ayudas o subvenciones para la incor-
+poración de nuevas tecnologías de producción o de servicio que se
+proponen. 
+i) Se ha elaborado el guión de trabajo que se va a seguir para la ela-
+boración del proyecto. 
+2. Diseña proyectos relacionados con las competencias expresadas en
+el título, incluyendo y desarrollando las fases que lo componen. 
+Criterios de evaluación:
+a) Se ha recopilado información relativa a los aspectos que van a ser
+tratados en el proyecto. 
+b) Se ha realizado el estudio de viabilidad técnica del mismo. 
+c) Se han identificado las fases o partes que componen el proyecto y
+su contenido. 
+d) Se han establecido los objetivos que se pretenden conseguir iden-
+tificando su alcance. 
+e) Se han determinado las actividades necesarias para su desarrollo. 
+f) Se han previsto los recursos materiales y personales necesarios
+para realizar el proyecto.
+g) Se han identificado las necesidades de financiación para la puesta
+en marcha del mismo. 
+h) Se ha definido y elaborado la documentación necesaria para su
+diseño.
+i) Se han identificado los aspectos que se deben controlar para garan-
+tizar la calidad del proyecto. 
+3. Planifica la implementación o ejecución del proyecto, determinan-
+do el plan de intervención y la documentación asociada. 
+Criterios de evaluación:
+a) Se han secuenciado las actividades ordenándolas en función de las
+necesidades de implementación. 
+b) Se han determinado los recursos y la logística necesaria para cada
+actividad. 
+c) Se han identificado las necesidades de permisos y autorizaciones
+para llevar a cabo las actividades. 
+d) Se han identificado las necesidades de permisos y autorizaciones
+para llevar a cabo las actividades. 
+e) Se han determinado los procedimientos de actuación o ejecución
+de las actividades. 
+f) Se han identificado los riesgos inherentes a la implementación
+definiendo el plan de prevención de riesgos y los medios y equipos
+necesarios. 
+g) Se han planificado la asignación de recursos materiales y humanos
+y los tiempos de ejecución. 
+h) Se ha hecho la valoración económica que da respuesta a las condi-
+ciones de la implementación. 
+i) Se ha definido y elaborado la documentación necesaria para la
+implementación o ejecución. 
+
+B.O.C. y L. - N.º 173
+Miércoles, 9 de septiembre 2009
+27123
+4. Define los procedimientos para el seguimiento y control en la eje-
+cución del proyecto justificando la selección de variables e instrumentos
+empleados. 
+Criterios de evaluación:
+a) Se ha definido el procedimiento de evaluación de las actividades o
+intervenciones. 
+b) Se han definido los indicadores de calidad para realizar la evaluación. 
+c) Se ha definido el procedimiento para la evaluación de las inciden-
+cias que puedan presentarse durante la realización de las activida-
+des, su posible solución y registro. 
+d) Se ha definido el procedimiento para gestionar los posibles cam-
+bios en los recursos y en las actividades, incluyendo el sistema de
+registro de los mismos. 
+e) Se ha definido y elaborado la documentación necesaria para la eva-
+luación de las actividades y del proyecto. 
+f) Se ha establecido el procedimiento para la participación en la eva-
+luación de los usuarios o clientes y se han elaborado los documen-
+tos específicos. 
+g) Se ha establecido un sistema para garantizar el cumplimiento del
+pliego de condiciones del proyecto cuando este existe. 
+Duración: 30 horas.
+Orientaciones metodológicas.
+Este módulo profesional complementa la formación de otros módulos
+profesionales en las funciones de análisis del contexto, diseño y organi-
+zación de la intervención y planificación de la evaluación de la misma. 
+La función de análisis del contexto incluye aspectos como: 
+– La recopilación de información. 
+– La identificación y priorización de necesidades. 
+– La identificación de los aspectos que facilitan o dificultan el
+desarrollo de la posible intervención. 
+La función de diseño de la intervención incluye aspectos como: 
+– La definición o adaptación de la intervención. 
+– La priorización y secuenciación de las acciones. 
+– La planificación de la intervención. 
+– La determinación de recursos. 
+– La planificación de la evaluación. 
+– El diseño de documentación. 
+– El plan de atención al cliente. 
+La función de organización de la intervención incluye aspectos como: 
+– La detección de demandas y necesidades. 
+– La programación. 
+– La gestión. 
+– La coordinación y supervisión de la intervención. 
+– La elaboración de informes. 
+Las actividades profesionales asociadas a esta función se aplican en: 
+– Sectores de metalurgia y fabricación de productos metálicos. 
+– Construcción de maquinaria y equipo mecánico. 
+– Fabricación de material y equipo eléctrico, electrónico y óptico. 
+– Fabricación de material de transporte. 
+La formación del módulo contribuye a alcanzar los objetivos genera-
+les a), b), c), d), e), f), g), h), i), j), k), l), m), n), o) y p) del ciclo forma-
+tivo y las competencias a), b), c), d), e), f), g), h), i), j), k), l), y m) del
+título. 
+Las líneas de actuación en el proceso enseñanza-aprendizaje que per-
+miten alcanzar los objetivos del módulo versarán sobre: 
+– La autoevaluación del trabajo realizado. 
+– La autonomía y la iniciativa. 
+– El uso de las TICs. 
+El proyecto será realizado por el alumno, de forma individual, prefe-
+rentemente, durante el tercer trimestre del segundo curso. El alumno será
+tutorizado por un profesor, que imparta docencia en segundo curso del
+ciclo formativo, de la especialidad de Organización y Proyectos de Fabri-
+cación Mecánica, de acuerdo con lo establecido en el Anexo III A) del
+Real Decreto 1687/2007, no obstante, dado que los resultados de apren-
+dizaje y criterios de evaluación de este módulo complementan los del
+resto de los módulos y tiene un carácter integrador de todos los módulos
+del ciclo, sería conveniente la colaboración de todos los profesores con
+atribución docente en el ciclo formativo. 
+Módulo Profesional: Formación y orientación laboral.
+Equivalencia en créditos ECTS: 5.
+Código: 0168.
+BLOQUE A: Formación, Legislación y Relaciones Laborales.
+Resultados de aprendizaje y criterios de evaluación.
+1. Selecciona oportunidades de empleo, identificando las diferentes
+posibilidades de inserción y las alternativas de aprendizaje a lo largo de
+la vida.
+Criterios de evaluación:
+a) Se ha valorado la importancia de la formación permanente como
+factor clave para la empleabilidad y la adaptación a las exigencias
+del proceso productivo a lo largo de la vida.
+b) Se ha identificado los itinerarios formativo-profesionales relacio-
+nados con el perfil profesional del Técnico Superior en Programa-
+ción de la Producción en Fabricación Mecánica.
+c) Se han determinado las aptitudes y actitudes requeridas para la
+actividad profesional relacionada con el perfil del título.
+d) Se han identificado los principales yacimientos de empleo y de
+inserción laboral para el técnico en programación de la fabricación
+en productos mecánicos.
+e) Se ha determinado las técnicas utilizadas en el proceso de búsque-
+da de empleo.
+f) Se han previsto las alternativas de autoempleo en los sectores pro-
+fesionales relacionados con el título.
+g) Se ha realizado la valoración de la personalidad, aspiraciones, acti-
+tudes, y formación propia para la toma de decisiones.
+h) Se ha reconocido el acceso al empleo en igualdad de oportunida-
+des y sin discriminación.
+2. Aplica las estrategias del trabajo en equipo, valorando su eficacia y
+eficiencia para la consecución de los objetivos de la organización.
+Criterios de evaluación:
+a) Se han valorado las ventajas del trabajo en equipo en situaciones
+de trabajo relacionadas con el perfil del Técnico Superior en Pro-
+gramación de la Producción en Fabricación Mecánica.
+b) Se han identificado los equipos de trabajo que pueden constituirse
+en una situación real de trabajo.
+c) Se han determinado las características del equipo de trabajo eficaz
+frente a los equipos ineficaces.
+d) Se ha valorado positivamente la necesaria existencia de diversidad
+de roles y opiniones asumidas por los miembros de un equipo.
+e) Se ha reconocido la posible existencia de conflicto entre los miembros
+de un grupo como un aspecto característico de las organizaciones.
+f) Se han identificado los tipos de conflicto y sus fuentes.
+g) Se han determinado procedimientos para la resolución de los
+conflictos.
+3. Ejerce los derechos y cumple las obligaciones que se derivan de las
+relaciones laborales, reconociéndolas en los diferentes contratos de
+trabajo.
+Criterios de evaluación:
+a) Se han identificado los conceptos básicos del Derecho del Trabajo.
+b) Se han utilizado las fuentes del Derecho Laboral.
+c) Se han distinguido los principales organismos que intervienen en
+las relaciones entre empresarios y trabajadores.
+d) Se han determinado los derechos y obligaciones derivados de la
+relación laboral.
+e) Se han clasificado las principales modalidades de contratación,
+identificando las medidas de fomento de la contratación para
+determinados colectivos.
+f) Se ha analizado el recibo de salarios, identificando los principales
+elementos que lo integran.
+g) Se han identificado las causas y efectos de la modificación, sus-
+pensión y extinción de la relación laboral.
+
+27124
+Miércoles, 9 de septiembre 2009
+B.O.C. y L. - N.º 173
+h) Se han valorado las medidas establecidas por la legislación vigen-
+te para la conciliación de la vida laboral y familiar.
+i) Se han analizado las diferentes medidas de conflicto colectivo y
+los procedimientos de solución de conflictos.
+j) Se han determinado las condiciones de trabajo pactadas en un con-
+venio colectivo aplicable a un sector profesional relacionado con
+el título de Técnico Superior en Programación de la Producción en
+Fabricación Mecánica.
+k) Se han identificado las características definitorias de los nuevos
+entornos de organización del trabajo.
+4. Determina la acción protectora del sistema de la Seguridad Social
+ante las distintas contingencias cubiertas, identificando las distintas cla-
+ses de prestaciones.
+Criterios de evaluación:
+a) Se ha valorado el papel de la Seguridad Social como pilar esencial
+para la mejora de la calidad de vida de los ciudadanos.
+b) Se han enumerado las diversas contingencias que cubre el sistema
+de Seguridad Social.
+c) Se han identificado los regímenes existentes en el sistema de la
+Seguridad Social.
+d) Se han identificado las obligaciones de empresario y trabajador
+dentro del sistema de Seguridad Social.
+e) Se han identificado en un supuesto sencillo las bases de cotización
+de un trabajador y las cuotas correspondientes a trabajador y
+empresario.
+f) Se han clasificado las prestaciones del sistema de Seguridad
+Social, identificando los requisitos.
+g) Se han determinado las posibles situaciones legales de desempleo
+en supuestos prácticos sencillos.
+h) Se ha realizado el cálculo de la duración y cuantía de una presta-
+ción por desempleo de nivel contributivo básico.
+BLOQUE B: Prevención de Riesgos Laborales.
+5. Evalúa los riesgos derivados de su actividad, analizando las condi-
+ciones de trabajo y los factores de riesgo presentes en su entorno laboral.
+Criterios de evaluación:
+a) Se ha valorado la importancia de la cultura preventiva en todos los
+ámbitos y actividades de la empresa.
+b) Se han relacionado las condiciones laborales con la salud del
+trabajador.
+c) Se han clasificado los factores de riesgo en la actividad y los daños
+derivados de los mismos.
+d) Se han identificado las situaciones de riesgo más habituales en los
+entornos de trabajo del Técnico en Programación de la Fabricación
+de Productos Mecánicos.
+e) Se ha determinado la evaluación de riesgos en la empresa.
+f) Se han determinado las condiciones de trabajo con significación
+para la prevención en los entornos de trabajo relacionados con el
+perfil profesional del Técnico en Programación de la Fabricación
+de Productos Mecánicos.
+g) Se han clasificado y descrito los tipos de daños profesionales con
+especial mención a accidentes de trabajo y enfermedades profesio-
+nales relacionadas con el perfil profesional del Técnico en Progra-
+mación de la Fabricación de Productos Mecánicos.
+6. Aplica las medidas de prevención y protección analizando las situa-
+ciones de riesgo en el entorno laboral del Técnico Superior en Programa-
+ción de la Producción en Fabricación Mecánica.
+Criterios de evaluación:
+a) Se han definido las técnicas de prevención y de protección que
+deben aplicarse para evitar los daños en su origen y minimizar su
+consecuencias en caso de que sean inevitables.
+b) Se ha analizado el significado y alcance de los distintos tipos de
+señalización de seguridad.
+c) Se han analizado los protocolos de actuación en caso de emergencia.
+d) Se han identificado las técnicas de clasificación de heridos en caso
+de emergencia donde existen víctimas de diversa gravedad.
+e) Se han identificado las técnicas básicas de primeros auxilios que
+han de ser aplicadas en el lugar del accidente ante distintos tipos
+de daños y la composición y uso del botiquín.
+f) Se han determinado los requisitos y condiciones para la vigilancia
+de la salud del trabajador y su importancia como medida de pre-
+vención.
+7. Participa en la elaboración de un plan de prevención de riesgos en
+la empresa, identificando las responsabilidades de todos los agentes
+implicados.
+Criterios de evaluación:
+a) Se han determinado los principales derechos y deberes en materia
+de prevención de riesgos laborales.
+b) Se han clasificado las distintas formas de gestión de la prevención
+en la empresa, en función de los distintos criterios establecidos en
+la normativa sobre prevención de riesgos laborales.
+c) Se han determinado las formas de representación de los trabajado-
+res en la empresa en materia de prevención de riesgos laborales.
+d) Se han identificado los organismos públicos relacionados con la
+prevención de riesgos laborales.
+e) Se ha valorado la importancia de la existencia de un plan preven-
+tivo en la empresa, que incluya la secuenciación de actuaciones a
+realizar en caso de emergencia.
+f) Se ha definido el contenido del plan de prevención en un centro de
+trabajo relacionado con el sector profesional del Técnico en Pro-
+gramación de la Fabricación de Productos Mecánicos. 
+g) Se ha proyectado un plan de emergencia y evacuación en una
+pequeña y mediana empresa (pyme).
+Duración: 96 horas.
+Contenidos:
+BLOQUE A: Formación, Legislación y Relaciones Laborales. 
+Duración: 46 horas.
+1. Búsqueda activa de empleo:
+– Valoración de la importancia de la formación permanente para la
+trayectoria laboral y profesional del Técnico Superior en Progra-
+mación de la Producción en Fabricación Mecánica.
+– Análisis de los intereses, aptitudes y motivaciones personales para
+la carrera profesional.
+– Identificación de los itinerarios formativos relacionados con el
+Técnico Superior en Programación de la Producción en Fabrica-
+ción Mecánica. 
+– Definición y análisis del sector profesional del título de Técnico
+Superior en Programación de la Producción en Fabricación Mecá-
+nica. Características personales y profesionales más apreciadas por
+empresas del sector en Castilla y León. 
+– Proceso de búsqueda de empleo en pequeñas, medianas y grandes
+empresas del sector.
+– Oportunidades de aprendizaje y empleo en Europa. Programas
+europeos.
+– Valoración de la empleabilidad y adaptación como factores clave
+para responder a las exigencias del mercado laboral.
+– La búsqueda de empleo. Fuentes de información.
+– Técnicas e instrumentos de búsqueda de empleo.
+– Oportunidades de autoempleo.
+– El proceso de toma de decisiones.
+– Reconocimiento del acceso al empleo en igualdad de oportunida-
+des y sin discriminación de cualquier tipo.
+2. Gestión del conflicto y equipos de trabajo:
+– Valoración de las ventajas e inconvenientes del trabajo en equipo
+para la eficacia de la organización.
+– Equipos en la industria de Fabricación Mecánica, según las fun-
+ciones que desempeñan.
+– Tipología de equipos de trabajo.
+– Formación y funcionamiento de equipos eficaces.
+– La participación en el equipo de trabajo.
+
+B.O.C. y L. - N.º 173
+Miércoles, 9 de septiembre 2009
+27125
+– Técnicas de participación y dinámicas de grupo.
+– Identificación de roles. Barreras a la participación en el equipo.
+– Conflicto: características, fuentes y etapas.
+– Consecuencias de los conflictos.
+– Métodos para la resolución o supresión del conflicto.
+– La comunicación asertiva, la toma de decisiones y la negociación
+como habilidades sociales para el equipo de trabajo.
+3. Contrato de trabajo:
+– El Derecho del Trabajo. Normas fundamentales.
+– Órganos de la administración y jurisdicción laboral.
+– Análisis de la relación laboral individual.
+– Modalidades del contrato de trabajo y medidas de fomento de la
+contratación.
+– Derechos y deberes derivados de la relación laboral.
+– El tiempo de trabajo.
+– Análisis del recibo de salarios. Liquidación de haberes.
+– Modificación, suspensión y extinción del contrato de trabajo.
+– Valoración de las medidas para la conciliación familiar y profesional.
+– Representación de los trabajadores en la empresa.
+– Negociación colectiva como medio para la conciliación de los
+intereses de trabajadores y empresarios.
+– Medidas de conflicto colectivo. Procedimientos de solución.
+– Análisis de un convenio colectivo aplicable al ámbito profesional
+del Técnico Superior en Programación de la Producción en Fabri-
+cación Mecánica. 
+– Beneficios para los trabajadores en las nuevas organizaciones: fle-
+xibilidad, beneficios sociales entre otros.
+4. Seguridad Social, Empleo y Desempleo:
+– Estructura del Sistema de la Seguridad Social.
+– Determinación de las principales obligaciones de empresarios y
+trabajadores en materia de Seguridad Social: afiliación, altas, bajas
+y cotización.
+– Situaciones protegibles en la protección por desempleo.
+– Cálculo de bases de cotización a la seguridad social y determina-
+ción de cuotas en un supuesto sencillo.
+– Prestaciones de la Seguridad Social.
+– Cálculo de una prestación por desempleo de nivel contributivo
+básico.
+BLOQUE B: Prevención de Riesgos Laborales.
+Duración: 50 horas.
+5. Evaluación de riesgos profesionales:
+– Importancia de la cultura preventiva en todas las fases de la acti-
+vidad. Sensibilización, a través de las estadísticas de siniestralidad
+nacional y en Castilla y León, de la necesidad de hábitos y actua-
+ciones seguras.
+– Valoración de la relación entre trabajo y salud.
+– El riesgo profesional.
+– Análisis de factores de riesgo.
+– Análisis de riesgos ligados a las condiciones de seguridad.
+– Análisis de riesgos ligados a las condiciones ambientales.
+– Análisis de riesgos ligados a las condiciones ergonómicas y psico-
+sociales.
+– Riesgos específicos en la industria de Fabricación Mecánica.
+– La evaluación de riesgos en la empresa como elemento básico de
+la actividad preventiva.
+– Técnicas de evaluación de riesgos.
+– Condiciones de trabajo y seguridad.
+– Determinación de los posibles daños a la salud del trabajador que
+pueden derivarse de las situaciones de riesgo detectadas. Los acci-
+dentes de trabajo, las enfermedades profesionales y otras patologías.
+6. Aplicación de medidas de prevención y protección en la empresa:
+– Determinación de las medidas de prevención y protección indivi-
+dual y colectiva.
+– Señalización de seguridad.
+– Protocolo de actuación ante una situación de emergencias.
+– Prioridades y secuencia de actuación en el lugar del accidente.
+– Urgencias médicas. Primeros auxilios. Conceptos básicos.
+– Aplicación de técnicas de primeros auxilios.
+– Vigilancia de la salud de los trabajadores.
+– Formación de los trabajadores en materia de planes de emergencia
+y aplicación de técnicas de primeros auxilios.
+7. Planificación de la prevención de riesgos en la empresa. Preven-
+ción integrada:
+– Marco normativo en materia de prevención de riesgos laborales.
+– Derechos y deberes en materia de prevención de riesgos laborales.
+– Responsabilidades en materia de prevención de riesgos laborales.
+– Gestión de la prevención en la empresa. Documentación.
+– Organismos públicos relacionados con la prevención de riesgos
+laborales.
+– Planificación de la prevención en la empresa. Secuenciación de
+actuaciones.
+– Definición del contenido del Plan de Prevención de un centro de
+trabajo relacionado con el sector profesional.
+– Planes de emergencia y de evacuación en entornos de trabajo.
+– Elaboración de un plan de emergencia en una «pyme».
+– Representación de los trabajadores en materia preventivza.
+Orientaciones metodológicas.
+Este módulo profesional contiene la formación necesaria para que el
+alumno pueda insertarse laboralmente y desarrollar su carrera profesional
+en el sector de fabricación mecánica. 
+La formación del módulo contribuye a alcanzar los objetivos genera-
+les del ciclo formativo i), k), m) y o) y las competencias h, i), j) y k) del
+título. 
+Las líneas de actuación en el proceso enseñanza-aprendizaje que per-
+miten alcanzar los objetivos del módulo versarán sobre: 
+– El manejo de las fuentes de información sobre el sistema educati-
+vo y laboral, en especial en lo referente al sector de fabricación
+mecánica. 
+– La realización de pruebas de orientación y dinámicas sobre la pro-
+pia personalidad y el desarrollo de las habilidades sociales. 
+– La preparación y realización de currículos (CVs) y entrevistas de
+trabajo. 
+– Identificación de la normativa laboral que afecta a los trabajadores
+del sector, manejo de los contratos más comúnmente utilizados,
+lectura comprensiva de los convenios colectivos de aplicación. 
+– La cumplimentación de recibos de salario de diferentes caracterís-
+ticas y otros documentos relacionados. 
+– El análisis de la Ley de Prevención de riesgos laborales que le per-
+mita la evaluación de los riesgos derivados de las actividades des-
+arrolladas en el sector productivo y colaborar en la definición de
+un plan de prevención para la empresa, así como las medidas nece-
+sarias que deban adoptarse para su implementación.
+En el bloque de Prevención de Riesgos de este módulo se tratan con-
+tenidos que están relacionados con el módulo de Gestión de la calidad,
+prevención de riesgos laborales y protección ambiental. En dicho módu-
+lo se hará más hincapié en el aspecto de la gestión de los sistemas de Pre-
+vención de Riesgos Laborales. Las programaciones didácticas se realiza-
+rán en coordinación con las del módulo de Gestión de la calidad,
+prevención de riesgos laborales y protección ambiental.
+Módulo Profesional: Empresa e iniciativa emprendedora.
+Equivalencia en créditos ECTS: 4.
+Código: 0169.
+Resultados de aprendizaje y criterios de evaluación.
+1. Reconoce las capacidades asociadas a la iniciativa emprendedora,
+analizando los requerimientos derivados de los puestos de trabajo y de las
+actividades profesionales. 
+Criterios de evaluación:
+a) Se ha identificado el concepto de innovación y su relación con el
+progreso de la sociedad y el aumento en el bienestar de los individuos. 
+
+27126
+Miércoles, 9 de septiembre 2009
+B.O.C. y L. - N.º 173
+b) Se ha analizado el concepto de cultura emprendedora y su impor-
+tancia como fuente de creación de empleo y bienestar social. 
+c) Se ha valorado la importancia de la iniciativa individual, la creati-
+vidad, la formación y la colaboración como requisitos indispensa-
+bles para tener éxito en la actividad emprendedora. 
+d) Se ha analizado la capacidad de iniciativa en el trabajo de una per-
+sona empleada en fabricación mecánica. 
+e) Se ha analizado el desarrollo de la actividad emprendedora de un
+empresario que se inicie en el sector fabricación mecánica. 
+f) Se ha analizado el concepto de riesgo como elemento inevitable de
+toda actividad emprendedora. 
+g) Se ha analizado el concepto de empresario y los requisitos y acti-
+tudes necesarios para desarrollar la actividad empresarial. 
+h) Se ha descrito la estrategia empresarial relacionándola con los
+objetivos de la empresa. 
+i) Se ha definido una determinada idea de negocio del ámbito de
+fabricación mecánica, que servirá de punto de partida para la ela-
+boración de un plan de empresa. 
+2. Define la oportunidad de creación de una pequeña empresa, valo-
+rando el impacto sobre el entorno de actuación e incorporando valores
+éticos. 
+Criterios de evaluación:
+a) Se han descrito las funciones básicas que se realizan en una empre-
+sa y se ha analizado el concepto de sistema aplicado a la empresa. 
+b) Se han identificado los principales componentes del entorno gene-
+ral que rodea a la empresa, en especial el entorno económico,
+social, demográfico y cultural. 
+c) Se ha analizado la influencia en la actividad empresarial de las
+relaciones con los clientes, con los proveedores y con la compe-
+tencia como principales integrantes del entorno específico. 
+d) Se han analizado las estrategias y técnicas comerciales en una
+empresa de fabricación mecánica.
+e) Se han identificado los elementos del entorno de una pyme de
+fabricación mecánica. 
+f) Se han analizado los conceptos de cultura empresarial e imagen
+corporativa, y su relación con los objetivos empresariales. 
+g) Se ha analizado el fenómeno de la responsabilidad social de las
+empresas y su importancia como un elemento de la estrategia
+empresarial. 
+h) Se ha elaborado el balance social de una empresa de fabricación
+mecánica, y se han descrito los principales costes sociales en que
+incurren estas empresas, así como los beneficios sociales que
+producen. 
+i) Se han identificado, en empresas de fabricación mecánica, prácti-
+cas que incorporan valores éticos y sociales. 
+j) Se ha llevado a cabo un estudio de viabilidad económica y finan-
+ciera de una pyme de fabricación mecánica. 
+3. Realiza las actividades para la constitución y puesta en marcha de
+una empresa, seleccionando la forma jurídica e identificando las obliga-
+ciones legales asociadas. 
+Criterios de evaluación:
+a) Se han analizado las diferentes formas jurídicas de la empresa. 
+b) Se ha especificado el grado de responsabilidad legal de los propie-
+tarios de la empresa en función de la forma jurídica elegida. 
+c) Se ha diferenciado el tratamiento fiscal establecido para las dife-
+rentes formas jurídicas de la empresa. 
+d) Se han analizado los trámites exigidos por la legislación vigente
+para la constitución de una pyme. 
+e) Se ha realizado una búsqueda exhaustiva de las diferentes ayudas
+para la creación de empresas de fabricación mecánica en la locali-
+dad de referencia. 
+f) Se ha incluido en el plan de empresa todo lo relativo a la elección
+de la forma jurídica, estudio de viabilidad económico-financiera,
+trámites administrativos, ayudas y subvenciones. 
+g) Se han identificado las vías de asesoramiento y gestión adminis-
+trativa externos existentes a la hora de poner en marcha una pyme. 
+4. Realiza actividades de gestión administrativa y financiera básica de
+una pyme, identificando las principales obligaciones contables y fiscales
+y cumplimentando la documentación. 
+Criterios de evaluación:
+a) Se han analizado los conceptos básicos de contabilidad, así como
+las técnicas de registro de la información contable. 
+b) Se han descrito las técnicas básicas de análisis de la información
+contable, en especial en lo referente a la solvencia, liquidez y ren-
+tabilidad de la empresa. 
+c) Se han definido las obligaciones fiscales de una empresa de fabri-
+cación mecánica. 
+d) Se han diferenciado los tipos de impuestos en el calendario fiscal. 
+e) Se ha cumplimentado la documentación básica de carácter comer-
+cial y contable (facturas, albaranes, notas de pedido, letras de cam-
+bio, cheques y otros) para una pyme de fabricación mecánica, y se
+han descrito los circuitos que dicha documentación recorre en la
+empresa. 
+f) Se ha incluido la anterior documentación en el plan de empresa. 
+Duración: 63 horas.
+Contenidos: 
+1. Iniciativa emprendedora: 
+– Innovación y desarrollo económico. Principales características de
+la innovación en la actividad de fabricación mecánica (materiales,
+tecnología, organización de la producción, etc.).
+– El trabajo por cuenta propia como fuente de creación de empleo y
+bienestar social.
+– Responsabilidad social de la empresa. 
+– Factores claves de los emprendedores: iniciativa, creatividad y for-
+mación. 
+– Desarrollo del espíritu emprendedor a través del fomento de las
+actitudes de creatividad, iniciativa, autonomía y responsabilidad.
+– La actuación de los emprendedores como empleados de una pyme
+de fabricación mecánica. 
+– Fomento de las capacidades emprendedoras de un trabajador por
+cuenta ajena.
+– La actuación de los emprendedores como empresarios en el sector
+de la fabricación mecánica. 
+– Análisis de las oportunidades de negocio en el sector de fabrica-
+ción mecánica.
+– Análisis de la capacidad para asumir riesgos del emprendedor.
+– El empresario. Requisitos para el ejercicio de la actividad empre-
+sarial. Aptitudes y actitudes.
+– Plan de empresa: la idea de negocio en el ámbito de fabricación
+mecánica. 
+– Búsqueda de ideas de negocio. Análisis y viabilidad de las mismas.
+2. La empresa y su entorno: 
+– Funciones básicas de la empresa. 
+– Estructura organizativa de la empresa. Organigrama.
+– La empresa como sistema. 
+– El entorno general de la empresa en los aspectos económico,
+social, demográfico y cultural.
+– Competencia. Barreras de entrada.
+– Relaciones con clientes y proveedores.
+– Variables de marketing mix: Precio, producto, comuinicaciçon y
+distribución.
+– Análisis del entorno general de una pyme de fabricación mecánica. 
+– Análisis del entorno específico de una pyme de fabricación mecánica. 
+– Relaciones de una pyme de fabricación mecánica con su entorno. 
+– Cultura empresarial e imagen corporativa.
+– Relaciones de una pyme de fabricación mecánica con el conjunto
+de la sociedad. 
+– Balance social: Los costes y los beneficios sociales.
+– La ética empresarial en empresas de fabricación mecánica.
+
+B.O.C. y L. - N.º 173
+Miércoles, 9 de septiembre 2009
+27127
+3. Creación y puesta en marcha de una empresa: 
+– Tipos de empresa. La organización de la empresa. El organigrama
+– La franquicia como forma de empresa.
+– Ventajas e inconvenientes de las distintas formas jurídicas con
+especial a tención a la responsabilidad legal.
+– La fiscalidad en las empresas. 
+– Impuestos más importantes que afectan a la actividad de la empresa.
+– Elección de la forma jurídica. Ventajas e inconvenientes de cada
+forma jurídica.
+– Trámites administrativos para la constitución de una empresa. 
+– Relaciones con organismos oficiales.
+– Subvenciones y ayudas destinadas a la creación de empresas del
+sector de fabricación mecánica en la localidad de referencia.
+– Viabilidad económica y viabilidad financiera de una pyme de
+fabricación mecánica. 
+– Plan de empresa: elección de la forma jurídica, estudio de viabili-
+dad económica y financiera, trámites administrativos y gestión de
+ayudas y subvenciones. La ventanilla única empresarial. Los vive-
+ros de empresas.
+– Vías externas de asesoramiento y gestión. La ventanilla única
+empresarial.
+4. Función administrativa: 
+– Concepto de contabilidad y nociones básicas. El plan financiero:
+Plan de tesorería, balance, cuenta de resultados y memoria anual.
+– Cuentas anuales obligatorias.
+– Análisis de la información contable. Ratios de solvencia, liquidez
+y rentabilidad.
+– Ratios.
+– Cálculo de coste, beneficio y umbral de rentabilidad.
+– Obligaciones fiscales de las empresas. Obligaciones del empresa-
+rio y calendario fiscal.
+– Calendario fiscal.
+– Gestión administrativa de una empresa de fabricación mecánica. 
+– Documentos básicos utilizados en la actividad económica de la
+empresa: Nota de pedido, albarán, factura, letra de cambio, cheque
+y otros.
+– Gestión de aprovisionamiento. Valoración de existencias. Volumen
+óptimo de pedido.
+– Elaboración de un plan de empresa.
+Orientaciones metodológicas.
+Este módulo profesional contiene la formación necesaria para des-
+arrollar la propia iniciativa en el ámbito empresarial, tanto hacia el auto-
+empleo como hacia la asunción de responsabilidades y funciones en el
+empleo por cuenta ajena. 
+La formación del módulo permite alcanzar los objetivos generales m)
+y n) del ciclo formativo y las competencias l) y m) del título. 
+Las líneas de actuación en el proceso enseñanzaaprendizaje que per-
+miten alcanzar los objetivos del módulo versarán sobre: 
+– Manejo de las fuentes de información sobre el sector de fabrica-
+ción mecánica, incluyendo el análisis de los procesos de innova-
+ción sectorial en marcha.
+– La realización de casos y dinámicas de grupo que permitan com-
+prender y valorar las actitudes de los emprendedores y ajustar la
+necesidad de los mismos al sector de fabricación mecánica rela-
+cionado con los procesos fabricación. 
+– La utilización de programas de gestión administrativa para pymes
+del sector. 
+– La realización de un proyecto de plan de empresa relacionada con
+la actividad de fabricación y que incluya todas las facetas de pues-
+ta en marcha de un negocio: viabilidad, organización de la pro-
+ducción y los recursos humanos, acción comercial, control admi-
+nistrativo y financiero, así como justificación de su responsabilidad
+social. 
+– Utilización de la herramienta Aprende a Emprender.
+Módulo profesional: Formación en Centros de Trabajo.
+Equivalencia en créditos ECTS: 22.
+Código: 0170.
+Resultados de aprendizaje y criterios de evaluación.
+1. Identifica la estructura y organización de la empresa, relacionán-
+dola con la producción y comercialización de los productos que fabrica. 
+Criterios de evaluación:
+a) Se han identificado la estructura organizativa de la empresa y las
+funciones de cada área de la misma. 
+b) Se han identificado los elementos que constituyen la red logística
+de la empresa; proveedores, clientes, sistemas de producción,
+almacenaje, y otros. 
+c) Se han identificado los procedimientos de trabajo en el desarrollo
+del proceso productivo. 
+d) Se han relacionado las competencias de los recursos humanos con
+el desarrollo de la actividad productiva. 
+e) Se ha interpretado la importancia de cada elemento de la red en el
+desarrollo de la actividad de la empresa. 
+f) Se han relacionado características del mercado, tipo de clientes y
+proveedores y su posible influencia en el desarrollo de la actividad
+empresarial. 
+g) Se han identificado los canales de comercialización más frecuen-
+tes en esta actividad. 
+h) Se han relacionado ventajas e inconvenientes de la estructura de la
+empresa, frente a otro tipo de organizaciones empresariales. 
+2. Aplica hábitos éticos y laborales en el desarrollo de su actividad
+profesional de acuerdo a las características del puesto de trabajo y proce-
+dimientos establecidos de la empresa. 
+Criterios de evaluación:
+a) Se han reconocido y justificado: 
+– La disposición personal y temporal que necesita el puesto de
+trabajo. 
+– Las actitudes personales (puntualidad, empatía, entre otras) y
+profesionales (orden, limpieza, seguridad necesarias para el
+puesto de trabajo, responsabilidad, entre otras). 
+– Los requerimientos actitudinales ante la prevención de riesgos
+en la actividad profesional y las medidas de protección personal. 
+– Los requerimientos actitudinales referidos a la calidad en la acti-
+vidad profesional. 
+– Las actitudes relacionales con el propio equipo de trabajo y con
+las jerárquicas establecidas en la empresa. 
+– Las actitudes relacionadas con la documentación de las activi-
+dades realizadas en el ámbito laboral. 
+– Las necesidades formativas para la inserción y reinserción laboral
+en el ámbito científico y técnico del buen hacer del profesional. 
+b) Se han identificado las normas de prevención de riesgos laborales
+que hay que aplicar en actividad profesional y los aspectos funda-
+mentales de la Ley de Prevención de riesgos laborales. 
+c) Se han aplicado los equipos de protección individual según los
+riesgos de la actividad profesional y las normas de la empresa. 
+d) Se ha mantenido una actitud clara de respeto al medio ambiente en
+las actividades desarrolladas y aplicado las normas internas y
+externas vinculadas a la misma. 
+e) Se ha mantenido organizada, limpia y libre de obstáculos el pues-
+to de trabajo o el área correspondiente al desarrollo de la actividad. 
+f) Se han interpretado y cumplido las instrucciones recibidas, res-
+ponsabilizándose del trabajo asignado. 
+g) Se ha establecido una comunicación y relación eficaz con la per-
+sona responsable en cada situación y miembros de su equipo, man-
+teniendo un trato fluido y correcto. 
+h) Se ha coordinado con el resto del equipo, informando de cualquier
+cambio, necesidad relevante o imprevisto que se presente. 
+i) Se ha valorado la importancia de su actividad y la adaptación a los
+cambios de tareas asignados en el desarrollo de los procesos pro-
+ductivos de la empresa, integrándose en las nuevas funciones. 
+
+27128
+Miércoles, 9 de septiembre 2009
+B.O.C. y L. - N.º 173
+j) Se ha comprometido responsablemente en la aplicación de las normas
+y procedimientos en el desarrollo de cualquier actividad o tarea. 
+3. Determina procesos de mecanizado estableciendo la secuencia y
+variables del proceso a partir de los requerimientos del producto a fabricar. 
+Criterios de evaluación:
+a) Se han identificado las principales etapas de fabricación, descri-
+biendo las secuencias de trabajo. 
+b) Se ha descompuesto el proceso de mecanizado en las fases y ope-
+raciones necesarias. 
+c) Se ha especificado, para cada fase y operación de mecanizado, los
+medios de trabajo, utillajes, herramientas, útiles de medida y com-
+probación, así como los parámetros de mecanizado. 
+d) Se ha determinado las dimensiones y estado (laminado, forjado,
+fundido, recocido, templado, entre otros) del material en bruto. 
+e) Se han calculado los tiempos de cada operación y el tiempo unita-
+rio, como factor para la estimación de los costes de producción. 
+f) Se han determinado la producción por unidad de tiempo para satis-
+facer la demanda en el plazo previsto. 
+g) Se ha determinado el flujo de materiales en el proceso productivo. 
+h) Se han determinado los medios de transporte internos y externos
+así como la ruta que deben seguir. 
+i) Se ha identificado la normativa de prevención de riesgos que hay
+que observar. 
+4. Prepara y pone a punto las máquinas, equipos, utillajes y herra-
+mientas que intervienen en el proceso de fabricación y montaje aplican-
+do las técnicas y procedimientos requeridos. 
+Criterios de evaluación:
+a) Se ha comprobado el funcionamiento en vacío de los diversos sub-
+conjuntos, circuitos y dispositivos auxiliares. 
+b) Se han regulado los mecanismos, dispositivos, presiones y cauda-
+les de las máquinas. 
+c) Se han elaborado o adaptado programas de CNC. 
+d) Se han programado o adaptado programas de robots y manipula-
+dores utilizando PLCs. 
+e) Se ha realizado la simulación gráfica o en vacío de los programas. 
+f) Se han realizado las correcciones o ajustes de los programas para
+corregir las desviaciones en la producción y calidad del producto. 
+g) Se han seleccionado las herramientas y utillajes en función de las
+características de cada operación. 
+h) Se ha comprobado la geometría de corte y dimensiones de refe-
+rencia de las herramientas. 
+i) Se han montado, alineado y regulado las herramientas, útiles y
+accesorios necesarios. 
+j) Se ha realizado la toma de referencias de acuerdo con las especifi-
+caciones del proceso. 
+k) Se han introducido los parámetros del proceso de mecanizado en
+la máquina. 
+l) Se ha montado la pieza sobre el utillaje centrándola y alineándola
+con la precisión exigida y aplicando la normativa de seguridad. 
+m)Se ha mantenido el área de trabajo con el grado apropiado de orden
+y limpieza. 
+5. Mide dimensiones y verifica características de las piezas fabricadas
+siguiendo las instrucciones establecidas en el plan de control. 
+Criterios de evaluación:
+a) Se han determinado los instrumentos y la técnica de control en fun-
+ción de los parámetros a verificar. 
+b) Se ha comprobado que los instrumentos de verificación están calibrados. 
+c) Se han verificado los productos según procedimientos establecidos
+en las normas.
+d) Se han relacionado los defectos de las piezas con las causas que los
+provocan. 
+e) Se han confeccionado los gráficos de control del proceso, utilizan-
+do la información suministrada por las mediciones efectuadas. 
+f) Se han interpretado los gráficos de control, identificando las inci-
+dencias, tendencias, puntos fuera de control, entre otros. 
+g) Se han aplicado las normas de Prevención de riesgos laborales y
+Protección Ambiental.
+Duración: 380 horas.
+Este módulo profesional contribuye a completar las competencias de
+este título y los objetivos generales del ciclo, tanto aquellos que se han
+alcanzado en el centro educativo, como los que son difíciles de conseguir
+en el mismo.
+
+B.O.C. y L. - N.º 173
+Miércoles, 9 de septiembre 2009
+27129
+ANEXO II
+ORGANIZACIÓN Y DISTRIBUCIÓN HORARIA
+
+27130
+Miércoles, 9 de septiembre 2009
+B.O.C. y L. - N.º 173
+ANEXO III
+PROFESORADO
+A. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico Superior en Progra-
+mación de la Producción en Fabricación Mecánica.
+Artículo 12.1 del Real Decreto 1687/2007, de 14 de diciembre: «La atribución docente de los módulos profesionales que constituyen las enseñanzas
+de este ciclo formativo corresponde al profesorado del Cuerpo de Profesores de Enseñanza Secundaria y del Cuerpo de Profesores Técnicos de Forma-
+ción Profesional, según proceda, de las especialidades establecidas en el Anexo III A) de este real decreto»
+
+C. Titulaciones requeridas para la impartición de los módulos
+profesionales que conforman el título para los centros de titularidad
+privada, de otras Administraciones distintas de la educativa y orien-
+taciones para la Administración Educativa.
+Artículo 12.3 del Real Decreto 1687/2007, de 14 de diciembre: «Las
+titulaciones requeridas y los requisitos necesarios para la impartición de
+los módulos profesionales que conforman el título para el profesorado de
+los centros de titularidad privada o de titularidad pública de otras admi-
+nistraciones distintas de las educativas se concretan en el Anexo III C)
+del presente real decreto, siempre que las enseñanzas conducentes a la
+titulación engloben los objetivos de los módulos profesionales o se acre-
+dite, mediante “certificación”, una experiencia laboral de, al menos tres
+años, en el sector vinculado a la familia profesional, realizando activi-
+dades productivas en empresas relacionadas implícitamente con los
+resultados de aprendizaje».
+B.O.C. y L. - N.º 173
+Miércoles, 9 de septiembre 2009
+27131
+B. Titulaciones equivalentes a efectos de docencia.
+Artículo 12.2 del Real Decreto 1687/2007, de 14 de diciembre: «Las
+titulaciones requeridas al profesorado de los cuerpos docentes son, con
+carácter general, las establecidas en el artículo 13 del Real Decreto
+276/2007, de 23 de febrero. Las titulaciones equivalentes, a efectos de
+docencia, a las anteriores son, para las distintas especialidades del pro-
+fesorado, las recogidas en el Anexo III B) del presente real decreto».
+
+27132
+Miércoles, 9 de septiembre 2009
+B.O.C. y L. - N.º 173
+ANEXO IV
+ESPACIOS 
+Espacio formativo:
+– Aula polivalente.
+– Laboratorio de ensayos.
+– Taller de automatismos.
+– Aula-taller de CNC. 
+– Taller de mecanizado.
+– Taller de mecanizados especiales.
+ANEXO V
+ACCESOS Y VINCULACIÓN A OTROS ESTUDIOS,
+Y CORRESPONDENCIA DE MÓDULOS PROFESIONALES
+CON LAS UNIDADES DE COMPETENCIA
+A. Preferencias para el acceso a este ciclo formativo en relación
+con las modalidades y materias de Bachillerato cursadas.
+Artículo 13 del Real Decreto 1687/2007, de 14 de diciembre: «Ten-
+drán preferencia para acceder a este ciclo formativo aquellos alumnos
+que hayan cursado la modalidad de Bachillerato de Ciencias y Tecnología».
+B. Acceso y vinculación a otros estudios.
+Artículo 14 del Real Decreto 1687/2007, de 14 de diciembre:
+«1. El título de Técnico Superior en Programación de la Producción
+en Fabricación Mecánica. permite el acceso directo para cursar cual-
+quier otro ciclo formativo de grado superior, en las condiciones de acce-
+so que se establezcan.
+2. El título de Técnico Superior en Programación de la Producción
+en Fabricación Mecánica permite el acceso directo a las enseñanzas
+conducentes a los títulos universitarios de grado en las condiciones de
+admisión que se establezcan.
+3. El Gobierno, oído el Consejo de Universidades, regulará, en
+norma específica, el reconocimiento de créditos entre los títulos de téc-
+nico superior de la formación profesional y las enseñanzas universitarias
+de grado. A efectos de facilitar el régimen de convalidaciones, se han
+asignado 120 créditos ECTS en las enseñanzas mínimas establecidas en
+este real decreto entre los módulos profesionales de este ciclo formativo».
+C. Convalidaciones y exenciones.
+Artículo 15 del Real Decreto 1687/2007, de 14 de diciembre:
+«1. Las convalidaciones de módulos profesionales de los títulos de
+formación profesional establecidos al amparo de la Ley Orgánica
+1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo,
+con los módulos profesionales de los títulos establecidos al amparo de la
+Ley Orgánica 2/2006, de 3 de mayo, de Educación, se establecen en el
+Anexo IV del presente real decreto»
+
+B.O.C. y L. - N.º 173
+Miércoles, 9 de septiembre 2009
+27133
+2. Serán objeto de convalidación los módulos profesionales, comunes
+a varios ciclos formativos, de igual denominación, contenidos, objetivos
+expresados como resultados de aprendizaje, criterios de evaluación y
+similar duración. No obstante lo anterior, y de acuerdo con el artículo
+45.2 del Real Decreto 1538/2006, de 15 de diciembre, quienes hubieran
+superado el módulo profesional de Formación y orientación Laboral o el
+módulo profesional de Empresa e Iniciativa Emprendedora en cualquie-
+ra de los ciclos formativos correspondientes a los títulos establecidos al
+amparo de la Ley Orgánica 2/2006, de 3 de mayo, de Educación tendrán
+convalidados dichos módulos en cualquier otro ciclo formativo estable-
+cido al amparo de la misma ley.
+3. El módulo profesional de Formación y orientación laboral de cual-
+quier Título de formación profesional podrá ser objeto de convalidación
+siempre que se cumplan los requisitos establecidos en el artículo 45.3 del
+Real Decreto 1538/2006, de 15 de diciembre, que se acredite, al menos,
+un año de experiencia laboral, y se posea el certificado de Técnico en
+Prevención de riesgos laborales, Nivel Básico, expedido de acuerdo con
+lo dispuesto en el Real Decreto 39/1997, de 17 de enero, por el que se
+aprueba el Reglamento de los Servicios de Prevención.
+4. De acuerdo con lo establecido en el artículo 49 del Real Decreto
+1538/2006, de 15 de diciembre, podrá determinarse la exención total o
+parcial del módulo profesional de formación en centros de trabajo por su
+correspondencia con la experiencia laboral, siempre que se acredite una
+experiencia relacionada con este ciclo formativo en los términos previs-
+tos en dicho artículo».
+D. Correspondencias de los módulos profesionales con las unida-
+des de competencia para su acreditación, convalidación o exención.
+Artículo 16 del Real Decreto 1687/2007, de 14 de diciembre:
+«1. La correspondencia de las unidades de competencia con los
+módulos profesionales que forman las enseñanzas del título de Técnico
+Superior en Programación de la Producción en Fabricación Mecánica
+para su convalidación o exención queda determinada en el Anexo VA) de
+este real decreto.
+
+27134
+Miércoles, 9 de septiembre 2009
+B.O.C. y L. - N.º 173
+2. La correspondencia de los módulos profesionales que forman las
+enseñanzas del título de Técnico Superior en Programación de la Pro-
+ducción en Fabricación Mecánica con las unidades de competencia para
+su acreditación, queda determinada en el Anexo VB) de este real decreto».
+DECRETO 54/2009, de 3 de septiembre, por el que se establece el
+currículo correspondiente al Título de Técnico Superior en Audio-
+logía Protésica en la Comunidad de Castilla y León.
+El artículo 73.1 del Estatuto de Autonomía de Castilla y León, atri-
+buye a la Comunidad de Castilla y León la competencia de desarrollo
+legislativo y ejecución de la enseñanza en toda su extensión, niveles y
+grados, modalidades y especialidades, de acuerdo con el derecho a la educa-
+ción que todos los ciudadanos tienen, según lo establecido en el artículo 27 de
+la Constitución Española y las leyes orgánicas que lo desarrollan.
+La Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de
+la Formación Profesional, establece en el artículo 10.1 que la Adminis-
+tración General del Estado, determinará los títulos y los certificados de
+profesionalidad, que constituirán las ofertas de formación profesional
+referidas al Catálogo Nacional de Cualificaciones Profesionales.
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación, determina en
+su artículo 39.6 que el Gobierno establecerá las titulaciones correspon-
+dientes a los estudios de formación profesional, así como los aspectos
+básicos del currículo de cada una de ellas.
+El Real Decreto 1538/2006, de 15 de diciembre, por el que se esta-
+blece la ordenación general de la formación profesional del sistema edu-
+cativo define en el artículo 6, la estructura de los títulos de formación pro-
+fesional, tomando como base el Catálogo Nacional de Cualificaciones
+Profesionales, las directrices fijadas por la Unión Europea y otros aspec-
+tos de interés social. El artículo 7 concreta el perfil profesional de dichos
+títulos, que incluirá la competencia general, las competencias profesiona-
+les, personales y sociales, las cualificaciones y, en su caso, las unidades
+de competencia del Catálogo Nacional de Cualificaciones Profesionales
+incluidas en los títulos.
+Por otro lado, el artículo 17 del citado Real Decreto 1538/2006, de 15
+de diciembre, dispone que las Administraciones educativas establecerán
+los currículos de las enseñanzas de formación profesional respetando lo
+en él dispuesto y en las normas que regulen los títulos respectivos.
+Posteriormente, el Real Decreto 1685/2007, de 14 de diciembre, esta-
+blece el título de Técnico Superior en Audiología Protésica y se fijan sus
+enseñanzas mínimas y dispone en el artículo 1, que sustituye a la regula-
+ción del título con la denominación de Técnico Superior en Audiopróte-
+sis, contenido en el Real Decreto 62/2001, de 26 de enero. 
+El presente Decreto establece el currículo correspondiente al título de
+Técnico Superior en Audiología Protésica en la Comunidad de Castilla y
+León teniendo en cuenta los principios generales que han de orientar la
+actividad educativa, según lo previsto en el artículo 1 de la Ley Orgánica
+2/2006, de 3 de mayo, de Educación. Se pretende dar respuesta a las nece-
+sidades generales de cualificación de los recursos humanos para su incor-
+poración a la estructura productiva de la Comunidad de Castilla y León.
+En su virtud, la Junta de Castilla y León, a propuesta del Consejero
+de Educación, previo informe del Consejo de Formación Profesional de
+Castilla y León y dictamen del Consejo Escolar de Castilla y León, y pre-
+via deliberación del Consejo de Gobierno en su reunión de 3 de septiem-
+bre de 2009
+DISPONE:
+Artículo 1.– Objeto y ámbito de aplicación.
+El presente Decreto tiene por objeto establecer el currículo corres-
+pondiente al título de Técnico Superior en Audiología Protésica en la
+Comunidad de Castilla y León, que se incorpora como Anexo I.
+Artículo 2.– Autonomía de los centros.
+1. Los centros educativos dispondrán de la necesaria autonomía
+pedagógica, de organización y de gestión económica, para el desarrollo
+de las enseñanzas y su adaptación a las características concretas del entor-
+no socioeconómico, cultural y profesional. Los centros autorizados para
+impartir el ciclo formativo concretarán y desarrollarán el currículo
+mediante las programaciones didácticas de cada uno de los módulos pro-
+fesionales que componen el ciclo formativo en los términos establecidos
+en este Decreto en el marco general del proyecto educativo de centro y en
+función de las características de su entorno productivo. 

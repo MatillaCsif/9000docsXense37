@@ -1,0 +1,3541 @@
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4296
+Miércoles, 25 de enero de 2012
+I. COMUNIDAD DE CASTILLA Y LEÓN
+A. DISPOSICIONES GENERALES
+CONSEJERÍA DE EDUCACIÓN
+DECRETO 4/2012, de 19 de enero, por el que se establece el Plan de Estudios de las 
+Especialidades de Bienes Arqueológicos, Documento Gráfico, Escultura, Pintura y Textiles 
+de las Enseñanzas Artísticas Superiores de Grado en Conservación y Restauración de 
+Bienes Culturales en la Comunidad de Castilla y León.
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece en el artículo 58 
+que corresponde al Gobierno, previa consulta a las Comunidades Autónomas y al Consejo 
+Superior de Enseñanzas Artísticas, definir la estructura y el contenido básico de los 
+diferentes estudios de enseñanzas artísticas superiores regulados en la misma.
+El artículo 46 de la citada ley establece que la definición del contenido de las 
+enseñanzas artísticas superiores, así como la evaluación de las mismas, se hará en el 
+contexto de la ordenación de la educación superior española en el marco europeo. 
+En su desarrollo se dictó el Real Decreto 1614/2009, de 26 de octubre, por el que se 
+establece la ordenación de las enseñanzas artísticas superiores reguladas en dicha ley, 
+en cuyo artículo 4 se especifica que, de acuerdo con el sistema europeo de transferencia 
+de créditos regulado en el Real Decreto 1125/2003, de 5 de septiembre, por el que se 
+establece el sistema europeo de créditos y el sistema de calificaciones en las titulaciones 
+universitarias de carácter oficial y validez en todo el territorio nacional, el haber académico 
+que representa el cumplimiento de los objetivos previstos en los planes de estudios 
+conducentes a la obtención de títulos oficiales de enseñanzas artísticas superiores se 
+medirá en créditos europeos ECTS. A la vez, dispone que el número total de créditos 
+establecido en los planes de estudios para cada curso académico será de 60, distribuido 
+entre la totalidad de las materias integradas en el plan de estudios que deba cursar el 
+estudiante. Igualmente, estipula que en la asignación de créditos para cada materia y 
+asignatura que configuren el plan de estudios se computará el número de horas de trabajo 
+requeridas para la adquisición por los estudiantes de los conocimientos, capacidades y 
+destrezas correspondientes.
+El artículo 11 del citado real decreto recoge la previsión de que el Gobierno definirá, 
+de conformidad con las directrices en él establecidas, el contenido básico de los planes 
+de estudios conducentes a la obtención de los títulos de graduado o graduada, referidos 
+a las competencias, materias y sus descriptores, contenidos y número de créditos 
+correspondientes.
+Atendiendo a esta previsión se dictó el Real Decreto 635/2010, de 14 de mayo, por 
+el que se regula el contenido básico de las enseñanzas artísticas superiores de Grado 
+en Conservación y Restauración de Bienes Culturales establecidas en la Ley Orgánica 
+2/2006, de 3 de mayo, de Educación, en el que se establece la organización del plan de 
+estudios de estas enseñanzas, así como las competencias transversales y generales, las 
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4297
+Miércoles, 25 de enero de 2012
+competencias específicas y los perfiles profesionales para cada una de las especialidades, 
+además de definir las materias de formación básica y las materias obligatorias de cada 
+especialidad con sus descriptores y número mínimo de créditos ECTS correspondientes. 
+El artículo 11.2 del Real Decreto 1614/2009, de 26 de octubre, y en igual sentido el 
+artículo 7 del Real Decreto 635/2010, de 14 de mayo, establece que las Administraciones 
+educativas, en el ámbito de sus competencias, aprobarán el plan de estudios correspondiente 
+a cada título, de acuerdo con lo establecido en la Ley Orgánica 2/2006, de 3 de mayo, de 
+Educación, y en dichos reales decretos.
+De acuerdo con la disposición adicional tercera del Real Decreto 635/2010, de 
+14 de mayo, en el curso académico 2010-2011 se inició la implantación progresiva de 
+las enseñanzas artísticas superiores de Grado en Conservación y Restauración de 
+Bienes Culturales, cuyos planes de estudios para el primer curso se establecieron en la 
+Comunidad de Castilla y León, con carácter experimental en la Orden EDU/1367/2010, de 
+29 de septiembre, por la que se establece con carácter experimental el Plan de Estudios 
+para el primer curso de las Enseñanzas Artísticas Superiores de Grado en la Comunidad 
+de Castilla y León.
+Con la experiencia recogida se procede ahora al establecimiento del plan de estudios 
+en su totalidad, para cuya elaboración se han tenido en cuenta las propuestas de las 
+Escuelas de Arte y Superiores de Conservación y Restauración de Bienes Culturales de 
+Castilla y León y el asesoramiento de la Agencia para la Calidad del Sistema Universitario 
+de Castilla y León. 
+La configuración de los nuevos planes de estudios de las enseñanzas artísticas 
+superiores de Grado en el Espacio Europeo de Educación Superior conlleva que estos 
+planes de estudios se fundamenten en la adquisición de competencias por parte del 
+alumnado, en la aplicación de una nueva metodología de aprendizaje, en la adecuación 
+de los procedimientos de evaluación, así como la utilización de los créditos europeos 
+como unidad de medida que refleja los resultados del aprendizaje y el volumen de trabajo 
+realizado por el estudiante.
+El presente decreto, de aplicación en los centros que impartan enseñanzas 
+artísticas superiores de Grado en Conservación y Restauración de Bienes Culturales 
+en la Comunidad de Castilla y León, establece la estructura, ordenación y carga lectiva 
+del plan de estudios conducente a la obtención del título de Graduado o Graduada en 
+Conservación y Restauración de Bienes Culturales para la Comunidad de Castilla y León, 
+en sus especialidades de Bienes arqueológicos, Documento gráfico, Escultura, Pintura y 
+Textiles, concretando la distribución general de créditos ECTS en materias de formación 
+básica, materias obligatorias de especialidad, asignaturas optativas, prácticas externas 
+y trabajo fin de grado, la distribución de las asignaturas de cada materia por cursos y 
+especialidades con su asignación de créditos ECTS, así como las competencias, las horas 
+lectivas anuales y el contenido de cada asignatura. Asimismo regula la matriculación, 
+convocatorias, promoción y permanencia, reconocimiento y transferencia de créditos, las 
+prácticas externas y el trabajo fin de grado.
+Asimismo el decreto contiene tres disposiciones adicionales, concretando el 
+calendario de aplicación de los planes de estudio, la equivalencia de las asignaturas del 
+primer curso con las contenidas en la Orden EDU/1367/2010, de 29 de septiembre y 
+los sistemas de gestión de calidad; una disposición transitoria relativa a la situación de 
+los alumnos que promocionen con asignaturas pendientes de cursos extinguidos, una 
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4298
+Miércoles, 25 de enero de 2012
+disposición derogatoria y dos disposiciones finales atribuyendo el desarrollo normativo a 
+la consejería competente en materia de educación y fijando la entrada en vigor de este 
+decreto.
+En el proceso de elaboración de este decreto se ha recabado dictamen del Consejo 
+Escolar de Castilla y León.
+En su virtud, la Junta de Castilla y León, a propuesta del Consejero de Educación, y 
+previa deliberación del Consejo de Gobierno en su reunión de 19 de enero de 2012
+DISPONE:
+Artículo 1. Objeto y ámbito de aplicación.
+El presente decreto tiene por objeto establecer el plan de estudios de las 
+especialidades de Bienes arqueológicos, Documento gráfico, Escultura, Pintura y Textiles 
+de las enseñanzas artísticas superiores de Grado en Conservación y Restauración de 
+Bienes Culturales, que será de aplicación en los centros de la Comunidad de Castilla y 
+León en los que se impartan estas enseñanzas.
+Artículo 2. Estructura, ordenación y carga lectiva.
+1. El plan de estudios de las enseñanzas artísticas superiores de Grado en 
+Conservación y Restauración de Bienes Culturales, en las especialidades de Bienes 
+arqueológicos, Documento gráfico, Escultura, Pintura y Textiles, comprenderá cuatro 
+cursos académicos de 60 créditos ECTS cada uno, con un total de 240 créditos ECTS, 
+de conformidad con los artículos 4 y 11 del Real Decreto 1614/2009, de 26 de octubre, 
+que establece la ordenación de las enseñanzas artísticas superiores reguladas por la 
+Ley Orgánica 2/2006, de 3 de mayo, de Educación, y 6.3 del Real Decreto 635/2010, de 
+14 de mayo, que regula el contenido básico de las enseñanzas artísticas superiores de 
+Grado en Conservación y Restauración de Bienes Culturales establecidas en la citada ley 
+orgánica.
+2. La distribución general de créditos ECTS en materias de formación básica, 
+materias obligatorias de especialidad, asignaturas optativas, prácticas externas y trabajo 
+fin de grado será la que figura en el Anexo I del presente decreto. La distribución de las 
+asignaturas de cada materia por cursos y especialidades con su asignación de créditos 
+ECTS será la que recoge el Anexo II del presente decreto.
+3. Las competencias, las horas lectivas anuales y el contenido de cada asignatura 
+serán los que figuran en el Anexo III del presente decreto. 
+4. Las asignaturas optativas serán propuestas por el centro en el ejercicio de su 
+autonomía pedagógica y organizativa y de acuerdo con sus disponibilidades docentes, las 
+necesidades formativas y la demanda del alumnado, y serán aprobadas por la consejería 
+competente en materia de educación. 
+5. El desarrollo de las asignaturas del plan de estudios podrá organizarse, en 
+aplicación del ejercicio de la autonomía pedagógica y organizativa de los centros, de modo 
+anual o semestral. En todo caso, se garantizará una distribución equilibrada de los créditos 
+ECTS de cada curso entre los semestres.
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4299
+Miércoles, 25 de enero de 2012
+Artículo 3. Guía académica.
+1. Los centros elaborarán una guía académica, que se publicará al principio del curso, 
+por cada especialidad que se imparta del título de Grado en Conservación y Restauración 
+de Bienes Culturales, conforme a los criterios que determine la consejería competente en 
+materia de educación, en la que se incluirá la guía docente de cada asignatura realizada 
+por el departamento correspondiente.
+2. La inspección educativa supervisará la guía académica, comprobará su adecuación 
+a lo establecido en las disposiciones vigentes y comunicará al centro las correcciones que 
+procedan.
+Artículo 4. Evaluación y sistema de calificaciones.
+1. La evaluación del proceso de aprendizaje del alumnado y el sistema de calificaciones 
+se determinarán con arreglo a lo dispuesto en los artículos 5 del Real Decreto 1614/2009, 
+de 26 de octubre, y 9 del Real Decreto 635/2010, de 14 de mayo, y en el presente decreto. 
+El grado de adquisición de las competencias recogidas en el Anexo III se establece como 
+criterio general de evaluación.
+2. Los departamentos deberán publicar en la guía docente de cada asignatura el 
+sistema de evaluación y calificación, los criterios de evaluación y el calendario de las 
+evaluaciones, de acuerdo con las pautas generales que sobre evaluación puedan 
+establecer los centros en las guías académicas.
+3. No se podrá evaluar al alumnado en una asignatura si previamente no ha 
+superado la asignatura de igual denominación y cardinal anterior o aquella con la que 
+tenga establecida prelación, según se refleja en el Anexo IV.
+Artículo 5. Matriculación.
+1. La matrícula del primer curso comprenderá la totalidad de los 60 créditos ECTS 
+del mismo.
+2. Excepcionalmente, se podrá autorizar la matrícula parcial en el primer curso de 
+un mínimo de 30 créditos ECTS, siempre que el alumnado acredite encontrarse en una de 
+las siguientes situaciones:
+a)	Estar trabajando.
+b)	Estar afectado por una discapacidad igual o superior al 33% o enfermedad 
+grave.
+c)	 Tener 55 años o más en la fecha de inicio del curso académico.
+d)	Estar al cuidado de personas dependientes.
+3. A partir del segundo curso, el alumnado podrá realizar matricula parcial de un 
+mínimo de 30 créditos ECTS.
+4. En los supuestos de enfermedad u otra causa que perturbe sustancialmente el 
+seguimiento de las enseñanzas, el alumnado podrá solicitar la anulación total o parcial 
+de la matrícula, antes del mes de febrero, al director del centro, que resolverá pudiendo 
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4300
+Miércoles, 25 de enero de 2012
+recabar para ello los informes que estime pertinentes. Excepcionalmente, y por causa 
+debidamente justificada, el director podrá admitir la presentación de dicha solicitud con 
+posterioridad.
+5. El alumnado que hubiese anulado totalmente la matrícula podrá retomar sus 
+estudios en el mismo centro sin someterse a un nuevo proceso de admisión, únicamente, 
+en el curso académico siguiente al de la anulación. No obstante, si la anulación total de la 
+matrícula correspondiera al primer curso, el alumno deberá someterse de nuevo al citado 
+proceso de admisión.
+6. El curso académico para el que se haya realizado la anulación total de la matrícula 
+no computará a efectos de permanencia en los estudios.
+7. La anulación de matrícula no supondrá la devolución de las tasas abonadas y se 
+hará constar en el expediente académico mediante la oportuna diligencia en el acta de 
+evaluación que corresponda.
+Artículo 6. Convocatorias. 
+1. La matrícula en cada asignatura dará derecho a dos convocatorias durante el 
+curso académico.
+2. El alumnado dispondrá de un máximo de cuatro convocatorias para superar cada 
+asignatura y de un máximo de dos convocatorias para superar el trabajo fin de grado.
+3. El alumnado podrá renunciar a una convocatoria de una o más asignaturas por 
+curso académico mediante escrito dirigido al director del centro, presentado con una 
+antelación mínima de tres meses a la realización de la evaluación final correspondiente. 
+Excepcionalmente, y por causa debidamente justificada, el director del centro podrá admitir 
+la renuncia con posterioridad.
+4. El alumnado que haya agotado las cuatro convocatorias para una misma asignatura 
+podrá presentar una solicitud motivada de convocatoria de carácter excepcional al director 
+del centro, que resolverá pudiendo recabar para ello los informes que estime pertinentes.
+5. Cuando se produzca un traslado de expediente, el alumnado dispondrá de las 
+convocatorias no agotadas en el centro de procedencia.
+Artículo 7. Promoción y permanencia.
+1. El alumnado dispondrá de un máximo de seis cursos académicos para completar 
+sus estudios de Grado en Conservación y Restauración de Bienes Culturales en la 
+especialidad correspondiente. 
+2. Cuando concurran las circunstancias recogidas en el artículo 5.2 u otras de carácter 
+excepcional, no ligadas a la falta de rendimiento académico, el director del centro podrá 
+autorizar, previa solicitud, la ampliación de la permanencia por un año improrrogable.
+3. El alumnado podrá permanecer en estos estudios si supera al menos 12 créditos 
+ECTS al término del primer curso.
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4301
+Miércoles, 25 de enero de 2012
+Artículo 8. Reconocimiento y transferencia de créditos.
+1. Las solicitudes de reconocimiento y transferencia de créditos deberán dirigirse, 
+antes del mes de noviembre, al director del centro, que resolverá teniendo en cuenta 
+los informes de los departamentos implicados, sin perjuicio de lo establecido en el 
+artículo 6 del Real Decreto 1614/2009, de 26 de octubre y en el artículo 10 del Real 
+Decreto 635/2010, de 14 de mayo.
+2. El alumnado que hubiera iniciado las enseñanzas de Conservación y Restauración 
+de Bienes Culturales según los planes anteriores a la Ley Orgánica 2/2006, de 3 de mayo, 
+de Educación obtendrá el reconocimiento de 60 créditos por curso académico totalmente 
+superado. 
+3. Los solicitantes de reconocimiento de créditos podrán formalizar la matrícula sin 
+el pago previo de los precios públicos establecidos al efecto. Los alumnos que obtuvieran 
+una resolución denegatoria a su petición de reconocimiento de créditos deberán satisfacer 
+los precios públicos establecidos en el plazo de quince días a partir de la recepción de la 
+notificación.
+Artículo 9. Prácticas externas y trabajo fin de grado.
+1. El trabajo fin de grado, que estará orientado a la evaluación de competencias 
+asociadas al título, y las prácticas externas se realizarán una vez se hayan superado un 
+mínimo de 180 créditos ECTS del plan de estudios.
+2. El centro establecerá para cada alumno el número de créditos ECTS destinados a 
+la realización de las prácticas externas y el trabajo fin de grado. En cualquier caso, deberá 
+respetarse el número de créditos máximo y mínimo previsto en el artículo 11.5 y 6 del Real 
+Decreto 1614/2009, de 26 de octubre, artículo 6.3 del Real Decreto 635/2010, de 14 de 
+mayo y Anexos I y II de este decreto.
+3. Para la evaluación del trabajo fin de grado será requisito indispensable haber 
+superado todas las asignaturas del plan de estudios. 
+DISPOSICIONES ADICIONALES
+Primera. Calendario de implantación.
+La implantación de los planes de estudios establecidos en el presente decreto tendrá 
+lugar en el año académico 2011/2012 para los cursos 1.º y 2.º, en el año académico 
+2012/2013 el curso 3.º y en 2013/2014 el curso 4.º, coexistiendo hasta su total implantación 
+con la impartición de los curriculos derivados de la Ley Orgánica 1/1990, de 3 de octubre, de 
+Ordenación General del Sistema Educativo, que se irán extinguiendo progresivamente.
+Segunda. Asignaturas del plan de estudios previsto en la Orden EDU/1367/2010, de 
+29 de septiembre.
+Las asignaturas del primer curso común a todas las especialidades de las enseñanzas 
+artísticas superiores de Grado en Conservación y Restauración de Bienes Culturales, 
+reguladas en la Orden EDU/1367/2010, de 29 de septiembre, por la que se establece con 
+carácter experimental el plan de estudios para el primer curso de las enseñanzas artísticas 
+superiores de Grado en la Comunidad de Castilla y León, se entienden equivalentes a 
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4302
+Miércoles, 25 de enero de 2012
+todos los efectos a las del plan de estudios regulado por el presente decreto, con las 
+siguientes equivalencias entre aquellas que cambian de denominación:
+– 	 Principios técnicos y metodológicos I equivaldrá a Principios técnicos y 
+metodológicos: materiales inorgánicos.
+– 	 Procedimientos I equivaldrá a Procedimientos: materiales inorgánicos.
+– 	 Historia de las artes aplicadas equivaldrá a Historia de las artes aplicadas y 
+decorativas.
+– 	 Gestión de patrimonio cultural I equivaldrá a Gestión del patrimonio cultural.
+– 	 Teoría e historia de la conservación-restauración. Normativa equivaldrá a Teoría 
+e historia de la conservación-restauración y normativa para la protección del 
+patrimonio.
+Tercera. Sistema de garantía de la calidad de las enseñanzas artísticas superiores.
+1. La consejería competente en materia de educación establecerá cuantas 
+actuaciones considere oportunas para el desarrollo del sistema de garantía de la calidad 
+de las enseñanzas artísticas superiores en los centros.
+2. Los centros que impartan enseñanzas artísticas superiores de Grado en 
+Conservación y Restauración de Bienes Culturales deberán establecer protocolos y 
+líneas de actuación según los parámetros establecidos por la Asociación Europea para 
+la Garantía de la Calidad de la Educación Superior, por las instituciones nacionales y 
+por las instituciones autonómicas que determine la consejería competente en materia de 
+educación.
+DISPOSICIÓN TRANSITORIA
+Alumnos con asignaturas pendientes de cursos extinguidos.
+Aquellos alumnos que cursen las enseñanzas de Conservación y Restauración de 
+Bienes Culturales conforme al plan de estudios anterior al establecido en el presente 
+decreto y promocionen con asignaturas pendientes de cursos extinguidos, podrán 
+disponer, hasta el curso 2014/2015, de las convocatorias a las que tuvieran derecho. 
+Estas convocatorias, que no comportarán horario lectivo, se resolverán mediante pruebas 
+de evaluación.
+DISPOSICIÓN DEROGATORIA
+Derogación normativa.
+Quedan derogados los Decretos 44/2006, de 22 de junio, 41/2007, de 10 de 
+mayo y 49/2008, de 26 de junio, por los que se establecen los currículos de las distintas 
+especialidades de las enseñanzas de Conservación y Restauración de Bienes Culturales 
+en la Comunidad de Castilla y León, sin perjuicio de lo dispuesto en la disposición adicional 
+primera, así como cuantas otras disposiciones de igual o inferior rango se opongan a lo 
+regulado en este decreto.
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4303
+Miércoles, 25 de enero de 2012
+DISPOSICIONES FINALES
+Primera. Desarrollo normativo.
+Se faculta al titular de la consejería competente en materia de educación para dictar 
+cuantas disposiciones sean precisas para la interpretación, aplicación y desarrollo de lo 
+dispuesto en este decreto.
+Segunda. Entrada en vigor.
+El presente decreto entrará en vigor el día siguiente al de su publicación en el «Boletín 
+Oficial de Castilla y León».
+Valladolid, 19 de enero de 2012.
+El Presidente 
+de la Junta de Castilla y León, 
+Fdo.: Juan Vicente Herrera Campo
+El Consejero de Educación,
+Fdo.: Juan José Mateos Otero
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4304
+Miércoles, 25 de enero de 2012
+ANEXO I
+DISTRIBUCIÓN GENERAL DE CRÉDITOS ECTS
+Especialidades
+Materias de 
+formación básica
+Materias obligatorias 
+de especialidad
+Asignaturas 
+optativas
+Prácticas 
+externas + TFG
+Total
+ECTS
+Bienes 
+arqueológicos
+135
+72
+3
+30
+240
+Documento 
+gráfico, Escultura, 
+Pintura, Textiles
+135
+66
+9
+30
+240
+ANEXO II
+DISTRIBUCIÓN DE ASIGNATURAS POR CURSOS Y ESPECIALIDADES 
+Y ASIGNACIÓN DE CRÉDITOS ECTS
+A) CURSOS COMUNES A TODAS LAS ESPECIALIDADES
+PRIMER CURSO
+MATERIAS
+ASIGNATURAS
+ECTS
+Principios técnicos y metodológicos de 
+conservación-restauración
+Formación básica
+Principios técnicos y metodológicos: 
+materiales inorgánicos
+12
+Conservación preventiva: bienes in situ, 
+depósito, exposiciones y traslados
+Conservación preventiva I
+4
+Procedimientos y técnicas artísticas
+Procedimientos: materiales inorgánicos
+4
+Dibujo
+3
+Técnicas de obtención y tratamiento de 
+imágenes
+Técnica fotográfica I
+4
+Recursos informáticos aplicados a la 
+conservación-restauración
+Informática aplicada I
+4
+Química, física y biología: fundamentos y 
+aplicación a la conservación-restauración
+Fundamentos de química y física aplicados 
+a la conservación-restauración
+10
+Historia de los bienes culturales
+Historia de las artes aplicadas y 
+decorativas
+8
+Iconografía e iconología
+2
+Gestión del patrimonio cultural
+Gestión del patrimonio cultural
+4
+Teoría e historia de la conservación-
+restauración, y normativa para la 
+protección del patrimonio
+Teoría e historia de la conservación-
+restauración y normativa para la protección 
+del patrimonio
+5
+TOTAL
+60
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4305
+Miércoles, 25 de enero de 2012
+SEGUNDO CURSO
+MATERIAS
+ASIGNATURAS
+ECTS
+Principios técnicos y metodológicos 
+de conservación-restauración
+Formación básica
+Principios técnicos y metodológicos: 
+materiales orgánicos
+16
+Conservación preventiva: bienes 
+in situ, depósito, exposiciones y 
+traslados
+Conservación preventiva II
+4
+Procedimientos y técnicas artísticas
+Procedimientos: materiales orgánicos
+3
+Teoría y práctica del color aplicadas
+3
+Técnicas de obtención y tratamiento 
+de imágenes
+Técnica fotográfica II
+3
+Recursos informáticos aplicados a la 
+conservación-restauración
+Informática aplicada II
+3
+Química, física y biología: 
+fundamentos y aplicación a la 
+conservación-restauración
+Fundamentos de biología aplicados a la 
+conservación-restauración
+5
+Tecnología y propiedades de los 
+materiales
+Tecnología y propiedades de los 
+materiales
+6
+Metodología de la investigación y de 
+la documentación
+Investigación y documentación
+6
+Historia de los bienes culturales
+Historia del arte
+6
+Gestión del patrimonio cultural
+Catalogación, peritaje y tasación
+5
+TOTAL
+60
+B) Especialidad: BIENES ARQUEOLÓGICOS
+TERCER CURSO
+MATERIAS
+ASIGNATURAS
+ECTS
+Química, física y biología: fundamentos 
+y aplicación a la conservación-
+restauración
+Formación 
+básica
+Química, física y biología aplicadas a la 
+conservación-restauración I
+4
+Proyectos de conservación-restauración
+Proyectos de conservación-restauración
+5
+Metodología y prácticas de 
+conservación-restauración de bienes 
+arqueológicos
+Obligatorias de especialidad
+Prácticas de conservación-restauración 
+de materiales arqueológicos inorgánicos
+21
+Metodología e intervención en 
+yacimientos arqueológicos
+6
+Técnicas de bienes arqueológicos. 
+Aplicación a la conservación-
+restauración
+Procedimientos y técnicas de bienes 
+arqueológicos inorgánicos
+7
+Dibujo y sistemas de representación de 
+materiales arqueológicos
+3
+Métodos de reproducción
+3
+Historia de los bienes arqueológicos. 
+Aplicación a la conservación-
+restauración
+Historia de los bienes arqueológicos 
+hasta el mundo clásico
+5
+Bienes etnográficos
+6
+TOTAL
+60
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4306
+Miércoles, 25 de enero de 2012
+CUARTO CURSO
+MATERIAS
+ASIGNATURAS
+ECTS
+Química, física y biología: fundamentos y 
+aplicación a la conservación-restauración
+Formación 
+básica
+Química, física y biología aplicadas a la 
+conservación-restauración II
+2
+Gestión y organización profesional
+Gestión y organización profesional
+4
+Metodología y prácticas de conservación-
+restauración de bienes arqueológicos
+Obligatorias de especialidad
+Prácticas de conservación-restauración 
+de materiales arqueológicos orgánicos
+14
+Técnicas de bienes arqueológicos. 
+Aplicación a la conservación-restauración
+Procedimientos y técnicas de bienes 
+arqueológicos orgánicos
+4
+Historia de los bienes arqueológicos. 
+Aplicación a la conservación-restauración
+Historia de los bienes arqueológicos 
+medievales y postmedievales
+3
+Optativa
+3
+Prácticas + Trabajo Fin de Grado
+30
+TOTAL
+60
+C) Especialidad: DOCUMENTO GRÁFICO
+TERCER CURSO
+MATERIAS
+ASIGNATURAS
+ECTS
+Química, física y biología: fundamentos y 
+aplicación a la conservación-restauración
+Formación 
+básica
+Química, física y biología aplicadas a 
+la conservación-restauración I
+4
+Proyectos de conservación-restauración
+Proyectos de conservación-
+restauración
+5
+Metodología y prácticas de conservación-
+restauración de documento gráfico
+Obligatorias de especialidad
+Prácticas de conservación-
+restauración del documento gráfico: 
+soportes celulósicos y proteínicos
+21
+Prácticas de conservación-
+restauración de encuadernación I
+6
+Técnicas del documento gráfico. Aplicación 
+a la conservación-restauración
+Procedimientos y técnicas del 
+documento gráfico y del material 
+sigilográfico
+6
+Técnicas de encuadernación
+6
+Historia del documento gráfico. Aplicación a 
+la conservación-restauración
+Historia del documento manuscrito
+6
+Optativa
+6
+TOTAL
+60
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4307
+Miércoles, 25 de enero de 2012
+CUARTO CURSO
+MATERIAS
+ASIGNATURAS
+ECTS
+Química, física y biología: fundamentos y 
+aplicación a la conservación-restauración
+Formación 
+básica
+Química, física y biología aplicadas a la 
+conservación-restauración II
+2
+Gestión y organización profesional
+Gestión y organización profesional
+4
+Metodología y prácticas de conservación-
+restauración del documento gráfico
+Obligatorias de especialidad
+Prácticas de conservación-restauración 
+del documento gráfico: material 
+fotosensible y soportes audiovisuales
+10
+Prácticas de conservación-restauración 
+de encuadernación II
+4
+Técnicas del documento gráfico. 
+Aplicación a la conservación-restauración
+Procedimientos y técnicas de grabado y 
+estampación
+2
+Historia del documento gráfico. 
+Aplicación a la conservación-restauración
+Paleografía, diplomática y heráldica
+2
+Historia del documento impreso
+3
+Optativa
+3
+Prácticas + Trabajo Fin de Grado
+30
+TOTAL
+60
+D) Especialidad: ESCULTURA
+TERCER CURSO
+MATERIAS
+ASIGNATURAS
+ECTS
+Química, física y biología: fundamentos y 
+aplicación a la conservación-restauración
+Formación 
+básica
+Química, física y biología aplicadas a la 
+conservación-restauración I
+4
+Proyectos de conservación-restauración
+Proyectos de conservación-
+restauración
+5
+Metodología y prácticas de conservación-
+restauración de la escultura
+Obligatorias de especialidad
+Prácticas de conservación-restauración 
+de escultura: material orgánico
+21
+Restauración de retablos en madera
+7
+Técnicas escultóricas. Aplicación a la 
+conservación-restauración
+Procedimientos y técnicas de ejecución 
+de escultura: material orgánico
+7
+Historia de la escultura. Aplicación a la 
+conservación-restauración
+Historia de la escultura hasta el 
+Renacimiento
+7
+Programas iconográficos de la 
+escultura española
+3
+Optativa
+6
+TOTAL
+60
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4308
+Miércoles, 25 de enero de 2012
+CUARTO CURSO
+MATERIAS
+ASIGNATURAS
+ECTS
+Química, física y biología: fundamentos y 
+aplicación a la conservación-restauración
+Formación 
+básica
+Química, física y biología aplicadas a 
+la conservación-restauración II
+2
+Gestión y organización profesional
+Gestión y organización profesional
+4
+Metodología y prácticas de conservación-
+restauración de la escultura
+Obligatorias de 
+especialidad
+Prácticas de conservación-restauración 
+de escultura: material inorgánico
+14
+Técnicas escultóricas. Aplicación a la 
+conservación-restauración
+Procedimientos y técnicas de ejecución 
+de escultura: material inorgánico
+4
+Historia de la escultura. Aplicación a la 
+conservación-restauración
+Historia de la escultura del Barroco a la 
+actualidad
+3
+Optativa
+3
+Prácticas + Trabajo Fin de Grado
+30
+TOTAL
+60
+E) Especialidad: PINTURA
+TERCER CURSO
+MATERIAS
+ASIGNATURAS
+ECTS
+Química, física y biología: fundamentos 
+y aplicación a la conservación-
+restauración
+Formación 
+básica
+Química, física y biología aplicadas a la 
+conservación-restauración I
+4
+Proyectos de conservación-restauración
+Proyectos de conservación-restauración
+5
+Metodología y prácticas de 
+conservación-restauración de la pintura
+Obligatorias de 
+especialidad
+Prácticas de conservación-restauración 
+de pintura: soportes orgánicos
+28
+Técnicas pictóricas. Aplicación a la 
+conservación-restauración
+Procedimientos y técnicas de ejecución 
+de pintura: soportes orgánicos
+7
+Historia de la pintura. Aplicación a la 
+conservación-restauración
+Historia de la pintura hasta el Barroco
+10
+Optativa
+6
+TOTAL
+60
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4309
+Miércoles, 25 de enero de 2012
+CUARTO CURSO
+MATERIAS
+ASIGNATURAS
+ECTS
+Química, física y biología: fundamentos y 
+aplicación a la conservación-restauración
+Formación 
+básica
+Química, física y biología aplicadas a 
+la conservación-restauración II
+2
+Gestión y organización profesional
+Gestión y organización profesional
+4
+Metodología y prácticas de conservación-
+restauración de la pintura
+Obligatorias de 
+especialidad
+Prácticas de conservación-
+restauración de pintura: soportes 
+inorgánicos
+14
+Técnicas pictóricas. Aplicación a la 
+conservación-restauración
+Procedimientos y técnicas de 
+ejecución de pintura: soportes 
+inorgánicos
+4
+Historia de la pintura. Aplicación a la 
+conservación-restauración
+Historia de la pintura en el arte 
+contemporáneo
+3
+Optativa
+3
+Prácticas + Trabajo Fin de Grado
+30
+TOTAL
+60
+F) Especialidad: TEXTILES
+TERCER CURSO
+MATERIAS
+ASIGNATURAS
+ECTS
+Química, física y biología: fundamentos y 
+aplicación a la conservación-restauración
+Formación 
+básica
+Química, física y biología aplicadas a 
+la conservación-restauración I
+4
+Proyectos de conservación-restauración
+Proyectos de conservación-
+restauración
+5
+Metodología y prácticas de conservación-
+restauración de bienes culturales textiles
+Obligatorias de 
+especialidad
+Prácticas de conservación-
+restauración de tejidos planos
+28
+Técnicas de los bienes culturales textiles. 
+Aplicación a la conservación-restauración
+Procedimientos y técnicas textiles: 
+alto y bajo lizo
+7
+Historia de los bienes culturales textiles. 
+Aplicación a la conservación-restauración
+Historia del arte textil y sus técnicas 
+hasta el Renacimiento
+10
+Optativa
+6
+TOTAL
+60
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4310
+Miércoles, 25 de enero de 2012
+CUARTO CURSO
+MATERIAS
+ASIGNATURAS
+ECTS
+Química, física y biología: fundamentos 
+y aplicación a la conservación-
+restauración
+Formación 
+básica
+Química, física y biología aplicadas a 
+la conservación-restauración II
+2
+Gestión y organización profesional
+Gestión y organización profesional
+4
+Metodología y prácticas de 
+conservación-restauración de bienes 
+culturales textiles
+Obligatorias de 
+especialidad
+Prácticas de conservación-
+restauración de indumentaria textil
+14
+Técnicas de los bienes culturales 
+textiles. Aplicación a la conservación-
+restauración
+Procedimientos y técnicas textiles: 
+encajes y bordados
+4
+Historia de los bienes culturales 
+textiles. Aplicación a la conservación-
+restauración
+Historia del arte textil y sus técnicas 
+del Barroco a la actualidad
+3
+Optativa
+3
+Prácticas + Trabajo Fin de Grado
+30
+TOTAL
+60
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4311
+Miércoles, 25 de enero de 2012
+ANEXO III
+COMPETENCIAS, HORAS LECTIVAS Y CONTENIDO DE LAS ASIGNATURAS
+A) CURSOS COMUNES A TODAS LAS ESPECIALIDADES
+PRIMER CURSO
+ASIGNATURA: 	Principios técnicos y metodológicos: materiales inorgánicos
+Carácter: Formación básica
+Materia: 	Principios técnicos y metodológicos de la conservación restauración
+Créditos ECTS: 12
+Competencias: 
+–	 Analizar y diagnosticar, con criterio metodológico causas de deterioro y alteraciones 
+en bienes culturales relacionados con las enseñanzas de la asignatura.
+–	 Ser capaz de determinar en cada intervención, el tipo de tratamientos a seguir, 
+aplicando las técnicas y los materiales más idóneos así como el manejo del 
+instrumental y equipamiento adecuado en cada caso.
+–	 Ser capaz de realizar informes detallados de todo el proceso de conservación y 
+restauración justificando y evaluando los tratamientos aplicados.
+Horas lectivas anuales: 180
+Breve descripción de los contenidos:
+–	 Introducción a la Conservación y la Restauración; criterios básicos de intervención 
+de los bienes culturales.
+–	 Productos, instrumental, herramientas y maquinaria del taller de conservación y 
+restauración: mantenimiento, uso correcto y medidas de seguridad.
+–	 Determinación y evaluación de los factores de degradación y alteraciones en los 
+bienes culturales de cerámica, metales y vidrio.
+–	 Técnicas de conservación y restauración aplicadas en bienes culturales de 
+cerámica, metales y vidrio.
+–	 Elaboración de memorias de intervención. Documentación, metodología y 
+valoración.
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4312
+Miércoles, 25 de enero de 2012
+ASIGNATURA: 	Conservación preventiva I
+Carácter: Formación básica
+Materia: 	Conservación preventiva: bienes in situ, depósito, exposiciones y 
+	
+traslados
+Créditos ECTS: 4
+Competencias: 
+–	 Conocer y comprender la importancia de la conservación preventiva cómo 
+objetivo primordial de la conservación de bienes culturales.
+–	 Identificar riesgos y factores de alteración para llevar a cabo actuaciones en los 
+bienes culturales, valorando su función y ubicación.
+–	 Ser capaz de manejar correctamente las distintas técnicas, sistemas y 
+equipamientos utilizados en conservación preventiva.
+–	 Evaluar de forma global los resultados obtenidos y las estrategias aplicadas.
+Horas lectivas anuales: 60
+Breve descripción de los contenidos:
+–	 Concepto de conservación preventiva y criterios de actuación.
+–	 Aplicación de la conservación preventiva en archivos, bibliotecas, museos y otras 
+instituciones.
+–	 Valoración de los factores medioambientales y de biodeterioro y su acción sobre 
+los bienes culturales. 
+–	 Medidas correctoras, equipamiento y control dentro del campo de la conservación 
+preventiva.
+–	 Documentación, seguimiento y registro de las medidas adoptadas. Evaluación 
+de la eficacia de los planes generales y específicos de conservación preventiva.
+ASIGNATURA: 	Procedimientos: materiales inorgánicos
+Carácter: Formación básica
+Materia: 	Procedimientos y técnicas artísticas
+Créditos ECTS: 4
+Competencias: 
+–	 Conocer e identificar las técnicas, materiales y procedimientos de realización y 
+acabado de los bienes culturales elaborados en cerámica, piedra, metal y vidrio.
+–	 Aplicar diferentes materiales, técnicas y procedimientos artísticos para la creación 
+de obras en cerámica, piedra, metal y vidrio.
+–	 Utilizar materiales y recursos manuales y tecnológicos apropiados a la realización 
+de cada obra propuesta.
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4313
+Miércoles, 25 de enero de 2012
+Horas lectivas anuales: 90
+Breve descripción de los contenidos:
+–	 Fundamentos teóricos relacionados con las técnicas artísticas de cerámica, 
+vidrio, metal y piedra.
+–	 Técnicas tradicionales y actuales de realización y acabado en objetos de 
+cerámica, vidrio, metales y piedra.
+–	 Materiales, herramientas y maquinaría utilizados en su elaboración.
+–	 Técnicas de reproducción y réplica parcial o total de objetos de cerámica, metal, 
+vidrio y piedra.
+ASIGNATURA: 	Dibujo
+Carácter: Formación básica
+Materia: 	Procedimientos y técnicas artísticas
+Créditos ECTS: 3
+Competencias: 
+–	 Ser capaz de conocer y manejar los materiales y los diferentes sistemas de 
+representación.
+–	 Valorar y utilizar el dibujo como instrumento de estudio e investigación de las 
+formas de los objetos.
+–	 Representar, de manera objetiva, elementos, objetos o conjuntos del natural 
+relacionados con los bienes culturales.
+Horas lectivas anuales: 60
+Breve descripción de los contenidos:
+–	 Análisis de formas mediante los diferentes sistemas de representación en el 
+plano, aplicando conceptos de escala y planimetría.
+–	 Técnicas y procedimientos para representar de manera objetiva los diferentes 
+objetos y bienes culturales, mediante elementos de expresión gráfica y plástica.
+–	 Aplicación de las diferentes técnicas de representación gráfica y plástica para 
+identificar objetos o conjuntos del natural relacionados con los bienes culturales.
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4314
+Miércoles, 25 de enero de 2012
+ASIGNATURA: 	Técnica fotográfica I
+Carácter: Formación básica
+Materia: 	Técnicas de obtención y tratamiento de imágenes
+Créditos ECTS: 4
+Competencias: 
+–	 Ser capaz de distinguir y utilizar las diferentes técnicas fotográficas que permitan 
+obtener, de forma satisfactoria, imágenes relativas a la actividad documental.
+–	 Ser capaz de manejar las cámaras fotográficas utilizando diferentes objetivos 
+e iluminación y formatos de archivo de imágenes en soporte digital para cada 
+caso.
+–	 Elaborar documentación fotográfica, partiendo de prácticas de restauración 
+realizadas y documentando procesos completos.
+Horas lectivas anuales: 60
+Breve descripción de los contenidos:
+–	 La cámara fotográfica y su tipología. Elementos y componentes. 
+–	 La óptica y longitud focal. Tipos de objetivos. 
+–	 La iluminación y sus técnicas, fuentes de iluminación. Resalte de volúmenes y 
+texturas. Temperatura de color.
+–	 Fotografía de acercamiento y fotomacrografía. Acoplamiento a equipos de 
+ampliación. Lentes de aproximación. Técnica fotográfica.
+–	 La imagen fotográfica digital y sus funciones básicas. Tratamiento de la imagen.
+ASIGNATURA: 	Informática aplicada I
+Carácter: Formación básica
+Materia: 	Recursos informáticos aplicados a la conservación-restauración
+Créditos ECTS: 4
+Competencias: 
+–	 Diferenciar entre los distintos elementos básicos y periféricos de un sistema 
+informático con aplicación en la restauración.
+–	 Utilizar correctamente aplicaciones informáticas de tipo ofimática.
+–	 Elaborar y presentar en formatos digitales toda la información relativa a un 
+proceso de documentación y restauración.
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4315
+Miércoles, 25 de enero de 2012
+Horas lectivas anuales: 60
+Breve descripción de los contenidos:
+–	 Las tecnologías de la información y comunicación. Procesado de la información 
+digital.
+–	 El lenguaje informático. Sistemas operativos.
+–	 El hardware y el software básicos en tareas ofimáticas aplicadas a la conservación 
+y restauración.
+–	 Procesadores de texto, hojas de cálculo, bases de datos y presentaciones 
+digitales.
+ASIGNATURA: 	Fundamentos de química y física aplicados a la conservación-
+	
+restauración
+Carácter: Formación básica
+Materia: 	Química, física y biología: fundamentos y aplicación a la conservación- 
+	
+restauración
+Créditos ECTS: 10
+Competencias: 
+–	 Comprender y analizar los conceptos de materia y energía, así como la interacción 
+de la materia consigo misma y con las distintas formas de energía.
+–	 Analizar la estructura de la materia y relacionarla con las propiedades y 
+comportamiento que presentan los materiales que conforman los distintos 
+bienes culturales así como los productos empleados en su conservación y 
+restauración.
+–	 Comprender los cambios físicos y químicos que experimenta la materia 
+de los bienes culturales y de los productos empleados en su conservación y 
+restauración.
+Horas lectivas anuales: 120
+Breve descripción de los contenidos:
+–	 Estructura y propiedades de la materia. 
+–	 Transformaciones de la materia y sus relaciones energéticas. 
+–	 Principios fundamentales de física sobre electromagnetismo y óptica.
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4316
+Miércoles, 25 de enero de 2012
+ASIGNATURA: 	Historia de las artes aplicadas y decorativas
+Carácter: Formación básica
+Materia: 	Historia de los bienes culturales
+Créditos ECTS: 8
+Competencias: 
+–	 Analizar con espíritu crítico las diferentes artes aplicadas desde perspectivas 
+funcionales, formales y técnicas.
+–	 Saber aplicar las metodologías científicas propias de la disciplina de Historia del 
+Arte en relación con la conservación y la restauración.
+–	 Demostrar el conocimiento de la evolución histórica de las artes aplicadas desde 
+la antigüedad hasta el arte contemporáneo.
+–	 Conocer y emplear adecuadamente la terminología y los conceptos fundamentales 
+de la teoría del arte.
+–	 Saber interpretar el valor de las obras de artes aplicadas dentro del contexto 
+cultural en el que fueron creadas.
+Horas lectivas anuales: 120
+Breve descripción de los contenidos:
+–	 Introducción a la Teoría e Historia del Arte.
+–	 Significado de las artes aplicadas. Los distintos materiales y las diversas 
+funciones.
+–	 Las artes aplicadas durante la Prehistoria y la Antigüedad. El caso español y, en 
+especial, el castellano y leonés. Influencias exteriores.
+–	 El arte aplicado español durante la Edad Media. Castilla y León. La influencia 
+hispana en Europa y la influencia del exterior en España.
+–	 La Edad Moderna en las artes aplicadas de Europa y España. Castilla y León.
+–	 Arte aplicado y diseño contemporáneos.
+ASIGNATURA: 	Iconografía e iconología
+Carácter: Formación básica
+Materia: 	Historia de los bienes culturales
+Créditos ECTS: 2
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4317
+Miércoles, 25 de enero de 2012
+Competencias: 
+–	 Utilizar las herramientas fundamentales para el análisis de las imágenes y los 
+temas de los bienes culturales desde las distintas metodologías iconológicas y 
+las diversas fuentes iconográficas.
+–	 Conocer las nociones propias del lenguaje visual y el análisis simbólico.
+–	 Saber interpretar los repertorios iconográficos a lo largo del tiempo.
+Horas lectivas anuales: 30
+Breve descripción de los contenidos:
+–	 Iconografía e iconología. Cuestiones metodológicas para el estudio de la 
+iconología. Fuentes para el estudio iconográfico.
+–	 Estudio y análisis de los repertorios y ciclos temáticos fundamentales en la cultura 
+visual referentes al mundo artístico figurativo y abstracto, desde la Prehistoria y 
+el mundo antiguo hasta la actualidad.
+ASIGNATURA: 	Gestión del patrimonio cultural
+Carácter: Formación básica
+Materia: 	Gestión del patrimonio cultural
+Créditos ECTS: 4
+Competencias: 
+–	 Saber identificar instituciones culturales que se ocupan de custodiar bienes del 
+patrimonio cultural en función de la naturaleza de los mismos y conocer sus 
+funciones.
+–	 Conocer los principales sistemas de documentación del patrimonio cultural 
+utilizados en las instituciones que lo custodian: archivos, bibliotecas y museos.
+–	 Conocer el papel que desarrollan los museos, archivos y bibliotecas en la 
+conservación del patrimonio cultural y su dimensión social.
+–	 Adquirir conocimientos sobre sistemas expositivos de gestión y divulgación 
+utilizados en dichas instituciones y mecanismos para la puesta en valor del 
+patrimonio cultural.
+Horas lectivas anuales: 60
+Breve descripción de los contenidos:
+–	 Los archivos y las bibliotecas. Sus funciones.
+–	 Los museos y otras instituciones culturales.
+–	 Evolución del concepto y tipología de los museos. 
+–	 Principios de Museología y Museografía. El proyecto museográfico. Contenidos 
+divulgativos.
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4318
+Miércoles, 25 de enero de 2012
+ASIGNATURA: 	Teoría e historia de la conservación-restauración y normativa 
+	
+para la protección del patrimonio
+Carácter: Formación básica
+Materia: 	Teoría e historia de la conservación-restauración, y normativa para la 
+	
+protección del patrimonio
+Créditos ECTS: 5
+Competencias: 
+–	 Conocer la evolución de criterios y prácticas para la conservación y la restauración 
+de los bienes culturales a lo largo de la historia.
+–	 Profundizar en criterios y metodologías que se han empleado a lo largo del 
+tiempo en la restauración, identificando y discriminando criterios y tratamientos 
+aplicados.
+–	 Familiarizarse con los textos legales relativos a la protección del patrimonio 
+cultural en el ámbito autonómico, nacional e internacional.
+–	 Conocer el procedimiento legal y administrativo que debe seguirse para 
+intervenir sobre un bien integrante del patrimonio cultural en función de su nivel 
+de protección.
+Horas lectivas anuales: 60
+Breve descripción de los contenidos:
+–	 Concepto y valor del bien cultural.
+–	 Historia y evolución de la teoría de la conservación y restauración.
+–	 Desarrollo de la profesión de conservador-restaurador. Código deontológico.
+–	 Normativa sobre bienes culturales y su organización administrativa: internacional, 
+estatal, autonómica. Organizaciones encargadas de marcar pautas y criterios.
+SEGUNDO CURSO
+ASIGNATURA: 	Principios técnicos y metodológicos: materiales orgánicos
+Carácter: Formación básica
+Materia: 	Principios técnicos y metodológicos de la conservación restauración
+Créditos ECTS: 16
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4319
+Miércoles, 25 de enero de 2012
+Competencias: 
+–	 Analizar y diagnosticar con criterio metodológico causas de deterioro y 
+alteraciones en los bienes culturales relacionados con las enseñanzas de la 
+asignatura.
+–	 Determinar en cada intervención el tipo de tratamientos a seguir, aplicando las 
+técnicas y los materiales más idóneos así como el manejo del instrumental y 
+equipamiento adecuado en cada caso.
+–	 Realizar informes detallados de todo el proceso de conservación-restauración 
+justificando y evaluando los tratamientos aplicados.
+Horas lectivas anuales: 240
+Breve descripción de los contenidos:
+–	 Instrumental, herramientas, maquinaria y productos del taller de conservación 
+y restauración relativos a obras pictóricas, escultóricas, textiles y documento 
+gráfico. Mantenimiento y uso correcto. 
+–	 Aplicación de medidas de seguridad y salud y medioambientales en el taller.
+–	 Determinación y evaluación de los factores de degradación y alteraciones en 
+obras pictóricas, escultóricas, textiles y documento gráfico.
+–	 Técnicas de conservación y restauración aplicadas a obras pictóricas, escultóricas, 
+textiles y documento gráfico.
+–	 Documentación, metodología y valoración para la elaboración de informes 
+de diagnóstico y conservación, así como memorias de intervención en obras 
+pictóricas, escultóricas, textiles y documento gráfico.
+ASIGNATURA: 	Conservación preventiva II
+Carácter: Formación básica
+Materia: 	Conservación preventiva: bienes in situ, depósito, exposiciones y 
+	
+traslados
+Créditos ECTS: 4
+Competencias: 
+–	 Conocer y comprender la importancia de la conservación preventiva como objetivo 
+primordial de la conservación de bienes culturales expuestos o almacenados.
+–	 Identificar riesgos y factores de alteración para llevar a cabo actuaciones en los 
+bienes culturales, valorando su función y ubicación cuando deben ser exhibidos 
+temporal o permanentemente.
+–	 Ser capaz de manejar correctamente las distintas técnicas, sistemas y 
+equipamientos utilizados en conservación preventiva destinados a la manipulación, 
+embalaje, transporte y exhibición de bienes culturales.
+–	 Evaluar de forma global los resultados obtenidos y las estrategias aplicadas.
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4320
+Miércoles, 25 de enero de 2012
+Horas lectivas anuales: 60
+Breve descripción de los contenidos:
+–	 La función del conservador-restaurador en la conservación preventiva.
+–	 Propuesta y elaboración de planes integrales de conservación preventiva. 
+–	 Conservación preventiva aplicada a exposiciones, instalaciones y almacenes. 
+Materiales y equipamiento para la realización de soportes y almacenaje.
+–	 Préstamos, intercambios y traslados. Medidas de seguridad y control.
+–	 Evaluación, revisión y mantenimiento de tratamientos y materiales aplicados en 
+intervenciones desde el punto de vista de su conservación a medio-largo plazo.
+ASIGNATURA: 	Procedimientos: materiales orgánicos
+Carácter: Formación básica
+Materia: 	Procedimientos y técnicas artísticas
+Créditos ECTS: 3
+Competencias: 
+–	 Conocer e identificar las técnicas, materiales y procedimientos de realización y 
+decoración de obras pictóricas, escultóricas, textiles y documento gráfico de cara 
+a la aplicación de estos conocimientos en procesos de intervención en bienes 
+culturales pictóricos, escultóricos, textiles y gráficos.
+–	 Aplicar diferentes materiales, técnicas y procedimientos artísticos para la creación 
+de obras escultóricas, pictóricas, textiles y gráficas.
+–	 Utilizar los materiales y recursos manuales y tecnológicos apropiados a la 
+realización de cada obra propuesta.
+Horas lectivas anuales: 60
+Breve descripción de los contenidos:
+–	 Fundamentos teóricos de las técnicas artísticas de pintura, escultura, textiles y 
+documento gráfico.
+–	 Técnicas tradicionales y actuales de realización y acabado en obras pictóricas, 
+escultóricas, textiles y documento gráfico.
+–	 Materiales, herramientas y maquinaría utilizados en su elaboración.
+–	 Técnicas de reproducción y réplica parcial o total de obras escultóricas, pictóricas, 
+textiles y gráficas.
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4321
+Miércoles, 25 de enero de 2012
+ASIGNATURA: 	Teoría y práctica del color aplicadas
+Carácter: Formación básica
+Materia: 	Procedimientos y técnicas artísticas
+Créditos ECTS: 3
+Competencias: 
+–	 Apreciar el fenómeno cromático y la percepción del color.
+–	 Identificar materias primas: pigmentos y tintes y las técnicas de aplicación.
+–	 Aplicar el color como elemento integrador en labores de reintegración cromática 
+de bienes culturales. Adecuación de los criterios a cada tipo de objeto.
+Horas lectivas anuales: 60
+Breve descripción de los contenidos:
+–	 Teoría del color.
+–	 Criterios de reintegración cromática aplicados a cada tipo de bien cultural en 
+función de su ubicación y uso.
+–	 Aplicación de las distintas técnicas y materiales para la entonación y reintegración 
+cromática de los diferentes bienes culturales.
+ASIGNATURA: 	Técnica fotográfica II
+Carácter: Formación básica
+Materia: 	Técnicas de obtención y tratamiento de imágenes
+Créditos ECTS: 3
+Competencias: 
+–	 Utilizar las aportaciones del medio fotográfico al estudio de los bienes culturales, 
+especialmente las técnicas de reflectografía, ultravioleta (UV) e Infrarrojo (IR).
+–	 Aplicar la fotografía como técnica auxiliar en el diagnóstico de la conservación y 
+restauración de los bienes culturales.
+–	 Utilizar la fotografía digital como técnica auxiliar de documentación e intervención 
+en los procesos de conservación y restauración.
+Horas lectivas anuales: 60
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4322
+Miércoles, 25 de enero de 2012
+Breve descripción de los contenidos:
+–	 Fotografía ultravioleta e infrarroja. Características de ambas frecuencias. Espectro 
+electromagnético.
+–	 Aplicaciones de la fotografía a los procesos de documentación, conservación y 
+restauración de los bienes culturales.
+–	 Tratamiento de la imagen digital en los procesos de intervención sobre bienes 
+culturales.
+ASIGNATURA: 	Informática aplicada II
+Carácter: Formación básica
+Materia: 	Recursos informáticos aplicados a la conservación-restauración
+Créditos ECTS: 3
+Competencias: 
+–	 Establecer las características funcionales de las herramientas informáticas, 
+indicando las aplicaciones y medios necesarios, en el campo de la gestión del 
+patrimonio cultural.
+–	 Utilizar medios y aplicaciones informáticas, investigar, documentar y divulgar 
+procesos de intervención de conservación y restauración de bienes culturales.
+Horas lectivas anuales: 60
+Breve descripción de los contenidos:
+–	 Recursos informáticos aplicados a la gestión del patrimonio cultural.
+–	 Bases de datos y su tratamiento.
+–	 Aplicaciones informáticas en la redacción de proyectos relacionados con la 
+intervención en bienes culturales.
+–	 Aplicación de programas informáticos de gestión documental a la conservación y 
+restauración.
+–	 Aplicaciones y sistemas informáticos en el control de las medidas preventivas de 
+climatología ambiental.
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4323
+Miércoles, 25 de enero de 2012
+ASIGNATURA: 	Fundamentos de biología aplicados a la conservación-
+	
+restauración
+Carácter: Formación básica
+Materia: 	Química, física y biología: fundamentos y aplicación a la conservación- 
+	
+restauración
+Créditos ECTS: 5
+Competencias: 
+–	 Entender la composición química, estructura, funcionamiento y organización de 
+los seres vivos.
+–	 Comprender los procesos de deterioro que originan los seres vivos en los bienes 
+culturales.
+–	 Comprender el fundamento fisicoquímico de los métodos de control y erradicación 
+del biodeterioro.
+Horas lectivas anuales: 60
+Breve descripción de los contenidos:
+–	 Composición, estructura, funcionamiento y organización de los seres vivos.
+–	 Aplicación del estudio de los seres vivos al biodeterioro de los bienes culturales.
+–	 Fundamento fisicoquímico de los métodos de control y erradicación del 
+biodeterioro.
+ASIGNATURA: 	Tecnología y propiedades de los materiales
+Carácter: Formación básica
+Materia: 	Tecnología y propiedades de los materiales
+Créditos ECTS: 6
+Competencias: 
+–	 Conocer e identificar la composición, propiedades, comportamiento y técnicas de 
+fabricación de materiales tanto naturales como artificiales que integran los bienes 
+culturales o que se utilizan en tratamientos de conservación-restauración.
+Horas lectivas anuales: 60
+Breve descripción de los contenidos:
+–	 Composición, propiedades, comportamiento y técnicas de fabricación de 
+materiales tanto naturales como artificiales que integran los bienes culturales o 
+que se utilizan en tratamientos de conservación-restauración.
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4324
+Miércoles, 25 de enero de 2012
+ASIGNATURA: 	Investigación y documentación
+Carácter: Formación básica
+Materia: 	Metodología de la investigación y de la documentación
+Créditos ECTS: 6
+Competencias: 
+–	 Conocer medios y recursos de la investigación científica y documental.
+–	 Aplicar procedimientos de búsqueda y cita bibliográfica.
+–	 Desarrollar técnicas y métodos de investigación. Planteamiento y constatación.
+–	 Ser capaz de interpretar resultados.
+Horas lectivas anuales: 90
+Breve descripción de los contenidos:
+–	 Medios y recursos de la investigación científica y documental aplicada a bienes 
+culturales.
+–	 Fuentes y procedimientos de búsqueda de información bibliográfica.
+–	 Métodos de formulación y contrastación de hipótesis.
+–	 Divulgación y publicación de resultados.
+ASIGNATURA: 	Historia del arte
+Carácter: Formación básica
+Materia: 	Historia de los bienes culturales
+Créditos ECTS: 6
+Competencias: 
+–	 Analizar con espíritu crítico los diferentes bienes culturales desde perspectivas 
+funcionales, formales y técnicas.
+–	 Saber aplicar las metodologías científicas propias de la disciplina de Historia del 
+Arte en relación con la conservación y la restauración.
+–	 Demostrar el conocimiento de la evolución histórica de los bienes culturales 
+desde la antigüedad hasta el arte contemporáneo.
+–	 Conocer y emplear adecuadamente la terminología y los conceptos fundamentales 
+de la teoría del arte.
+–	 Saber interpretar el valor de las obras de los bienes culturales dentro del contexto 
+cultural en el que fueron creados.
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4325
+Miércoles, 25 de enero de 2012
+Horas lectivas anuales: 90
+Breve descripción de los contenidos:
+–	 Visión general de la historia de la pintura y la escultura desde la Prehistoria hasta 
+hoy. Su relación con el resto de las artes.
+–	 Especial incidencia en el caso español y castellano y leonés.
+–	 Géneros y autores más representativos de cada uno de los estilos y movimientos 
+artísticos. Su relación con el contexto histórico.
+–	 Estudio y análisis de las obras más significativas de cada período.
+–	 Acercamiento a los procedimientos técnicos, soportes y materiales utilizados en 
+cada uno de los períodos históricos analizados. 
+ASIGNATURA: 	Catalogación, peritaje y tasación
+Carácter: Formación básica
+Materia: 	Gestión del patrimonio cultural
+Créditos ECTS: 5
+Competencias: 
+–	 Ser capaz de catalogar, documentar y valorar bienes culturales de distinta 
+naturaleza en función de sus características.
+–	 Adquirir nociones de tasación y peritación de bienes culturales.
+–	 Conocer aspectos legales sobre el comercio de bienes culturales.
+Horas lectivas anuales: 60
+Breve descripción de los contenidos:
+–	 Los sistemas de catalogación en archivos y bibliotecas.
+–	 Los sistemas de catalogación de los fondos museísticos.
+–	 Actividades de mecenazgo sobre el patrimonio cultural.
+–	 El comercio de los bienes culturales.
+–	 Peritación y tasación de bienes culturales.
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4326
+Miércoles, 25 de enero de 2012
+B) Especialidad: BIENES ARQUEOLÓGICOS
+TERCER CURSO
+ASIGNATURA: 	Química, física y biología aplicadas a la conservación-
+	
+restauración I
+Carácter: Formación básica
+Materia: 	Química, física y biología: fundamentos y aplicación a la conservación- 
+	
+restauración
+Créditos ECTS: 4
+Competencias: 
+–	 Comprender las propiedades de los materiales constitutivos de los bienes 
+culturales de la especialidad correspondiente basándose en el conocimiento de 
+su composición química y estructura.
+–	 Conocer el fundamento fisicoquímico de las alteraciones que experimentan 
+dichos materiales.
+–	 Entender y aplicar los métodos de análisis químico en el estudio científico de los 
+materiales constituyentes y sus alteraciones.
+Horas lectivas anuales: 60
+Breve descripción de los contenidos:
+–	 Materiales constitutivos de los bienes culturales de la especialidad correspondiente: 
+composición química, estructura y propiedades.
+–	 Fundamento fisicoquímico de las alteraciones de los materiales constitutivos de 
+los bienes culturales de la especialidad correspondiente.
+–	 Técnicas de estudio científico de los materiales constituyentes de los bienes 
+culturales y de sus alteraciones: métodos de examen, análisis y datación I.
+ASIGNATURA: 	Proyectos de conservación-restauración
+Carácter: Formación básica
+Materia: 	Proyectos de conservación-restauración
+Créditos ECTS: 5
+Competencias: 
+–	 Conocer la estructura y contenido de un proyecto de conservación-restauración 
+e integrar la documentación técnica, administrativa y económica precisa.
+–	 Ser capaz de aplicar las legislaciones sectoriales sobre seguridad y salud o 
+impacto ambiental en la fase de redacción y ejecución de un proyecto.
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4327
+Miércoles, 25 de enero de 2012
+–	 Familiarizarse con la formulación y gestión de los procedimientos de licitación 
+para proyectos, obras o intervenciones en conservación y restauración de bienes 
+culturales.
+–	 Desarrollar estrategias de comunicación oral, escrita y visual para la presentación 
+de un proyecto.
+–	 Ser capaz de redactar y editar memorias finales de una intervención de 
+conservación restauración.
+Horas lectivas anuales: 60
+Breve descripción de los contenidos:
+–	 El proyecto de conservación-restauración: Memorias, pliegos y especificaciones 
+técnicas; mediciones, presupuesto, cronograma y programación.
+–	 La gestión y organización de la documentación gráfica y fotográfica que acompaña 
+al proyecto.
+–	 Estudios de seguridad y salud o de viabilidad de la actuación que deben integrarse 
+en el proyecto. Medios auxiliares o complementarios.
+–	 Criterios para la presentación de ofertas y propuestas de licitación para obras, 
+proyectos o actuaciones sobre el patrimonio cultural. Utilización de recursos 
+informáticos y audiovisuales.
+–	 La memoria final de una intervención de conservación y restauración: Estructura 
+y contenido. 
+ASIGNATURA: 	Prácticas 
+de 
+conservación-restauración 
+de 
+materiales 
+
+	
+arqueológicos inorgánicos
+Carácter: Obligatoria de especialidad
+Materia: 	Metodología y prácticas de conservación-restauración de bienes 
+	
+arqueológicos
+Créditos ECTS: 21
+Competencias: 
+–	 Analizar y diagnosticar, con criterio metodológico causas de deterioro y alteraciones 
+en bienes culturales arqueológicos, etnográficos y de artes decorativas cuyos 
+materiales sean de origen inorgánico.
+–	 Conocer los criterios y procedimientos de intervención y seleccionar los 
+idóneos.
+–	 Aplicar las técnicas de conservación-restauración adecuadas utilizando 
+correctamente el instrumental y equipamiento.
+–	 Realizar informes detallados de todo el proceso de conservación y restauración.
+–	 Ser capaz de justificar y valorar de los procesos realizados y sus resultados.
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4328
+Miércoles, 25 de enero de 2012
+Horas lectivas anuales: 360
+Breve descripción de los contenidos:
+–	 Factores de degradación y alteraciones de los bienes arqueológicos inorgánicos, 
+como base del diagnóstico y propuesta de tratamiento.
+–	 Criterios, sistemas y técnicas de intervención de conservación-restauración 
+de bienes inorgánicos, de procedencia arqueológica, etnográfica y de artes 
+decorativas. 
+–	 Metodología y ejecución de los tratamientos de conservación y restauración 
+propios, mediante prácticas sobre obra real y ocasionalmente sobre modelos 
+simulados.
+–	 Documentación mediante la elaboración de informes.
+ASIGNATURA: 	Metodología e intervención en yacimientos arqueológicos
+Carácter: Obligatoria de especialidad
+Materia: 	Metodología y prácticas de conservación-restauración de bienes 
+	
+arqueológicos
+Créditos ECTS: 6
+Competencias: 
+–	 Conocer la metodología de excavación en excavaciones terrestres y 
+subacuáticas.
+–	 Saber interpretar la documentación generada en el yacimiento.
+–	 Identificar y valorar las diferentes condiciones del entorno del yacimiento 
+arqueológico.
+–	 Saber adoptar medidas de conservación y de reducción del impacto ambiental 
+de los diferentes materiales en el momento de su hallazgo y exposición al nuevo 
+medio atmosférico.
+–	 Ser capaz de valorar las diferentes opciones de protección y conservación de 
+yacimientos.
+Horas lectivas anuales: 90
+Breve descripción de los contenidos:
+–	 El medio arqueológico.
+–	 Evolución de las técnicas de excavación. Arqueología terrestre y subacuática.
+–	 Metodología de documentación y registro en excavaciones. La estratigrafía.
+–	 El restaurador en la excavación. Procedimientos y técnicas para la extracción de 
+materiales.
+–	 Técnicas de protección y conservación de bienes muebles e inmuebles en 
+yacimientos.
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4329
+Miércoles, 25 de enero de 2012
+ASIGNATURA: 	Procedimientos 
+y 
+técnicas 
+de 
+bienes 
+arqueológicos 
+
+	
+inorgánicos
+Carácter: Obligatoria de especialidad
+Materia: 	Técnicas de bienes arqueológicos. Aplicación a la conservación-
+	
+restauración 
+Créditos ECTS: 7
+Competencias: 
+–	 Conocer e identificar las técnicas, materiales y procedimientos de realización y 
+acabado de bienes inorgánicos de procedencia arqueológica, etnográfica y de 
+artes decorativas.
+–	 Ser capaz de ejecutar diferentes técnicas y procedimientos de elaboración 
+de bienes inorgánicos de procedencia arqueológica, etnográfica y de artes 
+decorativas.
+–	 Utilizar materiales y recursos manuales y tecnológicos apropiados a la realización 
+de cada obra propuesta.
+Horas lectivas anuales: 60
+Breve descripción de los contenidos:
+–	 Teoría de los diferentes procedimientos y técnicas de elaboración de bienes 
+arqueológicos, etnográficos y de artes decorativas de origen inorgánico, para su 
+aplicación a la conservación y restauración.
+–	 Metodologías de realización, tradicionales y actuales de bienes inorgánicos de 
+origen arqueológico, etnográfico y de artes decorativas.
+–	 Ejecución de sus diferentes procedimientos de elaboración.
+–	 Materiales, herramientas y maquinaría utilizados en su elaboración.
+ASIGNATURA: 	Dibujo 
+y 
+sistemas 
+de 
+representación 
+de 
+materiales 
+
+	
+arqueológicos
+Carácter: Obligatoria de especialidad
+Materia: 	Técnicas de bienes arqueológicos. Aplicación a la conservación-
+	
+restauración 
+Créditos ECTS: 3
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4330
+Miércoles, 25 de enero de 2012
+Competencias: 
+–	 Conocer las diversas técnicas de dibujo de bienes arqueológicos muebles e 
+inmuebles.
+–	 Representar mediante el dibujo objetos arqueológicos en sus diferentes materiales 
+y tipologías.
+–	 Valorar la importancia del dibujo como base documental y de investigación.
+–	 Adquirir habilidades en el manejo de las nuevas tecnologías como medio para el 
+estudio y representación del dibujo de piezas arqueológicas.
+Horas lectivas anuales: 60
+Breve descripción de los contenidos:
+–	 Técnicas y sistemas de representación de bienes arqueológicos.
+–	 El dibujo de campo y el dibujo arqueológico en el laboratorio.
+–	 Normas de orientación de las piezas y obtención de medidas y escalas.
+–	 Representación de forma manual y tecnológica. Levantamientos y dibujo in situ.
+ASIGNATURA: 	Métodos de reproducción
+Carácter: Obligatoria de especialidad
+Materia: 	Técnicas de bienes arqueológicos. Aplicación a la conservación-
+	
+restauración 
+Créditos ECTS: 3
+Competencias: 
+–	 Adquirir conocimientos teóricos y prácticos sobre los principales los métodos de 
+copia y reproducción, aplicables a la restauración arqueológica.
+–	 Seleccionar los materiales y los procedimientos de reproducción, según el original 
+a replicar.
+–	 Adoptar las medidas necesarias de seguridad y salud, respecto a las obras a 
+reproducir, a las personas y al medio ambiente.
+Horas lectivas anuales: 60
+Breve descripción de los contenidos:
+–	 Concepto y evolución histórica de los métodos de copia y reproducción.
+–	 Tipos de moldes y tipos de reproducciones. Teoría y práctica.
+–	 Herramientas a emplear, conservación y usos.
+–	 Nuevas tecnologías aplicadas a la reproducción. 
+–	 Medidas de seguridad y salud.
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4331
+Miércoles, 25 de enero de 2012
+ASIGNATURA: 	Historia de los bienes arqueológicos hasta el mundo clásico
+Carácter: Obligatoria de especialidad
+Materia: 	Historia de los bienes arqueológicos. Aplicación a la conservación-
+	
+restauración
+Créditos ECTS: 5
+Competencias: 
+–	 Conocer la función y la evolución histórica del los bienes arqueológicos desde la 
+Prehistoria al final del mundo clásico. 
+–	 Conocer la metodología de análisis para la interpretación del bien arqueológico 
+desde un enfoque teórico-práctico.
+–	 Conocer los repertorios fundamentales de la cultura visual referentes a los bienes 
+arqueológicos prehistóricos y antiguos.
+–	 Ser capaz de elaborar informes histórico-artísticos de los bienes arqueológicos 
+del periodo estudiado.
+Horas lectivas anuales: 90
+Breve descripción de los contenidos:
+–	 Visión general de la historia de los bienes arqueológicos desde la Prehistoria 
+hasta el final del mundo antiguo. 
+–	 Evolución de la cultura material en la Península Ibérica y la submeseta Norte en 
+los periodos prehistórico y protohistórico: Estudio y análisis.
+–	 Evolución de la cultura material en la Península Ibérica y la submeseta Norte en 
+el mundo antiguo: Estudio y análisis.
+–	 Acercamiento a los procedimientos técnicos y materiales utilizados en cada 
+uno de los momentos históricos analizados. Aplicación a la conservación y 
+restauración.
+ASIGNATURA: 	Bienes etnográficos
+Carácter: Obligatoria de especialidad
+Materia: 	Historia de los bienes arqueológicos. Aplicación a la conservación-
+	
+restauración
+Créditos ECTS: 6
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4332
+Miércoles, 25 de enero de 2012
+Competencias: 
+–	 Conocer los conceptos generales de la Antropología.
+–	 Comprender la cultura popular de Castilla y León. 
+–	 Analizar los museos etnográficos de Castilla y León.
+–	 Comprender el significado cultural de los objetos materiales de la tradición 
+popular.
+–	 Saber realizar la clasificación de los materiales etnográficos.
+–	 Valorar los elementos etnográficos.
+Horas lectivas anuales: 60
+Breve descripción de los contenidos:
+–	 Etnografía y Antropología. Metodología del trabajo etnográfico. Antecedentes de 
+la cultura etnográfica en España.
+–	 Los objetos etnográficos y la cultura popular. Elementos y técnicas.
+–	 Museos y materiales etnográficos en Castilla y León. 
+–	 Las características materiales y su repercusión en los procesos de deterioro.
+CUARTO CURSO
+ASIGNATURA: 	Química, física y biología aplicadas a la conservación-
+	
+restauración II
+Carácter: Formación básica
+Materia: 	Química, física y biología: fundamentos y aplicación a la conservación- 
+	
+restauración
+Créditos ECTS: 2
+Competencias: 
+–	 Comprender el fundamento fisicoquímico de los procesos y materiales empleados 
+en las intervenciones en los materiales de la especialidad correspondiente. 
+–	 Conocer el fundamento de las técnicas instrumentales y su aplicación en el 
+estudio científico de los materiales constituyentes de los bienes culturales.
+Horas lectivas anuales: 30
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4333
+Miércoles, 25 de enero de 2012
+Breve descripción de los contenidos:
+–	 Fundamento fisicoquímico de las intervenciones en los materiales de la 
+especialidad correspondiente.
+–	 Técnicas de estudio científico de los materiales constituyentes de los bienes 
+culturales y de sus alteraciones: métodos de examen, análisis y datación II.
+ASIGNATURA: 	Gestión y organización profesional
+Carácter: Formación básica
+Materia: 	Gestión y organización profesional
+Créditos ECTS: 4
+Competencias: 
+–	 Introducirse en el mundo de la actividad profesional del campo de la conservación-
+restauración.
+–	 Conocer la legislación de contratos del sector público y la clasificación empresarial 
+y profesional vigente.
+–	 Adquirir nociones sobre la responsabilidad civil y penal dentro del ejercicio de la 
+actividad profesional y por la integración en el sector, y conocer la normativa de 
+seguridad y salud.
+–	 Familiarizarse con el sistema de tributación y el régimen de la seguridad social.
+–	 Conocer la organización empresarial y las entidades y fuentes de financiación 
+para la creación de empresas. 
+Horas lectivas anuales: 45
+Breve descripción de los contenidos:
+–	 La profesión de conservador-restaurador. Titulaciones. Colegios y asociaciones 
+profesionales. Funcionamiento.
+–	 Legislación de contratos del sector público.
+–	 Responsabilidad civil y penal por el ejercicio de la profesión. Tipos de seguro.
+–	 Régimen de tributación fiscal; bases y tipos de cotización en la seguridad social. 
+–	 La organización empresarial. Fuentes de empleo, ayudas y subvenciones
+–	 Legislación y normativa en materia de seguridad y salud laboral. 
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4334
+Miércoles, 25 de enero de 2012
+ASIGNATURA: 	Prácticas 
+de 
+conservación-restauración 
+de 
+materiales 
+
+	
+arqueológicos orgánicos
+Carácter: Obligatoria de especialidad
+Materia: 	Metodología y prácticas de conservación-restauración de bienes 
+	
+arqueológicos
+Créditos ECTS: 14
+Competencias: 
+–	 Analizar y diagnosticar, con criterio metodológico causas de deterioro y 
+alteraciones en bienes arqueológicos, etnográficos y de artes decorativas cuyos 
+materiales sean de origen orgánico.
+–	 Conocer los criterios y procedimientos de intervención y seleccionar los 
+idóneos.
+–	 Aplicar las técnicas de conservación y restauración adecuadas utilizando 
+correctamente el instrumental y equipamiento.
+–	 Realizar informes detallados de todo el proceso de conservación y restauración.
+–	 Ser capaz de justificar y valorar de los procesos realizados y sus resultados.
+Horas lectivas anuales: 240
+Breve descripción de los contenidos:
+–	 El laboratorio de conservación y restauración de materiales arqueológicos 
+orgánicos. 
+–	 Factores de degradación y alteraciones de los bienes orgánicos, como base del 
+diagnóstico y propuesta de tratamiento.
+–	 Criterios, sistemas y técnicas de intervención de conservación-restauración 
+de bienes orgánicos, de procedencia paleontológica, arqueológica terrestre y 
+subacuática, etnográfica y de artes decorativas. 
+–	 Metodología y ejecución de los tratamientos de conservación y restauración 
+propios, mediante prácticas sobre obra real y ocasionalmente sobre modelos 
+simulados.
+–	 Documentación de elaboración de informes de conservación-restauración.
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4335
+Miércoles, 25 de enero de 2012
+ASIGNATURA: 	Procedimientos 
+y 
+técnicas 
+de 
+bienes 
+arqueológicos 
+
+	
+orgánicos
+Carácter: Obligatoria de especialidad
+Materia: 	Técnicas de bienes arqueológicos. Aplicación a la conservación-
+	
+restauración 
+Créditos ECTS: 4
+Competencias: 
+–	 Conocer e identificar las técnicas, materiales y procedimientos de realización 
+y acabado de bienes orgánicos de procedencia arqueológica, etnográfica y de 
+artes decorativas.
+–	 Ser capaz de ejecutar diferentes técnicas y procedimientos de elaboración 
+de bienes orgánicos de procedencia arqueológica, etnográfica y de artes 
+decorativas.
+–	 Utilizar materiales y recursos manuales y tecnológicos apropiados a la realización 
+de cada obra propuesta.
+Horas lectivas anuales: 60
+Breve descripción de los contenidos:
+–	 Teoría de los diferentes procedimientos y técnicas de elaboración de bienes 
+arqueológicos, etnográficos y de artes decorativas de origen orgánico, para su 
+aplicación a la conservación y restauración.
+–	 Metodologías de realización, tradicionales y actuales de bienes orgánicos de 
+origen arqueológico, etnográfico y de artes decorativas.
+–	 Ejecución de sus diferentes procedimientos de elaboración.
+–	 Materiales, herramientas y maquinaria utilizados en su elaboración.
+ASIGNATURA: 	Historia 
+de 
+los 
+bienes 
+arqueológicos 
+medievales 
+y 
+
+	
+posmedievales
+Carácter: Obligatoria de especialidad
+Materia: 	Historia de los bienes arqueológicos. Aplicación a la conservación-
+	
+restauración
+Créditos ECTS: 3
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4336
+Miércoles, 25 de enero de 2012
+Competencias: 
+–	 Estudio de los bienes arqueológicos medievales y posmedievales, desde el punto 
+de vista de su función y de su evolución tecnológica e histórica. 
+–	 Metodología de análisis para la interpretación del bien arqueológico desde un 
+enfoque teórico-práctico.
+–	 Conocimiento de los repertorios fundamentales de la cultura visual referentes a 
+los bienes arqueológicos de la Edad Media y períodos subsiguientes.
+–	 Pautas para la elaboración de informes histórico-artísticos de los bienes 
+arqueológicos de los momentos estudiados.
+Horas lectivas anuales: 45
+Breve descripción de los contenidos:
+–	 Visión general de la historia de los bienes arqueológicos medievales y 
+posmedievales. 
+–	 Especial incidencia en el caso español y castellano y leonés.
+–	 Estudio y análisis de los objetos más significativos de cada período.
+–	 Acercamiento a los procedimientos técnicos y materiales utilizados en cada 
+uno de los momentos históricos analizados. Aplicación a la conservación y 
+restauración.
+C) Especialidad: DOCUMENTO GRÁFICO
+TERCER CURSO
+ASIGNATURA: 	Química, física y biología aplicadas a la conservación-
+	
+restauración I
+Carácter: Formación básica
+Materia: 	Química, física y biología: fundamentos y aplicación a la conservación- 
+	
+restauración
+Créditos ECTS: 4
+Competencias: 
+–	 Comprender las propiedades de los materiales constitutivos de los bienes 
+culturales de la especialidad correspondiente basándose en el conocimiento de 
+su composición química y estructura.
+–	 Conocer el fundamento fisicoquímico de las alteraciones que experimentan 
+dichos materiales.
+–	 Entender y aplicar los métodos de análisis químico en el estudio científico de los 
+materiales constituyentes y sus alteraciones.
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4337
+Miércoles, 25 de enero de 2012
+Horas lectivas anuales: 60
+Breve descripción de los contenidos:
+–	 Materiales constitutivos de los bienes culturales de la especialidad 
+correspondiente: composición química, estructura y propiedades.
+–	 Fundamento fisicoquímico de las alteraciones de los materiales constitutivos de 
+los bienes culturales de la especialidad correspondiente.
+–	 Técnicas de estudio científico de los materiales constituyentes de los bienes 
+culturales y de sus alteraciones: métodos de examen, análisis y datación I.
+ASIGNATURA: 	Proyectos de conservación-restauración
+Carácter: Formación básica
+Materia: 	Proyectos de conservación-restauración
+Créditos ECTS: 5
+Competencias: 
+–	 Conocer la estructura y contenido de un proyecto de conservación-restauración 
+e integrar la documentación técnica, administrativa y económica precisa.
+–	 Ser capaz de aplicar las legislaciones sectoriales sobre seguridad y salud o 
+impacto ambiental en la fase de redacción y ejecución de un proyecto.
+–	 Familiarizarse con la formulación y gestión de los procedimientos de licitación 
+para proyectos, obras o intervenciones en conservación y restauración de bienes 
+culturales.
+–	 Desarrollar estrategias de comunicación oral, escrita y visual para la presentación 
+de un proyecto.
+–	 Ser capaz de redactar y editar memorias finales de una intervención de 
+conservación restauración.
+Horas lectivas anuales: 60
+Breve descripción de los contenidos:
+–	 El proyecto de conservación-restauración: Memorias, pliegos y especificaciones 
+técnicas; mediciones, presupuesto, cronograma y programación.
+–	 La gestión y organización de la documentación gráfica y fotográfica que acompaña 
+al proyecto.
+–	 Estudios de seguridad y salud o de viabilidad de la actuación que deben integrarse 
+en el proyecto. Medios auxiliares o complementarios.
+–	 Criterios para la presentación de ofertas y propuestas de licitación para obras, 
+proyectos o actuaciones sobre el patrimonio cultural. Utilización de recursos 
+informáticos y audiovisuales.
+–	 La memoria final de una intervención de conservación y restauración: Estructura 
+y contenido. 
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4338
+Miércoles, 25 de enero de 2012
+ASIGNATURA: 	Prácticas de conservación-restauración del documento gráfico: 
+	
+soportes celulósicos y proteínicos
+Carácter: Obligatoria de especialidad
+Materia: 	Metodología y prácticas de conservación-restauración de documento 
+	
+gráfico
+Créditos ECTS: 21
+Competencias: 
+–	 Saber identificar la naturaleza y estructura de los materiales de naturaleza 
+celulósica y proteínica.
+–	 Determinar y evaluar los factores degradación y alteración, para plantear una 
+propuesta de tratamiento y su posterior intervención.
+–	 Documentación, metodología y valoración en la elaboración de informes.
+Horas lectivas anuales: 360
+Breve descripción de los contenidos:
+–	 El taller de conservación y restauración del documento gráfico: Herramientas, 
+instrumental y maquinaria, etc.
+–	 El papel como soporte: causas de alteración. Propuesta de tratamiento y 
+documentación.
+–	 El pergamino: causas de alteración. Propuesta de tratamiento y documentación.
+–	 La metodología de intervención.
+–	 Recogida de datos y elaboración de fichas e informes, siguiendo los criterios 
+actuales.
+ASIGNATURA: 	Prácticas de conservación-restauración de encuadernación I
+Carácter: Obligatoria de especialidad
+Materia: 	Metodología y prácticas de conservación-restauración de documento 
+	
+gráfico
+Créditos ECTS: 6
+Competencias: 
+–	 Saber identificar la naturaleza y estructura de los materiales sobre los que se va a 
+intervenir. Encuadernaciones flexibles: Pergamino y otros materiales. Elaboración 
+de ataduras y cierres. 
+–	 Saber realizar una correcta diagnosis del estado de conservación de las piezas.
+–	 Saber elaborar propuesta de tratamiento.
+–	 Documentar adecuadamente las intervenciones para dejar constancia de los 
+tratamientos realizados utilizando la terminología adecuada.
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4339
+Miércoles, 25 de enero de 2012
+Horas lectivas anuales: 90
+Breve descripción de los contenidos:
+–	 Identificación de materiales a través de sus características. Las encuadernaciones 
+flexibles: El pergamino y otros materiales. Elaboración de ataduras y cierres.
+–	 Causas de alteración intrínseca y extrínseca.
+–	 Daños provocados y propuesta de tratamiento, función y estructura.
+–	 La metodología de intervención, rigor y flexibilidad. Herramienta, el material y los 
+productos necesarios.
+–	 Recogida de datos y elaboración de fichas e informes.
+–	 Los criterios de intervención en la conservación y restauración.
+–	 Elaboración de cajas de conservación.
+ASIGNATURA: 	Procedimientos y técnicas del documento gráfico y del material 
+	
+sigilográfico
+Carácter: Obligatoria de especialidad
+Materia: 	Técnicas del documento gráfico. Aplicación a la conservación-restauración 
+Créditos ECTS: 6
+Competencias: 
+–	 Ser capaz de identificar materiales y técnicas utilizados en obras documentales, 
+gráficas y sigilográficas.
+–	 Conocer procedimientos y técnicas empleados para la preparación de soportes 
+proteicos y celulósicos.
+–	 Familiarizarse con los distintos elementos que componen un documento 
+manuscrito e impreso.
+–	 Diferenciar materiales y técnicas utilizados para la obtención de sellos. Identificar 
+las partes del sello.
+Horas lectivas anuales: 90
+Breve descripción de los contenidos:
+–	 Identificación de materiales, manufactura y causas de deterioro: el papel y el 
+pergamino. Causas de deterioro. 
+–	 Tintas caligráficas y de impresión.
+–	 Tintas pictóricas y pigmentos sólidos en el documento.
+–	 Sigilografía. Materiales empleados para sellar. Modo de aposición y técnicas de 
+impresión a través de las fórmulas documentales. 
+–	 El libro y su estructura. Técnicas y estilos.
+–	 Los nuevos formatos. Los tipos de soportes no tradicionales.
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4340
+Miércoles, 25 de enero de 2012
+ASIGNATURA: 	Técnicas de encuadernación
+Carácter: Obligatoria de especialidad
+Materia: 	Técnicas del documento gráfico. Aplicación a la conservación-restauración 
+Créditos ECTS: 6
+Competencias: 
+–	 Conocer y manipular con precisión los utensilios y las máquinas propias de 
+encuadernación.
+–	 Aprender las técnicas básicas de los diversos procesos: cosidos, cabezadas, 
+guardas y cubiertas.
+–	 Realizar los distintos tipos de encuadernación: ordinaria, de calidad, de lujo y de 
+arte.
+–	 Identificar y realizar las distintas técnicas decorativas existentes.
+–	 Identificar partes de encuadernaciones y precisar su origen para proceder a su 
+clasificación y preservación.
+–	 Utilizar correctamente la terminología propia de la materia.
+–	 Diseñar y elaborar cajas de protección.
+–	 Organizar un taller de encuadernación para coordinar las diferentes tareas a 
+realizar.
+Horas lectivas anuales: 90
+Breve descripción de los contenidos:
+–	 Técnicas tradicionales de encuadernación. Orígenes y evolución.
+–	 Equipos, materiales y soportes.
+–	 Arquitectura y elaboración del libro.
+–	 Técnicas de cosido, cabezadas y tapas.
+–	 Guardas.
+–	 Ornamentación, estilos decorativos y sus técnicas. Materiales empleados.
+–	 Sistemas de protección y conservación.
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4341
+Miércoles, 25 de enero de 2012
+ASIGNATURA: 	Historia del documento manuscrito
+Carácter: Obligatoria de especialidad
+Materia: 	Historia del documento gráfico. Aplicación a la conservación-restauración
+Créditos ECTS: 6
+Competencias: 
+–	 Conocer la función y la evolución histórica del documento gráfico hasta la difusión 
+de la imprenta. 
+–	 Conocer la metodología de análisis para la interpretación del documento gráfico 
+desde un enfoque teórico-práctico.
+–	 Distinguir los repertorios fundamentales de la cultura visual referentes al 
+documento gráfico manuscrito.
+–	 Ser capaz de realizar informes histórico-artísticos sobre los objetos artísticos del 
+ámbito del documento gráfico de las etapas estudiadas.
+Horas lectivas anuales: 90
+Breve descripción de los contenidos:
+–	 Visión general de la historia del libro y del documento gráfico hasta la difusión de 
+la imprenta. 
+–	 Especial incidencia en el caso español y castellano y leonés.
+–	 Estudio y análisis de los objetos más significativos de cada período.
+–	 Acercamiento a los procedimientos técnicos y materiales utilizados en cada 
+uno de los momentos históricos analizados. Aplicación a la conservación y 
+restauración.
+CUARTO CURSO
+ASIGNATURA: 	Química, física y biología aplicadas a la conservación-
+	
+restauración II
+Carácter: Formación básica
+Materia: 	Química, física y biología: fundamentos y aplicación a la conservación- 
+	
+restauración
+Créditos ECTS: 2
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4342
+Miércoles, 25 de enero de 2012
+Competencias: 
+–	 Comprender el fundamento fisicoquímico de los procesos y materiales empleados 
+en las intervenciones en los materiales de la especialidad correspondiente. 
+–	 Conocer el fundamento de las técnicas instrumentales y su aplicación en el 
+estudio científico de los materiales constituyentes de los bienes culturales.
+Horas lectivas anuales: 30
+Breve descripción de los contenidos:
+–	 Fundamento fisicoquímico de las intervenciones en los materiales de la 
+especialidad correspondiente.
+–	 Técnicas de estudio científico de los materiales constituyentes de los bienes 
+culturales y de sus alteraciones: métodos de examen, análisis y datación II.
+ASIGNATURA: 	Gestión y organización profesional
+Carácter: Formación básica
+Materia: 	Gestión y organización profesional
+Créditos ECTS: 4
+Competencias: 
+–	 Introducirse en el mundo de la actividad profesional en el campo de la 
+conservación/restauración.
+–	 Conocer la legislación de contratos del sector público y la clasificación empresarial 
+y profesional vigente.
+–	 Adquirir nociones sobre la responsabilidad civil y penal dentro del ejercicio de la 
+actividad profesional y por la integración en el sector, y conocer la normativa de 
+seguridad y salud.
+–	 Familiarizarse con el sistema de tributación y el régimen de la seguridad social.
+–	 Conocer la organización empresarial y las entidades y fuentes de financiación 
+para la creación de empresas. 
+Horas lectivas anuales: 45
+Breve descripción de los contenidos:
+–	 La profesión de conservador-restaurador. Titulaciones. Colegios y asociaciones 
+profesionales. Funcionamiento.
+–	 Legislación de contratos del sector público.
+–	 Responsabilidad civil y penal por el ejercicio de la profesión. Tipos de seguro.
+–	 Régimen de tributación fiscal; bases y tipos de cotización en la seguridad social. 
+–	 La organización empresarial. Fuentes de empleo, ayudas y subvenciones.
+–	 Legislación y normativa en materia de seguridad y salud laboral. 
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4343
+Miércoles, 25 de enero de 2012
+ASIGNATURA: 	Prácticas de conservación-restauración del documento gráfico: 
+	
+material fotosensible y soportes audiovisuales
+Carácter: Obligatoria de especialidad
+Materia: 	Metodología y prácticas de conservación-restauración de documento 
+	
+gráfico
+Créditos ECTS: 10
+Competencias: 
+–	 Identificar la naturaleza y estructura de los materiales de naturaleza fotosensible 
+y en los soportes magnéticos y ópticos.
+–	 Determinar y evaluar los factores de degradación y alteraciones. Propuesta de 
+tratamiento.
+–	 Saber diseñar una correcta metodología de intervención.
+–	 Documentar adecuadamente las intervenciones y aplicar los criterios actuales de 
+conservación y restauración.
+Horas lectivas anuales: 180
+Breve descripción de los contenidos:
+–	 Identificación de materiales fotosensibles a través de sus características.
+–	 Identificación de soportes magnéticos y ópticos a través de sus características.
+–	 Causas de alteración intrínseca y extrínseca. Propuesta de tratamiento.
+–	 La metodología de intervención. Herramienta, el material y los productos 
+necesarios. 
+–	 Recogida de datos y elaboración de fichas e informes.
+ASIGNATURA: 	Prácticas de conservación-restauración de encuadernación II
+Carácter: Obligatoria de especialidad
+Materia: 	Metodología y prácticas de conservación-restauración de documento 
+	
+gráfico
+Créditos ECTS: 4
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4344
+Miércoles, 25 de enero de 2012
+Competencias: 
+–	 Saber identificar la naturaleza y estructura de los materiales sobre los que se 
+va a intervenir. Encuadernaciones rígidas: media piel, piel entera, tela y otros. 
+Elaboración de cierres, así como las relaciones que se establecen entre ellos.
+–	 Saber realizar una correcta diagnosis del estado de conservación de las piezas.
+–	 Saber elaborar propuesta de tratamiento.
+–	 Documentar adecuadamente las intervenciones para dejar constancia de los 
+tratamientos realizados utilizando la terminología adecuada.
+Horas lectivas anuales: 60
+Breve descripción de los contenidos:
+–	 Identificación de materiales a través de sus características. Encuadernaciones 
+rígidas y elaboración de cierres y elementos protectores en la encuadernación.
+–	 Causas de alteración intrínseca y extrínseca.
+–	 Daños provocados y propuesta de tratamiento, función y estructura.
+–	 La metodología de intervención, rigor y flexibilidad. Herramienta, el material y los 
+productos necesarios.
+–	 Recogida de datos y elaboración de fichas e informes.
+–	 Los criterios de intervención en la conservación y restauración en 
+encuadernaciones.
+–	 Elaboración de cajas de conservación.
+ASIGNATURA: 	Procedimientos y técnicas de grabado y estampación
+Carácter: Obligatoria de especialidad
+Materia: 	Técnicas del documento gráfico. Aplicación a la conservación-restauración 
+Créditos ECTS: 2
+Competencias: 
+–	 Conocer y manipular los materiales, soportes y herramientas.
+–	 Conocer las máquinas tradicionales propias de cada procedimiento de impresión: 
+evolución, características y funcionamiento.
+–	 Utilizar correctamente la terminología propia de la materia.
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4345
+Miércoles, 25 de enero de 2012
+–	 Aprender las diferentes técnicas en seco y en húmedo, así como los procedimientos 
+actuales.
+–	 Identificar las distintas técnicas de la obra gráfica.
+–	 Organizar un taller de grabado y técnicas de estampación para coordinar las 
+distintas tareas a realizar.
+Horas lectivas anuales: 30
+Breve descripción de los contenidos:
+–	 Técnicas tradicionales de grabado en relieve, grabado en hueco, procedimientos 
+auxiliares.
+–	 Equipos, materiales y soportes.
+–	 Realización de planchas de las diferentes técnicas existentes, así como su 
+estampación.
+–	 Sistemas de protección y conservación.
+ASIGNATURA: 	Paleografía, diplomática y heráldica
+Carácter: Obligatoria de especialidad
+Materia: 	Historia del documento gráfico. Aplicación a la conservación-restauración
+Créditos ECTS: 2
+Competencias: 
+–	 Conocer las principales tipologías documentales en la Edad Media y Moderna.
+–	 Reconocer tipos de escrituras y sus límites cronológicos.
+–	 Identificar paleográficamente los manuscritos y otras manifestaciones escritas.
+–	 Familiarizarse con las fórmulas de representación heráldica.
+Horas lectivas anuales: 30
+Breve descripción de los contenidos:
+–	 La paleografía: definición, evolución histórica y finalidad. Iniciación a los tipos de 
+escritura: carolina, gótica, cortesana, humanística y procesal.
+–	 La diplomática: definición, evolución histórica y finalidad. Estructura interna del 
+documento. Clasificación y análisis de los documentos. Cómputos de datación, 
+signos y modos de validación. La sigilografía.
+–	 La genealogía y la heráldica. Componentes de un blasón. Articulación, composición 
+y diseño.
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4346
+Miércoles, 25 de enero de 2012
+ASIGNATURA: 	Historia del documento impreso
+Carácter: Obligatoria de especialidad
+Materia: 	Historia del documento gráfico. Aplicación a la conservación-restauración
+Créditos ECTS: 3
+Competencias: 
+–	 Conocer la función y la evolución histórica del documento gráfico tras la difusión 
+de la imprenta.
+–	 Saber utilizar la metodología de análisis para la interpretación del documento 
+gráfico impreso desde un enfoque teórico-práctico.
+–	 Conocer los repertorios fundamentales de la cultura visual referentes a la historia 
+del libro y del documento gráfico impreso.
+–	 Ser capaz de elaborar informes histórico-artísticos sobre los documentos gráficos 
+de las etapas estudiadas.
+Horas lectivas anuales: 45
+Breve descripción de los contenidos:
+–	 Visión general de la historia del libro y del documento gráfico tras la difusión de 
+la imprenta. 
+–	 Especial incidencia en el caso español y castellano y leonés.
+–	 Estudio y análisis de los objetos más significativos de cada período.
+–	 Acercamiento a los procedimientos técnicos y materiales utilizados en cada uno de 
+los momentos históricos analizados. Aplicación a la conservación-restauración.
+D) Especialidad: ESCULTURA
+TERCER CURSO
+ASIGNATURA: 	Química, física y biología aplicadas a la conservación-
+	
+restauración I
+Carácter: Formación básica
+Materia: 	Química, física y biología: fundamentos y aplicación a la conservación- 
+	
+restauración
+Créditos ECTS: 4
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4347
+Miércoles, 25 de enero de 2012
+Competencias: 
+–	 Comprender las propiedades de los materiales constitutivos de los bienes 
+culturales de la especialidad correspondiente basándose en el conocimiento de 
+su composición química y estructura.
+–	 Conocer el fundamento fisicoquímico de las alteraciones que experimentan 
+dichos materiales.
+–	 Entender y aplicar los métodos de análisis químico en el estudio científico de los 
+materiales constituyentes y sus alteraciones.
+Horas lectivas anuales: 60
+Breve descripción de los contenidos:
+–	 Materiales constitutivos de los bienes culturales de la especialidad correspondiente: 
+composición química, estructura y propiedades.
+–	 Fundamento fisicoquímico de las alteraciones de los materiales constitutivos de 
+los bienes culturales de la especialidad correspondiente.
+–	 Técnicas de estudio científico de los materiales constituyentes de los bienes 
+culturales y de sus alteraciones: métodos de examen, análisis y datación I.
+ASIGNATURA: 	Proyectos de conservación-restauración
+Carácter: Formación básica
+Materia: 	Proyectos de conservación-restauración
+Créditos ECTS: 5
+Competencias: 
+–	 Conocer la estructura y contenido de un proyecto de conservación-restauración 
+e integrar la documentación técnica, administrativa y económica precisa.
+–	 Ser capaz de aplicar las legislaciones sectoriales sobre seguridad y salud o 
+impacto ambiental en la fase de redacción y ejecución de un proyecto.
+–	 Familiarizarse con la formulación y gestión de los procedimientos de licitación 
+para proyectos, obras o intervenciones en conservación y restauración de bienes 
+culturales.
+–	 Desarrollar estrategias de comunicación oral, escrita y visual para la presentación 
+de un proyecto.
+–	 Ser capaz de redactar y editar memorias finales de una intervención de 
+conservación restauración.
+Horas lectivas anuales: 60
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4348
+Miércoles, 25 de enero de 2012
+Breve descripción de los contenidos:
+–	 El proyecto de conservación-restauración: Memorias, pliegos y especificaciones 
+técnicas; mediciones, presupuesto, cronograma y programación.
+–	 La gestión y organización de la documentación gráfica y fotográfica que acompaña 
+al proyecto.
+–	 Estudios de seguridad y salud o de viabilidad de la actuación que deben integrarse 
+en el proyecto. Medios auxiliares o complementarios.
+–	 Criterios para la presentación de ofertas y propuestas de licitación para obras, 
+proyectos o actuaciones sobre el patrimonio cultural. Utilización de recursos 
+informáticos y audiovisuales.
+–	 La memoria final de una intervención de conservación y restauración: Estructura 
+y contenido. 
+ASIGNATURA: 	Prácticas de conservación-restauración de escultura: material 
+	
+orgánico
+Carácter: Obligatoria de especialidad
+Materia: 	Metodología y prácticas de conservación-restauración de la escultura
+Créditos ECTS: 21
+Competencias: 
+–	 Ser capaz de aplicar el tratamiento adecuado que minimice y/o detenga los 
+deterioros de los diferentes materiales orgánicos que constituyen una escultura: 
+madera, textil, papel, hueso, marfil.
+–	 Ser capaz de aplicar tratamientos de reconstrucción volumétrica con los materiales 
+más adecuados a cada tipo de obra.
+–	 Ser capaz de aplicar el tratamiento adecuado que minimice y/o detenga los 
+deterioros de los diferentes materiales de aparejos y/o policromías.
+–	 Ser capaz de determinar el nivel de reintegración cromática y acabado más 
+adecuado a cada tipo de obra o conjunto artístico en material orgánico.
+–	 Ser capaz de aplicar el tratamiento adecuado a los estratos de protección de una 
+escultura en material orgánico.
+Horas lectivas anuales: 360
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4349
+Miércoles, 25 de enero de 2012
+Breve descripción de los contenidos:
+–	 Equipamiento, herramientas y materiales del taller de restauración. Medidas de 
+seguridad.
+–	 Identificación de alteraciones y diagnóstico para propuesta de tratamientos 
+adecuados. 
+–	 Tratamientos de restauración: desinsectación, consolidación, sentado de aparejos 
+y policromía, limpiezas, reconstrucciones volumétricas, aparejado, reintegración 
+cromática, barnizado/acabados de protección.
+–	 Materiales aplicados a las distintas fases del proceso de restauración.
+ASIGNATURA: 	Restauración de retablos en madera
+Carácter: Obligatoria de especialidad
+Materia: 	Metodología y prácticas de conservación-restauración de la escultura
+Créditos ECTS: 7
+Competencias: 
+–	 Ser capaz de diagnosticar y evaluar los daños en retablos de madera.
+–	 Ser capaz de proponer tratamientos de conservación-restauración en un 
+retablo.
+–	 Ser capaz de desarrollar un trabajo de equipo con niveles de acabado óptimos.
+Horas lectivas anuales: 120
+Breve descripción de los contenidos:
+–	 Tipos de retablos.
+–	 Desmontaje, montaje y estructuras de retablos.
+–	 Técnicas de policromía en retablos.
+–	 Carpintería adaptada a la conservación y la restauración.
+–	 Tratamientos de conservación y restauración en retablos.
+–	 Materiales.
+–	 Medidas de seguridad en el trabajo.
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4350
+Miércoles, 25 de enero de 2012
+ASIGNATURA: 	Procedimientos y técnicas de ejecución de escultura: material 
+	
+orgánico
+Carácter: Obligatoria de especialidad
+Materia: 	Técnicas escultóricas. Aplicación a la conservación-restauración 
+Créditos ECTS: 7
+Competencias: 
+–	 Conocer los materiales de ejecución tradicionales en esculturas con material 
+orgánico.
+–	 Conocer los criterios, materiales y tratamientos de restauración tradicionales y 
+actuales aplicados en esculturas realizadas en material orgánico.
+–	 Ser capaz de reconocer las partes originales y las repuestas en una obra 
+escultórica.
+Horas lectivas anuales: 120
+Breve descripción de los contenidos:
+–	 Técnicas de ejecución de esculturas en madera, papelón, tela, hueso, marfil, 
+etc.
+–	 Técnicas de aparejado. Materiales.
+–	 Técnicas de policromía y dorado aplicadas a la escultura en material orgánico. 
+Materiales.
+–	 Técnicas de protección y barnizado. Materiales.
+ASIGNATURA: 	Historia de la escultura hasta el Renacimiento
+Carácter: Obligatoria de especialidad
+Materia: 	Historia de la escultura. Aplicación a la conservación-restauración
+Créditos ECTS: 7
+Competencias: 
+–	 Estudio de la escultura desde la Prehistoria al Renacimiento, desde el punto de 
+vista de su función y de su evolución tecnológica e histórica. 
+–	 Metodología de análisis para la interpretación del objeto escultórico desde un 
+enfoque teórico-práctico.
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4351
+Miércoles, 25 de enero de 2012
+–	 Conocimiento de los repertorios fundamentales de la cultura visual referentes a 
+la escultura desde la Prehistoria hasta el Renacimiento.
+–	 Pautas para la elaboración de informes histórico-artísticos de los bienes 
+escultóricos de los distintos períodos estudiados.
+Horas lectivas anuales: 90
+Breve descripción de los contenidos:
+–	 Visión general de la historia de la escultura desde la Prehistoria hasta el final del 
+periodo renacentista. 
+–	 Especial incidencia en el caso español y castellano y leonés.
+–	 Estudio y análisis de las esculturas más significativas de cada período.
+–	 Acercamiento a los procedimientos técnicos y materiales utilizados en cada 
+uno de los momentos históricos analizados. Aplicación a la conservación y la 
+restauración.
+ASIGNATURA: 	Programas iconográficos de la escultura española
+Carácter: Obligatoria de especialidad
+Materia: 	Historia de la escultura. Aplicación a la conservación-restauración
+Créditos ECTS: 3
+Competencias: 
+–	 Utilización de las herramientas fundamentales para el análisis de las imágenes 
+y los temas de la imaginería española desde las diferentes metodologías 
+iconológicas y las diversas fuentes iconográficas.
+–	 Conocimiento de los mecanismos propios del lenguaje visual y el análisis 
+simbólico.
+–	 Correcta interpretación de los repertorios iconográficos y los significados 
+iconológicos de la imaginería española en las distintas épocas.
+Horas lectivas anuales: 30
+Breve descripción de los contenidos:
+–	 Profundización en las metodologías para la comprensión de la iconología y en las 
+fuentes para el estudio iconográfico aplicadas a la imaginería española.
+–	 Estudio y análisis de los repertorios y ciclos temáticos fundamentales en la cultura 
+visual referentes a la imaginería española de los distintos períodos.
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4352
+Miércoles, 25 de enero de 2012
+CUARTO CURSO
+ASIGNATURA: 	Química, física y biología aplicadas a la conservación-
+	
+restauración II
+Carácter: Formación básica
+Materia: 	Química, física y biología: fundamentos y aplicación a la conservación- 
+	
+restauración
+Créditos ECTS: 2
+Competencias: 
+–	 Comprender el fundamento fisicoquímico de los procesos y materiales empleados 
+en las intervenciones en los materiales de la especialidad correspondiente. 
+–	 Conocer el fundamento de las técnicas instrumentales y su aplicación en el 
+estudio científico de los materiales constituyentes de los bienes culturales.
+Horas lectivas anuales: 30
+Breve descripción de los contenidos:
+–	 Fundamento fisicoquímico de las intervenciones en los materiales de la 
+especialidad correspondiente.
+–	 Técnicas de estudio científico de los materiales constituyentes de los bienes 
+culturales y de sus alteraciones: métodos de examen, análisis y datación II.
+ASIGNATURA: 	Gestión y organización profesional
+Carácter: Formación básica
+Materia: 	Gestión y organización profesional
+Créditos ECTS: 4
+Competencias: 
+–	 Introducirse en el mundo de la actividad profesional en el campo de la conservación/
+restauración.
+–	 Conocer la legislación de contratos del sector público y la clasificación empresarial 
+y profesional vigente. 
+–	 Adquirir nociones sobre la responsabilidad civil y penal dentro del ejercicio de la 
+actividad profesional y por la integración en el sector, y conocer la normativa de 
+seguridad y salud.
+–	 Familiarizarse con el sistema de tributación y el régimen de la seguridad social.
+–	 Conocer la organización empresarial y las entidades y fuentes de financiación 
+para la creación de empresas. 
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4353
+Miércoles, 25 de enero de 2012
+Horas lectivas anuales: 45
+Breve descripción de los contenidos:
+–	 La profesión de conservador-restaurador. Titulaciones. Colegios y asociaciones 
+profesionales. Funcionamiento.
+–	 Legislación de contratos del sector público.
+–	 Responsabilidad civil y penal por el ejercicio de la profesión. Tipos de seguro.
+–	 Régimen de tributación fiscal; bases y tipos de cotización en la seguridad social. 
+–	 La organización empresarial. Fuentes de empleo, ayudas y subvenciones.
+–	 Legislación y normativa en materia de seguridad y salud laboral. 
+ASIGNATURA: 	Prácticas de conservación-restauración de escultura: material 
+	
+inorgánico
+Carácter: Obligatoria de especialidad
+Materia: 	Metodología y prácticas de conservación-restauración de la escultura
+Créditos ECTS: 14
+Competencias: 
+–	 Ser capaz de aplicar el tratamiento adecuado que minimice y/o detenga los 
+deterioros de los diferentes materiales inorgánicos que constituyen una escultura: 
+piedra, metal, cerámica, yeso/escayola.
+–	 Ser capaz de aplicar tratamientos de reconstrucción volumétrica con los materiales 
+más adecuados a cada tipo de obra.
+–	 Ser capaz de aplicar el tratamiento adecuado que minimice y/o detenga los 
+deterioros de los diferentes materiales de un aparejo y/o policromía sobre material 
+inorgánico.
+–	 Ser capaz de aplicar el tratamiento adecuado a los estratos de protección, 
+barnices o pátinas de una escultura en material inorgánico.
+–	 Ser capaz de determinar el nivel de acabado más adecuado a cada tipo de obra 
+o conjunto artístico en material inorgánico.
+Horas lectivas anuales: 240
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4354
+Miércoles, 25 de enero de 2012
+Breve descripción de los contenidos:
+–	 Equipamiento, herramientas y materiales de un taller de restauración in situ. 
+Medidas de seguridad.
+–	 Tratamientos biocidas.
+–	 Consolidación de materiales.
+–	 Tratamiento de aparejos/policromías. Reconstrucción volumétrica.
+–	 Limpieza y tratamiento de pátinas. Reintegración cromática, entonado, pátinas.
+ASIGNATURA: 	Procedimientos y técnicas de ejecución de escultura: material 
+	
+inorgánico
+Carácter: Obligatoria de especialidad
+Materia: 	Técnicas escultóricas. Aplicación a la conservación-restauración 
+Créditos ECTS: 4
+Competencias: 
+–	 Conocer los materiales, tradicionales y actuales, en esculturas realizadas en 
+material inorgánico.
+–	 Ser capaz de seleccionar los materiales y tratamientos adecuados a cada tipo de 
+obra en material inorgánico.
+–	 Conocer los criterios, materiales y tratamientos de restauración tradicionales y 
+actuales aplicados en esculturas realizadas en material inorgánico.
+–	 Ser capaz de reconocer las partes originales y las repuestas en una obra 
+escultórica.
+Horas lectivas anuales: 60
+Breve descripción de los contenidos:
+–	 Técnicas de ejecución de esculturas en piedra, metal, cerámica, yeso y otros 
+materiales inorgánicos.
+–	 Morteros, piedra artificial.
+–	 Aleaciones metálicas. Pátinas.
+–	 Técnicas de policromía y dorado aplicadas a la escultura en material inorgánico. 
+Materiales.
+–	 Técnicas de protección y/o barnizado. Materiales.
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4355
+Miércoles, 25 de enero de 2012
+ASIGNATURA: 	Historia de la escultura del Barroco a la actualidad
+Carácter: Obligatoria de especialidad
+Materia: 	Historia de la escultura. Aplicación a la conservación-restauración
+Créditos ECTS: 3
+Competencias: 
+–	 Estudio de la escultura desde el Barroco hasta nuestros días, desde el punto de 
+vista de su función y de su evolución tecnológica e histórica. 
+–	 Metodología de análisis para la interpretación del objeto escultórico desde un 
+enfoque teórico-práctico.
+–	 Conocimiento de los repertorios fundamentales de la cultura visual referentes a 
+la escultura a partir del Barroco.
+–	 Pautas para la elaboración de informes histórico-artísticos de los bienes 
+escultóricos de los distintos períodos estudiados.
+Horas lectivas anuales: 45
+Breve descripción de los contenidos:
+–	 Visión general de la historia de la escultura desde el Barroco hasta la 
+actualidad. 
+–	 Especial incidencia en el caso español y castellano y leonés.
+–	 Estudio y análisis de las esculturas más significativas de cada período.
+–	 Acercamiento a los procedimientos técnicos y materiales utilizados en cada 
+uno de los momentos históricos analizados. Aplicación a la conservación y la 
+restauración.
+E) Especialidad: PINTURA
+TERCER CURSO
+ASIGNATURA: 	Química, física y biología aplicadas a la conservación-
+	
+restauración I
+Carácter: Formación básica
+Materia: 	Química, física y biología: fundamentos y aplicación a la conservación- 
+	
+restauración
+Créditos ECTS: 4
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4356
+Miércoles, 25 de enero de 2012
+Competencias: 
+–	 Comprender las propiedades de los materiales constitutivos de los bienes 
+culturales de la especialidad correspondiente basándose en el conocimiento de 
+su composición química y estructura.
+–	 Conocer el fundamento fisicoquímico de las alteraciones que experimentan 
+dichos materiales.
+–	 Entender y aplicar los métodos de análisis químico en el estudio científico de los 
+materiales constituyentes y sus alteraciones.
+Horas lectivas anuales: 60
+Breve descripción de los contenidos:
+–	 Materiales constitutivos de los bienes culturales de la especialidad 
+correspondiente: composición química, estructura y propiedades.
+–	 Fundamento fisicoquímico de las alteraciones de los materiales constitutivos de 
+los bienes culturales de la especialidad correspondiente.
+–	 Técnicas de estudio científico de los materiales constituyentes de los bienes 
+culturales y de sus alteraciones: métodos de examen, análisis y datación I.
+ASIGNATURA: 	Proyectos de conservación-restauración
+Carácter: Formación básica
+Materia: 	Proyectos de conservación-restauración
+Créditos ECTS: 5
+Competencias: 
+–	 Conocer la estructura y contenido de un proyecto de conservación-restauración 
+e integrar la documentación técnica, administrativa y económica precisa.
+–	 Ser capaz de aplicar las legislaciones sectoriales sobre seguridad y salud o 
+impacto ambiental en la fase de redacción y ejecución de un proyecto.
+–	 Familiarizarse con la formulación y gestión de los procedimientos de licitación 
+para proyectos, obras o intervenciones en conservación y restauración de bienes 
+culturales.
+–	 Desarrollar estrategias de comunicación oral, escrita y visual para la presentación 
+de un proyecto.
+–	 Ser capaz de redactar y editar memorias finales de una intervención de 
+conservación restauración.
+Horas lectivas anuales: 60
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4357
+Miércoles, 25 de enero de 2012
+Breve descripción de los contenidos:
+–	 El proyecto de conservación-restauración: Memorias, pliegos y especificaciones 
+técnicas; mediciones, presupuesto, cronograma y programación.
+–	 La gestión y organización de la documentación gráfica y fotográfica que acompaña 
+al proyecto.
+–	 Estudios de seguridad y salud o de viabilidad de la actuación que deben integrarse 
+en el proyecto. Medios auxiliares o complementarios.
+–	 Criterios para la presentación de ofertas y propuestas de licitación para obras, 
+proyectos o actuaciones sobre el patrimonio cultural. Utilización de recursos 
+informáticos y audiovisuales.
+–	 La memoria final de una intervención de conservación y restauración: Estructura 
+y contenido. 
+ASIGNATURA: 	Prácticas de conservación-restauración de pintura: soportes 
+	
+orgánicos
+Carácter: Obligatoria de especialidad
+Materia: 	Metodología y prácticas de conservación-restauración de la pintura
+Créditos ECTS: 28
+Competencias: 
+–	 Analizar y diagnosticar, con criterio metodológico causas de deterioro y 
+alteraciones en pinturas sobre material orgánicos: madera y lienzo.
+–	 Ser capaz de determinar los tratamientos a seguir, aplicando las técnicas y 
+los materiales más idóneos en las intervenciones en pinturas sobre materiales 
+orgánicos.
+–	 Ser capaz de realizar informes detallados de todo el proceso de conservación y 
+restauración justificando y evaluando los tratamientos aplicados.
+–	 Aplicar conocimientos críticos sobre metodología, tratamientos y materiales para 
+la conservación y restauración de pintura sobre materiales orgánicos.
+Horas lectivas anuales: 480
+Breve descripción de los contenidos:
+–	 Identificación de materiales y de las causas de deterioro, factores de degradación y 
+alteraciones más habituales que afectan a los soportes orgánicos, para propuesta 
+de tratamientos.
+–	 Intervenciones de conservación y restauración: desinsectación, tratamiento de 
+soportes, consolidación, fijación, limpiezas, reintegración cromática, barnizado/
+acabados de protección.
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4358
+Miércoles, 25 de enero de 2012
+–	 Metodología y ejecución de los tratamientos de conservación y restauración 
+propios, mediante prácticas sobre obra real y ocasionalmente sobre modelos 
+simulados.
+–	 Correcta documentación de las intervenciones mediante la elaboración de 
+informes.
+ASIGNATURA: 	Procedimientos y técnicas de ejecución de pintura: soportes 
+	
+orgánicos
+Carácter: Obligatoria de especialidad
+Materia: 	Técnicas pictóricas. Aplicación a la conservación-restauración 
+Créditos ECTS: 7
+Competencias: 
+–	 Conocer y analizar los materiales y elementos constitutivos de la pintura sobre 
+soportes orgánicos.
+–	 Ser capaz de determinar e identificar los materiales, técnicas y procedimientos 
+pictóricos sobre soportes orgánicos.
+–	 Ser capaz de utilizar, aplicar y experimentar con los materiales y recursos 
+apropiados a la realización de cada obra.
+–	 Adquirir conocimientos críticos sobre metodología, tratamientos y materiales 
+para la conservación y restauración de pintura sobre soportes orgánicos.
+Horas lectivas anuales: 120
+Breve descripción de los contenidos:
+–	 Materiales constitutivos de la pintura sobre soporte orgánico: pigmentos, 
+aglutinantes, medios, soportes e imprimaciones. 
+–	 Técnicas pictóricas sobre soporte madera.
+–	 Técnicas pictóricas sobre soporte textil.
+–	 La iluminación a través de las miniaturas.
+ASIGNATURA: 	Historia de la pintura hasta el Barroco
+Carácter: Obligatoria de especialidad
+Materia: 	Historia de la pintura. Aplicación a la conservación-restauración
+Créditos ECTS: 10
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4359
+Miércoles, 25 de enero de 2012
+Competencias: 
+–	 Conocer la función y la evolución histórica de la pintura desde la Prehistoria al 
+Barroco. 
+–	 Saber utilizar la metodología de análisis para la interpretación del bien pictórico 
+desde un enfoque teórico-práctico.
+–	 Conocer los repertorios fundamentales de la cultura visual referentes a la pintura 
+desde la Prehistoria hasta el Barroco.
+–	 Ser capaz de elaborar informes histórico-artísticos de los bienes pictóricos de los 
+distintos períodos estudiados.
+Horas lectivas anuales: 120
+Breve descripción de los contenidos:
+–	 Visión general de la historia de la pintura desde la Prehistoria hasta el final del 
+período barroco. 
+–	 Especial incidencia en el caso español y castellano y leonés.
+–	 Estudio y análisis de las pinturas más significativas de cada período.
+–	 Acercamiento a los procedimientos técnicos y materiales utilizados en cada 
+uno de los momentos históricos analizados. Aplicación a la conservación y 
+restauración.
+CUARTO CURSO
+ASIGNATURA: 	Química, física y biología aplicadas a la conservación-
+	
+restauración II
+Carácter: Formación básica
+Materia: 	Química, física y biología: fundamentos y aplicación a la conservación- 
+	
+restauración
+Créditos ECTS: 2
+Competencias: 
+–	 Comprender el fundamento fisicoquímico de los procesos y materiales empleados 
+en las intervenciones en los materiales de la especialidad correspondiente. 
+–	 Conocer el fundamento de las técnicas instrumentales y su aplicación en el 
+estudio científico de los materiales constituyentes de los bienes culturales.
+Horas lectivas anuales: 30
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4360
+Miércoles, 25 de enero de 2012
+Breve descripción de los contenidos:
+–	 Fundamento fisicoquímico de las intervenciones en los materiales de la 
+especialidad correspondiente.
+–	 Técnicas de estudio científico de los materiales constituyentes de los bienes 
+culturales y de sus alteraciones: métodos de examen, análisis y datación II.
+ASIGNATURA: 	Gestión y organización profesional
+Carácter: Formación básica
+Materia: 	Gestión y organización profesional
+Créditos ECTS: 4
+Competencias: 
+–	 Introducirse en el mundo de la actividad profesional en el campo de la 
+conservación/restauración.
+–	 Conocer la legislación de contratos del sector público y la clasificación empresarial 
+y profesional vigente. 
+–	 Adquirir nociones sobre la responsabilidad civil y penal dentro del ejercicio de la 
+actividad profesional y por la integración en el sector, y conocer la normativa de 
+seguridad y salud. 
+–	 Familiarizarse con el sistema de tributación y el régimen de la seguridad social.
+–	 Conocer la organización empresarial y las entidades y fuentes de financiación 
+para la creación de empresas. 
+Horas lectivas anuales: 45
+Breve descripción de los contenidos:
+–	 La profesión de conservador-restaurador. Titulaciones. Colegios y asociaciones 
+profesionales. Funcionamiento.
+–	 Legislación de contratos del sector público.
+–	 Responsabilidad civil y penal por el ejercicio de la profesión. Tipos de seguro.
+–	 Régimen de tributación fiscal; bases y tipos de cotización en la seguridad social. 
+–	 La organización empresarial. Fuentes de empleo, ayudas y subvenciones
+–	 Legislación y normativa en materia de seguridad y salud laboral. 
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4361
+Miércoles, 25 de enero de 2012
+ASIGNATURA: 	Prácticas de conservación-restauración de pintura: soportes 
+	
+inorgánicos
+Carácter: Obligatoria de especialidad
+Materia: 	Metodología y prácticas de conservación-restauración de la pintura
+Créditos ECTS: 14
+Competencias: 
+–	 Analizar y diagnosticar, con criterio metodológico causas de deterioro y 
+alteraciones en pinturas sobre materiales inorgánicos.
+–	 Ser capaz de determinar en cada intervención, el tipo de tratamientos a seguir, 
+aplicando las técnicas y los materiales más idóneos en las intervenciones en 
+pinturas sobre materiales inorgánicos.
+–	 Ser capaz de realizar informes detallados de todo el proceso de conservación y 
+restauración justificando y evaluando los tratamientos aplicados.
+–	 Aplicar conocimientos críticos sobre metodología, tratamientos y materiales para 
+la conservación y restauración de pintura sobre materiales inorgánicos.
+Horas lectivas anuales: 240
+Breve descripción de los contenidos:
+–	 Identificación de materiales y de las causas de deterioro, factores de degradación y 
+alteraciones más habituales que afectan a los soportes orgánicos, para propuesta 
+de tratamientos.
+–	 Intervenciones de conservación y restauración: tratamiento de soportes, 
+consolidación, fijación, limpiezas, reintegración cromática, barnizado/acabados 
+de protección.
+–	 Metodología y ejecución de los tratamientos de conservación y restauración 
+propios, mediante prácticas sobre obra real y ocasionalmente sobre modelos 
+simulados.
+–	 Correcta documentación de las intervenciones mediante la elaboración de 
+informes.
+ASIGNATURA: 	Procedimientos y técnicas de ejecución de pintura: soportes 
+	
+inorgánicos
+Carácter: Obligatoria de especialidad
+Materia: 	Técnicas pictóricas. Aplicación a la conservación-restauración 
+Créditos ECTS: 4
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4362
+Miércoles, 25 de enero de 2012
+Competencias: 
+–	 Conocer y analizar los materiales y elementos constitutivos de la pintura sobre 
+soportes inorgánicos.
+–	 Ser capaz de determinar e identificar los materiales, técnicas y procedimientos 
+pictóricos sobre soportes inorgánicos.
+–	 Ser capaz de utilizar, aplicar y experimentar con los materiales y recursos 
+apropiados a la realización de cada obra.
+–	 Adquirir conocimientos críticos sobre metodología, tratamientos y materiales 
+para la conservación y restauración de pintura sobre soportes inorgánicos.
+Horas lectivas anuales: 60
+Breve descripción de los contenidos:
+–	 Materiales 
+constitutivos: 
+pigmentos, 
+aglutinantes, 
+medios, 
+soportes 
+e 
+imprimaciones, de pintura sobre soportes inorgánicos.
+–	 Técnicas pictóricas sobre metales, piedra y vidrio.
+–	 La pintura mural: fresco y seco.
+–	 Materiales y técnicas utilizadas en la actualidad.
+ASIGNATURA: 	Historia de la pintura en el arte contemporáneo
+Carácter: Obligatoria de especialidad
+Materia: 	Historia de la pintura. Aplicación a la conservación-restauración
+Créditos ECTS: 3
+Competencias: 
+–	 Conocer la función y la evolución histórica de la pintura desde el Barroco hasta 
+nuestros días. 
+–	 Saber utilizar la metodología de análisis para la interpretación del bien pictórico 
+desde un enfoque teórico-práctico.
+–	 Conocer los repertorios fundamentales de la cultura visual referentes a la escultura 
+a partir del Barroco.
+–	 Ser capaz de elaborar informes histórico-artísticos de los bienes pictóricos de los 
+distintos períodos estudiados.
+Horas lectivas anuales: 45
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4363
+Miércoles, 25 de enero de 2012
+Breve descripción de los contenidos:
+–	 Visión general de la historia de la pintura desde el Barroco hasta la actualidad. 
+–	 Especial incidencia en el caso español y castellano y leonés.
+–	 Estudio y análisis de las pinturas más significativas de cada período.
+–	 Acercamiento a los procedimientos técnicos y materiales utilizados en cada 
+uno de los momentos históricos analizados. Aplicación a la conservación y 
+restauración.
+F) Especialidad: TEXTILES
+TERCER CURSO
+ASIGNATURA: 	Química, física y biología aplicadas a la conservación-
+	
+restauración I
+Carácter: Formación básica
+Materia: 	Química, física y biología: fundamentos y aplicación a la conservación- 
+	
+restauración
+Créditos ECTS: 4
+Competencias: 
+–	 Comprender las propiedades de los materiales constitutivos de los bienes 
+culturales de la especialidad correspondiente basándose en el conocimiento de 
+su composición química y estructura.
+–	 Conocer el fundamento fisicoquímico de las alteraciones que experimentan 
+dichos materiales.
+–	 Entender y aplicar los métodos de análisis químico en el estudio científico de los 
+materiales constituyentes y sus alteraciones.
+Horas lectivas anuales: 60
+Breve descripción de los contenidos:
+–	 Materiales constitutivos de los bienes culturales de la especialidad correspondiente: 
+composición química, estructura y propiedades.
+–	 Fundamento fisicoquímico de las alteraciones de los materiales constitutivos de 
+los bienes culturales de la especialidad correspondiente.
+–	 Técnicas de estudio científico de los materiales constituyentes de los bienes 
+culturales y de sus alteraciones: métodos de examen, análisis y datación I.
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4364
+Miércoles, 25 de enero de 2012
+ASIGNATURA: 	Proyectos de conservación-restauración
+Carácter: Formación básica
+Materia: 	Proyectos de conservación-restauración
+Créditos ECTS: 5
+Competencias: 
+–	 Conocer la estructura y contenido de un proyecto de conservación-restauración 
+e integrar la documentación técnica, administrativa y económica precisa.
+–	 Ser capaz de aplicar las legislaciones sectoriales sobre seguridad y salud o 
+impacto ambiental en la fase de redacción y ejecución de un proyecto.
+–	 Familiarizarse con la formulación y gestión de los procedimientos de licitación 
+para proyectos, obras o intervenciones en conservación y restauración de bienes 
+culturales.
+–	 Desarrollar estrategias de comunicación oral, escrita y visual para la presentación 
+de un proyecto.
+–	 Ser capaz de redactar y editar memorias finales de una intervención de 
+conservación restauración.
+Horas lectivas anuales: 60
+Breve descripción de los contenidos:
+–	 El proyecto de conservación-restauración: Memorias, pliegos y especificaciones 
+técnicas; mediciones, presupuesto, cronograma y programación.
+–	 La gestión y organización de la documentación gráfica y fotográfica que acompaña 
+al proyecto.
+–	 Estudios de seguridad y salud o de viabilidad de la actuación que deben integrarse 
+en el proyecto. Medios auxiliares o complementarios.
+–	 Criterios para la presentación de ofertas y propuestas de licitación para obras, 
+proyectos o actuaciones sobre el patrimonio cultural. Utilización de recursos 
+informáticos y audiovisuales.
+–	 La memoria final de una intervención de conservación y restauración: Estructura 
+y contenido. 
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4365
+Miércoles, 25 de enero de 2012
+ASIGNATURA: 	Prácticas de conservación-restauración de tejidos planos
+Carácter: Obligatoria de especialidad
+Materia: 	Metodología y prácticas de conservación-restauración de bienes culturales 
+	
+textiles
+Créditos ECTS: 28
+Competencias: 
+–	 Analizar y diagnosticar, con criterio metodológico, las causas de deterioro y 
+alteraciones en bienes culturales textiles de soporte plano. 
+–	 Conocer los criterios de conservación y restauración de bienes culturales textiles 
+de soporte plano.
+–	 Aplicar las técnicas y los materiales más idóneos, así como el manejo del 
+instrumental y equipamiento adecuado en cada caso.
+–	 Ser capaz de realizar informes detallados de todo el proceso de conservación-
+restauración.
+–	 Ser capaz de justificar y valorar los tratamientos realizados y sus resultados.
+Horas lectivas anuales: 480
+Breve descripción de los contenidos:
+–	 La conservación y la restauración de los diferentes materiales y técnicas textiles. 
+Criterios y metodología de intervención.
+–	 Factores de degradación y alteraciones en los bienes culturales textiles de 
+soporte plano, como base del diagnóstico y propuesta de tratamiento.
+–	 Criterios, sistemas y técnicas de intervención en la conservación-restauración 
+aplicadas en bienes culturales textiles de soporte plano. 
+–	 Metodología y ejecución de los tratamientos de conservación y restauración, de 
+bienes culturales textiles de soporte plano.
+–	 Procedimientos y técnicas de elaboración de soportes adaptados a los textiles 
+planos para su adecuado almacenamiento y conservación.
+–	 Documentación y realización de informes de conservación-restauración.
+ASIGNATURA: 	Procedimientos y técnicas textiles: alto y bajo lizo
+Carácter: Obligatoria de especialidad
+Materia: 	Técnicas de los bienes culturales textiles. Aplicación a la conservación-
+	
+restauración 
+Créditos ECTS: 7
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4366
+Miércoles, 25 de enero de 2012
+Competencias: 
+–	 Conocer e identificar las técnicas, materiales y procedimientos de realización y 
+acabado de los tejidos de alto y bajo lizo.
+–	 Ser capaz de ejecutar diferentes técnicas y procedimientos de elaboración de 
+tejidos de alto y bajo lizo.
+–	 Utilizar materiales y recursos apropiados para la realización de alto y bajo lizo.
+Horas lectivas anuales: 120
+Breve descripción de los contenidos:
+–	 Teoría de los diferentes procedimientos y técnicas de elaboración, de alto y bajo 
+lizo, para su aplicación a la conservación y la restauración.
+–	 Metodologías de realización, tanto tradicionales como actuales, de tejidos en 
+telares de alto y bajo lizo.
+–	 Procedimientos de manufactura en alto y bajo lizo.
+–	 Materiales, herramientas y maquinaría utilizados en su proceso de elaboración.
+ASIGNATURA: 	Historia del arte textil y sus técnicas hasta el Renacimiento
+Carácter: Obligatoria de especialidad
+Materia: 	Historia de los bienes culturales textiles. Aplicación a la conservación-
+	
+restauración
+Créditos ECTS: 10
+Competencias: 
+–	 Conocer la producción textil desde la Prehistoria hasta el Renacimiento y su 
+influencia en las relaciones sociales, comerciales y políticas.
+–	 Conocer las características estructurales y decorativas de las diferentes 
+producciones de tejidos producidos desde la Prehistoria al Renacimiento.
+–	 Conocer las diferentes técnicas e instrumentos para la manufactura de los textiles 
+desde la Prehistoria hasta el Renacimiento.
+–	 Utilizar de manera correcta la terminología y los conceptos fundamentales de la 
+historia de los textiles y sus técnicas desde la Prehistoria al Renacimiento.
+–	 Aplicar la metodología científica para abordar el estudio de los textiles.
+–	 Valorar el textil como motor generador de patrimonio prestando especial atención 
+al que conforma el patrimonio español.
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4367
+Miércoles, 25 de enero de 2012
+Horas lectivas anuales: 120
+Breve descripción de los contenidos:
+–	 Introducción al mundo del textil. Conceptos fundamentales: materiales, 
+instrumentos y técnicas textiles a lo largo de la historia.
+–	 La alfombra, topologías y evolución histórico-técnica.
+–	 Los orígenes del textil.
+–	 La manufactura textil desde los primeros imperios a la Antigüedad, desarrollo 
+histórico-técnico. La indumentaria como soporte de la materia textil desde los 
+primeros imperios a la Antigüedad.
+–	 El mundo textil oriental: Persia y el mundo árabe. La influencia del Próximo 
+Oriente en el contexto europeo: los textiles en la cuenca mediterránea durante 
+la Edad Media: tejidos hispanomusulmanes e italianos. La indumentaria como 
+soporte textil en la Edad Media.
+–	 Manufacturas textiles occidentales en el Renacimiento, evolución histórico-
+técnica. La indumentaria como soporte textil en el Renacimiento.
+–	 Castilla y León como referente textil desde la Prehistoria hasta el Renacimiento.
+CUARTO CURSO
+ASIGNATURA: 	Química, física y biología aplicadas a la conservación-
+	
+restauración II
+Carácter: Formación básica
+Materia: 	Química, 
+física 
+y 
+biología: 
+fundamentos 
+y 
+aplicación 
+a 
+la 
+
+	
+conservación- restauración
+Créditos ECTS: 2
+Competencias: 
+–	 Comprender el fundamento fisicoquímico de los procesos y materiales empleados 
+en las intervenciones en los materiales de la especialidad correspondiente. 
+–	 Conocer el fundamento de las técnicas instrumentales y su aplicación en el 
+estudio científico de los materiales constituyentes de los bienes culturales.
+Horas lectivas anuales: 30
+Breve descripción de los contenidos:
+–	 Fundamento fisicoquímico de las intervenciones en los materiales de la 
+especialidad correspondiente.
+–	 Técnicas de estudio científico de los materiales constituyentes de los bienes 
+culturales y de sus alteraciones: métodos de examen, análisis y datación II.
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4368
+Miércoles, 25 de enero de 2012
+ASIGNATURA: 	Gestión y organización profesional
+Carácter: Formación básica
+Materia: 	Gestión y organización profesional
+Créditos ECTS: 4
+Competencias: 
+–	 Introducirse en el mundo de la actividad profesional en el campo de la conservación/
+restauración.
+–	 Conocer la legislación de contratos del sector público y la clasificación empresarial 
+y profesional vigente. 
+–	 Adquirir nociones sobre la responsabilidad civil y penal dentro del ejercicio de la 
+actividad profesional y por la integración en el sector, y conocer la normativa de 
+seguridad y salud.
+–	 Familiarizarse con el sistema de tributación y el régimen de la seguridad social.
+–	 Conocer la organización empresarial y las entidades y fuentes de financiación 
+para la creación de empresas. 
+Horas lectivas anuales: 45
+Breve descripción de los contenidos:
+–	 La profesión de conservador-restaurador. Titulaciones. Colegios y asociaciones 
+profesionales. Funcionamiento.
+–	 Legislación de contratos del sector público.
+–	 Responsabilidad civil y penal por el ejercicio de la profesión. Tipos de seguro.
+–	 Régimen de tributación fiscal; bases y tipos de cotización en la seguridad social. 
+–	 La organización empresarial. Fuentes de empleo, ayudas y subvenciones.
+–	 Legislación y normativa en materia de seguridad y salud laboral. 
+ASIGNATURA: 	Prácticas de conservación-restauración de indumentaria textil
+Carácter: Obligatoria de especialidad
+Materia: 	Metodología y prácticas de conservación-restauración de bienes culturales 
+	
+textiles
+Créditos ECTS: 14
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4369
+Miércoles, 25 de enero de 2012
+Competencias: 
+–	 Analizar y diagnosticar, con criterio metodológico, las causas de deterioro y 
+alteraciones de los bienes culturales en el campo de la indumentaria textil.
+–	 Aplicar las técnicas de conservación-restauración utilizando correctamente los 
+materiales, instrumental y el equipamiento aplicados a la indumentaria textil y 
+complementos.
+–	 Ser capaz de realizar informes detallados de todo el proceso de conservación-
+restauración de la indumentaria textil y complementos.
+–	 Justificar y evaluar los tratamientos aplicados en indumentaria textil y 
+complementos.
+Horas lectivas anuales: 240
+Breve descripción de los contenidos:
+–	 La conservación-restauración aplicada a los bienes culturales de la indumentaria 
+textil.
+–	 Factores de degradación y alteraciones de los bienes culturales de la indumentaria 
+textil, como base del diagnóstico y propuesta de tratamiento.
+–	 Criterios, sistemas y técnicas de intervención de conservación-restauración de la 
+indumentaria textil y complementos.
+–	 Metodología y ejecución de los tratamientos de conservación-restauración en 
+indumentaria textil y complementos.
+–	 Procedimientos y técnicas de elaboración de soportes adaptados para su 
+adecuado almacenamiento y conservación.
+–	 Documentación y realización de informes de conservación-restauración.
+ASIGNATURA: 	Procedimientos y técnicas textiles: encajes y bordados
+Carácter: Obligatoria de especialidad
+Materia: 	Técnicas de los bienes culturales textiles. Aplicación a la conservación-
+	
+restauración 
+Créditos ECTS: 4
+Competencias: 
+–	 Conocer e identificar las técnicas, materiales y procedimientos de realización y 
+acabado de encajes y bordados.
+–	 Aplicar diferentes materiales, técnicas y procedimientos artísticos para la 
+elaboración de encajes y bordados.
+–	 Utilizar materiales y recursos apropiados para la realización de encajes y 
+bordados.
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4370
+Miércoles, 25 de enero de 2012
+Horas lectivas anuales: 60
+Breve descripción de los contenidos:
+–	 Procedimientos y técnicas de elaboración de encajes y bordados. 
+–	 Evolución de la metodología de producción: encajes y bordados tradicionales y 
+actuales. 
+–	 Materiales y herramientas utilizados en su elaboración.
+–	 Ejecución de diferentes procedimientos de elaboración de encajes y bordados.
+ASIGNATURA: 	Historia del arte textil y sus técnicas del Barroco a la 
+	
+actualidad
+Carácter: Obligatoria de especialidad
+Materia: 	Historia de los bienes culturales textiles. Aplicación a la conservación-
+	
+restauración
+Créditos ECTS: 3
+Competencias: 
+–	 Conocer la producción textil desde el Barroco al siglo XXI y su influencia en las 
+relaciones sociales, comerciales y políticas.
+–	 Conocer las características estructurales y decorativas de las diferentes 
+producciones de tejidos producidos desde el Barroco al siglo XXI.
+–	 Conocer las diferentes técnicas e instrumentos para la manufactura de los textiles 
+desde el Barroco a la actualidad.
+–	 Utilizar de manera correcta la terminología y los conceptos fundamentales 
+de la historia de los textiles y sus técnicas desde el Barroco a la época 
+contemporánea.
+–	 Aplicar la metodología científica para abordar el estudio de los textiles.
+–	 Valorar el textil como motor generador de patrimonio prestando especial atención 
+al que conforma el patrimonio español.
+Horas lectivas anuales: 45
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4371
+Miércoles, 25 de enero de 2012
+Breve descripción de los contenidos:
+–	 Las manufacturas textiles durante el Barroco, desarrollo histórico-técnico. La 
+indumentaria como soporte de la materia textil y como reflejo del concepto teatral 
+barroco.
+–	 El Rococó y el concepto aristocrático en el mundo textil, desarrollo histórico-
+técnico. La indumentaria como soporte de la materia textil.
+–	 Clasicismo versus romanticismo en el mundo textil. La indumentaria como reflejo 
+de los cambios sociales.
+–	 Cambios socioculturales y científicos del mundo contemporáneo y su influencia 
+en el mundo textil, desarrollo histórico-técnico. 
+–	 La indumentaria como bandera de los cambios socioculturales.
+–	 El mundo textil desde la segunda guerra mundial a la actualidad, de la fábrica a 
+la artesanía. El eclecticismo como clave de la indumentaria.
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4372
+Miércoles, 25 de enero de 2012
+ANEXO IV
+PRELACIÓN ENTRE ASIGNATURAS
+ASIGNATURAS
+CURSO
+ASIGNATURAS
+CURSO
+ESPECIALIDAD
+Fundamentos de química 
+y física aplicados a la 
+conservación-restauración
+1.º
+Química, física y biología aplicadas a la 
+conservación-restauración I
+3.º
+Formación básica 
+común a todas las 
+especialidades
+Principios técnicos y 
+metodológicos: materiales 
+inorgánicos
+1.º
+Prácticas de conservación-restauración 
+de materiales arqueológicos inorgánicos
+3.º
+Bienes 
+arqueológicos
+Metodología e intervención en 
+yacimientos arqueológicos
+3.º
+Prácticas de conservación-restauración 
+del documento gráfico: soportes 
+celulósicos y proteínicos
+3.º
+Documento gráfico
+Prácticas de conservación-restauración 
+de encuadernación I
+3.º
+Prácticas de conservación-restauración 
+de escultura: material orgánico
+3.º
+Escultura
+Restauración de retablos en madera
+3.º
+Prácticas de conservación-restauración 
+de pintura: soportes orgánicos
+3.º
+Pintura
+Prácticas de conservación-restauración 
+de tejidos planos
+3.º
+Textiles
+Procedimientos: materiales 
+inorgánicos
+1.º
+Procedimientos y técnicas de bienes 
+arqueológicos inorgánicos
+3.º
+Bienes 
+arqueológicos
+Dibujo y sistemas de representación de 
+materiales arqueológicos
+3.º
+Métodos de reproducción
+3.º
+Técnicas de encuadernación
+3.º
+Documento gráfico
+Procedimientos y técnicas del documento 
+gráfico y del material sigilográfico
+3.º
+Procedimientos y técnicas de ejecución 
+de escultura: material orgánico
+3.º
+Escultura
+Procedimientos y técnicas de ejecución 
+de pintura: soportes orgánicos
+3.º
+Pintura
+Procedimientos y técnicas textiles: alto y 
+bajo lizo
+3.º
+Textiles
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+Pág. 4373
+Miércoles, 25 de enero de 2012
+ASIGNATURAS
+CURSO
+ASIGNATURAS
+CURSO
+ESPECIALIDAD
+Principios técnicos y 
+metodológicos: materiales 
+orgánicos
+2.º
+Prácticas de conservación-restauración 
+de materiales arqueológicos inorgánicos
+3.º
+Bienes 
+arqueológicos
+Metodología e intervención en 
+yacimientos arqueológicos
+3.º
+Prácticas de conservación-restauración 
+del documento gráfico: soportes 
+celulósicos y proteínicos
+3.º
+Documento gráfico
+Prácticas de conservación-restauración 
+de encuadernación I
+3.º
+Prácticas de conservación-restauración 
+de escultura: material orgánico
+3.º
+Escultura
+Restauración de retablos en madera
+3.º
+Prácticas de conservación-restauración 
+de pintura: soportes orgánicos
+3.º
+Pintura
+Prácticas de conservación-restauración 
+de tejidos planos
+3.º
+Textiles
+Fundamentos de biología 
+aplicados a la conservación-
+restauración
+2.º
+Química, física y biología aplicadas a la 
+conservación-restauración I
+3.º
+Formación básica 
+común a todas las 
+especialidades
+Tecnología y propiedades de 
+los materiales
+2.º
+Procedimientos: materiales 
+orgánicos
+2.º
+Procedimientos y técnicas de bienes 
+arqueológicos inorgánicos
+3.º
+Bienes 
+arqueológicos
+Dibujo y sistemas de representación de 
+materiales arqueológicos
+3.º
+Métodos de reproducción
+3.º
+Técnicas de encuadernación
+3.º
+Documento gráfico
+Procedimientos y técnicas del documento 
+gráfico y del material sigilográfico
+3.º
+Procedimientos y técnicas de ejecución 
+de escultura: material orgánico
+3.º
+Escultura
+Procedimientos y técnicas de ejecución 
+de pintura: soportes orgánicos
+3.º
+Pintura
+Procedimientos y técnicas textiles: alto y 
+bajo lizo
+3.º
+Textiles
+Prácticas de conservación-
+restauración de materiales 
+arqueológicos inorgánicos
+3.º
+Prácticas de conservación-restauración 
+de materiales arqueológicos orgánicos
+4.º
+Bienes 
+arqueológicos
+Procedimientos y técnicas 
+de bienes arqueológicos 
+inorgánicos
+3.º
+Procedimientos y técnicas de bienes 
+arqueológicos orgánicos
+4.º
+CV: BOCYL-D-25012012-3
+
+Boletín Oficial de Castilla y León
+Núm. 17
+http://bocyl.jcyl.es
+D.L.: BU 10-1979 - ISSN 1989-8959
+Pág. 4374
+Miércoles, 25 de enero de 2012
+ASIGNATURAS
+CURSO
+ASIGNATURAS
+CURSO
+ESPECIALIDAD
+Prácticas de conservación-
+restauración del documento 
+gráfico: soportes celulósicos 
+y proteínicos
+3.º
+Prácticas de conservación-restauración 
+del documento gráfico: material 
+fotosensible y soportes audiovisuales
+4.º
+Documento gráfico
+Prácticas de conservación-
+restauración de 
+encuadernación I
+3.º
+Prácticas de conservación-restauración 
+de encuadernación II
+4.º
+Procedimientos y técnicas 
+del documento gráfico y del 
+material sigilográfico
+3.º
+Procedimientos y técnicas del documento 
+gráfico: grabado y estampación
+4.º
+Prácticas de conservación-
+restauración de escultura: 
+material orgánico
+3.º
+Prácticas de conservación-restauración 
+de escultura: material inorgánico
+4.º
+Escultura
+Procedimientos y técnicas 
+de ejecución de escultura: 
+material orgánico
+3.º
+Procedimientos y técnicas de ejecución 
+de escultura: material inorgánico
+4.º
+Prácticas de conservación-
+restauración de pintura: 
+soportes orgánicos
+3.º
+Prácticas de conservación-restauración 
+de pintura: soportes inorgánicos
+4.º
+Pintura
+Procedimientos y técnicas 
+de ejecución de pintura: 
+soportes orgánicos
+3.º
+Procedimientos y técnicas de ejecución 
+de pintura: soportes inorgánicos
+4.º
+Prácticas de conservación-
+restauración de tejidos 
+planos
+3.º
+Prácticas de conservación-restauración 
+de indumentaria textil
+4.º
+Textiles
+Procedimientos y técnicas 
+textiles: alto y bajo lizo
+3.º
+Procedimientos y técnicas textiles: 
+encajes y bordados
+4.º
+CV: BOCYL-D-25012012-3

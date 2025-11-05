@@ -1,0 +1,107 @@
+Boletín Oficial de Castilla y León
+Núm. 244
+Pág. 52293
+Viernes, 22 de diciembre de 2017
+I. COMUNIDAD DE CASTILLA Y LEÓN
+A. DISPOSICIONES GENERALES
+CONSEJERÍA DE EDUCACIÓN
+ORDEN EDU/1116/2017, de 13 de diciembre, por la que se crea el fichero de datos 
+de carácter personal denominado «Ayudas complementarias al programa Erasmus+ de 
+movilidad con fines de estudio».
+La Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter 
+Personal, en su artículo 20.1, establece que la creación, modificación o supresión de los 
+ficheros de las Administraciones Públicas sólo podrá hacerse por medio de disposición 
+general publicada en el Diario Oficial correspondiente.
+Por su parte, el Decreto 11/2003, de 23 de enero, por el que se regulan los ficheros 
+de carácter personal susceptibles de tratamiento automatizado de la Administración de la 
+Comunidad de Castilla y León, dispone en su artículo 2.1 que la creación, modificación 
+y supresión de los citados ficheros de datos de carácter personal incluidos en el ámbito 
+de aplicación de la citada Ley, se realizará, previo informe de la Dirección General de 
+Telecomunicaciones y Transportes de la Consejería de Fomento, por orden del titular de 
+la consejería competente por razón de la materia a la que afectan, y que las órdenes de 
+creación y modificación de ficheros deberán recoger todos los apartados que establece el 
+artículo 20 de la Ley Orgánica 15/1999, de 13 de diciembre.
+En este momento, teniendo en cuenta lo anteriormente expuesto y ante la necesidad 
+de dar cumplimiento a las exigencias legales establecidas y lograr una mayor eficiencia 
+en la organización y gestión administrativa llevada a cabo por la Consejería de Educación 
+garantizando, paralelamente, el derecho a la protección de datos de carácter personal de 
+los administrados relacionados con ella, se hace preciso la creación de un nuevo fichero 
+automatizado de datos.
+En virtud de las citadas normas y demás de general aplicación, y previo informe 
+de la Dirección General de Telecomunicaciones de la Consejería de Fomento y Medio 
+Ambiente, sobre las medidas de seguridad que debe cumplir el fichero
+DISPONGO
+Artículo 1. Objeto.
+La presente orden tiene por objeto la creación del fichero de datos de carácter 
+personal denominado «Ayudas complementarias al programa Erasmus+ de movilidad con 
+fines de estudio», con los elementos que se contienen en el Anexo.
+Artículo 2. Medidas técnicas y organizativas.
+El titular del órgano responsable del fichero a que se refiere el artículo 1 y, en su caso, 
+el encargado de su tratamiento, adoptarán las medidas de índole técnica y organizativa 
+CV: BOCYL-D-22122017-9
+
+Boletín Oficial de Castilla y León
+Núm. 244
+Pág. 52294
+Viernes, 22 de diciembre de 2017
+necesarias que garanticen la seguridad de los datos de carácter personal y eviten su 
+alteración, pérdida, tratamiento o acceso no autorizado, habida cuenta del estado de la 
+tecnología, la naturaleza de los datos almacenados y los riesgos a que están expuestos. Ello 
+implica la implantación de las medidas de seguridad exigibles en función de la naturaleza 
+de los datos protegidos, en los términos establecidos en el Real Decreto 1720/2007, 
+de 21 de diciembre, por el que se aprueba el Reglamento de desarrollo de la Ley 
+Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.
+Asimismo cualquier persona que por razón del ejercicio de sus funciones tenga 
+acceso a los datos deberá observar la debida reserva, confidencialidad y sigilo en relación 
+con las mismas.
+Artículo 3. Derechos de los afectados.
+Los afectados por el fichero podrán ejercitar su derecho de acceso, cancelación, 
+oposición y rectificación de datos, cuando proceda, ante el órgano administrativo indicado 
+en el Anexo.
+DISPOSICIÓN FINAL
+Entrada en vigor.
+La presente orden entrará en vigor al día siguiente al de su publicación en el Boletín 
+Oficial de Castilla y León.
+Valladolid, 13 de diciembre de 2017.
+El Consejero,
+Fdo.: Fernando Rey Martínez
+CV: BOCYL-D-22122017-9
+
+Boletín Oficial de Castilla y León
+Núm. 244
+http://bocyl.jcyl.es
+D.L.: BU 10-1979 - ISSN 1989-8959
+Pág. 52295
+Viernes, 22 de diciembre de 2017
+ANEXO
+Denominación del fichero:
+«Ayudas complementarias al Programa Erasmus+ de movilidad con fines de 
+estudio».
+Fines y usos:
+Gestión de los datos relativos a la convocatoria de ayudas complementarias 
+destinadas a los alumnos universitarios que participen en el Programa Erasmus+ de 
+movilidad con fines de estudio.
+Personas o colectivos afectados:
+Alumnos de las universidades públicas y privadas de la Comunidad Autónoma de 
+Castilla y León que, cursando estudios oficiales de grado, máster o doctorado, sean 
+beneficiarios de una beca Erasmus+ de movilidad de estudiantes en instituciones de 
+educación superior en la correspondiente convocatoria.
+Procedimiento de recogida:
+Información aportada por el propio interesado, mediante el formulario de solicitud de 
+la convocatoria de la subvención.
+Estructura básica del fichero y descripción de los datos de carácter personal:
+Datos personales del solicitante.
+Datos académicos (Universidad en la que está matriculado, estudios cursados, 
+universidad y país de destino).
+Cesiones de los datos de carácter personal:
+No están previstas.
+Órgano de la Administración responsable del fichero.
+Dirección General de Universidades e Investigación.
+Servicio o unidad ante el que pueden ejercitarse los derechos de acceso, rectificación, 
+cancelación y oposición:
+Servicio de Enseñanza Universitaria.
+Nivel de Seguridad:
+Básico.
+Sistema de tratamiento:
+Parcialmente automatizado (Mixto).
+CV: BOCYL-D-22122017-9

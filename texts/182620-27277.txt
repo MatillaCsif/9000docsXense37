@@ -1,0 +1,3322 @@
+DECRETO 59/2009, de 3 de septiembre, por el que se establece el
+currículo correspondiente al Título de Técnico en Sistemas
+Microinformáticos y Redes en la Comunidad de Castilla y León.
+El artículo 73.1 del Estatuto de Autonomía de Castilla y León, atri-
+buye a la Comunidad de Castilla y León la competencia de desarrollo
+legislativo y ejecución de la enseñanza en toda su extensión, niveles y
+grados, modalidades y especialidades, de acuerdo con el derecho a la edu-
+cación que todos los ciudadanos tienen, según lo establecido en el artícu-
+lo 27 de la Constitución Española y las leyes orgánicas que lo desarrollan.
+La Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de
+la Formación Profesional, establece en el artículo 10.1 que la Adminis-
+tración General del Estado, determinará los títulos y los certificados de
+profesionalidad, que constituirán las ofertas de formación profesional
+referidas al Catálogo Nacional de Cualificaciones Profesionales.
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación, determina en
+su artículo 39.6 que el Gobierno establecerá las titulaciones correspon-
+dientes a los estudios de formación profesional, así como los aspectos
+básicos del currículo de cada una de ellas.
+El Real Decreto 1538/2006, de 15 de diciembre, por el que se esta-
+blece la ordenación general de la formación profesional del sistema edu-
+cativo define en el artículo 6, la estructura de los títulos de formación pro-
+fesional, tomando como base el Catálogo Nacional de Cualificaciones
+Profesionales, las directrices fijadas por la Unión Europea y otros aspec-
+tos de interés social. El artículo 7 concreta el perfil profesional de dichos
+títulos, que incluirá la competencia general, las competencias profesiona-
+les, personales y sociales, las cualificaciones y, en su caso, las unidades
+de competencia del Catálogo Nacional de Cualificaciones Profesionales
+incluidas en los títulos.
+Por otro lado, el artículo 17 del citado Real Decreto 1538/2006, de 15
+de diciembre, dispone que las Administraciones educativas establecerán
+los currículos de las enseñanzas de formación profesional respetando lo
+en él dispuesto y en las normas que regulen los títulos respectivos.
+Posteriormente, el Real Decreto 1691/2007, de 14 de diciembre, esta-
+blece el título de Técnico en Sistemas Microinformáticos y Redes y se
+fijan sus enseñanzas mínimas y dispone en el artículo 1, que sustituye a
+la regulación del título de Técnico en Explotación de Sistemas Informá-
+ticos, contenido en el Real Decreto 497/2003, de 2 de mayo. 
+El presente Decreto establece el currículo correspondiente al título de
+Técnico en Sistemas Microinformáticos y Redes en la Comunidad de
+Castilla y León teniendo en cuenta los principios generales que han de
+orientar la actividad educativa, según lo previsto en el artículo 1 de la Ley
+Orgánica 2/2006, de 3 de mayo, de Educación. Se pretende dar respuesta
+a las necesidades generales de cualificación de los recursos humanos para
+su incorporación a la estructura productiva de la Comunidad de Castilla
+y León.
+
+27278
+Miércoles, 9 de septiembre 2009
+B.O.C. y L. - N.º 173
+En su virtud, la Junta de Castilla y León, a propuesta del Consejero
+de Educación, previo informe del Consejo de Formación Profesional de
+Castilla y León y dictamen del Consejo Escolar de Castilla y León, y pre-
+via deliberación del Consejo de Gobierno en su reunión de 3 de septiem-
+bre de 2009
+DISPONE:
+Artículo 1.– Objeto y ámbito de aplicación.
+El presente Decreto tiene por objeto establecer el currículo corres-
+pondiente al título de Técnico en Sistemas Microinformáticos y Redes en
+la Comunidad de Castilla y León, que se incorpora como Anexo I.
+Artículo 2.– Autonomía de los centros.
+1. Los centros educativos dispondrán de la necesaria autonomía
+pedagógica, de organización y de gestión económica, para el desarrollo
+de las enseñanzas y su adaptación a las características concretas del entor-
+no socioeconómico, cultural y profesional. Los centros autorizados para
+impartir el ciclo formativo concretarán y desarrollarán el currículo
+mediante las programaciones didácticas de cada uno de los módulos pro-
+fesionales que componen el ciclo formativo en los términos establecidos
+en este Decreto en el marco general del proyecto educativo de centro y en
+función de las características de su entorno productivo. 
+2. La Consejería competente en materia de educación favorecerá la
+elaboración de proyectos de innovación, así como de modelos de progra-
+mación docente y de materiales didácticos que faciliten al profesorado el
+desarrollo del currículo.
+3. Los centros, en el ejercicio de su autonomía, podrán adoptar expe-
+rimentaciones, planes de trabajo, formas de organización o ampliación
+del horario escolar en los términos que establezca la Consejería compe-
+tente en materia de educación, sin que, en ningún caso, se impongan
+aportaciones a las familias ni exigencias para la misma.
+Artículo 3.– Requisitos de los centros para impartir estas enseñanzas.
+Todos los centros de titularidad pública o privada que ofrezcan ense-
+ñanzas conducentes a la obtención del título de Técnico en Sistemas
+Microinformáticos y Redes se ajustarán a lo establecido en la Ley Orgá-
+nica 2/2006, de 3 de mayo, de Educación y en las normas que lo desarro-
+llen, y en todo caso, deberán cumplir los requisitos que se indican en el
+artículo 52 del Real Decreto 1538/2006, de 15 de diciembre, por el que
+se establece la ordenación general de la formación profesional del siste-
+ma educativo, además de lo establecido en su propia normativa.
+Artículo 4.– Módulo profesional de Formación en Centros de Trabajo.
+El módulo profesional de Formación en Centros de Trabajo deberá
+ajustarse a los resultados de aprendizaje y criterios de evaluación previs-
+tos en el Anexo I de este Decreto, correspondiendo a los centros educati-
+vos concretar la programación específica de cada alumno, de acuerdo con
+las orientaciones metodológicas y las características del centro del trabajo. 
+Artículo 5.– Adaptaciones curriculares.
+1. Con objeto de ofrecer a todas las personas la oportunidad de adqui-
+rir una formación básica, ampliar y renovar sus conocimientos, habilida-
+des y destrezas de modo permanente y facilitar el acceso a las enseñan-
+zas de formación profesional, la Consejería competente en materia de
+educación podrá flexibilizar la oferta del ciclo formativo de Técnico en
+Sistemas Microinformáticos y Redes permitiendo, principalmente a los
+adultos, la posibilidad de combinar el estudio y la formación con la acti-
+vidad laboral o con otras actividades, respondiendo así a las necesidades
+e intereses personales.
+2. También se podrá adecuar las enseñanzas de este ciclo formativo a
+las características de la educación a distancia, así como a las característi-
+cas de los alumnos con necesidades educativas específicas.
+Artículo 6.– Enseñanzas impartidas en lenguas extranjeras o en len-
+guas cooficiales de otras Comunidades Autónomas.
+1. Teniendo en cuenta que la promoción de la enseñanza y el apren-
+dizaje de lenguas y de la diversidad lingüística debe constituir una prio-
+ridad de la acción comunitaria en el ámbito de la educación y la forma-
+ción, la Consejería competente en materia de educación podrá autorizar
+que todos o determinados módulos profesionales del currículo se impar-
+tan en lenguas extranjeras o en lenguas cooficiales de otra Comunidad
+Autónoma, sin perjuicio de lo que se establezca al respecto en su norma-
+tiva específica y sin que ello suponga modificación de currículo estable-
+cido en el presente Decreto.
+2. Los centros autorizados deberán incluir en su proyecto educativo
+los elementos más significativos del proyecto lingüístico autorizado.
+Artículo 7.– Oferta a distancia del título.
+1. Los módulos profesionales que forman las enseñanzas del ciclo
+formativo de Técnico en Sistemas Microinformáticos y Redes podrán
+ofertarse a distancia, siempre que se garantice que el alumno puede con-
+seguir los resultados de aprendizaje de los mismos, de acuerdo con lo dis-
+puesto en este Decreto. 
+2. La Consejería competente en materia de educación establecerá los
+módulos profesionales susceptibles de ser impartidos a distancia y el por-
+centaje de horas de cada uno de ellos que tienen que impartirse en régi-
+men presencial.
+Artículo 8.– Organización y distribución horaria.
+Los módulos profesionales del ciclo formativo de Técnico en Siste-
+mas Microinformáticos y Redes se organizan en dos cursos académicos.
+Su distribución en cada uno de ellos y la asignación horaria semanal se
+recoge en el Anexo II.
+Artículo 9.– Profesorado.
+1. Los aspectos referentes al profesorado con atribución docente en
+los módulos profesionales del ciclo formativo de Sistemas Microinfor-
+máticos y Redes son los establecidos en el Real Decreto 1691/2007, de
+14 de diciembre, y se reproducen en el Anexo III.
+2. Además de lo anteriormente indicado y de conformidad con el artí-
+culo 4.2 del Real Decreto 1834/2008, de 8 de noviembre, por el que se
+definen las condiciones de formación para el ejercicio de la docencia en
+la educación secundaria obligatoria, el bachillerato, la formación profe-
+sional y las enseñanzas de régimen especial y se establecen las especiali-
+dades de los cuerpos docentes de enseñanza secundaria, la atribución
+docente a especialidades del cuerpo de profesores de enseñanza secunda-
+ria se extenderá a las especialidades docentes del cuerpo de catedráticos
+de enseñanza secundaria que se establecen en el Real Decreto 1691/2007,
+de 14 de diciembre.
+Artículo 10.– Espacios y equipamientos. 
+1. Los espacios necesarios para el desarrollo de las enseñanzas del
+ciclo formativo de Técnico en Sistemas Microinformáticos y Redes son
+los establecidos en el Real Decreto 1691/2007, de 14 de diciembre, que
+se recogen como Anexo IV.
+2. Los espacios dispondrán de la superficie necesaria y suficiente para
+desarrollar las actividades de enseñanza que se deriven de los resultados
+de aprendizaje de cada uno de los módulos profesionales que se imparten
+en cada uno de los espacios, además deberán de cumplir las siguientes
+condiciones:
+a) La superficie se establecerá en función del número de personas que
+ocupen el espacio formativo y deberá permitir el desarrollo de las
+actividades de enseñanza-aprendizaje con la «ergonomía» y la
+movilidad requerida dentro del mismo. 
+b) Cubrir la necesidad espacial de mobiliario, equipamiento e instru-
+mentos auxiliares de trabajo, así como la observación de los espa-
+cios o superficies de seguridad de las máquinas y equipos en su
+funcionamiento. 
+c) Cumplir con la normativa referida a la prevención de riesgos labo-
+rales, la seguridad y salud en el puesto de trabajo y cuantas otras
+normas les sean de aplicación. 
+3. Los espacios formativos establecidos pueden ser ocupados por
+diferentes grupos de alumnos que cursen el mismo u otros ciclos forma-
+tivos, o etapas educativas. 
+4. Los diversos espacios formativos identificados no deben diferen-
+ciarse necesariamente mediante cerramientos. 
+5. Los equipamientos mínimos han de ser los necesarios y suficientes
+para garantizar la adquisición de los resultados de aprendizaje y la cali-
+dad de la enseñanza a los alumnos según el sistema de calidad adoptado,
+además deberán cumplir las siguientes condiciones:
+a) El equipamiento (equipos, máquinas, etc.) dispondrá de la instala-
+ción necesaria para su correcto funcionamiento, cumplirá con las
+normas de seguridad y prevención de riesgos y con cuantas otras
+sean de aplicación.
+b) La cantidad y características del equipamiento deberá estar en fun-
+ción del número de alumnos y permitir la adquisición de los resul-
+
+B.O.C. y L. - N.º 173
+Miércoles, 9 de septiembre 2009
+27279
+tados de aprendizaje, teniendo en cuenta los criterios de evaluación
+y los contenidos que se incluyen en cada uno de los módulos pro-
+fesionales que se impartan en los referidos espacios. 
+6. La Consejería competente en materia de educación velará para que
+los espacios y el equipamiento sean los adecuados en cantidad y caracte-
+rísticas para el desarrollo de los procesos de enseñanza y aprendizaje que
+se derivan de los resultados de aprendizaje de los módulos correspon-
+dientes y garantizar así la calidad de estas enseñanzas.
+Artículo 11.– Accesos y vinculación a otros estudios, y corresponden-
+cia de módulos profesionales con las unidades de competencia.
+El acceso y vinculación a otros estudios y la correspondencia de
+módulos profesionales con las unidades de competencia son los estable-
+cidos en el capítulo IV del Real Decreto 1691/2007, de 14 de diciembre,
+y se reproducen en el Anexo V.
+Artículo 12.– Principios metodológicos generales.
+1. La metodología didáctica de las enseñanzas de formación profe-
+sional integrará los aspectos científicos, tecnológicos y organizativos que
+en cada caso correspondan, con el fin de que el alumnado adquiera una
+visión global de los procesos productivos propios de la actividad profe-
+sional correspondiente.
+2. Las enseñanzas de formación profesional para personas adultas
+se organizarán con una metodología flexible y abierta, basada en el
+autoaprendizaje. 
+DISPOSICIONES ADICIONALES
+Primera.– Calendario de implantación.
+1. La implantación de los contenidos curriculares establecidos en el
+presente Decreto tendrá lugar en el curso escolar 2009/2010 para primer
+curso del ciclo formativo y en el curso escolar 2010/2011 para segundo
+curso del ciclo formativo.
+2. El alumnado de primer curso que deba repetir, se matriculará de
+acuerdo con el nuevo currículo, teniendo en cuenta su calendario de
+implantación.
+3. En el curso 2009/2010, los alumnos de segundo curso con módu-
+los pendientes de primero se matricularán, excepcionalmente, de estos
+módulos profesionales de acuerdo con el currículo que los alumnos vení-
+an cursando. En este caso, se arbitrarán las medidas adecuadas que per-
+mitan la recuperación de las enseñanzas correspondientes.
+4. En el curso 2010/2011, los alumnos con módulos pendientes de
+segundo curso se podrán matricular, excepcionalmente, de estos módulos
+profesionales de acuerdo con el currículo que los alumnos venían
+cursando. 
+5. A efecto de lo indicado en los apartados 3 y 4, el Departamento de
+Familia Profesional propondrá a los alumnos un plan de trabajo, con
+expresión de las capacidades terminales y los criterios de evaluación exi-
+gibles y de las actividades recomendadas, y programarán pruebas parcia-
+les y finales para evaluar los módulos profesionales pendientes.
+Segunda.– Titulaciones equivalentes y vinculación con capacitacio-
+nes profesionales.
+1. El título de Técnico en Explotación de Sistemas Informáticos, esta-
+blecido por el Real Decreto 497/2003, de 2 de mayo, tendrá los mismos
+efectos profesionales y académicos que el título de Técnico en Sistemas
+Microinformáticos y Redes, establecido en el Real Decreto 1691/2007,
+de 14 de diciembre. 
+2. La formación establecida en el presente Decreto para el módulo
+profesional de Formación y Orientación Laboral, incluye un mínimo de
+50 horas, que capacita para llevar a cabo responsabilidades profesiona-
+les equivalentes a las que precisan las actividades de nivel básico en pre-
+vención de riesgos laborales, establecidas en el Real Decreto 39/1997,
+de 17 de enero, por el que se aprueba el Reglamento de los Servicios de
+Prevención.
+Tercera.– Equivalencias a efectos de docencia en los procedimientos
+selectivos de ingreso en el Cuerpo de Profesores Técnicos de Formación
+Profesional.
+En los procesos selectivos convocados por la Consejería competente
+en materia de educación, se declaran equivalentes a efectos de docencia
+las titulaciones de Técnico especialista y Técnico Superior en una espe-
+cialidad de formación profesional, siempre que se acredite una experien-
+cia docente en la misma de, al menos, dos años en centros educativos
+públicos dependientes de la Consejería competente en materia de educa-
+ción, cumplidos a 31 de agosto de 2007. 
+Cuarta.– Accesibilidad universal en las enseñanzas de este título.
+La Consejería competente en materia de educación adoptará las medi-
+das necesarias para que el alumnado pueda acceder y cursar este ciclo for-
+mativo en las condiciones establecidas en la disposición final décima de
+la Ley 51/2003, de 2 de diciembre, de igualdad de oportunidades, no dis-
+criminación y accesibilidad universal de las personas con discapacidad. 
+Quinta.– Regulación del ejercicio de la profesión.
+1. De conformidad con lo establecido en el Real Decreto 1538/2006,
+de 15 de diciembre, por el que se establece la ordenación general de la
+formación profesional del sistema educativo, los elementos recogidos en
+el presente Decreto no constituyen una regulación del ejercicio de profe-
+sión titulada alguna. 
+2. Asimismo, las equivalencias de titulaciones académicas estableci-
+das en el apartado 1 de la disposición adicional tercera del Real Decreto
+1691/2007, de 14 de diciembre, se entenderán sin perjuicio del cumpli-
+miento de las disposiciones que habilitan para el ejercicio de las profe-
+siones reguladas.
+Sexta.– Certificación académica de la formación de nivel básico en
+prevención de riesgos laborales.
+La Consejería competente en materia de educación expedirá una cer-
+tificación académica de la formación de nivel básico en prevención de
+riesgos laborales, al alumnado que haya superado el bloque B del módu-
+lo profesional de Formación y Orientación Laboral, de acuerdo con el
+procedimiento que se establezca al efecto.
+Séptima.– Autorización de los centros educativos.
+Todos los centros de titularidad pública o privada que, en la fecha de
+entrada en vigor de este Decreto, tengan autorizadas enseñanzas condu-
+centes a la obtención del Título de Técnico en Explotación de Sistemas
+Informáticos, regulado en el Real Decreto 497/2003, de 2 de mayo, que-
+darán autorizados para impartir el Título de Técnico en Sistemas
+Microinformáticos y Redes que se establece en el Real Decreto
+1691/2007, de 14 de diciembre. 
+DISPOSICIÓN DEROGATORIA
+Derogación normativa.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se
+opongan a lo establecido en el presente Decreto.
+DISPOSICIONES FINALES
+Primera.– Desarrollo normativo.
+Se faculta al titular de la Consejería competente en materia de educa-
+ción para dictar cuantas disposiciones sean precisas para la interpreta-
+ción, aplicación y desarrollo de lo dispuesto en este Decreto.
+Segunda.– Entrada en vigor.
+El presente Decreto entrará en vigor el día siguiente al de su publica-
+ción en el «Boletín Oficial de Castilla y León».
+Valladolid, a 3 de septiembre de 2009.
+El Presidente de la Junta
+de Castilla y León,
+Fdo.: JUAN VICENTE HERRERA CAMPO
+El Consejero de Educación,
+Fdo.: JUAN JOSÉ MATEOS OTERO
+ANEXO I
+1. IDENTIFICACIÓN DEL TÍTULO
+1.1. DENOMINACIÓN: Sistemas Microinformáticos y Redes.
+1.2. FAMILIA PROFESIONAL: Informática y Comunicaciones.
+1.3. NIVEL: Formación Profesional de Grado Medio.
+1.4. DURACIÓN DEL CICLO: 2.000 horas.
+
+27280
+Miércoles, 9 de septiembre 2009
+B.O.C. y L. - N.º 173
+1.5. REFERENTE EUROPEO: CINE-3 (Clasificación Internacional
+Normalizada de la Educación).
+1.6.
+CÓDIGO: IFC01M.
+2. CURRÍCULO
+2.1. Sistema productivo.
+2.1.1. Perfil Profesional.
+El perfil profesional del título de Técnico en Sistemas Microinformá-
+ticos y Redes queda determinado por su competencia general, sus com-
+petencias profesionales, personales y sociales, y por la relación de cuali-
+ficaciones y, en su caso, unidades de competencia del Catálogo Nacional
+de Cualificaciones Profesionales incluidas en el título. 
+2.1.2. Competencia general.
+La competencia general de este título consiste en instalar, configu-
+rar y mantener sistemas microinformáticos, aislados o en red, así como
+redes locales en pequeños entornos, asegurando su funcionalidad y
+aplicando los protocolos de calidad, seguridad y respeto al medio
+ambiente establecidos. 
+2.1.3. Competencias profesionales, personales y sociales.
+Las competencias profesionales, personales y sociales de este título
+son las que se relacionan a continuación: 
+a) Determinar la logística asociada a las operaciones de instalación,
+configuración y mantenimiento de sistemas microinformáticos,
+interpretando la documentación técnica asociada y organizando los
+recursos necesarios. 
+b) Montar y configurar ordenadores y periféricos, asegurando su fun-
+cionamiento en condiciones de calidad y seguridad. 
+c) Instalar y configurar software básico y de aplicación, asegurando
+su funcionamiento en condiciones de calidad y seguridad. 
+d) Replantear el cableado y la electrónica de redes locales en peque-
+ños entornos y su conexión con redes de área extensa canalizando
+a un nivel superior los supuestos que así lo requieran. 
+e) Instalar y configurar redes locales cableadas, inalámbricas o mix-
+tas y su conexión a redes públicas, asegurando su funcionamiento
+en condiciones de calidad y seguridad. 
+f) Instalar, configurar y mantener servicios multiusuario, aplicacio-
+nes y dispositivos compartidos en un entorno de red local, aten-
+diendo a las necesidades y requerimientos especificados. 
+g) Realizar las pruebas funcionales en sistemas microinformáticos y
+redes locales, localizando y diagnosticando disfunciones, para
+comprobar y ajustar su funcionamiento. 
+h) Mantener sistemas microinformáticos y redes locales, sustituyen-
+do, actualizando y ajustando sus componentes, para asegurar el
+rendimiento del sistema en condiciones de calidad y seguridad. 
+i) Ejecutar procedimientos establecidos de recuperación de datos y
+aplicaciones ante fallos y pérdidas de datos en el sistema, para
+garantizar la integridad y disponibilidad de la información. 
+j) Elaborar documentación técnica y administrativa del sistema,
+cumpliendo las normas y reglamentación del sector, para su man-
+tenimiento y la asistencia al cliente. 
+k) Elaborar presupuestos de sistemas a medida cumpliendo los reque-
+rimientos del cliente. 
+l) Asesorar y asistir al cliente, canalizando a un nivel superior los
+supuestos que lo requieran, para encontrar soluciones adecuadas a
+las necesidades de éste. 
+m)Organizar y desarrollar el trabajo asignado manteniendo unas rela-
+ciones profesionales adecuadas en el entorno de trabajo. 
+n) Mantener un espíritu constante de innovación y actualización en el
+ámbito del sector informático. 
+o) Utilizar los medios de consulta disponibles, seleccionando el más
+adecuado en cada caso, para resolver en tiempo razonable supues-
+tos no conocidos y dudas profesionales. 
+p) Aplicar los protocolos y normas de seguridad, calidad y respeto al
+medio ambiente en las intervenciones realizadas. 
+q) Cumplir con los objetivos de la producción, colaborando con el
+equipo de trabajo y actuando conforme a los principios de respon-
+sabilidad y tolerancia. 
+r) Adaptarse a diferentes puestos de trabajo y nuevas situaciones
+laborales originados por cambios tecnológicos y organizativos en
+los procesos productivos. 
+s) Resolver problemas y tomar decisiones individuales siguiendo las
+normas y procedimientos establecidos definidos dentro del ámbito
+de su competencia. 
+t) Ejercer sus derechos y cumplir con las obligaciones derivadas de
+las relaciones laborales, de acuerdo con lo establecido en la legis-
+lación vigente. 
+u) Gestionar su carrera profesional, analizando las oportunidades de
+empleo, autoempleo y aprendizaje. 
+v) Crear y gestionar una pequeña empresa, realizando un estudio de
+viabilidad de productos, planificación de la producción y comer-
+cialización. 
+w)Participar de forma activa en la vida económica, social y cultural,
+con una actitud crítica y responsable. 
+2.1.4. Relación de las cualificaciones y unidades de competencia
+del Catálogo Nacional de las Cualificaciones Profesionales incluidas
+en el título.
+Cualificaciones profesionales completas: 
+a) Sistemas microinformáticos IFC078_2 (Real Decreto 295/2004,
+20 febrero), que comprende las siguientes unidades de competencia: 
+UC0219_2: Instalar y configurar el software base en sistemas
+microinformáticos. 
+UC0220_2: Instalar, configurar y verificar los elementos de la red
+local según procedimientos establecidos. 
+UC0221_2: Instalar, configurar y mantener paquetes informáticos
+de propósito general y aplicaciones específicas. 
+UC0222_2: Facilitar al usuario la utilización de paquetes informá-
+ticos de propósito general y aplicaciones específicas. 
+b) Montaje y reparación de sistemas microinformáticos IFC298_2
+(Real Decreto 1201/2007, 14 septiembre), que comprende las
+siguientes unidades de competencia: 
+UC0953_2: Montar equipos microinformáticos. 
+UC0219_2: Instalar y configurar el software base en sistemas
+microinformáticos. 
+UC0954_2: Reparar y ampliar equipamiento microinformático. 
+c) Operación de redes departamentales IFC299_2 (Real Decreto
+1201/2007, 14 septiembre), que comprende las siguientes unidades
+de competencia: 
+UC0220_2: Instalar, configurar y verificar los elementos de la red
+local según procedimientos preestablecidos. 
+UC0955_2: Monitorizar los procesos de comunicaciones de la red
+local. 
+UC0956_2: Realizar los procesos de conexión entre redes privadas
+y redes públicas. 
+d) Operación de sistemas informáticos IFC300_2 (Real Decreto
+1201/2007, 14 septiembre), que comprende las siguientes unidades
+de competencia: 
+UC0219_2: Instalar y configurar el software base en sistemas
+microinformáticos. 
+UC0957_2: Mantener y regular el subsistema físico en sistemas
+informáticos. 
+UC0958_2: Ejecutar procedimientos de administración y manteni-
+miento en el software base y de aplicación del cliente. 
+UC0959_2: Mantener la seguridad de los subsistemas físicos y
+lógicos en sistemas informáticos. 
+2.2. Entorno productivo.
+2.2.1. Entorno profesional.
+Este profesional ejerce su actividad principalmente en empresas del
+sector servicios que se dediquen a la comercialización, montaje y repara-
+ción de equipos, redes y servicios microinformáticos en general, como
+parte del soporte informático de la organización o en entidades de cual-
+
+B.O.C. y L. - N.º 173
+Miércoles, 9 de septiembre 2009
+27281
+quier tamaño y sector productivo que utilizan sistemas microinformáticos
+y redes de datos para su gestión. 
+Las ocupaciones y puestos de trabajo más relevantes son los siguientes: 
+– Técnico instalador-reparador de equipos informáticos. 
+– Técnico de soporte informático. 
+– Técnico de redes de datos. 
+– Reparador de periféricos de sistemas microinformáticos. 
+– Comercial de microinformática. 
+– Operador de tele-asistencia. 
+– Operador de sistemas. 
+2.2.2. Prospectiva del título en el sector o sectores.
+El perfil profesional de este título, dentro del sector servicios, evolu-
+ciona hacia un técnico muy especializado en la solución de los problemas
+comunes en sistemas microinformáticos y redes locales, en pequeños
+entornos. 
+La evolución tecnológica tiende a sistemas cada vez más económicos;
+esto unido al abaratamiento del acceso a Internet origina que los sistemas
+informáticos sean considerados como un recurso más en el hogar y la
+asistencia técnica tiende a realizarse en el propio domicilio. 
+La tele-operación, asistencia técnica remota, asistencia «on line» y
+los tele-centros se configuran como un elemento imprescindible en la res-
+puesta a la demanda de asistencia técnica. 
+Las tareas de montaje y mantenimiento tendrán que adaptarse a la
+normativa sobre los tratamientos y gestión de residuos y agentes conta-
+minantes. 
+El gran número de pequeñas empresas en el sector incrementa la
+necesidad de que este profesional intervenga en tareas de comercio, par-
+ticipando también en tareas de nivel administrativo. 
+La presencia activa de empresas en Internet está aumentando progre-
+sivamente el número de transacciones realizadas por este medio, lo que
+hace que este perfil sea cada vez más demandado para colaborar en la ins-
+talación y mantenimiento de servicios sobre la red. 
+Debido a los rápidos avances y cambios tecnológicos del sector se
+demandan profesionales en los que se hacen imprescindibles actitudes
+favorables hacia la autoformación. 
+2.2.3. Entorno productivo de Castilla y León.
+En la actualidad, el sector productivo engloba en la región a casi un
+millar de empresas que dan trabajo a una decena de miles de personas,
+con una tendencia claramente alcista.
+La mayoría de las empresas de la región relacionadas con las TIC
+quedan encuadradas dentro de las micropymes, dado el volumen de per-
+sonal con el que cuentan. Sólo en torno al 20% dispone de más de 20
+empleados, lo que da una muestra de la dispersión del entorno producti-
+vo en Castilla y León.
+La principal actividad empresarial del sector es el desarrollo del soft-
+ware, seguida de la venta y reparación de equipos informáticos, así como
+la venta de software y hardware.
+Todo el sector ha mejorado en general su posicionamiento competiti-
+vo en los últimos años, siendo en los dos primeros segmentos menciona-
+dos en el párrafo anterior donde se ha producido el mayor incremento en
+la facturación media.
+El afianzamiento de empresas de desarrollo de software en la región
+viene dado por el fenómeno del nearshore a nivel europeo. Castilla y
+León alberga varios centros de firmas internacionales destinados a ofre-
+cer servicios a precios más competitivos que en otros lugares de la Comu-
+nidad Europea.
+Por otro lado, la venta y reparación de equipos informáticos es una
+vertiente del sector en alza debido al aumento del parque de equipos
+microinformáticos tanto a nivel doméstico como empresarial o adminis-
+trativo y a la oferta de servicios telemáticos. Prueba de ello es la escala-
+da constante de la región en el Índice de Convergencia de la Sociedad de
+la Información a nivel nacional.
+Otro ámbito laboral cada vez más demandado es el de la instalación
+y configuración de redes y servicios de red. Teniendo en cuenta que más
+de la mitad de las empresas y que una de cada tres entidades públicas de
+la región hoy en día cuentan con red informática y con acceso a Internet,
+es fácil entender la necesidad de profesionales cualificados en estas materias.
+Finalmente, las empresas TIC de Castilla y León son también punte-
+ras a nivel nacional en el desarrollo de soluciones en el ámbito de la
+movilidad -el desarrollo de aplicaciones para dispositivos móviles- y
+están centrando sus esfuerzos en tecnologías asistibles, sistemas informá-
+ticos y de telecomunicaciones para gestión de la dependencia y la asis-
+tencia a las personas. Con sus más de 2.000 municipios y gran extensión,
+Castilla y León es y será una gran consumidora de estos productos tec-
+nológicos y un referente nacional en este ámbito.
+2.3. Objetivos generales del ciclo formativo.
+Los objetivos generales de este ciclo formativo son los siguientes: 
+a) Organizar los componentes físicos y lógicos que forman un siste-
+ma microinformático, interpretando su documentación técnica,
+para aplicar los medios y métodos adecuados a su instalación,
+montaje y mantenimiento. 
+b) Identificar, ensamblar y conectar componentes y periféricos utili-
+zando las herramientas adecuadas, aplicando procedimientos, nor-
+mas y protocolos de calidad y seguridad, para montar y configurar
+ordenadores y periféricos. 
+c) Reconocer y ejecutar los procedimientos de instalación de siste-
+mas operativos y programas de aplicación, aplicando protocolos de
+calidad, para instalar y configurar sistemas microinformáticos. 
+d) Representar la posición de los equipos, líneas de transmisión y
+demás elementos de una red local, analizando la morfología, con-
+diciones y características del despliegue, para replantear el cablea-
+do y la electrónica de la red. 
+e) Ubicar y fijar equipos, líneas, canalizaciones y demás elementos
+de una red local cableada, inalámbrica o mixta, aplicando procedi-
+mientos de montaje y protocolos de calidad y seguridad, para ins-
+talar y configurar redes locales. 
+f) Interconectar equipos informáticos, dispositivos de red local y de
+conexión con redes de área extensa, ejecutando los procedimientos
+para instalar y configurar redes locales. 
+g) Localizar y reparar averías y disfunciones en los componentes físi-
+cos y lógicos para mantener sistemas microinformáticos y redes
+locales. 
+h) Sustituir y ajustar componentes físicos y lógicos para mantener
+sistemas microinformáticos y redes locales. 
+i) Interpretar y seleccionar información para elaborar documentación
+técnica y administrativa. 
+j) Valorar el coste de los componentes físicos, lógicos y la mano de
+obra, para elaborar presupuestos. 
+k) Reconocer características y posibilidades de los componentes físi-
+cos y lógicos, para asesorar y asistir a clientes. 
+l) Detectar y analizar cambios tecnológicos para elegir nuevas alter-
+nativas y mantenerse actualizado dentro del sector. 
+m)Reconocer y valorar incidencias, determinando sus causas y des-
+cribiendo las acciones correctoras para resolverlas. 
+n) Analizar y describir procedimientos de calidad, prevención de ries-
+gos laborales y medioambientales, señalando las acciones a reali-
+zar en los casos definidos para actuar de acuerdo con las normas
+estandarizadas. 
+ñ) Valorar las actividades de trabajo en un proceso productivo, iden-
+tificando su aportación al proceso global para conseguir los obje-
+tivos de la producción. 
+o) Identificar y valorar las oportunidades de aprendizaje y empleo,
+analizando las ofertas y demandas del mercado laboral para ges-
+tionar su carrera profesional. 
+p) Reconocer las oportunidades de negocio, identificando y analizan-
+do demandas del mercado para crear y gestionar una pequeña
+empresa. 
+q) Reconocer sus derechos y deberes como agente activo en la socie-
+dad, analizando el marco legal que regula las condiciones sociales
+y laborales para participar como ciudadano democrático. 
+2.4. Módulos profesionales.
+Los módulos profesionales de este ciclo formativo son los que a con-
+tinuación se relacionan: 
+0221. Montaje y mantenimiento de equipos. 
+0222. Sistemas operativos monopuesto. 
+0223. Aplicaciones ofimáticas. 
+
+27282
+Miércoles, 9 de septiembre 2009
+B.O.C. y L. - N.º 173
+0224. Sistemas operativos en red. 
+0225. Redes locales. 
+0226. Seguridad informática. 
+0227. Servicios en red. 
+0228. Aplicaciones web. 
+0229. Formación y orientación laboral. 
+0230. Empresa e iniciativa emprendedora. 
+0231. Formación en centros de trabajo. 
+Módulo Profesional: Montaje y mantenimiento de equipos.
+Código: 0221.
+Resultados de aprendizaje y criterios de evaluación. 
+1. Selecciona los componentes de integración de un equipo microin-
+formático estándar, describiendo sus funciones y comparando prestacio-
+nes de distintos fabricantes. 
+Criterios de evaluación: 
+a) Se han descrito los bloques que componen un equipo microinfor-
+mático y sus funciones. 
+b) Se ha reconocido la arquitectura de buses. 
+c) Se han descrito las características de los tipos de microprocesado-
+res (frecuencia, tensiones, potencia, zócalos, entre otros). 
+d) Se ha descrito la función de los disipadores y ventiladores. 
+e) Se han descrito las características y utilidades más importantes de
+la configuración de la placa base. 
+f) Se han evaluado tipos de chasis para la placa base y el resto de
+componentes. 
+g) Se han identificado y manipulado los componentes básicos (módu-
+los de memoria, discos fijos y sus controladoras, soportes de
+memorias auxiliares, entre otros). 
+h) Se ha analizado la función del adaptador gráfico y el monitor. 
+i) Se han identificado y manipulado distintos adaptadores (gráficos,
+LAN, modems, entre otros). 
+j) Se han identificado los elementos que acompañan a un componen-
+te de integración (documentación, controladores, cables y utilida-
+des, entre otros). 
+k) Se han analizado diferente utilidades de automatización, gestores
+de memoria, reparadores de disco, etc.
+l) Se ha descrito el proceso de arranque de un sistema microinformático.
+m)Se han utilizado técnicas de overclocking.
+n) Se ha descrito y caracterizado las funciones del chipset.
+o) Se ha analizado la influencia del reloj en el sistema microinformático.
+p) Se ha investigado la existencia de componentes de última generación.
+q) Ensambla un equipo microinformático, interpretando planos e ins-
+trucciones del fabricante aplicando técnicas de montaje. 
+Criterios de evaluación: 
+a) Se han seleccionado las herramientas y útiles necesarios para el
+ensamblado de equipos microinformáticos. 
+b) Se ha interpretado la documentación técnica de todos los compo-
+nentes a ensamblar. 
+c) Se ha determinado el sistema de apertura / cierre del chasis y los
+distintos sistemas de fijación para ensamblar-desensamblar los ele-
+mentos del equipo. 
+d) Se han ensamblado diferentes conjuntos de placa base, micropro-
+cesador y elementos de refrigeración en diferentes modelos de
+chasis, según las especificaciones dadas. 
+e) Se han ensamblado los módulos de memoria RAM, los discos
+fijos, las unidades de lectura / grabación en soportes de memoria
+auxiliar y otros componentes. 
+f) Se han configurado parámetros básicos del conjunto accediendo a
+la configuración de la placa base. 
+g) Se han ejecutado utilidades de chequeo y diagnóstico para verifi-
+car las prestaciones del conjunto ensamblado. 
+h) Se ha realizado un informe de montaje. 
+i) Mide parámetros eléctricos, identificando el tipo de señal y rela-
+cionándola con sus unidades características. 
+Criterios de evaluación: 
+a) Se ha identificado el tipo de señal a medir con el aparato corres-
+pondiente. 
+b) Se ha seleccionado la magnitud, el rango de medida y se ha conec-
+tado el aparato según la magnitud a medir. 
+c) Se ha relacionado la medida obtenida con los valores típicos. 
+d) Se han identificado los bloques de una fuente de alimentación
+(F.A.) para un ordenador personal. 
+e) Se han enumerado las tensiones proporcionadas por una F.A. típica. 
+f) Se han medido las tensiones en F.A. típicas de ordenadores personales. 
+g) Se han identificado los bloques de un sistema de alimentación inin-
+terrumpida. 
+h) Se han medido las señales en los puntos significativos de un SAI. 
+i) Mantiene equipos informáticos interpretando las recomendaciones
+de los fabricantes y relacionando las disfunciones con sus causas. 
+Criterios de evaluación: 
+a) Se han reconocido las señales acústicas y/o visuales que avisan de
+problemas en el hardware de un equipo. 
+b) Se han identificado y solventado las averías producidas por sobre-
+calentamiento del microprocesador. 
+c) Se han identificado y solventado averías típicas de un equipo
+microinformático (mala conexión de componentes, incompatibili-
+dades, problemas en discos fijos, suciedad, entre otras). 
+d) Se han sustituido componentes deteriorados. 
+e) Se ha verificado la compatibilidad de los componentes sustituidos. 
+f) Se han realizado actualizaciones y ampliaciones de componentes. 
+g) Se han elaborado informes de avería (reparación o ampliación). 
+h) Se han utilizado utilidades de detección de incidentes, de recupe-
+ración de la información, de mantenimiento y de optimización.
+i) Se han aplicado las técnicas adquiridas sobre equipos portátiles.
+j) Instala software en un equipo informático utilizando una imagen
+almacenada en un soporte de memoria y justificando el procedi-
+miento a seguir.
+Criterios de evaluación: 
+a) Se ha reconocido la diferencia entre una instalación estándar y una
+preinstalación de software. 
+b) Se han identificado y probado las distintas secuencias de arranque
+configurables en la placa base. 
+c) Se han inicializado equipos desde distintos soportes de memoria
+auxiliar. 
+d) Se han realizado imágenes de una preinstalación de software. 
+e) Se han restaurado imágenes sobre el disco fijo desde distintos
+soportes. 
+f) Se han descrito las utilidades para la creación de imágenes de par-
+tición/disco. 
+g) Se ha reinstalado software con la mínima pérdida de información.
+h) Reconoce nuevas tendencias en el ensamblaje de equipos microin-
+formáticos describiendo sus ventajas y adaptándolas a las caracte-
+rísticas de uso de los equipos. 
+Criterios de evaluación: 
+a) Se han reconocido las nuevas posibilidades para dar forma al con-
+junto chasis-placa base. 
+b) Se han descrito las prestaciones y características de algunas de las
+plataformas semiensambladas («barebones») más representativas
+del momento. 
+c) Se han descrito las características de los ordenadores de entreteni-
+miento multimedia (HTPC), los chasis y componentes específicos
+empleados en su ensamblado. 
+d) Se han descrito las características diferenciales que demandan los
+equipos informáticos empleados en otros campos de aplicación
+específicos. 
+
+B.O.C. y L. - N.º 173
+Miércoles, 9 de septiembre 2009
+27283
+e) Se ha evaluado la presencia de la informática móvil como merca-
+do emergente, con una alta demanda en equipos y dispositivos con
+características específicas: móviles, PDA, navegadores, entre
+otros. 
+f) Se ha evaluado la presencia del «modding» como corriente alter-
+nativa al ensamblado de equipos microinformáticos. 
+g) Mantiene periféricos, interpretando las recomendaciones de los
+fabricantes de equipos y relacionando disfunciones con sus causas. 
+Criterios de evaluación: 
+a) Se han identificado y solucionado problemas mecánicos en perifé-
+ricos de impresión estándar. 
+b) Se han sustituido consumibles en periféricos de impresión estándar. 
+c) Se han identificado y solucionado problemas mecánicos en perifé-
+ricos de entrada. 
+d) Se han asociado las características y prestaciones de los periféricos
+de captura de imágenes digitales, fijas y en movimiento con sus
+posibles aplicaciones. 
+e) Se han asociado las características y prestaciones de otros periféri-
+cos multimedia con sus posibles aplicaciones. 
+f) Se han reconocido los usos y ámbitos de aplicación de equipos de
+fotocopiado, impresión digital profesional y filmado. 
+g) Se han aplicado técnicas de mantenimiento preventivo a los
+periféricos. 
+h) Se han identificado y solucionado problemas en periféricos de salida.
+i) Cumple las normas de prevención de riesgos laborales y de pro-
+tección ambiental, identificando los riesgos asociados, las medidas
+y equipos para prevenirlos. 
+Criterios de evaluación: 
+a) Se han identificado los riesgos y el nivel de peligrosidad que supo-
+nen la manipulación de los materiales, herramientas, útiles, máqui-
+nas y medios de transporte. 
+b) Se han operado las máquinas respetando las normas de seguridad. 
+c) Se han identificado las causas más frecuentes de accidentes en la
+manipulación de materiales, herramientas, máquinas de corte y
+conformado, entre otras. 
+d) Se han descrito los elementos de seguridad (protecciones, alarmas,
+pasos de emergencia, entre otros) de las máquinas y los equipos de
+protección individual (calzado, protección ocular, indumentaria,
+entre otros) que se deben emplear en las distintas operaciones de
+montaje y mantenimiento. 
+e) Se ha relacionado la manipulación de materiales, herramientas y
+máquinas con las medidas de seguridad y protección personal
+requeridos. 
+f) Se han identificado las posibles fuentes de contaminación del
+entorno ambiental. 
+g) Se han clasificado los residuos generados para su retirada selectiva. 
+h) Se ha valorado el orden y la limpieza de instalaciones y equipos
+como primer factor de prevención de riesgos. 
+Duración: 168 horas.
+Contenidos:
+1. Selección de componentes de equipos microinformáticos estándar:
+– Identificación de los bloques funcionales de un sistema microin-
+formático:
+- Arquitectura de un sistema microinformático.
+- Principales funciones de cada bloque.
+- Localización de los bloques funcionales en un ordenador de
+sobremesa, portátil, PDA y móvil, entre otros.
+- Tipos de memoria. Características y funciones de cada tipo.
+- Localización de los distintos tipos de memoria en un ordenador
+de sobremesa, portátil, PDA y móvil, entre otros.
+- Arranque de un equipo. Papel de cada bloque funcional.
+- Software base y de aplicación: panorámica actual. Sistemas ope-
+rativos. Suites o paquetes integrados. Utilidades específicas:
+Utilidades de disco, utilidades del sistema, apagado del sistema,
+automatización del sistema, desinstaladores y limpiadores de
+software, gestores y optimizadores de memoria, reparadores de
+disco, compresores, otras utilidades.
+– Funcionalidad de los componentes de las placas base:
+- Características de los microprocesadores. Principales fabricantes.
+- Overclocking.
+- Control de temperaturas en un sistema microinformático.
+- El chipset de la placa base. Chipset comerciales. Tipos y funciones.
+- Dispositivos integrados en placa.
+- La memoria en una placa base: Tipos. Formato físico. Tecnolo-
+gías empleadas. Identificación. Direccionamiento físico y lógi-
+co. La memoria caché.
+- El programa de configuración de la placa base.
+- Conectores E/S. 
+- Formatos de placa base.
+- El oscilador o reloj.
+- La bateria.
+- El altavoz.
+- Nuevos componentes.
+– Análisis del mercado de componentes de equipos microinformáticos:
+- El chasis. 
+- La memoria RAM.
+- Discos fijos y controladoras de disco: Estándares. Geometría y
+rendimiento.
+- Soportes de memoria auxiliar y unidades de lectura/grabación:
+Tipos e interfaces. Características y rendimiento.
+- El adaptador gráfico y el monitor de un equipo microinformáti-
+co: Tecnologías de monitor. Procesadores gráficos. Memorias de
+video. Conversión digital – analógica. Resolución, colores y fre-
+cuencia. Tarjetas 3D. Velocidad de procesamiento.
+- Conectividad LAN y WAN de un sistema microinformático.
+- Componentes OEM y componentes «Retail».
+- Controladores de dispositivos.
+- Componentes de última generación.
+2. Ensamblado de equipos microinformáticos:
+– Secuencia de montaje de un ordenador.
+– Herramientas y útiles.
+– La documentación técnica.
+– Precauciones y advertencias de seguridad: Normativa de seguridad
+sobre instalación de componentes.
+– Conexionado: Conectores y cables.
+– Slots, buses y puertos: Tipos, características y funcionalidad. Con-
+trol de puertos. Direccionamiento. Interrupciones y canales de
+acceso a memoria. Comprobación de puertos. Identificación.
+– Ensamblado del procesador.
+– Refrigerado del procesador.
+– Fijación de los módulos de memoria RAM.
+– Fijación y conexión de las unidades de disco fijo: Tecnologías:
+PATA, SATA, SCSI, … Otras tecnologías. Unidades de disco fijo exter-
+nas. Conexión y puesta en marcha. Controladoras. Funcionamiento.
+– Fijación y conexión de las unidades de lectura/grabación en sopor-
+tes de memoria auxiliar: Disqueteras. Unidades ópticas. Otros sis-
+temas de almacenamiento. Controladoras. Funcionamiento y pues-
+ta en marcha.
+– Fijación y conexión del resto de adaptadores y componentes: Con-
+figuración. Controladoras multi I/O. Otros componentes.
+– Utilidades de chequeo y diagnóstico.
+– Configuración del Firmware del sistema.
+3. Medición de parámetros eléctricos:
+– Tipos de señales.
+– Componentes analógicos y digitales.
+– Magnitudes básicas: Conceptos de tensión, corriente, resistencia y
+potencia, etc.
+
+27284
+Miércoles, 9 de septiembre 2009
+B.O.C. y L. - N.º 173
+– Valores tipo.
+– Utilización de instrumentación básica de medición.
+– Sistemas de alimentación ininterrumpida: Función y característi-
+cas. Instalación y configuración.
+4. Mantenimiento de equipos microinformáticos:
+– Técnicas de mantenimiento preventivo.
+– Detección de averías en un equipo microinformático: Técnicas de
+diagnostico. Sintomatología.
+– Señales de aviso, luminosas y acústicas.
+– Fallos comunes: Falla la fuente de alimentación. Falla el chequeo
+de memoria. Falla la detección de algún dispositivo. Otros fallos.
+– Ampliaciones de hardware.
+– Bloques de una fuente de alimentación y protección de potencia.
+– Incompatibilidades. Conflictos entre dispositivos.
+– Fallos de software: Dispositivos de inicio. Sector de arranque.
+Otros fallos.
+– Documentación de incidentes en la asistencia al usuario.
+– Utilidades para la recuperación de la información.
+– Uso de soporte técnico, ayuda en linea, foros, …
+– Computadores portátiles. Instalación y ampliación de dispositivos.
+Acceso: Apertura, distribución y cierre. Dispositivos específicos.
+Memoria. Dispositivos de almacenamiento. Baterias.
+– Tareas de mantenimiento y optimización del sistema: Comproba-
+ción y desfragmentación del sistema de archivos. Desinstalación y
+limpieza de aplicaciones. Programación de tareas de mantenimien-
+to. Otras tareas de mantenimiento y optimización.
+5. Instalación de Software:
+– Opciones de arranque de un equipo.
+– Arranque de un equipo desde soportes auxiliares.
+– Utilidades para el arranque de equipos.
+– Reinstalación y configuración de sistemas operativos, aplicacio-
+nes, controladores y utilidades.
+– Instalación y configuración de gestores de arranque.
+– Utilidades para la creación de imágenes de partición/disco.
+– Comprobación de imágenes.
+– Restauración de imágenes.
+6. Aplicaciones de nuevas tendencias en equipos informáticos:
+– Empleo de barebones para el montaje de equipos.
+– El ordenador multimedia de salón: HTPC.
+– Equipos con demandas específicas: Estaciones edición de vídeo.
+CAD-CAM. Otros equipos.
+– Informática móvil.
+– Móviles.
+– Sistemas de posicionamiento y navegación.
+– PDA.
+– Modding.
+– Ultimas tendencias.
+7. Mantenimiento de Periféricos:
+– Técnicas de mantenimiento preventivo.
+– Los monitores: Instalación y configuración. Múltiples monitores.
+– Impresoras: Evolución y tipos. Instalación y configuración. Inter-
+faces. Mantenimiento. Problemas y soluciones habituales. Mensa-
+jes de error.
+– Periféricos de entrada: Teclados, ratones, etc.: Interfaces e instala-
+ción. Escaners: Calidad de imagen. Instalación. Mantenimiento.
+Controladores. Otros dispositivos de entrada.
+– Periféricos multimedia. Tarjetas gráficas y capturadoras de video:
+Instalación y configuración. Sintonización de televisión. Otros
+periféricos multimedia.
+– Videoproyectores. Fijación y conexión.
+– Sistemas de Audio. Características: Número de bits, muestreo, sín-
+tesis, etc. Sistemas de altavoces. Instalación y configuración.
+Resolución de problemas: Mala calidad de sonido, Zumbido, Mal
+sonido en algunos programas, Otros problemas.
+– Periféricos para la adquisición de imágenes fijas y en movimiento.
+Cámaras WEB. Instalación y configuración. Cámaras fotográficas,
+Videocámaras, etc. Dispositivos de almacenamiento utilizados.
+Comunicación con el sistema operativo. Conectividad. Funciona-
+miento básico. Criterios de elección.
+– Periféricos para impresión profesional. Impresión digital. Trazado-
+res gráficos (plotters). Filmadoras.
+8. Cumplimiento de las normas de prevención de riesgos laborales y
+protección ambiental:
+– Identificación de riesgos.
+– Determinación de las medidas de prevención de riesgos laborales.
+– Prevención de riesgos laborales en los procesos de montaje y man-
+tenimiento.
+– Equipos y protección individual.
+– Cumplimiento de la normativa de prevención de riesgos laborales.
+– Cumplimiento de la normativa de prevención de protección
+ambiental.
+Orientaciones metodológicas. 
+El módulo se centra en la instalación, configuración y mantenimiento de
+los elementos físicos y lógicos que integran un sistema microinformático. 
+El desarrollo de los contenidos tendrá siempre una orientación prác-
+tica; el esquema habitual será:
+– Exposición de conceptos.
+– Demostración práctica de la aplicación de los mismos por parte del
+profesor.
+– Resolución de supuestos prácticos por parte de los alumnos; esta
+resolución incluirá la búsqueda e interpretación de información
+técnica y la documentación del proceso llevado a cabo.
+– Es imprescindible que el alumno realice prácticas reales de insta-
+lación y configuración de los elementos de un sistema microinfor-
+mático; el uso de simuladores tendrá un carácter complementario
+con respecto a estas prácticas.
+Módulo Profesional: Sistemas operativos monopuesto.
+Código: 0222.
+Resultados de aprendizaje y criterios de evaluación. 
+1. Reconoce las características de los sistemas de archivo, descri-
+biendo sus tipos y aplicaciones. 
+Criterios de evaluación: 
+a) Se han asimilado los conceptos y elementos básicos manejados en
+informática.
+b) Se realizan operaciones básicas con electrónica digital.
+c) Se distinguen los diferentes tipos de software y la legislación por
+la que se rigen.
+d) Se han identificado y descrito los elementos funcionales de un sis-
+tema informático. 
+e) Se ha codificado y relacionado la información en los diferentes sis-
+temas de representación. 
+f) Se han identificado los procesos y sus estados. 
+g) Se ha descrito la estructura y organización del sistema de archivos. 
+h) Se han distinguido los atributos de un archivo y un directorio. 
+i) Se han reconocido los permisos de archivos y directorios. 
+j) Se ha constatado la utilidad de los sistemas transaccionales y sus
+repercusiones al seleccionar un sistema de archivos. 
+k) Se sabe describir el ciclo de instrucción y se conocen las funciones
+de los elementos involucrados.
+l) Se han descrito los sistemas de gestión de memoria.
+m)Se han distinguido los sistemas de control de los dispositivos de E/S.
+n) Se han asimilado las características de los sistemas operativos
+multiprocesador y para sistemas distribuidos.
+2. Instala sistemas operativos, relacionando sus características con el
+hardware del equipo y el software de aplicación. 
+
+B.O.C. y L. - N.º 173
+Miércoles, 9 de septiembre 2009
+27285
+Criterios de evaluación: 
+a) Se han analizando las funciones del sistema operativo. 
+b) Se ha descrito la arquitectura del sistema operativo. 
+c) Se ha verificado la idoneidad del hardware. 
+d) Se ha seleccionado el sistema operativo. 
+e) Se ha elaborado un plan de instalación. 
+f) Se han configurado parámetros básicos de la instalación. 
+g) Se ha configurado un gestor de arranque. 
+h) Se han descrito las incidencias de la instalación. 
+i) Se han respetado las normas de utilización del software (licencias). 
+j) Se ha actualizado el sistema operativo. 
+k) Se han realizado instalaciones personalizadas, automáticas, via
+red, etc.
+l) Se han transferido configuraciones entre sistemas operativos com-
+patibles.
+m)Se han configurado los menús de arranque de los sistemas opera-
+tivos instalados.
+n) Se han utilizado herramientas para optimizar el rendimiento del
+sistema.
+3. Realiza tareas básicas de configuración de sistemas operativos,
+interpretando requerimientos y describiendo los procedimientos
+seguidos. 
+Criterios de evaluación: 
+a) Se han diferenciado los interfaces de usuario según sus propiedades. 
+b) Se han aplicado preferencias en la configuración del entorno per-
+sonal. 
+c) Se han gestionado los sistemas de archivos específicos. 
+d) Se han aplicado métodos para la recuperación del sistema operativo. 
+e) Se ha realizado la configuración para la actualización del sistema
+operativo. 
+f) Se han realizado operaciones de instalación/desinstalación de uti-
+lidades. 
+g) Se han utilizado los asistentes de configuración del sistema (acce-
+so a redes, dispositivos, entre otros). 
+h) Se han ejecutado operaciones para la automatización de tareas del
+sistema. 
+i) Se han realizados operaciones sobre el sistema operativo en la ins-
+talación y desinstalación de dispositivos.
+j) Se han instalado y comparado aplicaciones libres y propietarias
+equivalentes.
+k) Se han instalado y configurado instalaciones multimedia.
+l) Se han instalado y configurado las aplicaciones que permiten la
+interoperabilidad entre sistemas operativos.
+m)Se ha configurado el sistema operativo mediante acceso remoto.
+4. Realiza operaciones básicas de administración de sistemas opera-
+tivos, interpretando requerimientos y optimizando el sistema para
+su uso. 
+Criterios de evaluación: 
+a) Se han configurado perfiles de usuario y grupo. 
+b) Se han utilizado herramientas gráficas para describir la organiza-
+ción de los archivos del sistema. 
+c) Se ha actuado sobre los procesos del usuario en función de las
+necesidades puntuales. 
+d) Se ha actuado sobre los servicios del sistema en función de las
+necesidades puntuales. 
+e) Se han aplicado criterios para la optimización de la memoria dis-
+ponible. 
+f) Se ha analizado la actividad del sistema a partir de las trazas gene-
+radas por el propio sistema. 
+g) Se ha optimizado el funcionamiento de los dispositivos de alma-
+cenamiento. 
+h) Se han reconocido y configurado los recursos compartibles del
+sistema. 
+i) Se ha interpretado la información de configuración del sistema
+operativo. 
+j) Se han creado y administrado usuarios y grupos.
+k) Se han instalado y configurado dispositivos de impresión y otros
+dispositivos.
+l) Se han administrado los recursos compartidos del equipo.
+m)Se han elaborado archivos de órdenes para la realización de tareas
+de administración y configuración básica del sistema.
+n) Se han distribuido parches de sistema operativo a un conjunto de
+equipos remotos.
+o) Se ha gestionado de forma centralizada el inventario automático de
+equipos de una red.
+p) Se ha practicado con equipos con problemas comunes de arranque
+y se ha procedido a la recuperación de dichos equipos.
+5. Crea máquinas virtuales identificando su campo de aplicación e
+instalando software específico. 
+Criterios de evaluación: 
+a) Se ha diferenciado entre máquina real y máquina virtual. 
+b) Se han establecido las ventajas e inconvenientes de la utilización
+de máquinas virtuales. 
+c) Se ha instalado el software libre y propietario para la creación de
+máquinas virtuales. 
+d) Se han creado máquinas virtuales a partir de sistemas operativos
+libres y propietarios. 
+e) Se han configurado máquinas virtuales. 
+f) Se ha relacionado la máquina virtual con el sistema operativo anfitrión. 
+g) Se han realizado pruebas de rendimiento del sistema. 
+Duración: 231 horas.
+1. Sistemas operativos: Características y operaciones:
+– Caracterización de sistemas operativos:
+- Informática: elementos y conceptos fundamentales. Elementos físi-
+cos. Elementos lógicos. Elementos humanos. Evolución histórica.
+- Tipos de computadoras.
+- Electrónica digital básica.
+- Software: Clases. Elaboración y comercialización. Legislación.
+- La información y su representación: Codificación numérica: Siste-
+mas de numeración. Codificación alfanumérica.
+- El sistema informático.
+- Componentes físicos del sistema informático: Unidades funcionales:
+Unidad central de proceso, memoria, buses, unidades de E/S, etc. Ins-
+trucciones: Caracterización y tipos. Métodos de direccionamiento.
+Esquemas de funcionamiento e interrelación. Ciclo de instrucción.
+- Software de base de un sistema informático. 
+- Concepto de sistema operativo: Elementos y estructura del Siste-
+ma Operativo. Llamadas al sistema. Gestión planificación de
+recursos. Protección y seguridad. Diseño e implementación.
+- Funciones del sistema operativo. Recursos.
+- Utilización del sistema operativo: modo orden, modo gráfico.
+- Explotación del sistema operativo. Versiones.
+- Clasificación de los sistemas operativos.
+- Evolución de los sistemas operativos.
+- Sistemas operativos actuales.
+- Procesos del sistema operativo: Estados de los procesos. Prioridad.
+Relación entre procesos. Bloque de control de procesos. Planifica-
+dor de procesos. Algoritmos. Hilos o hebras. Sincronización y
+comunicación. Interbloqueo.
+- Gestión de memoria: Sistemas elementales. Particiones fijas y
+variables. Paginación y segmentación. Memoria virtual. Sustitu-
+ción de páginas: Algoritmos.
+- Gestión del sistema de archivos: Archivos y directorios. Realiza-
+ción del sistema de archivos. Caches de disco. Seguridad y protección.
+
+27286
+Miércoles, 9 de septiembre 2009
+B.O.C. y L. - N.º 173
+- Gestión del sistema de E / S: Controlador del E / S. Control por
+programa y por interrupciones. Acceso directo a memoria. Buffers.
+Planificación.
+- Multiprocesadores y sistemas distribuidos: Ventajas e inconve-
+nientes. Hardware de los multiprocesadores. Sistemas operativos
+para multiprocesadores y sistemas distribuidos. Servicios remotos.
+Gestión de procesos distribuidos.
+– Operación de sistemas de archivos:
+- Identificación de conceptos: sistemas de archivos, archivo, direc-
+torio, atributos, permisos.
+- Operación con archivos: nombre y extensión, comodines, atribu-
+tos, tipos. Operaciones más comunes.
+- Operación con directorios: nombre, atributos, permisos. Operacio-
+nes más comunes.
+- Estructura del sistema de archivos.
+- Selección de un sistema de archivos.
+- Tipo de sistemas de archivos y sus características.
+- Transacciones. Sistemas transaccionales.
+2. Instalación de sistemas operativos libres y propietarios:
+– Requisitos técnicos del sistema operativo.
+– Planificación de la instalación: particiones, sistema de archivos, etc.
+– Tipos de instalación: Típica y personalizada. Instalación límpia y
+actualización. Coexistencia con otros sistemas operativos. Instala-
+ciones automáticas. Instalaciones en red. Instalación por Internet.
+Replicación.
+– Transferencia de configuración entre sistemas operativos compatibles.
+– Selección de aplicaciones básicas a instalar. Instalación, desinsta-
+lación y gestión de aplicaciones.
+– Parámetros básicos de la instalación.
+– Configuración de las opciones de inicio. Menús multiarranque.
+– Optimización del rendimiento: Uso de memoria y C. P. U.
+– Administración de energia.
+3. Realización de tareas básicas sobre sistemas operativos libres y
+propietarios:
+– Arranque y parada del sistema. Sesiones.
+– Interface de usuario: tipos, propiedades y usos.
+– Configuración de las preferencias de escritorio. Personalización.
+– Estructura del árbol de directorio.
+– Compresión / descompresión.
+– Actualización del sistema operativo.
+– Instalación y configuración de hardware.
+– Agregar / Eliminar / Actualizar software al sistema operativo.
+Equivalencia y comparación de aplicaciones libres y propietarias.
+Aplicaciones multimedia.
+– Operaciones de reparación del sistema operativo.
+– Configuración de la conexión en red y a Internet. Interoperabilidad
+entre Sistemas Operativos: Acceso, recursos compartidos, etc.
+– Programación de tareas.
+– Acceso remoto.
+4. Administración de sistemas operativos libres y propietarios:
+– Gestión de perfiles de usuarios y grupos locales: Contraseñas. Cre-
+ación, seguridad y recuperación. Cuentas de usuario. Tipos. Crea-
+ción, modificación y eliminación de cuentas de usuario y de gru-
+pos. Directivas.
+– Gestión del sistema de archivos. Permisos y derechos. Asociación
+de archivos.
+– Herramientas y órdenes relacionadas para la gestión de archivos y
+directorios. Administración y búsqueda de archivos y directorios.
+– Seguridad de archivos y carpetas. Cifrado.
+– Gestión de los procesos del sistema y de usuario.
+– Utilización de la memoria del sistema.
+– Rendimiento del sistema. Seguimiento de la actividad del sistema.
+– Activación y desactivación de servicios.
+– Gestión y administración de dispositivos de almacenamiento.
+– Gestión de impresoras y de la impresión.
+– Compartición de recursos. Administración y acceso.
+– Base de datos de configuración y comportamiento del sistema ope-
+rativo, hardware instalado y aplicaciones.
+– Archivos de automatización de tareas. Archivos de órdenes.
+– Sistemas software de distribución y actualización centralizada de
+parches y paquetería software.
+– Instalación, gestión y administración de software de activos infor-
+máticos: inventario automático.
+– Recuperación de información ante problemas comunes: no arran-
+que, infección de virus, bucle de arranque. Software de recupera-
+ción de sistemas operativos monopuesto.
+5. Configuración de Máquinas virtuales:
+– Concepto de virtualización y máquina virtual: ventajas e inconve-
+nientes.
+– Software (propietario y libre) para la creación de máquinas virtua-
+les: instalación y administración.
+– Creación de máquinas virtuales para sistemas operativos propieta-
+rios y libres.
+– Configuración y utilización de máquinas virtuales.
+– Interrelación con el sistema operativo anfitrión.
+– Análisis de la actividad del sistema.
+Orientaciones metodológicas. 
+El módulo se centra en la instalación, configuración y mantenimien-
+to de sistemas operativos propietarios y libres.
+El desarrollo de los contenidos tendrá siempre una orientación prác-
+tica; el esquema habitual será:
+– Exposición de conceptos.
+– Demostración práctica de la aplicación de los mismos por parte del
+profesor.
+– Resolución de supuestos prácticos por parte de los alumnos; esta
+resolución incluirá la búsqueda e interpretación de información
+técnica y la documentación del proceso llevado a cabo.
+Es imprescindible que el alumno realice prácticas reales de instala-
+ción y configuración de sistemas operativos; el uso de simuladores tendrá
+un carácter complementario con respecto a estas prácticas.
+Módulo Profesional: Aplicaciones ofimáticas. 
+Código: 0223.
+BLOQUE A: Aplicaciones de gestión: Instalación de aplicaciones,
+Procesadores de texto, Hoja de Cálculo, Bases de datos y gestión de
+correo y agenda electrónica.
+Resultados de aprendizaje y criterios de evaluación.
+1. Instala y actualiza aplicaciones ofimáticas, interpretando especifi-
+caciones y describiendo los pasos a seguir en el proceso.
+Criterios de evaluación:
+a) Se han identificado y establecido las fases del proceso de instalación.
+b) Se han respetado las especificaciones técnicas del proceso de ins-
+talación.
+c) Se han configurado las aplicaciones según los criterios establecidos.
+d) Se han documentado las incidencias.
+e) Se han solucionado problemas en la instalación o integración con
+el sistema informático.
+f) Se han eliminado y/o añadido componentes de la instalación en el
+equipo.
+g) Se han actualizado las aplicaciones.
+h) Se han respetado las licencias software.
+i) Se han propuesto soluciones software para entornos de aplicación.
+2. Elabora documentos y plantillas, describiendo y aplicando las
+opciones avanzadas de procesadores de textos.
+
+B.O.C. y L. - N.º 173
+Miércoles, 9 de septiembre 2009
+27287
+Criterios de evaluación:
+a) Se ha personalizado las opciones de software y barra de herra-
+mientas.
+b) Se han diseñado plantillas.
+c) Se han utilizado aplicaciones y periféricos para introducir textos e
+imágenes.
+d) Se han importado y exportado documentos creados con otras apli-
+caciones y en otros formatos.
+e) Se han creado y utilizado macros en la realización de documentos.
+f) Se han elaborado manuales específicos.
+3. Elabora documentos y plantillas de cálculo, describiendo y apli-
+cando opciones avanzadas de hojas de cálculo.
+Criterios de evaluación:
+a) Se ha personalizado las opciones de software y barra de herramientas.
+b) Se han utilizado los diversos tipos de datos y referencia para cel-
+das, rangos, hojas y libros.
+c) Se han aplicado fórmulas y funciones.
+d) Se han generado y modificado gráficos de diferentes tipos.
+e) Se han empleado macros para la realización de documentos y
+plantillas.
+4. Se han importado y exportado hojas de cálculo creadas con otras
+aplicaciones y en otros formatos.
+g) Se ha utilizado la hoja de cálculo como base de datos: formularios,
+creación de listas, filtrado, protección y ordenación de datos.
+h) Se han utilizado aplicaciones y periféricos para introducir textos,
+números, códigos e imágenes.
+i) Elabora documentos con bases de datos ofimáticas describiendo y
+aplicando operaciones de manipulación de datos.
+Criterios de evaluación:
+a) Se han identificado los elementos de las bases de datos relacionales.
+b) Se han creado bases de datos ofimáticas.
+c) Se han utilizado las tablas de la base de datos (insertar, modificar
+y eliminar registros).
+d) Se han utilizado asistentes en la creación de consultas.
+e) Se han utilizado asistentes en la creación de formularios.
+f) Se han utilizado asistentes en la creación de informes.
+g) Se ha realizado búsqueda y filtrado sobre la información almacenada.
+h) Se han creado y utilizado macros.
+5. Realiza operaciones de gestión del correo y la agenda electrónica,
+relacionando necesidades de uso con su configuración.
+Criterios de evaluación:
+a) Se han descrito los elementos que componen un correo electrónico.
+b) Se han analizado las necesidades básicas de gestión de correo y
+agenda electrónica.
+c) Se han configurado distintos tipos de cuentas de correo electrónico.
+d) Se han conectado y sincronizado agendas del equipo informático
+con dispositivos móviles.
+e) Se ha operado con la libreta de direcciones.
+f) Se ha trabajado con todas las opciones de gestión de correo elec-
+trónico (etiquetas, filtros, carpetas, entre otros).
+g) Se han utilizado opciones de agenda electrónica.
+BLOQUE B: Multimedia: Imagen, video, presentaciones. Técnicas de
+asistencia al usuario.
+Resultados de aprendizaje y criterios de evaluación.
+6. Manipula imágenes digitales analizando las posibilidades de dis-
+tintos programas y aplicando técnicas de captura y edición básicas.
+Criterios de evaluación:
+a) Se han analizado los distintos formatos de imágenes.
+b) Se ha realizado la adquisición de imágenes con periféricos.
+c) Se ha trabajado con imágenes a diferentes resoluciones, según su
+finalidad.
+d) Se han empleado herramientas para la edición de imagen digital.
+e) Se han importado y exportado imágenes en diversos formatos.
+7. Manipula secuencias de vídeo analizando las posibilidades de dis-
+tintos programas y aplicando técnicas de captura y edición básicas.
+Criterios de evaluación:
+a) Se han reconocido los elementos que componen una secuencia de
+vídeo.
+b) Se han estudiado los tipos de formatos y codecs más empleados.
+c) Se han importado y exportado secuencias de vídeo.
+d) Se han capturado secuencias de vídeo con recursos adecuados.
+e) Se han elaborado vídeo tutoriales.
+8. Elabora presentaciones multimedia describiendo y aplicando nor-
+mas básicas de composición y diseño.
+Criterios de evaluación:
+a) Se han identificado las opciones básicas de las aplicaciones de pre-
+sentaciones.
+b) Se han reconocido los distintos tipos de vista asociados a una pre-
+sentación.
+c) Se han aplicado y reconocido las distintas tipografías y normas
+básicas de composición, diseño y utilización del color.
+d) Se han diseñado plantillas de presentaciones.
+e) Se han creado presentaciones.
+f) Se han utilizado periféricos para ejecutar presentaciones.
+g) Aplica técnicas de soporte en el uso de aplicaciones, identificando
+y resolviendo incidencias.
+Criterios de evaluación:
+a) Se han elaborado guías visuales con los conceptos básicos de uso
+de una aplicación.
+b) Se han identificado problemas relacionados con el uso de aplica-
+ciones ofimáticas.
+c) Se han utilizado manuales de usuario para instruir en el uso de
+aplicaciones.
+d) Se han aplicado técnicas de asesoramiento en el uso de aplicaciones.
+e) Se han realizado informes de incidencias.
+f) Se han aplicado los procedimientos necesarios para salvaguardar
+la información y su recuperación.
+g) Se han utilizado los recursos disponibles (documentación técnica,
+ayudas en línea, soporte técnico, entre otros) para solventar inci-
+dencias.
+h) Se han solventado las incidencias en el tiempo adecuado y con el
+nivel de calidad esperado.
+Duración: 264 horas.
+Contenidos:
+BLOQUE A: Aplicaciones de gestión: Instalación de aplicaciones,
+procesadores de texto, hoja de cálculo, bases de datos y gestión de correo
+y agenda electrónica.
+Duración: 165 horas.
+1. Instalación de aplicaciones:
+– Tipos de aplicaciones ofimáticas.
+– Tipos de licencias software.
+– Necesidades de los entornos de explotación.
+– Requerimiento de las aplicaciones.
+– Componentes y complementos de las aplicaciones.
+– Procedimientos de instalación y configuración.
+– Diagnóstico y resolución de problemas.
+2. Elaboración de documentos y plantillas mediante procesadores de
+texto:
+– Estilos.
+– Formularios.
+– Combinar documentos.
+– Creación y uso de plantillas.
+– Importación y exportación de documentos.
+
+27288
+Miércoles, 9 de septiembre 2009
+B.O.C. y L. - N.º 173
+– Trabajo en grupo: comparar documentos, versiones de documento,
+verificar cambios, entre otros.
+– Diseño y creación de macros. 
+– Elaboración de distintos tipos de documentos (manuales, partes de
+incidencias, entre otros).
+– Utilización de software y hardware para introducir textos e imágenes.
+3. Elaboración de documentos y plantillas mediante hojas de cálculo:
+– Estilos.
+– Utilización de fórmulas y funciones.
+– Creación de tablas y gráficos dinámicos. 
+– Uso de plantillas y asistentes.
+– Importación y exportación de hojas de cálculo.
+– Utilización de opciones de trabajo en grupo, control de versiones,
+verificación de cambios, entre otros.
+– Elaboración de distintos tipos de documentos (presupuestos, factu-
+ras, inventarios, entre otros).
+– Diseño y creación de macros. 
+4. Utilización de bases de datos ofimáticas:
+– Elementos de las bases de datos relacionales.
+– Creación de bases de datos.
+– Manejo de asistentes.
+– Búsqueda y filtrado de la información.
+– Diseño y creación de macros.
+– Lenguajes de consulta básicos.
+5. Gestión de correo y agenda electrónica:
+– Tipos de cuentas de correo electrónico.
+– Entorno de trabajo: configuración y personalización.
+– Plantillas y firmas corporativas.
+– Foros de noticias (news): configuración, uso y sincronización de
+mensajes.
+– La libreta de direcciones: importar, exportar, añadir contactos,
+crear listas de distribución, poner la lista a disposición de otras
+aplicaciones ofimáticas.
+– Gestión de correos: enviar, borrar, guardar, copias de seguridad,
+entre otros.
+– Gestión de la agenda: citas, calendario, avisos, tareas, entre otros.
+– Sincronización con dispositivos móviles. 
+BLOQUE B: Multimedia: Imagen, video, presentaciones. Técnicas de
+asistencia al usuario.
+Duración: 99 horas.
+6. Manipulación de imágenes:
+– Formatos y resolución de imágenes.
+– Manipulación de selecciones, máscaras y capas.
+– Utilización de retoque fotográfico, ajustes de imagen y de color.
+– Aplicación de filtros y efectos.
+– Importación y exportación de imágenes.
+– Utilización de dispositivos para obtener imágenes.
+7. Manipulación de videos:
+– Formatos de video. Codecs.
+– Manipulación de la línea de tiempo.
+– Selección de escenas y transiciones.
+– Introducción de títulos y audio.
+– Importación y exportación de videos. 
+8. Elaboración de presentaciones:
+– Diseño y edición de diapositivas. 
+– Formateo de diapositivas, textos y objetos.
+– Aplicación de efectos de animación y efectos de transición.
+– Aplicación de sonido y vídeo.
+– Importación y exportación de presentaciones.
+– Utilización de plantillas y asistentes. Patrones de diapositivas.
+– Diseño y creación de macros.
+– Presentación para el público: conexión a un proyector y configuración.
+– Exportación a otros formatos
+9. Aplicación de técnicas de soporte:
+– Tipos de soporte.
+– Elaboración de guías y manuales de uso de aplicaciones:
+– Creación de ficheros de ayuda.
+– Creación de guias visuales.
+– Formación al usuario.
+– Resolución de incidencias.
+Orientaciones metodológicas.
+Este módulo profesional contiene la formación necesaria para desem-
+peñar la función de instalación y explotación de aplicaciones informáticas.
+El desarrollo de los contenidos tendrá siempre una orientación prác-
+tica; el esquema habitual será:
+– Exposición de conceptos.
+– Demostración práctica de la aplicación de los mismos por parte del
+profesor.
+– Resolución de supuestos prácticos por parte de los alumnos.
+– Estudio de la documentación técnica relacionada.
+Es imprescindible que el alumno realice prácticas reales de manejo
+tanto de las aplicaciones de gestión como de las aplicaciones multimedia.
+Se abordarán los procedimientos para la instalación de aplicaciones
+ofimáticas así como su actualización, documentando los pasos a seguir.
+Como práctica final se crearán guías visuales de algunas de las apli-
+caciones utilizadas durante el desarrollo del módulo.
+Módulo Profesional: Sistemas operativos en red.
+Código: 0224.
+BLOQUE A: Explotación de un sistema operativo en red: Instalación,
+monitorización e integración.
+Resultados de aprendizaje y criterios de evaluación.
+1. Instala sistemas operativos en red describiendo sus características
+e interpretando la documentación técnica.
+Criterios de evaluación:
+a) Se ha realizado el estudio de compatibilidad del sistema informático.
+b) Se han diferenciado los modos de instalación.
+c) Se ha planificado y realizado el particionado del disco del servidor.
+d) Se han seleccionado y aplicado los sistemas de archivos.
+e) Se han seleccionado los componentes a instalar.
+f) Se han aplicado procedimientos para la automatización de instalaciones.
+g) Se han aplicado preferencias en la configuración del entorno personal.
+h) Se ha actualizado el sistema operativo en red.
+i) Se ha comprobado la conectividad del servidor con los equipos
+cliente.
+2. Realiza tareas de monitorización y uso del sistema operativo en
+red, describiendo las herramientas utilizadas e identificando las
+principales incidencias.
+Criterios de evaluación:
+a) Se han descrito las características de los programas de monitoriza-
+ción.
+b) Se han identificado problemas de rendimiento en los dispositivos
+de almacenamiento.
+c) Se ha observado la actividad del sistema operativo en red a partir
+de las trazas generadas por el propio sistema.
+d) Se han realizado tareas de mantenimiento del software instalado en
+el sistema.
+e) Se han ejecutado operaciones para la automatización de tareas del
+sistema.
+f) Se ha interpretado la información de configuración del sistema
+operativo en red.
+
+B.O.C. y L. - N.º 173
+Miércoles, 9 de septiembre 2009
+27289
+3. Realiza tareas de integración de sistemas operativos libres y pro-
+pietarios, describiendo las ventajas de compartir recursos e insta-
+lando software específico.
+Criterios de evaluación:
+a) Se ha identificado la necesidad de compartir recursos en red entre
+diferentes sistemas operativos.
+b) Se ha comprobado la conectividad de la red en un escenario hete-
+rogéneo.
+c) Se ha descrito la funcionalidad de los servicios que permiten com-
+partir recursos en red.
+d) Se han instalado y configurado servicios para compartir recursos
+en red.
+e) Se ha accedido a sistemas de archivos en red desde equipos con
+diferentes sistemas operativos.
+f) Se ha accedido a impresoras desde equipos con diferentes sistemas
+operativos.
+g) Se ha trabajado en grupo.
+h) Se han establecido niveles de seguridad para controlar el acceso
+del usuario a los recursos compartidos en red.
+i) Se ha comprobado el funcionamiento de los servicios instalados.
+BLOQUE B: Administración de un sistema operativo en red: Gestión
+de usuarios y grupos, gestión de dominios y gestión de los recursos com-
+partidos.
+Resultados de aprendizaje y criterios de evaluación.
+4. Gestiona usuarios y grupos de sistemas operativos en red, interpre-
+tando especificaciones y aplicando herramientas del sistema.
+Criterios de evaluación:
+a) Se han configurado y gestionado cuentas de usuario.
+b) Se han configurado y gestionado perfiles de usuario.
+c) Se han configurado y gestionado cuentas de equipo.
+d) Se ha distinguido el propósito de los grupos, sus tipos y ámbitos.
+e) Se han configurado y gestionado grupos.
+f) Se ha gestionado la pertenencia de usuarios a grupos.
+g) Se han identificado las características de usuarios y grupos prede-
+terminados y especiales.
+h) Se han planificado perfiles móviles de usuarios.
+i) Se han utilizado herramientas para la administración de usuarios y
+grupos, incluidas en el sistema operativo en red.
+5. Realiza tareas de gestión sobre dominios identificando necesida-
+des y aplicando herramientas de administración de dominios.
+Criterios de evaluación:
+a) Se ha identificado la función del servicio de directorio, sus ele-
+mentos y nomenclatura.
+b) Se ha reconocido el concepto de dominio y sus funciones.
+c) Se han establecido relaciones de confianza entre dominios.
+d) Se ha realizado la instalación del servicio de directorio.
+e) Se ha realizado la configuración básica del servicio de directorio.
+f) Se han utilizado agrupaciones de elementos para la creación de
+modelos administrativos.
+g) Se ha analizado la estructura del servicio de directorio.
+h) Se han utilizado herramientas de administración de dominios.
+6. Gestiona los recursos compartidos del sistema, interpretando espe-
+cificaciones y determinando niveles de seguridad.
+Criterios de evaluación:
+a) Se ha reconocido la diferencia entre permiso y derecho.
+b) Se han identificado los recursos del sistema que se van a compar-
+tir y en qué condiciones.
+c) Se han asignado permisos a los recursos del sistema que se van a
+compartir.
+d) Se han compartido impresoras en red.
+e) Se ha utilizado el entorno gráfico para compartir recursos. 
+f) Se han establecido niveles de seguridad para controlar el acceso
+del cliente a los recursos compartidos en red. 
+g) Se ha trabajado en grupo para comprobar el acceso a los recursos
+compartidos del sistema.
+Duración: 147 horas.
+Contenidos:
+BLOQUE A: Explotación de un sistema operativo en red: Instalación,
+monitorización e integración.
+Duración: 63 horas.
+1. Instalación de Sistemas Operativos en red:
+– Comprobación de los requisitos técnicos. 
+– Preparación de la instalación. Particiones y sistema de archivos.
+– Componentes. 
+– Instalación del Sistema Operativo en red. Métodos. Automatización.
+– Elaboración de la documentación sobre la instalación e incidencias.
+– Personalización del entorno en el servidor.
+– Procedimientos de actualización del Sistema Operativo en red.
+– Instalación de Sistemas Operativos en red en máquinas virtuales.
+– Instalación de Sistemas Operativos en red en equipos servidores.
+– Migración de un sistema operativo en red.
+2. Monitorización y uso del Sistema Operativo en red:
+– Arranque del Sistema Operativo en red.
+– Descripción de los fallos producidos en el arranque: posibles solu-
+ciones.
+– Utilización de herramientas para el control y seguimiento del ren-
+dimiento del Sistema Operativo en red.
+– Gestión de discos: cuotas.
+– Gestión de los procesos relativos a los servicios del Sistema Ope-
+rativo en red.
+– Automatización de las tareas del sistema.
+3. Integración de Sistemas Operativos en Red, libres y propietarios:
+– Descripción de escenarios heterogéneos.
+– Instalación, configuración y uso de servicios de red para compar-
+tir recursos.
+– Configuración de recursos compartidos en red. 
+– Seguridad de los recursos compartidos en red.
+– Utilización de redes heterogéneas.
+– Implementación de dominios en plataformas con diferentes Siste-
+mas Operativos de Red.
+BLOQUE B: Administración de un S.O. en red: gestión de usuarios y
+grupos, gestión de dominios y gestión de los recursos compartidos.
+Duración: 84 horas.
+4. Gestión de usuarios y grupos:
+– Definición de cuenta de usuario y grupo.
+– Perfiles y tipos de usuario. Perfiles móviles.
+– Gestión de grupos. Tipos y ámbitos. Propiedades.
+– Usuarios y grupos predeterminados y especiales del sistema.
+– Estrategias de utilización de grupos.
+– Gestión de cuentas de usuario. Plantillas. 
+– Gestión de cuentas de equipo. 
+– Roles.
+5. Gestión de dominios:
+– Definición de servicio de directorio y dominio.
+– Elementos del servicio de directorio.
+– Funciones del dominio.
+– Instalación de un servicio de directorio. Configuración básica.
+– Creación de dominios.
+– Objetos que administra un dominio: usuarios globales, grupos,
+equipos entre otros.
+– Creación de relaciones de confianza entre dominios.
+
+27290
+Miércoles, 9 de septiembre 2009
+B.O.C. y L. - N.º 173
+– Creación de agrupaciones de elementos: nomenclatura.
+– Utilización de herramientas para la administración de dominios.
+– Delegación de la administración.
+6. Gestión de los recursos compartidos en red:
+– Conceptos de permisos y derechos.
+– Compartir archivos y directorios a través de la red.
+– Configuración de permisos de recurso compartido.
+– Configuración de impresoras compartidas en red.
+– Seguridad en el acceso a los recursos compartidos.
+– Utilización en redes homogéneas.
+Orientaciones metodológicas.
+Este módulo profesional contiene la formación necesaria para desem-
+peñar las funciones de instalación y mantenimiento de sistemas operati-
+vos en red.
+El desarrollo de los contenidos tendrá siempre una orientación prác-
+tica; el esquema habitual será:
+– Exposición de conceptos.
+– Demostración práctica de la aplicación de los mismos por parte del
+profesor.
+– Resolución de supuestos prácticos por parte de los alumnos; esta
+resolución incluirá la búsqueda e interpretación de información
+técnica y la documentación del proceso llevado a cabo.
+Es imprescindible que el alumno realice prácticas reales de instala-
+ción de sistemas operativos en red, así como de las tareas de administra-
+ción y explotación descritas en el apartado de contenidos.
+En el módulo no se abordará la instalación y configuración de los ser-
+vicios en red que ofrece el sistema operativo, aunque sí su uso cuando las
+prácticas así lo requieran.
+Módulo Profesional: Redes locales.
+Código: 0225.
+Resultados de aprendizaje y criterios de evaluación. 
+1. Reconoce la estructura de redes locales cableadas analizando las
+características de entornos de aplicación y describiendo la funcionalidad
+de sus componentes. 
+Criterios de evaluación: 
+a) Se han descrito las principales técnicas de transmisión en una red
+local.
+b) Se han identificado los principales parámetros de la señal transmi-
+tida en una red local.
+c) Se han descrito los principios de funcionamiento de las redes locales. 
+d) Se han identificado los distintos tipos de redes. 
+e) Se han descrito los elementos de la red local y su función. 
+f) Se han identificado y clasificado los medios de transmisión. 
+g) Se ha reconocido el mapa físico de la red local. 
+h) Se han utilizado aplicaciones para representar el mapa físico de la
+red local. 
+i) Se han reconocido las distintas topologías de red. 
+j) Se han identificado estructuras alternativas. 
+2. Despliega el cableado de una red local interpretando especifica-
+ciones y aplicando técnicas de montaje. 
+Criterios de evaluación: 
+a) Se han reconocido los principios funcionales de las redes locales. 
+b) Se han identificado los distintos tipos de redes. 
+c) Se han diferenciado los medios de transmisión. 
+d) Se han reconocido los detalles del cableado de la instalación y su
+despliegue (categoría del cableado, espacios por los que discurre,
+soporte para las canalizaciones, entre otros). 
+e) Se han seleccionado y montado las canalizaciones y tubos. 
+f) Se han montado los armarios de comunicaciones y sus accesorios. 
+g) Se han montado y conexionado las tomas de usuario y paneles de
+parcheo. 
+h) Se han probado las líneas de comunicación entre las tomas de
+usuario y paneles de parcheo. 
+i) Se han etiquetado los cables y tomas de usuario. 
+j) Se ha trabajado con la calidad y seguridad requeridas. 
+3. Interconecta equipos en redes locales cableadas describiendo estándares
+de cableado y aplicando técnicas de montaje de conectores. 
+Criterios de evaluación: 
+a) Se ha interpretado el plan de montaje lógico de la red. 
+b) Se han montado los adaptadores de red en los equipos. 
+c) Se han montado conectores sobre cables (cobre y fibra) de red. 
+d) Se han montado los equipos de conmutación en los armarios de
+comunicaciones. 
+e) Se han conectado los equipos de conmutación a los paneles de parcheo. 
+f) Se ha verificado la conectividad de la instalación. 
+g) Se ha trabajado con la calidad requerida. 
+4. Instala equipos en red, describiendo sus prestaciones y aplicando
+técnicas de montaje. 
+Criterios de evaluación: 
+a) Se han identificado las características funcionales de las redes
+inalámbricas. 
+b) Se han identificado los modos de funcionamiento de las redes
+inalámbricas. 
+c) Se han instalado adaptadores y puntos de acceso inalámbrico. 
+d) Se han configurado los modos de funcionamiento y los parámetros
+básicos. 
+e) Se ha comprobado la conectividad entre diversos dispositivos y
+adaptadores inalámbricos. 
+f) Se ha instalado el software correspondiente. 
+g) Se han identificado los protocolos. 
+h) Se han configurado los parámetros básicos. 
+i) Se han aplicado mecanismos básicos de seguridad. 
+j) Se han creado y configurado VLANS. 
+5. Mantiene una red local interpretando recomendaciones de los
+fabricantes de hardware o software y estableciendo la relación
+entre disfunciones y sus causas. 
+Criterios de evaluación: 
+a) Se han identificado incidencias y comportamientos anómalos. 
+b) Se ha identificado si la disfunción es debida al hardware o al software. 
+c) Se han monitorizado las señales visuales de los dispositivos de
+interconexión. 
+d) Se han verificado los protocolos de comunicaciones. 
+e) Se ha localizado la causa de la disfunción. 
+f) Se ha restituido el funcionamiento sustituyendo equipos o elementos. 
+g) Se han solucionado las disfunciones software.0 (configurando o
+reinstalando). 
+h) Se ha elaborado un informe de incidencias. 
+6. Cumple las normas de prevención de riesgos laborales y de pro-
+tección ambiental, identificando los riesgos asociados, las medidas
+y equipos para prevenirlos. 
+Criterios de evaluación: 
+a) Se han identificado los riesgos y el nivel de peligrosidad que supo-
+nen la manipulación de los materiales, herramientas, útiles, máqui-
+nas y medios de transporte. 
+b) Se han operado las máquinas respetando las normas de seguridad. 
+c) Se han identificado las causas más frecuentes de accidentes en la
+manipulación de materiales, herramientas, máquinas de corte y
+conformado, entre otras. 
+d) Se han descrito los elementos de seguridad (protecciones, alarmas,
+pasos de emergencia, entre otros) de las máquinas y los equipos de
+protección individual (calzado, protección ocular, indumentaria,
+entre otros) que se deben emplear en las operaciones de montaje y
+mantenimiento. 
+
+B.O.C. y L. - N.º 173
+Miércoles, 9 de septiembre 2009
+27291
+e) Se ha relacionado la manipulación de materiales, herramientas y
+máquinas con las medidas de seguridad y protección personal
+requeridos. 
+f) Se han identificado las posibles fuentes de contaminación del
+entorno ambiental. 
+g) Se han clasificado los residuos generados para su retirada selectiva. 
+h) Se ha valorado el orden y la limpieza de instalaciones y equipos
+como primer factor de prevención de riesgos. 
+Duración: 264 horas.
+Contenidos:
+1. Caracterización de Redes locales: 
+– Concepto de red. Tipos de redes.
+– Técnicas de transmisión. Parámetros de la señal transmitida.
+– Redes locales. Características. Ventajas e inconvenientes. Tipos.
+Elementos de una red. Topologías. 
+– Mapa físico y lógico de una red local. 
+– Aplicaciones para representar mapas físicos.
+– Arquitecturas. Modelo OSI. 
+– Organismos de normalización.
+2. Despliegue del cableado. Identificación de elementos y espacios
+físicos de una red local: 
+– Espacios. 
+– Cuartos de comunicaciones. 
+– Armarios de comunicaciones. Paneles de parcheo. 
+– Canalizaciones. Tipos. Procedimientos de montaje. Elementos de
+sustentación y fijación. Herramientas. Seguridad en la instalación
+de canalizaciones.
+– Medios de transmisión (par trenzado, fibra óptica, entre otros).
+Características. Clasificación. 
+– Conectores y tomas de red. 
+– Conexión de tomas y paneles de parcheo. 
+– Creación de cables. Empalmes.
+– Herramientas. 
+– Recomendaciones en la instalación del cableado. 
+– Seguridad en la instalación de cableado.
+– Documentación de instalaciones: 
+- Simbología. 
+- Representación gráfica normalizada. 
+- Aplicaciones para documentación de instalaciones. 
+– Comprobación de la instalación del cableado:
+- Instrumentación y procedimientos de medida. 
+- Parámetros. Mapa de cableado. Longitud. Atenuación. Next.
+- Normativa. 
+3. Interconexión de equipos en redes locales: 
+– Adaptadores para red cableada. Funciones. Tipos y características.
+– Dispositivos de interconexión de redes. Switches y routers. Fun-
+ciones.
+– Adaptadores para redes inalámbricas. Funciones. Tipos y caracte-
+rísticas. 
+– Dispositivos de interconexión de redes inalámbricas. Puntos de
+acceso. Funciones. Criterios de ubicación. Cobertura.
+– Redes mixtas. 
+4. Instalación/ configuración de los equipos de red: 
+– Procedimientos de instalación. 
+– Direccionamiento físico. Direcciones MAC.
+– Controladores de dispositivos.
+– Protocolos. 
+– TCP/IP. Estructura. Clases IP. 
+– Direcciones IP. Ipv4. IPv6. 
+– Asignación de direcciones IP. Clases de redes IP. Máscaras de red.
+División de una red en subredes.
+– Configuración de los adaptadores de red en sistemas operativos
+libres y propietarios. 
+– Configuración básica de los dispositivos de interconexión de red
+cableada e inalámbrica.
+– Creación de redes virtuales (VLAN) mediante dispositivos de
+interconexión.
+– Seguridad básica en redes cableadas e inalámbricas. 
+5. Resolución de incidencias de una red de área local: 
+– Estrategias. Parámetros del rendimiento. 
+– Señales físicas de los dispositivos de red.
+– Incidencias físicas e incidencias lógicas en redes locales. 
+– Monitorización de redes cableadas e inalámbricas. 
+– Herramientas de diagnóstico. Comandos y programas. 
+– Documentación de incidencias.
+6. Cumplimiento de las normas de prevención de riesgos laborales y
+protección ambiental: 
+– Identificación de riesgos. 
+– Determinación de las medidas de prevención de riesgos laborales. 
+– Prevención de riesgos laborales en los procesos de montaje. 
+– Equipos de protección individual. 
+– Cumplimiento de la normativa de prevención de riesgos laborales. 
+– Cumplimiento de la normativa de protección ambiental. 
+Orientaciones metodológicas. 
+El módulo se centra en la instalación, configuración y mantenimien-
+to de los elementos físicos que integran una red local. 
+El desarrollo de los contenidos tendrá siempre una orientación prác-
+tica; el esquema habitual será:
+– Exposición de conceptos
+– Demostración práctica de la aplicación de los mismos por parte del
+profesor
+– Resolución de supuestos prácticos por parte de los alumnos; esta
+resolución incluirá la búsqueda e interpretación de información
+técnica y la documentación el proceso llevado a cabo; el uso de
+simuladores tendrá un carácter complementario con respecto a
+estas prácticas. 
+En el módulo no se abordará la instalación y explotación de sistemas
+operativos; la configuración del sistema operativo se abordará solamente
+en los aspectos imprescindibles para la integración de equipos en una red
+de área local.
+En el módulo tampoco se abordarán los servicios en red que serán tra-
+tados en el módulo de Servicios en Red; solamente se hará referencia a
+ellos cuando sea imprescindible como puede ser el caso del direcciona-
+miento IP dinámico donde se recomienda hacer referencia al servicio
+DHCP.
+Módulo Profesional: Seguridad informática.
+Código: 0226.
+Resultados de aprendizaje y criterios de evaluación. 
+1. Aplica medidas de seguridad pasiva en sistemas informáticos des-
+cribiendo características de entornos y relacionándolas con sus necesidades. 
+Criterios de evaluación: 
+a) Se ha valorado la importancia de mantener la información segura. 
+b) Se han descrito las diferencias entre seguridad física y lógica. 
+c) Se han definido las características de la ubicación física y condi-
+ciones ambientales de los equipos y servidores. 
+d) Se ha identificado la necesidad de proteger físicamente los siste-
+mas informáticos. 
+e) Se ha verificado el funcionamiento de los sistemas de alimentación
+ininterrumpida. 
+f) Se han seleccionado los puntos de aplicación de los sistemas de
+alimentación ininterrumpida. 
+
+27292
+Miércoles, 9 de septiembre 2009
+B.O.C. y L. - N.º 173
+g) Se han esquematizado las características de una política de seguri-
+dad basada en listas de control de acceso. 
+h) Se ha valorado la importancia de establecer una política de contraseñas. 
+i) Se han valorado las ventajas que supone la utilización de sistemas
+biométricos. 
+2. Gestiona dispositivos de almacenamiento describiendo los proce-
+dimientos efectuados y aplicando técnicas para asegurar la integridad de
+la información. 
+Criterios de evaluación: 
+a) Se ha interpretado la documentación técnica relativa a la política
+de almacenamiento. 
+b) Se han tenido en cuenta factores inherentes al almacenamiento de
+la información (rendimiento, disponibilidad, accesibilidad, entre
+otros). 
+c) Se han clasificado y enumerado los principales métodos de alma-
+cenamiento incluidos los sistemas de almacenamiento en red. 
+d) Se han descrito las tecnologías de almacenamiento redundante y
+distribuido. 
+e) Se han seleccionado estrategias para la realización de copias de
+seguridad. 
+f) Se ha tenido en cuenta la frecuencia y el esquema de rotación. 
+g) Se han realizado copias de seguridad con distintas estrategias. 
+h) Se han identificado las características de los medios de almacena-
+miento remotos y extraíbles. 
+i) Se han utilizado medios de almacenamiento remotos y extraíbles. 
+j) Se han creado y restaurado imágenes de respaldo de sistemas en
+funcionamiento. 
+3. Aplica mecanismos de seguridad activa describiendo sus características
+y relacionándolas con las necesidades de uso del sistema informático. 
+Criterios de evaluación: 
+a) Se han seguido planes de contingencia para actuar ante fallos de
+seguridad. 
+b) Se han clasificado los principales tipos de software malicioso. 
+c) Se han realizado actualizaciones periódicas de los sistemas para
+corregir posibles vulnerabilidades. 
+d) Se ha verificado el origen y la autenticidad de las aplicaciones que
+se instalan en los sistemas. 
+e) Se han instalado, probado y actualizado aplicaciones específicas
+para la detección y eliminación de software malicioso, tanto en el
+puerto como con sistemas centralizados.
+f) Se han aplicado técnicas de recuperación de datos. 
+4. Asegura la privacidad de la información transmitida en redes infor-
+máticas describiendo vulnerabilidades e instalando software especifico. 
+Criterios de evaluación: 
+a) Se ha identificado la necesidad de inventariar y controlar los ser-
+vicios de red. 
+b) Se ha contrastado la incidencia de las técnicas de ingeniería social
+en los fraudes informáticos y robos de información. 
+c) Se ha deducido la importancia de minimizar el volumen de tráfico
+generado por la publicidad y el correo no deseado. 
+d) Se han aplicado medidas para evitar la monitorización de redes
+cableadas. 
+e) Se han clasificado y valorado las propiedades de seguridad de los
+protocolos usados en redes inalámbricas. 
+f) Se han descrito sistemas de identificación como la firma electróni-
+ca, certificado digital, entre otros. 
+g) Se han utilizado sistemas de identificación como la firma electró-
+nica, certificado digital, entre otros. 
+h) Se ha instalado y configurado un cortafuegos en un equipo o servidor.
+5. Reconoce la legislación y normativa sobre seguridad y protección
+de datos analizando las repercusiones de su incumplimiento. 
+Criterios de evaluación: 
+a) Se ha descrito la legislación sobre protección de datos de carácter
+personal. 
+b) Se ha determinado la necesidad de controlar el acceso a la infor-
+mación personal almacenada. 
+c) Se han identificado las figuras legales que intervienen en el trata-
+miento y mantenimiento de los ficheros de datos. 
+d) Se ha contrastado la obligación de poner a disposición de las per-
+sonas los datos personales que les conciernen. 
+e) Se ha descrito la legislación actual sobre los servicios de la socie-
+dad de la información y comercio electrónico. 
+f) Se han contrastado las normas sobre gestión de seguridad de la
+información. 
+Duración: 105 horas.
+Contenidos:
+1. Aplicación de medidas de seguridad pasiva:
+– Seguridad física y seguridad lógica. Diferencias.
+– Ubicación y protección física de los equipos y servidores.
+– Sistemas de alimentación ininterrumpida.
+– Sistemas biométricos de identificación.
+2. Gestión de dispositivos de almacenamiento:
+– Almacenamiento de la información: rendimiento, disponibilidad,
+accesibilidad.
+– Almacenamiento redundante y distribuido.
+– Almacenamiento remoto y extraíble.
+– Criptografía.
+– Copias de seguridad e imágenes de respaldo.
+– Medios de almacenamiento.
+3. Aplicación de mecanismos de seguridad activa:
+– Identificación digital. Firma electrónica y certificado digital.
+– Seguridad en los protocolos para comunicaciones inalámbricas.
+– Utilización de cortafuegos en un sistema o servidor.
+– Listas de control de acceso.
+– Política de contraseñas.
+– Recuperación de datos.
+– Auditorias de seguridad.
+– Software malicioso. Clasificación. Herramientas de protección y
+desinfección.
+– Actualización de sistemas y aplicaciones.
+– Manual de seguridad y planes de contingencia.
+4. Aseguramiento de la privacidad:
+– Métodos para asegurar la privacidad de la información transmitida.
+– Fraudes informáticos y robos de información.
+– Control en la monitorización del tráfico en redes cableadas.
+– Seguridad en redes inalámbricas.
+– Sistemas de identificación: firma electrónica, certificados digitales
+y otros.
+– Cortafuegos en equipos y servidores.
+– Riesgos potenciales de los servicios de red.
+– Publicidad y correo no deseado.
+5. Cumplimiento de la legislación y de las normas sobre seguridad:
+– Legislación sobre protección de datos.
+– Legislación sobre los servicios de la sociedad de la información y
+correo electrónico.
+Orientaciones metodológicas. 
+El módulo se centra en mantener la seguridad física y lógica en siste-
+mas informáticos garantizando su integridad. 
+El desarrollo de los contenidos tendrá siempre una orientación prác-
+tica; el esquema habitual será:
+– Exposición de conceptos.
+– Demostración práctica de la aplicación de los mismos por parte del
+profesor.
+
+B.O.C. y L. - N.º 173
+Miércoles, 9 de septiembre 2009
+27293
+– Resolución de supuestos prácticos por parte de los alumnos; se
+recomienda elaborar por parte del profesor supuestos prácticos que
+alteren o bien la seguridad física o la seguridad lógica de un siste-
+ma informático y que el alumno sea capaz de interpretar la infor-
+mación que proporciona un sistema informático en esa situación y
+poder reestablecer la seguridad. Para ello es fundamental que el
+alumno comprenda la información que le proporciona la docu-
+mentación técnica, la ayuda en línea y la proporcionada por la
+monitorización de incidencias. 
+Este módulo está estrechamente relacionado con el módulo Montaje
+y mantenimiento de equipos y el módulo Sistema operativos monousua-
+rio debido a que también en ellos se hace referencia a la seguridad en un
+sistema informático. Por ello, se recomienda coordinar la impartición de
+los contenidos de estos módulos evitando repeticiones de contenidos
+innecesarias sobre todo con el módulo de Sistemas operativos monou-
+suario ya que se imparten el mismo curso.
+Módulo Profesional: Servicios en red.
+Código: 0227.
+Resultados de aprendizaje y criterios de evaluación. 
+1. Instala servicios de configuración dinámica, describiendo sus
+características y aplicaciones. 
+Criterios de evaluación: 
+a) Se ha reconocido el funcionamiento de los mecanismos automati-
+zados de configuración de los parámetros de red. 
+b) Se han identificado las ventajas que proporcionan. 
+c) Se han ilustrado los procedimientos y pautas que intervienen en
+una solicitud de configuración de los parámetros de red. 
+d) Se ha instalado un servicio de configuración dinámica de los pará-
+metros de red. 
+e) Se ha preparado el servicio para asignar la configuración básica a
+los sistemas de una red local. 
+f) Se han realizado asignaciones dinámicas y estáticas. 
+g) Se han integrado en el servicio opciones adicionales de configuración. 
+h) Se ha verificado la correcta asignación de los parámetros. 
+2. Instala servicios de resolución de nombres, describiendo sus carac-
+terísticas y aplicaciones. 
+Criterios de evaluación: 
+a) Se han identificado y descrito escenarios en los que surge la nece-
+sidad de un servicio de resolución de nombres. 
+b) Se han clasificado los principales mecanismos de resolución de
+nombres. 
+c) Se ha descrito la estructura, nomenclatura y funcionalidad de los
+sistemas de nombres jerárquicos. 
+d) Se ha instalado un servicio jerárquico de resolución de nombres. 
+e) Se ha preparado el servicio para almacenar las respuestas proce-
+dentes de servidores de redes públicas y servirlas a los equipos de
+la red local. 
+f) Se han añadido registros de nombres correspondientes a una zona
+nueva, con opciones relativas a servidores de correo y alias. 
+g) Se ha trabajado en grupo para realizar transferencias de zona entre
+dos o más servidores. 
+h) Se ha comprobado el funcionamiento correcto del servidor. 
+3. Instala servicios de transferencia de ficheros, describiendo sus
+características y aplicaciones. 
+Criterios de evaluación: 
+a) Se ha establecido la utilidad y modo de operación del servicio de
+transferencia de ficheros. 
+b) Se ha instalado un servicio de transferencia de ficheros. 
+c) Se han creado usuarios y grupos para acceso remoto al servidor. 
+d) Se ha configurado el acceso anónimo. 
+e) Se han establecido límites en los distintos modos de acceso. 
+f) Se ha comprobado el acceso al servidor, tanto en modo activo
+como en modo pasivo. 
+g) Se han realizado pruebas con clientes en línea de comandos y en
+modo gráfico. 
+4. Gestiona servidores de correo electrónico identificando requeri-
+mientos de utilización y aplicando criterios de configuración. 
+Criterios de evaluación: 
+a) Se han descrito los diferentes protocolos que intervienen en el
+envío y recogida del correo electrónico. 
+b) Se ha instalado un servidor de correo electrónico. 
+c) Se han creado cuentas de usuario y verificado el acceso de las mismas. 
+d) Se han definido alias para las cuentas de correo. 
+e) Se han aplicado métodos para impedir usos indebidos del servidor
+de correo electrónico. 
+f) Se han instalado servicios para permitir la recogida remota del
+correo existente en los buzones de usuario. 
+g) Se han usado clientes de correo electrónico para enviar y recibir
+correo. 
+5. Gestiona servidores web identificando requerimientos de utiliza-
+ción y aplicando criterios de configuración. 
+Criterios de evaluación: 
+a) Se han descrito los fundamentos y protocolos en los que se basa
+el funcionamiento de un servidor web. 
+b) Se ha instalado un servidor web. 
+c) Se han creado sitios virtuales. 
+d) Se han verificado las posibilidades existentes para discriminar el
+sitio destino del tráfico entrante al servidor. 
+e) Se ha configurado la seguridad del servidor. 
+f) Se ha comprobado el acceso de los usuarios al servidor. 
+g) Se ha diferenciado y probado la ejecución de código en el servidor
+y en el cliente. 
+h) Se han instalado módulos sobre el servidor. 
+i) Se han establecido mecanismos para asegurar las comunicaciones
+entre el cliente y el servidor. 
+6. Gestiona métodos de acceso remoto describiendo sus característi-
+cas e instalando los servicios correspondientes. 
+Criterios de evaluación: 
+a) Se han descrito métodos de acceso y administración remota de sis-
+temas. 
+b) Se ha instalado un servicio de acceso remoto en línea de comandos. 
+c) Se ha instalado un servicio de acceso remoto en modo gráfico. 
+d) Se ha comprobado el funcionamiento de ambos métodos. 
+e) Se han identificado las principales ventajas y deficiencias de cada
+uno. 
+f) Se han realizado pruebas de acceso remoto entre sistemas de dis-
+tinta naturaleza. 
+g) Se han realizado pruebas de administración remota entre sistemas
+de distinta naturaleza. 
+7. Despliega redes inalámbricas seguras justificando la configuración
+elegida y describiendo los procedimientos de implantación. 
+Criterios de evaluación: 
+a) Se ha instalado un punto de acceso inalámbrico dentro de una red
+local. 
+b) Se han reconocido los protocolos, modos de funcionamiento y
+principales parámetros de configuración del punto de acceso. 
+c) Se ha seleccionado la configuración más idónea sobre distintos
+escenarios de prueba. 
+d) Se ha establecido un mecanismo adecuado de seguridad para las
+comunicaciones inalámbricas. 
+e) Se han usado diversos tipos de dispositivos y adaptadores inalám-
+bricos para comprobar la cobertura. 
+f) Se ha instalado un encaminador inalámbrico con conexión a red
+pública y servicios inalámbricos de red local. 
+g) Se ha configurado y probado el encaminador desde los ordenado-
+res de la red local. 
+
+27294
+Miércoles, 9 de septiembre 2009
+B.O.C. y L. - N.º 173
+8. Establece el acceso desde redes locales a redes públicas identifi-
+cando posibles escenarios y aplicando software específico. 
+Criterios de evaluación: 
+a) Se ha instalado y configurado el hardware de un sistema con acce-
+so a una red privada local y a una red pública. 
+b) Se ha instalado una aplicación que actúe de pasarela entre la red
+privada local y la red pública. 
+c) Se han reconocido y diferenciado las principales características y
+posibilidades de la aplicación seleccionada. 
+d) Se han configurado los sistemas de la red privada local para acce-
+der a la red pública a través de la pasarela. 
+e) Se han establecido los procedimientos de control de acceso para
+asegurar el tráfico que se transmite a través de la pasarela. 
+f) Se han implementado mecanismos para acelerar las comunicacio-
+nes entre la red privada local y la pública. 
+g) Se han identificado los posibles escenarios de aplicación de este
+tipo de mecanismos. 
+h) Se ha establecido un mecanismo que permita reenviar tráfico de
+red entre dos o más interfaces de un mismo sistema. 
+i) Se ha comprobado el acceso a una red determinada desde los sis-
+temas conectados a otra red distinta. 
+j) Se ha implantado y verificado la configuración para acceder desde
+una red pública a un servicio localizado en una máquina de una red
+privada local.
+k) Se han instalado y configurado servicios de voz IP.
+l) Se han establecido comunicaciones internas y externas de voz IP. 
+Duración: 147 horas.
+Contenidos:
+1. Instalación de servicios de configuración dinámica de sistemas: 
+– Dirección IP, máscara de red, puerta de enlace. 
+– Dispositivos de red. 
+– Enrutadores. 
+– Redes y subredes. 
+– Difusión.
+– DHCP. Rangos, exclusiones, concesiones y reservas. 
+2. Instalación de servicios de resolución de nombres: 
+– Sistemas de nombres planos y jerárquicos. 
+– Resolutores de nombres. Proceso de resolución de nombres de
+dominio.
+– Servidores raíz. Dominios de primer nivel y sucesivos.
+– Zonas primarias y secundarias. Transferencias de zona. 
+– Tipos de registros. 
+3. Instalación de servicios de transferencia de ficheros: 
+– Usuarios y grupos. Acceso anónimo. 
+– Permisos. Cuotas. Límite de ancho de banda. 
+– Conexión de datos y conexión de control.
+– Comandos de control, autenticación, gestión y transferencia de
+ficheros. 
+– Transferencia en modo texto y binario. 
+– Modo activo y modo pasivo.
+4. Gestión de servicios de correo electrónico: 
+– Agentes y protocolo de transferencia de mensajes.
+– Cuentas de correo, alias y buzones de usuario. 
+– Reenvío de correo y correo no deseado.
+– Protocolos y servicios de descarga de correo. 
+5. Gestión de servidores web: 
+– Servidores virtuales. Nombre de encabezado de host. 
+– Identificación de un servidor virtual. 
+– Acceso anónimo y autentificado. Métodos de autentificación. 
+– Ejecución de código. Scripts de servidor y de cliente. 
+– Establecimiento de conexiones seguras.
+6. Gestión de acceso remoto: 
+– Terminales en modo texto. 
+– Terminales en modo gráfico. 
+– Protocolos de acceso. 
+– Protocolos de administración remota.
+7. Despliegue de redes inalámbricas: 
+– Puntos de acceso. 
+– Encaminadores inalámbricos. 
+– Estándares de conexión y velocidades soportadas. 
+– Identificadores de servicio.
+– Seguridad en redes inalámbricas. 
+– Conexiones punto a punto y en infraestructura. 
+– Direcciones MAC y filtrado de tráfico.
+8. Interconexión de redes privadas con redes públicas: 
+– Pasarelas a nivel de aplicación. Almacenamiento en memoria
+caché. 
+– Enrutamiento de tráfico entre interfaces de red. 
+– Cortafuegos. Filtrado de tráfico entre redes. 
+– Reenvío de puertos.
+– Voz IP. Conceptos. Instalación y configuración de voz IP.
+Orientaciones metodológicas. 
+El desarrollo de los contenidos tendrá siempre una orientación prác-
+tica; el esquema habitual será:
+– Exposición de conceptos.
+– Demostración práctica de la aplicación de los mismos por parte del
+profesor.
+– Resolución de supuestos prácticos por parte de los alumnos; esta
+resolución incluirá la búsqueda e interpretación de información
+técnica y la documentación del proceso llevado a cabo.
+Es imprescindible que el alumno realice prácticas reales que involu-
+cren la conexión de equipos reales y la instalación en los mismos de ser-
+vidores y clientes; el uso de sistemas virtualizados tendrá un carácter
+complementario con respecto a estas prácticas. 
+Como práctica final se resolverá un supuesto práctico que implique la
+instalación y configuración de todos los servicios de red que cubre el
+módulo.
+Módulo Profesional: Aplicaciones web.
+Código: 0228.
+Resultados de aprendizaje y criterios de evaluación. 
+1. Instala gestores de contenidos, identificando sus aplicaciones y
+configurándolos según requerimientos. 
+Criterios de evaluación: 
+a) Se han identificado los requerimientos necesarios para instalar
+gestores de contenidos. 
+b) Se han gestionado usuarios con roles diferentes. 
+c) Se ha personalizado la interfaz del gestor de contenidos. 
+d) Se han realizado pruebas de funcionamiento. 
+e) Se han realizado tareas de actualización del gestor de contenidos,
+especialmente las de seguridad. 
+f) Se han instalado y configurado los módulos y menús necesarios. 
+g) Se han activado y configurado los mecanismos de seguridad pro-
+porcionados por el propio gestor de contenidos. 
+h) Se han habilitado foros y establecido reglas de acceso. 
+i) Se han realizado pruebas de funcionamiento. 
+j) Se han realizado copias de seguridad de los contenidos del gestor. 
+2. Instala sistemas de gestión de aprendizaje a distancia, describien-
+do la estructura del sitio y la jerarquía de directorios generada. 
+Criterios de evaluación: 
+a) Se ha reconocido la estructura del sitio y la jerarquía de directorios
+generada. 
+b) Se han realizado modificaciones en la estética o aspecto del sitio. 
+
+B.O.C. y L. - N.º 173
+Miércoles, 9 de septiembre 2009
+27295
+c) Se han manipulado y generado perfiles personalizados. 
+d) Se ha comprobado la funcionalidad de las comunicaciones
+mediante foros, consultas, entre otros. 
+e) Se han importado y exportado contenidos en distintos formatos. 
+f) Se han realizado copias de seguridad y restauraciones. 
+g) Se han realizado informes de acceso y utilización del sitio. 
+h) Se ha comprobado la seguridad del sitio. 
+3. Instala servicios de gestión de archivos web, identificando sus
+aplicaciones y verificando su integridad. 
+Criterios de evaluación: 
+a) Se ha establecido la utilidad de un servicio de gestión de archivos
+web. 
+b) Se han descrito diferentes aplicaciones de gestión de archivos web. 
+c) Se ha instalado y adaptado una herramienta de gestión de archivos
+web. 
+d) Se han creado y clasificado cuentas de usuario en función de sus
+permisos. 
+e) Se han gestionado archivos y directorios. 
+f) Se han utilizado archivos de información adicional. 
+g) Se han aplicado criterios de indexación sobre los archivos y direc-
+torios. 
+h) Se ha comprobado la seguridad del gestor de archivos. 
+4. Instala aplicaciones de ofimática web, describiendo sus caracterís-
+ticas y entornos de uso. 
+Criterios de evaluación: 
+a) Se ha establecido la utilidad de las aplicaciones de ofimática web. 
+b) Se han descrito diferentes aplicaciones de ofimática web (proce-
+sador de textos, hoja de cálculo, entre otras). 
+c) Se han instalado aplicaciones de ofimática web. 
+d) Se han gestionado las cuentas de usuario. 
+e) Se han aplicado criterios de seguridad en el acceso de los usuarios. 
+f) Se han reconocido las prestaciones específicas de cada una de las
+aplicaciones instaladas. 
+g) Se han utilizado las aplicaciones de forma colaborativa. 
+5. Instala aplicaciones web de escritorio, describiendo sus caracterís-
+ticas y entornos de uso. 
+Criterios de evaluación: 
+a) Se han descrito diferentes aplicaciones web de escritorio. 
+b) Se han instalado aplicaciones para proveer de acceso web al ser-
+vicio de correo electrónico. 
+c) Se han configurado las aplicaciones para integrarlas con un servi-
+dor de correo. 
+d) Se han gestionado las cuentas de usuario. 
+e) Se ha verificado el acceso al correo electrónico. 
+f) Se han instalado aplicaciones de calendario web. 
+g) Se han reconocido las prestaciones específicas de las aplicaciones
+instaladas (citas, tareas, entre otras). 
+Duración: 132 horas.
+Contenidos:
+1. Instalación y administración de gestores de contenidos genéricos: 
+– Conceptos básicos. 
+– Tipos y características de gestores de contenidos.
+– Lenguajes de marcas utilizados en la web.
+– Herramientas y servicios básicos para la instalación de gestores de
+contenido.
+– Instalación en sistemas operativos libres y propietarios.
+– Creación de usuarios y grupos de usuarios.
+– Utilización del interfaz gráfico. Personalización del entorno.
+– Funcionalidades proporcionadas por el gestor de contenidos. Sin-
+dicación.
+– Funcionamiento de los gestores de contenidos.
+– Actualizaciones del gestor de contenidos.
+– Informes de accesos. 
+– Configuración de módulos y menús.
+– Mecanismos de seguridad. 
+– Creación de foros. Reglas de acceso. 
+– Copias de seguridad.
+2. Instalación y administración de sistemas de gestión de aprendizaje
+a distancia: 
+– Conceptos básicos. Tipos y características. 
+– Elementos lógicos: comunicación, materiales y actividades.
+– Instalación en sistemas operativos libres y propietarios.
+– Modos de registro. Interfaz gráfico asociado.
+– Personalización del entorno. Navegación y edición. 
+– Creación de cursos siguiendo especificaciones.
+– Gestión de usuarios y grupos.
+– Activación de funcionalidades.
+– Realización de copias de seguridad y su restauración.
+– Realización de informes.
+– Elaboración de documentación orientada a la formación de los
+usuarios.
+3. Instalación y administración de servicios de gestión de archivos
+web: 
+– Conceptos básicos. 
+– Instalación.
+– Navegación y operaciones básicas. 
+– Administración del gestor. Usuarios y permisos. Tipos de usuario.
+– Creación de recursos compartidos.
+– Creación de informes.
+– Estructura de directorios siguiendo especificaciones.
+– Comprobación de la seguridad del gestor.
+4. Instalación y administración de aplicaciones de ofimática web: 
+– Conceptos básicos.
+– Instalación. 
+– Utilización de las aplicaciones instaladas.
+– Gestión de usuarios y permisos asociados.
+– Comprobación de la seguridad.
+– Realización de informes.
+– Elaboración de documentación orientada a la formación.
+5. Instalación, administración y explotación de aplicaciones web de
+escritorio: 
+– Conceptos básicos.
+– Aplicaciones de correo web.
+– Aplicaciones de calendario web.
+– Instalación. 
+– Gestión de usuarios.
+– Utilización de las aplicaciones instaladas.
+Orientaciones metodológicas. 
+El desarrollo de los contenidos tendrá siempre una orientación prác-
+tica; el esquema habitual será:
+– Exposición de conceptos.
+– Demostración práctica de la aplicación de los mismos por parte del
+profesor.
+– Resolución de supuestos prácticos por parte de los alumnos; esta
+resolución incluirá la búsqueda e interpretación de información
+técnica y la documentación del proceso llevado a cabo.
+Es recomendable que el alumno no sea el encargado que instalar los
+servicios de red requeridos por las aplicaciones web estudiadas en el
+módulo dado que aún no conoce los conceptos y herramientas necesarias
+para dicha tarea.
+
+27296
+Miércoles, 9 de septiembre 2009
+B.O.C. y L. - N.º 173
+Por el mismo motivo, es necesario que se le abstraiga en lo posible de
+los detalles de funcionamiento de las redes subyacentes a la operativa de
+instalar, administrar y explotar las aplicaciones web.
+Es interesante que el alumno realice prácticas relacionadas con el
+soporte a usuarios y documentación dado que es uno de los campos rela-
+cionados con este módulo en los que con mayor probabilidad se desen-
+volverá en su futuro laboral.
+Es aconsejable que el profesor muestre el uso y posibilidades de las
+aplicaciones web utilizando herramientas de este tipo dentro de su labor
+docente (gestores de contenidos orientados al e-learning, gestores cola-
+borativos, etc.).
+Módulo profesional: Formación y orientación laboral.
+Código: 0229.
+BLOQUE A: Formación, Legislación y Relaciones Laborales.
+Resultados de aprendizaje y criterios de evaluación. 
+1. Selecciona oportunidades de empleo, identificando las diferentes
+posibilidades de inserción y las alternativas de aprendizaje a lo largo de
+la vida. 
+Criterios de evaluación: 
+a) Se ha valorado la importancia de la formación permanente como
+factor clave para la empleabilidad y la adaptación a las exigencias
+del proceso productivo. 
+b) Se han identificado los itinerarios formativos-profesionales rela-
+cionados con el perfil profesional del técnico en sistemas microin-
+formáticos y redes. 
+c) Se han determinado las aptitudes y actitudes requeridas para la
+actividad profesional relacionada con el perfil del título. 
+d) Se han identificado los principales yacimientos de empleo y de
+inserción laboral para el técnico en sistemas microinformáticos y
+redes. 
+e) Se han determinado las técnicas utilizadas en el proceso de bús-
+queda de empleo. 
+f) Se han previsto las alternativas de autoempleo en los sectores pro-
+fesionales relacionados con el título. 
+g) Se ha realizado la valoración de la personalidad, aspiraciones, acti-
+tudes, y formación propia para la toma de decisiones. 
+h) Se ha reconocido el acceso al empleo en igualdad de oportunida-
+des y sin discriminación.
+2. Aplica las estrategias del trabajo en equipo, valorando su eficacia
+y eficiencia para la consecución de los objetivos de la organización. 
+Criterios de evaluación: 
+a) Se han valorado las ventajas de trabajo en equipo en situaciones
+de trabajo relacionadas con el perfil del técnico en sistemas
+microinformáticos y redes locales. 
+b) Se han identificado los equipos de trabajo que pueden constituir-
+se en una situación real de trabajo. 
+c) Se han determinado las características del equipo de trabajo eficaz
+frente a los equipos ineficaces. 
+d) Se ha valorado positivamente la necesaria existencia de diversidad
+de roles y opiniones asumidos por los miembros de un equipo. 
+e) Se ha reconocido la posible existencia de conflicto entre los miem-
+bros de un grupo como un aspecto característico de las organiza-
+ciones. 
+f) Se han identificado los tipos de conflictos y sus fuentes. 
+g) Se han determinado procedimientos para la resolución del conflicto. 
+3. Ejerce los derechos y cumple las obligaciones que se derivan de las
+relaciones laborales, reconociéndolas en los diferentes contratos de
+trabajo. 
+Criterios de evaluación: 
+a) Se han identificado los conceptos básicos del Derecho del Trabajo. 
+b) Se han utilizado las fuentes del Derecho Laboral
+c) Se han distinguido los principales organismos que intervienen en
+las relaciones entre empresarios y trabajadores. 
+d) Se han determinado los derechos y obligaciones derivados de la
+relación laboral. 
+e) Se han clasificado las principales modalidades de contratación,
+identificando las medidas de fomento de la contratación para
+determinados colectivos. 
+f) Se ha analizado el recibo de salarios, identificando los principales
+elementos que lo integran.
+g) Se han identificado las causas y efectos de la modificación, sus-
+pensión y extinción de la relación laboral. 
+h) Se han valorado las medidas establecidas por la legislación vigen-
+te para la conciliación de la vida laboral y familiar. 
+i) Se han analizado las diferentes medidas de conflicto colectivo y
+los procedimientos de solución de conflictos. 
+j) Se han determinado las condiciones de trabajo pactadas en un con-
+venio colectivo aplicable a un sector profesional relacionado con
+el título de técnico en sistemas microinformáticos y redes locales. 
+k) Se han identificado las características definitorias de los nuevos
+entornos de organización del trabajo. 
+4. Determina la acción protectora del sistema de la Seguridad Social
+ante las distintas contingencias cubiertas, identificando las distin-
+tas clases de prestaciones. 
+Criterios de evaluación: 
+a) Se ha valorado el papel de la Seguridad Social como pilar esencial
+para la mejora de la calidad de vida de los ciudadanos. 
+b) Se han enumerado las diversas contingencias que cubre el sistema
+de Seguridad Social. 
+c) Se han identificado los regímenes existentes en el sistema de la
+Seguridad Social. 
+d) Se han identificado las obligaciones de empresario y trabajador
+dentro del sistema de Seguridad Social. 
+e) Se han identificado en un supuesto sencillo las bases de cotización
+de un trabajador y las cuotas correspondientes a trabajador y
+empresario. 
+f) Se han clasificado las prestaciones del sistema de Seguridad
+Social, identificando los requisitos. 
+g) Se han determinado las posibles situaciones legales de desempleo
+en supuestos prácticos sencillos. 
+h) Se ha realizado el cálculo de la duración y cuantía de una presta-
+ción por desempleo de nivel contributivo básico. 
+BLOQUE B: Prevención de Riesgos Laborales.
+5. Evalúa los riesgos derivados de su actividad, analizando las condi-
+ciones de trabajo y los factores de riesgo presentes en su entorno laboral. 
+Criterios de evaluación: 
+a) Se ha valorado la importancia de la cultura preventiva en todos los
+ámbitos y actividades de la empresa. 
+b) Se han relacionado las condiciones laborales con la salud del tra-
+bajador. 
+c) Se han clasificado los factores de riesgo en la actividad y los
+daños derivados de los mismos. 
+d) Se han identificado las situaciones de riesgo más habituales en los
+entornos de trabajo del técnico en sistemas microinformáticos y
+redes locales. 
+e) Se ha determinado la evaluación de riesgos en la empresa. 
+f) Se han determinado las condiciones de trabajo con significación
+para la prevención en los entornos de trabajo relacionados con el
+perfil profesional del técnico en sistemas microinformáticos y
+redes locales. 
+g) Se han clasificado y descrito los tipos de daños profesionales, con
+especial referencia a accidentes de trabajo y enfermedades profe-
+sionales, relacionados con el perfil profesional del técnico en sis-
+temas microinformáticos y redes locales. 
+h) Aplica las medidas de prevención y protección, analizando las
+situaciones de riesgo en el entorno laboral del técnico de sistemas
+microinformáticos y redes locales. 
+Criterios de evaluación: 
+a) Se han definido las técnicas de prevención y de protección que
+deben aplicarse para evitar los daños en su origen y minimizar sus
+consecuencias en caso de que sean inevitables. 
+
+B.O.C. y L. - N.º 173
+Miércoles, 9 de septiembre 2009
+27297
+b) Se ha analizado el significado y alcance de los distintos tipos de
+señalización de seguridad. 
+c) Se han analizado los protocolos de actuación en caso de emergencia. 
+d) Se han identificado las técnicas de clasificación de heridos en caso
+de emergencia donde existan víctimas de diversa gravedad. 
+e) Se han identificado las técnicas básicas de primeros auxilios que
+han de ser aplicadas en el lugar del accidente ante distintos tipos
+de daños y la composición y uso del botiquín. 
+f) Se han determinado los requisitos y condiciones para la vigilancia
+de la salud del trabajador y su importancia como medida de pre-
+vención. 
+g) Participa en la elaboración de un plan de prevención de riesgos en
+una pequeña empresa, identificando las responsabilidades de todos
+los agentes implicados. 
+Criterios de evaluación: 
+a) Se han determinado los principales derechos y deberes en materia
+de prevención de riesgos laborales. 
+b) Se han clasificado las distintas formas de gestión de la prevención
+en la empresa, en función de los distintos criterios establecidos en
+la normativa sobre prevención de riesgos laborales. 
+c) Se han determinado las formas de representación de los trabajado-
+res en la empresa en materia de prevención de riesgos. 
+d) Se han identificado los organismos públicos relacionados con la
+prevención de riesgos laborales. 
+e) Se ha valorado la importancia de la existencia de un plan preven-
+tivo en la empresa, que incluya la secuenciación de actuaciones a
+realizar en caso de emergencia. 
+f) Se ha definido el contenido del plan de prevención en un centro de
+trabajo relacionado con el sector profesional del técnico en siste-
+mas microinformáticos y redes locales. 
+g) Se ha proyectado un plan de emergencia y evacuación en una
+pequeña y mediana empresa (pyme). 
+Duración: 99 horas.
+Contenidos:
+BLOQUE A: Formación, Legislación y Relaciones Laborales.
+Duración: 49 horas.
+1. Búsqueda activa de empleo: 
+– Valoración de la importancia de la formación permanente para la
+trayectoria laboral y profesional del técnico en Sistemas Microin-
+formáticos y Redes. 
+– Oportunidades de aprendizaje y empleo en Europa. Programas
+europeos.
+– Valoración de la empleabilidad y adaptación como factores clave
+para responder a las exigencias del mercado laboral.
+– Análisis de los intereses, aptitudes y motivaciones personales para
+la carrera profesional. 
+– Identificación de itinerarios formativos relacionados con el técni-
+co en sistemas microinformáticos y redes. 
+– Definición y análisis del sector profesional del título de técnico en
+sistemas microinformáticos y redes. Características profesionales
+más apreciadas por empresas del sector en Castilla y León.
+– Proceso de búsqueda de empleo en pequeñas, medianas y grandes
+empresas del sector. 
+– La búsqueda de empleo. Fuentes de información.
+– Técnicas e instrumentos de búsqueda de empleo. 
+– Oportunidades autoempleo. 
+– El proceso de toma de decisiones. 
+– La igualdad de oportunidades en el acceso al empleo.
+2. Gestión del conflicto y equipos de trabajo: 
+– Valoración de las ventajas e inconvenientes del trabajo de equipo
+para la eficacia de la organización. 
+– Tipología de equipos de trabajo.
+– Equipos en la industria de sistemas microinformáticos y redes
+según las funciones que desempeñan. 
+– Formación y funcionamiento de equipos eficaces.
+– La participación en el equipo de trabajo. 
+– Técnicas de participación.
+– Identificación de roles. Barreras a la participación en el equipo.
+– Conflicto: características, fuentes y etapas. 
+– Consecuencias de los conflictos.
+– Métodos para la resolución o supresión del conflicto. 
+– La comunicación como instrumento fundamental para el trabajo en
+equipo y la negociación. Comunicación asertiva.
+3. Contrato de trabajo: 
+– El derecho del trabajo. Normas fundamentales.
+– Órganos de la administración y jurisdicción laboral.
+– Análisis de la relación laboral individual. 
+– Modalidades de contrato de trabajo y medidas de fomento de la
+contratación. 
+– Derechos y deberes derivados de la relación laboral. 
+– El tiempo de trabajo.
+– Análisis del recibo de salarios. Liquidación de haberes.
+– Modificación, suspensión y extinción del contrato de trabajo. 
+– Valoración de las medidas para la conciliación familiar y profesional.
+– Representación de los trabajadores en la empresa. 
+– Medidas de conflicto colectivo. Procedimientos de solución.
+– Análisis de un convenio colectivo aplicable al ámbito profesional
+del técnico en sistemas microinformáticos y redes. 
+– Beneficios para los trabajadores en las nuevas organizaciones: fle-
+xibilidad, beneficios sociales entre otros. 
+4. Seguridad Social, Empleo y Desempleo: 
+– Estructura del Sistema de la Seguridad Social. 
+– Determinación de las principales obligaciones de empresarios y
+trabajadores en materia de Seguridad Social: afiliación, altas, bajas
+y cotización. 
+– Situaciones protegibles en la protección por desempleo. 
+– Cálculo de bases de cotización a la Seguridad Social y determina-
+ción de cuotas en un supuesto sencillo.
+– Prestaciones de la Seguridad Social.
+– Cálculo de una prestación por desempleo de nivel contributivo
+básico.
+BLOQUE B: Prevención de Riesgos Laborales.
+Duración: 50 horas.
+5. Evaluación de riesgos profesionales: 
+– Importancia de la cultura preventiva en todas las fases de la acti-
+vidad. Sensibilización a través de las estadísticas de siniestralidad
+nacional y en Castilla y León, de la necesidad de hábitos y actua-
+ciones seguras.
+– Valoración de la relación entre trabajo y salud. 
+– El riesgo profesional.
+– Análisis de factores de riesgo. 
+– Análisis de riesgos ligados a las condiciones de seguridad. 
+– Análisis de riesgos ligados a las condiciones ambientales. 
+– Análisis de riesgos ligados a las condiciones ergonómicas y psico-
+sociales. 
+– Riesgos específicos en la industria de sistemas microinformáticos
+y redes. 
+– La evaluación de riesgos en la empresa como elemento básico de
+la actividad preventiva. 
+– Técnicas de evaluación de riesgos.
+– Condiciones de trabajo y seguridad.
+– Determinación de los posibles daños a la salud del trabajador que
+pueden derivarse de las situaciones de riesgo detectadas. Los acci-
+dentes de trabajo, las enfermedades profesionales y otras patologías.
+
+27298
+Miércoles, 9 de septiembre 2009
+B.O.C. y L. - N.º 173
+6. Aplicación de medidas de prevención y protección en la empresa: 
+– Señalización de seguridad.
+– Determinación de las medidas de prevención y protección indivi-
+dual y colectiva. 
+– Protocolo de actuación ante una situación de emergencia. 
+– Prioridades y secuencia de actuación en el lugar del accidente
+– Primeros auxilios. Conceptos básicos.
+– Aplicación de técnicas de primeros auxilios.
+– Vigilancia de la salud de los trabajadores
+– Formación de los trabajadores en materia de planes de emergencia
+y aplicación de técnicas de primeros auxilios.
+7. Planificación de la prevención de riesgos en la empresa. Preven-
+ción integrada: 
+– Marco normativo en materia de prevención de riesgos laborales.
+– Derechos y deberes en materia de prevención de riesgos laborales. 
+– Responsabilidades en materia de prevención de riesgos laborales.
+– Gestión de la prevención en la empresa. Documentación.
+– Organismos públicos relacionados con la prevención de riesgos
+laborales. 
+– Planificación de la prevención en la empresa. Documentación.
+– Definición del contenido del Plan de Prevención de un centro de
+trabajo relacionado con el sector profesional.
+– Planes de emergencia y de evacuación en entornos de trabajo. 
+– Elaboración de un plan de emergencia en una pyme. 
+– Representación de los trabajadores en materia preventiva.
+Orientaciones metodológicas. 
+Este módulo profesional contiene la formación necesaria para que el
+alumno pueda insertarse laboralmente y desarrollar su carrera profesional
+en el sector de los sistemas microinformáticos y redes. 
+La formación del módulo contribuye a alcanzar los objetivos genera-
+les n), o) y q) del ciclo formativo y las competencias q), s) y v) del título. 
+Las líneas de actuación en el proceso enseñanza-aprendizaje que per-
+miten alcanzar los objetivos del módulo versarán sobre: 
+– El manejo de las fuentes de información sobre el sistema educati-
+vo y laboral, en especial en lo referente al sector informático. 
+– La realización de pruebas de orientación y dinámicas sobre la pro-
+pia personalidad y el desarrollo de las habilidades sociales. 
+– La preparación y realización de currículos (CVs) y entrevistas de
+trabajo. 
+– La identificación de la normativa laboral que afecta a los trabaja-
+dores del sector, manejo de los contratos más comúnmente utiliza-
+dos, lectura comprensiva de los convenios colectivos de aplicación. 
+– La cumplimentación de recibos de salario de diferentes caracterís-
+ticas y otros documentos relacionados. 
+– El análisis de la Ley de Prevención de Riesgos Laborales que le
+permita la evaluación de los riesgos derivados de las actividades
+desarrolladas en el sector productivo, y colaborar en la definición
+de un plan de prevención para la empresa, así como las medidas
+necesarias que deban adoptarse para su implementación. 
+Módulo profesional: Empresa e Iniciativa Emprendedora.
+Código: 0230.
+Resultados de aprendizaje y criterios de evaluación. 
+1. Reconoce las capacidades asociadas a la iniciativa emprendedora,
+analizando los requerimientos derivados de los puestos de trabajo y de las
+actividades empresariales. 
+Criterios de evaluación: 
+a) Se ha identificado el concepto de innovación y su relación con el
+progreso de la sociedad y el aumento en el bienestar de los individuos. 
+b) Se ha analizado el concepto de cultura emprendedora y su impor-
+tancia como fuente de creación de empleo y bienestar social. 
+c) Se ha valorado la importancia de la iniciativa individual, la crea-
+tividad, la formación y la colaboración como requisitos indispen-
+sables para tener éxito en la actividad emprendedora. 
+d) Se ha analizado la capacidad de iniciativa en el trabajo de una per-
+sona empleada en una «pyme» dedicada al montaje y manteni-
+miento de los sistemas microinformáticos y redes locales. 
+e) Se ha analizado el desarrollo de la actividad emprendedora de un
+empresario que se inicie en el sector de la informática. 
+f) Se ha analizado el concepto de riesgo como elemento inevitable de
+toda actividad emprendedora. 
+g) Se ha analizado el concepto de empresario y los requisitos y acti-
+tudes necesarios para desarrollar la actividad empresarial. 
+h) Se ha descrito la estrategia empresarial relacionándola con los
+objetivos de la empresa. 
+i) Se ha definido una determinada idea de negocio del ámbito de los
+sistemas microinformáticos y redes locales, que servirá de punto
+de partida para la elaboración de un plan de empresa. 
+2. Define la oportunidad de creación de una pequeña empresa, valo-
+rando el impacto sobre el entorno de actuación e incorporando valores
+éticos. 
+Criterios de evaluación: 
+a) Se han descrito las funciones básicas que se realizan en una
+empresa y se ha analizado el concepto de sistema aplicado a la
+empresa. 
+b) Se han identificado los principales componentes del entorno gene-
+ral que rodea a la empresa; en especial el entorno económico,
+social, demográfico y cultural. 
+c) Se ha analizado la influencia en la actividad empresarial de las
+relaciones con los clientes, con los proveedores y con la compe-
+tencia como principales integrantes del entorno específico. 
+d) Se han analizado las estrategias y técnicas comerciales en una
+empresa de montaje y mantenimiento de los sistemas microinfor-
+máticos y de redes locales.
+e) Se han identificado los elementos del entorno de una pyme de
+montaje y mantenimiento de los sistemas informáticos y redes
+locales.
+f) Se han analizado los conceptos de cultura empresarial e imagen
+corporativa y su relación con los objetivos empresariales. 
+g) Se ha analizado el fenómeno de la responsabilidad social de las
+empresas y su importancia como un elemento de la estrategia
+empresarial. 
+h) Se ha elaborado el balance social de una empresa de informática,
+y se han descrito los principales costes sociales en que incurren
+estas empresas, así como los beneficios sociales que producen. 
+i) Se han identificado, en empresas de informática, prácticas que
+incorporan valores éticos y sociales. 
+j) Se ha llevado a cabo un estudio de viabilidad económica y finan-
+ciera de una «pyme» de sistemas microinformáticos y redes locales. 
+3. Realiza las actividades para la constitución y puesta en marcha de
+una empresa, seleccionando la forma jurídica e identificando las obliga-
+ciones legales asociadas. 
+Criterios de evaluación: 
+a) Se han analizado las diferentes formas jurídicas de la empresa. 
+b) Se ha especificado el grado de responsabilidad legal de los propie-
+tarios de la empresa en función de la forma jurídica elegida. 
+c) Se ha diferenciado el tratamiento fiscal establecido para las dife-
+rentes formas jurídicas de la empresa. 
+d) Se han analizado los trámites exigidos por la legislación vigente
+para la constitución de una «pyme». 
+e) Se ha realizado una búsqueda exhaustiva de las diferentes ayudas para
+la creación de empresas de informática en la localidad de referencia. 
+f) Se ha incluido en el plan de empresa todo lo relativo a la elección
+de la forma jurídica, estudio de viabilidad económico-financiera,
+trámites administrativos, ayudas y subvenciones. 
+g) Se han identificado las vías de asesoramiento y gestión adminis-
+trativa externos existentes a la hora de poner en marcha una
+«pyme». 
+
+B.O.C. y L. - N.º 173
+Miércoles, 9 de septiembre 2009
+27299
+4. Realiza actividades de gestión administrativa y financiera básica de
+una «pyme», identificando las principales obligaciones contables y fisca-
+les y cumplimentando la documentación. 
+Criterios de evaluación: 
+a) Se han analizado los conceptos básicos de contabilidad, así como
+las técnicas de registro de la información contable. 
+b) Se han descrito las técnicas básicas de análisis de la información
+contable, en especial en lo referente a la solvencia, liquidez y ren-
+tabilidad de la empresa. 
+c) Se han definido las obligaciones fiscales de una empresa de informática. 
+d) Se han diferenciado los tipos de impuestos en el calendario fiscal. 
+e) Se ha cumplimentado la documentación básica de carácter comer-
+cial y contable (facturas, albaranes, notas de pedido, letras de cam-
+bio, cheques y otros) para una «pyme» de informática, y se han
+descrito los circuitos que dicha documentación recorre en la
+empresa. 
+f) Se ha incluido la anterior documentación en el plan de empresa. 
+Duración: 63 horas.
+Contenidos:
+1. Iniciativa emprendedora: 
+– Innovación y desarrollo económico. Principales características de
+la innovación en la actividad de los sistemas microinformáticos y
+redes (materiales, tecnología, organización de la producción, etc.). 
+– El trabajo por cuenta propia como fuente de creación de empleo y
+bienestar social.
+– Responsabilidad social de la empresa.
+– Factores claves de los emprendedores: iniciativa, creatividad y for-
+mación. 
+– Desarrollo del espíritu emprendedor a través del fomento de las
+actitudes de creatividad, iniciativa, autonomía y responsabilidad.
+– La actuación de los emprendedores como empleados de una
+empresa de informática. 
+– Fomento de las capacidades emprendedoras de un trabajador por
+cuenta ajena.
+– La actuación de los emprendedores como empresarios, de una
+pequeña empresa en el sector de la informática. 
+– Análisis de las oportunidades de negocio en el sector de la informática.
+– Análisis de la capacidad para asumir riesgos del emprendedor.
+– El empresario. Requisitos para el ejercicio de la actividad empresarial. 
+– Plan de empresa: la idea de negocio en el ámbito de la informática. 
+– Búsqueda de ideas de negocio. Análisis y viabilidad de las mismas.
+2. La empresa y su entorno: 
+– Funciones básicas de la empresa. 
+– Estructura organizativa de la empresa. Organigrama.
+– La empresa como sistema. 
+– El entorno general de la empresa en los aspectos económico,
+social, demográfico y cultural.
+– Competencia. Barreras de entrada.
+– Relaciones con clientes y proveedores.
+– Variables del marketing mix: precio, producto, comunicación y
+distribución.
+– Análisis del entorno general y específico de una pyme de informática. 
+– Relaciones de una pyme de informática con su entorno. 
+– Cultura empresarial e imagen corporativa.
+– Relaciones de una pyme de informática con el conjunto de la
+sociedad. 
+– El balance social: Los costes y los beneficios sociales.
+– La ética empresarial en empresas de informática.
+3. Creación y puesta en marcha de una empresa: 
+– Tipos de empresa. 
+– Elección de la forma jurídica. 
+– La franquicia como forma de empresa.
+– Ventajas e inconvenientes de las distintas formas jurídicas con
+especial atención a la responsabilidad legal.
+– La fiscalidad en las empresas.
+– Trámites administrativos para la constitución de una empresa. 
+– Relaciones con organismos oficiales.
+– Subvenciones y ayudas destinadas a la creación de empresa del
+sector de mantenimiento de sistemas microinformáticos y redes
+locales en la localidad de referencia.
+– Viabilidad económica y viabilidad financiera de una pyme de
+informática. 
+– Plan de empresa: elección de la forma jurídica, estudio de viabili-
+dad económica y financiera, trámites administrativos y gestión de
+ayudas y subvenciones. 
+– Vías externas de asesoramiento y gestión. La ventanilla única
+empresarial.
+4. Función administrativa: 
+– Concepto de contabilidad y nociones básicas. 
+– Cuentas anuales obligatorias.
+– Análisis de la información contable. 
+– Ratios.
+– Cálculo de coste, beneficio y umbral de rentabilidad.
+– Obligaciones fiscales de las empresas. 
+– Calendario fiscal.
+– Gestión administrativa de una empresa de informática. 
+– Documentos básicos utilizados en la actividad económica de la
+empresa: nota de pedido, albarán, factura, letra de cambio, cheque
+y otros.
+– Gestión de aprovisionamiento. Valoración de existencias. Volumen
+óptimo de pedido.
+– Elaboración de un plan de empresa.
+Orientaciones metodológicas. 
+Este módulo profesional contiene la formación necesaria para des-
+arrollar la propia iniciativa en el ámbito empresarial, tanto hacia el auto-
+empleo como hacia la asunción de responsabilidades y funciones en el
+empleo por cuenta ajena. 
+La formación del módulo permite alcanzar los objetivos generales p)
+y q) del ciclo formativo, y las competencias q), u) y v) del título. 
+Las líneas de actuación en el proceso enseñanza-aprendizaje que per-
+miten alcanzar los objetivos del módulo versarán sobre: 
+– Manejo de las fuentes de información sobre el sector de la infor-
+mática, incluyendo el análisis de los procesos de innovación sec-
+torial en marcha, incluyendo el análisis de los procesos de innova-
+ción sectorial en marcha.
+– La realización de casos y dinámicas de grupo que permitan com-
+prender y valorar las actitudes de los emprendedores y ajustar la
+necesidad de los mismos al sector industrial relacionado con los
+procesos de sistemas microinformáticos y redes. 
+– La utilización de programas de gestión administrativa para
+«pymes» del sector. 
+– La realización de un proyecto de plan de empresa relacionada con
+la actividad de sistemas microinformáticos y redes y que incluya
+todas las facetas de puesta en marcha de un negocio: viabilidad,
+organización de la producción y los recursos humanos, acción
+comercial, control administrativo y financiero, así como justifica-
+ción de su responsabilidad social. 
+– Utilización de la herramienta "Aprende a Emprender."
+Módulo Profesional: Formación en centros de trabajo. 
+Código: 0231.
+Resultados de aprendizaje y criterios de evaluación. 
+1. Identifica la estructura y organización de la empresa relacionándo-
+la con la producción y comercialización de los productos y servicios que
+ofrecen. 
+
+27300
+Miércoles, 9 de septiembre 2009
+B.O.C. y L. - N.º 173
+Criterios de evaluación: 
+a) Se ha identificado la estructura organizativa de la empresa y las
+funciones de cada área de la misma. 
+b) Se han identificado los elementos que constituyen la red logística
+de la empresa: proveedores, clientes, sistemas de producción,
+almacenaje, entre otros. 
+c) Se han identificado los procedimientos y técnicas de trabajo en el
+desarrollo del proceso productivo. 
+d) Se han relacionado las competencias de los recursos humanos con
+el desarrollo de la actividad productiva. 
+e) Se ha interpretado la importancia de cada elemento de la red en el
+desarrollo de la actividad de la empresa. 
+f) Se han relacionado características del mercado, tipo de clientes y
+proveedores así como su influencia en el desarrollo de la actividad
+empresarial. 
+g) Se han identificado los canales de comercialización más frecuen-
+tes en esta actividad. 
+h) Se han reconocido las ventajas e inconvenientes de la estructura de
+la empresa frente a otro tipo de organizaciones empresariales. 
+i) Aplica hábitos éticos y laborales, desarrollando su actividad profe-
+sional de acuerdo a las características del puesto de trabajo y pro-
+cedimientos establecidos en la empresa. 
+Criterios de evaluación: 
+a) Se han reconocido y justificado: 
+– La disposición personal y temporal que necesita el puesto de
+trabajo. 
+– Las actitudes personales (puntualidad, empatía, entre otras) y
+profesionales (orden, limpieza, seguridad necesarias para el
+puesto de trabajo, responsabilidad, entre otras). 
+– Los requerimientos actitudinales ante la prevención de riesgos
+en la actividad profesional y las medidas de protección personal. 
+– Los requerimientos actitudinales referidos a la calidad en la acti-
+vidad profesional. 
+– Las actitudes relacionadas con el propio equipo de trabajo y con
+las jerarquías establecidas en la empresa. 
+– Las actitudes relacionadas con la documentación de las activi-
+dades, realizadas en el ámbito laboral. 
+– Las necesidades formativas para la inserción y reinserción labo-
+ral en el ámbito científico y técnico del buen hacer del profesional. 
+b) Se han identificado las normas de prevención de riesgos laborales
+aplicables en la actividad profesional y los aspectos fundamentales
+de la Ley de Prevención de Riesgos Laborales. 
+c) Se han aplicado y utilizado los equipos de protección individual
+según los riesgos de la actividad profesional y las normas de la
+empresa. 
+d) Se ha mantenido una actitud clara de respeto al medio ambiente en
+las actividades desarrolladas y aplicado las normas internas y
+externas vinculadas a la misma. 
+e) Se ha mantenido organizado, limpio y libre de obstáculos el pues-
+to de trabajo o el área correspondiente al desarrollo de la actividad. 
+f) Se han interpretado y cumplido las instrucciones recibidas, res-
+ponsabilizándose del trabajo asignado. 
+g) Se ha establecido una comunicación y relación eficaz con la per-
+sona responsable en cada situación y miembros de su equipo, man-
+teniendo un trato fluido y correcto. 
+ñ) Se ha coordinado con el resto del equipo para informar de cual-
+quier cambio, necesidad relevante, o imprevisto que se presente. 
+h) Se ha valorado la importancia de su actividad y la adaptación a los
+cambios de tareas asignadas en el desarrollo de los procesos pro-
+ductivos de la empresa, integrándose en las nuevas funciones. 
+i) Se ha comprometido responsablemente en la aplicación de las nor-
+mas y procedimientos en el desarrollo de cualquier actividad o
+tarea. 
+3. Monta equipos informáticos, siguiendo los procesos del sistema de
+calidad establecidos. 
+Criterios de evaluación: 
+a) Se ha interpretado la documentación técnica. 
+b) Se han ubicado, fijado y conectado los elementos y accesorios de
+los equipos. 
+c) Se ha verificado la carga del software de base. 
+d) Se han instalado periféricos. 
+e) Se ha verificado su funcionamiento. 
+f) Se ha operado con equipos y herramientas según criterios de calidad. 
+g) Se ha trabajado en grupo, mostrando iniciativa e interés. 
+4. Participa en el diagnóstico y reparación de averías aplicando técni-
+cas de mantenimiento correctivo. 
+Criterios de evaluación: 
+a) Se ha elaborado un plan de intervención para la localización de la
+avería. 
+b) Se han identificado los síntomas de las averías o disfunciones. 
+c) Se han propuesto hipótesis de las posibles causas de la avería. 
+d) Se han montado y desmontado elementos. 
+e) Se han utilizado herramientas y/o software en la reparación de la
+avería. 
+f) Se ha localizado y documentado la avería. 
+g) Se han sustituido los componentes responsables de la avería. 
+h) Instala sistemas operativos y aplicaciones respetando el plan de
+trabajo y las necesidades del cliente. 
+Criterios de evaluación: 
+a) Se han comprendido las órdenes de trabajo. 
+b) Se han realizado las operaciones de instalación del sistema opera-
+tivo y aplicaciones. 
+c) Se ha configurado el sistema operativo de acuerdo a los requeri-
+mientos. 
+d) Se ha verificado el funcionamiento del equipo después de la instalación. 
+e) Se ha cumplimentado la documentación según los procedimientos
+de la empresa. 
+f) Se han restaurado datos aplicando las normas de seguridad esta-
+blecidas. 
+6. Participa en la instalación, puesta en marcha y mantenimiento de
+pequeñas instalaciones con servicios de red local e Internet, documentan-
+do la intervención. 
+Criterios de evaluación: 
+a) Se ha interpretado documentación técnica relativa al hardware y
+al software. 
+b) Se han identificado los elementos de la instalación. 
+c) Se han montado canalizaciones. 
+d) Se han realizado y verificado conexionados. 
+e) Se han efectuado monitorizaciones de redes. 
+f) Se han instalado controladores. 
+g) Se han instalado adaptadores de comunicaciones. 
+h) Se han especificado los parámetros básicos de seguridad. 
+i) Se ha elaborado un manual de servicio y mantenimiento. 
+7. Asiste al usuario, resolviendo problemas de la explotación de apli-
+caciones, según las normas de la empresa. 
+Criterios de evaluación: 
+a) Se han identificado las necesidades del usuario. 
+b) Se han aplicado técnicas de comunicación con el usuario. 
+c) Se han realizado copias de seguridad de la información. 
+d) Se ha resuelto el problema en los tiempos indicados por la empresa. 
+e) Se ha asesorado al usuario, sobre el funcionamiento de la aplica-
+ción o equipo. 
+8. Participa en tareas de instalación, configuración o mantenimiento
+de sistemas que gestionan contenidos, aprendizaje a distancia, archivos
+entre otros, siguiendo el plan de trabajo establecido. 
+
+B.O.C. y L. - N.º 173
+Miércoles, 9 de septiembre 2009
+27301
+Criterios de evaluación: 
+a) Se ha comprendido el plan de trabajo. 
+b) Se han identificado los requerimientos necesarios. 
+c) Se han realizado copias de seguridad de la información. 
+d) Se ha desarrollado el plan de trabajo según las normas de calidad
+establecidas. 
+e) Se han documentado el desarrollo y resultado del plan de trabajo. 
+f) Se han aplicado criterios de seguridad en el acceso a la información. 
+g) Se han realizado las pruebas de funcionalidad que verifiquen los
+cambios realizados. 
+h) Se han documentado las modificaciones implantadas. 
+i) Se ha informado al usuario sobre las tareas realizadas. 
+Duración: 380 horas.
+Este módulo profesional contribuye a completar las competencias de
+este título y los objetivos generales del ciclo, tanto aquellos que se han
+alcanzado en el centro educativo, como los que son difíciles de conseguir
+en el mismo. 
+ANEXO II
+ORGANIZACIÓN Y DISTRIBUCIÓN HORARIA
+
+27302
+Miércoles, 9 de septiembre 2009
+B.O.C. y L. - N.º 173
+ANEXO III
+PROFESORADO
+A. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Sistemas Microin-
+formáticos y Redes.
+1. Artículo 12.1 del Real Decreto 1691/2007, de 14 de diciembre: «La atribución docente de los módulos profesionales que constituyen las enseñan-
+zas de este ciclo formativo corresponde al profesorado del Cuerpo de Profesores de Enseñanza Secundaria y del Cuerpo de Profesores Técnicos de For-
+mación Profesional, según proceda, de las especialidades establecidas en el Anexo III A) de este real decreto»
+B. Titulaciones equivalentes a efectos de docencia.
+Artículo 12.2 del Real Decreto 1691/2007, de 14 de diciembre: «Las
+titulaciones requeridas al profesorado de los cuerpos docentes son, con
+carácter general, las establecidas en el artículo 13 del Real Decreto
+276/2007, de 23 de febrero. Las titulaciones equivalentes, a efectos de
+docencia, a las anteriores son, para las distintas especialidades del profe-
+sorado, las recogidas en el Anexo III B) del presente real decreto».
+
+B.O.C. y L. - N.º 173
+Miércoles, 9 de septiembre 2009
+27303
+ANEXO IV
+ESPACIOS
+Espacio formativo:
+– Aula polivalente.
+– Aula técnica.
+– Taller de instalación y reparación de equipos informáticos.
+ANEXO V
+ACCESOS Y VINCULACIÓN A OTROS ESTUDIOS
+Y CORRESPONDENCIA DE MÓDULOS PROFESIONALES
+CON LAS UNIDADES DE COMPETENCIA
+A. Acceso a otros estudios.
+Artículo 13 del Real Decreto 1691/2007, de 14 de diciembre:
+«1.El título de Técnico en Sistemas Microinformáticos y Redes per-
+mite el acceso directo para cursar cualquier otro ciclo formativo de
+grado medio, en las condiciones de acceso que se establezcan. 
+2. El título de Técnico en Sistemas Microinformáticos y Redes permi-
+tirá acceder mediante prueba, con dieciocho años cumplidos, y sin per-
+juicio de la correspondiente exención, a todos los ciclos formativos de
+grado superior de la misma familia profesional y a otros ciclos formati-
+vos en los que coincida la modalidad de Bachillerato que facilite la cone-
+xión con los ciclos solicitados.
+3. El título de Técnico en Sistemas Microinformáticos y Redes permi-
+tirá el acceso a cualquiera de las modalidades de Bachillerato, de acuer-
+do con lo dispuesto en el artículo 44.1 de la Ley Orgánica 2/2006, de 3
+de mayo, de Educación, y en el artículo 16.3 del Real Decreto 1538/2006,
+de 15 de diciembre» 
+B. Convalidaciones y exenciones.
+Artículo 14 del Real Decreto 1691/2007, de 14 de diciembre:
+«1. Las convalidaciones de módulos profesionales de los títulos de
+formación profesional establecidos al amparo de la Ley Orgánica
+1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo,
+con los módulos profesionales de los títulos establecidos al amparo de la
+Ley Orgánica 2/2006, de 3 de mayo, de Educación, se establecen en el
+Anexo IV del presente real decreto. 
+C. Titulaciones requeridas para la impartición de los módulos
+profesionales que conforman el título para los centros de titularidad
+privada, de otras Administraciones distintas de la educativa y orien-
+taciones para la Administración Educativa.
+1. Artículo 12.3 del Real Decreto 1691/2007, de 14 de diciembre:
+«Las titulaciones requeridas y los requisitos necesarios para la imparti-
+ción de los módulos profesionales que conforman el título para el profe-
+sorado de los centros de titularidad privada o de titularidad pública de
+otras administraciones distintas de las educativas, se concretan en el
+Anexo III C) del presente real decreto, siempre que las enseñanzas con-
+ducentes a la titulación engloben los objetivos de los módulos profesio-
+nales o se acredite, mediante <certificación>, una experiencia laboral
+de, al menos tres años, en el sector vinculado a la familia profesional rea-
+lizando actividades productivas en empresas relacionadas implícitamen-
+te con los resultados de aprendizaje».
+
+27304
+Miércoles, 9 de septiembre 2009
+B.O.C. y L. - N.º 173
+2. Serán objeto de convalidación los módulos profesionales, comunes
+a varios ciclos formativos, de igual denominación, contenidos, objetivos
+expresados como resultados de aprendizaje, criterios de evaluación y
+similar duración. No obstante lo anterior, y de acuerdo con el artículo
+45.2 del Real Decreto 1538/2006, de 15 de diciembre, quienes hubieran
+superado el módulo profesional de Formación y orientación laboral o el
+módulo profesional de Empresa e Iniciativa Emprendedora en cualquie-
+ra de los ciclos formativos correspondientes a los títulos establecidos al
+amparo de la Ley Orgánica 2/2006, de 3 de mayo, de Educación tendrán
+convalidados dichos módulos en cualquier otro ciclo formativo estable-
+cido al amparo de la misma Ley.
+3. El módulo profesional de Formación y orientación laboral de cual-
+quier Título de formación profesional podrá ser objeto de convalidación
+siempre que se cumplan los requisitos establecidos en el artículo 45.3,
+del Real Decreto 1538/2006, de 15 de diciembre, que se acredite, al
+menos, un año de experiencia laboral, y se posea el certificado de Téc-
+nico en Prevención de Riesgos Laborales, Nivel Básico, expedido de
+acuerdo con lo dispuesto en el Real Decreto 39/1997, de 17 de enero, por
+el que se aprueba el Reglamento de los Servicios de Prevención. 
+4. De acuerdo con lo establecido en el artículo 49 del Real Decreto
+1538/2006, de 15 de diciembre, podrá determinarse la exención total o
+parcial del módulo profesional de Formación en centros de trabajo por
+su correspondencia con la experiencia laboral, siempre que se acredite
+una experiencia relacionada con este ciclo formativo en los términos
+previstos en dicho artículo». 
+C. Correspondencia de los módulos profesionales con las unida-
+des de competencia para su acreditación, convalidación o exención.
+Artículo 15 del Real Decreto 1691/2007, de 14 de diciembre:
+«1. La correspondencia de las unidades de competencia con los
+módulos profesionales que forman las enseñanzas del título de Técnico
+en Sistemas Microinformáticos y Redes para su convalidación o exención
+queda determinada en el Anexo V A) de este real decreto».
+«2. La correspondencia de los módulos profesionales que forman las
+enseñanzas del título de Técnico en Sistemas Microinformáticos y Redes
+con las unidades de competencia para su acreditación, queda determi-
+nada en el Anexo V B) de este real decreto».
+
+B.O.C. y L. - N.º 173
+Miércoles, 9 de septiembre 2009
+27305
+
+27306
+Miércoles, 9 de septiembre 2009
+B.O.C. y L. - N.º 173
+(Continúa en Fascículo Cuarto)
+Impreso en papel reciclado
+http://bocyl.jcyl.es
+DIRECCIÓN: BOLETÍN OFICIAL DE CASTILLA Y LEÓN: Calle Santiago Alba, nº 1 - 47008-Valladolid
+                     ADMINISTRACIÓN: CONSEJERÍA DE PRESIDENCIA
+Franqueo Concertado Núm.: 47/39   
+Precio ejemplar  0,81 € 
+Dept. Legal: BU 10-1979
+BOLETÍN OFICIAL DE CASTILLA Y LEÓN
+U.  T .  E. ALCAÑIZ FRESNOS S.A. Y
+SAN CRISTÓ BAL ENCUADERNACIONES S.A.
+
+AÑO XXVII 
+9 de septiembre 2009
+Núm. 173
+II.  DISPOSICIONES GENERALES
+CONSEJERÍA DE EDUCACIÓN
+DECRETO 60/2009, de 3 de septiembre, por el que se establece el currículo correspondiente
+al título de Técnico en Servicios en Restauración en la Comunidad de Castilla y León.
+Fascículo Cuarto
+
+27308
+Miércoles, 9 de septiembre 2009
+B.O.C. y L. - N.º 173
+DECRETO 60/2009, de 3 de septiembre, por el que se establece el
+currículo correspondiente al título de Técnico en Servicios en Res-
+tauración en la Comunidad de Castilla y León.
+El artículo 73.1 del Estatuto de Autonomía de Castilla y León, atri-
+buye a la Comunidad de Castilla y León la competencia de desarrollo
+legislativo y ejecución de la enseñanza en toda su extensión, niveles y
+grados, modalidades y especialidades, de acuerdo con el derecho a la edu-
+cación que todos los ciudadanos tienen, según lo establecido en el artícu-
+lo 27 de la Constitución Española y las leyes orgánicas que lo desarrollan.
+La Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de
+la Formación Profesional, establece en el artículo 10.1 que la Adminis-
+tración General del Estado, determinará los títulos y los certificados de
+profesionalidad, que constituirán las ofertas de formación profesional
+referidas al Catálogo Nacional de Cualificaciones Profesionales.
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación, determina en
+su artículo 39.6 que el Gobierno establecerá las titulaciones correspon-
+dientes a los estudios de formación profesional, así como los aspectos
+básicos del currículo de cada una de ellas.
+El Real Decreto 1538/2006, de 15 de diciembre, por el que se esta-
+blece la ordenación general de la formación profesional del sistema edu-
+cativo define en el artículo 6, la estructura de los títulos de formación pro-
+fesional, tomando como base el Catálogo Nacional de Cualificaciones
+Profesionales, las directrices fijadas por la Unión Europea y otros aspec-
+tos de interés social. El artículo 7 concreta el perfil profesional de dichos
+títulos, que incluirá la competencia general, las competencias profesiona-
+les, personales y sociales, las cualificaciones y, en su caso, las unidades
+de competencia del Catálogo Nacional de Cualificaciones Profesionales
+incluidas en los títulos.
+Por otro lado, el artículo 17 del citado Real Decreto 1538/2006, de 15
+de diciembre, dispone que las Administraciones educativas establecerán
+los currículos de las enseñanzas de formación profesional respetando lo
+en él dispuesto y en las normas que regulen los títulos respectivos.
+Posteriormente, el Real Decreto 1690/2007, de 14 de diciembre, esta-
+blece el título de Técnico en Servicios en Restauración y se fijan sus
+enseñanzas mínimas y dispone en el artículo 1, que sustituye a la regula-
+ción del título de Técnico en Servicios de Restaurante y Bar, contenido
+en el Real Decreto 2221/1993, de 17 de diciembre. 
+El presente Decreto establece el currículo correspondiente al título de
+Técnico en Servicios en Restauración en la Comunidad de Castilla y
+León teniendo en cuenta los principios generales que han de orientar la
+actividad educativa, según lo previsto en el artículo 1 de la Ley Orgánica
+2/2006, de 3 de mayo, de Educación. Se pretende dar respuesta a las nece-
+sidades generales de cualificación de los recursos humanos para su incor-
+poración a la estructura productiva de la Comunidad de Castilla y León.
+En su virtud, la Junta de Castilla y León, a propuesta del Consejero
+de Educación, previo informe del Consejo de Formación Profesional de
+Castilla y León y dictamen del Consejo Escolar de Castilla y León, y pre-
+via deliberación del Consejo de Gobierno en su reunión de 3 de septiem-
+bre de 2009
+DISPONE:
+Artículo 1.– Objeto y ámbito de aplicación.
+El presente Decreto tiene por objeto establecer el currículo corres-
+pondiente al título de Técnico en Servicios en Restauración en la Comu-
+nidad de Castilla y León, que se incorpora como Anexo I.
+Artículo 2.– Autonomía de los centros.
+1.– Los centros educativos dispondrán de la necesaria autonomía
+pedagógica, de organización y de gestión económica, para el desarrollo
+de las enseñanzas y su adaptación a las características concretas del entor-
+no socioeconómico, cultural y profesional. Los centros autorizados para
+impartir el ciclo formativo concretarán y desarrollarán el currículo
+mediante las programaciones didácticas de cada uno de los módulos pro-
+fesionales que componen el ciclo formativo en los términos establecidos
+en este Decreto en el marco general del proyecto educativo de centro y en
+función de las características de su entorno productivo. 
+2.– La Consejería competente en materia de educación favorecerá la
+elaboración de proyectos de innovación, así como de modelos de progra-
+mación docente y de materiales didácticos que faciliten al profesorado el
+desarrollo del currículo.
+3.– Los centros, en el ejercicio de su autonomía, podrán adoptar expe-
+rimentaciones, planes de trabajo, formas de organización o ampliación
+del horario escolar en los términos que establezca la Consejería compe-
+tente en materia de educación, sin que, en ningún caso, se impongan
+aportaciones a las familias ni exigencias para la misma.
+Artículo 3.– Requisitos de los centros para impartir estas enseñanzas.
+Todos los centros de titularidad pública o privada que ofrezcan ense-
+ñanzas conducentes a la obtención del título de Técnico en Servicios en
+Restauración se ajustarán a lo establecido en la Ley Orgánica 2/2006, de
+3 de mayo, de Educación y en las normas que lo desarrollen, y en todo
+caso, deberán cumplir los requisitos que se indican en el artículo 52 del
+Real Decreto 1538/2006, de 15 de diciembre, por el que se establece la
+ordenación general de la formación profesional del sistema educativo,
+además de lo establecido en su propia normativa.
+Artículo 4.– Módulo profesional de Formación en Centros de Trabajo.
+El módulo profesional de Formación en Centros de Trabajo deberá
+ajustarse a los resultados de aprendizaje y criterios de evaluación previs-
+tos en el Anexo I de este Decreto, correspondiendo a los centros educati-
+vos concretar la programación específica de cada alumno, de acuerdo con
+las características del centro del trabajo. 
+Artículo 5.– Adaptaciones curriculares.
+1.– Con objeto de ofrecer a todas las personas la oportunidad de
+adquirir una formación básica, ampliar y renovar sus conocimientos,
+habilidades y destrezas de modo permanente y facilitar el acceso a las
+enseñanzas de formación profesional, la Consejería competente en mate-
+ria de educación podrá flexibilizar la oferta del ciclo formativo de Técni-
+co en Servicios en Restauración permitiendo, principalmente a los adul-
+tos, la posibilidad de combinar el estudio y la formación con la actividad
+laboral o con otras actividades, respondiendo así a las necesidades e inte-
+reses personales.
+2.– También se podrá adecuar las enseñanzas de este ciclo formativo
+a las características de la educación a distancia, así como a las caracterís-
+ticas de los alumnos con necesidades educativas específicas.
+Artículo 6.– Enseñanzas impartidas en lenguas extranjeras o en len-
+guas cooficiales de otras Comunidades Autónomas.
+1.– Teniendo en cuenta que la promoción de la enseñanza y el apren-
+dizaje de lenguas y de la diversidad lingüística debe constituir una prio-
+ridad de la acción comunitaria en el ámbito de la educación y la forma-
+ción, la Consejería competente en materia de educación podrá autorizar
+que todos o determinados módulos profesionales del currículo se impar-
+tan en lenguas extranjeras o en lenguas cooficiales de otra Comunidad
+Autónoma, sin perjuicio de lo que se establezca al respecto en su norma-
+tiva específica y sin que ello suponga modificación de currículo estable-
+cido en el presente Decreto.
+2.– Los centros autorizados deberán incluir en su proyecto educativo
+los elementos más significativos del proyecto lingüístico autorizado.
+Artículo 7.– Oferta a distancia del título.
+1.– Los módulos profesionales que forman las enseñanzas del ciclo
+formativo de Técnico en Servicios en Restauración podrán ofertarse a
+distancia, siempre que se garantice que el alumno puede conseguir los
+resultados de aprendizaje de los mismos, de acuerdo con lo dispuesto en
+este Decreto. 
+2.– La Consejería competente en materia de educación establecerá los
+módulos profesionales susceptibles de ser impartidos a distancia y el por-
+centaje de horas de cada uno de ellos que tienen que impartirse en régi-
+men presencial.
+Artículo 8.– Organización y distribución horaria.
+Los módulos profesionales del ciclo formativo de Servicios en Res-
+tauración se organizan en dos cursos académicos. Su distribución en cada
+uno de ellos y la asignación horaria semanal se recoge en el Anexo II.
+Artículo 9.– Profesorado.
+1.– Los aspectos referentes al profesorado con atribución docente en
+los módulos profesionales del ciclo formativo de Técnico en Servicios en
+Restauración son los establecidos en el Real Decreto 1690/2007, de 14 de
+diciembre, y se reproducen en el Anexo III.
+2.– Además de lo anteriormente indicado y de conformidad con el
+artículo 4.2 del Real Decreto 1834/2008, de 8 de noviembre, por el que
+se definen las condiciones de formación para el ejercicio de la docencia
+en la educación secundaria obligatoria, el bachillerato, la formación pro-

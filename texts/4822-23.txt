@@ -1,0 +1,93 @@
+ANEXO II
+CARACTERÍSTICAS TÉCNICAS QUE DEBEN CUMPLIR 
+LOS TERMINALES PORTÁTILES PARA LA CAPTURA 
+DE DATOS E IMPRESORAS PORTÁTILES
+1.– Sellado: para evaluar el grado de resistencia de los terminales se
+utilizará el índice IP ( I n gress Protection) re c ogido en la norma UNE
+20324/1M:2000 y la UNE 20324: 1 9 9 3 , así como por la IEC (Intern a c i o n a l
+E l e c t ro t e chnical Comision) 60529. En el caso de las impre s o ras port á t i l e s ,
+no se utiliza este estándar, p e ro sí deberán presentar un diseño que resista el
+manejo y las condiciones medioambientales dura s .
+Requisitos mínimos del terminal: IP 54 mínimo. En caso de no pose-
+er clasificación IP, el fabricante o distribuidor deberá garantizar el sella-
+do frente a polvo y frente al agua pulverizada desde cualquier dirección
+hacia el terminal.
+Requisitos óptimos de la impre s o ra : resistencia frente a condiciones
+ambientales adve rs a s .
+2.– Resistencia a caídas: a l t u ra desde la que se puede caer el ap a rato sin
+s u f rir ningún daño.
+Requisitos mínimos del term i n a l : de un metro mínimo.
+Requisitos mínimos de la impre s o ra : de un metro mínimo.
+3.– Autonomía y bat e r í a :
+Requisitos mínimos del term i n a l : a u t o n o m í a , un mínimo de seis hora s .
+B at e r í a : 1.200 mAh.
+Requisitos mínimos de la impresora: autonomía, un mínimo de seis
+horas.
+B at e r í a : 1.200 mAh.
+4.– M e m o ri a :
+Requisitos mínimos del terminal con sistema operat ivo sin entorno gr á-
+fi c o : la memoria mínima RAM será de 640 KB.
+Requisitos mínimos del terminal con sistema operat ivo con entorno gr á-
+fi c o : la memoria mínima RAM será de 32 MB.
+5.– C o mu n i c a c i o n e s :
+Requisitos mínimos del term i n a l : p u e rto IrDa para comu n i c a rse con las
+i m p re s o ras y puerto serie para comu n i c a rse con la cuna de descarga de
+d atos. (Si la impre s o ra está integrada en el ap a rat o , no es necesario el puer-
+to IrDa).
+Requisitos mínimos de la impre s o ra :p u e rto IrDa para comu n i c a rse con
+el terminal port á t i l .
+6.– Te cl a d o :
+Requisitos mínimos del term i n a l : t e clas nu m é ricas y teclas de función.
+Si se trata de pantallas táctiles, d eben poder rep roducir un teclado completo
+y un teclado nu m é ri c o , o bien ofrecer la posibilidad de reconocimiento de
+c a ra c t e re s .
+7.– Au t o ap aga d o :
+Requisitos mínimos del term i n a l : a u t o ap agado para ahorro de bat e r í a .
+Requisitos mínimos de la impre s o ra : a u t o ap agado para ahorro de
+batería.
+CONSEJERÍA DE EDUCAC I Ó N
+CORRECCIÓN de erro res de la Orden EDU/1539/2004, de 6 de octubre,
+por la que se re s u e l ve la convo c at o ria de ayudas para la elab o ra c i ó n
+de re c u rsos de ap oyo y ex p e riencias innova d o ras en torno a la con -
+ve rgencia europea de la enseñanza en las Unive rsidades Públicas de
+Castilla y León para el año 2004, mediante la fo rmación de gru p o s
+p e rmanentes de trabajo y redes interu n ive rs i t a rias de pro fe s o re s .
+Advertido un error en la citada Orden publicada en el «Boletín Ofi-
+cial de Castilla y León» n.º 196, de 8 de octubre, se efectúa la oportuna
+rectificación:
+En el A n exo de la Ord e n ,p á gina 14521 del Boletín, el título del proye c-
+to subvencionado de la Unive rsidad de Salamanca, c u yo director es Ánge l
+B a l d o m e ro Espina Barrio y su re fe rencia US07/04, es «LOS ESTUDIOS
+DE A N T ROPOLOGÍA ANTE EL PROCESO DE CONVERGENCIA
+E U RO P E A » .
+Valladolid, 19 de octubre de 2004.
+AY U N TA M I E N TO DE VALLE DE SEDA N O
+( BU R G O S )
+RESOLUCIÓN de 15 de octubre de 2004, del Ayuntamiento de Valle de
+Sedano (Burgo s ) , por la que se hace p ú blica la ap robación de Escudo
+Heráldico y Bandera .
+El Excmo. Ayuntamiento de Valle de de Sedano, mediante A c u e rdo Ple-
+n a rio de fe cha 27 de nov i e m b re de 2003, ha re s u e l t o :
+Ap robar el expediente de adopción de Escudo Heráldico y Bandera
+Municipal tramitado por el Ayuntamiento de Valle de Sedano (Burgo s ) ,c o n-
+fo rme al diseño acordado y quedando organizado de la siguiente fo rm a :
+Escudo Municipal.– Pa rtido. Pri m e ro , en oro árbol de sinople terrado de
+los mismo y frutado de oro; oveja ch u rra pasante; Seg u n d o , en azur, c o l u m-
+nas y arco y capiteles románicos de plata; en punta, bastón y espada, t a m-
+bién en plat a , puestos en sotuer. Entado en punta de plat a , dos ondas de azur,
+c a rgada la dos con tru cha de plata. Bord u ra de sinople cargada con 17 estre-
+llas en oro de cinco puntas. Al timbre, c o rona real cerra d a .
+B a n d e ra Municipal.– La Bandera de Valle de Sedano ha de ser, p u e s
+c u a d rada y cuat ri c o l o r : B l a n c a , a m a ri l l a , azul y ve rd e, o rdenada de la
+siguiente manera : Campo bl a n c o , c a rgado de tres gi ro n e s , de 2/10 de base y
+s ep a rados entre sí y de los bordes 1/10 y 7/10 de largo s , ex c epto el centra l
+(azul) que será de 5/10. En su centro campeará el Escudo Municipal.
+Lo que se hace público en cumplimiento de lo dispuesto en el A rt. 8 del
+D e c reto 105/1991, de 9 de mayo , de la Consejería de Presidencia y A d m i-
+n i s t ración Te rri t o ri a l .
+S e d a n o , 15 de octubre de 2004.
+El A l c a l d e,
+F d o . : GE R M Á N D E DI E G O RE C I O
+15538
+Miércoles, 27 de octubre 2004
+B.O.C. y L. - N.º 208

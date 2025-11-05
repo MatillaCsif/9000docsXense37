@@ -1,0 +1,2642 @@
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31644
+Lunes, 31 de julio de 2017
+I. COMUNIDAD DE CASTILLA Y LEÓN
+A. DISPOSICIONES GENERALES
+CONSEJERÍA DE EDUCACIÓN
+DECRETO 15/2017, de 27 de julio, por el que se establece el currículo 
+correspondiente al título de Técnico Superior en Energías Renovables en la Comunidad 
+de Castilla y León.
+La Constitución Española reserva al Estado en el artículo 149.1.30.ª la competencia 
+exclusiva en materia de regulación de las condiciones de obtención, expedición y 
+homologación de títulos académicos y profesionales y normas básicas para el desarrollo 
+del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones 
+de los poderes públicos en esta materia.
+El Estatuto de Autonomía de Castilla y León, en su artículo 73.1, atribuye a la 
+Comunidad de Castilla y León la competencia de desarrollo legislativo y ejecución de 
+la enseñanza en toda su extensión, niveles y grados, modalidades y especialidades de 
+acuerdo con lo dispuesto en la normativa estatal.
+La Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de Formación 
+Profesional, establece en el artículo 10.1, que la Administración General del Estado 
+determinará los títulos y los certificados de profesionalidad que constituirán las ofertas de 
+formación profesional referidos al Catálogo Nacional de Cualificaciones Profesionales, y 
+en el apartado 2 que las Administraciones educativas, en el ámbito de sus competencias, 
+podrán ampliar los contenidos de los correspondientes títulos de formación profesional.
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación, tras su modificación por la 
+Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa, establece 
+en el artículo 6.bis.4 que, en relación con la formación profesional, el Gobierno fijará los 
+objetivos, competencias, contenidos, resultados de aprendizaje y criterios de evaluación 
+del currículo básico, y en el artículo 39.6 que el Gobierno establecerá las titulaciones 
+correspondientes a los estudios de formación profesional, así como los aspectos básicos 
+del currículo de cada una de ellas. 
+El Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación 
+general de la formación profesional del sistema educativo, define en el artículo 9 la estructura 
+de los títulos de formación profesional tomando como base el Catálogo Nacional de 
+Cualificaciones Profesionales, las directrices fijadas por la Unión Europea y otros aspectos 
+de interés social, y en el artículo 7 concreta los elementos que definen el perfil profesional 
+de dichos títulos, que incluirá la competencia general, las competencias profesionales, 
+personales y sociales, las cualificaciones profesionales y, en su caso, las unidades de 
+competencia, cuando se refieran al Catálogo Nacional de Cualificaciones Profesionales 
+incluidas en los títulos. Por otro lado, en el artículo 8.2, dispone que las Administraciones 
+educativas establecerán los currículos correspondientes respetando lo en él dispuesto y 
+en las normas que regulen las diferentes enseñanzas de formación profesional.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31645
+Lunes, 31 de julio de 2017
+El Real Decreto 385/2011, de 18 de marzo, establece el título de Técnico Superior 
+en Energías Renovables y se fijan sus enseñanzas mínimas.
+El presente decreto establece el currículo correspondiente al título de Técnico 
+Superior en Energías Renovables en la Comunidad de Castilla y León, teniendo en cuenta 
+los principios generales que han de orientar la actividad educativa según lo previsto 
+en el artículo 1 de la Ley Orgánica 2/2006, de 3 de mayo, y pretende dar respuesta a 
+las necesidades generales de cualificación de los recursos humanos en el sector de la 
+generación de energía eléctrica con energías renovables.
+En el proceso de elaboración de este decreto se ha recabado dictamen del Consejo 
+Escolar de Castilla y León e informe del Consejo de Formación Profesional de Castilla 
+y León.
+En su virtud, la Junta de Castilla y León, a propuesta del Consejero de Educación, de 
+acuerdo con el dictamen del Consejo Consultivo de Castilla y León, y previa deliberación 
+del Consejo de Gobierno en su reunión de 27 de julio de 2017
+DISPONE
+Artículo 1. Objeto y ámbito de aplicación.
+El presente decreto tiene por objeto establecer el currículo correspondiente al título 
+de Técnico Superior en Energías Renovables en la Comunidad de Castilla y León. 
+Artículo 2. Identificación del título y referentes de formación.
+1. El título de Técnico Superior en Energías Renovables queda identificado en la 
+Comunidad de Castilla y León por los elementos determinados en el artículo 2 del Real 
+Decreto 385/2011, de 18 de marzo, por el que se establece el citado título y se fijan sus 
+enseñanzas mínimas, y por un código, de la forma siguiente:
+FAMILIA PROFESIONAL: Energía y Agua.
+DENOMINACIÓN: Energías Renovables.
+NIVEL: Formación Profesional de Grado Superior.
+DURACIÓN: 2.000 horas.
+REFERENTE EUROPEO: CINE-5b (Clasificación Internacional Normalizada de la 
+Educación).
+CÓDIGO: ENA03S.
+2. El currículo del ciclo formativo que conduce al título de Técnico Superior en 
+Energías Renovables tomará como referentes de formación los aspectos relativos al 
+perfil profesional del título determinado por la competencia general, las competencias 
+profesionales, personales y sociales, y la relación de cualificaciones y unidades de 
+competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título, 
+así como los aspectos referentes al entorno profesional y la prospectiva del título en 
+el sector o sectores, establecidos en los artículos 3 a 8 del Real Decreto 385/2011, de 
+18 de marzo.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31646
+Lunes, 31 de julio de 2017
+Artículo 3. Módulos profesionales del ciclo formativo.
+Los módulos profesionales que componen el ciclo formativo que conduce a la 
+obtención del título de Técnico Superior en Energías Renovables serán los que se 
+establecen en el artículo 10 del Real Decreto 385/2011, de 18 de marzo, y que se indican 
+a continuación: 
+0668. Sistemas eléctricos en centrales.
+0669. Subestaciones eléctricas.
+0670. Telecontrol y automatismos.
+0671. Prevención de riesgos eléctricos.
+0680. Sistemas de energías renovables.
+0681. Configuración de instalaciones solares fotovoltaicas.
+0682. Gestión del montaje de instalaciones solares fotovoltaicas.
+0683. Gestión del montaje de parques eólicos.
+0684. Operación y mantenimiento de parques eólicos.
+0686. Proyecto de energías renovables.
+0687. Formación y orientación laboral.
+0688. Empresa e iniciativa emprendedora. 
+0689. Formación en centros de trabajo.
+Artículo 4. Objetivos, contenidos, duración y orientaciones pedagógicas y 
+metodológicas de cada módulo profesional.
+1. Los objetivos de los módulos profesionales relacionados en el artículo 3, 
+expresados en términos de resultados de aprendizaje, y los criterios de evaluación, son 
+los que se establecen en el anexo I del Real Decreto 385/2011, de 18 de marzo.
+2. Por su parte, los contenidos, la duración y las orientaciones pedagógicas y 
+metodológicas de los módulos profesionales relacionados en el artículo 3 son los que 
+se establecen en el Anexo I de este decreto, excepto el módulo profesional «Proyecto 
+de energías renovables» sobre el que el citado anexo solo determina la duración y las 
+orientaciones pedagógicas y metodológicas, y el módulo profesional «Formación en 
+centros de trabajo» sobre el que solo determina la duración.
+Artículo 5. Módulo profesional de «Formación en centros de trabajo» y «Proyecto de 
+energías renovables».
+1. El programa formativo del módulo profesional «Formación en centros de trabajo» 
+se particularizará para cada alumno y se elaborará teniendo en cuenta las características 
+del centro de trabajo. Deberá recoger las actividades formativas que permitan ejecutar 
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31647
+Lunes, 31 de julio de 2017
+o completar la competencia profesional correspondiente al título, los resultados de 
+aprendizaje y los criterios de evaluación previstos en el Anexo I Real Decreto 385/2011, 
+de 18 de marzo.
+2. El módulo profesional de «Proyecto de energías renovables» se definirá de 
+acuerdo con las características de la actividad laboral del ámbito del ciclo formativo y con 
+aspectos relativos al ejercicio profesional y a la gestión empresarial. Tendrá por objeto la 
+integración de las diversas capacidades y conocimientos del currículo del ciclo formativo, 
+contemplará las variables tecnológicas y organizativas relacionadas con el título, y deberá 
+ajustarse a los resultados de aprendizaje y criterios de evaluación previstos en el anexo I 
+del Real Decreto 385/2011, de 18 de marzo.
+El departamento de la familia profesional de Energía y Agua determinará, en el marco 
+de la programación general anual, los proyectos que se propondrán para su desarrollo por 
+el alumnado. Los proyectos también podrán ser propuestos por el alumnado, en cuyo caso 
+se requerirá la aceptación del departamento.
+Con carácter general, el módulo profesional «Proyecto de energías renovables» se 
+desarrollará simultáneamente al módulo profesional «Formación en centros de trabajo», 
+salvo que concurran otras circunstancias que no lo permitan. 
+Artículo 6. Organización y distribución de los módulos profesionales. 
+1. Los módulos profesionales que forman las enseñanzas del ciclo formativo de 
+técnico superior en energías renovables, cuando se oferten en régimen presencial, se 
+organizan en dos cursos académicos. Su distribución en cada uno de los cursos y la 
+asignación horaria semanal se recoge en el Anexo II de este decreto.
+2. El período de realización del módulo profesional de «Formación en centros de 
+trabajo» establecido en el Anexo II para el tercer trimestre, podrá comenzar en el segundo 
+trimestre si han transcurrido veintidós semanas lectivas a contar desde el inicio del curso 
+escolar.
+Artículo 7. Metodología.
+1. La metodología didáctica aplicada al ciclo formativo de técnico superior en 
+energías renovables integrará los aspectos científicos, tecnológicos y organizativos que 
+en cada caso correspondan, con el fin de que el alumnado adquiera una visión global de 
+los procesos productivos propios de la actividad profesional.
+2. En el desarrollo de las enseñanzas correspondientes al ciclo formativo se deben 
+aplicar metodologías activas de aprendizaje que favorezcan: 
+a)	La participación, implicación y compromiso del alumnado en las tareas y su 
+resolución de una manera creativa, innovadora y autónoma, estimulando su 
+motivación.
+b)	La realización de proyectos o actividades coordinadas en los que intervengan 
+diferentes módulos interrelacionando aquellos que permitan completar las 
+competencias profesionales del ciclo formativo.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31648
+Lunes, 31 de julio de 2017
+c)	 La evaluación de las actitudes que el profesorado considere imprescindibles para 
+el desempeño de una profesión y la integración en una sociedad cívica y ética.
+d)	La adquisición de competencias, tanto técnicas asociadas a los módulos 
+profesionales que configuran el ciclo formativo, como interpersonales o sociales 
+(competencia digital, trabajo colaborativo, en equipo o cooperativo, otros). 
+e)	El desarrollo de trabajos en el aula que versen sobre actividades que supongan 
+al alumnado el ensayo de rutinas y destrezas de pensamiento y ejecución de 
+tareas que simulen el ambiente real de trabajo en torno al perfil profesional del 
+título, apoyándose en un aprendizaje basado en proyectos, retos o la resolución 
+de problemas complejos que estimulen al alumnado.
+f)	 La comprobación del nivel adquirido por el alumnado en las competencias 
+asociadas al módulo profesional cursado, mediante la elaboración de pruebas 
+con un componente práctico que evidencie dicho desempeño profesional. 
+Artículo 8. Adaptaciones metodológicas y curriculares.
+1. Con objeto de ofrecer a todas las personas la oportunidad de adquirir una 
+formación básica, ampliar y renovar sus conocimientos, habilidades y destrezas de modo 
+permanente y facilitar el acceso a las enseñanzas de formación profesional, la consejería 
+competente en materia de educación podrá flexibilizar la oferta del ciclo formativo de 
+técnico superior en energías renovables permitiendo, principalmente a las personas 
+adultas, la posibilidad de combinar el estudio y la formación con la actividad laboral o con 
+otras actividades, respondiendo así a las necesidades e intereses personales.
+2. También se podrá adecuar las enseñanzas de este ciclo formativo a las 
+características de la educación a distancia, así como a las características del alumnado 
+con necesidades específicas de apoyo educativo para que se garantice su acceso, 
+permanencia y progresión en el ciclo formativo.
+Artículo 9. Requisitos de los centros para impartir estas enseñanzas.
+Todos los centros de titularidad pública o privada que ofrezcan enseñanzas 
+conducentes a la obtención del título de Técnico Superior en Energías Renovables se 
+ajustarán a lo establecido en la Ley Orgánica 2/2006, de 3 de mayo, de Educación y 
+en las normas que lo desarrollen, y en todo caso, deberán cumplir los requisitos que se 
+establecen en el artículo 46 del Real Decreto 1147/2011, de 29 de julio, por el que se 
+establece la ordenación general de la formación profesional del sistema educativo, en 
+el Real Decreto 385/2011, de 18 de marzo, en este decreto, y en lo establecido en la 
+normativa que los desarrolle.
+Artículo 10. Profesorado. 
+Los aspectos referentes al profesorado con atribución docente en los módulos 
+profesionales del ciclo formativo de técnico superior en energías renovables, relacionados 
+en el artículo 3, son los establecidos en el artículo 12 del Real Decreto 385/2011, de 
+18 de marzo.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31649
+Lunes, 31 de julio de 2017
+Artículo 11. Espacios y equipamientos. 
+Los espacios y equipamientos necesarios para el desarrollo de las enseñanzas 
+del ciclo formativo de técnico superior en energías renovables son los establecidos en el 
+artículo 11 del Real Decreto 385/2011, de 18 de marzo.
+Artículo 12. Accesos y vinculación a otros estudios, y correspondencia de módulos 
+profesionales con las unidades de competencia.
+El acceso y vinculación a otros estudios, y la correspondencia de los módulos 
+profesionales con las unidades de competencia son los que se establecen en el capítulo IV 
+del Real Decreto 385/2011, de 18 de marzo.
+Artículo 13. Autonomía de los centros.
+1. Los centros educativos dispondrán de la necesaria autonomía pedagógica, de 
+organización y de gestión económica, para el desarrollo de las enseñanzas del ciclo 
+formativo de técnico superior en energías renovables, y su adaptación a las características 
+concretas del entorno socioeconómico, cultural y profesional. 
+2. Los centros autorizados para impartir el ciclo formativo concretarán y desarrollarán 
+el currículo mediante las programaciones didácticas de cada uno de los módulos 
+profesionales que componen el ciclo formativo en los términos establecidos en el Real 
+Decreto 385/2011, de 18 de marzo, en este decreto, en el marco general del proyecto 
+educativo de centro y en función de las características de su entorno productivo. 
+Las programaciones didácticas incluirán, al menos, los aspectos siguientes: 
+a)	Los objetivos del módulo profesional: Objetivos generales del currículo que 
+desarrolla el módulo y las competencias profesionales, personales y sociales 
+vinculadas al módulo. 
+b)	Las competencias y contenidos de carácter transversal.
+c)	 La organización, secuenciación y temporalización de las unidades didácticas, 
+indicando los contenidos mínimos de referencia.
+d)	La duración de los contenidos de prevención de riesgos laborales de nivel básico 
+en función del sector, de acuerdo con lo establecido en el artículo 35 del Real 
+Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de los 
+Servicios de Prevención.
+e)	La metodología didáctica.
+f)	 Los criterios de evaluación y calificación del módulo y resultados de aprendizaje 
+mínimos exigibles para obtener la evaluación positiva en el módulo profesional.
+g)	Los procedimientos e instrumentos de evaluación. Actividades de recuperación, 
+pérdida de evaluación continua y reclamaciones.
+h)	La atención a la diversidad y, en su caso, adaptación de acceso al currículo.
+i)	 Las actividades complementarias y extraescolares relacionadas con el módulo 
+profesional. 
+j)	 Los materiales y recursos didácticos.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31650
+Lunes, 31 de julio de 2017
+3. La consejería competente en materia de educación favorecerá la elaboración de 
+proyectos de innovación, así como de modelos de programación docente y de materiales 
+didácticos que faciliten al profesorado el desarrollo del currículo.
+4. De conformidad con el artículo 120.4 de la Ley Orgánica 2/2006, de 3 de mayo, 
+los centros, en el ejercicio de su autonomía, podrán adoptar experimentaciones, planes de 
+trabajo, formas de organización, normas de convivencia y ampliación del calendario escolar 
+o del horario lectivo de áreas o materias, en los términos que establezca la consejería 
+competente en materia de educación y dentro de las posibilidades que permita la normativa 
+aplicable, incluida la laboral, sin que, en ningún caso, se impongan aportaciones a las 
+familias ni exigencias para la citada consejería. 
+Artículo 14. Enseñanzas impartidas en lenguas extranjeras o en lenguas cooficiales 
+de otras comunidades autónomas.
+1. Teniendo en cuenta que la promoción de la enseñanza y el aprendizaje de lenguas 
+y de la diversidad lingüística debe de constituir una prioridad de la acción comunitaria en el 
+ámbito de la educación y la formación, la consejería competente en materia de educación 
+podrá autorizar que todos o determinados módulos profesionales del currículo se impartan 
+en lenguas extranjeras o en lenguas cooficiales de otra comunidad autónoma, sin perjuicio 
+de lo que se establezca al respecto en su normativa específica y sin que ello suponga 
+modificación de currículo establecido en el presente decreto.
+2. Los centros autorizados deberán incluir en su proyecto educativo los elementos 
+más significativos de su proyecto lingüístico autorizado.
+Artículo 15. Oferta a distancia del título.
+1. Los módulos profesionales que forman las enseñanzas del ciclo formativo de 
+técnico superior en energías renovables podrán ofertarse a distancia, siempre que se 
+garantice que el alumnado puede conseguir los resultados de aprendizaje de los mismos, 
+de acuerdo con lo dispuesto en el Real Decreto 385/2011, de 18 de marzo, y en este 
+decreto.
+2. La consejería competente en materia de educación establecerá los módulos 
+profesionales susceptibles de ser impartidos a distancia y el porcentaje de horas de cada 
+uno de ellos que tienen que impartirse en régimen presencial.
+DISPOSICIONES ADICIONALES
+Primera. Calendario de implantación.
+La implantación del currículo establecido en este decreto tendrá lugar en el curso 
+escolar 2017/2018 para el primer curso del ciclo formativo y en el curso escolar 2018/2019 
+para el segundo curso del ciclo formativo.
+Segunda. Titulaciones equivalentes y vinculación con capacitaciones profesionales.
+1. Las titulaciones equivalentes y vinculación con capacitaciones profesionales son 
+las que se establecen en la disposición adicional tercera del Real Decreto 385/2011, de 
+18 de marzo.
+2. La formación establecida en el presente decreto en el módulo profesional de 
+«Formación y orientación laboral», incluye un mínimo de cincuenta horas, que capacita 
+para llevar a cabo responsabilidades profesionales equivalentes a las que precisan las 
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31651
+Lunes, 31 de julio de 2017
+actividades de nivel básico en prevención de riesgos laborales, establecidas en el Real 
+Decreto 39/1997, de 17 de enero.
+Tercera. Certificación académica de superación del nivel básico en prevención de 
+riesgos laborales.
+La consejería competente en materia de educación expedirá una certificación 
+académica de la formación de nivel básico en prevención de riesgos laborales al alumnado 
+que haya superado el bloque B del módulo profesional de «Formación y orientación 
+laboral», de conformidad con la Orden EDU/2205/2009, de 26 de noviembre, por la que se 
+regula el procedimiento para la certificación de la formación de nivel básico en prevención 
+de riesgos laborales para el alumnado que supere el módulo profesional de Formación y 
+Orientación Laboral de ciclos formativos de Formación Profesional Inicial. 
+Cuarta. Equivalencia a efectos de docencia en los procedimientos selectivos de 
+ingreso en el Cuerpo de Profesores Técnicos de Formación Profesional.
+En los procesos selectivos convocados por la consejería competente en materia de 
+educación, el título de Técnico Superior o Técnico especialista se declara equivalente a 
+los exigidos para el acceso al Cuerpo de Profesores Técnicos de Formación Profesional, 
+cuando el titulado haya ejercido como profesor interino en centros educativos públicos 
+dependientes de la citada consejería y en la especialidad docente a la que pretenda 
+acceder durante un período mínimo de dos años antes del 31 de agosto de 2007. 
+DISPOSICIÓN DEROGATORIA
+Derogación normativa.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo 
+establecido en el presente decreto.
+DISPOSICIONES FINALES
+Primera. Desarrollo normativo.
+Se faculta al titular de la consejería competente en materia de educación para dictar 
+cuantas disposiciones sean precisas para la interpretación, aplicación y desarrollo de lo 
+dispuesto en este decreto.
+Segunda. Entrada en vigor.
+El presente decreto entrará en vigor a los veinte días de su publicación en el «Boletín 
+Oficial de Castilla y León».
+Valladolid, 27 de julio de 2017.
+El Presidente de la Junta 
+de Castilla y León,
+Fdo.: Juan Vicente Herrera Campo
+El Consejero de Educación,
+Fdo.: Fernando Rey Martínez
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31652
+Lunes, 31 de julio de 2017
+ANEXO I
+Contenidos, duración y orientaciones pedagógicas y metodológicas 
+de los módulos profesionales
+Módulo profesional: Sistemas eléctricos en centrales.
+Equivalencia en créditos ECTS: 10.
+Código: 0668.
+Duración: 192 horas.
+Contenidos:
+1. Características de los sistemas eléctricos:
+– 	 Características del sistema eléctrico. Tipos de redes eléctricas. Red eléctrica 
+nacional.
+– 	 Descripción del sistema eléctrico.
+– 	 Subsistemas de generación. Tipos de generadores. Características y utilización. 
+Subsistemas de transporte. Tipos y sistemas. Subsistemas de distribución. Tipos 
+y características. Distribución en alta tensión. Distribución en media. Distribución 
+en baja.
+– 	 Constitución de las redes de distribución. Partes. Características.
+– 	 Elementos de un sistema eléctrico. Subestación. Línea de transporte. Centro de 
+reparto. Línea de distribución. Centro de transformación. Líneas de distribución 
+de baja tensión.
+– 	 Simbología eléctrica de alta y media tensión. Interpretación de planos. Normas 
+de aplicación.
+– 	 Tipos de líneas en las redes de distribución. Aéreas y subterráneas. Características 
+diferenciadoras. Normativa específica de Centrales, Subestaciones y Centros de 
+Transformación. RAT.
+– 	 Tipos de conexión de las redes de distribución: red radial, red en anillo, red en 
+huso normal, red en huso apoyado y red en baja tensión.
+– 	 Tipos de esquemas en redes de baja tensión en función de su conexión a tierra. 
+Características y utilización.
+– 	 Estudio y clasificación de los sistemas HVDC. Configuraciones punto a punto, 
+multiterminal y unitaria. Tipos de conexión. Monopolar. Bipolar. Homopolar.
+– 	 Caracterización de elementos de sistemas HVDC. Convertidores, filtros, 
+reactancias de suavizado, condensadores, líneas de CC, interruptores. Sistemas 
+de puesta a tierra. Seccionadores de aislamiento. Seccionadores de puesta a 
+tierra. Pararrayos-autoválvulas. Elementos de control en sistemas HVDC. 
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31653
+Lunes, 31 de julio de 2017
+2. Clasificación de los materiales eléctricos y magnéticos utilizados en centrales 
+eléctricas:
+– 	 Características fundamentales de los materiales. Materiales conductores. Fuerza 
+eléctrica: ley de Coulomb, ley de Ohm, corriente en conductores metálicos y 
+efecto Joule. Consecuencias y aplicaciones.
+– 	 Conductores para instalaciones de enlace e interior. Designación normalizada de 
+conductores. Composición. Tipos. Colores normalizados. Materiales aislantes. 
+Características de los materiales aislantes.
+– 	 Conductores para redes aéreas de distribución de energía eléctrica. Naturaleza 
+y características. Conductores aluminio-acero. Red trenzada.
+– 	 Conductores para redes subterráneas de distribución de energía eléctrica. 
+Características y constitución de los cables subterráneos. Envolventes. 
+Empalmes.
+– 	 Condensadores. Capacidad. Características. Tipos. Aplicaciones. Conexionado.
+– 	 Aisladores. Funcionalidad y materiales empleados. Parámetros característicos 
+de un aislador. Clasificación de los aisladores. Herrajes. Elección del número 
+de elementos de una cadena de aisladores en función del grado de aislamiento 
+requerido para la línea.
+– 	 Materiales magnéticos. Conceptos generales del magnetismo. Curva de imanación 
+de los materiales ferromagnéticos. Tipos de comportamiento magnético. Ciclo de 
+histéresis. Tipos de materiales ferromagnéticos. Influencia de la tensión en las 
+características magnéticas. Pérdidas magnéticas. Circuito magnético.
+– 	 Electroimán. Tipos. Cálculo de la fuerza de tracción de electroimanes. 
+Utilización.
+3. Cálculo de circuitos en instalaciones eléctricas trifásicas y monofásicas:
+– 	 Valores característicos de la corriente alterna. Comportamiento de los receptores 
+elementales (resistencia, bobina pura y condensador) en corriente alterna 
+monofásica.
+– 	 Circuitos con resistencia, bobinas y condensadores con acoplamiento serie, 
+paralelo o mixto en corriente alterna monofásica.
+– 	 Potencia en corriente alterna monofásica. Factor de potencia.
+– 	 Resolución de circuitos de corriente alterna monofásica. Características 
+especiales, resonancia inductiva, resonancia capacitiva.
+– 	 Sistemas trifásicos. Conexión de generadores trifásicos. Conexión de receptores 
+trifásicos. Potencia en sistemas trifásicos. Corrección del factor de potencia.
+– 	 Sistemas trifásicos equilibrados y desequilibrados. Conexión a tierra.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31654
+Lunes, 31 de julio de 2017
+– 	 Cálculos característicos en sistemas trifásicos equilibrados. Tensión y potencias 
+trifásicas. Caída de tensión en líneas eléctricas. Intensidades en fase y en línea. 
+Cálculos básicos en sistemas trifásicos desequilibrados.
+– 	 Cálculos de secciones en líneas eléctricas equilibradas. Cálculo de la sección de 
+los conductores de una instalación teniendo en cuenta el calentamiento. Cálculo 
+de la sección de los conductores de una instalación teniendo en cuenta la caída 
+de tensión. Secciones normalizadas.
+– 	 Reglamentación eléctrica. Reglamento Electrotécnico de Baja Tensión. 
+Reglamento de Líneas Eléctricas de Alta Tensión. Reglamento de Centrales y 
+Centros de Transformación.
+4. Características eléctricas de las máquinas eléctricas rotativas y estáticas:
+– 	 Clasificación de máquinas eléctricas. Máquinas rotativas. Máquinas estáticas. 
+Generadores eléctricos. Tipos de generadores eléctricos. Funciones generales 
+de los generadores eléctricos. Funcionamiento del generador síncrono.
+– 	 Constitución del generador síncrono. Funcionamiento del generador asíncrono. 
+Constitución del generador asíncrono. Funcionamiento del generador de corriente 
+continua. Constitución del generador de corriente continua. Características del 
+generador de corriente continua. Conexionado y aplicación de una amplidina.
+– 	 Alternadores. Funciones del alternador. Constitución del alternador. Características 
+generales de la excitación. Sistemas auxiliares del alternador. Funcionamiento 
+del alternador. Características del alternador. Regulación del alternador.
+– 	 Motores eléctricos. Funciones generales de motores eléctricos. Características 
+generales de motores eléctricos. Partes fundamentales de un motor eléctrico. 
+Tipos de motores eléctricos. Funcionamiento de los motores de corriente alterna. 
+Características de los motores de corriente alterna. Constitución de los motores 
+de corriente alterna. Constitución de los motores eléctricos de corriente continua. 
+Funcionamiento de los motores eléctricos de corriente continua. Características 
+de los motores de corriente continua.
+– 	 La placa de características en las máquinas rotativas. Normativa.
+– 	 Cálculos básicos de las máquinas rotativas. Par. Velocidad. Tensión. Intensidad. 
+Resistencia de aislamiento. Factor de potencia. Curvas características.
+– 	 Transformadores. Funciones de los transformadores. Tipos de transformadores. 
+Constitución de transformadores. Funcionamiento de los transformadores. 
+Características eléctricas de los transformadores. Análisis de la placa 
+de características. Regulación de los transformadores. Transformadores 
+especiales.
+– 	 Cálculos básicos de los transformadores. Ensayos. Curvas características. 
+Tensión. Intensidad. Potencia. Relación de transformación. Tensión de 
+cortocircuito.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31655
+Lunes, 31 de julio de 2017
+– 	 Elementos auxiliares de las máquinas. Arrancadores. Reguladores de velocidad. 
+Aparamenta. Protecciones. Conexionado.
+– 	 Puesta en marcha de generadores eléctricos de corriente continua. Tipos y 
+características. Puesta en marcha de los alternadores. Precauciones y técnicas. 
+Puesta en marcha de motores eléctricos. Arranques. Control de velocidad. Puesta 
+en marcha de transformadores. Conexionado en línea.
+5. Características de la aparamenta y protecciones eléctricas:
+– 	 Tipos de protecciones eléctricas en centrales eléctricas y subestaciones. 
+Problemas fundamentales de la aparamenta. El arco eléctrico. Ruptura de un 
+circuito de corriente alterna. Ruptura en el aire. Ruptura en el aceite. Ruptura 
+mediante aire comprimido. Ruptura en hexafluoruro de azufre. Ruptura en el 
+vacío. Ruptura estática.
+– 	 Tipos de aparatos de corte. Seccionadores. Interruptores. Interruptores-
+seccionadores. Interruptores automáticos o disyuntores.
+– 	 Cortacircuitos fusibles. Clasificación. Características constructivas.
+– 	 Cálculo básico de corrientes de cortocircuito. Componentes asimétricas. 
+Cortocircuito monofásico a tierra. Cortocircuito entre fases. Conceptos básicos 
+en la elección de un interruptor. Poder de corte y poder de conexión.
+– 	 Aparamenta para protección y medida. Aspectos generales de protección de 
+equipos. Pararrayos autoválvula. Transformadores de tensión para medida y 
+protección. Transformadores de intensidad para medida y protección. Relés de 
+protección. Tipos. Protecciones digitales.
+– 	 Magnitudes fundamentales de la aparamenta en centrales y subestaciones. 
+Magnitudes eléctricas. Magnitudes mecánicas.
+– 	 Aparamenta de medida. Celdas de medida. Medida de magnitudes fundamentales 
+eléctricas.
+– 	 OCR (Órgano de Corte de Red) y Seccionalizadores de Alta Tensión.
+– 	 Conectores y manguitos de empalme en Alta Tensión. Fundamento y exposición 
+de modelos según tensión, potencia, otros.
+– 	 Embarrados de Alta Tensión. Fundamentos, tipos y características.
+– 	 Reactancia o Resistencia limitadora de Intensidad de cortocircuito en 
+transformadores de potencia.
+– 	 Baterías de condensadores para control de la energía reactiva en Alta Tensión.
+– 	 SIPCO (Sistema Integrado de Protección y Control).
+6. Configuración de sistemas auxiliares de respaldo:
+– 	 Sistemas auxiliares de respaldo. Definición. Tipos. Armarios de servicios 
+auxiliares.
+– 	 Servicios auxiliares de corriente alterna. Tipos. Características. Utilización.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31656
+Lunes, 31 de julio de 2017
+– 	 Servicios auxiliares de corriente continua. Tipos. Características. Utilización.
+– 	 Esquemas de servicios auxiliares. Alimentación de servicios auxiliares.
+– 	 Circuitos alimentados por los servicios auxiliares. Tipos y características.
+– 	 Actuación de los servicios auxiliares. Procedimientos.
+– 	 Acumuladores. Función. Construcción. Tipos. Características.
+– 	 Rectificadores. Función. Construcción. Tipos. Características.
+7. Realización de medidas eléctricas:
+– 	 Errores en las medidas. Metodologías. Errores típicos. Sensibilidad.
+– 	 Precisión de los aparatos de medida. Normas generales para la toma de medidas 
+eléctricas.
+– 	 Instrumentos de medida analógicos y digitales. El polímetro. El osciloscopio. 
+Ventajas e inconvenientes. Utilización. Características. Sistemas de medida.
+– 	 Medidas eléctricas fundamentales. Medida de intensidad. Medida de tensión. 
+Medidas de potencia. Medidas de energía. Medida de la frecuencia. Medida del 
+factor de potencia. Medida de la resistencia eléctrica.
+– 	 Interpretación de resultados. Medidas visuales. Medidas gráficas. Sistemas 
+informáticos de medida.
+– 	 Analizadores de redes. Utilización. Tipos. Características. Análisis de 
+resultados.
+8. Características de los parámetros de calidad de la energía eléctrica:
+– 	 Normativa relacionada con la calidad de la energía eléctrica.
+– 	 Características de la alimentación en baja y en media tensión. Frecuencia. 
+Amplitud de la tensión suministrada.
+– 	 Calidad de energía eléctrica. Variaciones de la tensión suministrada. Variaciones 
+rápidas de tensión. Huecos de tensión. Interrupciones breves de la tensión 
+suministrada. Interrupciones largas de la tensión suministrada. Sobretensiones 
+temporales en la red. Entre fases y tierra. Sobretensiones transitorias entre fases 
+y tierra. Desequilibrio de la tensión suministrada. Tensiones armónicas. Tensiones 
+interarmónicas. Transmisión de señales de información por la red. Continuidad 
+del suministro.
+– 	 Responsabilidades en el cumplimiento de la calidad.
+– 	 Perturbaciones provocadas e inducidas por instalaciones receptoras. Tipos de 
+receptores. Ruido eléctrico.
+– 	 Problemas causados por una mala calidad de la energía eléctrica.
+– 	 Equipos para mejorar la calidad de la energía eléctrica. Filtros de armónicos 
+(pasivos y activos). Transformadores de aislamiento. Transformadores ferro-
+resonantes. Fuentes ininterrumpibles (SAI). Compensadores estáticos. Interruptor 
+automático de estado sólido.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31657
+Lunes, 31 de julio de 2017
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional da respuesta a la necesidad de proporcionar los 
+fundamentos eléctricos y magnéticos que intervienen en los sistemas y equipos instalados 
+en una central eléctrica.
+La definición de estas funciones incluye aspectos como:
+– 	 Calcular instalaciones eléctricas trifásicas y monofásicas.
+– 	 Dimensionar máquinas eléctricas.
+– 	 Dimensionar aparamenta eléctrica y de respaldo utilizadas en centrales 
+eléctricas.
+– 	 Medir parámetros eléctricos en alta y media tensión.
+Las actividades profesionales asociadas a esta función se aplican en:
+– 	 Supervisión y control de sistemas eléctricos en centrales eléctricas.
+– 	 Control de la calidad de la energía eléctrica y sus normas.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+b), c), d), h), l) y o) del ciclo formativo, y las competencias b), c), e), i) y m) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+– 	 Reconocer los sistemas eléctricos.
+– 	 Reconocer las leyes y principios de la electricidad y el electromagnetismo 
+necesarios en las instalaciones de centrales eléctricas.
+– 	 Realizar de cálculos de circuitos eléctricos de CA monofásica y de CA trifásica.
+– 	 Dimensionar la aparamenta y las máquinas eléctricas, su comportamiento y 
+características de funcionamiento.
+– 	 Identificar y seleccionar los sistemas auxiliares de respaldo.
+– 	 Realizar medidas eléctricas.
+– 	 Aplicar la normativa relacionada con la calidad de la energía eléctrica.
+Módulo profesional: Subestaciones eléctricas.
+Equivalencia en créditos ECTS: 11.
+Código: 0669.
+Duración: 192 horas.
+Contenidos:
+1. Caracterización de subestaciones eléctricas:
+– 	 Red eléctrica. Subsistemas de generación, transporte y distribución.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31658
+Lunes, 31 de julio de 2017
+– 	 Características básicas de las subestaciones eléctricas. Tipos y configuraciones 
+de subestaciones. Clasificación. Subestaciones de generación, de transformación 
+y de maniobra, subestaciones de interior y de intemperie.
+– 	 Función de las subestaciones eléctricas dentro del sistema de transporte de 
+energía. Subestaciones en centrales. Subestaciones en parques.
+– 	 Principales 
+componentes. 
+Embarrados, 
+seccionadores, 
+transformadores, 
+interruptores. Protecciones y su selectividad. Características. Tipos. Utilización. 
+Precauciones de montaje. Transformadores de potencia, transformadores para 
+medida e instrumentación, pararrayos.
+– 	 Red de puesta a tierra. Tipos y características.
+– 	 Reglamentación técnica y de seguridad.
+– 	 Normativa aplicable. Reglamento de Alta Tensión. REBT. Reglamento de 
+centrales, subestaciones y centros de transformación.
+– 	 Normativa técnica particular de compañías eléctricas.
+2. Interpretación de proyectos de subestaciones:
+– 	 Proyectos de subestaciones eléctricas. Proyectos Tipo. Partes del mismo.
+– 	 Simbología técnica de aplicación en la representación gráfica de planos. 
+Esquemas unifilares de las distintas tipologías de subestaciones. Simbología 
+UNE, DIN y ASA, entre otras. Esquemas unifilares de las distintas tipologías de 
+subestaciones.
+– 	 Fases de montaje de una subestación. Preparación de terrenos, obra civil, red de 
+tierra y puesta en obra de equipos, entre otros.
+– 	 Elaboración de esquemas y documentos relativos a las subestaciones. Esquemas 
+unifilares, planos de distribución en planta, croquis de situación, entre otros. 
+Memorias descriptivas. Cálculos justificativos.
+– 	 Interpretación de esquemas y planos con ayuda de CAD. Manejo de programas 
+de CAD. (multisim y autocad, entre otros).
+– 	 Gestión de documentos técnicos y administrativos vinculados con el montaje de 
+subestaciones. Utilización de herramientas informáticas.
+3. Planificación de procesos de montaje en subestaciones:
+– 	 El proyecto técnico aplicado al montaje. Partes del proyecto. Características 
+específicas del montaje de subestaciones.
+– 	 Planificación del montaje de subestaciones eléctricas. Preparación de terrenos, 
+obra civil, red de tierra, puesta en obra de equipos. Desplazamiento e izado de 
+equipos. Técnicas y operaciones de ensamblado, asentamiento, alineación y 
+sujeción.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31659
+Lunes, 31 de julio de 2017
+– 	 Normativa aplicable al montaje de subestaciones eléctricas. Reglamentación 
+general: Nacional, Autonómica y Local. Reglamentación propia de la compañía 
+distribuidora. Normativa de calidad, ISO 9.000, ISO 14000 y EFQM. Normas 
+UNE-EN, Normas CEI, entre otras.
+– 	 Fases del plan de montaje en subestaciones. Tipos, características. Metodologías. 
+Cronogramas.
+– 	 Técnicas de montaje. Tensado, ensamblaje, nivelado, anclaje, conexionado. 
+Especificaciones metodológicas para el montaje, fijación y conexionado de los 
+diferentes componentes de la subestación. Maquinaria y equipos utilizados en la 
+fase de montaje.
+– 	 Recursos humanos para el montaje de subestaciones eléctricas: titulados 
+superiores, titulados medios, técnicos superiores y técnicos medios, entre otros. 
+Jerarquización.
+– 	 Plan de seguridad y salud laboral. Ley de prevención de riesgos laborales.
+4. Programación de planes de montaje:
+– 	 Plan de aprovisionamiento. Control logístico. Técnicas de aprovisionamiento.
+– 	 Plan de demanda, aprovisionamiento, almacenaje y puesta en obra de equipos 
+propios a las subestaciones eléctricas. Técnicas. El almacén de obra. Almacenaje 
+de equipos y herramientas. Características y seguridad.
+– 	 Coordinación de equipos y herramientas para el montaje. Metodologías de 
+aplicación.
+– 	 Plan de calidad en el montaje de subestaciones eléctricas. Aplicación de normas 
+de calidad al almacenaje de productos.
+– 	 Plan de seguridad en el montaje de subestaciones eléctricas.
+– 	 Software informático de planificación asistida. Aplicaciones informáticas. Equipos 
+informáticos portátiles. Equipos de comunicación.
+– 	 Visualización e interpretación de gráficos digitalizados. Tipos. Características. 
+Presentación.
+– 	 Operaciones básicas con archivos informáticos. Equipos de almacenamiento 
+de datos. Tipos de archivos informáticos. Seguridad de almacenaje de datos. 
+Software antivirus.
+5. Planificación de la supervisión y control del montaje y puesta en servicio de las 
+instalaciones de subestaciones:
+– 	 Montaje de los elementos principales de una subestación. Montaje específico del 
+embarrado, autoválvulas, seccionadores, transformadores, interruptores.
+– 	 Procedimientos de montaje de líneas de alta tensión. Cálculo mecánico y eléctrico. 
+Precauciones y características.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31660
+Lunes, 31 de julio de 2017
+– 	 Tareas de montaje y conexión de transformadores. Transformadores de potencia, 
+de medida y auxiliares. Ensayos. Puesta en marcha.
+– 	 Proceso de montaje de embarrado, conexionado y confección de red de tierra. 
+Cálculo mecánico y eléctrico. Precauciones. Puesta en servicio.
+– 	 Operaciones de montaje de los equipos de regulación y control. Cálculo de 
+elementos. Puesta en servicio. Conexionado. Coordinación con otros equipos 
+locales y/o remotos.
+– 	 Simulación de montaje de una subestación. Manejo de simulador informático.
+6. Replanteo de la obra civil en el montaje de subestaciones:
+– 	 Configuraciones y tipos de obras en subestaciones.
+– 	 Ubicación de los principales equipos de las subestaciones. Embarrado, 
+autoválvulas, seccionadores, transformadores, interruptores, entre otros.
+– 	 Obra civil. Replanteo, movimientos de tierra, y cimentaciones, entre otros.
+– 	 Situación y funciones específicas de los componentes básicos de una subestación 
+eléctrica. Líneas de entrada y salida, celdas, módulos híbridos, transformadores, 
+embarrados, red de tierras, y baterías, entre otros.
+– 	 Tecnología GIS (Sistemas de Información Geográfica). Fundamentos 
+y aplicaciones. Estudio del SF6 como aislante eléctrico. Componentes 
+principales.
+– 	 Esquemas de subestaciones eléctricas. Identificación de bloques principales. 
+Entrada, salida, barras, transformador, protecciones, y medida, entre otros.
+7. Planificación de programas de mantenimiento, recursos y protocolos:
+– 	 Documentos técnicos vinculados al mantenimiento de una subestación eléctrica. 
+Proyecto. Plan prevención de riesgos laborales. Plan de mantenimiento. 
+Elaboración de diagramas de planificación del mantenimiento.
+– 	 Mantenimiento de equipos eléctricos y electrónicos de subestaciones. 
+Precauciones generales y específicas.
+– 	 Necesidad del mantenimiento de los elementos constitutivos de una subestación 
+eléctrica. Líneas de entrada y salida, celdas, módulos híbridos, transformadores, 
+embarrados, red de tierras, y baterías, entre otros.
+– 	 Puntos críticos de una subestación susceptibles de sufrir averías. Conexiones, 
+uniones, empalmes y elementos móviles, entre otros.
+– 	 Averías en subestaciones. Causas y efectos principales. Fatiga mecánica y 
+térmica, fricciones y desgastes, entre otros.
+– 	 Detección de averías. Procedimientos de diagnóstico. Medidas directas e 
+indirectas de tensión, intensidad y temperatura. Métodos directos e indirectos. 
+Históricos de averías. Equipos de medida eléctricos, mecánicos y térmicos.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31661
+Lunes, 31 de julio de 2017
+– 	 Mantenimiento preventivo. Plan de seguridad. Puesta en descargo de 
+instalaciones. Equipos de protección individual. Mantenimiento predictivo.
+– 	 Propiedades físicas, químicas y ambientales del hexafluoruro de azufre (SF6).
+– 	 Cuestiones medioambientales relacionadas con el uso del SF6 en equipos de 
+conmutación de alta tensión.
+8. Operaciones de mantenimiento en subestaciones:
+– 	 Normativa aplicable al mantenimiento de subestaciones eléctricas. Ley de 
+prevención de riesgos laborales. Normas propias de la compañía suministradora. 
+Reglas de oro en trabajos de alta tensión.
+– 	 Equipos de una subestación eléctrica susceptibles de mantenimiento de primer 
+nivel. Transformadores, baterías, condensadores, e interruptores, entre otros.
+– 	 Procedimientos de descargo en las instalaciones y equipos de las subestaciones. 
+Seguridad en el mantenimiento. Descargo de instalaciones. Secuencia de 
+operaciones para realizar un descargo.
+– 	 Fases de operaciones de mantenimiento específico en sistemas eléctricos, 
+electrónicos de control. Mantenimiento de interruptores, seccionador y sistemas 
+de control.
+– 	 Necesidades 
+del 
+mantenimiento 
+correctivo. 
+Técnicas 
+de 
+diagnóstico. 
+Procedimientos de operación.
+– 	 Restitución del servicio en una subestación. Proceso a seguir para la energización 
+de instalaciones descargadas.
+9. Realización de las operaciones fundamentales de los sistemas, equipos e 
+instrumentos de subestaciones eléctricas:
+– 	 Técnicas de operación en sistemas. Técnicas de operación en equipos. 
+Operaciones específicas en equipos de potencia. Operaciones específicas en 
+sistemas de control.
+– 	 Requisitos de seguridad para operar sobre los diferentes equipos. Técnicas 
+específicas de seguridad y prevención en los procesos de operación. Seguridad 
+en elementos con tensión. Seguridad en equipos a la intemperie.
+– 	 Secuencias de actuaciones en los sistemas de subestaciones eléctricas. 
+Secuencias de actuación en equipos. Procedimientos en equipos de protección 
+de subestaciones. Procedimientos en equipos de control.
+– 	 Instrumentos empleados en las operaciones de sistemas. Instrumentos y equipos 
+usuales en operaciones de subestaciones. Equipos de medidas. Equipos de 
+gestión.
+– 	 Documentación propia de equipo o sistemas. Documentos técnicos. Manuales 
+técnicos de operación de subestaciones.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31662
+Lunes, 31 de julio de 2017
+– 	 Normas específicas de riesgos profesionales y seguridad en los procesos de 
+operación de subestaciones.
+– 	 Operaciones sobre interruptores. Operaciones sobre seccionadores. Operaciones 
+en tomas de tierra. Operaciones mecánicas de instalaciones y equipos. 
+Operaciones eléctricas de circuitos. Maniobras específicas en interruptores. 
+Tipos de tomas de tierra. Características y precauciones.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar la gestión 
+del montaje y mantenimiento de subestaciones eléctricas.
+La definición de estas funciones incluye aspectos como:
+– 	 Documentar los proyectos de subestaciones para su ejecución.
+– 	 Aplicar la normativa específica a las subestaciones eléctricas.
+– 	 Elaborar documentación de apoyo para la coordinación del montaje y 
+mantenimiento de subestaciones eléctricas.
+– 	 Optimizar recursos en los procesos de montaje y mantenimiento.
+– 	 Planificar pruebas para asegurar la calidad y seguridad de las instalaciones.
+Las actividades profesionales asociadas a esta función se aplican en:
+– 	 Confección de unidades de obra y coste de montaje de instalaciones.
+– 	 Elaboración de documentación técnica y gráfica a partir de los datos obtenidos, 
+cumpliendo la normativa y requerimientos del proyecto.
+– 	 Desarrollo, coordinación y supervisión de las intervenciones del montaje y 
+mantenimiento de los equipos e instalaciones.
+– 	 Gestión del montaje y del mantenimiento de los equipos e instalaciones.
+– 	 Verificación de la funcionalidad del proceso de montaje y mantenimiento.
+– 	 Elaboración y/o tramitación de la documentación técnica y administrativa.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+j) y k) del ciclo formativo, y las competencias g) y h) del título.
+Las líneas de actuación en el proceso de enseñanza aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+– 	 Reconocer las características técnicas y constructivas de los elementos, máquinas 
+empleadas en subestaciones.
+– 	 Gestión y desarrollo de procesos del montaje y mantenimiento de subestaciones 
+eléctricas.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31663
+Lunes, 31 de julio de 2017
+– 	 Elaborar planes de montaje y mantenimiento.
+– 	 Confeccionar especificaciones técnicas del montaje y mantenimiento.
+– 	 Realizar operaciones de mantenimiento de primer nivel.
+– 	 Procedimentar los protocolos de pruebas de las instalaciones de acuerdo a las 
+condiciones del proyecto.
+– 	 Preparar el manual de instrucciones de los equipos e instalaciones.
+Módulo profesional: Telecontrol y automatismos.
+Equivalencia en créditos ECTS: 11.
+Código: 0670.
+Duración: 224 horas.
+Contenidos:
+1. Caracterización de los elementos de instrumentación y medida utilizados en 
+instalaciones de generación de energía eléctrica:
+– 	 Transductores de variables físicas y eléctricas de tensión e intensidad continua y 
+alterna. Clasificación. Clasificación atendiendo a criterios de tensión, intensidad 
+alterna, intensidad continua, temperatura, presión, caudal, nivel, velocidad de 
+giro, velocidad del viento, posición lineal y angular, vibraciones, deformación 
+estructural, pH y otros.
+– 	 Composición y funcionamiento de los transductores. Propiedades y 
+características. Conexión de diversos tipos de transductores a centrales de 
+medida. Identificación de señales generadas por el transductor.
+– 	 Cálculo de valores máximo, medio y eficaz.
+– 	 Obtención de los valores característicos de una red eléctrica a partir de los 
+valores instantáneos de tensión e intensidad, potencia activa y reactiva, factor de 
+potencia, frecuencia y fase.
+– 	 Acondicionadores de señal para transductores y centrales de adquisición de 
+medidas. Amplificación de señal. Conversión a digital. Transmisión de la señal a 
+la estación de medida.
+2. Verificación y montaje de accionamientos para instalaciones de generación de 
+energía eléctrica:
+– 	 Accionamientos tipo todo o nada. Conexión, instalación, funcionamiento y 
+propiedades de accionamientos todo-nada. Electroimanes. Motores eléctricos. 
+Continua. Alterna. Accionamientos neumáticos. Accionamientos hidráulicos.
+– 	 Cálculo de fuerza par y velocidad de actuación de los distintos tipos de 
+accionamientos.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31664
+Lunes, 31 de julio de 2017
+– 	 Montaje de accionamientos de todo-nada, motores y actuadores.
+– 	 Accionamientos de control proporcional o servocontrolados. Circuitos electrónicos 
+asociados. Válvulas de control proporcional. Conexión de accionamientos de 
+control proporcional. Verificación de la respuesta: curvas características. Sistemas 
+calibrados, reguladores y servosistemas.
+3. Control de equipamiento eléctrico y electrónico:
+– 	 Ajuste del alternador. Función de las partes del alternador. Parámetros básicos 
+del alternador. Sistemas de excitación y potencia.
+– 	 Ajustes de la excitación. Partes de la excitación. Parámetros de control. Control 
+de par-velocidad. Ajuste de frecuencia. Conexión a línea.
+– 	 Configurado de equipos eléctricos de potencia en alta tensión de la central. 
+Selección de interruptores generales. Selección de interruptores de control. Salto 
+fortuito de protecciones. Compatibilidad y selectividad. Elementos de control de 
+protecciones.
+– 	 Ajustes de los acumuladores. Configuración de acumuladores. Conexión de 
+acumuladores. Elementos de carga y protección. Tipos de acumuladores. 
+Aplicaciones.
+– 	 Ajustes de los rectificadores. Rectificadores compactos. Configuración de 
+rectificadores. Parámetros de potencia y señal. Efectos transitorios de rectificadores 
+de potencia. Elementos de los rectificadores de alta tensión. Precauciones. 
+Instalación de sistemas de rectificación en centrales. Características y elementos 
+auxiliares.
+– 	 Sistemas de megafonía en centrales eléctricas. Configuración y ajustes. Sistemas 
+de telefonía y comunicaciones en centrales. Precauciones técnicas. Reparación, 
+mantenimiento y sustitución de elementos de megafonía.
+– 	 Características específicas de las instalaciones de alumbrado. Equipos de 
+alumbrado de emergencia. Precauciones. Normas específicas. REBT. Reglamento 
+de alta tensión. Características de las luminarias. Emplazamiento. Mantenimiento 
+de instalaciones de alumbrado de emergencia.
+4. Equipamiento eléctrico y electrónico de control en centrales:
+– 	 Variadores de frecuencia con y sin conexión a red. Parámetros básicos de 
+configuración. Módulos de E/S. Módulo de potencia. Módulo de control. El bus 
+de continua. Compatibilidad electromagnética de variadores.
+– 	 Verificación de las señales características. Control PWM. Señal trifásica de un 
+control PWM. Control de flujo vectorial.
+– 	 Autómata programable (PLC) y otros equipos basados en microprocesadores 
+y microcontroladores utilizados para el control automático y servocontrol. 
+Módulos de E/S. Salidas analógicas. Salidas digitales. Conexionado de PLC. 
+Comunicación. Interconexionado en red.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31665
+Lunes, 31 de julio de 2017
+– 	 Periféricos y tarjetas de entrada y salida. Módulos específicos de variables 
+digitales. Módulos específicos de variables analógicas. Conexionado de módulos. 
+Interconexionado de sistemas.
+– 	 Configuración de parámetros de funcionamiento y alarmas.
+– 	 Equipos de diálogo hombre-máquina. Pantallas táctiles. Configuración.
+5. Configuración de instalaciones automatizadas de aplicación en procesos de 
+centrales:
+– 	 Sistemas de control de variables físicas con realimentación negativa. 
+Funcionamiento básico de sistemas de control realimentados. Esquema de 
+bloques. Curvas de respuesta características de un control proporcional.
+– 	 Control proporcional integral y derivativo (PID). Control P. Control I. Control D. 
+Ajustes. Características fundamentales. Aplicaciones en sistemas de centrales 
+eléctricas.
+– 	 Sistemas de control óptimo y adaptativo implementados a base de tecnología 
+de lógica difusa (fuzzy). Análisis de la respuesta comparativa de sistemas ante 
+diversas condiciones de funcionamiento.
+– 	 Configuración de sistemas automáticos de control de lógica difusa.
+– 	 Actuaciones de control local en parques eólicos. Parámetros característicos de 
+control. Parametrización.
+– 	 Actuaciones 
+de 
+control 
+local 
+de 
+parques 
+fotovoltaicos. 
+Parámetros 
+característicos.
+– 	 Simulación de actuaciones de control local de centrales hidráulicas. Elementos 
+de control. Simulación de actuaciones de control local de centrales térmicas. 
+Elementos de control.
+– 	 Elementos de control y maniobra en subestaciones eléctricas. Parámetros 
+característicos de control. Ajustes. Visualización de datos.
+6. Caracterización de sistemas de transmisión y comunicación para el telecontrol de 
+procesos automáticos en centrales:
+– 	 Medios de transmisión. Cable coaxial. Cable de pares. PLC (power line 
+communication). Fibra óptica. Espacio radioeléctrico.
+– 	 Propiedades de los medios de transmisión. Características. Características 
+eléctricas y mecánicas. Ventajas e inconvenientes.
+– 	 Buses de campo. Bus can. Modbus. Fieldbus. Profibus 485, 422 y similares. 
+Características técnicas. Normas de comunicación.
+– 	 Sistemas de transmisión. Características. Utilización.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31666
+Lunes, 31 de julio de 2017
+– 	 Aplicaciones de buses de campo en centrales eléctricas. Transmisión de señales 
+radioeléctricas y de radiodifusión.
+– 	 Control de subestaciones eléctricas. Nivel de campo. Nivel de bahía. Nivel de 
+control.
+– 	 Red de área local (LAN). Descripción de una red ethernet industrial. Componentes 
+básicos de hardware. Componentes de software (modelo de capas). Configuración 
+de una red de área local.
+– 	 Redes de área extensa (WAN) e Internet. Componentes. Descripción. Tipos.
+– 	 Configuración. Sistemas DSL. Descripción. Sistemas de modulación. Tipos de 
+sistemas: ADSL, HDSL, SDSL.
+– 	 Técnicas de telecontrol en centrales eléctricas. Control de centrales térmicas, 
+solares, hidráulicas y eólicas. Características básicas.
+7. Utilización de aplicaciones de control automático con software tipo SCADA:
+– 	 Aplicaciones scada (Supervisor y Control And Data Acquisition). Componentes 
+del software. Infraestructura y comunicación.
+– 	 Características del software scada. Editor gráfico. Sinópticos del proceso. 
+Módulos del proceso. Bases de datos. Gráficos de tendencias. Gestión de 
+alarmas. Arquitecturas: monolítica, distribuida y a través de red. Tratamiento 
+de señales. Amplificación. Muestreo. Interfaces gráficos en aplicaciones scada. 
+Tipos de paneles de control. Gráficos de alarmas. Gráficos de procesos y de 
+gestión. Gráficos de mantenimiento y de detección de averías.
+– 	 Técnicas de adquisición de datos. Puntos. Tipos de puntos. Objetos. Tipos de 
+objetos. Adquisición de datos a distancia. Adquisición de señales de registro.
+– 	 Aplicaciones en centrales de generación. Paneles scada. Paneles scada en 
+centrales eléctricas térmicas. Paneles scada en centrales eólicas. Paneles scada 
+en centrales fotovoltaicas.
+– 	 Centro de control scada de centrales hidráulicas, eólicas, etc (COC, CORE, etc.) 
+y Centro de control de STs/STRs (COD).
+– 	 Cuadro de Control de una central eléctrica, Cuadro de Control de una ST/STR.- 
+Sistema convencional o tradicional, sistema mixto (convencional e integrado 
+conviviendo) y Sistemas modernos (control integrado).
+– 	 Técnicas de simulación de centrales eléctricas con sistemas scada. Seguridad y 
+vulnerabilidad del sistema.
+8. Verificación de redes de vigilancia y control de accesos utilizando sistemas de 
+seguridad y alarma:
+– 	 Sistemas de alarma. Descripción y funcionamiento. Control de accesos y 
+presencia. Tipos. Características. Utilización y configuraciones básicas.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31667
+Lunes, 31 de julio de 2017
+– 	 Instalación de sistemas de alarma y control de accesos. Funcionamiento de los 
+sistemas de alarma. Circuito cerrado de televisión. Descripción de circuitos y 
+señales. Montaje de un circuito cerrado de televisión. Vigilancia de espacios 
+mediante CCTV.
+– 	 Cámaras IP. Funcionamiento. Tipo. Utilización.
+– 	 Instalación y conexionado de cámaras IP. Configuración.
+– 	 Operación y vigilancia de espacios mediante cámaras IP. Características y 
+precauciones.
+– 	 Instalación de circuitos cerrados de televisión. Elementos. Técnicas.
+– 	 Instalaciones de control de accesos con circuito cerrado de televisión. Control de 
+accesos. Elementos. Tipos. Configuraciones.
+– 	 Seguridad en el control por Internet. Sistemas de encriptación. Sistemas de 
+control de accesos por Internet.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar la función 
+de configuración de sistemas de telecontrol, circuitos cerrados de televisión y vigilancia, 
+así como, operación de equipos de potencia y control, aplicados a centrales eléctricas.
+La función de telecontrol de centrales incluye aspectos como:
+– 	 Operar sistemas de potencia en centrales.
+– 	 Configurar elementos del control de sistemas integrados en centrales.
+– 	 Configurar elementos y sistemas eléctricos y electrónicos.
+– 	 Aplicar sistemas Scada al control de procesos.
+– 	 Implementar los sistemas de vigilancia y alarmas en centrales eléctricas.
+– 	 Montaje y mantenimiento de circuitos cerrados de televisión aplicados a centrales 
+eléctricas.
+Las actividades profesionales asociadas a esta función se aplican en:
+– 	 Definición de las especificaciones de los sistemas de control y telecontrol.
+– 	 Manipulación de actuadores típicos de centrales a distancia o localmente.
+– 	 Elaboración de documentación gráfica y esquemas a partir de los datos obtenidos, 
+cumpliendo la normativa.
+– 	 Desarrollo, coordinación y supervisión de actuadores.
+– 	 Verificación del funcionamiento de una instalación de telecontrol.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31668
+Lunes, 31 de julio de 2017
+– 	 Confeccionar paneles de control de sistemas en centrales utilizando software 
+scada.
+– 	 Montar alarmas y sistemas de circuito cerrado de televisión.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+c), d), e), f), k) y m) del ciclo formativo y las competencias c), d) y h) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional están relacionados con:
+– 	 Seleccionar los elementos, constituyentes de sistemas de telecontrol en 
+centrales.
+– 	 Configurar los actuadores y sus métodos de control.
+– 	 Dimensionar y ajustar elementos de potencia de las instalaciones.
+– 	 Configurar los sistemas de transmisión utilizados en telecontrol de centrales 
+eléctricas.
+– 	 Preparar sistemas de simulación de control de centrales utilizando software 
+Scada.
+– 	 Montar alarmas en centrales y subestaciones.
+– 	 Montar circuitos cerrados de televisión.
+– 	 Montar de sistemas de vigilancia utilizando cámaras IP.
+Módulo profesional: Prevención de riesgos eléctricos.
+Equivalencia en créditos ECTS: 4.
+Código: 0671.
+Duración: 64 horas.
+Contenidos:
+1. Caracterización de los efectos fisiológicos de la corriente eléctrica sobre el cuerpo 
+humano:
+– 	 Factores que influyen en el efecto eléctrico: tipo de corriente, intensidad, duración 
+del contacto, recorrido a través del cuerpo, impedancia del cuerpo humano, 
+tensión, frecuencia.
+– 	 Contactos directos e indirectos.
+– 	 Choque eléctrico y arco eléctrico.
+– 	 Corriente alterna: umbral de percepción. Umbral de reacción. Umbral de no soltar. 
+Umbral de fibrilación ventricular.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31669
+Lunes, 31 de julio de 2017
+– 	 Efectos directos: fibrilación ventricular, fallo cardiaco, asfixia, paro respiratorio, 
+calambres, contracciones musculares, tetanización muscular y quemaduras.
+– 	 Efectos indirectos: golpes contra objetos y caídas.
+– 	 Efectos secundarios. Precoces y tardíos. Daño cerebral, embolia, trombos, 
+quemaduras internas, gangrenas, problemas renales y trastornos mentales.
+2. Evaluación de riesgos en trabajos en presencia de tensión eléctrica:
+– 	 Identificación y evaluación de riesgos en alta tensión.
+– 	 Riesgos de origen mecánico.
+– 	 Riesgos de tipo eléctrico: exposición a campos electromagnéticos. Electricidad 
+estática.
+– 	 Incendios, deflagraciones y detonaciones. Triángulo de fuego. Clases de fuego.
+– 	 Riesgos de explosión e incendios.
+– 	 Riesgos medioambientales: vertidos de gas, inducciones magnéticas, incendios 
+y daños en la avifauna.
+– 	 Riesgos asociados a las áreas de trabajo.
+3. Protocolos de seguridad de conexión y desconexión eléctrica:
+– 	 Tipos de suministro eléctrico.
+– 	 Interrupción y reposición de tensión bajo protocolos de seguridad.
+– 	 Maniobras seguras para dejar sin tensión eléctrica una instalación.
+– 	 Puestas a tierra y en cortocircuito.
+– 	 Maniobras seguras en la reposición de tensión.
+– 	 Normativa eléctrica, de seguridad y medioambiental. Las cinco reglas de oro.
+4. Clasificación de equipos de seguridad en trabajos en presencia de tensión 
+eléctrica:
+– 	 Equipos de protección individual y colectiva. Pantallas, cubiertas, vainas, pinzas, 
+puntas de prueba, pértigas aislantes, banquetas, alfombras, plataformas de 
+trabajo, guantes, gafas y cascos, entre otros.
+– 	 Equipos auxiliares de seguridad. banquetas, alfombrillas, puesta a tierra 
+portátiles.
+– 	 Sistemas de señalización.
+– 	 Selección, inspección y mantenimiento de equipos. Tipos y utilización.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31670
+Lunes, 31 de julio de 2017
+– 	 Información, formación y promoción.
+– 	 Normativa sobre equipos de prevención. Carteles de divulgación y normas 
+internas.
+5. Protocolos de seguridad y medidas de prevención en trabajos en presencia de 
+tensión eléctrica:
+– 	 Prevención, protección y extinción de incendios.
+– 	 Medidas preventivas contra los contactos indirectos; separación de circuitos, 
+pequeñas tensiones de seguridad, aislamiento de protección, doble aislamiento, 
+inaccesibilidad simultánea de elementos conductores y masas, recubrimientos 
+de las masas con aislamiento de protección, conexiones equipotenciales e 
+interruptor diferencial.
+– 	 Medidas preventivas contra los contactos directos: alejamiento de partes 
+activas de la instalación, interposición de obstáculos, barreras o envolventes y 
+recubrimiento de las partes activas.
+– 	 Trabajos en media tensión: descargo y energización en celdas prefabricadas 
+de MT.
+– 	 Trabajos en alta tensión. Trabajos en proximidad. Procedimientos y métodos de 
+trabajo.
+– 	 Influencia de las condiciones climatológicas en la seguridad eléctrica.
+– 	 Maniobras, mediciones, ensayos y verificaciones. Reposición de fusibles. Cables, 
+conectores y terminales.
+– 	 Planes de seguridad.
+– 	 Impacto ambiental. Vertidos al medio, polución y efecto invernadero.
+6. Emergencias en trabajos en presencia de tensión eléctrica:
+– 	 Plan de emergencias. Equipos de intervención.
+– 	 Accidentes: electrocución, asfixia, parada respiratoria. Actuación PAS: Protección 
+del accidentado. Valoración del accidente.
+– 	 Primeros auxilios en caso de accidente eléctrico: criterios básicos de actuación. 
+Coordinación de la intervención.
+– 	 Planes de evacuación. Equipos de intervención.
+– 	 Informes y valoración de daños.
+– 	 Sistemas de comunicación. Solicitud de ayuda.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación básica necesaria que capacita al 
+alumno para los trabajos que se realicen en las instalaciones eléctricas de los lugares de 
+trabajo, o en la proximidad de las mismas en el ámbito de la normativa existente sobre 
+disposiciones mínimas para la protección de la salud y seguridad de los trabajadores frente 
+al riesgo eléctrico.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31671
+Lunes, 31 de julio de 2017
+La prevención de riesgos eléctricos incluye aspectos como:
+– 	 Evaluar y prevenir de riesgos eléctricos.
+– 	 Ejecutar protocolos reglamentarios en trabajos en presencia de tensión 
+eléctrica.
+– 	 Seleccionar y utilizar equipos y medidas preventivas.
+– 	 Colaborar y participar en labores de información, formación, inspección y 
+mantenimiento de los equipos y medidas preventivas.
+– 	 Colaborar en las actuaciones ante accidentes y emergencias.
+Las actividades profesionales asociadas a esta función se aplican en:
+– 	 Prevención de riesgos eléctricos en actividades de montaje.
+– 	 Prevención del riesgo eléctrico en operaciones en centrales y subestaciones.
+– 	 Prevención en el mantenimiento generalmente en centrales y subestaciones 
+eléctricas.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+a), b),c), i), j), k) y m) del ciclo formativo, y las competencias a), b), f), g) y j).
+Las líneas de actuación en el proceso de enseñanza aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+– 	 Realizar evaluaciones de riesgos en diferentes recintos y situaciones en presencia 
+de tensión eléctrica.
+– 	 Identificar, inspeccionar y mantener equipos de protección.
+– 	 Realizar maniobras (reales o simuladas) de conexión y desconexión eléctrica 
+según protocolos de seguridad.
+– 	 Realizar mediciones, ensayos y verificaciones.
+– 	 Evaluar planes de seguridad de centrales eléctricas y elaborar la documentación 
+relacionada.
+Módulo profesional: Sistemas de energías renovables.
+Equivalencia en créditos ECTS: 7.
+Código: 0680.
+Duración: 192 horas.
+Contenidos:
+1. Distinción de tipos de energías renovables:
+– 	 Recursos energéticos de la Tierra.
+– 	 El sistema energético español. Tabla de energía primaria de origen fósil y 
+emisiones de GEI (gases de efecto invernadero).Tabla de energías primarias en 
+el sistema energético español.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31672
+Lunes, 31 de julio de 2017
+– 	 Conceptos de energía renovable. Tipos. Procesos de obtención, transformación y 
+usos de las energías renovables. Energía primaria. Tecnología de transformación. 
+Energía final. Presencia de las energías renovables en la energía primaria, en el 
+suministro eléctrico y en los combustibles líquidos.
+– 	 Conceptos de valoración energética.
+– 	 Objetivos y apoyos de la Administración en el Estado español de las energías 
+renovables.
+– 	 Impacto de la energía en el medio ambiente. Principales emisiones y sus 
+efectos: dióxido de carbono, óxidos de nitrógeno, dióxido de azufre, ozono y 
+compuestos orgánicos volátiles. partículas, contaminantes orgánicos y metales 
+pesados. Efectos a escala global: efecto invernadero, reducción de la capa 
+de ozono, aumento de la temperatura y aumento del nivel del mar. Efectos a 
+escala local: nieblas fotosensibles, emisión de partículas, lluvia ácida, emisión de 
+contaminantes orgánicos, calentamiento de agua de refrigeración y fugas en el 
+transporte y distribución.
+– 	 Información actual y relevante sobre la situación tecnológica del aprovechamiento 
+de las diferentes energías renovables.
+2. Clasificación de las distintas tecnologías de aprovechamiento solar térmico:
+– 	 Clasificación de los sistemas de producción térmicos con energías renovables. 
+Origen de la energía solar térmica/termoeléctrica.
+– 	 Producción de electricidad, calefacción y aire acondicionado a partir de la energía 
+solar térmica.
+– 	 Energía solar pasiva. Energía solar activa.
+– 	 Sistemas solares térmicos de baja temperatura.
+– 	 Sistemas solares térmicos de media temperatura.
+– 	 Centrales solares termoeléctricas de media temperatura. Esquemas.
+– 	 Centrales solares termoeléctricas de alta temperatura. Esquemas. Componentes 
+principales.
+– 	 Estado actual de plantas termosolares para producción de electricidad.
+– 	 Costes del uso de la energía solar térmica.
+– 	 Combinación con otras fuentes de energía.
+– 	 Ventajas e inconvenientes frente a las fuentes convencionales. 
+– 	 Impacto medioambiental al utilizar la energía solar térmica. 
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31673
+Lunes, 31 de julio de 2017
+3. Características del funcionamiento de las centrales minihidráulicas:
+– 	 Origen de la energía minihidráulica.
+– 	 Potencial de la energía minihidráulica en España.
+– 	 Tipos de centrales hidráulicas. Centrales de agua fluyente. Centrales de embalse. 
+Centrales de hidrobombeo. Centrales integradas en canales de riego. Centrales 
+en tuberías de suministro de agua potable.
+– 	 Situación actual y retos tecnológicos de la energía minihidráulica.
+– 	 Costes del uso de la energía minihidráulica.
+– 	 Ventajas e inconvenientes frente a las fuentes convencionales.
+– 	 Impacto medioambiental al utilizar la energía minihidráulica.
+4. Catalogación de los sistemas de aprovechamiento de la energía del mar:
+– 	 Origen de la energía de las olas.
+– 	 Espectro de energía de un océano en completo desarrollo. Superposición de 
+ondas de un estado típico del mar.
+– 	 Potencial de la energía de las olas.
+– 	 Clasificación de los dispositivos de captación en la costa o en su cercanía. 
+Dispositivos de captación ubicados fuera de la costa.
+– 	 Costes del uso de la energía de las olas.
+– 	 Energía maremotriz. Origen de la energía maremotriz.
+– 	 Potencial de la energía de las mareas. Costes.
+– 	 Tecnología empleada en estuarios y diques.
+– 	 Tecnología empleada en turbinas de corrientes marinas.
+– 	 Energía maremotérmica. Origen de la energía maremotérmica.
+– 	 Sistemas de ciclo abierto. Sistemas de ciclo cerrado. Sistemas de ciclo híbrido.
+– 	 Tipos de centrales maremotérmicas.
+– 	 Usos de la energía maremotérmica. Costes.
+– 	 Ventajas e inconvenientes frente a las fuentes convencionales.
+– 	 Impacto medioambiental al utilizar la energía del mar.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31674
+Lunes, 31 de julio de 2017
+5. Evaluación de los sistemas de producción con biocombustibles:
+– 	 Biocombustibles. Alternativa a los carburantes fósiles en la automoción y la 
+industria.
+– 	 Producción de biodiesel. Utilización y características del biodiesel. Retos 
+tecnológicos. Reducción del coste de la materia prima. Búsqueda de mercados 
+alternativos para la glicerina. Desarrollo de aditivos específicos para el biodiesel. 
+Ventajas e inconvenientes del biodiesel.
+– 	 Plantas de biodiesel en operación, ejecución o proyecto. Objetivos y producción 
+de biodiesel en España y en la Unión Europea.
+– 	 Impacto medioambiental al utilizar el biodiesel.
+– 	 Tabla comparativa de emisiones del biodiesel frente al diésel fósil. Valoración 
+ambiental «Ecotest».
+– 	 Sistemas de producción con bioetanol. Mecanismos de transformación del 
+recurso en energía final. Diagramas de producción de bioetanol.
+– 	 Procesos de pretratamiento. Físicos. Químicos. Biológicos.
+– 	 Objetivos y producción de bioetanol en España y en la Unión Europea.
+– 	 Desarrollo de tecnologías de proceso y materias primas alternativas.
+– 	 Plantas de producción de bioetanol existentes. Objetivos y producción de 
+bioetanol en España y en la Unión Europea.
+– 	 Costes del uso y medidas de apoyo del bioetanol. Ventajas e inconvenientes del 
+uso del bioetanol.
+– 	 Combinación con otras fuentes de energía.
+6. Discriminación de los sistemas de producción eléctrica o térmica por biomasa:
+– 	 Generación de energía con biomasa. Origen de la energía de la biomasa.
+– 	 Biomasa natural. Biomasa residual.
+– 	 Residuos sólidos urbanos.
+– 	 Cultivos energéticos. Cultivos tradicionales.
+– 	 Fuentes de biomasa.
+– 	 Procesos de aprovechamiento la energía de la biomasa.
+– 	 Residuos sólidos urbanos. Diagramas de actuaciones para su eliminación.
+– 	 Procesos de incineración y obtención de electricidad. Recuperación de gas de 
+vertedero. Eliminación de lixiviados.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31675
+Lunes, 31 de julio de 2017
+– 	 Costes del uso y medidas de apoyo a la biomasa. Ventajas e inconvenientes. 
+Combinación con fuentes convencionales.
+– 	 Impacto ambiental al utilizar la biomasa.
+7. Valoración de los sistemas de aprovechamiento de energía geotérmica:
+– 	 Origen de la energía geotérmica.
+– 	 Sistemas geotérmicos para producción de electricidad, calefacción y aire 
+acondicionado.
+– 	 Sistemas hidrotérmicos. Sistemas geopresurizados. Sistemas de roca caliente 
+seca.
+– 	 Clasificación de los dispositivos de captación. Evolución histórica. Esquemas de 
+funcionamiento.
+– 	 Componentes de las centrales. Características y tipos.
+– 	 Situación de explotación actual y retos tecnológicos de la energía geotérmica. 
+Costes del uso de la energía geotérmica. Ventajas e inconvenientes.
+– 	 Combinación con fuentes convencionales.
+– 	 Impacto ambiental al utilizar la energía geotérmica.
+8. Evaluación de los sistemas de producción, utilización y almacenamiento de 
+hidrógeno:
+– 	 Consideraciones generales sobre el hidrógeno.
+– 	 Formas de producción. Producción de hidrógeno a partir de biomasa.
+– 	 Producción de hidrógeno a partir de energía solar. Producción de hidrógeno por 
+medio de electrólisis.
+– 	 Producción termoquímica de alta temperatura de hidrógeno. Formas de 
+almacenamiento de hidrógeno. Costes de producción del hidrógeno.
+– 	 Funcionamiento de las pilas de combustible.
+– 	 Funcionamiento del motor de hidrógeno.
+– 	 Uso energético del hidrógeno.
+– 	 Ventajas e inconvenientes del uso del hidrógeno.
+– 	 Impacto medioambiental al utilizar el hidrógeno.
+9. Caracterización de sistemas de producción nuclear:
+– 	 Centrales nucleares. Partes de las centrales. Funcionamiento.
+– 	 Características de las centrales nucleares de fusión. Conceptos básicos de fusión 
+nuclear.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31676
+Lunes, 31 de julio de 2017
+– 	 Características de las centrales nucleares de fisión. Conceptos de fisión, 
+aplicaciones. Futuro de la fisión fría.
+– 	 Sistemas de centrales nucleares. Características propias de las centrales de 
+fusión. Características propias de las centrales de fisión.
+– 	 Seguridad de las centrales nucleares. Normas internacionales.
+– 	 Impacto medioambiental de los residuos de las centrales nucleares.
+– 	 Generación y costes de producción de las centrales nucleares. Comparativa.
+– 	 Ventajas e inconvenientes del uso de la energía nuclear.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para conocer los distintos 
+sistemas de producción eléctrica y térmica, utilizando tecnologías renovables, así como 
+conocer las nuevas tendencias energéticas en el campo de la producción eléctrica y 
+térmica.
+La función de conocer las los sistemas de producción eléctrico-térmica con energías 
+renovables incluye aspectos como:
+– 	 Evaluar el sector de las energías renovables.
+– 	 Valorar las ventajas e inconvenientes de cada uno de los sistemas.
+– 	 Valorar las posibilidades energéticas y económicas de los sistemas.
+– 	 Analizar los distintos sistemas energéticos.
+– 	 Evaluar las tendencias del mercado respecto a las energías renovables.
+Las actividades profesionales asociadas a esta función se aplican en:
+– 	 Estudios de mercado de las energías renovables a nivel internacional y 
+nacional.
+– 	 Valoración energética de los sistemas de producción eléctrica.
+– 	 Valoración económica de los distintos sistemas.
+– 	 Estudios técnicos de tendencia de las energías renovables.
+La formación del módulo profesional contribuye a alcanzar el objetivo general o) del 
+ciclo formativo y la competencia m) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional están relacionados con:
+– 	 Reconocer los distintos tipos de energías renovables aplicados al sector 
+energético.
+– 	 Discriminar las diferentes tecnologías de la producción energética con sistemas 
+solares térmicos.
+– 	 Reconocer el funcionamiento de las pequeñas centrales hidráulicas.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31677
+Lunes, 31 de julio de 2017
+– 	 Descubrir las tecnologías energéticas utilizando sistemas marinos.
+– 	 Reconocer los biodiesel como combustibles utilizados en producción de energía 
+eléctrica.
+– 	 Reconocer los sistemas geotérmicos en la producción de energía.
+– 	 Valorar la producción de hidrógeno y sus aplicaciones.
+– 	 Reconocer los sistemas de producción eléctrica mediante sistemas nucleares.
+Módulo profesional: Configuración de instalaciones solares fotovoltaicas.
+Equivalencia en créditos ECTS: 7.
+Código: 0681.
+Duración: 126 horas.
+Contenidos: 
+1. Cálculo del potencial solar e implantación de instalaciones solares:
+– 	 Necesidades energéticas en una vivienda.
+– 	 Consumos energéticos. Consumos eléctricos, energía eléctrica. Potencia 
+eléctrica. Factor de simultaneidad. Consumo de agua. Consumo de gas.
+– 	 Análisis de diferentes energías convencionales para el suministro de la energía 
+de apoyo a la instalación.
+– 	 Factores de emplazamiento de instalaciones solares. Análisis de sombreamiento 
+y repercusión de la orientación e inclinación en la captación solar en captadores 
+fotovoltaicos.
+– 	 El sol como fuente de energía. Radiación solar. Modelos de radiación solar, 
+medias mensuales y horarios.
+– 	 Potencial solar de una zona. Tablas y sistemas de medidas. Adquisición y 
+tratamiento estadístico de datos meteorológicos para la generación de datos 
+climáticos medios mensuales u horarios. Ficheros climáticos de datos horarios.
+– 	 Parámetros básicos para la determinación del potencial solar de una zona. 
+Conceptos. Tablas.
+– 	 Variables climáticas que afectan al rendimiento de las instalaciones solares. 
+Insolación, radiación global y temperatura ambiente.
+– 	 Estudios técnicos de ubicación y orientación para la realización de instalaciones 
+solares.
+– 	 Normativas de aplicación de instalaciones solares. REBT, CTE y RITE.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31678
+Lunes, 31 de julio de 2017
+2. Elaboración de anteproyectos de instalaciones solares:
+– 	 Instalación solar térmica. Componentes de la misma. Descripción de las diferentes 
+partes.
+– 	 Tipos de instalaciones solares térmicas. Instalación solar para refrigeración.
+– 	 Instalación solar fotovoltaica. Elementos que la componen.
+– 	 Tipos de instalación solar fotovoltaica. Aisladas y conectadas a red.
+– 	 Estudios económicos y financieros de una instalación solar. Elaboración del 
+presupuesto de una instalación solar.
+– 	 Normativas de aplicación de instalaciones solares. Normativa autonómica y 
+ordenanzas municipales.
+– 	 Reglamentación sobre productores de energía eléctrica en régimen especial.
+– 	 Trámites administrativos. Documentación administrativa.
+– 	 Ayudas financieras. Convocatorias.
+3. Configuración y cálculo de instalaciones solares fotovoltaicas aisladas:
+– 	 Conceptos y magnitudes básicas. Cálculos básicos. Dimensionamiento.
+– 	 Células fotovoltaicas. Generador fotovoltaico.
+– 	 Acumuladores. Reguladores. Conversores. Aplicaciones. Tipos. Características 
+técnicas.
+– 	 Interpretación y elaboración de esquemas de una instalación solar fotovoltaica 
+aislada. Esquemas unifilares. Simbología específica.
+– 	 Datos para el análisis y dimensionamiento de una instalación fotovoltaica aislada. 
+Ubicación, utilidad, nivel de utilización, características técnicas de los elementos 
+receptores, número y características de los usuarios, necesidades energéticas, 
+futuras ampliaciones y disponibilidad económica, entre otros.
+– 	 Descripción de equipos y elementos constituyentes de una instalación solar 
+fotovoltaica aislada. Receptores en c.c. y en c.a., acumuladores, paneles, 
+reguladores, inversores y protecciones, entre otros.
+– 	 Proceso de cálculo de una instalación solar fotovoltaica aislada. Comparación 
+con otras instalaciones de funcionamiento óptimo.
+– 	 Medición y registro de la producción de instalaciones solares fotovoltaicas 
+aisladas.
+– 	 Análisis de producción.
+– 	 Análisis de coste. Suministro. Compatibilidad de componentes.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31679
+Lunes, 31 de julio de 2017
+4. Configuración y cálculo de instalaciones solares fotovoltaicas conectadas a red:
+– 	 Esquema de una instalación solar fotovoltaica conectada a red. Simbología 
+específica.
+– 	 Clasificación de instalaciones en función del tamaño y ubicación. Huertos solares. 
+Parques fotovoltaicos. Pequeñas instalaciones.
+– 	 Datos para el análisis y dimensionamiento de una instalación fotovoltaica 
+conectada a red. Ubicación, superficie disponible, disponibilidad económica, 
+normativas vigentes, potencia a instalar, entre otros.
+– 	 Descripción de equipos y elementos constituyentes de una instalación solar 
+fotovoltaica conectada a red. Paneles, inversores, contadores, protecciones, 
+entre otros.
+– 	 Proceso de cálculo de una instalación solar fotovoltaica conectada a red. 
+Comparación con otras instalaciones de funcionamiento óptimo.
+– 	 Medición y registro de la producción de instalaciones solares fotovoltaicas 
+conectadas a red.
+– 	 Análisis de producción.
+– 	 Análisis de coste, suministro. Cambio de componentes.
+5. Selección de estructuras para instalaciones solares fotovoltaicas:
+– 	 Materiales normalizados. Designación, clasificación, propiedades técnicas y 
+codificación.
+– 	 Tratamientos superficiales. Tipos y propiedades que modifican los materiales.
+– 	 Características mecánicas de los materiales y elementos. Perfiles comerciales 
+utilizados en las estructuras.
+– 	 Conceptos básicos de estructura de materiales. Estática. Fuerza, momento. 
+Composición y descomposición de fuerzas. Equilibrio. Centro de gravedad.
+– 	 Conceptos fundamentales sobre la ubicación y colocación de paneles 
+fotovoltaicos. Tipos. Características.
+– 	 Estructuras fijas. Estructuras en el suelo, estructuras en poste, estructuras en 
+fachadas y estructuras sobre cubierta.
+– 	 Sistemas de anclaje. Puntos de apoyo. Elementos de anclaje. Materiales 
+utilizados. Aluminio, hierro, acero inoxidable, fibra de vidrio, entre otros.
+– 	 Estructuras móviles: el seguidor solar. Tipos. Características.
+– 	 Tipos de Seguimiento Solar: Seguimiento de la altura solar, seguimiento del 
+azimut solar. Seguimiento en un solo eje inclinado y seguimiento en dos ejes.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31680
+Lunes, 31 de julio de 2017
+6. Cálculo de instalaciones eléctricas de interior:
+– 	 Condiciones generales de las instalaciones interiores de viviendas y edificios. 
+Instrucciones técnicas específicas.
+– 	 Características especiales de los locales de pública concurrencia y/o de uso 
+industrial. Instrucciones técnicas específicas. Dispositivos de alumbrado. 
+Previsión de cargas en instalaciones de interior.
+– 	 Canalizaciones eléctricas. Tipos. Características técnicas. Instrucciones 
+técnicas.
+– 	 Cálculo de secciones de los conductores. Tipos. Características técnicas. 
+Instrucciones técnicas.
+– 	 Dispositivos de corte y protección. Tipos. Características técnicas. Instrucciones 
+técnicas.
+– 	 Instalaciones de puesta a tierra. Tipos. Características técnicas. Instrucciones 
+técnicas.
+7. Representación gráfica de instalaciones solares fotovoltaicas:
+– 	 Conceptos avanzados de croquización y perspectivas: diédrica e isométrica. 
+Normas ISO.
+– 	 Simbología eléctrica aplicada a las instalaciones eléctricas de propósito 
+general.
+– 	 Simbología necesaria para la representación de instalaciones fotovoltaicas. 
+Simbología eléctrica y electrónica, entre otras.
+– 	 Representación de circuitos eléctricos y electrónicos. Esquemas unifilares y 
+multifilares. Esquema funcional, esquema de cableado y conexionado.
+– 	 Esquemas y diagramas simbólicos funcionales. Diagramas de bloques de las 
+instalaciones.
+– 	 Planos. Diferentes tipos.
+– 	 Dibujo asistido por ordenador (CAD).
+8. Elaboración de documentación técnica de las instalaciones solares fotovoltaicas:
+– 	 Proyectos. Documentos y partes. Pliegos de condiciones. Normativas de 
+aplicación. Memorias e informes técnicos. Criterios estratégicos y tecnológicos. 
+Puntos críticos.
+– 	 Elaboración de los manuales de seguridad y protección. 
+– 	 Elaboración del manual de mantenimiento.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31681
+Lunes, 31 de julio de 2017
+– 	 Definición de partidas. Referencias y códigos comerciales. Concepto de precio 
+unitario de materiales y mano de obra. Concepto de presupuesto de ejecución 
+material. Concepto de gasto general, beneficio industrial e impuesto sobre el 
+valor añadido.
+– 	 Técnicas de seguridad. Riesgo. Definición e identificación. Evaluación de riesgos. 
+Elección de medidas. Implantación de medidas. Normativa de aplicación. Equipos 
+de protección individual.
+– 	 Técnicas de protección ambiental. Legislación ambiental.
+– 	 Calidad. Sistemas, criterios y control. Normas.
+9. Cumplimentación de la documentación administrativa para la obtención 
+subvenciones:
+– 	 Procesos administrativos para la autorización de instalaciones. Procesos 
+nacionales. Procesos autonómicos.
+– 	 Documentación técnica asociada a soluciones técnicas. Proyecto técnico.
+– 	 Documentos administrativos para la instalación. 
+– 	 Tipos de subvenciones estatales y autonómicas. Búsqueda de información y 
+asesoramiento.
+– 	 Elaboración de memorias y demás documentos.
+– 	 Normas de aplicación para la autorización de la instalación. Boletín de 
+instalación.
+– 	 Estudio de amortización de las instalaciones. Costes de instalación. Costes de 
+amortización. Cálculos energéticos.
+– 	 Valoración de los consumos energéticos. Valoración del precio de la energía.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para realizar asesoramiento 
+energético y desarrollar proyectos de instalaciones solares fotovoltaicas.
+La definición de estas funciones incluye aspectos como:
+– 	 Determinación del tipo de suministro energético más apropiado.
+– 	 Determinación de la viabilidad de implantación de instalaciones solares.
+– 	 Selección de los elementos, equipos, componentes y materiales de una instalación 
+solar fotovoltaica.
+– 	 Cálculo de instalaciones solares fotovoltaicas.
+– 	 Supervisión funcional de la instalación solar fotovoltaica.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31682
+Lunes, 31 de julio de 2017
+– 	 Realización de la documentación técnica de la instalación.
+– 	 Realización de la documentación administrativa.
+Las actividades profesionales asociadas a estas funciones se aplican en:
+– 	 Realización de informes técnicos y económicos asesorando sobre la viabilidad 
+de implantar instalaciones solares.
+– 	 Asesoramiento sobre la tramitación administrativa de las instalaciones solares.
+– 	 Realización de planos y pliegos de condiciones de instalaciones solares 
+fotovoltaicas.
+– 	 Dimensión de pequeñas instalaciones fotovoltaicas conectadas, o no, a red.
+– 	 Elaboración de presupuestos de instalaciones solares fotovoltaicas.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales i), 
+j), k), l), y ñ) del ciclo formativo, y las competencias l), m), n) y ñ) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+– 	 Evaluar el potencial energético.
+– 	 Realizar de anteproyectos.
+– 	 Calcular y configurar instalaciones fotovoltaicas de todo tipo.
+– 	 Seleccionar estructuras de los elementos solares.
+– 	 Confeccionar la documentación técnica y gráfica de la instalación.
+Módulo profesional: Gestión del montaje de instalaciones solares fotovoltaicas.
+Equivalencia en créditos ECTS: 11.
+Código: 0682.
+Duración: 147 horas.
+Contenidos:
+1. Tipos de instalaciones fotovoltaicas:
+– 	 Funcionamiento global y configuración de una instalación solar fotovoltaica 
+conectada a red. Funcionamiento global y configuración de una instalación solar 
+fotovoltaica aislada. Almacenamiento y acumulación.
+– 	 Funcionamiento global y configuración de una instalación de apoyo con pequeño 
+aerogenerador, grupo electrógeno o equipo similar.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31683
+Lunes, 31 de julio de 2017
+– 	 Documentos y la información necesaria para organizar el montaje de la instalación. 
+Catálogos técnicos. Catálogo de fabricantes.
+– 	 Sistemas de protección y seguridad en el funcionamiento de las instalaciones. 
+Especificaciones técnicas y descripción de equipos y elementos constituyentes. 
+Módulos fotovoltaicos. Inversores autónomos y de conexión a red. Acumuladores 
+compactos y vasos de 2 V, pequeños aerogeneradores, grupos electrógenos, 
+equipos de regulación y control, y aparatos de medida y protección.
+– 	 Diseño de instalaciones fotovoltaicas conectadas a red. Precauciones. Tipos. 
+Esquemas funcionales. Esquemas eléctricos.
+– 	 Diseño del sistema de seguimiento de una instalación fotovoltaica. Planos. 
+Esquemas. Cálculos técnicos. Catálogos.
+– 	 Funcionamiento y características de las instalaciones fotovoltaicas con apoyo 
+energético.
+– 	 Características técnicas de los elementos de guiado de instalaciones 
+fotoeléctricas.
+– 	 Características técnicas de los sistemas de telecontrol instalados en instalaciones 
+fotovoltaicas.
+– 	 Normativa de aplicación: pliego de condiciones técnicas para instalaciones 
+aisladas de red, pliego de condiciones, técnicas para instalaciones conectadas 
+a red, ordenanzas municipales, reglamento de seguridad, código técnico de la 
+edificación, REBT y sus ITC, normas UNE de aplicación en estas instalaciones.
+2. Selección de los equipos y elementos de las instalaciones solares fotovoltaicas:
+– 	 Determinación y selección de equipos y elementos necesarios para el montaje. 
+Tipos. Esquemas de conexionado. Catálogos de fabricantes.
+– 	 Selección de paneles fotovoltaicos. Características. Precauciones. Tipología. 
+Criterios de selección.
+– 	 Estructuras y anclaje. Cálculos justificativos. Perfiles. Estructuras prefabricadas. 
+Apoyos.
+– 	 Elementos de sincronización, regulación y control. Criterios de selección. Tipos. 
+Normativa. Incompatibilidades.
+– 	 Selección de sistemas de acumulación de energía. Selección de baterías. 
+Ubicación. Tipos.
+– 	 Elección de tipos de convertidores utilizados en instalaciones fotovoltaicas. 
+Convertidores c.a. y c.c. Filtros y parásitos en la red.
+– 	 Elección del sistema de seguimiento solar. Tipos. Características. Catálogos.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31684
+Lunes, 31 de julio de 2017
+3. Elaboración de documentación técnica para el montaje de instalaciones solares 
+fotovoltaicas:
+– 	 Manejo de proyectos y memorias técnicas. Concepto y tipos de proyectos y 
+memorias técnicas.
+– 	 Documentos que componen un proyecto. La memoria, planos, presupuestos. 
+Pliego de condiciones y el estudio de seguridad y salud y de impacto ambiental. 
+Planos de situación y emplazamiento.
+– 	 Planos de detalle y de conjunto. Diagramas. Flujogramas y cronogramas 
+empleados en estas instalaciones.
+– 	 Procedimientos y operaciones de replanteo de las instalaciones.
+– 	 Especificación y Secuenciación del proceso de montaje. Planificación del 
+aprovisionamiento de materiales. Desarrollo de cronogramas para la supervisión 
+del montaje. La Gestión de los partes de trabajo. 
+– 	 Manejo de software para representación y diseño de instalaciones solares 
+fotovoltaicas. Programas. Tipos. Periféricos.
+– 	 Interpretación de planos y esquemas.
+– 	 Operaciones básicas con archivos gráficos.
+4. Montaje de instalaciones solares fotovoltaicas aisladas:
+– 	 Acometidas y cuadros de protección general. Protecciones. Tipos y características. 
+Canalizaciones y conducciones. Conductores eléctricos. Equipos eléctricos y 
+electrónicos de protección, maniobra y seguridad.
+– 	 Motorizaciones y sistemas automáticos de seguimiento solar.
+– 	 Tipos de módulos y laminados. Especificaciones eléctricas y mecánicas.
+– 	 Sistemas de agrupamiento y formas de conexionado de los generadores 
+fotovoltaicos. Montaje de módulos y cuadro de control del generador 
+fotovoltaico.
+– 	 Orientación e inclinación optima del generador solar y estudio de las sombras. 
+Seguimiento solar en uno o más ejes.
+– 	 Montaje de estructuras de sujeción de instalaciones solares fotovoltaicas. 
+Desplazamiento e izado de equipos y materiales.
+– 	 Montaje de estructuras resistentes para cada tipo de cubierta. Tipos. Materiales 
+constructivos. Soportes y anclajes. Resistencia de los elementos constructivos. 
+Impermeabilización.
+– 	 Integración arquitectónica y urbanística. Estética y técnica.
+– 	 Estructuras de los sistemas de seguimiento. Seguimiento en uno y dos ejes.
+– 	 Montaje de sistemas de acumulación. Estructuras de los sistemas eólicos. 
+Bancadas de grupos electrógenos de apoyo.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31685
+Lunes, 31 de julio de 2017
+5. Montaje de instalaciones solares fotovoltaicas conectadas a red:
+– 	 Replanteo de la instalación fotovoltaica conectada a red. Características 
+específicas.
+– 	 Conexión a la red de los sistemas fotovoltaicos. Características. Condiciones 
+específicas de las compañías suministradoras.
+– 	 Montaje de estructuras soportes móviles de distintas tecnologías. Características 
+especiales. Ambientes agresivos.
+– 	 Montaje de circuitos y equipos eléctricos de instalaciones solares fotovoltaicas.
+– 	 Montaje de baterías. Montaje de filtros. Efectos del ruido eléctrico en las 
+instalaciones eléctricas.
+– 	 Interconexión de los diferentes subsistemas de las instalaciones solares 
+fotovoltaicas. Precauciones y características. Normativa de aplicación.
+– 	 Montaje de equipos de tarificación y protección. Equipos de tarificación. Seguridad 
+en la instalación. Equipos de protección.
+– 	 Pruebas eléctricas y ajustes de las instalaciones fotovoltaicas. Ajuste de circuitos 
+de control. Control de los puntos críticos. Valores de aceptación.
+– 	 Documentación técnica relacionada con la puesta en funcionamiento.
+– 	 Útiles, herramientas y medios empleados en el montaje. Técnicas de utilización.
+– 	 Riesgos derivados de los sistemas de seguimiento solar.
+– 	 Marcación de las zonas de trabajo. Señalizaciones de seguridad.
+6. Elaboración del plan de mantenimiento de instalaciones solares fotovoltaicas:
+– 	 Mantenimiento de instalaciones solares fotovoltaicas. Procedimientos y 
+operaciones. Operaciones de mantenimiento preventivo en instalaciones 
+fotovoltaicas. Comprobación y ajuste de los parámetros a los valores de consigna. 
+Averías críticas. Plan de actuación que hay que seguir. 
+– 	 Manual de procedimiento en las operaciones de mantenimiento.
+– 	 Documentación del mantenimiento. Partes de trabajo. Albaranes.
+– 	 Determinación de recursos humanos y materiales. Identificación de recursos 
+humanos en las operaciones de mantenimiento. Identificación de medios 
+materiales para la realización del mantenimiento. Disposición de repuestos 
+fundamentales. Elaboración del presupuesto.
+– 	 El presupuesto de mantenimiento. Característica y tipos.
+– 	 El manual de mantenimiento. Elementos básicos y estructura. El libro de 
+incidencias. Características y redacción. Registro en el libro de incidencias.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31686
+Lunes, 31 de julio de 2017
+– 	 Almacén y materiales de mantenimiento de instalaciones solares fotovoltaicas. 
+Recepción y codificación de suministros. Organización del almacén. Gestión del 
+stock.
+– 	 Sistemas de gestión y almacenamiento de compras.
+– 	 Software informático para la gestión del plan del mantenimiento.
+7. Supervisión del mantenimiento de instalaciones solares fotovoltaicas:
+– 	 Técnicas de supervisión de las operaciones de mantenimiento preventivo.
+– 	 Organización del mantenimiento de instalaciones solares fotovoltaicas.
+– 	 Planificación y programación del mantenimiento. Planes de mantenimiento. 
+Tareas del mantenimiento preventivo. Sistemas automáticos de telemedida y 
+telecontrol.
+– 	 Tipos de averías y su diagnóstico.
+– 	 Operaciones de desmontaje y sustitución de equipos y componentes.
+– 	 Operaciones de mantenimiento y reparación de componentes.
+– 	 Herramientas en el mantenimiento. El almacén de material de mantenimiento.
+– 	 Tipos de maniobras y ajustes en el mantenimiento de instalaciones 
+fotovoltaicas.
+– 	 Operaciones de ajuste y adaptación estacional de instalaciones, Precauciones y 
+ajustes con las variaciones climatológicas.
+– 	 Cálculo de necesidades. Planificación de cargas. Determinación de tiempos.
+– 	 Documentación para la planificación y programación. Orden de trabajo. Plan de 
+seguridad en el mantenimiento de instalaciones solares fotovoltaicas.
+– 	 Gestión del mantenimiento de instalaciones solares fotovoltaicas asistido por 
+ordenador.
+– 	 Documentación económica y administrativa en el mantenimiento. Facturas y 
+presupuestos. Libro del edificio o la instalación y otros documentos oficiales 
+relacionados con el registro, la inspección y el control.
+– 	 Reglamentación de las instalaciones fotovoltaicas relacionadas con el 
+mantenimiento.
+8. Prevención de riesgos, seguridad y protección medioambiental:
+– 	 Normativa de prevención de riesgos laborales relativa a las instalaciones 
+fotovoltaicas.
+– 	 Prevención de riesgos laborales en los procesos de montaje y mantenimiento.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31687
+Lunes, 31 de julio de 2017
+– 	 Identificación de las medidas de seguridad a adoptar para evitar los riesgos 
+existentes.
+– 	 Equipos de protección individual. Características y criterios de utilización. 
+Protección colectiva. Medios y equipos de protección.
+– 	 Fuentes de contaminación del entorno. Clasificación de residuos.
+– 	 Normativa reguladora en gestión de residuos.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para realizar la supervisión, 
+montaje, mantenimiento y reparación de instalaciones solares fotovoltaicas tanto de 
+sistemas aislados como de los conectados a la red, así como la tramitación de los permisos, 
+licencias y subvenciones correspondientes.
+La definición de estas funciones incluye aspectos como:
+– 	 Replanteamiento, montaje, ajuste y puesta en marcha de instalaciones.
+– 	 Mantenimiento general y especializado.
+– 	 Adaptación y mejora de las instalaciones.
+– 	 Gestión y aplicación de la prevención de riesgos.
+Las actividades profesionales asociadas a estas funciones se aplican en:
+– 	 Promoción de instalaciones solares fotovoltaicas.
+– 	 Configuración de instalaciones solares fotovoltaicas.
+– 	 Supervisión del montaje de instalaciones solares fotovoltaicas.
+– 	 Supervisión del mantenimiento de instalaciones solares fotovoltaicas.
+– 	 Gestión de pequeñas centrales solares fotovoltaicas.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+del ciclo formativo l), m) y n) y las competencias i), j) y k) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+– 	 Reconocimiento de tipos instalaciones solares y sus elementos.
+– 	 Selección y configuración de diferentes partes de una instalación solar 
+fotovoltaicas.
+– 	 Montaje y puesta en marcha instalaciones solares fotovoltaicas.
+– 	 Mantenimiento y reparación de instalaciones solares fotovoltaicas.
+– 	 Supervisión del montaje y el mantenimiento de instalaciones fotovoltaicas.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31688
+Lunes, 31 de julio de 2017
+Módulo profesional: Gestión del montaje de parques eólicos.
+Equivalencia en créditos ECTS: 11.
+Código: 0683.
+Duración: 126 horas.
+Contenidos:
+1. Caracterización del funcionamiento de centrales de energía eólica:
+– 	 Sistemas de aprovechamiento eólico. Meteorología, viento y energía eólica.
+– 	 Parques eólicos. Composición y funcionamiento. Emplazamiento e impacto 
+ambiental. Funcionamiento global y configuración de la instalación. Sistemas de 
+seguridad en el funcionamiento de las instalaciones.
+– 	 Especificaciones y descripción de equipos y elementos constituyentes de una 
+instalación de energía eólica: aerogeneradores, torres, góndolas, palas, rotor y 
+multiplicadoras.
+– 	 Generadores. Tipos. Generadores síncronos y asíncronos.
+– 	 Transformadores. Conductores, equipos de medida y de control.
+– 	 Sistemas de evacuación de energía. Líneas aéreas.
+– 	 Normativa de aplicación de ámbito europeo, nacional, regional y local. 
+Reglamentos de seguridad y normativa medioambiental.
+2. Planificación del montaje de parques eólicos:
+– 	 Configuración de instalaciones eólicas.
+– 	 Concepto y tipos de proyectos de parques eólicos. Memoria, planos, estudio 
+básico de seguridad y salud, presupuesto y pliego de condiciones. Planos de 
+situación. Planos de detalle y de conjunto. Planos simbólicos, esquemas y 
+diagramas lógicos.
+– 	 Diagramas de fases, flujogramas y cronogramas.
+– 	 Software de representación y diseño asistido.
+– 	 Visualización e interpretación de planos digitalizados.
+– 	 Operaciones básicas con archivos gráficos.
+– 	 Métodos para procedimentar el montaje de instalaciones. Procedimientos de 
+obra civil. Procedimientos de montaje.
+3. Caracterización de los procesos de montaje en parques eólicos marinos:
+– 	 Parques eólicos marinos. Emplazamiento. Impacto ambiental.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31689
+Lunes, 31 de julio de 2017
+– 	 Diferencias con los parques terrestres.
+– 	 Cimentaciones, anclajes, plataforma base, sistema de acceso y generador, entre 
+otros.
+– 	 Funcionamiento global y configuración de la instalación. Sistema de evacuación 
+de energía, conductores, equipos de medida y de control.
+– 	 Especificaciones metodológicas para el montaje de aerogeneradores y parques 
+eólicos marinos. Organización del montaje. Técnicas de planificación estratégica. 
+Procedimientos de montaje. Métodos de ensamblaje, atornillado y nivelado, entre 
+otros.
+– 	 Optimización de instalaciones. Ensayos de instalaciones y equipos.
+– 	 Sistemas de seguridad en el funcionamiento de las instalaciones de parques 
+marinos. Riesgos asociados a las condiciones climatológicas y al medio marino. 
+Protocolos de actuación en caso de riesgo y/o accidente.
+– 	 Normativa de aplicación de ámbito europeo, nacional, regional y local. 
+Reglamentos de seguridad y normativa medioambiental.
+4. Elaboración de planes de aprovisionamiento en parques eólicos:
+– 	 Programa de aprovisionamiento. Clases y características.
+– 	 Control logístico. Aprovisionamiento en el montaje de parques eólicos.
+– 	 Plan de demanda, aprovisionamiento, almacenaje y puesta en obra de equipos 
+propios de las instalaciones de energía eólica.
+– 	 Gestión del aprovisionamiento. Almacén general. Almacén de equipos. Almacén 
+de obra.
+– 	 Coordinación en el aprovisionamiento. Tiempos de espera. Control de stock.
+– 	 Plan de calidad en el montaje de instalaciones eólicas. Métodos para procedimentar 
+planes de aprovisionamiento. Normas de aplicación: ISO9001:2000 y EFQM.
+– 	 Plan de seguridad en el montaje de instalaciones eólicas.
+– 	 Software informático de planificación asistida. Gestión informática del 
+aprovisionamiento. Técnicas de control por código de barras. Técnicas de control 
+basado en telecomunicaciones.
+– 	 Operaciones básicas con archivos informáticos.
+5. Configuración de instalaciones de pequeña potencia:
+– 	 Valores básicos para la configuración de parques eólicos. Potencia requerida. 
+Acopio de datos.
+– 	 Estudio de viento. Análisis del entorno. Condiciones atmosféricas.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31690
+Lunes, 31 de julio de 2017
+– 	 Características técnicas de los aerogeneradores de pequeña potencia. Tipos. 
+Características. Condiciones de uso. Aplicaciones típicas.
+– 	 Características técnicas del convertidor. Regulador de tensión. Elementos 
+auxiliares. Tipos de convertidores. Criterios de selección. Armónicos y ruido 
+eléctrico.
+– 	 Sistema de almacenamiento de energía eléctrica. Baterías de acumuladores 
+convencionales y de gel. Condiciones de uso. Características fundamentales. 
+Almacenaje. Características medioambientales.
+– 	 Cálculos de dimensionamiento de las instalaciones. Cálculos de los 
+aerogeneradores. Dimensionamiento de baterías. Cálculo de sección de 
+conductores. Dimensionamiento de protecciones. Selectividad. Características 
+de normalización de los equipos y sistemas auxiliares.
+– 	 Sistemas de conexión a red. Conexión directa a red. Conexión con almacenamiento. 
+Conexión con apoyo.
+– 	 Documentación técnica. Catálogos, permisos y subvenciones, entre otros.
+6. Montaje de aerogeneradores:
+– 	 Tareas previas al montaje de un parque eólico. Infraestructuras, obra civil y 
+acondicionamiento de terrenos, entre otros.
+– 	 Cimentación y anclaje. Cálculos de cimentaciones. Cálculos de anclajes.
+– 	 Trabajos de izado de la torre. Maquinaria necesaria para el izado de torres. 
+Elementos auxiliares utilizados en el montaje de torres.
+– 	 Puesta en obra de la nacelle.
+– 	 Técnicas de montaje del rotor, buje y palas. Tareas de acoplamiento del generador 
+al eje principal. Acoplamiento directo y mediante multiplicadora.
+– 	 Trabajos de reglado de los elementos de orientación y seguridad. Reglado de 
+veleta, anemómetro, orientación de palas y frenado, entre otros.
+– 	 Instalación de transformador. Protecciones y cables, entre otros.
+– 	 Comprobación de presencia de energía generada. Medidas de voltaje, intensidad 
+y potencia entre otras.
+7. Evaluación de los riesgos de los parques eólicos marinos:
+– 	 Riesgos asociados al acceso y evacuación de aerogeneradores marinos. 
+Recomendaciones de seguridad. Técnicas marítimas básicas. Elementos marinos 
+de evacuación y seguridad.
+– 	 Riesgos de las actividades profesionales en parques eólicos. Riesgo para 
+la instalación de un parque eólico marino. Riesgos asociados a la ubicación. 
+Organismos de control marítimo.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31691
+Lunes, 31 de julio de 2017
+– 	 Riesgos profesionales de la puesta en servicio y energización de un parque eólico 
+marino. Protocolos de actuación.
+– 	 Riesgos y actuaciones de seguridad en el mantenimiento en un parque eólico 
+marino. Planes específicos de mantenimiento.
+– 	 Riesgos de las sustancias y materiales peligrosos presentes en las instalaciones de 
+energía eólica marina. Riesgo eléctrico en instalaciones en entornos acuosos.
+– 	 Medidas de control y prevención de riesgos en parques eólicos marinos y sus 
+sistemas asociados. Predicción e información meteorológica. Seguridad en 
+navegación. Emergencias específicas en el mar.
+8. Utilización de equipos de seguridad y protección personal empleados en las 
+labores de montaje y mantenimiento de parques eólicos:
+– 	 Características de los equipos de protección individual. Ropa de trabajo específica. 
+Clasificación. Tipos. Usos.
+– 	 Características de los equipos de seguridad en presencia de tensión eléctrica. 
+Utilización de equipos. Equipos aislantes para instalaciones en alta tensión.
+– 	 Características de los equipos de seguridad para el ascenso y el descenso. 
+Técnicas de uso de equipos. Técnicas de escalada. Técnicas de descenso. 
+Técnicas de rescate.
+– 	 Características de los equipos de seguridad para el control de caídas. Tipos y 
+empleo. Equipos fundamentales en el rescate.
+– 	 Características de los equipos inalámbricos de telecomunicación. Funcionamiento 
+y utilización. Sistemas de radiocomunicación. Tipos y características de los 
+equipos de radiocomunicación. Aplicaciones.
+– 	 Equipos de telecomunicación aplicados a instalaciones eólicas.
+– 	 Señalización. Delimitación de zonas de protección. Tareas. Actuaciones de 
+seguridad en parques eólicos. Zonas de seguridad eléctrica. Zonas de libre 
+acceso. Delimitación de espacios.
+– 	 Inspección y mantenimiento de los equipos de seguridad personal.
+– 	 Características de los chalecos salvavidas. Elementos visuales en parques 
+eólicos marinos. Utilización de chalecos. Tipos. Características. Normativa.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación básica necesaria para desempeñar la 
+gestión y coordinación del montaje de instalaciones eólicas.
+La definición de estas funciones incluye aspectos como:
+– 	 Identificación de la documentación técnica de las instalaciones eólicas de 
+producción de energía eléctrica.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31692
+Lunes, 31 de julio de 2017
+– 	 Conocimiento de la normativa aplicable para el desarrollo de los parques 
+eólicos.
+– 	 Procedimientos de montaje de instalaciones eólicas.
+– 	 Organización del montaje de instalaciones eólicas.
+– 	 Configuración de instalaciones eólicas.
+– 	 Montaje de aerogeneradores y parques eólicos.
+– 	 Mantenimiento de instalaciones eólicas y aerogeneradores.
+– 	 Supervisión y utilización de sistemas de seguridad.
+Las actividades profesionales asociadas a esta función se aplican en:
+– 	 Organización del proceso de montaje de instalaciones eólicas.
+– 	 Elaboración del programa de aprovisionamiento.
+– 	 Montaje de equipos eólicos.
+– 	 Montaje de sistemas auxiliares de las instalaciones.
+– 	 Desarrollo, coordinación y supervisión de las intervenciones del montaje de los 
+equipos e instalaciones.
+– 	 Confección y gestión de la documentación, técnica y administrativa del parque 
+eólico.
+– 	 Organización de planes de seguridad específicos de instalaciones eólicas.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+a), b), c), d), h) e i) del ciclo formativo, y las competencias a), b), e) y f) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional están relacionados con:
+– 	 Identificar los elementos, máquinas y desarrollo de procesos del montaje.
+– 	 Elaborar planes de montaje teniendo en cuenta la normativa vigente de control 
+de calidad, de prevención de riesgos y de gestión e impacto medioambiental.
+– 	 Especificar técnicas del montaje y el seguimiento del protocolo de pruebas de las 
+instalaciones.
+– 	 Montar aerogeneradores.
+– 	 Preparar los manuales de instrucción de los equipos e instalaciones.
+– 	 Organizar el mantenimiento de parques eólicos.
+– 	 Reconocer y utilizar equipos y sistemas de seguridad específicos de parques 
+eólicos terrestres y marinos.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31693
+Lunes, 31 de julio de 2017
+Módulo profesional: Operación y mantenimiento de parques eólicos.
+Equivalencia en créditos ECTS: 12.
+Código: 0684.
+Duración: 168 horas.
+Contenidos:
+1. Caracterización de procesos de la puesta en marcha de instalaciones eólicas:
+– 	 Tipos de aerogeneradores. Por tipo de eje. Por orientación. Por número de palas. 
+Por control de potencia.
+– 	 Partes de un aerogenerador.
+– 	 Principio de funcionamiento de un aerogenerador.
+– 	 Procesos de puesta en marcha de un aerogenerador. Equipos necesarios. 
+Parámetros que hay que controlar.
+– 	 Seguridad y medio ambiente.
+2. Realización de las operaciones de puesta en marcha, regulación y control:
+– 	 Equipos y técnicas para el chequeo eléctrico. Equipos y técnicas para el chequeo 
+mecánico.
+– 	 Procedimientos y operaciones para la toma de medidas.
+– 	 Maniobras de puesta en servicio y paro de la instalación. Procedimientos de 
+seguridad.
+– 	 Protocolos para la puesta en tensión de instalaciones.
+– 	 Comprobación de subsistemas de orientación, frenado y pitch.
+– 	 Tipos de control.
+– 	 Principios de regulación y control. El ordenador como elemento de control. El 
+autómata programable. Control PID. Módulos de control.
+– 	 Circuitos típicos de control neumático, hidráulico y eléctrico en aerogeneradores. 
+Bloques de control.
+– 	 Medida de variables físicas. Transductores.
+3. Elaboración de un plan de mantenimiento de una instalación de energía eólica:
+– 	 Estructura del mantenimiento. Función, objetivos y tipos.
+– 	 Organización del mantenimiento. Inspecciones.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31694
+Lunes, 31 de julio de 2017
+– 	 Técnicas de diagnóstico y localización.
+– 	 Mantenimiento de equipos y elementos. Procedimientos y medios.
+– 	 Gestión económica del mantenimiento. El coste del mantenimiento integral. 
+Almacén y material de mantenimiento. Suministros.
+– 	 Organización y gestión del almacén de mantenimiento.
+4. Definición de procedimientos para el mantenimiento preventivo y correctivo de 
+instalaciones de energía eólicas:
+– 	 Programa de mantenimiento. Herramientas informáticas. GMAO (Gestión del 
+mantenimiento asistido por ordenador).
+– 	 Planificación y gestión del mantenimiento preventivo. Partes fundamentales del 
+plan de mantenimiento.
+– 	 Medidas de parámetros. Procedimientos de obtención y registro. Históricos de 
+registros. Actuaciones de mantenimiento basada en históricos.
+– 	 Análisis termográficos de vibraciones y de aceites. Valoración visual de defectos 
+eléctricos. Criterios de aceptación de reparación.
+– 	 Sistemas de monitorización de vibraciones. Medición de vibraciones. Parámetros 
+normativos de vibraciones en instalaciones eléctricas.
+– 	 Análisis de aceite.
+5. Realización del mantenimiento preventivo de instalaciones de energía eólica:
+– 	 Área de trabajo. Adecuación.
+– 	 Tipología de averías. Averías eléctricas. Averías mecánicas. Averías 
+atmosféricas.
+– 	 Operaciones de recambio de equipos. Técnicas de aprendizaje de recambio de 
+equipos por medios audiovisuales.
+– 	 Operaciones mecánicas en el mantenimiento de instalaciones de energía eólica. 
+Soldadura. Roscado. Unión de elementos.
+– 	 Operaciones eléctricas de mantenimiento de circuitos. Medidas. Compatibilidad 
+de elementos.
+– 	 Equipos y herramientas habituales en el mantenimiento instalaciones de energía 
+eólica.
+– 	 Limpieza de equipos e instalaciones: tipos y procedimientos.
+– 	 Engrase de equipos: tipos y procedimientos.
+– 	 Documentación generada. Soportes informáticos para la documentación de 
+incidentes e históricos de averías.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31695
+Lunes, 31 de julio de 2017
+6. Realización del mantenimiento correctivo de instalaciones de energía eólica:
+– 	 Diagnóstico de averías en instalaciones de energía eólica.
+– 	 Procedimientos de aislamiento mecánico y eléctrico de los diferentes 
+componentes.
+– 	 Métodos para la reparación de los distintos componentes de las instalaciones.
+– 	 Desmontaje y reparación o reposición de equipos y componentes.
+– 	 Equipos y herramientas habituales en el mantenimiento instalaciones de energía 
+eólica.
+– 	 Sistemas de comprobación y procedimientos de puesta en funcionamiento de la 
+instalación.
+7. Aplicación de protocolos de emergencia y de primeros auxilios en parques 
+eólicos:
+– 	 Plan de emergencia en parques eólicos terrestres y marinos. Protocolos 
+específicos en parques marinos. Protocolos en parques terrestres de fácil acceso. 
+Protocolos en parques de montaña.
+– 	 Dispositivos de emergencia, equipos y medidas de protección propios de los 
+parques eólicos. Elementos de protección básicos.
+– 	 Tipología de accidentes en parques eólicos. Accidentes eléctricos. Características 
+y actuación. Accidente ambiental. Accidente físico.
+– 	 Actuaciones ante accidentes o contingencias: atrapamientos, caídas, incendios y 
+electrocución, entre otros. Emergencias sanitarias. Conceptos básicos.
+– 	 Reanimación. Cohibición de hemorragias. Inmovilizaciones y vendajes. Primeros 
+auxilios en parques eólicos. Elementos sanitarios de reanimación y curas.
+– 	 Técnicas de actuación en simulacros de extinción de incendios. Colaboración 
+con los cuerpos especializados de emergencias.
+– 	 Procedimientos de evacuación de aerogeneradores y parques eólicos.
+– 	 Técnicas de conducción de vehículos todoterreno en los procesos de acceso y 
+evacuación de parques eólicos. Conducción en terrenos pantanosos.
+– 	 Normativa específica de emergencia y de valoración de daños.
+8. Prevención de riesgos, seguridad y protección medioambiental:
+– 	 Normativa de prevención de riesgos laborales relativa a las instalaciones 
+eólicas.
+– 	 Prevención de riesgos laborales en los procesos de montaje y mantenimiento.
+– 	 Equipos de protección individual. Características y criterios de utilización.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31696
+Lunes, 31 de julio de 2017
+– 	 Protección colectiva. Medios y equipos de protección.
+– 	 Normativa reguladora en gestión de residuos.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar las 
+funciones de planificar y realizar las operaciones de puesta en marcha y el mantenimiento 
+aplicados en los procesos de instalaciones eólicas.
+La definición de estas funciones incluye aspectos como:
+– 	 Elaboración de memorias para la puesta en marcha y mantenimiento de 
+instalaciones eólicas.
+– 	 Planificación de los procesos del mantenimiento.
+– 	 Planificación de pruebas para la puesta en marcha de las instalaciones eólicas.
+– 	 Supervisión del mantenimiento preventivo de las instalaciones eólicas.
+– 	 Diagnóstico de averías y reparación de los equipos y elementos de instalaciones 
+eólicas.
+– 	 Gestión del plan de prevención de riesgos laborales.
+Las actividades profesionales asociadas a esta función se aplican en:
+– 	 Gestión de las operaciones de puesta en marcha de parques eólicos. Planificación 
+de la puesta en marcha.
+– 	 Supervisión y control de centrales eólicas.
+– 	 Planificación del mantenimiento.
+– 	 Control y calidad del mantenimiento.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+b), c), d), e), f), g), h) e i) y del ciclo formativo, y las competencias b), c), d), e) y f) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+– 	 Identificar la tipología de instalaciones eólicas.
+– 	 Interpretar y realizar planos, esquemas y croquis.
+– 	 Desarrollar procedimientos de puesta en marcha.
+– 	 Identificar unidades de obra y su coste para el mantenimiento.
+– 	 Elaborar planes de mantenimiento.
+– 	 Desarrollar hipótesis de disfunción de las instalaciones.
+– 	 Elaborar procedimientos para la localización de averías.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31697
+Lunes, 31 de julio de 2017
+Módulo Profesional: Proyecto de energías renovables.
+Equivalencia en créditos ECTS: 5.
+Código: 0686.
+Duración: 30 horas.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional complementa la formación establecida para el resto de los 
+módulos profesionales que integran el título en las funciones de análisis del contexto, 
+diseño del proyecto y organización de la ejecución.
+La función de análisis del contexto incluye las subfunciones de recopilación de 
+información, identificación de necesidades y estudio de viabilidad.
+La función de diseño del proyecto tiene como objetivo establecer las líneas generales 
+para dar respuesta a las necesidades planteadas concretando los aspectos relevantes 
+para su realización. Incluye las subfunciones de definición del proyecto, planificación de la 
+intervención y elaboración de la documentación.
+La función de organización de la ejecución incluye las subfunciones de programación 
+de actividades, gestión de recursos y supervisión de la intervención.
+Las actividades profesionales asociadas a estas funciones se desarrollan en el 
+sector de generación de energía eléctrica.
+La formación del módulo profesional se relaciona con la totalidad de los objetivos 
+generales del ciclo y de las competencias profesionales, personales y sociales del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional están relacionadas con:
+– 	 La responsabilidad y la autoevaluación del trabajo realizado.
+– 	 La autonomía y la iniciativa personal.
+– 	 El uso de las Tecnologías de la Información y de la Comunicación.
+La metodología aplicada en este módulo profesional debe favorecer experiencias de 
+aprendizaje fundamentadas en el conocimiento de:
+– 	 Técnicas de análisis, investigación, búsqueda y recopilación de información.
+– 	 Búsqueda de recursos bibliográficos.
+– 	 Planificación, matriz, diseño, viabilidad y oportunidad, conclusiones y aportaciones 
+personales, manejo de normativa aplicable, desarrollo del proyecto.
+También será necesaria la utilización de software específico, como procesadores de 
+texto, hojas de cálculo, programas de diseño asistido por ordenador, programas de cálculo 
+específicos y otros en la redacción del documento final, realizando su implementación en 
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31698
+Lunes, 31 de julio de 2017
+el módulo profesional, para la consecución de los objetivos específicos relacionados con 
+el tipo de proyecto que desarrolle el alumnado. 
+Los trabajos a realizar sobre soporte informático se llevarán a cabo, de forma 
+individual. El alumnado deberá ser capaz de trabajar con autonomía y creatividad bajo los 
+parámetros de la calidad exigida, siempre bajo la orientación del profesor-tutor. 
+Las características del módulo profesional son conducentes a aplicar una metodología 
+interdisciplinar que favorezca el carácter global del aprendizaje en los tipos de proyecto 
+que así lo requieran; o bien que desarrolle metodologías que favorezcan la investigación, 
+la innovación o el desarrollo de algún aspecto concreto relacionado con las variables 
+tecnológicas y organizativas relacionadas con los proyectos en el sector de la ganadero, 
+ya sea desde el punto de vista técnico o de gestión.
+Se propone que las tecnologías de la información y la comunicación, sean un 
+instrumento habitual, tanto por parte del profesor-tutor como por parte del alumnado, de 
+forma que éste adopte actitudes activas respecto de su propio aprendizaje mediante la 
+búsqueda bibliográfica y consulta en páginas web de toda la información necesaria para el 
+desarrollo del proyecto y como herramienta para facilitar la acción tutorial.
+El proyecto será realizado por el alumnado, de forma individual, preferentemente 
+durante el tercer trimestre del segundo curso. El alumnado será tutorizado por un profesor, 
+que imparta docencia en segundo curso del ciclo formativo, de las especialidades de 
+«Instalaciones Electrotécnicas», «Instalación y Mantenimiento de Equipos Térmicos 
+de Fluidos», «Sistemas Electrotécnicos y Automáticos», «Sistemas Electrónicos» y 
+«Organización y Proyectos de Sistemas Energéticos» de acuerdo con lo establecido en el 
+anexo III A) del Real Decreto 385/2011, de 18 de marzo. No obstante, dado que los resultados 
+de aprendizaje y criterios de evaluación de este módulo profesional complementan los del 
+resto de los módulos profesionales del ciclo y tiene un carácter integrador de los mismos, 
+sería conveniente la colaboración de todos los profesores con atribución docente en el 
+ciclo formativo.
+Módulo profesional: Formación y orientación laboral.
+Equivalencia en créditos ECTS: 5.
+Código: 0687.
+Duración: 96 horas.
+Contenidos:
+BLOQUE A: Formación, Legislación y Relaciones Laborales. 
+Duración: 46 horas.
+1. Búsqueda activa de empleo:
+– 	 Valoración de la importancia de la formación permanente para la trayectoria 
+laboral y profesional del técnico superior en energías renovables.
+– 	 Análisis de los intereses, aptitudes y motivaciones personales para la carrera 
+profesional.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31699
+Lunes, 31 de julio de 2017
+– 	 Identificación de los itinerarios formativos relacionados con el técnico superior en 
+energías renovables.
+– 	 Definición y análisis del sector profesional del técnico superior en energías 
+renovables. Yacimientos de empleo.
+– 	 Proceso de búsqueda de empleo en pequeñas, medianas y grandes empresas 
+del sector.
+– 	 Oportunidades de aprendizaje y empleo en Europa. Programas europeos.
+– 	 Valoración de la empleabilidad y adaptación como factores clave para responder 
+a las exigencias del mercado laboral.
+– 	 Técnicas e instrumentos de búsqueda de empleo. Fuentes de información. El 
+proceso de selección.
+– 	 Oportunidades de autoempleo.
+– 	 El proceso de toma de decisiones.
+– 	 Normativa laboral sobre igualdad de oportunidades entre mujeres y hombres en 
+el acceso al empleo.
+2. Gestión del conflicto y equipos de trabajo:
+– 	 Valoración de las ventajas e inconvenientes del trabajo en equipo para la eficacia 
+de la organización.
+– 	 Concepto y tipos de equipos de trabajo. Formación y funcionamiento de equipos 
+eficaces.
+– 	 Equipos en el sector de la generación de energía eléctrica con energías 
+renovables, según las funciones que desempeñan.
+– 	 La participación en el equipo de trabajo. Los roles grupales. Barreras a la 
+participación en el equipo.
+– 	 Técnicas de participación y dinámicas de grupo.
+– 	 Conflicto: características, fuentes y etapas. 
+– 	 Métodos para la resolución o supresión del conflicto: mediación, conciliación y 
+arbitraje.
+– 	 La comunicación en la empresa. El lenguaje asertivo. La toma de decisiones y la 
+negociación como habilidades sociales para el trabajo en equipo. 
+– 	 El mobbing. Detección, métodos para su prevención y erradicación.
+3. Contrato de trabajo:
+– 	 La organización política del Estado Español. Organismos laborales existentes en 
+España.
+– 	 El derecho del trabajo. Normas fundamentales.
+– 	 Órganos de la administración y jurisdicción laboral.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31700
+Lunes, 31 de julio de 2017
+– 	 Análisis de la relación laboral individual.
+– 	 Modalidades del contrato de trabajo y medidas de fomento de la contratación.
+– 	 Derechos y deberes derivados de la relación laboral. El tiempo de trabajo. Análisis 
+del recibo de salarios. Liquidación de haberes.
+– 	 Modificación, suspensión y extinción del contrato de trabajo.
+– 	 Valoración de las medidas para la conciliación familiar y profesional.
+– 	 Representación de los trabajadores en la empresa.
+– 	 Negociación colectiva como medio para la conciliación de los intereses de 
+trabajadores y empresarios.
+– 	 Medidas de conflicto colectivo. Procedimientos de solución.
+– 	 Análisis de un convenio colectivo aplicable al ámbito profesional del técnico 
+superior en energías renovables.
+– 	 Beneficios para los trabajadores en las nuevas organizaciones: flexibilidad y 
+beneficios sociales, entre otros.
+4. Seguridad Social, empleo y desempleo:
+– 	 La Seguridad Social como pilar del Estado Social de Derecho.
+– 	 Estructura del Sistema de la Seguridad Social. Regímenes.
+– 	 Determinación de las principales obligaciones de empresarios y trabajadores en 
+materia de Seguridad Social: afiliación, altas, bajas y cotización. Cálculo de bases 
+de cotización a la Seguridad Social y determinación de cuotas en un supuesto 
+sencillo.
+– 	 Prestaciones de la Seguridad Social. Situaciones protegibles en la protección 
+por desempleo. Cálculo de una prestación por desempleo de nivel contributivo 
+básico.
+BLOQUE B: Prevención de Riesgos Laborales.
+Duración: 50 horas.
+5. Evaluación de riesgos profesionales:
+– 	 Importancia de la cultura preventiva en todas las fases de la actividad. 
+Sensibilización, a través de las estadísticas de siniestralidad nacional y en Castilla 
+y León, de la necesidad de hábitos y actuaciones seguras.
+– 	 Valoración de la relación entre trabajo y salud.
+– 	 El riesgo profesional. Mapa de riesgos. Análisis de factores de riesgo.
+– 	 La evaluación de riesgos en la empresa como elemento básico de la actividad 
+preventiva.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31701
+Lunes, 31 de julio de 2017
+– 	 Análisis de riesgos ligados a las condiciones de seguridad.
+– 	 Análisis de riesgos ligados a las condiciones ambientales. Agentes físicos, 
+químicos y biológicos.
+– 	 Análisis de riesgos ligados a las condiciones ergonómicas y psicosociales.
+– 	 Riesgos específicos en el sector de la generación de energía eléctrica con 
+energías renovables.
+– 	 Técnicas de evaluación de riesgos.
+– 	 Condiciones de trabajo y seguridad.
+– 	 Determinación de los posibles daños a la salud del trabajador que pueden 
+derivarse de las situaciones de riesgo detectadas.
+– 	 Los accidentes de trabajo, las enfermedades profesionales y otras patologías.
+6. Planificación de la prevención de riesgos en la empresa. Prevención integrada:
+– 	 Marco jurídico en materia de prevención de riesgos laborales.
+– 	 Derechos y deberes en materia de prevención de riesgos laborales. 
+Responsabilidades legales.
+– 	 Gestión de la prevención en la empresa. Documentación.
+– 	 Organismos públicos relacionados con la prevención de riesgos laborales.
+– 	 Planificación de la prevención en la empresa. Secuenciación de actuaciones.
+– 	 Definición del contenido del Plan de Prevención de un centro de trabajo relacionado 
+con el sector profesional.
+– 	 Planes de emergencia y de evacuación en entornos de trabajo.
+– 	 Elaboración de un plan de emergencia en una empresa del sector.
+7. Aplicación de medidas de prevención y protección en la empresa:
+– 	 Técnicas de lucha contra los daños profesionales. Seguridad en el trabajo. 
+Higiene industrial y otros.
+– 	 Determinación de las medidas de prevención y protección individual y colectiva.
+– 	 Señalización de seguridad.
+– 	 Protocolo de actuación ante una situación de emergencia.
+– 	 Primeros auxilios. Conceptos básicos. Aplicación de técnicas de primeros 
+auxilios.
+– 	 Vigilancia de la salud de los trabajadores.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31702
+Lunes, 31 de julio de 2017
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para que el alumno pueda 
+insertarse laboralmente y desarrollar su carrera profesional en el sector.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+p), q), r), s), t), u), v) y w) del ciclo formativo, y las competencias n), ñ), o), p), q) y r) del 
+título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+– 	 El manejo de las fuentes de información sobre el sistema educativo y laboral, en 
+especial en lo referente a las empresas del sector.
+– 	 La realización de pruebas de orientación y dinámicas sobre la propia personalidad 
+y el desarrollo de las habilidades sociales.
+– 	 La preparación y realización de modelos de currículum vitae (CV) y entrevistas 
+de trabajo.
+– 	 La identificación de la normativa laboral que afecta a los trabajadores del sector, 
+manejo de los contratos más comúnmente utilizados y lectura comprensiva de 
+los convenios colectivos de aplicación.
+– 	 La resolución de supuestos prácticos sencillos sobre materias de índole laboral y 
+de Seguridad Social.
+– 	 La cumplimentación de recibos de salario de diferentes características y otros 
+documentos relacionados.
+– 	 El análisis de la Ley de Prevención de Riesgos Laborales que le permita la 
+evaluación de los riesgos derivados de las actividades desarrolladas en su 
+sector productivo, y colaborar en la definición de un plan de prevención para una 
+pequeña empresa, así como en la elaboración de las medidas necesarias para 
+su puesta en funcionamiento.
+– 	 En este módulo, especialmente en el Bloque B, Prevención de Riesgos Laborales, 
+se tratan contenidos que están relacionados con otros módulos profesionales, 
+por lo que sería recomendable la realización coordinada de las programaciones 
+didácticas en dichas materias. Es aconsejable que el profesor que imparte el 
+módulo profesional de «Formación y orientación laboral» se centre en los 
+aspectos puramente legales, mientras que los profesores de la Familia Profesional 
+enfoquen desde un punto de vista técnico los riesgos específicos del sector y las 
+medidas de prevención y protección de los mismos, de cara a la elaboración de 
+planes de prevención de riesgos laborales.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31703
+Lunes, 31 de julio de 2017
+Módulo profesional: Empresa e iniciativa emprendedora.
+Equivalencia en créditos ECTS: 4.
+Código: 0688.
+Duración: 63 horas.
+Contenidos:
+1. Iniciativa emprendedora:
+– 	 Innovación y desarrollo económico. Principales características de la innovación 
+en la generación de energía eléctrica con energías renovables (materiales, 
+tecnología y organización de la producción, entre otros).
+– 	 El trabajo por cuenta propia como fuente de creación de empleo y bienestar 
+social.
+– 	 La cultura emprendedora. El emprendedor. Factores claves de los emprendedores: 
+iniciativa, creatividad y formación.
+– 	 Desarrollo del espíritu emprendedor a través del fomento de las actitudes de 
+creatividad, iniciativa, autonomía y responsabilidad.
+– 	 La actuación de los emprendedores como empleados de una pyme relacionada 
+con la generación de energía eléctrica.
+– 	 La actuación de los emprendedores como empresarios en el sector de la 
+producción de energía.
+– 	 Análisis de las oportunidades de negocio en el sector de la generación de energía 
+eléctrica con energías renovables.
+– 	 El empresario. Requisitos para el ejercicio de la actividad empresarial. Aptitudes 
+y actitudes.
+– 	 Plan de empresa: la idea de negocio en el ámbito de las instalaciones fotovoltaicas 
+y eólicas.
+– 	 Búsqueda de ideas de negocio. Análisis y viabilidad de las mismas.
+2. La empresa y su entorno:
+– 	 Concepto de empresa.
+– 	 Estructura organizativa de la empresa. Organigrama.
+– 	 Funciones básicas de la empresa: comercial, técnica, social, financiera y 
+administrativa.
+– 	 La empresa como sistema.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31704
+Lunes, 31 de julio de 2017
+– 	 Análisis del entorno general de una pyme relacionada con la producción de 
+energía.
+– 	 Análisis del entorno específico de una pyme relacionada con la instalación de 
+parques eólicos e instalaciones solares fotovoltaicas.
+– 	 Relaciones con clientes, proveedores y competidores.
+– 	 Análisis DAFO.
+– 	 Relaciones de una pyme de instalación de parques eólicos e instalaciones solares 
+fotovoltaicas con su entorno.
+– 	 Relaciones de una pyme de instalación de parques eólicos e instalaciones 
+solares fotovoltaicas con el conjunto de la sociedad. La responsabilidad social de 
+la empresa, planes de igualdad, acciones de igualdad y mejora continua. La ética 
+empresarial en empresas del sector.
+– 	 El estudio de mercado. Variables del marketing mix: precio, producto, comunicación 
+y distribución.
+– 	 El balance social: los costes y los beneficios sociales. 
+– 	 Cultura empresarial e imagen corporativa.
+3. Creación y puesta en marcha de una empresa:
+– 	 Tipos de empresa.
+– 	 Elección de la forma jurídica. Ventajas e inconvenientes de las distintas formas 
+jurídicas con especial atención a la responsabilidad legal.
+– 	 La franquicia como forma de empresa.
+– 	 La fiscalidad en las empresas.
+– 	 Trámites administrativos para la constitución y puesta en marcha de una empresa. 
+Relación con organismos oficiales.
+– 	 Vías externas de asesoramiento y gestión. La ventanilla única empresarial.
+– 	 Pan de inversiones y gastos.
+– 	 Las fuentes de financiación. El plan financiero.
+– 	 Subvenciones y ayudas destinadas a la creación de empresas en el sector de la 
+generación de energía eléctrica con energías renovables.
+– 	 Viabilidad económica y viabilidad financiera de una pyme relacionada con las 
+instalaciones de parques eólicos e instalaciones solares fotovoltaicas.
+– 	 Plan de empresa: la idea de negocio en el sector de la generación de energía 
+eléctrica con energías renovables. Elección de la forma jurídica, estudio de 
+viabilidad económica y financiera, trámites administrativos y gestión de ayudas y 
+subvenciones.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31705
+Lunes, 31 de julio de 2017
+4. Función administrativa:
+– 	 Concepto de contabilidad y nociones básicas.
+– 	 Cuentas anuales obligatorias.
+– 	 Análisis de la información contable.
+– 	 Ratios. Cálculo de coste, beneficio y umbral de rentabilidad.
+– 	 Obligaciones fiscales de las empresas. Principales impuestos aplicables a las 
+empresas del sector.
+– 	 Gestión administrativa de una empresa de producción de electricidad. Documentos 
+básicos utilizados en la actividad económica de la empresa: nota de pedido, 
+albarán, factura, letra de cambio, cheque y otros.
+– 	 Gestión de aprovisionamiento. Valoración de existencias. Volumen óptimo de 
+pedido.
+– 	 Elaboración de un plan de empresa.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desarrollar la propia 
+iniciativa en el ámbito empresarial, tanto hacia el autoempleo como hacia la asunción de 
+responsabilidades y funciones en el empleo por cuenta ajena.
+La formación del módulo profesional contribuye a alcanzar los objetivos w), x) e y) 
+del ciclo formativo, y la competencia r), s) y t) del título.
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar 
+los objetivos del módulo profesional versarán sobre:
+– 	 El manejo de las fuentes de información sobre el sector de la generación de 
+energía, incluyendo el análisis de los procesos de innovación sectorial en 
+marcha.
+– 	 La realización de casos y dinámicas de grupo que permitan comprender y valorar 
+las actitudes de los emprendedores y ajustar la necesidad de los mismos al sector 
+de los servicios relacionados con los procesos de instalación de parques eólicos 
+e instalaciones solares fotovoltaicas.
+– 	 La utilización de programas de gestión administrativa para pymes del sector.
+– 	 La realización de un proyecto de plan de empresa relacionada con el sector de 
+la producción eléctrica y térmica con fuentes renovables y que incluya todas 
+las facetas de puesta en marcha de un negocio: viabilidad, organización de la 
+producción y los recursos humanos, acción comercial, control administrativo y 
+financiero, así como justificación de su responsabilidad social.
+– 	 Utilización de la herramienta «Aprende a Emprender».
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+Pág. 31706
+Lunes, 31 de julio de 2017
+Módulo profesional: Formación en centros de trabajo.
+Equivalencia en créditos ECTS: 22.
+Código: 0689.
+Duración: 380 horas.
+Este módulo profesional contribuye a completar las competencias de este título y los 
+objetivos generales del ciclo, tanto aquellos que se han alcanzado en el centro educativo, 
+como los que son difíciles de conseguir en el mismo.
+CV: BOCYL-D-31072017-2
+
+Boletín Oficial de Castilla y León
+Núm. 145
+http://bocyl.jcyl.es
+D.L.: BU 10-1979 - ISSN 1989-8959
+Pág. 31707
+Lunes, 31 de julio de 2017
+ANEXO II
+Organización y distribución horaria
+Centro Educativo
+Centro de 
+Trabajo
+Módulos profesionales
+Duración del 
+currículo
+(horas)
+Curso 1.º
+horas/semanales
+Curso 2.º
+1.º y 2.º
+trimestres
+horas/semanales
+3.er
+trimestre
+horas
+0668 	 Sistemas eléctricos en 
+centrales.
+192
+6
+0669. 	 Subestaciones eléctricas.
+192
+6
+0670.	 Telecontrol y automatismos.
+224
+7
+0671. 	 Prevención de riesgos 
+eléctricos.
+64
+2
+0680.	 Sistemas de energías 
+renovables.
+192
+6
+0681. 	 Configuración de 
+instalaciones solares 
+fotovoltaicas.
+126
+6
+0682. 	 Gestión del montaje de 
+instalaciones solares 
+fotovoltaicas.
+147
+7
+0683. 	 Gestión del montaje de 
+parques eólicos.
+126
+6
+0684. 	 Operación y mantenimiento 
+de parques eólicos.
+168
+8
+0686. 	 Proyecto de energías 
+renovables.
+30
+30
+0687. 	 Formación y orientación 
+laboral.
+96
+3
+0688. 	 Empresa e iniciativa 
+emprendedora.
+63
+3
+0689. 	 Formación en centros de 
+trabajo.
+380
+380
+TOTAL
+2.000
+30
+30
+410
+CV: BOCYL-D-31072017-2

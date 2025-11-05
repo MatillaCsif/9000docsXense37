@@ -1,0 +1,223 @@
+Boletín Oficial de Castilla y León
+Núm. 127
+Pág. 47897
+Viernes, 4 de julio de 2014
+I. COMUNIDAD DE CASTILLA Y LEÓN
+A. DISPOSICIONES GENERALES
+CONSEJERÍA DE EDUCACIÓN
+ORDEN EDU/562/2014, de 25 de junio, por la que se modifican y suprimen ficheros 
+de datos de carácter personal de la Consejería de Educación.
+La Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter 
+Personal, en su artículo 20.1, establece que la creación, modificación o supresión de los 
+ficheros de las Administraciones Públicas sólo podrán hacerse por medio de disposición 
+general publicada en el «Boletín Oficial del Estado» o Diario Oficial correspondiente.
+Por su parte, el Decreto 11/2003, de 23 de enero, por el que se regulan los ficheros 
+de carácter personal susceptibles de tratamiento automatizado de la Administración de la 
+Comunidad de Castilla y León, dispone en su artículo 2.1 que la creación, modificación y 
+supresión de los ficheros de datos de carácter personal incluidos en el ámbito de aplicación 
+de la citada ley, se realizará por orden del titular de la Consejería competente por razón 
+de la materia a la que afectan, y que las órdenes de creación y modificación de ficheros 
+deberán recoger todos los apartados que establece el artículo 20 de la citada Ley Orgánica 
+15/1999, de 13 de diciembre.
+Mediante Decreto 40/1999, de 8 de marzo, se crearon diversos ficheros de datos 
+de carácter personal en la entonces Consejería de Educación y Cultura, entre ellos el 
+denominado «Becarios». Este decreto fue derogado por el anterior Decreto 11/2003, de 
+23 de enero, y en su disposición transitoria establece que los ficheros contenidos en el 
+Anexo I del Decreto 40/1999, de 8 de marzo, se considerarán vigentes hasta que sean 
+modificados o suprimidos, de acuerdo con lo establecido en el citado artículo 2 de este 
+decreto.
+A su vez, por Orden EDU/1197/2007, de 2 de julio, se creó el fichero automatizado 
+de datos de carácter personal denominado «Grupos de Investigación de Excelencia de 
+Castilla y León».
+A través de la presente orden se modifican los ficheros antes enunciados, «Becarios» 
+y «Grupos de Investigación de Excelencia de Castilla y León», declarando su sistemas 
+de tratamiento como parcialmente automatizados o mixtos, ya que los datos personales 
+que contienen son susceptibles de imprimirse en papel y por lo tanto deben aplicarse 
+también las medidas previstas para los ficheros no automatizados. En el primero de ellos 
+también se procede a la actualización de la denominación del propio fichero y en ambos, 
+se actualiza la denominación del órgano de la Comunidad Autónoma ante el que pueden 
+ejercitarse los derechos de acceso, rectificación y cancelación, en virtud de los cambios 
+producidos en la estructura orgánica de esta consejería desde su creación.
+También se procede a la supresión de los ficheros automatizados de datos de 
+carácter personal denominados «Proyectos de Convergencia Europea», «Ayudas para 
+CV: BOCYL-D-04072014-1
+
+Boletín Oficial de Castilla y León
+Núm. 127
+Pág. 47898
+Viernes, 4 de julio de 2014
+la adquisición de ordenadores portátiles», «Ayudas para la movilidad internacional 
+de profesores e investigadores» y «Congresos y reuniones científicas», al ser ficheros 
+actualmente en desuso.
+En virtud de las citadas normas y demás de general aplicación, y previo informe de 
+la Dirección General de Atención al Ciudadano, Calidad y Modernización de la Consejería 
+de Hacienda,
+DISPONGO
+Artículo 1. Objeto.
+La presente orden tiene por objeto la modificación y supresión de los ficheros de 
+datos de carácter personal de la Dirección General de Universidades e Investigación de la 
+Consejería de Educación que se contienen en los Anexos I y II de la presente orden.
+Artículo 2. Medidas técnicas y organizativas.
+Los responsables de los ficheros adoptarán las medidas de gestión y organización 
+que sean necesarias para asegurar la confidencialidad, seguridad e integridad de los 
+datos, así como las conducentes a hacer efectivas las garantías, obligaciones y derechos 
+reconocidos en la normativa aplicable.
+Artículo 3. Derechos de los afectados.
+Las personas físicas y jurídicas afectadas por los ficheros podrán ejercitar su derecho 
+de acceso, cancelación, oposición y rectificación de datos, cuando proceda, ante el órgano 
+administrativo indicado en el Anexo correspondiente.
+DISPOSICIÓN DEROGATORIA
+Derogación normativa.
+Se derogan todas aquellas disposiciones de igual o inferior rango que se opongan a 
+lo dispuesto en la presente orden.
+DISPOSICIÓN FINAL
+Entrada en vigor.
+La presente orden entrará en vigor el día siguiente al de su publicación en el «Boletín 
+Oficial de Castilla y León».
+Valladolid, 25 de junio de 2014.
+El Consejero,
+Fdo.: Juan José Mateos Otero
+CV: BOCYL-D-04072014-1
+
+Boletín Oficial de Castilla y León
+Núm. 127
+Pág. 47899
+Viernes, 4 de julio de 2014
+ANEXO I
+MODIFICACIÓN DE FICHEROS
+1) Denominación del fichero: «BECARIOS DE INVESTIGACIÓN».
+Fines y usos:
+Gestión de las solicitudes de becas de investigación.
+Personas o colectivos afectados:
+Solicitantes de beca de investigación.
+Procedimiento de recogida y procedencia de los datos:
+Solicitudes.
+Estructura básica del fichero y descripción de los tipos de datos de carácter 
+personal:
+Datos identificativos: DNI/N.I.F., nombre y apellidos.
+Otros datos: Titulación académica y calificaciones. Otras titulaciones.
+Cesiones de datos previstas:
+No están previstas.
+Órgano de la Administración responsable del fichero:
+Dirección General de Universidades e Investigación de la Consejería de 
+Educación.
+Servicio o Unidad ante el que pueden ejercitarse los derechos de acceso, rectificación, 
+cancelación y oposición:
+Servicio de Investigación Científica, Transferencia de Conocimiento e 
+Infraestructura Universitaria.
+Sistema de tratamiento:
+Parcialmente automatizado (Mixto).
+Medidas de Seguridad:
+Nivel básico.
+CV: BOCYL-D-04072014-1
+
+Boletín Oficial de Castilla y León
+Núm. 127
+Pág. 47900
+Viernes, 4 de julio de 2014
+2) Denominación del fichero: «GRUPOS DE INVESTIGACIÓN DE EXCELENCIA 
+DE CASTILLA Y LEÓN».
+Fines y usos:
+Gestión de datos relativos a los miembros de los Grupos de Investigación de 
+Excelencia para su uso por la D.G. de Universidades e Investigación y otras 
+unidades administrativas de la Consejería de Educación.
+Personas o colectivos afectados:
+Todos los miembros de los grupos que hayan obtenido la condición de Grupos 
+de Investigación de Excelencia de Castilla y León.
+Procedimiento de recogida y procedencia de los datos:
+Datos aportados por los propios interesados pertenecientes al grupo. 
+Transmisión electrónica/Internet.
+Estructura básica del fichero y descripción de los tipos de datos de carácter 
+personal:
+Datos identificativos: DNI/N.I.F, nombre y apellidos, fecha y lugar de nacimiento, 
+edad, sexo y nacionalidad.
+Otros datos: –  Dirección y teléfono.
+– 	 Titulaciones, formación y experiencia profesional.
+– 	 Categoría/Grado laboral e historial del trabajador.
+– 	 Creaciones artísticas, literarias, científicas o técnicas.
+Cesiones de datos previstas:
+No están previstas.
+Órgano de la Administración responsable del fichero:
+Dirección General de Universidades e Investigación de la Consejería de 
+Educación.
+Servicio o Unidad ante el que pueden ejercitarse los derechos de acceso, rectificación, 
+cancelación y oposición:
+Servicio de Investigación Científica, Transferencia de Conocimiento e 
+Infraestructura Universitaria.
+Sistema de tratamiento:
+Parcialmente automatizado (Mixto).
+Medidas de Seguridad:
+Nivel básico.
+CV: BOCYL-D-04072014-1
+
+Boletín Oficial de Castilla y León
+Núm. 127
+Pág. 47901
+Viernes, 4 de julio de 2014
+ANEXO II
+SUPRESIÓN DE FICHEROS
+1) Denominación del fichero: «PROYECTOS DE CONVERGENCIA EUROPEA».
+Fines y usos:
+Gestión de líneas de subvención para la elaboración y desarrollo de proyectos 
+en torno a la armonización y convergencia de la enseñanza y/o gestión 
+universitaria en el espacio europeo de educación superior.
+Código de inscripción asignado por la Agencia de Protección de Datos: 
+2080240721
+Motivos de la supresión:
+Fichero en desuso.
+Destino de la información o previsiones adoptadas para su destrucción: 
+Destrucción o borrado de todos los datos obrantes en el mismo mediante la 
+adopción de medidas dirigidas a evitar el acceso a la información contenida 
+en el fichero que se suprime o su recuperación posterior.
+2) Denominación del fichero: «AYUDAS PARA LA ADQUISICIÓN DE 
+ORDENADORES PORTÁTILES».
+Fines y usos:
+Gestión de datos relativos a los estudiantes de las Universidades de Castilla 
+y León que soliciten las ayudas para la adquisición de ordenadores portátiles, 
+para su uso por la Dirección General de Universidades e Investigación y otras 
+unidades administrativas de la Consejería de Educación.
+Código de inscripción asignado por la Agencia de Protección de Datos: 
+20100600707.
+Motivos de la supresión: 
+Fichero en desuso.
+Destino de la información o previsiones adoptadas para su destrucción: 
+Destrucción o borrado de todos los datos obrantes en el mismo mediante la 
+adopción de medidas dirigidas a evitar el acceso a la información contenida 
+en el fichero que se suprime o su recuperación posterior.
+CV: BOCYL-D-04072014-1
+
+Boletín Oficial de Castilla y León
+Núm. 127
+http://bocyl.jcyl.es
+D.L.: BU 10-1979 - ISSN 1989-8959
+Pág. 47902
+Viernes, 4 de julio de 2014
+3) Denominación del fichero: «AYUDAS PARA LA MOVILIDAD INTERNACIONAL 
+DE PROFESORES E INVESTIGADORES».
+Fines y usos:
+Gestión de datos relativos a los profesores e investigadores  de las 
+Universidades y Centros de Investigación de Castilla y León que soliciten las 
+ayudas económicas para estancias de movilidad internacional, para su uso 
+por la Dirección General de Universidades e Investigación y otras unidades 
+administrativas de la Consejería de Educación.
+Código de inscripción asignado por la Agencia de Protección de Datos: 
+2100600733.
+Motivos de la supresión: 
+Fichero en desuso.
+Destino de la información o previsiones adoptadas para su destrucción: 
+Destrucción o borrado de todos los datos obrantes en el mismo mediante la 
+adopción de medidas dirigidas a evitar el acceso a la información contenida 
+en el fichero que se suprime o su recuperación posterior.
+4) Denominación del fichero: «CONGRESOS Y REUNIONES CIENTÍFICAS».
+Fines y usos:
+Tratamiento de datos para la gestión y concesión de las subvenciones para la 
+realización de congresos y reuniones científicas.
+Código de inscripción asignado por la Agencia de Protección de Datos: 
+Carece de código al no haberse inscrito en la Agencia.
+Motivos de la supresión: 
+Fichero en desuso.
+Destino de la información o previsiones adoptadas para su destrucción:
+Destrucción o borrado de todos los datos obrantes en el mismo mediante la 
+adopción de medidas dirigidas a evitar el acceso a la información contenida 
+en el fichero que se suprime o su recuperación posterior.
+CV: BOCYL-D-04072014-1

@@ -1,0 +1,2245 @@
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54017
+Miércoles, 7 de agosto de 2013
+I. COMUNIDAD DE CASTILLA Y LEÓN
+A. DISPOSICIONES GENERALES
+CONSEJERÍA DE EDUCACIÓN
+DECRETO 49/2013, de 31 de julio, por el que se establece el currículo correspondiente 
+al título de Técnico Superior en Automatización y Robótica Industrial en la Comunidad de 
+Castilla y León.
+El artículo 73.1 del Estatuto de Autonomía de Castilla y León, atribuye a la Comunidad 
+de Castilla y León la competencia de desarrollo legislativo y ejecución de la enseñanza 
+en toda su extensión, niveles y grados, modalidades y especialidades, de acuerdo con 
+el derecho a la educación que todos los ciudadanos tienen, según lo establecido en el 
+artículo 27 de la Constitución Española y las leyes orgánicas que lo desarrollan.
+La Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación 
+Profesional, establece en el artículo 10.1 que la Administración General del Estado, 
+determinará los títulos y los certificados de profesionalidad, que constituirán las ofertas de 
+formación profesional referidas al Catálogo Nacional de Cualificaciones Profesionales.
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación, determina en su artículo 39.6 
+que el Gobierno, establecerá las titulaciones correspondientes a los estudios de formación 
+profesional, así como los aspectos básicos del currículo de cada una de ellas.
+El Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación 
+general de la formación profesional del sistema educativo, define en el artículo 9, la 
+estructura de los títulos de formación profesional, tomando como base el Catálogo 
+Nacional de Cualificaciones Profesionales, las directrices fijadas por la Unión Europea 
+y otros aspectos de interés social. El artículo 7 concreta los elementos que definen el 
+perfil profesional de dichos títulos, que incluirá la competencia general, las competencias 
+profesionales, personales y sociales, las cualificaciones profesionales y, en su caso, las 
+unidades de competencia, cuando se refieran al Catálogo Nacional de Cualificaciones 
+Profesionales incluidas en los títulos.
+Por otro lado, el artículo 8 del Real Decreto 1147/2011, de 29 de julio, dispone que 
+las Administraciones educativas establecerán los currículos correspondientes respetando 
+lo en él dispuesto y en las normas que regulen las diferentes enseñanzas de formación 
+profesional.
+El Real Decreto-Ley 14/2012, de 20 de abril, de medidas urgentes de racionalización 
+del gasto público en el ámbito educativo dispone en el artículo 5, que todas las disposiciones 
+contempladas en el Real Decreto 1147/2011, de 29 de julio, por el que se establece la 
+ordenación general de la formación profesional del sistema educativo, a excepción de la 
+disposición adicional séptima, serán de aplicación en el curso 2014/2015. Asimismo, los 
+ciclos formativos de grado medio y grado superior cuya implantación estuviera prevista para 
+el curso escolar 2012/2013 se implantarán en el curso escolar 2014-2015. No obstante, 
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54018
+Miércoles, 7 de agosto de 2013
+establece la posibilidad de que las administraciones educativas anticipen la implantación 
+de las medidas que consideren necesarias en los cursos anteriores, lo que se realiza en 
+el presente decreto.
+El Real Decreto 1581/2011, de 4 de noviembre, establece el título de Técnico Superior 
+en Automatización y Robótica Industrial y fija sus enseñanzas mínimas, disponiendo en 
+el artículo 1, que sustituye a la regulación del título de Técnico Superior en Sistemas 
+de Regulación y Control Automáticos, contenida en el Real Decreto 619/1995, de 21 de 
+abril.
+El presente decreto establece el currículo correspondiente al título de Técnico Superior 
+en Automatización y Robótica Industrial en la Comunidad de Castilla y León, teniendo 
+en cuenta los principios generales que han de orientar la actividad educativa, según lo 
+previsto en el artículo 1 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación. Pretende 
+dar respuesta a las necesidades generales de cualificación de los recursos humanos para 
+su incorporación a la estructura productiva de la Comunidad de Castilla y León.
+En el proceso de elaboración de este decreto se ha recabado dictamen del Consejo 
+Escolar de Castilla y León e informe del Consejo de Formación Profesional de Castilla y 
+León.
+En su virtud, la Junta de Castilla y León, a propuesta del Consejero de Educación, y 
+previa deliberación del Consejo de Gobierno en su reunión de 31 de julio de 2013
+DISPONE
+Artículo 1. Objeto y ámbito de aplicación.
+El presente decreto tiene por objeto establecer el currículo del título de Técnico 
+Superior en Automatización y Robótica Industrial en la Comunidad de Castilla y León. 
+Artículo 2. Identificación del título.
+El título de Técnico Superior en Automatización y Robótica Industrial queda 
+identificado en la Comunidad de Castilla y León por los elementos determinados en el 
+artículo 2 del Real Decreto 1581/2011, de 4 de noviembre, por el que se establece el citado 
+título y se fijan sus enseñanzas mínimas, y por un código, de la forma siguiente:
+FAMILIA PROFESIONAL: Electricidad y Electrónica.
+DENOMINACIÓN: Automatización y Robótica Industrial.
+NIVEL: Formación Profesional de Grado Superior.
+DURACIÓN: 2.000 horas.
+REFERENTE EUROPEO: CINE-5b (Clasificación Internacional Normalizada de la 
+Educación).
+CÓDIGO: ELE04S.
+NIVEL DEL MARCO ESPAÑOL DE CUALIFICACIONES PARA LA EDUCACIÓN 
+SUPERIOR: Nivel 1 Técnico Superior.
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54019
+Miércoles, 7 de agosto de 2013
+Artículo 3. Referentes de la formación.
+1. Los aspectos relativos al perfil profesional del título de Técnico Superior en 
+Automatización y Robótica Industrial determinado por la competencia general, por las 
+competencias profesionales, personales y sociales, y por la relación de cualificaciones y 
+unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas 
+en el título, así como los aspectos referentes al entorno profesional y la prospectiva del 
+título en el sector o sectores, son los que se especifican en los artículos 3 a 8 del Real 
+Decreto 1581/2011, de 4 de noviembre.
+2. El aspecto relativo al entorno productivo en Castilla y León es el que se especifica 
+en el Anexo I.
+Artículo 4. Objetivos generales.
+Los objetivos generales del ciclo formativo de Técnico Superior en Automatización y 
+Robótica Industrial son los establecidos en el artículo 9 del Real Decreto 1581/2011, de 4 
+de noviembre. 
+Artículo 5. Principios metodológicos generales.
+1. La metodología didáctica de las enseñanzas de formación profesional integrará 
+los aspectos científicos, tecnológicos y organizativos que en cada caso correspondan, con 
+el fin de que el alumnado adquiera una visión global de los procesos productivos propios 
+de la actividad profesional correspondiente.
+2. Las enseñanzas de formación profesional para personas adultas se organizarán 
+con una metodología flexible y abierta, basada en el autoaprendizaje.
+Artículo 6. Módulos profesionales del ciclo formativo.
+Los módulos profesionales que componen el ciclo formativo de Técnico Superior 
+en Automatización y Robótica Industrial son los establecidos en el artículo 10 del Real 
+Decreto 1581/2011, de 4 de noviembre:
+0959. Sistemas eléctricos, neumáticos e hidráulicos.
+0960. Sistemas secuenciales programables.
+0961. Sistemas de medida y regulación.
+0962. Sistemas de potencia.
+0963. Documentación técnica.
+0964. Informática industrial.
+0965. Sistemas programables avanzados.
+0966. Robótica industrial.
+0967. Comunicaciones industriales.
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54020
+Miércoles, 7 de agosto de 2013
+0968. Integración de sistemas de automatización industrial.
+0969. Proyecto de automatización y robótica industrial.
+0970. Formación y orientación laboral.
+0971. Empresa e iniciativa emprendedora.
+0972. Formación en centros de trabajo.
+Artículo 7. Objetivos, contenidos, duración y orientaciones pedagógicas y 
+metodológicas de cada módulo profesional.
+1. Los objetivos de los módulos profesionales relacionados en el artículo 6, expresados 
+en términos de resultados de aprendizaje, y los criterios de evaluación, son los que se 
+establecen en el Anexo I del Real Decreto 1581/2011, de 4 de noviembre.
+2. Por su parte, los contenidos, la duración y las orientaciones pedagógicas 
+y metodológicas de los módulos profesionales «Sistemas eléctricos, neumáticos e 
+hidráulicos», «Sistemas secuenciales programables», «Sistemas de medida y regulación», 
+«Sistemas de potencia», «Documentación técnica», «Informática industrial», «Sistemas 
+programables avanzados», «Robótica industrial», «Comunicaciones industriales», 
+«Integración de sistemas de automatización industrial», «Formación y orientación laboral» 
+y «Empresa e iniciativa emprendedora», son los que se establecen en el Anexo II. 
+Asimismo, en el citado Anexo se establece la duración y las orientaciones pedagógicas y 
+metodológicas del módulo profesional «Proyecto de automatización y robótica industrial», 
+así como la duración del módulo profesional «Formación en centros de trabajo».
+Artículo 8. Módulos profesionales de «Formación en centros de trabajo» y «Proyecto 
+de automatización y robótica industrial».
+1. El programa formativo del módulo profesional «Formación en centros de trabajo» 
+será individualizado para cada alumno y se elaborará teniendo en cuenta las características 
+del centro de trabajo. Deberá recoger las actividades formativas que permitan ejecutar o 
+completar la competencia profesional correspondiente al título, los resultados de aprendizaje 
+y los criterios de evaluación previstos en el Anexo I del Real Decreto 1581/2011, de 4 de 
+noviembre.
+2. El módulo profesional de «Proyecto de automatización y robótica industrial» se 
+definirá de acuerdo con las características de la actividad laboral del ámbito del ciclo 
+formativo y con aspectos relativos al ejercicio profesional y a la gestión empresarial. Tendrá 
+por objeto la integración de las diversas capacidades y conocimientos del currículo del 
+ciclo formativo, contemplará las variables tecnológicas y organizativas relacionadas con el 
+título, y deberá ajustarse a los resultados de aprendizaje y criterios de evaluación previstos 
+en el Anexo I del Real Decreto 1581/2011, de 4 de noviembre.
+El departamento de la familia profesional de Electricidad y Electrónica determinará, 
+en el marco de la programación general anual, los proyectos que se propondrán para su 
+desarrollo por el alumnado. Los proyectos también podrán ser propuestos por el alumnado, 
+en cuyo caso se requerirá la aceptación del departamento.
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54021
+Miércoles, 7 de agosto de 2013
+Con carácter general, el módulo profesional «Proyecto de automatización y robótica 
+industrial» se desarrollará simultáneamente al módulo profesional «Formación en centros 
+de trabajo», salvo que concurran otras circunstancias que no lo permitan.
+El módulo profesional de «Proyecto de automatización y robótica industrial» puede 
+ser equivalente con el desarrollo de un proyecto de innovación, en el que participe el 
+alumnado, cuando tenga un componente integrador de los contenidos de los módulos 
+profesionales que constituyen el ciclo formativo.
+Artículo 9. Organización y distribución horaria. 
+1. Los módulos profesionales que forman las enseñanzas del ciclo formativo de 
+Técnico Superior en Automatización y Robótica Industrial, cuando se oferte en régimen 
+presencial, se organizan en dos cursos académicos. Su distribución en cada uno de ellos 
+y la asignación horaria semanal se recoge en el Anexo III.
+2. El período de realización del módulo profesional «Formación en centros de 
+trabajo» establecido en el Anexo III para el tercer trimestre, podrá comenzar en el segundo 
+trimestre si han transcurrido veintidós semanas lectivas a contar desde el inicio del curso 
+escolar.
+Artículo 10. Adaptaciones curriculares.
+1. Con objeto de ofrecer a todas las personas la oportunidad de adquirir una formación 
+básica, ampliar y renovar sus conocimientos, habilidades y destrezas de modo permanente 
+y facilitar el acceso a las enseñanzas de formación profesional, la consejería competente en 
+materia de educación podrá flexibilizar la oferta del ciclo formativo de Técnico Superior en 
+Automatización y Robótica Industrial permitiendo, principalmente a las personas adultos, 
+la posibilidad de combinar el estudio y la formación con la actividad laboral o con otras 
+actividades, respondiendo así a las necesidades e intereses personales.
+2. También se podrá adecuar las enseñanzas de este ciclo formativo a las 
+características de la educación a distancia, así como a las características del alumnado 
+con necesidades específicas de apoyo educativo para que se garantice su acceso, 
+permanencia y progresión en el ciclo formativo.
+Artículo 11. Accesos y vinculación a otros estudios, y correspondencia de módulos 
+profesionales con las unidades de competencia.
+El acceso y vinculación a otros estudios, y la correspondencia de los módulos 
+profesionales con las unidades de competencia son los que se establecen en el capítulo IV 
+del Real Decreto 1581/2011, de 4 de noviembre.
+Artículo 12. Enseñanzas impartidas en lenguas extranjeras o en lenguas cooficiales 
+de otras comunidades autónomas.
+1. Teniendo en cuenta que la promoción de la enseñanza y el aprendizaje de lenguas 
+y de la diversidad lingüística debe constituir una prioridad de la acción comunitaria en el 
+ámbito de la educación y la formación, la consejería competente en materia de educación 
+podrá autorizar que todos o determinados módulos profesionales del currículo se impartan 
+en lenguas extranjeras o en lenguas cooficiales de otra comunidad autónoma, sin perjuicio 
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54022
+Miércoles, 7 de agosto de 2013
+de lo que se establezca en su normativa específica y sin que ello suponga modificación del 
+currículo establecido en el presente decreto.
+2. Los centros autorizados deberán incluir en su proyecto educativo los elementos 
+más significativos de su proyecto lingüístico autorizado.
+Artículo 13. Oferta a distancia del título.
+1. Los módulos profesionales que forman las enseñanzas del ciclo formativo de 
+Técnico Superior en Automatización y Robótica Industrial podrán ofertarse a distancia, 
+siempre que se garantice que el alumnado puede conseguir los resultados de aprendizaje 
+de los mismos, de acuerdo con lo dispuesto en el Real Decreto 1581/2011, de 4 de 
+noviembre, y en este decreto.
+2. La consejería competente en materia de educación establecerá los módulos 
+profesionales susceptibles de ser impartidos a distancia y el porcentaje de horas de cada 
+uno de ellos que tienen que impartirse en régimen presencial.
+Artículo 14. Requisitos de los centros para impartir estas enseñanzas.
+Todos los centros de titularidad pública o privada que ofrezcan enseñanzas 
+conducentes a la obtención del título de Técnico Superior en Automatización y Robótica 
+Industrial se ajustarán a lo establecido en la Ley Orgánica 2/2006, de 3 de mayo, de 
+Educación y en las normas que lo desarrollen, y en todo caso, deberán cumplir los requisitos 
+que se establecen en el artículo 46 del Real Decreto 1147/2011, de 29 de julio, por el que 
+se establece la ordenación general de la formación profesional del sistema educativo, en 
+el Real Decreto 1581/2011, de 4 de noviembre, en este decreto y en lo establecido en la 
+normativa que los desarrolle.
+Artículo 15. Profesorado. 
+Los aspectos referentes al profesorado con atribución docente en los módulos 
+profesionales del ciclo formativo de Técnico Superior en Automatización y Robótica 
+Industrial, relacionados en el artículo 6, son los establecidos en el artículo 12 del Real 
+Decreto 1581/2011, de 4 de noviembre.
+Artículo 16. Espacios y equipamientos. 
+Los espacios y equipamientos necesarios para el desarrollo de las enseñanzas 
+del ciclo formativo de Técnico Superior en Automatización y Robótica Industrial son los 
+establecidos en el artículo 11 del Real Decreto 1581/2011, de 4 de noviembre.
+Artículo 17. Autonomía de los centros.
+1. Los centros educativos dispondrán de la necesaria autonomía pedagógica, de 
+organización y de gestión económica, para el desarrollo de las enseñanzas y su adaptación 
+a las características concretas del entorno socioeconómico, cultural y profesional. Los 
+centros autorizados para impartir el ciclo formativo concretarán y desarrollarán el currículo 
+mediante las programaciones didácticas de cada uno de los módulos profesionales que 
+componen el ciclo formativo en los términos establecidos en el Real Decreto 1581/2011, 
+de 4 de noviembre, en este decreto, en el marco general del proyecto educativo de centro 
+y en función de las características del alumnado y de su entorno productivo. 
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54023
+Miércoles, 7 de agosto de 2013
+2. La consejería competente en materia de educación favorecerá la elaboración de 
+proyectos de innovación, así como de modelos de programación docente y de materiales 
+didácticos que faciliten al profesorado el desarrollo del currículo.
+3. Los centros, en el ejercicio de su autonomía, podrán desarrollar experiencias, 
+planes de trabajo, formas de organización o ampliación del horario escolar en los términos 
+que establezca la consejería competente en materia de educación, sin que, en ningún 
+caso, se impongan aportaciones ni exigencias a las familias o al alumnado.
+DISPOSICIONES ADICIONALES
+Primera. Calendario de implantación.
+1. La implantación del currículo establecido en este decreto tendrá lugar en el curso 
+escolar 2013/2014 para el primer curso del ciclo formativo y en el curso escolar 2014/2015 
+para el segundo curso del ciclo formativo.
+2. El alumnado de primer curso del ciclo formativo de grado superior «Técnico 
+Superior en Sistemas de Regulación y Control Automáticos», que cursó estas enseñanzas 
+de acuerdo al currículo establecido en el Real Decreto 191/1996, de 9 de febrero, por el 
+que se establece el currículo del ciclo formativo de grado superior correspondiente al título 
+de Técnico Superior en Sistemas de Regulación y Control Automáticos, y que deba repetir 
+en el curso 2013/2014, se matriculará de acuerdo con el nuevo currículo, teniendo en 
+cuenta su calendario de implantación.
+3. En el curso 2013/2014, el alumnado de segundo curso del ciclo formativo de 
+grado superior «Técnico Superior en Sistemas de Regulación y Control Automáticos», que 
+cursó estas enseñanzas de acuerdo al currículo establecido en el Real Decreto 191/1996, 
+de 9 de febrero, y tenga módulos profesionales pendientes de primero se matricularán, 
+excepcionalmente, de estos módulos profesionales de acuerdo con el currículo que el 
+alumnado venía cursado. En este caso, se arbitrarán las medidas adecuadas que permitan 
+la recuperación de las enseñanzas correspondientes.
+4. En el curso 2014/2015, el alumnado del ciclo formativo de grado superior 
+«Técnico Superior en Sistemas de Regulación y Control Automáticos», que cursó estas 
+enseñanzas de acuerdo al currículo establecido en el Real Decreto 191/1996, de 9 de 
+febrero, y tenga módulos profesionales pendientes de segundo curso se podrán matricular, 
+excepcionalmente, de estos módulos profesionales de acuerdo con el currículo que los 
+alumnos venían cursando.
+5. A efectos de lo indicado en los apartados 3 y 4, el departamento de familia profesional 
+propondrá al alumnado un plan de trabajo, con expresión de las capacidades terminales 
+y los criterios de evaluación exigibles y de las actividades recomendadas, y programarán 
+pruebas parciales y finales para evaluar los módulos profesionales pendientes.
+Segunda. Titulaciones equivalentes y vinculación con capacitaciones profesionales.
+1. Las titulaciones equivalentes y vinculación con capacitaciones profesionales son 
+las que se establecen en la disposición adicional tercera del Real Decreto 1581/2011, de 
+4 de noviembre.
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54024
+Miércoles, 7 de agosto de 2013
+2. La formación establecida en el presente decreto en el módulo profesional de 
+«Formación y orientación laboral», incluye un mínimo de 50 horas, que capacita para llevar 
+a cabo responsabilidades profesionales equivalentes a las que precisan las actividades de 
+nivel básico en prevención de riesgos laborales, establecidas en el Real Decreto 39/1997, 
+de 17 de enero, por el que se aprueba el Reglamento de los Servicios de Prevención.
+Tercera. Certificación académica de superación del nivel básico en prevención de 
+riesgos laborales.
+La consejería competente en materia de educación expedirá una certificación 
+académica de la formación de nivel básico en prevención de riesgos laborales, al alumnado 
+que haya superado el bloque B del módulo profesional de «Formación y orientación 
+laboral», de acuerdo con el procedimiento que se establezca al efecto.
+Cuarta. Equivalencia a efectos de docencia en los procedimientos selectivos de 
+ingreso en el Cuerpo de Profesores Técnicos de Formación Profesional.
+En los procesos selectivos convocados por la consejería competente en materia de 
+educación, el título de Técnico Superior o de Técnico Especialista se declara equivalente 
+a los exigidos para el acceso al Cuerpo de Profesores Técnicos de Formación Profesional, 
+cuando el titulado haya ejercido como profesor interino en centros educativos públicos 
+dependientes de la citada consejería y en la especialidad docente a la que pretenda 
+acceder durante un período mínimo de dos años antes del 31 de agosto de 2007. 
+Quinta. Accesibilidad universal en las enseñanzas de este título.
+La consejería competente en materia de educación adoptará las medidas necesarias 
+para que el alumnado pueda acceder y cursar este ciclo formativo en las condiciones 
+establecidas en la disposición final décima de la Ley 51/2003, de 2 de diciembre, de 
+igualdad de oportunidades, no discriminación y accesibilidad universal de las personas 
+con discapacidad. 
+Sexta. Autorización de los centros educativos.
+Todos los centros de titularidad pública o privada que, en la fecha de entrada en vigor 
+de este decreto, tengan autorizadas enseñanzas conducentes a la obtención del título de 
+Técnico Superior en Sistemas de Regulación y Control Automáticos, regulado en el Real 
+Decreto 619/1995, de 21 de abril, quedarán autorizados para impartir el título de Técnico 
+Superior en Automatización y Robótica Industrial que se establece en el Real Decreto 
+1581/2011, de 4 de noviembre.
+DISPOSICIÓN DEROGATORIA
+Derogación normativa.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo 
+establecido en el presente decreto. 
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54025
+Miércoles, 7 de agosto de 2013
+DISPOSICIONES FINALES
+Primera. Desarrollo normativo.
+Se faculta al titular de la consejería competente en materia de educación para dictar 
+cuantas disposiciones sean precisas para la interpretación, aplicación y desarrollo de lo 
+dispuesto en este decreto.
+Segunda. Entrada en vigor.
+El presente decreto entrará en vigor el día siguiente al de su publicación en el «Boletín 
+Oficial de Castilla y León».
+Valladolid, 31 de julio de 2013.
+El Presidente de la Junta 
+de Castilla y León,
+Fdo.: Juan Vicente Herrera Campo
+El Consejero de Educación,
+Fdo.: Juan José Mateos Otero
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54026
+Miércoles, 7 de agosto de 2013
+ANEXO I
+ENTORNO PRODUCTIVO DE CASTILLA Y LEÓN 
+El perfil profesional de este título, dentro del sector terciario, evoluciona hacia un técnico 
+superior con gran especialización en la gestión y supervisión del montaje y mantenimiento 
+así como realizar la puesta en marcha de sistemas de regulación y control en instalaciones 
+industriales, consiguiendo los criterios de calidad, en condiciones de seguridad, respeto 
+medioambiental y cumpliendo la normativa vigente. Así mismo, este técnico evolucionará 
+en su desempeño profesional hacia el desarrollo de proyectos de instalaciones de potencia 
+eléctrica, regulación y control, robots, manipuladores, comunicaciones y equipos de 
+transmisión para sistemas de automatización industrial.
+Desarrolla su actividad profesional en pequeñas, medianas y grandes empresas, de 
+instalación de equipos y sistemas automáticos industriales, en el ámbito del Reglamento 
+de Baja Tensión (RBT), como coordinador de montadores/mantenedores o desarrollando 
+proyectos de montaje, tanto por cuenta propia como ajena, en las áreas de montaje y 
+mantenimiento de sistemas de automatización industrial.
+Se ubica en todas aquellas actividades económico-productivas en las que intervienen 
+procesos industriales automatizados, en las actividades de montaje y mantenimiento así 
+como en la definición y desarrollo de proyectos de medida y regulación y de redes de 
+comunicación industrial.
+La gran extensión geográfica de nuestra comunidad y la dispersión de su población 
+hace que el sector industrial no se encuentre distribuido de forma homogénea entre las 
+nueve provincias. La principal actividad industrial en número de personas ocupadas en esta 
+comunidad es la relacionada con la alimentación, seguida de la metalurgia y fabricación de 
+productos metálicos y material de transporte.
+ANEXO II
+CONTENIDOS, DURACIÓN Y ORIENTACIONES PEDAGÓGICAS Y METODOLÓGICAS 
+DE LOS MÓDULOS PROFESIONALES
+Módulo profesional: Sistemas eléctricos, neumáticos e hidráulicos.
+Equivalencia en créditos ECTS: 10
+Código: 0959
+Duración: 160 horas
+Contenidos:
+1. Reconocimiento de dispositivos electromecánicos, neumáticos e hidráulicos:
+– 	 Aplicaciones automáticas con sistemas secuenciales eléctricos cableados, 
+neumáticos e hidráulicos. 
+– 	 Distribución eléctrica. Circuitos de potencia. Circuitos de control.
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54027
+Miércoles, 7 de agosto de 2013
+– 	 Distribución neumática e hidráulica. Elementos de conducción y distribución de 
+aire. Técnicas de conexión eléctrica, neumática e hidráulica.
+– 	 Dispositivos de los sistemas automáticos de control eléctrico cableado.
+– 	 Dispositivos de los sistemas automáticos de control neumáticos.
+– 	 Dispositivos de los sistemas automáticos de control hidráulicos.
+– 	 Selección y dimensionado de los dispositivos eléctricos, neumáticos e 
+hidráulicos. 
+2. Dibujo de croquis y esquemas de sistemas de control eléctrico cableados, 
+neumáticos e hidráulicos:
+– 	 Sistemas de alimentación eléctrica para de los circuitos de control secuencial 
+cableados.
+– 	 Simbología normalizada.
+– 	 Representación de esquemas de circuitos de automatismos eléctricos.
+– 	 Representación de esquemas de circuitos de automatismos neumáticos e 
+hidráulicos.
+– 	 Representación de secuencias y diagramas funcionales.
+– 	 Diseño de circuitos de automatismo de control secuencial por métodos 
+sistemáticos.
+3. Montaje de circuitos de automatismos eléctricos cableados, neumáticos e 
+hidráulicos:
+– 	 Técnicas de montaje y puesta en envolvente de circuitos de automatismo eléctricos 
+cableados, neumáticos, electroneumáticos, hidráulicos y electrohidráulicos.
+– 	 Dispositivos de protección eléctrica.
+– 	 Captación de señales en circuitos de control eléctrico cableados, neumáticos e 
+hidráulicos.
+– 	 Aplicación de los dispositivos de actuación en circuitos de control eléctrico, 
+neumáticos e hidráulicos.
+– 	 Aplicación de circuitos secuenciales cableados de control eléctrico para la puesta 
+en marcha y control de máquinas eléctricas.
+– 	 Circuitos secuenciales de control neumático.
+– 	 Circuitos hidráulicos de accionamiento manual.
+– 	 Aplicación de circuitos de seguridad técnica.
+– 	 Niveles de seguridad técnica.
+– 	 Reglamentación y normativa. 
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54028
+Miércoles, 7 de agosto de 2013
+4. Integración de circuitos eléctricos cableados, neumáticos e hidráulicos:
+– 	 Válvulas para la conversión de señales de circuito de diferentes tecnologías.
+– 	 Circuitos secuenciales de control electroneumático.
+– 	 Circuitos secuenciales de control electrohidráulico.
+– 	 Circuitos secuenciales hidráulicos de pilotaje neumático.
+– 	 Pilotaje neumático y electroneumático de dispositivos de vacío.
+5. Verificación del funcionamiento de los sistemas secuenciales eléctricos cableados, 
+neumáticos e hidráulicos:
+– 	 Técnicas de verificación.
+– 	 Técnicas de ajuste.
+– 	 Técnicas básicas de medida y comprobación eléctrica.
+– 	 Técnicas de medida y comprobación en sistemas neumáticos e hidráulicos. Plan 
+de actuación para la puesta en servicio.
+– 	 Aplicación de la reglamentación vigente. REBT y otros. 
+6. Reparación de averías en los sistemas secuenciales eléctricos cableados:
+– 	 Diagnóstico y localización de averías.
+– 	 Informe de incidencias.
+– 	 Reglamentación vigente. REBT y otros. Interferencias sobre redes de datos. 
+7.	  Prevención de riesgos, seguridad y protección medioambiental:
+– 	 Normativa de prevención de riesgos laborales relativa a los sistemas 
+automáticos.
+– 	 Prevención de riesgos laborales en los procesos de montaje y mantenimiento.
+– 	 Equipos de protección individual: características y criterios de utilización. 
+Protección colectiva. Medios y equipos de protección.
+– 	 Normativa reguladora en gestión de residuos.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desarrollar proyectos 
+de sistemas digitales cableados, de aplicación en sistemas de control secuencial eléctricos, 
+neumáticos e hidráulicos. 
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54029
+Miércoles, 7 de agosto de 2013
+El desarrollo de este tipo de proyectos incluye aspectos como:
+– 	 La identificación de los elementos de conexión y los dispositivos eléctricos, 
+neumáticos, electroneumáticos, hidráulicos y electrohidráulicos.
+– 	 El desarrollo e interpretación de esquemas de conexión.
+– 	 La conexión y montaje de dispositivos.
+– 	 El establecimiento de las secuencias de control.
+– 	 La integración de diferentes tecnologías utilizadas en el desarrollo de sistemas 
+de control secuencial.
+– 	 El montaje y la configuración de circuitos de automatismos.
+– 	 La verificación de la puesta en servicio.
+Las actividades profesionales asociadas a esta función se aplican en:
+– 	 La selección de equipos eléctricos, neumáticos, electroneumáticos, hidráulicos y 
+electrohidráulicos, para la automatización.
+– 	 Desarrollo de esquemas y secuencias de control en sistemas de automatismos 
+cableados.
+– 	 Desarrollo de circuitos secuenciales eléctricos, neumáticos, electroneumáticos, 
+hidráulicos y electrohidráulicos.
+– 	 La verificación del funcionamiento de los circuitos de automatismos y de los 
+sistemas asociados.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+b), c), f), g), m), n) y q) del ciclo formativo, y las competencias b), c), f), g), h), j), l), m), n) 
+y ñ) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+– 	 La identificación de equipos eléctricos, neumáticos, electroneumáticos, hidráulicos 
+y electrohidráulicos y su funcionamiento.
+– 	 La elaboración e interpretación de esquemas de conexión.
+– 	 La elaboración de secuencias de control.
+– 	 La aplicación de diferentes tecnologías digitales cableadas para dar solución a 
+tareas de automatización industrial.
+– 	 El montaje de circuitos de automatismos eléctricos neumáticos, electroneumáticos, 
+hidráulicos y electrohidráulicos.
+– 	 La localización de averías.
+– 	 La verificación del funcionamiento.
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54030
+Miércoles, 7 de agosto de 2013
+Módulo profesional: Sistemas secuenciales programables.
+Equivalencia en créditos ECTS: 10
+Código: 0960
+Duración: 160 horas
+Contenidos:
+1. Reconocimiento de dispositivos programables:
+– 	 Aplicaciones automáticas con sistemas secuenciales programables.
+– 	 Funcionalidad de los dispositivos de un sistema secuencial programable. 
+Estructura de los sistemas secuenciales programables. Circuitos de potencia y 
+maniobra, cuadros eléctricos, paneles de control, elementos de control, entre 
+otros.
+– 	 Funcionamiento de los dispositivos programables. Principio de funcionamiento y 
+conceptos básicos: programación, transmisión del programa, ciclo de ejecución 
+del programa, entre otros.
+– 	 Clasificación de los dispositivos programables. Criterios de clasificación. 
+Relés programables y PLCs, PLCs compactos y PLCs modulares, dispositivos 
+programables se seguridad.
+– 	 Componentes de los dispositivos programables. Clasificación, tipología y 
+funcionalidad. Fuentes de alimentación, CPU, entradas y salidas, módulos de 
+comunicación, módulos de aplicaciones específicas.
+– 	 Características técnicas de los dispositivos programables. Alimentación, entradas 
+y salidas, puertos de comunicación, tiempo de ejecución del programa, ciclo de 
+SCAN, capacidad de memoria, zonas de memoria.
+2. Configuración de sistemas secuenciales programables:
+– 	 Especificaciones técnicas de la instalación. Requerimientos de funcionamiento, 
+compatibilidad con otros sistemas, condiciones ambientales.
+– 	 Criterios de selección y dimensionado de los dispositivos programables. 
+Condiciones atmosféricas, tiempo de ejecución de programa, tipo y número de 
+entradas y salidas, control de señales especiales, entre otros.
+– 	 Criterios de selección de componentes. Funcionamiento requerido, características 
+técnicas, condicionantes ambientales, entre otros.
+– 	 Normas generales de croquizado. Técnicas y proceso de croquizado.
+– 	 Esquemas de conexionado. Simbología normalizada. Esquemas de potencia, 
+esquemas de conexiones al PLC, esquema de bornero, referencias cruzadas, 
+tablas de conexión.
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54031
+Miércoles, 7 de agosto de 2013
+– 	 Técnicas de montaje y conexionado. Disposición de los dispositivos. marcaje de 
+conductores y crimpado de terminales. Guiado de conductores. Codificación de 
+borneros.
+– 	 Reglamentación vigente. REBT, entre otros.
+3. Reconocimiento de las secuencias de control:
+– 	 Interpretación de requerimientos. Características técnicas y funcionales.
+– 	 Secuencia de control y diagrama de flujos. GRAFCET, SFC.
+– 	 Fases de programación. Identificación de entradas y salidas. Secciones de 
+programa. Secuencia del programa. 
+– 	 Entornos de programación. Software y dispositivos de programación. Configuración 
+de la comunicación entre equipos.
+– 	 Técnicas de localización de puntos críticos. Herramientas de depuración. Modos 
+de ejecución.
+– 	 Planificación para la programación. Datos generales, necesidades, calendario de 
+pedidos y recepción de material, calendario de actuación, entre otros.
+4. Programación de sistemas secuenciales:
+– 	 Sistemas de numeración y conversión entre sistemas. Binario, octal, hexadecimal, 
+entre otros.
+– 	 Sistemas de codificación. Binario natural, Gray, BCD natural, ASCII, entre otros.
+– 	 Funciones lógicas aplicadas a la programación de autómatas. AND, OR, NOT, 
+NAND, NOR, entre otras.
+– 	 Programación de PLC. Entradas y salidas binarias, funciones de retención, 
+funciones de flancos, temporizadores, contadores, comparadores, movimiento 
+de valores, registros de desplazamiento. Zonas de memoria y direccionamiento. 
+Declaración de variables. Software de programación de distintos fabricantes.
+– 	 Lenguajes de programación de PLC. Lenguajes textuales: lista de instrucciones 
+(IL), texto estructurado (ST). Lenguajes gráficos: diagrama de contactos (LD), 
+funciones lógicas (FBD), diagrama de función secuencial (SFC), entre otros.
+– 	 Bloques o unidades de organización del programa. Personalización y 
+parametrización de funciones.
+– 	 Documentación técnica y comercial de los fabricantes.
+– 	 Reglamentación vigente. REBT, IEC 61131, entre otros.
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54032
+Miércoles, 7 de agosto de 2013
+5. Verificación del funcionamiento del sistema secuencial:
+– 	 Técnicas de verificación. Conexiones y funcionamiento.
+– 	 Monitorización de programas. Visualización y forzado de variables. 
+– 	 Instrumentos de medida. Técnicas de medida.
+– 	 Reglamentación vigente. REBT, entre otros.
+6. Reparación de averías:
+– 	 Diagnóstico y localización de averías. Protocolos de pruebas.
+– 	 Técnicas de actuación. Puntos de actuación. Modos de ejecución.
+– 	 Compatibilidad de equipos substituidos. Componentes, dispositivos y señales.
+– 	 Registros de averías. Fichas y registros.
+– 	 Manual de uso. Manual de mantenimiento. Recomendaciones de seguridad y 
+medioambientales.
+– 	 Reglamentación vigente. REBT, entre otros.
+7. Prevención de riesgos, seguridad y protección medioambiental:
+– 	 Normativa de prevención de riesgos laborales relativa a los sistemas 
+automáticos.
+– 	 Prevención de riesgos laborales en los procesos de montaje y mantenimiento.
+– 	 Equipos de protección individual: características y criterios de utilización. 
+Protección colectiva. Medios y equipos de protección.
+– 	 Normativa reguladora en gestión de residuos.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para programar sistemas de 
+control digitales, para procesos secuenciales programados de automatización industrial.
+El desarrollo de este tipo de sistemas secuenciales programados incluye aspectos 
+como:
+– 	 Identificar el funcionamiento de equipos programables.
+– 	 Desarrollar croquis y esquemas de conexión.
+– 	 Conexionar y montar los dispositivos.
+– 	 Establecer las secuencias de control.
+– 	 Programar los equipos. 
+– 	 Verificar la puesta en servicio.
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54033
+Miércoles, 7 de agosto de 2013
+Las actividades profesionales asociadas a esta función se aplican en:
+– 	 La selección de equipos programables para la automatización.
+– 	 La modificación y/o adaptación de programas de control.
+– 	 El desarrollo de programas de control.
+– 	 La verificación del funcionamiento de la automatización y de los sistemas 
+asociados.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+a), b), c), d), e), f), g), m), o), p) y q) del ciclo formativo, y las competencias a), b), c), d), f), 
+g), l), m) y n) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+– 	 La identificación de equipos programables y de su funcionamiento.
+– 	 La configuración, selección y conexionado de sistemas secuenciales 
+programables.
+– 	 El reconocimiento de las secuencias de control.
+– 	 El uso de diferentes lenguajes de programación.
+– 	 La programación de equipos de diferentes fabricantes.
+– 	 La verificación del funcionamiento.
+– 	 La localización de averías.
+Módulo profesional: Sistemas de medida y regulación.
+Equivalencia en créditos ECTS: 10
+Código: 0961
+Duración: 160 horas
+Contenidos:	
+1. Reconocimiento de dispositivos de medida y regulación:
+– 	 Relación de aplicaciones industriales con sistemas de medida y regulación.
+– 	 Elementos de un bucle de control. Lazo abierto y lazo cerrado.
+– 	 Transductores y sensores. Clasificación y características generales.
+– 	 Especificaciones de los sistemas de control. 
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54034
+Miércoles, 7 de agosto de 2013
+2. Montaje y desarrollo de sistemas de medida y regulación:
+– 	 Estrategias básicas de control: realimentación.
+– 	 Elementos que intervienen en un sistema regulado.
+– 	 Diagrama de bloques.
+– 	 Función de transferencia.
+– 	 La cadena de adquisición de datos.
+– 	 Tratamiento y acondicionadores de señales: puente de Wheatstone, amplificadores 
+operacionales, convertidores, filtros, moduladores, conversores A/D y D/A, entre 
+otros.
+– 	 Detectores de proximidad: por contacto (finales de carrera) y sin contacto 
+(inductivos, capacitivos, fotoeléctricos y ultrasonido).
+– 	 Otros tipos de sensores: temperatura, nivel, presión, humedad, caudal, posición, 
+velocidad, aceleración y sensores táctiles, entre otros.
+– 	 Manejo de elementos de neumática e hidráulica proporcional.
+– 	 Selección y dimensionado de los componentes de un sistema de medida y 
+regulación.
+– 	 Determinación de la estabilidad de un sistema de control.
+– 	 Selección y determinación de controladores.
+– 	 Diseño en espacio de estados.
+– 	 Estrategias de control para atajar perturbaciones.
+– 	 Técnicas de montaje y puesta en marcha de sistemas de medida y regulación.
+– 	 Técnicas de calibración de sensores y transductores.
+– 	 Sintonización de controladores.
+– 	 Parámetros y programación de elementos de control analógico y digital.
+– 	 Técnicas de regulación ante el envejecimiento del sistema.
+3. Verificación del funcionamiento de los sistemas de medida y regulación:
+– 	 Técnicas de verificación.
+– 	 Técnicas de ajuste.
+– 	 Técnicas de medida y comprobación eléctrica.
+– 	 Plan de actuación para puesta en servicio.
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54035
+Miércoles, 7 de agosto de 2013
+– 	 Protocolo de puesta en marcha particularizado para la secuencia de 
+funcionamiento.
+– 	 Aplicación de la normativa de seguridad a cada caso.
+– 	 Reglamentación vigente. REBT, entre otros.
+4. Diagnóstico de averías en los sistemas de medida y regulación: 
+– 	 Técnicas de mantenimiento.
+– 	 Mantenimiento de equipos e instalaciones.
+– 	 Diagnóstico y localización de averías. Protocolos de pruebas. Plan de actuación 
+ante disfunciones del sistema.
+– 	 Averías típicas en sistemas de medida y regulación.
+– 	 Equipos y aparatos de medida.
+– 	 Informe de incidencias.
+5. Prevención de riesgos, seguridad y protección medioambiental:
+– 	 Normativa de prevención de riesgos laborales relativa a los sistemas automáticos 
+(riesgo eléctrico, neumático e hidráulico entre otros).
+– 	 Prevención de riesgos laborales en los procesos de montaje y mantenimiento de 
+sistemas automáticos (riesgo eléctrico, neumático e hidráulico entre otros).
+– 	 Equipos de protección individual: características y criterios de utilización. 
+Protección colectiva. Medios y equipos de protección.
+– 	 Normativa reguladora en gestión de residuos.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desarrollar los sistemas 
+dinámicos de control industrial, basándose para ello en el estudio de los sistemas de 
+medida y regulación que los componen.
+El desarrollo de este tipo de proyectos incluye aspectos como:
+– 	 La identificación de los elementos constitutivos de un sistema de control 
+avanzado.
+– 	 El montaje y configuración de un sistema de control avanzado.
+– 	 La instalación de diferente software tanto del sistema como de diagnosis y 
+protección.
+– 	 El desarrollo y elección de la estrategia de control más adecuada para cada 
+proceso industrial.
+– 	 La verificación de la puesta en servicio y funcionamiento de equipos, instalaciones 
+y programas.
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54036
+Miércoles, 7 de agosto de 2013
+Las actividades profesionales asociadas a esta función se aplican en:
+– 	 La selección de equipos que intervienen en un sistema de control dinámico.
+– 	 El montaje y configuración de equipos de medida y regulación.
+– 	 El desarrollo de sistemas de regulación industrial.
+– 	 La verificación del funcionamiento de los sistemas de control dinámico.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+a), b), c), f), g), k), l), m), n), o), p) y q) del ciclo formativo, y las competencias a), b), c), d), 
+f), h), j), k), l), m) y n) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+– 	 La identificación de equipos.
+– 	 La elaboración de las estrategias de control sencillas.
+– 	 La aplicación de diferentes tecnologías de control para dar solución a problemas 
+de automatización industrial.
+– 	 El montaje y configuración de un sistema de control dinámico.
+– 	 La localización de averías.
+– 	 La verificación del funcionamiento.
+Módulo profesional: Sistemas de potencia.
+Equivalencia en créditos ECTS: 12
+Código: 0962
+Duración: 192 horas
+Contenidos:	
+1. Determinación de los parámetros característicos de los sistemas eléctricos:
+– 	 Corriente alterna y corriente continua.
+– 	 Simbología eléctrica. Arrancadores. Automatismos. Conductores. Máquinas. 
+Aparatos de medida.
+– 	 Comportamiento de los receptores en corriente alterna.
+– 	 Parámetros de un circuito de corriente alterna. Tensión, intensidad, impedancia, 
+potencias: activa, reactiva y aparente, factor de potencia y cos j, entre otros.
+– 	 Distribución a tres y cuatro hilos.
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54037
+Miércoles, 7 de agosto de 2013
+– 	 Conexión de receptores trifásicos y monofásicos.
+– 	 Medidas en circuitos de corriente alterna. Tensión. Intensidad, potencia, factor de 
+potencia, entre otros.
+– 	 Armónicos: causas y efectos. Parámetros característicos. Técnicas de filtrado.
+– 	 Cálculo de secciones. Instalaciones receptoras. Factor de potencia. Mejora del 
+factor de potencia.
+– 	 Protecciones eléctricas. Fusibles, interruptores automáticos, interruptores 
+diferenciales, réles térmicos, módulos de seguridad, entre otros.
+2. Reconocimiento del funcionamiento de las máquinas eléctricas:
+– 	 Clasificación de las máquinas eléctricas.
+– 	 Elementos mecánicos y eléctricos de las máquinas.
+– 	 Magnitudes eléctricas y mecánicas de las máquinas eléctricas.
+– 	 Alternador eléctrico. Constitución, principio de funcionamiento
+– 	 Transformador eléctrico. Constitución. Tipos. Autotransformador. Monofásicos y 
+trifásicos. Principio de funcionamiento: vacío y carga. Protecciones. Ensayos: 
+vacío y cortocircuito.
+– 	 Motores eléctricos. Principio de funcionamiento. Motores de corriente continua y 
+corriente alterna.
+– 	 Tipos de motores. Motores de corriente continua, servomotores, de reluctancia, 
+paso a paso y brushless, entre otros. Motores de corriente alterna: asíncronos y 
+síncronos. Motores trifásicos y monofásicos.
+– 	 Criterios de selección de máquinas eléctricas.
+– 	 Esquemas de conexionado de máquinas.
+– 	 Sistemas de arranque de motores. Directo, por resistencias, con autotransformador, 
+estrella-triángulo, arrancadores estáticos, entre otros.
+– 	 Variación de velocidad de los motores eléctricos. Parámetros característicos.
+3. Determinación de las características de los accionamientos eléctricos y electrónicos 
+de potencia:
+– 	 Componentes electrónicos de control de potencia. Diodos, transistores, SCR, 
+DIAC, TRIAC, entre otros. Convertidores: rectificadores, inversores y chopper. 
+Fuentes de alimentación: conmutadas e ininterrumpidas (SAI).
+– 	 Amplificadores operacionales. Aplicaciones en circuitos de potencia.
+– 	 Osciladores. Tipos.
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54038
+Miércoles, 7 de agosto de 2013
+– 	 Aparatos de medida. Técnicas de medida. Procedimiento de medida. Osciloscopio. 
+Tipos de aparatos de medida y su conexionado.
+– 	 Accionamientos eléctricos. Principio de funcionamiento, aplicaciones y 
+características técnicas.
+– 	 Accionamientos electrónicos. Arrancador electrónico y variador de frecuencia. 
+4. Instalación y conexionado de motores eléctricos:
+– 	 Especificaciones técnicas de la instalación.
+– 	 Criterios de selección de componentes.
+– 	 Esquemas de conexionado.
+– 	 Simbología normalizada.
+– 	 Técnicas de montaje y conexionado.
+– 	 Parámetros de ajuste de los accionamientos electrónicos.
+– 	 Arranque de motores eléctricos.
+– 	 Aparatos de medida. Técnicas de medida. Medidas de resistencia, tensión, 
+intensidad, potencia, energía, factor de potencia. Tipos de aparatos de medida y 
+su conexionado.
+– 	 Compatibilidad electromagnética.
+– 	 Reglamentación vigente.
+5. Verificación y puesta en marcha del sistema de potencia:
+– 	 Técnicas de verificación.
+– 	 Instrumentos de medida. Características y principios de funcionamiento. 
+Multímetro, pinza multifunción, entre otros.
+– 	 Diagnóstico y localización de averías. Contactos a masa. Cortocircuitos. 
+Conductores cortados. Determinación de las polaridades correctas. Determinación 
+de la posición de las escobillas.
+– 	 Técnicas de actuación. Protocolo de verificación y señalización de averías.
+– 	 Registros de averías.
+– 	 Reglamentación vigente.
+6. Mantenimiento de máquinas eléctricas:
+– 	 Tipos de mantenimiento. Mantenimiento preventivo.
+– 	 Operaciones de mantenimiento en las máquinas eléctricas.
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54039
+Miércoles, 7 de agosto de 2013
+– 	 Plan de mantenimiento de máquinas eléctricas.
+– 	 Procedimientos de actuación en el mantenimiento de máquinas eléctricas.
+– 	 Ajuste de elementos y sistemas.
+7. Prevención de riesgos, seguridad y protección medioambiental:
+– 	 Normativa de prevención de riesgos laborales relativa a los sistemas 
+automáticos.
+– 	 Prevención de riesgos laborales en los procesos de montaje y mantenimiento.
+– 	 Equipos de protección individual: características y criterios de utilización. 
+Protección colectiva. Medios y equipos de protección.
+– 	 Normativa reguladora en gestión de residuos.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para gestionar y supervisar 
+el montaje y mantenimiento de las máquinas eléctricas presentes en las automatizaciones 
+industriales.
+El desarrollo de este tipo de proyectos incluye aspectos como:
+– 	 Describir el funcionamiento de los circuitos eléctricos.
+– 	 Identificar el funcionamiento de las máquinas eléctricas.
+– 	 Desarrollar los esquemas de conexión de las máquinas eléctricas.
+– 	 Verificar el montaje de motores eléctricos.
+– 	 Ajustar los accionamientos de los motores eléctricos.
+– 	 Verificar la puesta en servicio.
+– 	 Aplicar el plan de mantenimiento de máquinas eléctricas.
+Las actividades profesionales asociadas a esta función se aplican en:
+– 	 La selección de las máquinas eléctricas y de sus equipos.
+– 	 El desarrollo de esquemas de conexión.
+– 	 El ajuste y parametrización de los accionamientos.
+– 	 La supervisión del montaje de motores eléctricos.
+– 	 La verificación del funcionamiento de la automatización y de los sistemas 
+asociados.
+– 	 La ejecución del plan de mantenimiento de las máquinas eléctricas.
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54040
+Miércoles, 7 de agosto de 2013
+La formación del módulo contribuye a alcanzar los objetivos generales a), b), c), f), 
+g), h), l), m), n), o), p), q) del ciclo formativo y las competencias a), b), c), f), g), h), k), l), 
+m), n) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+– 	 El cálculo de los parámetros característicos de los circuitos eléctricos.
+– 	 La identificación del funcionamiento de las máquinas eléctricas.
+– 	 La elaboración esquemas de conexión.
+– 	 El montaje e instalación de motores eléctricos.
+– 	 El ajuste y parametrización de los accionamientos.
+– 	 La localización de averías.
+– 	 La verificación del funcionamiento.
+– 	 El desarrollo y aplicación del plan de mantenimiento.
+Módulo profesional: Documentación técnica.
+Equivalencia en créditos ECTS: 5
+Código: 0963
+Duración: 64 horas
+Contenidos:
+1. Identificación de la documentación técnico-administrativa de las instalaciones y 
+sistemas:
+– 	 Anteproyecto o proyecto básico.
+– 	 Tipos de proyectos.
+– 	 Normativa. Tramitaciones y legalización.
+– 	 Certificados de instalación y verificación. 
+– 	 Certificados de fin de obra. Dossier de usuario. 
+2. Representación de instalaciones eléctricas automatizadas:
+– 	 Normas generales de croquizado.
+– 	 Técnicas y proceso de croquizado
+– 	 Simbología. Normativa vigente.
+– 	 Acotación.
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54041
+Miércoles, 7 de agosto de 2013
+3. Elaboración de la documentación gráfica de proyectos de instalaciones 
+automáticas:
+– 	 Manejo de programas de diseño asistido por ordenador. CAD eléctrico. Vinculación 
+con bases de datos de fabricantes. 
+– 	 Documentación gráfica. Normas generales de representación. Automatización en 
+elaboración de esquemas. Sistemas de identificación de elementos y conductores. 
+Generación de borneros y listas de mangueras. Gestión de referencias cruzadas. 
+Layouts de cuadros. Representación de diagramas secuenciales y de flujo. Tablas 
+y listas de E/S.
+– 	 Gestión de la documentación gráfica de proyectos de instalaciones automáticas. 
+– 	 Tipos de documentos. Formatos. Tratamiento electrónico de la información 
+(importar, exportar y vincular, entre otros).
+4. Confección de presupuestos de instalaciones y sistemas automáticos:
+– 	 Unidades de obra. Mediciones.
+– 	 Cuadros de precios. 
+– 	 Costes de mano de obra.
+– 	 Presupuestos.
+5. Elaboración de documentos del proyecto:
+– 	 Formatos para la elaboración de documentos.
+– 	 Anexo de cálculos. Estructura. Características.
+– 	 Documento memoria. Estructura. Características.
+– 	 Pliego de condiciones.
+– 	 Planificación y programación.
+– 	 Estudio básico de seguridad y salud.
+– 	 Vinculación entre aplicaciones informáticas esquemáticas y ofimáticas para la 
+elaboración de los documentos del proyecto. 
+6. Elaboración de manuales y documentos anejos a los proyectos de instalaciones 
+y sistemas automáticos:
+– 	 Normativa de aplicación.
+– 	 Plan de prevención de riesgos laborales. Equipos de protección individual y 
+colectiva.
+– 	 Estudios básicos de seguridad.
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54042
+Miércoles, 7 de agosto de 2013
+– 	 Calidad en la ejecución de instalaciones o sistemas. Normativa de gestión de la 
+calidad.
+– 	 Plan de gestión medioambiental. Estudios de impacto ambiental.
+– 	 Normativa de gestión medioambiental.
+– 	 Manual de servicio.
+– 	 Manual de mantenimiento. 
+– 	 Listado de tareas de mantenimiento.
+– 	 Cronograma. Seguimiento de la programación del proyecto.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar las 
+funciones de desarrollo de proyectos de instalaciones automatizadas y se aplica a todos 
+los tipos de instalaciones relacionados con el perfil profesional del título.
+La definición de estas funciones incluye aspectos como:
+– 	 Reconocimiento de la documentación técnica de las instalaciones.
+– 	 Identificación y representación de la aparamenta y dispositivos utilizados en 
+instalaciones robóticas y automatizadas por su simbología normalizada.
+– 	 Elaboración de memorias técnicas y manuales para el montaje, puesta en servicio 
+y mantenimiento de instalaciones.
+– 	 Realización de croquis y esquemas de instalaciones y sistemas automáticos.
+– 	 Uso de aplicaciones de CAD eléctrico para la automatización de tareas de 
+representación y vinculación de datos.
+– 	 Elaboración de planos de instalaciones y sistemas automáticos.
+– 	 Gestión de documentos y archivos en formato electrónico para el intercambio de 
+información entre aplicaciones.
+– 	 Preparación de presupuestos de montaje y mantenimiento.
+Las actividades profesionales asociadas a esta función se aplican en:
+– 	 Desarrollar la documentación técnica y administrativa de los proyectos de 
+instalaciones automatizadas.
+– 	 Reconocer las técnicas de elaboración y almacenamiento de planos y 
+esquemas.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales a), 
+b), f), g), h), i), j) y q) del ciclo formativo, y las competencias a), f), g), h), i) y n) del título.
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54043
+Miércoles, 7 de agosto de 2013
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+– 	 Identificación de elementos, equipos y desarrollo de procesos de montaje, 
+utilizando como recurso la documentación técnica del proyecto.
+– 	 Elaboración de presupuestos de unidades de obra y aprovisionamiento de 
+materiales, utilizando como recurso la documentación técnica del proyecto.
+– 	 Preparación de los manuales de servicio y de mantenimiento de las instalaciones, 
+utilizando la información técnica de los equipos.
+– 	 Utilización de programas de diseño asistido para el trazado de esquemas y la 
+elaboración de planos.
+Módulo profesional: Informática industrial.
+Equivalencia en créditos ECTS: 5
+Código: 0964
+Duración: 128 horas
+Contenidos:
+1. Montaje y configuración de un sistema informático:
+– 	 Arquitectura física de un sistema informático.
+– 	 Componentes físicos y lógicos que integran un sistema informático.
+– 	 Normativa de seguridad y protección ambiental.
+– 	 Estructura, topología, configuraciones y características.
+– 	 Placa base: componentes, chipset, buses y puertos. Configuración.
+– 	 Unidad central de proceso o procesador.
+– 	 Memoria: tipos y características.
+– 	 Almacenamiento.
+– 	 Periféricos básicos.
+– 	 Puertos de comunicaciones, serie y paralelo.
+– 	 Ensamblaje de un PC.
+– 	 Perturbaciones que pueden afectar a un sistema informático en el ámbito 
+industrial. Soluciones posibles a adoptar.
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54044
+Miércoles, 7 de agosto de 2013
+2. Instalación y configuración del software del sistema informático:
+– 	 Estudio, características y funciones generales de los sistemas operativos actuales: 
+monousuario y multiusuario. 
+– 	 Máquinas virtuales.
+– 	 Instalación y configuración de sistemas operativos.
+– 	 Configuración del equipo informático y del sistema virtual.
+– 	 Operaciones específicas con dispositivos de almacenamiento masivo.
+– 	 Componentes que integran un sistema operativo.
+– 	 Operaciones con directorios, archivos y discos.
+– 	 Programas de utilidades para ordenadores.
+– 	 Mantenimiento software. Creación y restauración de copias de seguridad e 
+imágenes de disco y de particiones, software de seguridad, entre otros.
+– 	 Situaciones de emergencia que puedan presentarse en un equipo o sistema 
+informático.
+3. Instalación y configuración de redes locales de ordenadores.
+– 	 Instalación de salas informáticas. Condiciones eléctricas y medioambientales.
+– 	 Equipos y componentes que intervienen en una red de área local de 
+ordenadores.
+– 	 Tipos de redes.
+– 	 Características de las topologías de redes. 
+– 	 Tipos de soporte de transmisión.
+– 	 Criterios de selección.
+– 	 El estándar OSI.
+– 	 El estándar Ethernet.
+– 	 Montaje, conexión y configuración de los equipos de la red local de 
+ordenadores.
+4. Programación de equipos y sistemas industriales:
+– 	 Programación estructurada. Algoritmos.
+– 	 Representación gráfica de los algoritmos. Diagramas de Flujo.
+– 	 Pseudocódigo.
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54045
+Miércoles, 7 de agosto de 2013
+– 	 Fases del desarrollo de un programa.
+– 	 Lenguajes de programación. Tipología y características.
+– 	 Lenguajes de alto nivel. Herramientas de desarrollo.
+– 	 Entidades que manejan los lenguajes de alto nivel: interrupciones, excepciones, 
+eventos, instrucciones y tipos de datos.
+– 	 Juego de instrucciones del lenguaje. Sentencias de control, punteros, vectores y 
+cadenas de caracteres, matrices y estructuras de datos.
+– 	 Librerías y funciones básicas del entorno de desarrollo.
+– 	 Declaración y desarrollo de funciones de usuario. 
+5. Configuración de páginas web industriales:
+– 	 Comandos básicos del lenguaje específico para páginas web. HTML, entre 
+otros.
+– 	 Utilización de las herramientas que ofrece un software de diseño de páginas 
+web. XML, Estilos CSS, listas, tablas, enlaces, imágenes, marcos, formularios y 
+scripts.
+– 	 Estructura de los archivos que componen una página web.
+– 	 Programas clientes FTP para publicar la página en un servidor web.
+6. Diagnóstico de averías en sistemas y programas informáticos:
+– 	 Mantenimiento físico de equipos microinformáticos y sus periféricos.
+– 	 Técnicas de verificación.
+– 	 Herramientas tipo hardware o software. Comprobador de cableado de redes.
+– 	 Diagnóstico y localización de averías.
+– 	 Técnicas de actuación.
+– 	 Resolución de incidencias en una red de área local.
+– 	 Registros de averías. 
+Orientaciones pedagógicas y metodológicas:
+Este módulo profesional contiene la formación necesaria para desarrollar instalaciones 
+de redes informáticas, realizando la configuración de los equipos y sistemas, y para 
+desarrollar aplicaciones enfocadas al ámbito industrial, tanto de programas aplicados 
+como de páginas web.
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54046
+Miércoles, 7 de agosto de 2013
+El desarrollo de este tipo de proyectos incluye aspectos como:
+– 	 El montaje y configuración de los equipos informáticos.
+– 	 La instalación de diferentes software tanto del sistema como de diagnosis y 
+protección.
+– 	 La realización de pequeños programas en lenguaje estructurado de alto nivel.
+– 	 El diseño, construcción y publicación de una página web.
+– 	 La verificación de la puesta en servicio y funcionamiento de equipos, instalaciones 
+y programas.
+Las actividades profesionales asociadas a esta función se aplican en:
+– 	 El montaje y configuración de equipos informáticos.
+– 	 La creación de pequeñas aplicaciones informáticas en programación estructurada 
+y diseño de páginas web.
+– 	 La verificación del funcionamiento de la configuración de los equipos que 
+intervienen en una red local de ordenadores.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+a), b), c), d), e), f), k), m), n), o), p) y q) del ciclo formativo, y las competencias b), c), d), h), 
+l), m) y n) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+– 	 El montaje y configuración de un equipo informático.
+– 	 La identificación de los componentes que intervienen en una red de área local y 
+su funcionamiento.
+– 	 La utilización de diferente software para la configuración de un equipo 
+informático.
+– 	 La utilización de diferentes lenguajes de programación según sea la aplicación 
+del programa que se va a realizar.
+– 	 La localización de averías.
+– 	 La verificación del funcionamiento.
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54047
+Miércoles, 7 de agosto de 2013
+Módulo profesional: Sistemas programables avanzados.
+Equivalencia en créditos ECTS: 5
+Código: 0965
+Duración: 84 horas
+Contenidos:
+1. Reconocimiento de los dispositivos programables que intervienen en el control de 
+sistemas dinámicos:
+– 	 Aplicaciones automáticas para sistemas de control dinámicos. Características de 
+los sistemas automatizables. Especificaciones. Requisitos. 
+– 	 Criterios de selección, dimensionamiento e integración de los dispositivos 
+programables para su uso en los sistemas de control dinámicos. Tipos de 
+dispositivos y tecnologías disponibles. Evaluación de necesidades actuales 
+y futuras. Estandarización y compatibilidad. Criterios medioambientales, de 
+seguridad, económicos y tecnológicos entre otros.
+2. Montaje de sistemas de regulación de magnitudes en lazo cerrado:
+– 	 Funcionamiento de los dispositivos programables con señales analógicas. 
+Configuración de los dispositivos E/S. Definición de variables.
+– 	 Montaje de estructuras de regulación de variables de proceso. Control en lazo 
+cerrado. Bucles de control en cascada. Reguladores PID entre otros. Sintonización 
+de parámetros. Variables controladas. Aplicación en el control de velocidad, 
+movimiento, posición, temperatura, presión caudal, entre otros. 
+– 	 Estrategias de control avanzadas de los sistemas de control dinámicos. 
+– 	 Aplicación de sistemas embebidos. Ventajas. Aplicaciones típicas en 
+automatización. 
+– 	 Herramientas y dispositivos de visión artificial. Lectores de código, sensores y 
+cámaras de visión artificial, entre otros. Integración en el sistema automático.
+3. Programación avanzada de controladores lógicos:
+– 	 Tipos de datos en los autómatas programables. Tamaño. Direccionamiento en 
+memoria. Requisitos de memoria. Punteros. Seguridad de los datos, etc.
+– 	 Bloques y unidades de programación de los autómatas programables. Bloques 
+del sistema y de usuario. Funciones. Bloques de datos. 
+– 	 Tratamiento de avisos y alarmas mediante bloques o rutinas de interrupción. 
+Aplicación. Interrupciones prioritarias. Comunicación de avisos y alarmas. 
+Seguridad integrada. Modo seguro del sistema.
+– 	 Entradas y salidas analógicas en autómatas programables. Tipos de entradas y 
+salidas. Estándares de tensión y corriente. Escalado y desescalado.
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54048
+Miércoles, 7 de agosto de 2013
+– 	 Configuración y programación de tarjetas especiales. Entradas de contadores 
+rápidos. Salidas de impulsos en frecuencia. Tarjetas de comunicación. Módulos 
+de seguridad. Tarjetas de propósito específico, entre otros.
+– 	 Programación avanzada de PLC. Programación estructurada. Librerías. 
+Subrutinas. Integración de la seguridad, la calidad y el mantenimiento en los 
+sistemas automáticos. Guía GEMMA.
+– 	 Control de la trazabilidad. Registro de alarmas y avisos. Registro y archivo de 
+variables. Histórico de operación. Identificación de operarios, entre otros.
+– 	 Programación atendiendo a técnicas de ahorro y eficiencia energética. Integración 
+de técnicas de gestión de ahorro energético en la automatización. 
+– 	 Sistemas de protección. Control de acceso al sistema. Autorizaciones. Registro 
+de eventos y de cambios del sistema de control. 
+4. Verificación del funcionamiento de los sistemas de control analógico 
+programado:
+– 	 Monitorización de programas. Visualización de variables. Forzado de variables.
+– 	 Técnicas de verificación. Comprobación de subsistemas. Verificación del medio 
+físico y del medio lógico. Criterios de aceptación. 
+– 	 Instrumentos de medida. 
+5. Reparación de averías en sistemas de control analógico programado:
+– 	 Diagnóstico y localización de averías. Tipos de disfunciones. Métodos analíticos 
+para identificación de causas. Herramientas genéricas y protocolos de diagnóstico 
+y verificación.
+– 	 Plan de actuación ante disfunciones del sistema. Clasificación de las disfunciones. 
+Procedimientos de actuación. 
+– 	 Informe de incidencias. Modelos y formularios. 
+– 	 Técnicas de actuación. Normativa de prevención de riesgos aplicable. 
+– 	 Registros de averías. 
+– 	 Memoria técnica. 
+– 	 Documentación de los fabricantes. Repositorio de documentación técnica. 
+Formatos de almacenamiento, de consulta y de trabajo. Documentos técnicos.
+– 	 Valoración económica. Costes asociados a las reparaciones y el mantenimiento: 
+coste de repuestos, coste de mano de obra coste de parada entre otros. 
+Presupuestos de reparación e inspección. Imputación de costes. 
+– 	 Manual de uso. Contenidos de un manual de uso: advertencias de seguridad, 
+descripción del equipo físico y de la programación lógica, características 
+principales, modos de operación, inspecciones y resolución de problemas entre 
+otros. 
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54049
+Miércoles, 7 de agosto de 2013
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desarrollar los sistemas 
+dinámicos de control industrial.
+La definición de estas funciones incluye aspectos como:
+– 	 La identificación de los elementos constitutivos de un sistema de control 
+avanzado.
+– 	 La planificación de las diferentes fases hasta la puesta en operación de un 
+sistema de control avanzado.
+– 	 El montaje y configuración de un sistema de control avanzado.
+– 	 La instalación de diferente software tanto del sistema como de diagnosis y 
+protección.
+– 	 El desarrollo y elección de la estrategia de control más adecuada para cada 
+proceso industrial.
+– 	 La integración y compatibilidad de los sistemas con las tecnologías 
+preexistentes.
+– 	 La verificación de la puesta en servicio y del funcionamiento de equipos, 
+instalaciones y programas.
+– 	 Determinar el coste asociado a la implantación o reparación de un sistema de 
+control avanzado.
+– 	 Identificar las medidas de seguridad necesarias durante la ejecución y/o la 
+operación de un sistema de control avanzado.
+Las actividades profesionales asociadas a esta función se aplican en:
+– 	 La elección de las tecnologías más adecuada al sistema de control avanzado.
+– 	 Asegurar la viabilidad técnica y económica del sistema de control avanzado.
+– 	 La concreción de los requisitos tecnológicos y operativos más importantes de un 
+sistema de control avanzado.
+– 	 La selección de equipos que intervienen en un sistema de control dinámico.
+– 	 El montaje y configuración de equipos de medida y de regulación.
+– 	 El montaje y configuración de equipos para el control de procesos.
+– 	 El ajuste y calibración de sensores y actuadores
+– 	 El desarrollo de sistemas de regulación industrial.
+– 	 La verificación del funcionamiento de los sistemas de control dinámico.
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54050
+Miércoles, 7 de agosto de 2013
+– 	 La definición de los márgenes de operación aceptables de los sistemas de 
+operación dinámicos.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+a), b), c), f), g), h), k), l), m), n), o), p) y q) del ciclo formativo, y las competencias a), b), c), 
+d), f), h), j), k), l), m) y n) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+– 	 La identificación de equipos.
+– 	 La elaboración de las estrategias de control.
+– 	 La aplicación de diferentes tecnologías de control para dar solución a problemas 
+de automatización industrial.
+– 	 El montaje y configuración de un sistema de control dinámico.
+– 	 La localización de averías.
+– 	 La verificación del funcionamiento.
+Módulo profesional: Robótica industrial.
+Equivalencia en créditos ECTS: 5
+Código: 0966
+Duración: 105 horas
+Contenidos:
+1. Reconocimiento de diferentes tipos de robots y/o sistemas de control de 
+movimiento:
+– 	 Aplicaciones de robots y/o sistemas de control de movimiento (Motion Control). 
+Paletizado, manipulación, soldadura, transporte, ensamblado, pintura, medición, 
+aplicaciones móviles, entre otras.
+– 	 Tipología de los robots. Cartesiana, cilíndrica, polar o esférica, antropomórfica, 
+angular, SCARA, móviles, entre otros.
+– 	 Análisis de sistemas de seguridad en entornos robotizados. Sistemas de seguridad 
+pasivos. Sistemas de seguridad activos. Defensas y resguardos. Sensores y 
+relés seguridad, entre otros. Modos de funcionamiento y parada. 
+– 	 Morfología de un robot. Elementos constitutivos. Grados de libertad. Clasificación 
+de los robots. Características: velocidad, precisión, alcance, zona de trabajo, 
+repetitividad, 
+– 	 Sistemas mecánicos: elementos mecánicos (ejes, engranajes, correas, levas, 
+chavetas, entre otros). Sistemas de transmisión. Elementos de una cadena 
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54051
+Miércoles, 7 de agosto de 2013
+cinemática. Transformación de movimiento: circular-circular, lineal-circular, 
+circular-lineal. Acoplamientos: Esférico, de rótula, Planar, de tornillo o husillo, 
+prismática, rotacional, cilíndrica, entre otros. Útiles y herramientas del robot. 
+Herramientas de propósito general, herramientas para aplicaciones específicas, 
+sistemas intercambiadores de herramientas. 
+– 	 Unidades de control de robots. Sistemas de alimentación. Sistemas de control 
+de ejes. Interfaz de comunicación. Interfaz I/O, conexión, puesta en marcha, 
+dispositivos de seguridad.
+– 	 Sistemas de control de movimiento. Módulos y tarjetas de control de ejes. Drivers. 
+Configuración. Comunicación. Integración en otros sistemas (PLCs).
+– 	 Unidades de programación y aprendizaje. Consola portátil, ordenadores como 
+dispositivos de programación. Software y entornos de programación.
+– 	 Sistemas teleoperados para el control de manipuladores y/o robots.
+– 	 Sistemas de guiado.
+– 	 Sistemas de navegación en aplicaciones móviles.
+2. Configuración de instalaciones de robots y/o sistemas de control de movimiento 
+en su entorno:
+– 	 Simbología normalizada. 
+– 	 Representación de esquemas en aplicaciones robotizadas. Esquemas de 
+potencia, esquemas de mando, Esquemas unifilares. Esquemas de bloques. 
+Cableado de E/S. Esquemas de sistemas de comunicación.
+– 	 Esquemas neumáticos e hidráulicos aplicados al control de movimiento. 
+Esquemas de potencia, esquema de pilotaje.
+– 	 Conexión de sensores para la captación de señales digitales y/o analógicas en 
+entornos robotizados y de control de movimiento. Clasificación y conexionado de 
+los sensores utilizados en robótica.
+– 	 Conexión de actuadores utilizados en robótica y/o sistemas de control de 
+movimiento: neumáticos, hidráulicos y eléctricos. Motores de continua, de alterna, 
+motores paso a paso, motores brushless, control de servomotores, entre otros.
+– 	 Conexión de drivers en sistemas de control de movimiento. Conexión de 
+actuadores. Conexión con la unidad de control. Sistemas de comunicación.
+– 	 Conexión de dispositivos y módulos de seguridad en entornos robotizados. 
+Sensores específicos de seguridad. Instalación de sensores en mamparas 
+y barreras. Conexión y configuración de dispositivos de seguridad activa. 
+Implementación, configuración y señalización de los modos de funcionamiento y 
+parada: manual a baja y alta velocidad, automático, semiautomático, fallo.
+– 	 Representación de secuencias y diagramas de flujo. Simbología normalizada. 
+Reglas de representación y sintaxis.
+– 	 Reglamentación vigente. REBT. Reglamento de seguridad en máquinas, entre 
+otros. Directivas de seguridad en entornos robotizados.
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54052
+Miércoles, 7 de agosto de 2013
+3. Programación de robots y sistemas de control de movimiento:
+– 	 Posicionamiento de robots. Sistemas de coordenadas. Aprendizaje de posiciones. 
+Interpolación de movimiento: lineal, circular, por puntos de aproximación. 
+Posiciones de referencia. Orientación de la herramienta. Modos de movimiento: 
+cartesiano, articulación. Instrucciones de movimiento.
+– 	 Operaciones lógicas aplicadas a la programación de robots. 
+– 	 Lenguajes de programación de robots. Programación por guiado. Programación 
+textual. Tipos de lenguajes. Variables: definición y tratamiento. Tratamiento 
+de señales de E/S. Programación estructurada: subrutinas y funciones. 
+Procesamiento de programas externos.
+– 	 Programación secuencial. Programación de acciones, procesamiento, saltos, 
+decisiones, tareas opcionales, tareas paralelas, tratamiento de datos. Operaciones 
+matemáticas. Operaciones de comparación y lógicas.
+– 	 Programación de sistemas de control de movimiento. Posicionamiento. 
+Declaración de variables. Referenciado de puntos. Trayectorias. Implementación 
+en lenguajes estandarizados.
+4. Verificación del funcionamiento de robots y/o sistemas de control de movimiento:
+– 	 Técnicas de verificación. Conexionado y funcionamiento.
+– 	 Monitorización de programas. Visualización y forzado de variables. Depuración 
+de programas. Modos de ejecución: por líneas, cíclica, continua. Programación 
+Off-Line.
+– 	 Instrumentos de medida. Técnicas de medida para la puesta en marcha. 
+– 	 Reglamentación vigente. REBT, Reglamento de seguridad en máquinas. Entre 
+otros.
+5. Reparación de averías en entornos industriales robotizados y/o de control de 
+movimiento:
+– 	 Diagnóstico y localización averías. Técnicas de actuación en sistemas mecánicos 
+y eléctricos del robot y su entorno. En la programación. Monitorización de señales 
+internas y externas. Normas de seguridad.
+– 	 Técnicas de monitorización y ejecución de programas. Monitorización del estado 
+de variables y secuencia del programa. Ejecución por líneas, cíclica, continua.
+– 	 Registros de averías. Puntos de actuación. Fichas y registros. Documentación.
+– 	 Reglamentación vigente. REBT, Reglamento de seguridad en máquinas. 
+Normativa de seguridad, entre otros.
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54053
+Miércoles, 7 de agosto de 2013
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desarrollar proyectos 
+de control secuencial, de aplicación en sistemas de control de movimiento y/o robótica 
+industrial.
+El desarrollo de este tipo de proyectos incluye aspectos como:
+– 	 La identificación de los elementos eléctricos y mecánicos que forman los sistemas 
+de control de movimiento (motion control) y robótica industrial.
+– 	 La identificación de los sistemas de sensorización y percepción en un entorno 
+robotizado y/o de control de movimiento.
+– 	 El desarrollo e interpretación de esquemas de bloques y de conexión.
+– 	 La conexión y montaje de elementos de captación y actuación.
+– 	 La identificación de los sistemas de coordenadas y métodos de posicionamiento 
+de los robots.
+– 	 El desarrollo de programas para robots y/o sistemas de control de movimiento 
+por guiado o de forma textual.
+– 	 El establecimiento de las secuencias de control, utilizando técnicas de 
+programación estructurada.
+– 	 La gestión de archivos y programas.
+– 	 El tratamiento por programación de señales externas procedentes del interfaz de 
+E/S y de módulos de comunicación industrial.
+– 	 El uso de técnicas de programación On-line y Off-line.
+– 	 La configuración y programación de los equipos de control de movimiento y/o 
+robots industriales.
+– 	 La depuración y detección de errores.
+– 	 La identificación de los riesgos que se presentan en entornos industriales con 
+robots y ejes en movimiento.
+– 	 La conexión y configuración de dispositivos de seguridad en entornos 
+robotizados.
+– 	 La verificación de la puesta en servicio.
+– 	 El uso de actuación en entornos con robots.
+Las actividades profesionales asociadas a esta función se aplican en:
+– 	 La selección de equipos para el control de movimiento y/o robótica industrial.
+– 	 El desarrollo de esquemas del entorno en sistemas de control de movimiento y/o 
+robótica industrial.
+– 	 Conexión de sensores y actuadores en entornos robotizados.
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54054
+Miércoles, 7 de agosto de 2013
+– 	 La configuración y conexión de dispositivos de seguridad en entornos 
+robotizados.
+– 	 La programación del posicionamiento y creación de trayectorias con robots y 
+sistemas de control de movimiento.
+– 	 El desarrollo de programas de control para robótica y/o el control de movimiento, 
+utilizando técnicas de programación estructurada.
+– 	 La verificación del funcionamiento de la automatización y de los sistemas 
+asociados.
+– 	 La puesta en marcha de sistemas automatizados mediante robots y/o sistemas 
+de control de movimiento.
+– 	 La localización y reparación de averías en entornos con robots y/o sistemas de 
+control de movimiento.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+a), b), c), d), e), f), g), h), i), j), k), l), m), n), o) y q) del ciclo formativo, y las competencias 
+a), b), c), d), e) , f), g), h), i), j), k), l), m) y n) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+– 	 La identificación de equipos eléctricos, electrónicos y mecánicos en sistemas de 
+control de movimiento (motion control) y su entorno.
+– 	 La identificación de las partes que conforman un robot.
+– 	 La elaboración e interpretación de esquemas de bloques y de conexión.
+– 	 La conexión de sensores y actuadores. Internos y externos.
+– 	 La ejecución de tareas de guiado y aprendizaje de robots.
+– 	 El uso de instrucciones de control de movimiento.
+– 	 El uso de instrucciones de programación estructurada.
+– 	 La declaración y el uso de variables de uso interno y externo.
+– 	 La elaboración de las secuencias de control.
+– 	 El uso de diferentes lenguajes de programación de robots y/o sistemas de control 
+de movimiento en general.
+– 	 La utilización de software de programación On-line y Off-line con robots reales y 
+simulados.
+– 	 La aplicación de técnicas de depuración de programas
+– 	 La localización de errores de programación.
+– 	 La localización de averías.
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54055
+Miércoles, 7 de agosto de 2013
+– 	 La verificación del funcionamiento.
+– 	 La aplicación de las normas de seguridad en entornos de control de 
+movimiento.
+– 	 La implementación de sistemas de seguridad en entornos robotizados y de control 
+de movimiento.
+Módulo profesional: Comunicaciones industriales.
+Equivalencia en créditos ECTS: 11
+Código: 0967
+Duración: 189 horas
+Contenidos:
+1. Reconocimiento de los sistemas de comunicaciones industriales:
+– 	 El proceso de comunicación. Elementos que intervienen. Funciones y 
+características.
+– 	 Estructura de una red de comunicación industrial. Pirámide CIM.
+– 	 Arquitectura. Pirámide de las comunicaciones. Niveles, relación entre número de 
+dispositivos, volumen de datos y velocidad de respuesta.
+– 	 Normativa de las redes de comunicación industrial. ISO, CEI, IEEE, entre otras.
+– 	 Normalización de las comunicaciones. Modelo OSI. Capas y niveles. Modelo OSI 
+reducido de aplicación a las comunicaciones industriales.
+– 	 Modalidades de transmisión. Transmisión serie y paralelo.
+– 	 Organización de mensajes de datos serie. Asíncrona y síncrona. Parámetros de 
+comunicación.
+– 	 Normalización de las comunicaciones serie. RS-232, RS-422 y RS-485. 
+Características y ámbitos de aplicación.
+– 	 Técnicas de control de flujo. Por hardware y por software.
+– 	 Características de las topologías de redes. Bus. Árbol. Estrella. Anillo.
+– 	 Técnicas de control de errores. Sistemas de detección y de corrección.
+– 	 Métodos de acceso al medio. Centralizados y aleatorios.
+2. Elaboración de programas básicos de comunicación:
+– 	 Protocolos de comunicaciones. Campos que intervienen de forma genérica.
+– 	 Dispositivos de conversión. De norma física y de protocolo.
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54056
+Miércoles, 7 de agosto de 2013
+– 	 Estudio de un protocolo industrial. Comandos de lectura y escritura de datos, de 
+control, de errores.
+– 	 Elaboración de un programa en lenguaje de alto nivel para la comunicación 
+entre un ordenador y un equipo industrial. Envío y recepción de datos, control de 
+errores, visualización y registro de datos.
+3. Instalación y configuración de redes locales de ordenadores en entornos 
+industriales:
+– 	 Instalación de salas informáticas. Instalación eléctrica y de la red informática 
+para uso industrial.
+– 	 Condiciones eléctricas y medioambientales. Protecciones de la instalación 
+eléctrica según REBT. 
+– 	 Equipos que intervienen en una red industrial de área local de ordenadores. 
+Ordenadores/Servidores. Concentradores. Armarios rack de ubicación de 
+componentes. Impresoras. Sistema de alimentación ininterrumpida. Puntos de 
+acceso wíreless.
+– 	 Tipos de soporte de transmisión. Cableado estructurado. Cable trenzado 
+identificación y conexiones. Fibra óptica. Wireless.
+– 	 El estándar ethernet. Aplicaciones en el ámbito industrial. 
+– 	 Montaje, conexión y configuración de los equipos de la red local de ordenadores 
+en el ámbito industrial. Montaje de la red. Configuración de los equipos que 
+intervienen en la red. Configuración del sistema operativo de red. Configuración 
+de los recursos compartidos.
+4. Programación y configuración de los diferentes buses de comunicación de una 
+planta industrial:
+– 	 Estudio y clasificación de los buses industriales actuales según el ámbito de 
+aplicación.
+– 	 Interconexión de redes. Repetidor, bridge, router y pasarela (Gateway) entre 
+otros.
+– 	 Buses de campo a nivel sensor-actuador. Datos técnicos. Descripción de 
+los equipos participantes. Configuración y programación de los dispositivos 
+participantes. Control de errores.
+– 	 Red de comunicación entre un controlador y periferia descentralizada. 
+Características principales. Descripción de los equipos participantes. Configuración 
+y programación de los dispositivos participantes. Control de errores.
+– 	 Red de comunicación para el intercambio de datos entre controladores. 
+Características principales. Descripción de los equipos participantes. 
+Configuración y programación de los dispositivos participantes. Control de 
+errores.
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54057
+Miércoles, 7 de agosto de 2013
+– 	 Red de comunicación industrial (autómatas programables) con integración de red 
+de oficinas (ordenadores). Características principales. Descripción de los equipos 
+participantes. Configuración y programación de los dispositivos participantes. 
+Control de errores.
+– 	 Sistemas para el acceso a redes industriales desde el exterior. Telefonía móvil, 
+páginas web de control, internet, entre otras.
+– 	 Configuración de redes industriales con la utilización de la tecnología wi-fi.
+– 	 Control de procesos por ordenador. Sistemas software y hardware del controlador, 
+conexión en red de comunicación de los dispositivos.
+– 	 Elaboración de planos y esquemas de una red de comunicación en sistemas de 
+automatización industrial. 
+– 	 Elaboración de manuales de instrucciones de servicio y mantenimiento de redes 
+de comunicación.
+5. Configuración de los diferentes equipos de control y supervisión:
+– 	 Definición y clasificación de los sistemas de supervisión y control que intervienen 
+en un sistema de comunicación industrial. Sistemas basados en paneles de 
+operador y sistemas basados en ordenador (SCADA).
+– 	 Principales características de los sistemas de supervisión y control. Visualización 
+de procesos, control de los elementos, historial de datos, informes, gráficos de 
+tendencias, gestión del personal, trazabilidad de materias, mantenimiento, y 
+otros.
+– 	 Diseño de diferentes pantallas y la interacción entre ellas.
+– 	 Visualización y escritura de datos. Variables internas y externas del sistema de 
+supervisión.
+– 	 Incorporación de diferentes equipos de control en un mismo sistema de 
+supervisión, con intercambio de datos entre todos ellos.
+– 	 Generación de pequeños programas o scripts de aplicación en los sistemas de 
+supervisión.
+– 	 Representación gráfica de señales dinámicas. Diseño de gráficas y curvas de 
+tendencia.
+– 	 Registro de valores. Configuración de archivos históricos para valores de proceso, 
+avisos y alarmas, entre otros. Enlace con bases de datos y hojas de cálculo, 
+entre otras. 
+– 	 Enlace entre aplicaciones. Transferencia dinámica de datos (DDE), OPCs o 
+ActiveX, XML, entre otras.
+– 	 Gestión de los datos para su utilización en técnicas de mantenimiento.
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54058
+Miércoles, 7 de agosto de 2013
+6. Verificación del funcionamiento del sistema de comunicación industrial:
+– 	 Técnicas de verificación. Conexiones, configuración y funcionamiento.
+– 	 Monitorización de programas. Visualización de variables.
+– 	 Instrumentos de medida. Técnicas de medida.
+– 	 Reglamentación vigente.
+7. Reparación de disfunciones en sistemas de comunicación industrial:
+– 	 Diagnóstico y localización de averías. Protocolos de pruebas.
+– 	 Técnicas de actuación. Puntos de actuación.
+– 	 Registros de averías. Fichas y registros.
+– 	 Memoria técnica. Documentación de fabricantes.
+– 	 Valoración económica.
+– 	 Manual de uso. Manual de mantenimiento. Recomendaciones de seguridad y 
+medioambientales.
+– 	 Reglamentación vigente.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desarrollar proyectos de 
+sistemas de comunicación y supervisión industrial para diferentes plantas de producción.
+El desarrollo de este tipo de proyectos incluye aspectos como:
+– 	 La identificación y aplicación de cada uno de los buses de comunicación actual, 
+dependiendo de su aplicación.
+– 	 La selección de los diferentes dispositivos necesarios para la integración de los 
+equipos en una red de comunicación.
+– 	 La conexión, montaje y configuración de los equipos que intervienen en una red 
+informática.
+– 	 La representación de croquis y esquemas en aplicaciones de comunicación 
+industrial.
+– 	 La configuración de cada uno de los dispositivos que intervienen.
+– 	 La conexión y montaje de dispositivos.
+– 	 La programación de equipos.
+– 	 La verificación de la puesta en servicio.
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54059
+Miércoles, 7 de agosto de 2013
+Las actividades profesionales asociadas a esta función se aplican en:
+– 	 La selección de equipos que intervienen en una red local informática.
+– 	 La selección de dispositivos para la modificación y/o adaptación de equipos, de 
+forma que se puedan integrar en una red de comunicación industrial.
+– 	 La modificación y/o adaptación de programas de los dispositivos en red.
+– 	 El desarrollo de programas de control para el intercambio de datos entre los 
+dispositivos en red.
+– 	 La verificación del funcionamiento de la red de comunicación así como de los 
+sistemas asociados.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+a), b), c), d), e), f), g), j), k), l), m), n), o) y q) del ciclo formativo, y las competencias a), b), 
+c), d), e), f), g), h), j), k), l) y m) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+– 	 La identificación y configuración de los dispositivos y equipos integrantes en una 
+red de comunicación industrial.
+– 	 La elaboración de croquis y esquemas de conexión.
+– 	 El diseño y elaboración de pequeños programas de comunicación entre un 
+ordenador y un dispositivo industrial.
+– 	 La programación de sistemas de supervisión y control y su integración en una red 
+industrial.
+– 	 La utilización de equipos de diferentes fabricantes para su integración en una 
+misma red industrial.
+– 	 El intercambio de datos entre diferentes buses industriales.
+– 	 La localización de averías.
+– 	 La verificación del funcionamiento.
+Módulo profesional: Integración de sistemas de automatización industrial.	
+Equivalencia en créditos ECTS: 11
+Código: 0968
+Duración: 189 horas
+Contenidos:
+1. Planificación de la instalación del sistema automático:
+– 	 Técnicas de planificación en una instalación automática. Representación gráfica 
+de los procesos. Diagramas de flujo. Diagramas Gantt. Diagramas Pert.
+– 	 Fases de la instalación automática. Herramientas y equipos: Aprovisionamiento 
+de materiales, colocación de canalizaciones, tendido de conductores, conexión 
+de equipos, pruebas de funcionamiento, puesta en marcha, entre otras.
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54060
+Miércoles, 7 de agosto de 2013
+– 	 Aprovisionamiento y almacenaje de materiales. Técnicas de aprovisionado y 
+control de stocks. Tipos de almacenes en las empresas de automatización. Hojas 
+de pedido. Herramientas informáticas para la organización de un almacén. 
+– 	 Comprobación de materiales. Tipos de pruebas. Registros de comprobación.
+– 	 Identificación de puntos críticos en una instalación automática. Técnicas de 
+localización de puntos críticos.
+– 	 Estudio del trabajo. Programación, registros históricos, estimaciones, entre 
+otros.
+– 	 Contenidos básicos de un plan de aprovisionamiento y montaje de la instalación 
+automática. Datos generales, necesidades, calendario de pedidos y recepción de 
+material, calendario de actuación, entre otros.
+2. Gestión del montaje de una instalación automática:
+– 	 Equipos de medida de seguridad eléctrica. Medidor de aislamiento, medidor de 
+tierra, sensibilidad de diferenciales, entre otros.
+– 	 Gestión de recursos humanos. Gestión y asignación de tareas.
+– 	 Indicadores de montaje. Tiempos, niveles de calidad, entre otros.
+– 	 Valores mínimos de aceptación. Aislamiento, resistencia, rigidez, tiempo de 
+disparo, entre otros. 
+– 	 Requerimientos de puesta en marcha. Ensayos de elementos de protección. 
+Continuidad, accesibilidad, distancias mínimas, entre otras.
+– 	 Técnicas de puesta en marcha.
+– 	 Reglamentación vigente. Reglamento electrotécnico de baja tensión, Reglamento 
+de seguridad en máquinas, entre otros.
+3. Integración de elementos del sistema automático:
+– 	 Características de los cuadros eléctricos. Índices de protección IP e IK de los 
+cuadros eléctricos. Jerarquización de cuadros eléctricos. Elementos auxiliares 
+y de climatización. Dimensionado de cuadros. Técnicas de mecanizado e 
+instalación.
+– 	 Técnicas de instalación y montaje en sistemas eléctricos y con fluidos.
+– 	 Compatibilidad entre sistemas y equipos.
+– 	 Técnicas de conexionado entre sistemas eléctricos y con fluidos.
+– 	 Técnicas de montaje de robots y sistemas de control de movimiento.
+– 	 Técnicas de conexionado de dispositivos de medida y regulación. 
+– 	 Reglamentación y normas de seguridad. Instrucciones de los fabricantes.
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54061
+Miércoles, 7 de agosto de 2013
+4. Ejecución de operaciones de ajuste, parametrización y programación:
+– 	 Tipos de señales en un sistema automático. Señales de E/S del entorno. Señales 
+de seguridad. Señal de consigna, señal de error, señal de control, variable 
+manipulada, perturbaciones, variable controlada, medida, entre otras.
+– 	 Integración de los programas de los diferentes dispositivos de control lógico en 
+un sistema automático. Programación de sistemas secuenciales y continuos. 
+Preparación de variables de intercambio de datos con otros sistemas.
+– 	 Integración con sistemas control y adquisición de datos.
+– 	 Secuencias de control para soluciones robotizadas y de control de movimiento.
+– 	 Establecimiento de parámetros para los dispositivos de regulación y control 
+integrados en un sistema automático. Variadores de velocidad. Controladores 
+industriales. Otros.
+– 	 Establecimiento de parámetros y ajuste de la red de comunicación industrial en 
+un sistema automático integrado. Intercambio de datos entre dispositivos de 
+control, OPC.
+5. Verificación del funcionamiento del sistema automático:
+– 	 Verificaciones en el funcionamiento del cuadro de distribución eléctrico. 
+Alimentación, desconexión y seccionamiento. Enclavamientos de protección. 
+Arranque intempestivo. Paros de emergencia. Calentamiento y temperaturas 
+anormales. Accesibilidad a partes en tensión. Protección contra contactos directos 
+e indirectos. Verificación de aislamientos. Ensayos dieléctricos. Resistencia de 
+aislamiento. Tensiones residuales. Ensayos funcionales de las protecciones. 
+Continuidad del circuito eléctrico de protección.
+– 	 Verificaciones en el funcionamiento de todos los dispositivos del sistema 
+automático.
+– 	 Verificaciones en el funcionamiento de los programas de control, adquisición y 
+supervisión. Monitorización y forzado de variables.
+– 	 Verificaciones y optimización en el establecimiento de parámetros en 
+dispositivos.
+– 	 Procedimientos de puesta en marcha, verificación y ajuste de un sistema 
+automático completo. Guías de inspección.
+6. Localización de averías en el sistema automático:
+– 	 Solicitud de intervención y orden de trabajo.
+– 	 Procedimientos para la identificación y reparación de averías en el sistema 
+automático. Averías tipo, manual de mantenimiento del fabricante.
+– 	 Informes técnicos de averías y hojas de reparación.
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54062
+Miércoles, 7 de agosto de 2013
+7. Planificación del mantenimiento de un sistema de automatización industrial:
+– 	 Puntos susceptibles de mantenimiento en una instalación automática.
+– 	 Aprovisionamiento de materiales y gestión de stocks para el mantenimiento.
+– 	 Mantenimiento preventivo y correctivo. 
+– 	 Técnicas de planificación de mantenimiento. Informe técnico.
+– 	 Parámetros de ajuste para la mejora del mantenimiento.
+– 	 Recepción de materiales para el mantenimiento. 
+8. Gestión del mantenimiento de una instalación automática:
+– 	 Contenidos básicos de un plan de mantenimiento. Datos generales, necesidades, 
+calendario de revisiones y recambios, calendario de actuación, entre otros.
+– 	 Técnicas de gestión de recursos humanos y materiales.
+– 	 Procedimientos e indicadores de gestión para el mantenimiento.
+– 	 Reglamentación vigente.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional integra todos los conocimientos adquiridos en los diferentes 
+módulos formativos cursados a lo largo del ciclo formativo y se aplica a todos los tipos de 
+sistemas de automatización y robótica industrial relacionados con el perfil profesional del 
+título.
+La definición de estas funciones incluye aspectos como:
+– 	 La identificación de las características del montaje y mantenimiento de los 
+sistemas automáticos.
+– 	 La selección de equipos, eligiendo la tecnología más adecuada.
+– 	 La elaboración e interpretación de documentación técnica propia de los sistemas 
+de automatización y robótica industrial.
+– 	 El montaje de los equipos y elementos del sistema de automatización y robótica 
+industrial.
+– 	 El ajuste, la parametrización y la programación de los dispositivos.
+– 	 Las verificaciones del funcionamiento de los sistemas automáticos.
+– 	 La localización de averías.
+– 	 El mantenimiento de equipos y elementos de los sistemas de automatización y 
+robótica industrial.
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54063
+Miércoles, 7 de agosto de 2013
+En este módulo se debería desarrollar completamente un proyecto de automatización 
+y robótica industrial en el que se incluya, al menos, la distribución eléctrica, las protecciones, 
+los equipos y dispositivos de medida y regulación, los accionadores y el sistema de 
+comunicación necesario, integrando las tecnologías disponibles más adecuadas.
+Las actividades profesionales asociadas a esta función se aplican en:
+– 	 Desarrollar proyectos de sistemas de automatización industrial.
+– 	 Gestionar y supervisar el montaje y mantenimiento de los sistemas de 
+automatización industrial.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+a), b), c), d), e), f), g), h), i), j), k), l), m), n), ñ), o), p), q) y v) del ciclo formativo, y las 
+competencias a), b), c), d), e), f), g), h), i), j), k), l), m) y n) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+– 	 Identificación de las características de los sistemas automáticos, partiendo de 
+especificaciones técnicas.
+– 	 Determinación de equipos y dispositivos, partiendo de documentación técnica y 
+cálculos.
+– 	 Desarrollo de procesos de montaje, utilizando como recurso la documentación 
+técnica del proyecto.
+– 	 Aplicación de lenguajes de programación normalizados.
+– 	 Desarrollo de programas de gestión y control de redes de comunicación.
+– 	 Montaje de instalaciones automáticas, resolviendo problemas potenciales de 
+montaje y realizando el replanteo necesario, todo ello conforme a la documentación 
+técnica.
+– 	 Diagnóstico y reparación de averías y disfunciones utilizando herramientas 
+adecuadas.
+– 	 Realización de operaciones de mantenimiento según el plan establecido.
+– 	 Realización de la puesta en marcha y de las verificaciones oportunas de los 
+equipos y dispositivos del sistema de automatización industrial.
+– 	 Elaboración de la documentación técnica y administrativa, utilizando herramientas 
+ofimáticas y de diseño adecuadas.
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54064
+Miércoles, 7 de agosto de 2013
+Módulo profesional: Proyecto de automatización y robótica industrial.
+Equivalencia en créditos ECTS: 5
+Código: 0969
+Duración: 30 horas
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional complementa la formación establecida para el resto de los 
+módulos profesionales que integran el título en las funciones de análisis del contexto, 
+diseño del proyecto y organización de la ejecución.
+La función de análisis del contexto incluye las subfunciones de recopilación de 
+información, identificación de necesidades y estudio de viabilidad.
+La función de diseño del proyecto tiene como objetivo establecer las líneas generales 
+para dar respuesta a las necesidades planteadas, concretando los aspectos relevantes 
+para su realización. Incluye las subfunciones de definición del proyecto, planificación de la 
+intervención y elaboración de la documentación.
+La función de organización de la ejecución incluye las subfunciones de programación 
+de actividades, gestión de recursos y supervisión de la intervención.
+Las actividades profesionales asociadas a estas funciones se desarrollan en los 
+subsectores de montaje y mantenimiento de sistemas automáticos y robóticas.
+La formación del módulo profesional se relaciona con la totalidad de los objetivos 
+generales del ciclo y las competencias profesionales, personales y sociales del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional están relacionadas con:
+– 	 La responsabilidad y la autoevaluación del trabajo realizado.
+– 	 La autonomía y la iniciativa personal.
+– 	 El uso de las Tecnologías de la Información y de la Comunicación.
+El proyecto será realizado por el alumnado, de forma individual, preferentemente 
+durante el tercer trimestre del segundo curso. El alumnado será tutorizado por un 
+profesor, que imparta docencia en segundo curso del ciclo formativo, de la especialidad 
+de «Sistemas Electrótécnicos y Automáticos», «Sistemas Electrónicos» o «Instalaciones 
+Electrotécnicas», de acuerdo con lo establecido en el Anexo III A) del Real Decreto 
+1581/2011, de 4 de noviembre, no obstante, dado que los resultados de aprendizaje y 
+criterios de evaluación de este módulo profesional complementan los del resto de los 
+módulos profesionales y tiene un carácter integrador de todos los módulos profesionales 
+del ciclo, sería conveniente la colaboración de todos los profesores con atribución docente 
+en el ciclo formativo.
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54065
+Miércoles, 7 de agosto de 2013
+Módulo profesional: Formación y orientación laboral.
+Equivalencia en créditos ECTS: 5
+Código: 0970
+Duración: 96 horas 
+Contenidos:
+BLOQUE A: Formación, Legislación y Relaciones Laborales. 
+Duración: 46 horas
+1. Búsqueda activa de empleo:
+– 	 Valoración de la importancia de la formación permanente para la trayectoria laboral 
+y profesional del Técnico Superior en Automatización y Robótica Industrial.
+– 	 Análisis de los intereses, aptitudes y motivaciones personales para la carrera 
+profesional.
+– 	 Identificación de los itinerarios formativos relacionados con el Técnico Superior 
+en Automatización y Robótica Industrial.
+– 	 Definición y análisis del sector profesional del título de Técnico Superior en 
+Automatización y Robótica Industrial. Yacimientos de empleo.
+– 	 Proceso de búsqueda de empleo en pequeñas, medianas y grandes empresas 
+del sector.
+– 	 Oportunidades de aprendizaje y empleo en Europa. Programas europeos.
+– 	 Valoración de la empleabilidad y adaptación como factores clave para responder 
+a las exigencias del mercado laboral.
+– 	 Características personales y profesionales más apreciadas por empresas del 
+sector en Castilla y León. 
+– 	 Técnicas e instrumentos de búsqueda de empleo. La búsqueda de empleo. 
+Fuentes de información. El proceso de selección.
+– 	 Oportunidades de autoempleo.
+– 	 El proceso de toma de decisiones
+– 	 Reconocimiento del acceso al empleo en igualdad de oportunidades y sin 
+discriminación de cualquier tipo.
+2. Gestión del conflicto y equipos de trabajo:
+– 	 Valoración de las ventajas e inconvenientes del trabajo en equipo para la eficacia 
+de la organización.
+– 	 Concepto y tipos de equipos de trabajo. Formación y funcionamiento de equipos 
+eficaces.
+– 	 Equipos de trabajo en las empresas del sector de la automatización y robótica 
+industrial, según las funciones que desempeñan.
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54066
+Miércoles, 7 de agosto de 2013
+– 	 La participación en el equipo de trabajo. Los roles grupales. Problemas en el 
+funcionamiento de los equipos y técnicas para su resolución.
+– 	 Técnicas de participación y dinámicas de grupo. 
+– 	 Conflicto: características, fuentes y etapas.
+– 	 Métodos para la resolución o supresión del conflicto.
+– 	 La comunicación en la empresa. El lenguaje asertivo. La toma de decisiones y la 
+negociación como habilidades sociales para el trabajo en equipo.
+3. Contrato de trabajo:
+– 	 La organización política del Estado Español. Órganos de la administración y 
+jurisdicción laboral.
+– 	 El Derecho del Trabajo: normas fundamentales.
+– 	 Análisis de la relación laboral individual.
+– 	 Modalidades del contrato de trabajo y medidas de fomento de la contratación.
+– 	 Derechos y deberes derivados de la relación laboral. El tiempo de trabajo. Análisis 
+del recibo de salarios. Liquidación de haberes.
+– 	 Modificación, suspensión y extinción del contrato de trabajo.
+– 	 Valoración de las medidas para la conciliación familiar y profesional.
+– 	 Representación de los trabajadores en la empresa.
+– 	 Negociación colectiva. Análisis de un convenio colectivo aplicable al ámbito 
+profesional del Técnico Superior en Automatización y Robótica Industrial.
+– 	 Medidas de conflicto colectivo. Procedimientos de solución.
+– 	 Beneficios para los trabajadores en las nuevas organizaciones: flexibilidad y 
+beneficios sociales, entre otros.
+4. Seguridad Social, empleo y desempleo:
+– 	 La Seguridad Social como pilar del Estado social de Derecho.
+– 	 Estructura del sistema de la Seguridad Social.
+– 	 Determinación de las principales obligaciones de empresarios y trabajadores en 
+materia de Seguridad Social: afiliación, altas, bajas y cotización. Cálculo de bases 
+de cotización a la Seguridad Social y determinación de cuotas en un supuesto 
+sencillo.
+– 	 Prestaciones de la Seguridad Social. Situaciones protegibles en la protección 
+por desempleo. Cálculo de una prestación por desempleo de nivel contributivo 
+básico.
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54067
+Miércoles, 7 de agosto de 2013
+BLOQUE B: Prevención de Riesgos Laborales.
+Duración: 50 horas
+5. Evaluación de riesgos profesionales:
+– 	 Importancia de la cultura preventiva en todas las fases de la actividad. 
+Sensibilización, a través de las estadísticas de siniestralidad nacional y en Castilla 
+y León, de la necesidad de hábitos y actuaciones seguras.
+– 	 Valoración de la relación entre trabajo y salud.
+– 	 El riesgo profesional. Mapa de riesgos. Análisis de factores de riesgo.
+– 	 Análisis de riesgos ligados a las condiciones de seguridad.
+– 	 Análisis de riesgos ligados a las condiciones ambientales. Agentes físicos, 
+químicos y biológicos.
+– 	 Análisis de riesgos ligados a las condiciones ergonómicas y psicosociales.
+– 	 Riesgos específicos en el sector de la automatización y robótica industrial.
+– 	 La evaluación de riesgos en la empresa como elemento básico de la actividad 
+preventiva.
+– 	 Técnicas de evaluación de riesgos.
+– 	 Condiciones de seguridad y salud en los lugares de trabajo. 
+– 	 Determinación de los posibles daños a la salud del trabajador que pueden 
+derivarse de las situaciones de riesgo detectadas. 
+– 	 Los accidentes de trabajo, las enfermedades profesionales y otras patologías.
+6. Planificación de la prevención de riesgos en la empresa. Prevención integrada:
+– 	 Marco normativo en materia de prevención de riesgos laborales.
+– 	 Derechos y deberes en materia de prevención de riesgos laborales. 
+Responsabilidades legales.
+– 	 Gestión de la prevención en la empresa. Documentación.
+– 	 Organismos públicos relacionados con la prevención de riesgos laborales.
+– 	 Planificación de la prevención en la empresa. Secuenciación de actuaciones.
+– 	 Definición del contenido del Plan de Prevención de un centro de trabajo relacionado 
+con el sector profesional.
+– 	 Planes de emergencia y de evacuación en entornos de trabajo.
+– 	 Elaboración de un plan de emergencia en una empresa del sector. 
+– 	 Representación de los trabajadores en materia preventiva. 
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54068
+Miércoles, 7 de agosto de 2013
+7. Aplicación de medidas de prevención y protección en la empresa:
+– 	 Técnicas de lucha contra los daños profesionales. Seguridad en el trabajo. 
+Higiene Industrial y otros.
+– 	 Determinación de las medidas de prevención y protección individual y colectiva.
+– 	 Señalización de seguridad y salud.
+– 	 Protocolo de actuación ante una situación de emergencias.
+– 	 Primeros auxilios. Conceptos básicos. Aplicación de técnicas de primeros 
+auxilios.
+– 	 Vigilancia de la salud de los trabajadores.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para que el alumnado 
+pueda insertarse laboralmente y desarrollar su carrera profesional en el sector. 
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+p), q), r), s), t), u), v), x), y) y z) del ciclo formativo y las competencias profesionales, 
+personales y sociales p), q), r), s) y u) del título. 
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar 
+los objetivos del módulo profesional versarán sobre: 
+– 	 El manejo de las fuentes de información sobre el sistema educativo y laboral, en 
+especial en lo referente a las empresas. 
+– 	 La realización de pruebas de orientación y dinámicas sobre la propia personalidad 
+y el desarrollo de las habilidades sociales. 
+– 	 La preparación y realización de modelos de currículum vitae (CV) y entrevistas 
+de trabajo. 
+– 	 Identificación de la normativa laboral que afecta a los trabajadores del sector, 
+manejo de los contratos más comúnmente utilizados, lectura comprensiva de los 
+convenios colectivos de aplicación. 
+– 	 La cumplimentación de recibos de salario de diferen­tes características y otros 
+documentos relacionados. 
+– 	 El análisis de la Ley de Prevención de riesgos laborales que le permita la evaluación 
+de los riesgos derivados de las actividades desarrolladas en el sector productivo 
+y que le permita colaborar en la definición de un plan de prevención para una 
+pequeña empresa, así como en la elaboración de las medidas necesarias para 
+su puesta en funcionamiento.
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54069
+Miércoles, 7 de agosto de 2013
+Módulo profesional: Empresa e iniciativa emprendedora.
+Equivalencia en créditos ECTS: 4
+Código: 0971
+Duración: 63 horas
+Contenidos:
+1. Iniciativa emprendedora:
+– 	 Innovación y desarrollo económico. Principales características de la innovación 
+en automatización y robótica industrial (materiales, tecnología, organización de 
+la producción, entre otros).
+– 	 El trabajo por cuenta propia como fuente de creación de empleo y bienestar 
+social.
+– 	 La cultura emprendedora. El emprendedor. Factores claves de los emprendedores: 
+iniciativa, creatividad y formación.
+– 	 Desarrollo del espíritu emprendedor a través del fomento de las actitudes de 
+creatividad, iniciativa, autonomía y responsabilidad.
+– 	 La actuación de los emprendedores como empleados de una empresa de 
+automatización y robótica industrial. 
+– 	 Fomento de las capacidades emprendedoras de un trabajador por cuenta 
+ajena.
+– 	 La actuación de los emprendedores como empresarios en el sector de la 
+automatización y robótica industrial.
+– 	 Análisis de las oportunidades de negocio en el sector de la automatización y 
+robótica industrial.
+– 	 El empresario. Requisitos para el ejercicio de la actividad empresarial. Aptitudes 
+y actitudes.
+– 	 Plan de empresa: la idea de negocio en el ámbito de la automatización y robótica 
+industrial. 
+– 	 Búsqueda de ideas de negocio. Análisis y viabilidad de las mismas.
+2. La empresa y su entorno:
+– 	 Concepto de empresa. Funciones básicas de la empresa.
+– 	 Estructura organizativa de la empresa. Organigrama: comercial, técnica, social, 
+financiera y administrtiva.
+– 	 La empresa como sistema.
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54070
+Miércoles, 7 de agosto de 2013
+– 	 El entorno general de la empresa en los aspectos económico, social, demográfico 
+y cultural.
+– 	 Competencia. Barreras de entrada.
+– 	 Variables del marketing mix: precio, producto, comunicación y distribución.
+– 	 Análisis del entorno general y específico de una pyme relacionada con la 
+automatización y robótica industrial. Relaciones con clientes y proveedores.
+– 	 Análisis DAFO.
+– 	 Relaciones de una pyme de automatización y robótica industrial con su entorno.
+– 	 Cultura empresarial e imagen corporativa.
+– 	 Relaciones de una pyme de automatización y robótica industrial con el conjunto 
+de la sociedad.
+– 	 El balance social: los costes y los beneficios sociales.
+– 	 La ética empresarial en empresas del sector.
+3. Creación y puesta en marcha de una empresa:
+– 	 Tipos de empresa. La organización de la empresa. El organigrama.
+– 	 Elección de la forma jurídica. Ventajas e inconvenientes de las distintas formas 
+jurídicas con especial atención a la responsabilidad legal.
+– 	 La franquicia como forma de empresa.
+– 	 La fiscalidad en las empresas.
+– 	 Trámites administrativos para la constitución de una empresa del sector. Relación 
+con organismos oficiales.
+– 	 Plan de inversiones y gastos. Fuentes de financiación. El plan financiero.
+– 	 Subvenciones y ayudas destinadas a la creación de empresas del sector de la 
+automatización y robótica industrial en la localidad de referencia.
+– 	 Viabilidad económica y viabilidad financiera de una pyme relacionada con la 
+automatización y robótica industrial.
+– 	 Plan de empresa: elección de la forma jurídica, estudio de viabilidad económica 
+y financiera, trámites administrativos y gestión de ayudas y subvenciones.
+– 	 Vías externas de asesoramiento y gestión. La ventanilla única empresarial.
+4. Función administrativa:
+– 	 Concepto de contabilidad y nociones básicas.
+– 	 Cuentas anuales obligatorias.
+– 	 Análisis de la información contable.
+– 	 Ratios. Cálculo de coste, beneficio y umbral de rentabilidad.
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+Pág. 54071
+Miércoles, 7 de agosto de 2013
+– 	 Obligaciones fiscales de las empresas. Principales impuestos aplicables a las 
+empresas del sector.
+– 	 Gestión administrativa de una empresa de automatización y robótica industrial. 
+Documentos básicos utilizados en la actividad económica de la empresa: nota de 
+pedido, albarán, factura, letra de cambio, cheque y otros.
+– 	 Gestión de aprovisionamiento. Valoración de existencias. Volumen óptimo de 
+pedido.
+– 	 Elaboración de un plan de empresa. 
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desarrollar la propia 
+iniciativa en el ámbito empresarial, tanto hacia el autoempleo como hacia la asunción de 
+responsabilidades y funciones en el empleo por cuenta ajena. 
+La formación del módulo profesional permite alcanzar los objetivos generales w), x), 
+y) y z) del ciclo formativo y las competencias o), p), q), r), s), t) y u) del título.
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar 
+los objetivos del módulo profesional versarán sobre:
+– 	 El manejo de las fuentes de información sobre el sector de la automatización y 
+robótica industrial, incluyendo el análisis de los procesos de innovación sectorial 
+en marcha.
+– 	 La realización de casos y dinámicas de grupo que permitan comprender y valorar 
+las actitudes de los emprendedores y ajustar la necesidad de los mismos al sector 
+industrial relacionados con los procesos de automatización y robótica industrial.
+– 	 La realización de un proyecto de plan de empresa relacionada con la automatización 
+y robótica industrial, que incluya todas las facetas de puesta en marcha de un 
+negocio: viabilidad, organización de la producción y los recursos humanos, 
+acción comercial, control administrativo y financiero, así como justificación de su 
+responsabilidad social.
+– 	 La utilización de programas de gestión administrativa para pymes del sector.
+– 	 La utilización de la herramienta «Aprende a Emprender».
+Módulo profesional: Formación en centros de trabajo.
+Equivalencia en créditos ECTS: 22
+Código: 0972
+Duración: 380 horas
+Este módulo profesional contribuye a completar las competencias de este título y los 
+objetivos generales del ciclo, tanto aquellos que se han alcanzado en el centro educativo, 
+como los que son difíciles de conseguir en el mismo.
+CV: BOCYL-D-07082013-10
+
+Boletín Oficial de Castilla y León
+Núm. 151
+http://bocyl.jcyl.es
+D.L.: BU 10-1979 - ISSN 1989-8959
+Pág. 54072
+Miércoles, 7 de agosto de 2013
+ANEXO III
+ORGANIZACIÓN Y DISTRIBUCIÓN HORARIA
+Módulos profesionales
+Duración 
+del currículo 
+(horas)
+Centro Educativo
+Centro de 
+Trabajo
+Curso 1.º
+horas/semanales
+Curso 2.º
+1.º y 2.º
+trimestres
+horas/semanales
+3.er trimestre
+horas
+0959. 	 Sistemas eléctricos, 
+neumáticos e hidráulicos.
+160
+5
+0960. 	 Sistemas secuenciales 
+programables.
+160
+5
+0961. 	 Sistemas de medida y 
+regulación.
+160
+5
+0962. 	 Sistemas de potencia.
+192
+6
+0963. 	 Documentación técnica.
+64
+2
+0964. 	 Informática industrial.
+128
+4
+0965. 	 Sistemas programables 
+avanzados.
+84
+4
+0966. 	 Robótica industrial.
+105
+5
+0967. 	 Comunicaciones industriales.
+189
+9
+0968. 	 Integración de sistemas de 
+automatización industrial.
+189
+9
+0969. 	 Proyecto de automatización 
+y robótica industrial.
+30
+30
+0970. 	 Formación y orientación 
+laboral.
+96
+3
+0971. 	 Empresa e iniciativa 
+emprendedora.
+63
+3
+0972. 	 Formación en centros de 
+trabajo.
+380
+380
+TOTAL
+2000
+30
+30
+410
+CV: BOCYL-D-07082013-10

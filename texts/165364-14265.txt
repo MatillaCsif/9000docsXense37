@@ -1,0 +1,753 @@
+CONSEJERÍA DE ADMINISTRACIÓN AUTONÓMICA
+ORDEN ADM/999/2009, de 24 de abril, por la que se modifica el Anexo
+de la Orden PAT/136/2005, de 18 de enero, por la que se crea el
+registro telemático de la Administración de la Comunidad de Casti-
+lla y León y se establecen criterios generales para la presentación
+telemática de escritos, solicitudes y comunicaciones de determina-
+dos procedimientos administrativos.
+El artículo 45.1 de la Ley 30/1992, de 26 de noviembre, de Régimen
+Jurídico de las Administraciones Públicas y del Procedimiento Adminis-
+trativo Común, insta a las Administraciones Públicas a que promuevan la
+incorporación de técnicas electrónicas, informáticas y telemáticas en el
+desarrollo de su actividad y en el ejercicio de sus competencias.
+La utilización de técnicas de administración electrónica por la Admi-
+nistración de la Comunidad de Castilla y León está regulada por el Decre-
+to 40/2005, de 19 de mayo. Dicho Decreto contiene los elementos preci-
+sos para la implantación de la administración electrónica e impulsa su
+utilización en el desarrollo de la actividad y el ejercicio de las competen-
+cias de la Administración de la Comunidad de Castilla y León.
+Recientemente, la Ley 11/2007, de 22 de junio, de acceso de los ciu-
+dadanos a los Servicios Públicos, reconoce a los ciudadanos el derecho a
+relacionarse con las Administraciones Públicas utilizando medios electróni-
+cos para el ejercicio de los derechos previstos en el artículo 35 de la Ley
+30/1992, de 26 de noviembre, así como para obtener informaciones, rea-
+lizar consultas y alegaciones, formular solicitudes, manifestar consenti-
+miento, entablar pretensiones, efectuar pagos, realizar transacciones y
+oponerse a las resoluciones y actos administrativos.
+Mediante Orden PAT/136/2005, de 18 de enero, en cumplimiento de
+lo dispuesto en el artículo 26 del Decreto 2/2003, de 2 de enero, por el
+que se regulan los servicios de información y atención al ciudadano y la
+función de registro en esta Comunidad, se creó el registro telemático de
+la Administración de la Comunidad de Castilla y León, a través del cual
+se pueden presentar las solicitudes, escritos y comunicaciones que se rea-
+licen por vía telemática, relativos a los procedimientos administrativos y
+trámites que se especifican en el Anexo de la mencionada Orden, o que
+en lo sucesivo se incorporen al mismo.
+Existiendo nuevos trámites y procedimientos susceptibles de tramita-
+ción telemática es preciso proceder a la modificación del Anexo de la
+Orden citada.
+En su virtud, esta Consejería, en uso de las atribuciones que tiene
+conferidas,
+DISPONE:
+Artículo Único.– Modificación del Anexo de la Orden PAT/136/2005,
+de 18 de enero.
+Modificar el Anexo de la Orden PAT/136/2005, de 18 de enero, por la
+que se crea el registro telemático de la Administración de la Comunidad
+de Castilla y León y se establecen criterios generales para la presentación
+telemática de escritos, solicitudes y comunicaciones de determinados
+procedimientos administrativos, añadiendo el siguiente contenido:
+CONSEJERÍADE FAMILIAE IGUALDAD DE OPORTUNIDADES.
+INSTITUTO DE LA JUVENTUD DE CASTILLA Y LEÓN.
+PROCEDIMIENTO:
+– Solicitud de beca de formación y perfeccionamiento en programas
+europeos de juventud 2009.
+REGISTRO TELEMÁTICO:
+Presentación de las solicitudes y de la documentación necesaria.
+Para la presentación de comunicaciones se utilizarán los modelos nor-
+malizados disponibles en la página Web «http://www.jcyl.es».
+REQUISITOS TÉCNICOS.
+Para efectuar los trámites susceptibles de realizar ante el registro tele-
+mático en este procedimiento, es necesario disponer de un certificado reco-
+nocido: Certificado digital de clase 2CA emitido por la Fábrica Nacional de
+Moneda y Timbre, cuyas características y procedimientos de obtención pue-
+den consultarse, en http://www.cert.fnmt.es/clase2/ main.htm.
+Podrán admitirse otros certificados electrónicos, siempre y cuando
+estén previamente reconocidos por esta Administración y sean compati-
+bles con los diferentes elementos habilitantes y plataformas tecnológicas
+corporativas.
+Disposición final única.– Entrada en vigor.
+La presente Orden entrará en vigor el día siguiente de su publicación
+en el «Boletín Oficial de Castilla y León».
+Valladolid, 24 de abril de 2009.
+La Consejera de Administración
+Autonómica,
+Fdo.: ISABEL ALONSO SÁNCHEZ
+CONSEJERÍA DE EDUCACIÓN
+ORDEN EDU/995/2009, de 5 de mayo, por la que se desarrolla el
+Decreto 29/2009 de 8 de abril por el que se regulan los programas
+de conciliación de la Vida Familiar, Escolar y Laboral en el ámbito
+educativo.
+La Ley 1/2007, de 7 de marzo, de Medidas de Apoyo a las Familias
+de la Comunidad de Castilla y León dispone en su artículo 5.2 que la
+Administración de la Comunidad promoverá en el ámbito educativo
+actuaciones conducentes a facilitar la conciliación de la vida familiar,
+escolar y laboral, con actividades tales como la apertura de centros duran-
+te los días laborables no lectivos, vacaciones escolares y mediante la
+ampliación del horario de apertura de los centros durante los días lectivos
+establecidos por el calendario escolar, para atender al alumnado de edu-
+cación infantil y primaria.
+B.O.C. y L. - N.º 86
+Lunes, 11 de mayo 2009
+14265
+II.  DISPOSICIONES GENERALES
+
+De conformidad con las medidas establecidas en esa Ley, el Acuerdo
+124/2008, de 20 de noviembre de la Junta de Castilla y León, por el que
+se aprueba la II Estrategia de Conciliación de la Vida Personal, Familiar
+y Laboral, 2008-2011 contempla, en su objetivo 8, la potenciación de los
+programas «centros abiertos« y «madrugadores» considerándolos servi-
+cios necesarios para favorecer la conciliación.
+En este sentido el Decreto 29/2009, de 8 de abril, por el que se regu-
+lan los programas de conciliación de la vida familiar, escolar y laboral en
+el ámbito educativo establece el estatuto jurídico básico por el que se
+deben regir los programas «Centros Abiertos», «Madrugadores» y «Tar-
+des en el Cole».
+La presente Orden completa la regulación contenida en el citado
+Decreto estableciendo el régimen jurídico del funcionamiento de los pro-
+gramas. La Orden se estructura en seis capítulos, una disposición adicio-
+nal, tres disposiciones transitorias y dos disposiciones finales.
+El capítulo I establece las disposiciones generales; fija los supuestos
+en que concurre la necesidad de conciliar la vida familiar escolar y labo-
+ral y prevé la modalidad de gestión indirecta de los programas, ya que la
+experiencia en la gestión de estos servicios pone de manifiesto que, el
+empleo de esta técnica de gestión administrativa que ofrece el ordena-
+miento jurídico, permite garantizar un servicio público de calidad y sal-
+vaguardar los legítimos derechos de los usuarios. Asimismo se desarrolla
+el régimen de financiación de los programas, en relación con el cual, dado
+el contexto económico actual y con el objetivo básico de apoyar a las
+familias, aun cuando el Decreto 29/2009 de 8 de abril establece la posi-
+bilidad de fijar una tarifa a abonar por los usuarios, la Consejería de Edu-
+cación realiza el esfuerzo presupuestario de financiar íntegramente los
+programas «Madrugadores», «Tardes en el Cole» y «Centros abiertos»,
+salvo este último programa en las vacaciones de verano. 
+El capítulo II, dividido en dos secciones, señala los requisitos para la
+implantación de los programas, los períodos de funcionamiento y su
+forma de supresión así como las ratios de atención alumno/monitor.
+El capítulo III, dividido en dos secciones, determina el procedimiento
+que ha de regir la admisión del alumnado a los programas. Establece la
+forma, lugar y plazo de presentación de solicitudes, la tramitación y resolu-
+ción del procedimiento y las vías de impugnación frente a la resolución.
+El capítulo IV está dedicado al acceso electrónico de los usuarios
+garantizándoles, a través servicio de atención telefónica 012, el acceso a
+la información relativa a los programas, así como la asistencia en la tra-
+mitación telemática a través del portal de educación, con el objetivo final
+de mejorar la calidad y gestión de estos programas.
+Los capítulos V y VI regulan las obligaciones de los usuarios y las
+responsabilidades derivadas de su incumplimiento y los derechos y obli-
+gaciones del contratista y el control de la gestión de los programas, aspec-
+tos con los que se completa el régimen jurídico que preside el desarrollo
+de estos programas y que exige de los usuarios y de quienes gestionan los
+programas unas pautas de comportamiento que permitan un adecuado
+funcionamiento de estos servicios.
+En su virtud, y en atención a las facultades conferidas por la Ley 3/2001,
+de 3 de julio, del Gobierno y de la Administración de la Comunidad de Cas-
+tilla y León, previo dictamen del Consejo Escolar de Castilla y León
+DISPONGO:
+CAPITULO I
+Disposiciones generales
+Artículo 1.– Objeto.
+La presente Orden tiene por objeto el desarrollo del Decreto 29/2009,
+de 8 de abril, por el que se regulan los programas de conciliación de la
+vida familiar, escolar y laboral en el ámbito educativo, «Madrugadores»,
+«Tardes en el Cole» y «Centros Abiertos».
+Artículo 2.– Necesidad de conciliación.
+1. La necesidad de conciliar la vida familiar, escolar y laboral, cuya
+acreditación por parte de los representantes legales será requisito impres-
+cindible para que los alumnos puedan tener la condición de usuario de los
+programas regulados en esta Orden, se producirá:
+a) Cuando ambos padres o tutores desarrollen su jornada laboral en
+los periodos de tiempo en que soliciten la participación de sus
+hijos/tutelados en el programa.
+b) En el caso de las familias monoparentales a las que se refiere el
+artículo 41 de la Ley 1/2007, de 7 de marzo, de Medidas de Apoyo
+a las Familias de la Comunidad de Castilla y León, cuando el res-
+ponsable familiar desarrolle su jornada laboral en los periodos de
+tiempo en que solicite la participación de sus hijos/tutelados en el
+programa.
+2. La documentación acreditativa de la necesidad a la que se refiere
+el apartado anterior será la siguiente:
+a) En el caso de trabajadores por cuenta ajena, certificado de la
+empresa en la que presten servicios en el que se especifique el
+horario laboral.
+b) En el caso de trabajadores por cuenta propia, resguardo del ingre-
+so de la cuota de autónomo del mes inmediatamente anterior a la
+presentación de la solicitud.
+Artículo 3.– Gestión de los programas.
+Los programas de conciliación de la vida familiar escolar y laboral se
+gestionarán de forma indirecta mediante los correspondientes contratos
+de naturaleza administrativa especial.
+Artículo 4.– Financiación de los programas.
+Los programas regulados en la presente Orden se financiarán por:
+a) La Consejería de Educación.
+b) Las entidades locales en las que se desarrolle el programa «Cen-
+tros Abiertos», que asumirán los gastos generados por la utiliza-
+ción de las instalaciones que hayan puesto a disposición en los res-
+pectivos convenios.
+c) Los usuarios de programa «Centros Abiertos» en las vacaciones de
+verano mediante el abono de la tarifa que se fije contractualmente.
+CAPÍTULO II
+Implantación y supresión de los programas,
+períodos de funcionamiento y ratios de atención a los alumnos 
+SECCIÓN 1.ª
+Programas «Madrugadores» y «Tardes en el cole»
+Artículo 5.– Requisitos para la implantación y supresión de los programas.
+1. Se exigirá como requisito general para la implantación y continuidad
+de los programas «Madrugadores» y «Tardes en el Cole» que el número
+mínimo de solicitudes y de asistencia continuada sea de 10 alumnos.
+2. Corresponde a la Dirección General de Infraestructuras, Equipa-
+miento y Servicios, de la Consejería de Educación, de oficio o a pro-
+puesta de la dirección provincial de educación correspondiente, suprimir
+estos programas cuando la asistencia sea inferior a 10 alumnos, median-
+te resolución que se notificará a los interesados.
+Artículo 6.– Períodos de tiempo de funcionamiento de los programas.
+1. Los períodos de tiempo de funcionamiento de los programas
+«Madrugadores» y «Tardes en el Cole» dependerán del horario general y
+de la jornada de los centros, de acuerdo con lo establecido en los siguien-
+tes apartados de este artículo. 
+2. El programa «Madrugadores» se desarrollará en el periodo anterior
+al inicio de las actividades docentes sin que su duración pueda ser supe-
+rior a 135 minutos, no pudiendo comenzar antes de las 7:30 horas.
+3. El programa «Tardes en el Cole» podrá desarrollarse:
+a) En los centros con jornada partida, en el período comprendido
+desde la finalización de la actividad docente de la tarde sin que la
+duración del programa pueda ser superior a 60 minutos.
+b) En los centros con jornada continua, desde la finalización de las
+actividades extraescolares previstas en la solicitud de autorización
+de dicha jornada, sin que la duración del programa pueda ser supe-
+rior a 60 minutos.
+c) Exclusivamente en los centros que no dispongan de comedor esco-
+lar y no pueda prestarse este servicio en el comedor escolar de otro
+centro:
+1.º) Durante los meses de junio y de septiembre, podrá desarro-
+llarse el programa desde la finalización de las actividades
+docentes hasta las 15:00 horas como máximo.
+14266
+Lunes, 11 de mayo 2009
+B.O.C. y L. - N.º 86
+
+2.º) Durante los meses de octubre a mayo, se podrá optar por dis-
+frutar del programa durante un período máximo de 60 minu-
+tos, bien desde la finalización de la actividad docente de
+mañana o bien desde el término de las actividades extraesco-
+lares previstas en la solicitud de autorización de la jornada
+continua.
+4. El tiempo máximo de duración de 60 minutos del programa «Tar-
+des en el Cole» previsto en los apartados 3 a) y b) de este artículo podrá
+ampliarse cuando en un determinado centro docente concurran circuns-
+tancias excepcionales que lo justifiquen. La propuesta motivada de
+ampliación se realizará por la dirección provincial de educación corres-
+pondiente, y será dirigida a la Dirección General de Infraestructuras,
+Equipamiento y Servicios que resolverá lo que proceda.
+Artículo 7.– Ratios de atención a los alumnos.
+1. El número de monitores de cada programa se establecerá de acuer-
+do con la siguiente proporción:
+a) Hasta 18 alumnos participantes en el programa, un monitor.
+b) A partir de 18 alumnos, 2 monitores, a los que sumará otro adicio-
+nal por cada 18 alumnos más.
+c) Hasta 6 alumnos con necesidades educativas especiales, un monitor.
+d) Apartir de 6 alumnos con necesidades educativas especiales, 2 moni-
+tores, a los que sumará otro adicional por cada 6 alumnos más.
+2. Corresponde a la Dirección General de Infraestructuras Equipa-
+miento y Servicios, de la Consejería de Educación, de oficio, establecer
+el número de monitores en función de la asistencia real de alumnos a los
+programas, lo que comunicará al contratista.
+3. Los monitores dispondrán de la formación en servicios sociocultu-
+rales que determine la Consejería de Educación.
+SECCIÓN 2.ª
+Programa «Centros Abiertos»
+Artículo 8.– Requisitos para la implantación y supresión del programa.
+1. La entidad local que solicite la implantación del programa "Centros
+Abiertos" deberá presentar, junto con la solicitud y el resto de documen-
+tación requerida en el artículo 13.2 del Decreto 29/2009, de 8 de abril, la
+documentación acreditativa de la necesidad de conciliar la vida familiar,
+escolar y laboral, de los representantes legales de los potenciales usuarios
+del programa por franjas horarias, de acuerdo con lo previsto en el artículo
+2.2 de la presente Orden.
+2. Se exigirá como requisito general para la implantación y continui-
+dad de este programa, que el número mínimo de usuarios previstos en un
+centro y que asistan posteriormente de forma continuada, sea de 15 alum-
+nos, tanto en cada período de funcionamiento, como en las diversas fran-
+jas horarias en que se desarrolle el programa, de modo que de no alcan-
+zarse dicha cifra, los participantes se reasignarán a otro centro del
+municipio.
+3. Corresponderá a la Dirección General de Infraestructuras Equipa-
+miento y Servicios de la Consejería de Educación, de oficio o a propues-
+ta de la dirección provincial de educación correspondiente, la supresión
+del programa en algún periodo o en alguna de sus franjas horarias cuan-
+do la asistencia sea inferior a 15 alumnos.
+4. La supresión de alguno de los períodos de funcionamiento y fran-
+jas horarias a los que se refiere el artículo siguiente se realizará por reso-
+lución de la citada Dirección General, que se notificará a la entidad local
+con la que se haya suscrito el correspondiente convenio, a los interesados
+y al contratista.
+5. La supresión definitiva del programa requerirá la denuncia del con-
+venio suscrito con la entidad local correspondiente, que surtirá efectos el
+curso siguiente a aquel en que se produce la denuncia.
+Artículo 9.– Períodos de funcionamiento y franjas horarias.
+1. Los períodos de funcionamiento del programa "Centros Abiertos"
+serán:
+a) Primer trimestre: Comprenderá los sábados laborables y días labo-
+rables no lectivos desde el 1 de octubre hasta el último día de las
+vacaciones escolares de Navidad, de acuerdo con el calendario
+escolar aprobado por la autoridad educativa y con lo establecido en
+el convenio de colaboración correspondiente.
+b) Segundo y tercer trimestre: Comprenderá los sábados laborables y
+días laborables no lectivos desde el primer día lectivo del mes de
+enero hasta el último día lectivo del curso escolar, de acuerdo con
+el calendario escolar aprobado por la autoridad educativa y con lo
+establecido en el convenio de colaboración correspondiente
+c) Vacaciones de verano: Comprenderá los días laborables, de lunes
+a viernes, desde el primer día de las vacaciones de verano hasta el
+día 31 de julio.
+2. Tendrá la consideración de franja horaria mínima y obligatoria de
+asistencia la comprendida ente las 10:00 horas y las 13:00 horas y serán
+franjas horarias de asistencia voluntaria, las siguientes:
+a) De 8:00 a 9:00 horas.
+b) De 9:00 a 10:00 horas.
+c) De13:00 a 14:00 horas.
+d) De 14:00 a 15:00 horas.
+Artículo 10.– Ratios de atención a los alumnos.
+1. El número de monitores de cada programa se establecerá de acuer-
+do con la siguiente proporción:
+a) Hasta 30 alumnos, dos monitores.
+b) De 31 a 48 alumnos, tres monitores
+c) De 49 a 66 alumnos, cuatro monitores.
+d) A partir de 67 alumnos, 4 monitores, a los que sumará otro adicio-
+nal por cada 18 alumnos más.
+e) Hasta 6 alumnos con necesidades educativas especiales, un monitor.
+f) A partir de 6 alumnos con necesidades educativas especiales, 2
+monitores, a los que sumará otro adicional por cada 6 alumnos más.
+2. Corresponderá a la Dirección General de Infraestructuras, Equipa-
+miento y Servicios de la Consejería de Educación, de oficio establecer el
+número de monitores en función de la asistencia real de alumnos a los
+programas.
+3. Los monitores dispondrán de la formación en servicios sociocultu-
+rales que determine la Consejería de Educación, sin que en ningún caso
+puedan dispensar tratamiento terapéutico alguno a los alumnos admitidos
+al programa, salvo actuaciones de primeros auxilios, cuando la situación
+lo requiera.
+CAPÍTULO III
+Procedimiento de admisión y denegación
+de participación en los programas
+SECCIÓN 1.ª
+Programa «Madrugadores» y «Tardes en el cole»
+Artículo 11.– Solicitudes de admisión. 
+Podrán solicitar plaza en los programas «Madrugadores» y «Tardes
+en el Cole» los representantes legales de alumnos que cursen enseñanzas
+de segundo ciclo de Educación Infantil y de Educación Primaria en cen-
+tros docentes ordinarios de titularidad pública de la Comunidad en los
+que se haya autorizado el correspondiente programa, mediante la presen-
+tación, en la secretaría del centro, del modelo de solicitud aprobado por
+la Consejería de Educación y adjuntando la documentación acreditativa a
+que se refiere el artículo 2 de la presente Orden.
+Artículo 12.– Plazos de presentación de las solicitudes. 
+Las solicitudes de plaza en los programas «Madrugadores» y «Tardes
+en el Cole» deberán presentarse en los siguientes plazos:
+a) Para alumnos ya matriculados en el centro en el curso escolar ante-
+rior a aquel para el que se presenta la solicitud, en la segunda quin-
+cena del mes de abril.
+b) Para alumnos de nueva matriculación en el centro en el curso esco-
+lar para el que se presenta la solicitud, en el momento en que for-
+malicen la matrícula.
+c) Cuando la necesidad de conciliar la vida familiar, escolar y labo-
+ral, sobrevenga en un momento posterior a los establecidos en los
+apartados anteriores, en el plazo de un mes desde que esta necesi-
+dad surja, siempre que se acredite la fecha en que se produzca. 
+B.O.C. y L. - N.º 86
+Lunes, 11 de mayo 2009
+14267
+
+Artículo 13.– Resolución de admisión.
+1. El director del centro, a la vista de la documentación presentada,
+resolverá conjuntamente la admisión de los participantes en cada el pro-
+grama utilizando el modelo aprobado por la Consejería de Educación.
+2. La resolución se dictará en los siguientes plazos:
+a) Las solicitudes presentadas en la segunda quincena del mes de
+abril, antes del 5 de junio siguiente.
+b) Las solicitudes para alumnos de nueva matriculación, antes del pri-
+mer día lectivo del curso escolar.
+c) Las solicitudes presentadas con posterioridad a los períodos ordi-
+narios establecidos en los apartados a) y b) del artículo anterior, a
+partir del día siguiente al de la presentación de la solicitud.
+3. La resolución del director se publicará en el tablón de anuncios del
+centro y contendrá una relación de los alumnos admitidos y otra de los
+alumnos excluidos, con especificación de la causa de exclusión.
+4. El secretario del centro será responsable de custodiar la documen-
+tación que presenten los solicitantes debiendo archivarla en el centro. La
+dirección provincial de educación correspondiente y la Dirección Gene-
+ral de Infraestructuras, Equipamiento y Servicios podrán solicitar al
+secretario del centro la documentación a la que se refiere el artículo 2.2
+de la presente Orden, a los efectos de realizar las comprobaciones que
+estimen necesarias.
+5. Contra la resolución de admisión del director del centro podrá
+interponerse recurso de alzada ante el director provincial de educación
+correspondiente, en el plazo de un mes, desde el día siguiente a su publi-
+cación en los tablones de anuncios de los centros docentes, de conformi-
+dad con lo dispuesto en la Ley 30/1992, de 26 de noviembre, de Régimen
+Jurídico de las Administraciones Públicas y del Procedimiento Adminis-
+trativo Común.
+Artículo 14.– Participación excepcional en ambos programas el
+mismo día.
+1. Salvo que concurran causas excepcionales debidamente acredita-
+das, los representantes legales no podrán solicitar la participación de sus
+hijos o tutelados en ambos programas el mismo día, excepto los meses de
+junio y septiembre.
+2. En ese caso deberá presentarse solicitud razonada en la secretaría
+del centro, adjuntando la documentación que acredite las causas excep-
+cionales expuestas. A la vista de la documentación presentada, en el plazo
+de una semana contado a partir del día siguiente al de su presentación, el
+director del centro remitirá propuesta motivada de admisión o denegación
+al director provincial de educación, quien resolverá y notificará la reso-
+lución al interesado, y al director del centro en el plazo máximo de 10
+días contados a partir del día siguiente al de entrada de la propuesta del
+director del centro en el registro de la dirección provincial de educación.
+Contra la resolución del director provincial de educación, que no pone fin
+a la vía administrativa, podrá interponerse recurso de alzada ante el dele-
+gado territorial de la Junta de Castilla y León correspondiente, en el plazo
+de un mes, desde el día siguiente al de la notificación, de conformidad
+con lo dispuesto en la Ley 30/1992, de 26 de noviembre, de Régimen
+Jurídico de las Administraciones Públicas y del Procedimiento Adminis-
+trativo Común.
+SECCIÓN 2.ª
+Programa «Centros Abiertos»
+Artículo 15.– Solicitudes de admisión.
+1. Podrán solicitar plaza en el programa «Centros Abiertos», en el
+modelo de solicitud aprobado por la Consejería de Educación, los padres o
+tutores de los alumnos que cursen enseñanzas de segundo ciclo de Educa-
+ción Infantil y de Educación Primaria en centros ordinarios de la Comuni-
+dad en los municipios en los que se haya autorizado el programa y con los
+que se haya firmado el correspondiente convenio de colaboración.
+2. La solicitud de participación en el programa centros abiertos debe-
+rá presentarse en cualquiera de los registros administrativos previstos en
+el artículo 38.4 de la Ley 30/1992.
+3. El modelo de solicitud impreso aprobado para participar en el pro-
+grama «Centros Abiertos» el primer, segundo y tercer trimestre constará
+de tres ejemplares: el primero «para la Administración», el segundo «para
+la Entidad adjudicataria» y el tercero «para el interesado».
+4. El modelo de solicitud-liquidación impreso para participar en el
+programa «Centros Abiertos» durante las vacaciones de verano constará
+de cuatro ejemplares: el primero «para la Administración», el segundo
+«para la entidad de crédito» el tercero «para la Entidad adjudicataria» y
+el cuarto «para el interesado».
+5. La administración podrá solicitar, en cualquier momento, la docu-
+mentación acreditativa a la que se refiere el artículo 2.2 de la presente
+Orden, a los padres o tutores de los alumnos admitidos al programa. 
+Artículo 16.– Plazos de presentación de las solicitudes.
+La solicitud de participación en el programa «Centros Abiertos»
+deberá presentarse en los siguientes plazos:
+a) Del 1 al 20 de septiembre, para participar en el programa el primer
+trimestre.
+b) Del 15 de noviembre al 10 de diciembre, para participar en el pro-
+grama el segundo y tercer trimestre.
+c) Del 1 al 15 de mayo, para participar en el programa durante las
+vacaciones de verano.
+Artículo 17.– Renovaciones de plaza.
+La renovación de plaza deberá solicitarse en el servicio de atención
+telefónica 012 o por internet, a través del portal de educación, en los pla-
+zos que se señalan a continuación:
+a) Para alumnos que hayan participado las últimas vacaciones de
+verano y deseen participar en el primer trimestre del curso siguien-
+te, en el plazo señalado en el artículo 16 a).
+b) Para alumnos que ya estén participando en el programa y deseen
+seguir participando en el segundo y tercer trimestre, en el plazo
+señalado en el artículo 16 b).
+Artículo 18.– Resolución de admisión y asignación de centros.
+1. Los directores provinciales de educación resolverán conjuntamen-
+te admitiendo o denegando las solicitudes con indicación de la causa que
+motivó la denegación. Esta resolución se publicará en el portal educativo
+y en el tablón de anuncios de la dirección provincial de educación corres-
+pondiente y de los centros en los que se desarrolle el programa. Los soli-
+citantes podrán consultar si han sido admitidos y el centro asignado a tra-
+vés del servicio de atención telefónica 012.
+2. Los directores provinciales de educación resolverán en los siguien-
+tes plazos:
+a) Las solicitudes para la participación en el programa el primer tri-
+mestre, antes del 1 de octubre.
+b) Las solicitudes para la participación en el programa el segundo y
+tercer trimestre, antes del último día lectivo del mes de diciembre.
+c) Las solicitudes para la participación en el programa durante las
+vacaciones de verano, antes del 17 de junio.
+3. La asignación de centro en los municipios en que se oferten varios
+centros para el desarrollo del programa se realizará en función de las pre-
+ferencias manifestadas por los solicitantes, salvo que existieran más soli-
+citudes que plazas en un centro, en cuyo caso se asignarán las plazas uti-
+lizando como criterio la primera letra de los apellidos del menor, de
+acuerdo con lo establecido en la Resolución por la que se concreta la ges-
+tión de los procesos de admisión y matriculación del alumnado en centros
+docentes sostenidos con fondos públicos que impartan enseñanzas de
+segundo ciclo de educación infantil, educación primaria, educación
+secundaria obligatoria y bachillerato de la Comunidad de Castilla y León
+vigente en el plazo de solicitud de participación en el programa.
+4. Contra las resoluciones de admisión de los directores provinciales
+de educación podrá interponerse recurso de alzada ante el delegado terri-
+torial de la Junta de Castilla y León correspondiente, en el plazo de un
+mes, desde el día siguiente a su publicación en el tablón de anuncios de
+las direcciones provinciales de educación de conformidad con lo dis-
+puesto en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de
+las Administraciones Públicas y del Procedimiento Administrativo
+Común.
+Artículo 19.– Abono de la tarifa para participar en el programa
+«Centros Abiertos» durante las vacaciones de verano.
+1. Una vez dictada la Resolución de admisión correspondiente al
+periodo de vacaciones de verano, el interesado deberá efectuar el ingreso
+en la entidad de crédito y numero de cuenta que consta en el modelo de
+14268
+Lunes, 11 de mayo 2009
+B.O.C. y L. - N.º 86
+
+solicitud-liquidación impreso aprobado por la Consejería de Educación,
+entregando el segundo ejemplar del impreso a la citada entidad.
+2. El usuario del programa «Centros Abiertos» durante este periodo
+entregará en el centro, el primer día de asistencia al programa, el tercer ejem-
+plar del impreso como justificante de haber realizado el pago de la tarifa.
+CAPÍTULO IV
+Acceso electrónico de los usuarios
+Artículo 20.– Acceso a los programas por vía telefónica y telemática. 
+El servicio de atención telefónica 012 garantizará a los usuarios el
+acceso a la información relativa a los programas, así como la asistencia
+en la tramitación telemática a través del portal de educación.
+Artículo 21.– Protección de datos.
+Los datos de los alumnos participantes en los programas se incluirán
+en el fichero denominado «Servicios complementarios a la educación»
+creado por Orden EDU/1908/2008, de 3 de noviembre, y en su trata-
+miento se respetará lo dispuesto en la Ley Orgánica 15/1999, de 13 de
+diciembre, de Protección de Datos de Carácter Personal, en el Real
+Decreto 1720/2007, de 21 de diciembre, por el que se aprueba el Regla-
+mento de desarrollo de la ley anterior y en el Decreto 11/2003, de 23 de
+enero, por el que se regulan los ficheros de datos de carácter personal sus-
+ceptibles de tratamiento automatizado, de la Administración de la Comu-
+nidad de Castilla y León.
+Artículo 22.– Comité de seguimiento.
+Las Consejerías de Educación y de Administración Autonómica cons-
+tituirán un comité de seguimiento con las siguientes funciones en relación
+con la utilización de las vías telefónica y telemática por los usuarios de
+los programas:
+a) Planificación de actuaciones conjuntas.
+b) Revisión y comprobación del grado de cumplimiento de los acuer-
+dos adoptados por las citadas consejerías sobre el nivel de servicio
+y asignación de recursos.
+c) Detección de desviaciones y puntos críticos.
+d) Resolución de cualquier contingencia que pueda afectar a la aten-
+ción usuarios por vía telemática y telefónica.
+CAPÍTULO V
+Obligaciones de los usuarios y responsabilidades
+por su incumplimiento
+Artículo 23.– Obligaciones de los usuarios.
+Los representantes legales de los alumnos admitidos tendrán las
+siguientes responsabilidades:
+a) Que sus hijos/tutelados asistan a las actividades de los diferentes
+programas en los que participen y en caso de no asistir, comunicar
+la no asistencia por internet a través de la web habilitada a estos
+efectos o por vía telefónica a través del servicio de atención tele-
+fónica 012. 
+b) Que sus hijos/tutelados permanezcan en el centro durante el desarro-
+llo de las actividades del programa.
+c) Respetar los horarios de entrada y salida establecidos para el
+desarrollo de los programas, sin que se admita la entrada de alum-
+nos una vez transcurridos 5 minutos de la hora fijada. 
+d) Acreditar documentalmente, en el momento que lo solicite la
+administración, la necesidad de conciliar la vida familiar, escolar y
+laboral que han declarado en la solicitud de admisión en el pro-
+grama «Centros Abiertos».
+e) Presentar el primer día de asistencia al programa «Centros Abier-
+tos» durante las vacaciones de verano, el justificante de haber rea-
+lizado el pago de la tarifa.
+Artículo 24.– Responsabilidades por incumplimiento de obligaciones.
+Los representantes legales de los alumnos participantes en los progra-
+mas desarrollados en esta Orden incurrirán en las siguientes responsabili-
+dades por incumplimiento de las obligaciones relacionadas en el artículo
+anterior:
+a) Por no comunicar la falta de asistencia en dos ocasiones en el
+mismo trimestre, en el programa «Centros Abiertos», el alumno no
+podrán asistir durante el siguiente trimestre del mismo curso o del
+curso siguiente.
+b) Por no respetar los horarios de entrada y salida establecidos, el
+alumno no será admitido esa jornada en los programas «Madruga-
+dores» y «Tardes en el Cole» o hasta la siguiente franja horaria, en
+el programa «Centros Abiertos».
+c) Por no acreditar documentalmente en tiempo y forma, a requeri-
+miento de la Administración, la necesidad de conciliar la vida
+familiar, escolar y laboral declarada en la solicitud de admisión al
+programa «Centros Abiertos», se suspenderá el derecho de los
+padres o tutores a solicitar la participación de sus hijos o tutelados
+en el programa durante los nueve meses siguientes de funciona-
+miento del mismo.
+d) Por no presentar justificante de haber realizado el pago de la tari-
+fa correspondiente se impedirá el acceso del alumno al programa
+durante las vacaciones de verano.
+Artículo 25.– Procedimiento para la exigencia de responsabilidades.
+1. El procedimiento para exigir las responsabilidades relacionadas en
+los apartados a) y c) del artículo anterior se iniciará por el director pro-
+vincial de educación, a propuesta motivada del responsable del programa
+«Centros Abiertos» en la dirección provincial de educación.
+2. El director provincial de educación, a la vista de la propuesta, deci-
+dirá sobre la continuación del procedimiento o el archivo de las actuaciones
+designando, en su caso, al órgano instructor. Instruido el procedimiento se
+comunicarán al interesado los hechos, el extracto de las actuaciones lleva-
+das a cabo y la calificación provisional del incumplimiento presuntamente
+cometido, para que en un plazo de diez días formule cuantas alegaciones
+considere oportunas en defensa de sus intereses. 
+3. Corresponderá al director provincial de educación la resolución del
+procedimiento y la aplicación de las responsabilidades a que hubiere
+lugar, notificándolo al interesado. Contra las resoluciones adoptadas por
+los directores provinciales de educación, podrá interponerse recurso de
+alzada ante el delegado territorial de la Junta de Castilla y León corres-
+pondiente, en el plazo de un mes, desde el día siguiente a su notificación
+de conformidad con lo dispuesto en la Ley 30/1992, de 26 de noviembre,
+de Régimen Jurídico de las Administraciones Públicas y del Procedi-
+miento Administrativo Común.
+CAPÍTULO VI
+Derechos y obligaciones del contratista y control
+de la gestión de los programas
+Artículo 26.– Derechos del contratista.
+El contratista tendrá derecho a:
+a) El uso de los espacios y de las aulas que se designen en el plan
+anual de funcionamiento para el desarrollo de los programas
+«Madrugadores» y «Tardes en el Cole» en cada uno de los centros
+y al uso de los espacios y aulas del centro consignados en los
+correspondientes convenios de colaboración suscritos entre las
+entidades locales y la Comunidad de Castilla y León para el des-
+arrollo del programa «Centros Abiertos».
+b) El cobro del precio que se fije en el contrato y de la tarifa que
+deberán abonar los usuarios por la participación en el programa
+«Centros Abiertos» durante las vacaciones de verano.
+c) Los demás derechos que se establezcan normativa y contractualmente.
+Artículo 27.– Obligaciones del contratista.
+El contratista tendrá las siguientes obligaciones:
+1. En relación con el personal que preste sus servicios para el des-
+arrollo de cualquiera de los programas de conciliación de la vida familiar,
+escolar y laboral en el ámbito educativo, con el que tendrá vinculación
+jurídico-laboral, estará obligado a: 
+a) Respetar las normas vigentes en cada momento que disciplinen las
+relaciones laborales de los trabajadores.
+b) Garantizar que todo el personal reciba la formación necesaria para
+el desarrollo adecuado de sus funciones.
+c) Dotar a todo el personal de vestuario adecuado durante las horas
+en que se desarrollen los programas y velar porque el personal
+B.O.C. y L. - N.º 86
+Lunes, 11 de mayo 2009
+14269
+
+cuide la limpieza de su indumentaria y vaya provisto permanente-
+mente de una placa de identificación colocada en lugar visible.
+d) Responder de las acciones u omisiones de su personal en relación
+con la puntualidad, el comportamiento, la atención al alumnado y
+al personal del centro educativo y en general con la adecuada pres-
+tación de los programas.
+2. En relación con las instalaciones y equipamiento de los espacios y
+aulas que utilice para el desarrollo de estos programas, el contratista está
+obligado a mantenerlos en perfectas condiciones de uso, limpieza y orden,
+siendo responsable de cualquier deterioro o desperfecto que pueda ocasio-
+nar el alumnado y personal a su cargo en el desarrollo de los programas.
+3. En relación con el desarrollo de los programas, el contratista ten-
+drá las siguientes obligaciones:
+a) Presentar, antes del inicio de cada curso escolar, a la dirección pro-
+vincial de educación, a las entidades locales incluidas en el pro-
+grama «Centros Abiertos» y a cada uno de los maestros coordina-
+dores en el caso de los programas «Madrugadores» y «Tardes en el
+Cole», el plan de actividades con indicación detallada del calenda-
+rio de actividades y la descripción de cada uno de los materiales
+lúdico-educativos que va a aportar.
+b) Garantizar a los usuarios una atención lúdico-educativa adecuada
+y adaptada a la etapa educativa que cursen.
+c) Controlar, a través de medios telemáticos, la asistencia de todo el
+alumnado y que la recogida de alumnos se realiza por padre/madre
+tutor o tutora o en su defecto por persona autorizada.
+d) Responder civilmente de los daños y perjuicios que en su caso
+pudieran sufrir los alumnos en el desarrollo de los programas, a
+cuyos efectos deberá suscribir una póliza con las condiciones que
+se fijen contractualmente o mediante convenio.
+e) Coordinarse con el servicio de atención telefónica 012 para garan-
+tizar el adecuado funcionamiento de de las aplicaciones informáti-
+cas que soportan la gestión de estos programas.
+f) Aquellas otras obligaciones fijadas contractual o normativamente.
+4. En el caso de que el órgano de contratación, para reforzar el con-
+trol del cumplimiento del contrato y agilizar la solución de las diversas
+incidencias que puedan surgir durante su ejecución, designe un responsa-
+ble del contrato, de acuerdo con lo previsto en el artículo siguiente, el
+contratista vendrá obligado a cumplir las decisiones adoptadas e instruccio-
+nes dictadas por aquel en la ejecución del contrato.
+Artículo 28.– Control y supervisión.
+La Consejería de Educación ejercerá el control y supervisión del
+correcto funcionamiento de los programas a través de los directores de los
+centros, maestros coordinadores y direcciones provinciales de educación
+en los programas «Madrugadores» y «Tardes en el Cole», y a través de
+las direcciones provinciales de educación en el programa «Centros Abier-
+tos», sin perjuicio de que pueda complementar las funciones de control
+mediante el nombramiento de un responsable del contrato de acuerdo con
+lo dispuesto en el 41 de la Ley 30/2007, de 30 de octubre, de Contratos
+del Sector Público.
+Disposición adicional.– Publicidad del número de plazas y de las
+tarifas.
+Anualmente la Consejería de Educación publicará la oferta de plazas
+para el Programa «Centros Abiertos» y la tarifa a abonar por los usuarios
+por la participación en el programa. 
+Disposición transitoria primera.– Admisión en el programa «Centros
+Abiertos» desde la entrada en vigor de esta Orden hasta el último día del
+mes de julio de 2009.
+En el programa «Centros Abiertos», y sólo desde la entrada en vigor
+de esta Orden hasta el último día del mes de julio de 2009, tendrán prio-
+ridad para ser usuarios aquellos alumnos inscritos en el segundo y tercer
+trimestre del año 2009.
+En el caso de que el número de plazas ofertadas fuera inferior al de
+solicitudes, se seguirán el mismo criterio establecido en el artículo 18.3
+de esta Orden. 
+Disposición transitoria segunda.– Solicitud de admisión y resolución
+en los programas «Madrugadores» y «Tardes en el Cole» para el curso
+2009/2010.
+1. Las solicitudes para participar en los programas «Madrugadores» y
+«Tardes en el Cole» a que se refiere el artículo 12.a) de la Orden, para el
+curso 2009/2010 deberán presentarse la segunda quincena del mes de
+mayo.
+2. La resolución de admisión en los programas «Madrugadores» y
+«Tardes en el Cole» a que se refiere el artículo 13.2 a) de la Orden, para
+el curso 2009/2010 se realizará antes del 20 de junio.
+Disposición transitoria tercera.– Solicitud de plaza para las vacacio-
+nes de verano de 2009.
+Las solicitudes de admisión para participar en el programa "Centros
+Abiertos" durante las vacaciones de verano de 2009 deberán presentarse,
+de acuerdo con los trámites a que se refiere los artículos 15 y 19 de la pre-
+sente Orden, del 20 al 30 de mayo.
+Disposición final primera.– Desarrollo normativo. 
+Se faculta al titular de la Dirección General de Infraestructuras, Equi-
+pamiento y Servicios a dictar cuantas resoluciones sean precisas para la
+ejecución de lo establecido en la presente Orden.
+Disposición final segunda.– Entrada en vigor.
+La presente Orden entrará en vigor el día siguiente al de su publica-
+ción en el «Boletín Oficial de Castilla y León».
+Valladolid, 5 de mayo de 2009.
+El Consejero de Educación,
+P.A. (Acuerdo 1/2009, de 28 de abril)
+La Consejera de Cultura
+y Turismo
+Fdo.: M.ª JOSÉ SALGUEIRO CORTIÑAS
+UNIVERSIDADES
+UNIVERSIDAD DE LEÓN
+RESOLUCIÓN de 20 de abril de 2009, de la Universidad de León, por
+la que se ordena la publicación del Reglamento de los Concursos de
+Acceso a Cuerpos de Funcionarios Docentes Universitarios.
+Aprobado por Consejo de Gobierno de esta Universidad en sesión de
+fecha 2 de abril de 2009 el Reglamento de los Concursos de Acceso a
+Cuerpos de Funcionarios Docentes Universitarios.
+Este Rectorado ha resuelto ordenar su publicación en el «Boletín Oficial
+de Castilla y León», quedando redactado conforme figura en el Anexo.
+León, 20 de abril de 2009.
+El Rector,
+Fdo.: JOSÉ ÁNGEL HERMIDA ALONSO
+ANEXO
+REGLAMENTO DE LOS CONCURSOS DE ACCESO A CUERPOS 
+DE FUNCIONARIOS DOCENTES UNIVERSITARIOS
+La Ley Orgánica 4/2007, de 12 de abril, por la que se modifica la Ley
+Orgánica 6/2001, de 21 de diciembre, de Universidades, establece una
+nueva definición de los Cuerpos Docentes Universitarios de Catedráticos
+de Universidad y de Profesores Titulares de Universidad, así como un
+nuevo procedimiento de acceso a los citados cuerpos que requiere la pre-
+via obtención de la acreditación a través de la regulación contenida en el
+Real Decreto 1312/2007, de 5 de octubre. Esta Ley reemplaza el sistema
+de habilitación por un sistema de acreditación nacional, como requisito
+imprescindible para participar en concursos de acceso a Cuerpos Docen-
+tes Universitarios, cuya convocatoria y regulación corresponde a cada
+Universidad.
+14270
+Lunes, 11 de mayo 2009
+B.O.C. y L. - N.º 86

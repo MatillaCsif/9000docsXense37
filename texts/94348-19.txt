@@ -1,0 +1,169 @@
+B.O.C. y L. - N.º 131
+Viernes, 6 de julio 2007
+14273
+ANEXO
+Denominación del fichero:
+Grupos de Investigación de Excelencia de Castilla y León.
+Fines y usos:
+Gestión de datos relativos a los miembros de los Grupos de Investi-
+gación de Excelencia para su uso por la D. G. de Universidades e
+Investigación y otras unidades administrativas de la Consejería de
+Educación.
+Personas o colectivos afectados:
+Todos los miembros de los grupos que hayan obtenido la condición
+de Grupo de Investigación de Excelencia de Castilla y León.
+Procedimiento de recogida de datos:
+Datos aportados por los propios interesados pertenecientes al grupo.
+Transmisión electrónica/Internet.
+Estructura básica del fichero y descripción de los tipos de datos:
+Datos de carácter identificativo: D.N.I., Apellidos y Nombre, Dirección,
+Teléfono.
+Datos de carácter personal: Fecha y lugar de nacimiento, Edad, Sexo
+y Nacionalidad.
+Datos académicos y profesionales: Formación, Titulaciones, Expe-
+riencia Profesional.
+Datos de empleo: Categoría/Grado, Historial del trabajador.
+Datos de información comercial: Creaciones artísticas, literarias,
+científicas o técnicas.
+Cesiones de datos previstos:
+No previstas.
+Órgano de la Administración responsable del fichero:
+Dirección General de Universidades e Investigación.
+Servicio o Unidad ante la que puede ejercitarse los derechos de acce-
+so, rectificación, cancelación y oposición:
+Dirección General de Universidades e Investigación.
+Nivel de seguridad:
+Nivel Básico.
+ORDEN EDU/1198/2007, de 2 de julio, por la que se crea el fichero
+automatizado de Datos de Carácter Personal denominado «Perso-
+nal Docente de Centros Concertados».
+La Ley Orgánica 15/1999, de 13 de diciembre, de Protección de
+Datos de Carácter Personal, en su artículo 20, establece que la creación,
+modificación o supresión de los ficheros de las Administraciones Públi-
+cas sólo podrán hacerse por medio de disposición general publicada en el
+diario oficial correspondiente.
+Por su parte, el Decreto 11/2003, de 23 de enero, por el que se regu-
+lan los ficheros de datos de carácter personal susceptibles de tratamiento
+automatizado, de la Administración de la Comunidad de Castilla y León,
+concreta en su artículo 2, que la creación, modificación y supresión de los
+ficheros de datos de carácter personal incluidos en el ámbito de aplica-
+ción de la citada ley, se realizará previo informe de la Dirección General
+de Telecomunicaciones y Transportes de la Consejería de Fomento, por
+Orden del titular de la Consejería competente por razón de la materia a la
+que afectan.
+Por ello, y ante la necesidad de lograr una mayor agilidad y eficien-
+cia en la organización y gestión administrativa llevada a cabo por la Con-
+sejería de Educación, garantizando, paralelamente, el derecho a la pro-
+tección de datos de carácter personal de los administrados, se hace
+preciso la creación de ficheros automatizados de datos.
+En su virtud,
+DISPONGO:
+Artículo 1.– Se crea el fichero de datos de carácter personal de la Con-
+sejería de Educación, denominado «personal docente de centros concer-
+tados» que se describe en el Anexo de la presente Orden.
+Artículo 2.– El titular del órgano responsable de cada fichero auto-
+matizado a los que se refiere el artículo anterior, y en su caso el encarga-
+do de su tratamiento, deberá adoptar las medidas de índole técnica y orga-
+nizativa necesarias que garanticen la seguridad de los datos de carácter
+personal y eviten su alteración, pérdida tratamiento o acceso no autoriza-
+do, habida cuenta del estado de la tecnología, la naturaleza de los datos
+almacenados y los riesgos a que están expuestos. Ello implica la implan-
+tación de las medidas de seguridad exigibles en función de la naturaleza
+de los datos protegidos, en los términos establecidos en el Real Decreto
+994/1999, de 11 de junio, por el que se aprueba el Reglamento de medi-
+das de seguridad de los ficheros automatizados que contengan datos de
+carácter personal.
+Artículo 3.– Los interesados tendrán derecho a solicitar y obtener gra-
+tuitamente información de sus datos de carácter personal sometidos a tra-
+tamiento, el origen de dichos datos, así como las comunicaciones reali-
+zadas o que se prevea realizar con los mismos.
+DISPOSICIÓN FINAL
+Única.– La presente Orden entrará en vigor el día siguiente al de su
+publicación en el «Boletín Oficial de Castilla y León».
+Valladolid, 2 de julio de 2007.
+El Consejero,
+Fdo.: FRANCISCO JAVIER ÁLVAREZ-GUISASOLA
+ANEXO 
+Denominación del fichero:
+Fichero automatizado de datos de carácter personal de personal
+docente de Centros Concertados.
+Fines y usos:
+Gestión de datos relativos a la Nómina del personal docente que pres-
+ta servicios en Centros Concertados. 
+Personas o colectivos afectados:
+Personal docente de Centros Concertados.
+Procedimiento de recogida de datos:
+Datos aportados por el propio interesado o su representante legal en
+los formularios que los centros entregan a la Administración.
+Estructura básica del fichero y descripción de los tipos de datos:
+Datos de carácter identificativo; N.I.F., n.º S.S./Mutualidad, Nombre
+y Apellidos, Dirección, Teléfono, Municipio, Provincia, Código Postal.
+Datos de características personales; Datos de estado civil, Fecha de
+nacimiento, Edad y Sexo.
+Datos de detalle de empleo; Categoría/Grado, Puestos de trabajo.
+Cesiones de datos previstas: 
+No previstas.
+Órgano de la Administración responsable del fichero:
+Consejería de Educación.
+Servicio o Unidad ante el que pueden ejercitarse los derechos de
+acceso, rectificación, cancelación y oposición:
+Dirección General de Recursos Humanos.
+Medidas de Seguridad:
+Nivel Medio.
+ORDEN EDU/1199/2007, de 2 de julio, por la que se crea el fichero
+automatizado de Datos de Carácter Personal de la Consejería de
+Educación denominado «Proveedores».
+La Ley Orgánica 15/1999, de 13 de diciembre, de Protección de
+Datos de Carácter Personal, en su artículo 20, establece que la creación,
+
+14274
+Viernes, 6 de julio 2007
+B.O.C. y L. - N.º 131
+modificación o supresión de los ficheros de las Administraciones Públi-
+cas sólo podrán hacerse por medio de disposición general publicada en el
+diario oficial correspondiente.
+Por su parte, el Decreto 11/2003, de 23 de enero, por el que se regu-
+lan los ficheros de datos de carácter personal susceptibles de tratamiento
+automatizado, de la Administración de la Comunidad de Castilla y León,
+concreta en su artículo 2, que la creación, modificación y supresión de los
+ficheros de datos de carácter personal incluidos en el ámbito de aplica-
+ción de la citada ley, se realizará previo informe de la Dirección General
+de Telecomunicaciones y Transportes de la Consejería de Fomento, por
+Orden del titular de la Consejería competente por razón de la materia a la
+que afectan.
+Por ello, y ante la necesidad de lograr una mayor agilidad y eficien-
+cia en la organización y gestión administrativa llevada a cabo por la Con-
+sejería de Educación garantizando, paralelamente, el derecho a la protec-
+ción de datos de carácter personal de los administrados, se hace preciso
+la creación del fichero automatizado de datos denominado «proveedores».
+En su virtud,
+DISPONGO:
+Artículo 1.– Creación del fichero. 
+Se crea el fichero de datos de carácter personal de la Consejería de
+Educación denominado «proveedores», que se describe en el Anexo I de
+la presente Orden.
+Artículo 2.– Medidas técnicas y organizativas. 
+El titular del órgano responsable de cada fichero automatizado a los
+que se refiere el artículo anterior, y en su caso el encargado de su trata-
+miento, deberá adoptar las medidas de índole técnica y organizativa nece-
+sarias que garanticen la seguridad de los datos de carácter personal y evi-
+ten su alteración, pérdida tratamiento o acceso no autorizado, habida
+cuenta del estado de la tecnología, la naturaleza de los datos almacenados
+y los riesgos a que están expuestos. Ello implica la implantación de las
+medidas de seguridad exigibles en función de la naturaleza de los datos
+protegidos, en los términos establecidos en el Real Decreto 994/1999, de
+11 de junio, por el que se aprueba el Reglamento de medidas de seguridad de
+los ficheros automatizados que contengan datos de carácter personal.
+Artículo 3.– Derecho de acceso. 
+Los interesados tendrán derecho a solicitar y obtener gratuitamente
+información de sus datos de carácter personal sometidos a tratamiento, el
+origen de dichos datos, así como las comunicaciones realizadas o que se
+prevea realizar con los mismos.
+DISPOSICIÓN FINAL
+Única.– Entrada en vigor. 
+La presente Orden entrará en vigor el día siguiente al de su publica-
+ción en el «Boletín Oficial de Castilla y León».
+Valladolid, 2 de julio de 2007.
+El Consejero,
+Fdo.: FRANCISCO JAVIER ÁLVAREZ GUISASOLA
+ANEXO I

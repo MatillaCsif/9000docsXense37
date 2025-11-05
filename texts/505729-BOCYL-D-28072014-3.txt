@@ -1,0 +1,295 @@
+Boletín Oficial de Castilla y León
+Núm. 143
+Pág. 54567
+Lunes, 28 de julio de 2014
+I. COMUNIDAD DE CASTILLA Y LEÓN
+A. DISPOSICIONES GENERALES
+CONSEJERÍA DE EDUCACIÓN
+ORDEN EDU/658/2014, de 16 de julio, por la que se modifican ficheros de datos de 
+carácter personal de la Consejería de Educación.
+La Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter 
+Personal, en su artículo 20.1, establece que la creación, modificación o supresión de los 
+ficheros de las Administraciones Públicas sólo podrán hacerse por medio de disposición 
+general publicada en el «Boletín Oficial del Estado» o Diario Oficial correspondiente.
+Por su parte, el Decreto 11/2003, de 23 de enero, por el que se regulan los ficheros 
+de carácter personal susceptibles de tratamiento automatizado de la Administración de 
+la Comunidad de Castilla y León, dispone en su artículo 2 que la creación, modificación 
+y supresión de los ficheros de datos de carácter personal incluidos en el ámbito de 
+aplicación de la citada ley, se realizará por orden del titular de la consejería competente 
+por razón de la materia a la que afectan, y que las órdenes de creación y modificación 
+de ficheros deberán recoger todos los apartados que establece el artículo 20 de la citada 
+Ley Orgánica 15/1999, de 13 de diciembre.
+Por Decreto 81/2000, de 19 de abril, se creó el fichero de datos de carácter personal 
+de la entonces Consejería de Educación y Cultura, denominado «Registro de Títulos 
+académicos y profesionales no universitarios de la Comunidad de Castilla y León».
+Mediante Orden EDU/134/2004, de 3 de febrero, se crearon los ficheros de datos 
+de carácter personal denominados «Alumnos y ex-alumnos matriculados en centros de 
+titularidad pública» y «Personal (docente y no docente) que presta servicios en centros de 
+titularidad pública».
+Mediante Orden EDU/1781/2007, de 6 de noviembre, se crearon diversos ficheros 
+de datos de carácter personal, entre los que se encuentra el denominado «Registro de 
+centros docentes de la Comunidad de Castilla y León».
+A través de la presente orden se modifican los ficheros antes enunciados, declarando 
+su sistema de tratamiento como parcialmente automatizado o mixto, ya que los datos 
+personales que contienen son susceptibles de imprimirse en papel y por lo tanto deben 
+aplicarse también las medidas previstas para los ficheros no automatizados.
+Asimismo se procede a la actualización de la denominación de determinados 
+órganos de la Administración del Estado y de la Comunidad Autónoma que figuran, bien 
+en las cesiones previstas de los datos, o bien, como responsables de los ficheros o ante 
+los que pueden ejercitarse los derechos de acceso, rectificación y cancelación, en virtud 
+de los cambios o modificaciones producidas en su estructura orgánica desde su creación 
+o última modificación.
+CV: BOCYL-D-28072014-3
+
+Boletín Oficial de Castilla y León
+Núm. 143
+Pág. 54568
+Lunes, 28 de julio de 2014
+En el caso de los ficheros «Alumnos y ex-alumnos matriculados en centros de 
+titularidad pública» y «Personal (docente y no docente) que presta servicios en centros 
+de titularidad pública», se añade como nuevos datos de carácter identificativo objeto de 
+tratamiento, los relativos a la «dirección de correo electrónico personal, correo corporativo 
+y login de acceso al portal de educación».
+También en cumplimiento de lo dispuesto en el artículo 2 del Decreto 11/2003, de 
+23 de enero, y del artículo 20 de la Ley Orgánica 15/1999, de 13 de diciembre, se procede 
+a determinar todos los apartados de estructura del fichero de datos de carácter personal 
+«Registro de Títulos académicos y profesionales no universitarios de la Comunidad de 
+Castilla y León».
+En su virtud de las citadas normas y demás de general aplicación, y previo informe de 
+la Dirección General de Atención al Ciudadano, Calidad y Modernización de la Consejería 
+de Hacienda,
+DISPONGO
+Artículo 1. Objeto.
+La presente orden tiene por objeto la modificación de los ficheros de datos de 
+carácter personal de la Dirección General de Política Educativa Escolar que se contienen 
+en el Anexo I.
+Artículo 2. Medidas técnicas y organizativas.
+Los responsables de los ficheros adoptarán las medidas de gestión y organización 
+que sean necesarias para asegurar la confidencialidad, seguridad e integridad de los 
+datos, así como las conducentes a hacer efectivas las garantías, obligaciones y derechos 
+reconocidos en la normativa aplicable.
+Artículo 3. Derechos de los afectados.
+Las personas físicas y jurídicas afectadas por los ficheros podrán ejercitar su derecho 
+de acceso, cancelación, oposición y rectificación de datos, cuando proceda, ante el órgano 
+administrativo indicado en el Anexo correspondiente.
+DISPOSICIÓN DEROGATORIA
+Derogación normativa.
+Se derogan todas aquellas disposiciones de igual o inferior rango que se opongan a 
+lo dispuesto en la presente orden.
+DISPOSICIÓN FINAL
+Entrada en vigor.
+La presente orden entrará en vigor el día siguiente al de su publicación en el «Boletín 
+Oficial de Castilla y León».
+Valladolid, 16 de julio de 2014.
+El Consejero,
+Fdo.: Juan José Mateos Otero
+CV: BOCYL-D-28072014-3
+
+Boletín Oficial de Castilla y León
+Núm. 143
+Pág. 54569
+Lunes, 28 de julio de 2014
+ANEXO I
+MODIFICACIÓN DE FICHEROS
+1.– Denominación del fichero: «ALUMNOS Y EX-ALUMNOS MATRICULADOS 
+EN CENTROS DE TITULARIDAD PÚBLICA».
+– 	 Fines y usos:
+	
+Gestión de datos relativos al alumnado de centros de titularidad pública para su 
+uso en Servicios Centrales y otras Unidades Administrativas dependientes de la 
+Consejería de Educación. 
+– 	 Personas o colectivos afectados:
+	
+Alumnos y exalumnos matriculados en centros de titularidad pública y sus 
+padres. 
+– 	 Procedimiento de recogida y procedencia de los datos:
+	
+Datos aportados por el propio interesado o su representante legal. 
+	
+Transmisión electrónica/Internet. 
+– 	 Estructura básica del fichero y descripción de los tipos de datos de carácter 
+personal:
+	
+Datos de carácter identificativos: D.N.I., nombre y apellidos, dirección, teléfono, 
+imagen, dirección de correo electrónico personal, correo corporativo y login de 
+acceso al portal de educación.
+	
+Datos de características personales: Datos de estado civil, datos de familia, fecha 
+y lugar de nacimiento, edad, sexo y nacionalidad.
+	
+Datos académicos y profesionales: Formación, titulaciones e historial de 
+estudiante. 
+	
+Datos de detalle de empleo: Puestos de trabajo.
+	
+Datos económicos-financieros: Ingresos rentas.
+– 	 Cesiones de datos previstas:
+	
+Otras Administraciones Públicas y Universidades. 
+– 	 Órgano de la Administración responsable del fichero:
+	
+Dirección General de Política Educativa Escolar. 
+– 	 Servicio o Unidad ante el que pueden ejercitarse los derechos de acceso, 
+rectificación, cancelación y oposición:
+	
+Dirección General de Política Educativa Escolar.
+– 	 Sistema de tratamiento:
+	
+Parcialmente automatizado (Mixto).
+– 	 Medidas de Seguridad:
+	
+Nivel básico. 
+CV: BOCYL-D-28072014-3
+
+Boletín Oficial de Castilla y León
+Núm. 143
+Pág. 54570
+Lunes, 28 de julio de 2014
+2.– Denominación del fichero: «PERSONAL (DOCENTE Y NO DOCENTE) QUE 
+PRESTA SERVICIOS EN CENTROS DE TITULARIDAD PÚBLICA». 
+– 	 Fines y usos: 
+	
+Gestión de datos relativos al personal (docente y no docente) de centros de 
+titularidad pública, para su uso en Servicios Centrales y otras Unidades 
+Administrativas dependientes de la Consejería de Educación. 
+– 	 Personas o colectivos afectados: 
+	
+Personal (docente y no docente) de centros de titularidad pública. 
+– 	 Procedimiento de recogida de datos: 
+	
+Datos aportados por el propio interesado o su representante legal. 
+	
+Transmisión electrónica/Internet.
+– 	 Estructura básica del fichero y descripción de los tipos de datos: 
+	
+Datos de carácter identificativos: D.N.I., N.º S.S./Mutualidad, nombre y apellidos, 
+dirección, teléfono, imagen, dirección de correo electrónico personal, correo 
+corporativo y login de acceso al portal de educación.
+	
+Datos de características personales: Fecha de nacimiento, edad y sexo.
+	
+Datos académicos y profesionales: Formación y titulaciones. 
+	
+Datos de detalle de empleo: Cuerpo/Escala, Categoría/Grado, puestos de 
+trabajo. 
+– 	 Cesiones de datos previstas: 
+	
+No están previstas.
+– 	 Órgano de la Administración responsable del fichero: 
+	
+Dirección General de Política Educativa Escolar.
+– 	 Servicio o Unidad ante el que pueden ejercitarse los derechos de acceso, 
+rectificación, cancelación y oposición: 
+	
+Dirección General de Política Educativa Escolar.
+– 	 Sistema de tratamiento: 
+	
+Parcialmente automatizado (Mixto).
+– 	 Medidas de seguridad: 
+	
+Nivel Básico.
+CV: BOCYL-D-28072014-3
+
+Boletín Oficial de Castilla y León
+Núm. 143
+Pág. 54571
+Lunes, 28 de julio de 2014
+3.– Denominación del fichero: «REGISTRO DE CENTROS DOCENTES DE LA 
+COMUNIDAD DE CASTILLA Y LEÓN».
+– 	 Fines y usos: 
+	
+Fin: Registro de los centros docentes públicos y privados que imparten enseñanzas 
+no universitarias. 
+	
+Uso: Consultas y fuentes de datos. 
+– 	 Personas y colectivos afectados: 
+	
+Personas físicas titulares de los centros docentes privados que imparten 
+enseñanzas no universitarias del sistema educativo contemplado en la legislación 
+educativa vigente. 
+– 	 Procedimiento de recogida y procedencia de datos: 
+	
+Presentación de solicitudes de autorización y modificación de autorización 
+de apertura y funcionamiento de los centros docentes privados que imparten 
+enseñanzas no universitarias del sistema educativo contemplado en la legislación 
+educativa vigente. 
+– 	 Estructura básica del fichero y descripción de los datos de carácter personal: 
+	
+Datos de carácter identificativos de las personas físicas titulares de centros 
+docentes privados que imparten enseñanzas no universitarias del sistema 
+educativo contemplado en la legislación educativa vigente: nombre y apellidos, y 
+Número de Identificación Fiscal. 
+	
+Otros datos: el domicilio, el correo electrónico y los números de teléfono y fax. 
+– 	 Cesiones de datos previstas: 
+	
+Ministerio de Educación, Cultura y Deporte. 
+– 	 Órgano responsable de la Administración del fichero: 
+	
+Dirección General de Política Educativa Escolar. 
+– 	 Servicio o Unidad ante el que pueden ejercitarse los derechos de acceso, 
+rectificación y cancelación: 
+	
+Dirección General de Política Educativa Escolar. 
+– 	 Sistema de tratamiento: 
+	
+Parcialmente automatizado (Mixto).
+– 	 Medidas de seguridad: 
+	
+Nivel Básico. 
+CV: BOCYL-D-28072014-3
+
+Boletín Oficial de Castilla y León
+Núm. 143
+http://bocyl.jcyl.es
+D.L.: BU 10-1979 - ISSN 1989-8959
+Pág. 54572
+Lunes, 28 de julio de 2014
+4.– Denominación del fichero: «REGISTRO DE TÍTULOS ACADÉMICOS Y 
+PROFESIONALES NO UNIVERSITARIOS DE LA COMUNIDAD DE CASTILLA Y 
+LEÓN». 
+– 	 Fines y usos: 
+	
+Gestión de los datos del registro de títulos y gestión administrativa de los 
+expedientes relativos a la expedición de los mismos.
+– 	 Personas y colectivos afectados:
+	
+Alumnado con derecho a obtener las titulaciones reguladas en la Ley Orgánica 
+1/1990, de 3 de octubre de 1990, de Ordenación General del Sistema Educativo 
+y cualquier otra titulación cuya normativa lo establezca.
+– 	 Procedimiento de recogida y procedencia de datos:
+	
+Solicitud del propio interesado o su representante legal. Propuesta de las 
+Administraciones Públicas o de entidades privadas. 
+– 	 Estructura básica del fichero y descripción de los datos de carácter personal:
+	
+Datos de carácter identificativos: Nombre y apellidos, D.N.I.
+	
+Datos de características personales: Fecha de nacimiento, municipio y provincial, 
+departamento para los nacidos en el extranjero, nacionalidad.
+	
+Datos identificativos del centro docente en el que se han finalizado los estudios: 
+Denominación y código de centro.
+	
+Datos académicos y profesionales: Estudios finalizados que dan derecho a la 
+obtención del título: estudios o modalidad, nivel educativo, fecha de finalización, 
+calificación (en aquellos estudios en que exista calificación final en virtud de una 
+norma de carácter básico), tipo de documento (título o certificado), fecha de 
+expedición.
+– 	 Cesiones de datos previstas: 
+	
+Ministerio de Educación, Cultura y Deporte. 
+– 	 Órgano responsable de la Administración del fichero: 
+	
+Dirección General de Política Educativa Escolar. 
+– 	 Servicio o Unidad ante el que pueden ejercitarse los derechos de acceso, 
+rectificación y cancelación: 
+	
+Dirección General de Política Educativa Escolar. 
+– 	 Sistema de tratamiento: 
+	
+Parcialmente automatizado (Mixto).
+– 	 Medidas de seguridad:
+	
+Nivel Básico.
+CV: BOCYL-D-28072014-3

@@ -1,0 +1,2483 @@
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57610
+Miércoles, 28 de agosto de 2013
+I. COMUNIDAD DE CASTILLA Y LEÓN
+A. DISPOSICIONES GENERALES
+CONSEJERÍA DE EDUCACIÓN
+DECRETO 56/2013, de 22 de agosto, por el que se establece el currículo 
+correspondiente al título de Técnico Superior en Mecatrónica Industrial en la Comunidad 
+de Castilla y León.
+El artículo 73.1 del Estatuto de Autonomía de Castilla y León, atribuye a la Comunidad 
+de Castilla y León la competencia de desarrollo legislativo y ejecución de la enseñanza 
+en toda su extensión, niveles y grados, modalidades y especialidades, de acuerdo con 
+el derecho a la educación que todos los ciudadanos tienen, según lo establecido en el 
+artículo 27 de la Constitución Española y las leyes orgánicas que lo desarrollan.
+La Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación 
+Profesional, establece en el artículo 10.1 que la Administración General del Estado, 
+determinará los títulos y los certificados de profesionalidad, que constituirán las ofertas de 
+formación profesional referidas al Catálogo Nacional de Cualificaciones Profesionales.
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación, determina en su artículo 39.6 
+que el Gobierno, establecerá las titulaciones correspondientes a los estudios de formación 
+profesional, así como los aspectos básicos del currículo de cada una de ellas.
+El Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación 
+general de la formación profesional del sistema educativo, define en el artículo 9, la 
+estructura de los títulos de formación profesional, tomando como base el Catálogo 
+Nacional de Cualificaciones Profesionales, las directrices fijadas por la Unión Europea 
+y otros aspectos de interés social. El artículo 7 concreta los elementos que definen el 
+perfil profesional de dichos títulos, que incluirá la competencia general, las competencias 
+profesionales, personales y sociales, las cualificaciones profesionales y, en su caso, las 
+unidades de competencia, cuando se refieran al Catálogo Nacional de Cualificaciones 
+Profesionales incluidas en los títulos.
+Por otro lado, el artículo 8 del Real Decreto 1147/2011, de 29 de julio, dispone que 
+las Administraciones educativas establecerán los currículos correspondientes respetando 
+lo en él dispuesto y en las normas que regulen las diferentes enseñanzas de formación 
+profesional.
+El Real Decreto-Ley 14/2012, de 20 de abril, de medidas urgentes de racionalización 
+del gasto público en el ámbito educativo dispone en el artículo 5, que todas las disposiciones 
+contempladas en el Real Decreto 1147/2011, de 29 de julio, por el que se establece la 
+ordenación general de la formación profesional del sistema educativo, a excepción de la 
+disposición adicional séptima, serán de aplicación en el curso 2014/2015. Asimismo, los 
+ciclos formativos de grado medio y grado superior cuya implantación estuviera prevista para 
+el curso escolar 2012/2013 se implantarán en el curso escolar 2014-2015. No obstante, 
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57611
+Miércoles, 28 de agosto de 2013
+establece la posibilidad de que las administraciones educativas anticipen la implantación 
+de las medidas que consideren necesarias en los cursos anteriores, lo que se realiza en 
+el presente decreto.
+El Real Decreto 1576/2011, de 4 de noviembre, establece el título de Técnico Superior 
+en Mecatrónica Industrial y se fijan sus enseñanzas mínimas, disponiendo en el artículo 1, 
+que sustituye a la regulación del título de Técnico Superior en Mantenimiento de Equipo 
+Industrial, contenida en el Real Decreto 2043/1995, de 22 de diciembre.
+El presente decreto establece el currículo correspondiente al título de Técnico 
+Superior en Mecatrónica Industrial en la Comunidad de Castilla y León, teniendo en cuenta 
+los principios generales que han de orientar la actividad educativa, según lo previsto 
+en el artículo 1 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación. Pretende dar 
+respuesta a las necesidades generales de cualificación de los recursos humanos para su 
+incorporación a la estructura productiva de la Comunidad de Castilla y León.
+En el proceso de elaboración de este decreto se ha recabado dictamen del Consejo 
+Escolar de Castilla y León e informe del Consejo de Formación Profesional de Castilla y 
+León.
+En su virtud, la Junta de Castilla y León, a propuesta del Consejero de Educación, y 
+previa deliberación del Consejo de Gobierno en su reunión de 22 de agosto de 2013 
+DISPONE
+Artículo 1. Objeto y ámbito de aplicación.
+El presente decreto tiene por objeto establecer el currículo del título de Técnico 
+Superior en Mecatrónica Industrial en la Comunidad de Castilla y León. 
+Artículo 2. Identificación del título.
+El título de Técnico Superior en Mecatrónica Industrial queda identificado en la 
+Comunidad de Castilla y León por los elementos determinados en el artículo 2 del Real 
+Decreto 1576/2011, de 4 de noviembre, por el que se establece el citado título y se fijan 
+sus enseñanzas mínimas, y por un código, de la forma siguiente:
+FAMILIA PROFESIONAL: Instalación y Mantenimiento.
+DENOMINACIÓN: Mecatrónica Industrial.
+NIVEL: Formación Profesional de Grado Superior.
+DURACIÓN: 2.000 horas.
+REFERENTE EUROPEO: CINE-5b (Clasificación Internacional Normalizada de la 
+Educación).
+CÓDIGO: IMA03S.
+NIVEL DEL MARCO ESPAÑOL DE CUALIFICACIONES PARA LA EDUCACIÓN 
+SUPERIOR: Nivel 1 Técnico Superior.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57612
+Miércoles, 28 de agosto de 2013
+Artículo 3. Referentes de la formación.
+1. Los aspectos relativos al perfil profesional del título de Técnico Superior en 
+Mecatrónica Industrial determinado por la competencia general, por las competencias 
+profesionales, personales y sociales, y por la relación de cualificaciones y unidades de 
+competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título, 
+así como los aspectos referentes al entorno profesional y la prospectiva del título en el sector 
+o sectores, son los que se especifican en los artículos 3 a 8 del Real Decreto 1576/2011, 
+de 4 de noviembre.
+2. El aspecto relativo al entorno productivo en Castilla y León es el que se determina 
+en el Anexo I.
+Artículo 4. Objetivos generales.
+Los objetivos generales del ciclo formativo de Técnico Superior en Mecatrónica 
+Industrial son los establecidos en el artículo 9 del Real Decreto 1576/2011, de 4 de 
+noviembre. 
+Artículo 5. Principios metodológicos generales.
+1. La metodología didáctica de las enseñanzas de formación profesional integrará 
+los aspectos científicos, tecnológicos y organizativos que en cada caso correspondan, con 
+el fin de que el alumnado adquiera una visión global de los procesos productivos propios 
+de la actividad profesional correspondiente.
+2. Las enseñanzas de formación profesional para personas adultas se organizarán 
+con una metodología flexible y abierta, basada en el autoaprendizaje.
+Artículo 6. Módulos profesionales del ciclo formativo.
+Los módulos profesionales que componen el ciclo formativo de Técnico Superior en 
+Mecatrónica Industrial son los establecidos en el artículo 10 del Real Decreto 1576/2011, 
+de 4 de noviembre:
+0935. Sistemas mecánicos.
+0936. Sistemas hidráulicos y neumáticos.
+0937. Sistemas eléctricos y electrónicos.
+0938. Elementos de máquinas.
+0939. Procesos de fabricación.
+0940. Representación gráfica de sistemas mecatrónicos.
+0941. Configuración de sistemas mecatrónicos.
+0942. Procesos y gestión de mantenimiento y calidad.
+0943. Integración de sistemas.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57613
+Miércoles, 28 de agosto de 2013
+0944. Simulación de sistemas mecatrónicos.
+0945. Proyecto de mecatrónica industrial.
+0946. Formación y orientación laboral.
+0947. Empresa e iniciativa emprendedora.
+0948. Formación en centros de trabajo.
+Artículo 7. Objetivos, contenidos, duración y orientaciones pedagógicas y 
+metodológicas de cada módulo profesional.
+1. Los objetivos de los módulos profesionales relacionados en el artículo 6, expresados 
+en términos de resultados de aprendizaje, y los criterios de evaluación, son los que se 
+establecen en el Anexo I del Real Decreto 1576/2011, de 4 de noviembre.
+2. Por su parte, los contenidos, la duración y las orientaciones pedagógicas y 
+metodológicas de los módulos profesionales «Sistemas mecánicos», «Sistemas hidráulicos 
+y neumáticos», «Sistemas eléctricos y electrónicos, «Elementos de máquinas», «Procesos 
+de fabricación», «Representación gráfica de sistemas mecatrónicos»,  «Configuración de 
+sistemas mecatrónicos», «Procesos y gestión de mantenimiento y calidad», «Integración 
+de sistemas», «Simulación de sistemas mecatrónicos», «Formación y orientación laboral» 
+y «Empresa e iniciativa emprendedora», son los que se establecen en el Anexo II. 
+Asimismo, en el citado Anexo se establece la duración y las orientaciones pedagógicas y 
+metodológicas del módulo profesional «Proyecto de mecatrónica industrial», así como la 
+duración del módulo profesional «Formación en centros de trabajo».
+Artículo 8. Módulos profesionales de «Formación en centros de trabajo» y «Proyecto 
+de mecatrónica industrial».
+1. El programa formativo del módulo profesional «Formación en centros de trabajo» 
+será individualizado para cada alumno y se elaborará teniendo en cuenta las características 
+del centro de trabajo. Deberá recoger las actividades formativas que permitan ejecutar o 
+completar la competencia profesional correspondiente al título, los resultados de aprendizaje 
+y los criterios de evaluación previstos en el Anexo I del Real Decreto 1576/2011, de 4 de 
+noviembre.
+2. El módulo profesional de «Proyecto de mecatrónica industrial» se definirá de 
+acuerdo con las características de la actividad laboral del ámbito del ciclo formativo y con 
+aspectos relativos al ejercicio profesional y a la gestión empresarial. Tendrá por objeto la 
+integración de las diversas capacidades y conocimientos del currículo del ciclo formativo, 
+contemplará las variables tecnológicas y organizativas relacionadas con el título, y deberá 
+ajustarse a los resultados de aprendizaje y criterios de evaluación previstos en el Anexo I 
+del Real Decreto 1576/2011, de 4 de noviembre.
+El departamento de la familia profesional de Instalación y Mantenimiento determinará, 
+en el marco de la programación general anual, los proyectos que se propondrán para su 
+desarrollo por el alumnado. Los proyectos también podrán ser propuestos por el alumnado, 
+en cuyo caso se requerirá la aceptación del departamento.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57614
+Miércoles, 28 de agosto de 2013
+Con carácter general, el módulo profesional «Proyecto de mecatrónica industrial» se 
+desarrollará simultáneamente al módulo profesional «Formación en centros de trabajo», 
+salvo que concurran otras circunstancias que no lo permitan.
+El módulo profesional de «Proyecto de mecatrónica industrial» puede ser equivalente 
+con el desarrollo de un proyecto de innovación, en el que participe el alumnado, cuando 
+tenga un componente integrador de los contenidos de los módulos profesionales que 
+constituyen el ciclo formativo.
+Artículo 9. Organización y distribución horaria. 
+1. Los módulos profesionales que forman las enseñanzas del ciclo formativo de 
+Técnico Superior en Mecatrónica Industrial, cuando se oferte en régimen presencial, se 
+organizan en dos cursos académicos. Su distribución en cada uno de ellos y la asignación 
+horaria semanal se recoge en el Anexo III.
+2. El período de realización del módulo profesional de «Formación en centros de 
+trabajo» establecido en el Anexo III para el tercer trimestre, podrá comenzar en el segundo 
+trimestre si han transcurrido veintidós semanas lectivas a contar desde el inicio del curso 
+escolar.
+Artículo 10. Adaptaciones curriculares.
+1. Con objeto de ofrecer a todas las personas la oportunidad de adquirir una formación 
+básica, ampliar y renovar sus conocimientos, habilidades y destrezas de modo permanente 
+y facilitar el acceso a las enseñanzas de formación profesional, la consejería competente 
+en materia de educación podrá flexibilizar la oferta del ciclo formativo de Técnico Superior 
+en Mecatrónica Industrial permitiendo, principalmente a las personas adultas, la posibilidad 
+de combinar el estudio y la formación con la actividad laboral o con otras actividades, 
+respondiendo así a las necesidades e intereses personales.
+2. También se podrá adecuar las enseñanzas de este ciclo formativo a las 
+características de la educación a distancia, así como a las características del alumnado 
+con necesidades específicas de apoyo educativo para que se garantice su acceso, 
+permanencia y progresión en el ciclo formativo.
+Artículo 11. Accesos y vinculación a otros estudios, y correspondencia de módulos 
+profesionales con las unidades de competencia.
+El acceso y vinculación a otros estudios, y la correspondencia de los módulos 
+profesionales con las unidades de competencia son los que se establecen en el 
+Capítulo IV del Real Decreto 1576/2011, de 4 de noviembre.
+Artículo 12. Enseñanzas impartidas en lenguas extranjeras o en lenguas cooficiales 
+de otras comunidades autónomas.
+1. Teniendo en cuenta que la promoción de la enseñanza y el aprendizaje de lenguas 
+y de la diversidad lingüística debe constituir una prioridad de la acción comunitaria en el 
+ámbito de la educación y la formación, la consejería competente en materia de educación 
+podrá autorizar que todos o determinados módulos profesionales del currículo se impartan 
+en lenguas extranjeras o en lenguas cooficiales de otra comunidad autónoma, sin perjuicio 
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57615
+Miércoles, 28 de agosto de 2013
+de lo que se establezca en su normativa específica y sin que ello suponga modificación del 
+currículo establecido en el presente decreto.
+2. Los centros autorizados deberán incluir en su proyecto educativo los elementos 
+más significativos de su proyecto lingüístico autorizado.
+Artículo 13. Oferta a distancia del título.
+1. Los módulos profesionales que forman las enseñanzas del ciclo formativo de 
+Técnico Superior en Mecatrónica Industrial podrán ofertarse a distancia, siempre que se 
+garantice que el alumnado puede conseguir los resultados de aprendizaje de los mismos, 
+de acuerdo con lo dispuesto en el Real Decreto 1576/2011, de 4 de noviembre, y en este 
+decreto.
+2. La consejería competente en materia de educación establecerá los módulos 
+profesionales susceptibles de ser impartidos a distancia y el porcentaje de horas de cada 
+uno de ellos que tienen que impartirse en régimen presencial.
+Artículo 14. Requisitos de los centros para impartir estas enseñanzas.
+Todos los centros de titularidad pública o privada que ofrezcan enseñanzas 
+conducentes a la obtención del título de Técnico Superior en Mecatrónica Industrial se 
+ajustarán a lo establecido en la Ley Orgánica 2/2006, de 3 de mayo, de Educación y 
+en las normas que lo desarrollen, y en todo caso, deberán cumplir los requisitos que se 
+establecen en el artículo 46 del Real Decreto 1147/2011, de 29 de julio, por el que se 
+establece la ordenación general de la formación profesional del sistema educativo, en 
+el Real Decreto 1576/2011, de 4 de noviembre, en este decreto y en lo establecido en la 
+normativa que los desarrolle.
+Artículo 15. Profesorado. 
+Los aspectos referentes al profesorado con atribución docente en los módulos 
+profesionales del ciclo formativo de Técnico Superior en Mecatrónica Industrial, relacionados 
+en el artículo 6, son los establecidos en el artículo 12 del Real Decreto 1576/2011, de 4 de 
+noviembre.
+Artículo 16. Espacios y equipamientos. 
+Los espacios y equipamientos necesarios para el desarrollo de las enseñanzas del 
+ciclo formativo de Técnico Superior en Mecatrónica Industrial son los establecidos en el 
+artículo 11 del Real Decreto 1576/2011, de 4 de noviembre.
+Artículo 17. Autonomía de los centros.
+1. Los centros educativos dispondrán de la necesaria autonomía pedagógica, de 
+organización y de gestión económica, para el desarrollo de las enseñanzas y su adaptación 
+a las características concretas del entorno socioeconómico, cultural y profesional. Los 
+centros autorizados para impartir el ciclo formativo concretarán y desarrollarán el currículo 
+mediante las programaciones didácticas de cada uno de los módulos profesionales que 
+componen el ciclo formativo en los términos establecidos en el Real Decreto 1576/2011, 
+de 4 de noviembre, en este decreto, en el marco general del proyecto educativo de centro 
+y en función de las características del alumnado y de su entorno productivo. 
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57616
+Miércoles, 28 de agosto de 2013
+2. La consejería competente en materia de educación favorecerá la elaboración de 
+proyectos de innovación, así como de modelos de programación docente y de materiales 
+didácticos que faciliten al profesorado el desarrollo del currículo.
+3. Los centros, en el ejercicio de su autonomía, podrán desarrollar experiencias, 
+planes de trabajo, formas de organización o ampliación del horario escolar en los términos 
+que establezca la consejería competente en materia de educación, sin que, en ningún 
+caso, se impongan aportaciones ni exigencias a las familias o al alumnado.
+DISPOSICIONES ADICIONALES
+Primera. Calendario de implantación.
+1. La implantación del currículo establecido en este decreto tendrá lugar en el curso 
+escolar 2013/2014 para el primer curso del ciclo formativo y en el curso escolar 2014/2015 
+para el segundo curso del ciclo formativo.
+2. El alumnado de primer curso del ciclo formativo de grado superior «Técnico 
+Superior en Mantenimiento de Equipo Industrial» que cursó estas enseñanzas de acuerdo 
+al currículo establecido en el Decreto 79/2004, de 22 de julio, por el que se establece 
+el currículo correspondiente al título de Técnico Superior en Mantenimiento de Equipo 
+Industrial en el ámbito de la Comunidad de Castilla y León, y que deba repetir en el curso 
+2013/2014, se matriculará de acuerdo con el nuevo currículo, teniendo en cuenta su 
+calendario de implantación.
+3. En el curso 2013/2014, el alumnado de segundo curso del ciclo formativo de 
+grado superior «Técnico Superior en Mantenimiento de Equipo Industrial» que cursó estas 
+enseñanzas de acuerdo al currículo establecido en el Decreto 79/2004, de 22 de julio, y 
+tenga módulos profesionales pendientes de primero se matricularán, excepcionalmente, de 
+estos módulos profesionales de acuerdo con el currículo que los alumnos venían cursado. 
+En este caso, se arbitrarán las medidas adecuadas que permitan la recuperación de las 
+enseñanzas correspondientes.
+4. En el curso 2014/2015, el alumnado del ciclo formativo de grado superior «Técnico 
+Superior en Mantenimiento de Equipo Industrial» que cursó estas enseñanzas de acuerdo 
+al currículo establecido en el Decreto 79/2004, de 22 de julio, y tenga módulos profesionales 
+pendientes de segundo curso se podrán matricular, excepcionalmente, de estos módulos 
+profesionales de acuerdo con el currículo que el alumnado venía cursando.
+5. A efectos de lo indicado en los apartados 3 y 4, el Departamento de Familia 
+Profesional propondrá al alumnado un plan de trabajo, con expresión de las capacidades 
+terminales y los criterios de evaluación exigibles y de las actividades recomendadas, 
+y programarán pruebas parciales y finales para evaluar los módulos profesionales 
+pendientes.
+Segunda. Titulaciones equivalentes y vinculación con capacitaciones profesionales.
+1. Las titulaciones equivalentes y vinculación con capacitaciones profesionales son 
+las que se establecen en la disposición adicional tercera del Real Decreto 1576/2011, de 
+4 de noviembre.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57617
+Miércoles, 28 de agosto de 2013
+2. La formación establecida en el presente decreto en el módulo profesional de 
+«Formación y orientación laboral», incluye un mínimo de 50 horas, que capacita para llevar 
+a cabo responsabilidades profesionales equivalentes a las que precisan las actividades de 
+nivel básico en prevención de riesgos laborales, establecidas en el Real Decreto 39/1997, 
+de 17 de enero, por el que se aprueba el Reglamento de los Servicios de Prevención.
+Tercera. Certificación académica de superación del nivel básico en prevención de 
+riesgos laborales.
+La consejería competente en materia de educación expedirá una certificación 
+académica de la formación de nivel básico en prevención de riesgos laborales, al alumnado 
+que haya superado el bloque B del módulo profesional de «Formación y orientación 
+laboral», de acuerdo con el procedimiento que se establezca al efecto.
+Cuarta. Equivalencias a efectos de docencia en los procedimientos selectivos de 
+ingreso en el Cuerpo de Profesores Técnicos de Formación Profesional.
+En los procesos selectivos convocados por la consejería competente en materia de 
+educación, el título de Técnico Superior o de Técnico Especialista se declara equivalente 
+a los exigidos para el acceso al Cuerpo de Profesores Técnicos de Formación Profesional, 
+cuando el titulado haya ejercido como profesor interino en centros educativos públicos 
+dependientes de la citada consejería y en la especialidad docente a la que pretenda 
+acceder durante un período mínimo de dos años antes del 31 de agosto de 2007. 
+Quinta. Accesibilidad universal en las enseñanzas de este título.
+La consejería competente en materia de educación adoptará las medidas necesarias 
+para que el alumnado pueda acceder y cursar este ciclo formativo en las condiciones 
+establecidas en la disposición final décima de la Ley 51/2003, de 2 de diciembre, de 
+igualdad de oportunidades, no discriminación y accesibilidad universal de las personas 
+con discapacidad. 
+Sexta. Autorización de los centros educativos.
+Todos los centros de titularidad pública o privada que, en la fecha de entrada en 
+vigor de este decreto, tengan autorizadas enseñanzas conducentes a la obtención del 
+título de Técnico Superior en Mantenimiento de Equipo Industrial, regulado en el Real 
+Decreto 2043/1995, de 22 de diciembre, quedarán autorizados para impartir el título de 
+Técnico Superior en Mecatrónica Industrial que se establece en el Real Decreto 1576/2011, 
+de 4 de noviembre.
+DISPOSICIÓN DEROGATORIA
+Derogación normativa.
+Queda derogado el Decreto 79/2004, de 22 de julio, por el que se establece el currículo 
+correspondiente al título de Técnico Superior en Mantenimiento de Equipo Industrial en el 
+ámbito de la Comunidad de Castilla y León y cuantas disposiciones de igual o inferior 
+rango se opongan a lo establecido en el presente decreto. 
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57618
+Miércoles, 28 de agosto de 2013
+DISPOSICIONES FINALES
+Primera. Desarrollo normativo.
+Se faculta al titular de la consejería competente en materia de educación para dictar 
+cuantas disposiciones sean precisas para la interpretación, aplicación y desarrollo de lo 
+dispuesto en este decreto.
+Segunda. Entrada en vigor.
+El presente decreto entrará en vigor el día siguiente al de su publicación en el «Boletín 
+Oficial de Castilla y León».
+Valladolid, 22 de agosto de 2013.
+El Presidente de la Junta 
+de Castilla y León,
+Fdo.: Juan Vicente Herrera Campo
+El Consejero
+de Educación,
+Fdo.: Juan José Mateos Otero
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57619
+Miércoles, 28 de agosto de 2013
+ANEXO I
+ENTORNO PRODUCTIVO DE CASTILLA Y LEÓN
+Los principales sectores manufactureros de Castilla y León, tanto por el volumen de 
+negocio, como por el número de personas empleadas, son el de la industria alimentaria y 
+el de la fabricación de vehículos y sus componentes. Es en estas estructuras productivas 
+en las que el Técnico Superior en Mecatrónica Industrial desarrollará su principal labor que 
+es la del mantenimiento industrial. 
+La creciente demanda de aumento de los índices de productividad de los sistemas 
+productivos manufactureros de Castilla y León de la industria alimentaria con su sector 
+galletero a la cabeza, representando éste casi el 50% de la producción nacional, amén del 
+sector de la industria cárnica y el de la bollería industrial, está requiriendo cada vez más 
+unos técnicos superiores expertos en la gestión del montaje, del mantenimiento preventivo 
+y predictivo y de la mejora continua de sus líneas de producción automatizadas.
+Dentro de la industria alimentaria no podemos olvidarnos de las industrias vitivinícolas 
+y lácteas de la región para las que el aumento continuo de la competitividad de una economía 
+global hace que precisen sistemas de procesado, elaboración y envasado y/o embotellado 
+cada vez más automatizados, supervisados y monitorizados. La implementación y la 
+gestión del mantenimiento preventivo-predictivo de estos sistemas es labor esencial del 
+Técnico Superior en Mecatrónica Industrial.
+Sobradamente conocidos son nuestros logros en productividad del sector Castellano 
+Leonés de la fabricación de vehículos y sus componentes, pero aun así no se cae en la 
+complacencia y prueba de ello es la búsqueda permanente, no sólo, de la mejora continua 
+en productividad manteniendo la calidad exigida, sino también, y con especial énfasis, de la 
+eficiencia energética de sus estructuras productivas, y en el aumento de estos indicadores 
+de salud empresarial son decisivas las aportaciones en la gestión del montaje y puesta 
+a punto y del mantenimiento correctivo y preventivo-predictivo del Técnico Superior en 
+Mecatrónica Industrial.
+En Castilla y León contamos también con un elevado número de pymes del sector 
+de Bienes de Equipo, a veces formando parte de Cluster de Bienes de Equipo muy 
+representativos en Castilla y León, para las que es prioritaria la polivalencia o la formación 
+multidisciplinar del Técnico Superior en Mecatrónica Industrial. En este sentido se puede 
+afirmar que éste es el perfil esencial en cualquier estructura productiva para organizar e 
+implementar el mantenimiento industrial de máquinas, equipos o líneas automatizadas 
+de producción, es decir, de los sistemas mecatrónicos para la obtención de cualquier 
+producto.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57620
+Miércoles, 28 de agosto de 2013
+ANEXO II
+CONTENIDOS, DURACIÓN Y ORIENTACIONES PEDAGÓGICAS Y METODOLÓGICAS 
+DE LOS MÓDULOS PROFESIONALES
+Módulo profesional: Sistemas mecánicos.
+Equivalencia en créditos ECTS: 9
+Código: 0935
+Duración: 160 horas
+Contenidos:
+1. Montaje y puesta a punto de sistemas mecánicos:
+–	 Análisis funcional de mecanismos: reductores, transformadores de movimiento 
+lineal a circular y viceversa, embragues, frenos, trenes de engranajes, poleas, 
+cajas de cambio de velocidad y diferenciales.
+–	 Acopladores de ejes de transmisión.
+–	 Medición y verificación de magnitudes en los sistemas mecánicos. 
+–	 Ensamblado de piezas.
+–	 Selección del tipo de ensamblado.
+–	 Montaje de elementos mecánicos:
+–	 Montaje de cojinetes de fricción, soportes, materiales, lubricación, 
+desmontaje de los cojinetes de fricción.
+–	 Montaje y desmontaje de rodamientos: selección de rodamientos en 
+función de las especificaciones técnicas del equipo o máquina, verificación 
+de funcionalidad de rodamientos y útiles para el montaje y desmontaje de 
+rodamientos, revisiones de los rodamientos montados, lubricación de los 
+rodamientos.
+–	 Transmisión de movimientos: técnicas de montaje y desmontaje de los 
+elementos de las transmisiones, verificación de los elementos de transmisión 
+y útiles para el montaje y desmontaje de los elementos de transmisión.
+–	 Superficies de deslizamiento: procedimientos de montaje, ajuste y 
+regulación, herramientas para montar y desmontar, verificación del 
+deslizamiento y posicionamiento, lubricación.
+–	 Juntas: procedimientos de preparación y montaje de juntas y verificación 
+de funcionalidad.
+–	 Uniones atornilladas: aplicaciones y selección de tornillos y elementos de 
+seguridad en los tornillos.
+–	 Remachado.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57621
+Miércoles, 28 de agosto de 2013
+–	 Montaje de guías, columnas y carros de desplazamiento.
+–	 Equipos para verificación de estanqueidad.
+–	 Instalación y montaje en planta de maquinaria y equipos.
+–	 Técnicas de movimiento de máquinas.
+–	 Técnicas de instalación y ensamblado de máquinas y equipos.
+–	 Cimentaciones y anclajes.
+–	 Instalaciones de alimentación de máquinas y sistemas.
+–	 Verificación de funcionalidad de máquinas y equipos.
+2. Mantenimiento preventivo de sistemas mecánicos:
+–	 Documentación técnica.
+–	 Interpretación del plan de mantenimiento y documentos de registro.
+–	 Mantenimiento de elementos de transmisión y apoyo:
+–	 Mantenimiento de transmisiones rígidas: engranajes.
+–	 Mantenimiento de transmisiones flexibles: correas y cadenas.
+–	 Mantenimiento de sistemas de apoyo: rodamientos y cojinetes.
+–	 Máquinas, equipos, útiles, herramientas y medios empleados en el 
+mantenimiento.
+–	 Técnicas y procedimientos para la sustitución de elementos simples.
+–	 Equipos de medición y diagnóstico.
+–	 Selección del lubricante.
+–	 Aplicaciones y sistemas de lubricación.
+–	 Planificación de la actividad.
+–	 Normas que favorecen el trabajo en equipo.
+3. Diagnóstico de disfunciones en los sistemas mecánicos:
+–	 Interpretación de documentación técnica de la instalación.
+–	 Procedimientos de intervención.
+–	 Medición de parámetros característicos.
+–	 Útiles empleados en la medición de parámetros.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57622
+Miércoles, 28 de agosto de 2013
+–	 Tipología de disfunciones.
+–	 Técnicas para la localización de averías.
+–	 Método de diagnóstico basado en vibraciones:
+–	 Niveles de vibración.
+–	 Normativa.
+–	 Selección de puntos de medida.
+–	 Procedimientos de medida.
+–	 Instrumentos empleados en la medición de las vibraciones.
+–	 Métodos de análisis.
+–	 Diagnóstico de las causas de vibración.
+–	 Bases de datos e informes.
+4. Mantenimiento correctivo de sistemas mecánicos:
+–	 Procedimientos de intervención.
+–	 Ajuste de parámetros.
+–	 Equipos y herramientas.
+–	 Sustitución de elementos.
+–	 Puesta a punto.
+5. Diagnóstico de elementos con disfunciones:
+–	 Técnicas para la identificación de la parte dañada.
+–	 Defectos tipo en los sistemas mecánicos.
+–	 Tipos de fallo en cojinetes.
+–	 Tipos de fallo en rodamientos.
+–	 Tipos de fallo en transmisiones flexibles.
+–	 Tipos de fallos en acoplamientos.
+–	 Tipos de fallos en ejes.
+–	 Síntomas del fallo.
+–	 Causas del fallo.
+–	 Relación entre sistemas y causas.
+–	 Análisis de superficies.
+–	 Tipos de desgastes y erosiones.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57623
+Miércoles, 28 de agosto de 2013
+6. Prevención de riesgos laborales y protección ambiental:
+–	 Identificación de riesgos. Diferencia entre riesgo y factor de riesgo.
+–	 Prevención de riesgos laborales (PRL) en las operaciones de mecanizado por 
+arranque de viruta. 
+–	 Sistemas de seguridad aplicados a las máquinas empleadas para el mecanizado 
+por arranque de viruta.
+–	 Equipos de protección individual.
+–	 Prevención en los lugares de trabajo.
+–	 Cumplimiento de la normativa de prevención de riesgos laborales. 
+–	 Cumplimiento de la normativa de protección ambiental:
+–	 Determinación de las medidas en la prevención de riesgos laborales.
+–	 Factores físico-químicos del entorno.
+–	 Orden y limpieza durante las fases del proceso.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar las 
+funciones de montaje, mantenimiento y puesta a punto de sistemas mecánicos. 
+Las funciones de montaje, mantenimiento y puesta a punto de sistemas mecánicos 
+incluye aspectos como:
+–	 La ubicación de los equipos y replanteo de la instalación.
+–	 La determinación y aplicación de las técnicas de montaje.
+–	 La supervisión o aplicación de la puesta en marcha de las instalaciones.
+–	 La supervisión o actuación en las operaciones de mantenimiento preventivo de 
+los sistemas mecánicos.
+–	 El diagnóstico de averías y la determinación de los métodos de sustitución o 
+reparación de los equipos y elementos de las instalaciones.
+–	 La supervisión y aplicación de las medidas de seguridad y prevención de riesgos 
+laborales.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57624
+Miércoles, 28 de agosto de 2013
+Las actividades profesionales asociadas a estas funciones se aplican en:
+–	 El montaje de sistemas mecánicos.
+–	 El mantenimiento preventivo de sistemas mecánicos.
+–	 El diagnóstico de averías y disfunciones.
+–	 La puesta en marcha.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+e), f), g), h) y l) del ciclo formativo, y las competencias d), e), f) y k) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+–	 El montaje de sistemas mecánicos, utilizando como recursos las instalaciones, 
+herramientas y equipos tanto de uso común como específicos de este tipo de 
+instalaciones.
+–	 El mantenimiento de sistemas mecánicos sobre las instalaciones previamente 
+montadas como de las permanentes.
+–	 Las operaciones de reparación de instalaciones.
+–	 La puesta en marcha de las instalaciones.
+Este módulo, teniendo en cuenta los resultados de aprendizaje y los criterios de 
+evaluación, es principalmente práctico, por lo que se debe de emplear una metodología 
+activa, de tal manera que el aprendizaje se produzca mediante la realización de ejercicios, 
+problemas y prácticas aunque deberán familiarizarse con la terminología, normativa, 
+planes de seguridad etc, de modo que la proporción de tareas en taller será muy superior 
+que las del aula.
+Siempre que la unidad didáctica, unidad de trabajo, tema etc. tenga un carácter 
+práctico se hace imprescindible que el profesorado, después de la exposición teórica del 
+procedimiento a desarrollar, realice una demostración práctica de la viabilidad real del 
+mismo, con las correspondientes medidas de protección tanto para el profesor como para 
+los alumnos.
+El alumnado deberá ser capaz de trabajar con autonomía y creatividad bajo los 
+parámetros de la calidad exigida, siempre bajo la orientación del profesorado.
+También será necesario la realización de prácticas en grupo, fomentando así el trabajo 
+en equipo, la cooperación, la distribución de tareas y responsabilidades, la transferencia 
+de conocimientos, las relaciones entre iguales y comprobar que si alguno no cumple con 
+su obligación repercute en todos los demás.
+Este módulo profesional tiene relación con otros módulos profesionales del currículo 
+asociados a unidades de competencia, en tanto que sirve de instrumento de base para el 
+desarrollo de capacidades específicas relacionadas con estos módulos profesionales. Por 
+ello es conveniente establecer una especial coordinación y secuenciación de las unidades 
+de trabajo.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57625
+Miércoles, 28 de agosto de 2013
+Módulo profesional: Sistemas hidráulicos y neumáticos.
+Equivalencia en créditos ECTS: 8
+Código: 0936
+Duración: 128 horas
+Contenidos:
+1. Identificación y características físicas y funcionales de los componentes 
+neumáticos:
+–	 Producción, almacenamiento, preparación y distribución del aire comprimido.
+–	 Válvulas, actuadores e indicadores. Tipos, funcionamiento aplicación y 
+mantenimiento.
+–	 Elementos de control, mando y regulación.
+–	 Dispositivos de mando y regulación: sensores, reguladores.
+–	 Análisis de circuitos electroneumáticos: elementos de control. Relés y contactores. 
+Elementos de protección. Elementos de medida. Interpretación de esquemas 
+neumáticos-electroneumáticos.
+–	 Procesos neumáticos-electroneumáticos secuenciales. Características y métodos 
+de resolución y de representación (Diagramas espacio-fase, espacio tiempo, 
+GRAFCET, entre otros).
+–	 Procesos neumáticos-electroneumáticos continuos. Características.
+–	 Análisis de circuitos lógicos combinacionales y secuenciales.
+2. Identificación y características físicas y funcionales de los componentes 
+hidráulicos:
+–	 Equipos de abastecimiento de energía (bombas, motores, depósitos, filtros, 
+sistemas de refrigeración, entre otros).
+–	 Bombas, motores y cilindros hidráulicos: características, aplicación y tipos.
+–	 Acumuladores hidráulicos.
+–	 Válvulas y servoválvulas. Tipos, funcionamiento, mantenimiento y aplicaciones.
+–	 Dispositivos de mando y regulación: sensores, reguladores.
+–	 Análisis de circuitos hidráulicos: elementos de control, mando y regulación 
+hidráulica, accesorios (tubos, elementos de conexión, entre otros).
+–	 Análisis de circuitos electro-hidráulicos: elementos de control. Relés y contactores. 
+Elementos de protección. Elementos de medida. Interpretación de esquemas 
+hidráulicos-electrohidráulicos.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57626
+Miércoles, 28 de agosto de 2013
+–	 Procesos hidráulicos-electrohidráulicos secuenciales. Características y métodos 
+de  resolución y de representación (Diagramas espacio-fase, espacio tiempo, 
+GRAFCET, entre otros).
+–	 Procesos hidráulicos-electrohidráulicos continuos. Características.
+–	 Análisis de circuitos lógicos combinacionales y secuenciales.
+3. Configuración de sistemas neumáticos/electro-neumáticos o hidráulicos/electro-
+hidráulicos:
+–	 Simbología gráfica normalizada de los sistemas neumáticos/hidráulicos cableados 
+y/o programados.
+–	 Configuración de sistemas. Diseño, cálculo y selección de elementos.
+–	 Interpretación y realización de planos, diagramas y esquemas de circuitos.
+–	 Planos de conjunto de los sistemas neumáticos/hidráulicos de máquinas. Lista 
+de despiece.
+–	 Reglamentación y normativa electrotécnica aplicada.
+–	 Simbología y representación de esquemas eléctricos.
+–	 Designación normalizada de los materiales en los planos.
+–	 Ordenación y numeración de planos.
+–	 Esquemas de funcionamiento de máquinas y de circuitos. Simbología normalizada 
+y convencionalismos de representación. Diagramas de flujo y esquemas.
+4. Montaje del automatismo neumático/electro-neumático e hidráulico/electro-
+hidráulico:
+–	 Elaboración gráfica y croquis de posicionado de circuitos.
+–	 Técnica operativa del conexionado.
+–	 Normas de práctica profesional comúnmente aceptadas en el sector.
+–	 Configuración de circuitos de automatismos neumáticos/hidráulicos cableados.
+–	 Operaciones de montaje y pruebas funcionales. Medios y procedimientos.
+–	 Regulación y puesta en marcha del sistema.
+–	 Medidas en los sistemas automáticos. Instrumentos y procedimientos de medición 
+de las variables a regular y controlar (tensiones, potencias, caudales, presiones y 
+temperaturas, entre otros).
+–	 Normativa de seguridad.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57627
+Miércoles, 28 de agosto de 2013
+5. Ajustes y reglajes mecánicos en los sistemas hidráulicos y neumáticos:
+–	 Útiles de verificación y las técnicas metrológicas.
+–	 Métodos de ajuste y reglaje de juegos, carreras, presiones, velocidades, entre 
+otros.
+–	 Aparatos de medida de presión, caudal y temperatura, entre otros.
+–	 Regulación de carreras, velocidades, presiones y caudales, entre otros.
+–	 Cumplimentación de las fichas y gamas, entre otros.
+6. Diagnosis del estado de elementos neumáticos/electro-neumáticos e hidráulicos/
+electro-hidráulicos:
+–	 Vistas, cortes y secciones para la determinación de elementos del sistema.
+–	 Ajustes y tolerancias de fabricación aplicables.
+–	 Desgastes normales y anormales en elementos neumáticos/hidráulicos. 
+–	 Causas típicas que originan desgastes: rozamientos, desalineaciones, falta de 
+lubricación, altas temperaturas y aceites sucios, entre otros.
+–	 Análisis de los distintos tipos de roturas de materiales: fatiga, tracción, torsión, 
+entre otros.
+–	 Sistemas de monitoreo del estado de un elemento. 
+7. Diagnosis y corrección de averías de los sistemas hidráulicos/electro-hidráulica y 
+neumáticos/electro-neumáticos:
+–	 Averías. Naturaleza. Causas y clasificación en los elementos neumáticos e 
+hidráulicos.
+–	 Diagnóstico de averías. Procedimientos. Medios.
+–	 Diagnóstico de estado de elementos y piezas.
+–	 Máquinas, equipos, útiles, herramientas y medios empleados en el 
+mantenimiento.
+–	 Equipos de diagnóstico. Aplicaciones.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar las 
+funciones de configuración, montaje y mantenimiento, y se aplica a los sistemas neumáticos 
+e hidráulicos de los sistemas mecatrónicos (maquinaria, equipo industrial y líneas de 
+producción automatizadas) de diversos sectores productivos.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57628
+Miércoles, 28 de agosto de 2013
+La función de configuración, montaje y mantenimiento incluye aspectos como: 
+–	 La identificación y selección de los componentes neumáticos e hidráulicos.
+–	 La representación de esquemas.
+–	 El montaje, ajuste y regulación de los componentes neumáticos e hidráulicos.
+–	 La detección, diagnóstico y corrección de disfunciones de los sistemas neumáticos 
+e hidráulicos.
+–	 El diagnóstico del estado de los elementos de los sistemas neumático e 
+hidráulico.
+Las actividades profesionales asociadas a esta función se aplican en:
+–	 La instalación/montaje de los sistemas neumáticos e hidráulicos de los sistemas 
+mecatrónicos (máquinas, equipos y líneas automatizadas).
+–	 El mantenimiento y mejora de los sistemas neumáticos e hidráulicos de los 
+sistemas mecatrónicos (máquinas, equipos y líneas automatizadas).
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+a), b), d), e), f), g), h) y l) del ciclo formativo, y las competencias a), b), d), e), f), i) y k) del 
+título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+–	 El análisis de los sistemas neumáticos e hidráulicos reales, describiendo su 
+funcionamiento, componentes, estructura y tipología.
+–	 La realización de esquemas de los sistemas neumáticos e hidráulicos para el 
+montaje simulado.
+–	 El montaje de sistemas neumáticos e hidráulicos simulados sobre panel de 
+prácticas.
+–	 El análisis y estudio de elementos reales deteriorados por el funcionamiento 
+real.
+–	 La detección, diagnóstico y corrección de averías de los sistemas neumáticos e 
+hidráulicos de máquinas o equipos reales.
+Este módulo, teniendo en cuenta los resultados de aprendizaje y los criterios de 
+evaluación, es práctico, por lo que es adecuado que se emplee una metodología activa, de 
+tal manera que el aprendizaje se produzca mediante la realización de ejercicios, problemas 
+y prácticas.
+Siempre que la unidad didáctica, unidad de trabajo, tema etc. tenga un carácter 
+práctico se hace imprescindible que el profesorado, después de la exposición teórica del 
+procedimiento a desarrollar, realice una demostración práctica de la viabilidad real del 
+mismo.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57629
+Miércoles, 28 de agosto de 2013
+Dada la naturaleza de los resultados de aprendizaje a alcanzar habrá trabajos a 
+realizar sobre soporte informático que se recomienda que se lleven a cabo de forma 
+individual. El alumnado deberá ser capaz de trabajar con autonomía y creatividad bajo los 
+parámetros de la calidad exigida, siempre bajo la orientación del profesorado.
+También será necesario la realización del montaje físico de sistemas neumáticos/
+electroneumáticos e hidráulicos/electrohidráulicos, su comprobación de funcionamiento, 
+el mantenimiento y mejora del los mismos y para ello se recomienda utilizar una 
+metodología basada en agrupamientos de varios alumnos para la resolución de estos 
+trabajos, fomentando así el trabajo en equipo, la cooperación, la distribución de tareas y 
+responsabilidades, la transferencia de conocimientos y las relaciones entre iguales.
+Módulo profesional: Sistemas eléctricos y electrónicos. 
+Equivalencia en créditos ECTS: 9
+Código: 0937
+Duración: 256 horas
+Contenidos:
+1. Identificación de circuitos y elementos de los sistemas de alimentación, protección 
+y  arranque de máquinas eléctricas:
+–	 Desarrollo y conocimientos de circuitos de corriente continúa.
+–	 Corriente continúa: resolución de problemas.
+–	 Desarrollo y conocimientos de corriente alterna.
+–	 Corriente alterna circuitos RLC. Resolución de problemas.
+–	 Elementos de aparellaje eléctrico.
+–	 Actuadores de naturaleza eléctrica. 
+–	 Sensores y transductores.
+–	 Sistemas eléctrico-electrónicos de protección y seguridad. 
+–	 Componentes y buses de comunicación industriales.
+–	 Sistema de medidas en corriente continua y corriente alterna.
+–	 Características de los motores de corriente continúa y alterna. 
+–	 Características de los transformadores.
+–	 Parámetros de los motores de corriente alterna y continua (monofásicos y 
+trifásicos) y transformadores. Funcionamiento en servicio y vacío.
+–	 Sistemas de arranque y frenado. 
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57630
+Miércoles, 28 de agosto de 2013
+–	 Sistemas de corrección del factor de potencia.
+–	 Magnitudes que hay que controlar en los sistemas de regulación de velocidad.
+–	 Cálculo de parámetros de las instalaciones.
+–	 Elementos de protección.
+2. Configuración de automatismos y elementos de tecnología electrotécnica:
+–	 Cálculo y selección de elementos en sistemas eléctrico-electrónicos.
+–	 Características e instalación de los aparatos de medidas, tanto en corriente 
+continúa como corriente alterna.
+–	 Características y parámetros de los componentes de los dispositivos electrónicos 
+de los equipos de mando y maniobra.
+–	 Elaboración de diagramas funcionales.
+–	 Elaboración de esquemas del sistema de mando, fuerza y arranque, entre otros. 
+Programas informáticos de aplicación.
+–	 Cálculo de valores de las magnitudes de los parámetros de la instalación.
+–	 Simbología gráfica normalizada de sistemas eléctrico-electrónicos.
+–	 Interpretación y realización de planos, diagramas y esquemas de circuitos 
+eléctrico-electrónicos. Lista de despiece.
+–	 Reglamentación y normativa electrotécnica aplicada.
+3. Montaje de instalaciones de alimentación y automatismos electrotécnicos:
+–	 Procedimientos en el montaje y mantenimiento de las instalaciones. 
+–	 Elaboración de planes de montaje.
+–	 Replanteo de instalaciones.
+–	 Elaboración de planes de montaje. 
+–	 Técnicas de montaje.
+–	 Montaje y conexionado de equipos y elementos de las instalaciones. 
+–	 Realización de ajustes.
+–	 Operaciones de montaje y pruebas funcionales. 
+–	 Regulación y puesta en marcha del sistema.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57631
+Miércoles, 28 de agosto de 2013
+4. Diagnóstico de averías y disfunciones:
+–	 Elaboración de planes de intervención para la diagnosis. 
+–	 Síntomas típicos de la avería o disfunción.
+–	 Equipos e instrumentos de medida. Tipología. Realización de medidas en los 
+circuitos.
+–	 Técnicas de localización de averías y disfunciones.
+–	 Elementos compatibles.
+–	 Trabajo en equipo.
+–	 Gamas de control y medición.
+5. Mantenimiento de instalaciones de alimentación y automatismos electrotécnicos:
+–	 Elaboración de planes de mantenimiento. 
+–	 Medición con aparatos de medidas para comprobación de los circuitos.
+–	 Elaboración de procedimientos de intervención. 
+–	 Reconstrucción de parte de la instalación. 
+–	 Técnicas de sustitución de elementos de las instalaciones. 
+–	 Técnicas de mantenimiento preventivo.
+–	 Técnicas de mantenimiento correctivo.
+–	  Ajustes en las instalaciones.
+–	 Puesta a punto de las instalaciones.
+–	 Documentación del mantenimiento. Históricos.
+6. Prevención de riesgos, seguridad y protección medioambiental:
+–	 Normativa de prevención de riesgos laborales.
+–	 Prevención de riesgos laborales en los procesos de montaje y mantenimiento. 
+–	 Equipos de protección individual: características y criterios de utilización.
+–	 Protección colectiva. Medios y equipos de protección.
+–	 Normativa reguladora en gestión de residuos.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación para desempeñar las funciones 
+del montaje y mantenimiento de instalaciones de alimentación y automatismos 
+electrotécnicos.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57632
+Miércoles, 28 de agosto de 2013
+La función de montaje y mantenimiento incluye aspectos como:
+–	 Identificación de normativas.
+–	 Interpretación de croquis y planos.
+–	 Identificación y selección de los equipos y elementos de la instalación.
+–	 Elaboración y planificación de memorias técnicas, planes de montaje, puesta en 
+servicio y mantenimiento.
+–	 Aplicación de técnicas de montaje y mantenimiento.
+Las actividades profesionales asociadas a esta función se aplican en:
+–	 Definir las características de la instalación y ubicación de los equipos.
+–	 Gestionar los recursos y equipos de la instalación, de acuerdo con la normativa 
+vigente y reconociendo el anteproyecto.
+–	 Calcular y seleccionar los elementos y sistemas propios de las instalaciones.
+–	 Organizar 
+y 
+montar 
+instalaciones 
+de 
+alimentación 
+y 
+automatismos 
+electrotécnicos.
+–	 Poner en marcha y verificar el funcionamiento de las instalaciones.
+–	 Elaborar la documentación gráfica y los esquemas a partir de los datos obtenidos, 
+cumpliendo la normativa y requerimientos del anteproyecto.
+–	 Desarrollar, coordinar y supervisar las intervenciones de montaje y/o mantenimiento 
+de las instalaciones y equipos.
+–	 Documentar la gestión del mantenimiento y la reparación de instalaciones 
+y equipos, diseñando las operaciones de comprobación, sustitución de sus 
+elementos y ajustes de los equipos, en condiciones de calidad, seguridad y 
+respeto al medio ambiente.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+a), b), e), f), g), h), i), k), l), n), ñ) y o) del ciclo formativo, y las competencias a), b), d), e), 
+f), g), h), j) y k) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+–	 Identificar las tipologías de instalaciones de alimentación y automatismos 
+electrotécnicos. 
+–	 Configurar y seleccionar los sistemas y elementos de la instalación.
+–	 Respetar y hacer cumplir la normativa correspondiente en el diseño y en el 
+desarrollo de la instalación.
+–	 Planificar el montaje y la verificación de instalaciones tipo.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57633
+Miércoles, 28 de agosto de 2013
+–	 Desarrollar procedimientos de configuración y puesta en marcha.
+–	 Elaborar planes de mantenimiento.
+Este módulo, teniendo en cuenta los resultados de aprendizaje y los criterios de 
+evaluación, es práctico, por lo que es adecuado que se emplee una metodología activa, de 
+tal manera que el aprendizaje se produzca mediante la realización de ejercicios, problemas 
+y prácticas.
+Siempre que la unidad didáctica, unidad de trabajo, tema, etc. tenga un carácter 
+práctico se hace imprescindible que el profesorado, después de la exposición teórica del 
+procedimiento a desarrollar, realice una demostración práctica de la viabilidad real del 
+mismo.
+Dada la naturaleza de los resultados de aprendizaje a alcanzar habrá trabajos a 
+realizar sobre soporte informático que se recomienda que se lleven a cabo de forma 
+individual. El alumnado deberá ser capaz de trabajar con autonomía y creatividad bajo los 
+parámetros de la calidad exigida, siempre bajo la orientación del profesorado.
+También será necesario la realización del montaje físico de sistemas eléctricos 
+industriales, su comprobación de funcionamiento, el mantenimiento y mejora del los 
+mismos y para ello se recomienda utilizar una metodología basada en agrupamientos 
+de varios alumnos para la resolución de estos trabajos, fomentando así el trabajo en 
+equipo, la cooperación, la distribución de tareas y responsabilidades, la transferencia de 
+conocimientos y las relaciones entre iguales.
+Módulo profesional: Elementos de máquinas.
+Equivalencia en créditos ECTS: 6
+Código: 0938
+Duración: 64 horas
+Contenidos:
+1. Determinación de la función de las partes y elementos de sistemas mecánicos:
+–	 Sistemas y elementos mecánicos (elementos de unión y transmisión entre 
+otros).
+–	 Mecanismos (levas, tornillos y trenes de engranajes, entre otros).
+–	 Movimientos: deslizamiento, rodadura, pivotante y otros.
+–	 Lubricación y lubricantes.
+–	 Utillajes.
+–	 Interpretación de catálogos.
+–	 Concepción tecnológica de órganos y elementos de máquinas.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57634
+Miércoles, 28 de agosto de 2013
+2. Relación de soluciones constructivas con las funciones que desempeñan:
+–	 Soluciones constructivas de elementos de máquinas.
+–	 Tolerancias dimensionales.
+–	 Tolerancias geométricas.
+–	 Ajustes.
+–	 Calidades superficiales.
+–	 Especificaciones técnicas.
+–	 Procedimientos de fabricación: mecanizado por arranque de viruta, mecanizados 
+especiales, corte y conformado.
+–	 Procedimientos de fabricación en función de acabados superficiales y tolerancias 
+especificadas.
+–	 Costes de los distintos procesos de fabricación.
+3. Obtención de datos de materiales:
+–	 Propiedades físicas, químicas, mecánicas y tecnológicas de los materiales 
+usados en los elementos mecánicos. Tipos de ensayos.
+–	 Clasificación de los materiales.
+–	 Tratamientos térmicos y termoquímicos.
+–	 Oxidación y corrosión. Procedimientos de protección.
+–	 Materiales metálicos, cerámicos, poliméricos y compuestos más utilizados en 
+elementos de máquinas.
+–	 Materiales normalizados.
+–	 Formas comerciales.
+–	 Empleo de catálogos comerciales.
+–	 Influencia de la maquinabilidad, coste y otros criterios en la selección de los 
+materiales.
+–	 Compromiso ético con los valores de conservación y defensa del patrimonio 
+ambiental y cultural de la sociedad.
+–	 Modificación de las propiedades mecánicas debido a los procesos tecnológicos.
+4. Selección de componentes comerciales de elementos mecánicos:
+–	 Cálculo dimensional de elementos (roscas, rodamientos, chavetas, casquillos, 
+pasadores, muelles, guías, husillos, poleas, ruedas dentadas y motores, entre 
+otros).
+–	 Estática, cinemática y dinámica de máquinas.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57635
+Miércoles, 28 de agosto de 2013
+–	 Coeficiente de seguridad.
+–	 Resistencia de materiales.
+–	 Relación entre velocidad, par, potencia y rendimiento. Relación de transmisión.
+–	 Cálculo de la vida de los diferentes elementos.
+–	 Características mecánicas de los materiales y elementos.
+–	 Períodos de regulación o sustitución de elementos sometidos a desgaste.
+5. Cálculo de cadenas cinemáticas:
+–	 Identificación de cadenas cinemáticas.
+–	 Eslabones de una cadena cinemática.
+–	 Tipos de transmisiones mecánicas.
+–	 Cálculo de cadenas cinemáticas.
+–	 Optimización de las condiciones de transmisión.
+–	 Mejora de la vida útil de los componentes.
+–	 Montaje de cadenas cinemáticas.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar la 
+función de cálculo de elementos de máquinas aplicada en los procesos de mantenimiento 
+industrial.
+La función de cálculo de elementos mecánicos incluye aspectos como:
+–	 Interpretar propuestas y soluciones constructivas.
+–	 La realización de cálculos técnicos para el dimensionado de elementos.
+–	 El cálculo de magnitudes cinemáticas y dinámicas en mecanismos.
+–	 El uso de sistemas informáticos y manuales de diseño.
+Las actividades profesionales asociadas a esta función se aplican en:
+–	 El montaje y mantenimiento de conjuntos mecatrónicos.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+a), b), c), m), u) y v) del ciclo formativo, y las competencias a), b), ñ), o), r) y s) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57636
+Miércoles, 28 de agosto de 2013
+–	 La identificación y estudio de las máquinas y sus cadenas cinemáticas, para 
+la obtención de datos sobre la funcionalidad de los mecanismos dentro de una 
+máquina.
+–	 El cálculo de  parámetros  cinemáticos de cadenas básicas, calculando velocidades 
+de salida a partir de una velocidad de entrada.
+–	 El comportamiento de los materiales empleados en elementos de máquinas, 
+contemplando la influencia de los diversos tratamientos térmicos y superficiales, 
+así como de la geometría de los elementos.
+–	 Utilización de fórmulas, normas, tablas y ábacos para el diseño de engranajes, 
+aplicaciones de rodamientos, husillos a bolas, motores, poleas, roscas y chavetas, 
+entre otros.
+–	 Elección de ajustes y tolerancias, utilizando normas, fórmulas, tablas y ábacos.
+Este módulo profesional tiene relación con otros módulos profesionales del currículo 
+asociados a unidades de competencia, en tanto que sirve de instrumento de base para el 
+desarrollo de capacidades específicas relacionadas con estos módulos profesionales. Por 
+ello es conveniente establecer una especial coordinación y secuenciación de las unidades 
+de trabajo, de acuerdo con el desarrollo previsto en los módulos profesionales «Procesos 
+de Fabricación» y «Sistemas mecánicos».
+La metodología aplicada en este módulo profesional debe favorecer experiencias 
+de aprendizaje fundamentadas en el conocimiento de la terminología específica utilizada, 
+el estudio de documentación técnica como recurso educativo, la consulta de la normativa 
+de aplicación, el análisis, desarrollo y resolución de supuestos prácticos, el empleo de 
+aplicaciones, realizando su implementación en el aula para la consecución de los objetivos 
+específicos relacionados con los elementos de máquinas.
+El desarrollo de los contenidos se realizará de forma secuenciada a los procesos 
+mismos de la configuración de elementos de máquinas, organizando los contenidos 
+jerárquicamente hasta los más específicos.
+Se propone que las TIC sea instrumento habitual, tanto por parte del profesorado 
+como del alumnado de forma que éste adopte actitudes activas respecto a su propio 
+aprendizaje mediante consulta en páginas web de normativa, catálogos técnicos y otros.
+Módulo profesional: Procesos de fabricación.
+Equivalencia en créditos ECTS: 10
+Código: 0939
+Duración: 160 horas
+Contenidos:
+1. Reconocimiento de las prestaciones de las máquinas herramientas:
+–	 Mecanizado de superficies.
+–	 Geometría de las superficies funcionales.
+–	 Las máquinas-herramientas como generadoras de superficies.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57637
+Miércoles, 28 de agosto de 2013
+–	 Tipología de las máquinas herramientas:
+–	 Máquinas-herramientas con movimiento de corte rectilíneo (sierra alternativa 
+y de cinta, cepilladora, brochadora, mortajadora y talladoras, entre otros).
+–	 Máquinas-herramientas con movimiento de corte rotativo (torno, taladradora, 
+fresadora, mandrinadora, roscadora, sierra circular, talladora de ruedas 
+dentadas y rectificadora, entre otros).
+–	 Máquinas herramientas para mecanizados especiales (ultrasonidos, chorro 
+de agua, electroquímico, electroerosión y láser, corte por arco de plasma, 
+oxicorte, entre otros).
+–	 Elementos constructivos de las máquinas herramientas:
+–	 Bancadas.
+–	 Guías.
+–	 Elementos de accionamiento.
+–	 Elementos de transmisión. Cadena cinemática.
+–	 Sistemas de anclaje y nivelación.
+–	 Automatización de las máquinas herramientas:
+–	 Elementos de mando.
+–	 Sistemas de control de posición y movimiento.
+–	 Programación por control numérico.
+–	 Elementos de manipulación, alimentación y transporte.
+–	 Sistemas de engrase.
+–	 Sistemas de refrigeración.
+–	 Elementos de medición y control.
+–	 Elementos de seguridad.
+–	 Portaherramientas y utillajes en los procesos de fabricación:
+–	 Materiales constructivos.
+–	 Tipos de fijación de la herramienta de corte.
+–	 Tipos de fijación de la pieza.
+–	 Elementos y componentes.
+–	 Condiciones de utilización.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57638
+Miércoles, 28 de agosto de 2013
+2. Determinación de procesos de fabricación:
+–	 Tipos de procesos de mecanizado:
+–	 Por arranque de viruta: torneado, fresado, taladrado, cepillado, limado, 
+brochado, aserrado, roscado, tallado y mandrinado.
+–	 Por abrasión: rectificado.
+–	 Electroerosión.
+–	 Especiales: láser, arco de plasma, electroquímico, ultrasonidos y chorro de 
+agua.
+–	 Tipos de procesos de conformado (punzonado, plegado, cizallado, procesado 
+de chapa, curvado, forjado, extrusión, laminado, estirado, perforado, embutido, 
+estampado, hidroformado, repulsado, procesos especiales y trefilado).
+–	 La formación de viruta. Condiciones de corte.
+–	 Parámetros de trabajo (geometría de la pieza, acabado superficial, velocidades 
+de trabajo y potencia consumida).
+–	 Influencia de los materiales y los tratamientos térmicos y superficiales en los 
+procesos de fabricación.
+–	 Máquinas, herramientas y utillaje utilizados en los procesos de fabricación:
+–	 Clasificación de las máquinas-herramienta y equipos para la fabricación.
+–	 Características y capacidades productivas.
+–	 Herramientas para mecanizar. Herramientas de corte. Herramientas para 
+el conformado. Tipos, características y selección.
+–	 Accesorios y utillaje para la fabricación.
+–	 Procedimientos de medición y verificación en los proceso de fabricación.
+–	 Planificación metódica de los procesos de fabricación:
+–	 Selección del proceso y de los equipos (máquinas, herramientas y útiles).
+–	 Determinación de fases y operaciones con previsión de las dificultades y el 
+modo de superarlas.
+–	 Elaboración de hojas de proceso.
+–	 Elaboración del AMFE (análisis modal de fallos y efectos) de procesos de 
+mecanizado.
+–	 Reconocimiento y valoración de las técnicas de organización.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57639
+Miércoles, 28 de agosto de 2013
+3. Selección de materiales de mecanizado:
+–	 Identificación de materiales en bruto para mecanizar. 
+–	 Materiales: metálicos, poliméricos, composites y cerámicos.
+–	 Aleaciones metálicas.
+–	 Tratamientos térmicos y termoquímicos: fundamento. Proceso de ejecución.
+–	 Propiedades mecánicas de los materiales. Propiedades tecnológicas de los 
+materiales.
+–	 Normalización de materiales: metálicos, poliméricos, composites y cerámicos.
+–	 Formas comerciales de los materiales.
+–	 Características de los materiales.
+–	 Materiales y sus condiciones de mecanizado.
+–	 Riesgos en el mecanizado y manipulación de ciertos materiales (explosión, 
+toxicidad y contaminación ambiental, entre otros).
+–	 Influencia ambiental del tipo de material seleccionado.
+–	 Ventajas y problemas de la reducción de costes.
+–	 Ventajas y problemas en la reducción de residuos de material.
+4. Control de dimensiones, geometrías y superficies de productos:
+–	 Procesos de medición, comparación y verificación: medición directa e indirecta. 
+Incertidumbre asociada a la medida. Procedimientos de medición. Sistema de 
+tolerancia.
+–	 Medición dimensional geométrica: instrumentos y equipos de medición directa. 
+Técnicas de medición. Medición de longitudes, ángulos, conos, roscas y 
+engranajes. Fichas de toma de datos. Cálculo de las medidas. Interpretación de 
+los resultados. Verificaciones geométricas de rectitud, planicidad, paralelismo, 
+equidistancia, alineación, perpendicularidad, rotación.
+–	 Medición dimensional superficial: concepto de rugosidad. Principio de 
+funcionamiento del rugosímetro. Proceso de medición. Ficha de toma de datos. 
+Interpretación de los resultados.
+5. Mecanizado con herramientas manuales:
+–	 Características y tipos de herramientas: herramientas utilizadas en el mecanizado. 
+Características. Tipos y aplicaciones. Técnicas operativas. Normas de uso y 
+conservación de las herramientas de mecanizado manual.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57640
+Miércoles, 28 de agosto de 2013
+–	 Normas de utilización: normas de uso. Cumplimiento y aplicación. Formas 
+correctas de uso:
+–	 Identificación de los útiles y herramientas más aplicados en el taller: tipos de 
+útiles más utilizados. Identificación, aplicaciones y características. Normas 
+de uso y conservación.
+–	 Tipos de herramientas utilizadas en el taller. Identificación, aplicaciones y 
+características.
+–	 Operaciones de mecanizado manual:
+–	 Limado. Tipos de limas. Características y aplicaciones.
+–	 Cincelado. Tipos de cinceles. Características y aplicaciones.
+–	 Taladrado: tipos de taladros y brocas, características y aplicaciones.
+–	 Tipos de brocas, características y materiales de fabricación. Tipos de 
+taladradoras, características y aplicaciones.
+–	 Escariado. Escariadores. Tipos. Características y aplicaciones.
+–	 Roscado: tipos de machos, características y aplicaciones. Manerales.
+–	 Tipos de terrajas, características y aplicaciones. Tipos de roscas y 
+características. Técnicas operativas.
+–	 Remachado: tipos de remachado y técnicas operativas.
+–	 Punzonado. Tipos. Características y aplicaciones.
+–	 Chaflanado. Tipos de chaflán. Aplicaciones. Formas de realización. 
+Herramientas empleadas.
+6. Mecanizado con máquinas-herramientas de arranque de viruta:
+–	 Relación entre las operaciones de mecanizado por arranque de viruta y las 
+máquinas empleadas.
+–	 Estructura y elementos constituyentes de dichas máquinas.
+–	 Movimientos y trabajos típicos de las máquinas-herramienta.
+–	 Funcionamiento de las máquinas-herramienta por arranque de viruta.
+–	 Riesgos en el manejo de máquinas y equipos para el mecanizado por arranque 
+de viruta.
+–	 Operaciones de mecanizado: 
+–	 Fenómeno de formación de viruta en materiales metálicos.
+–	 Defectos en la formación de viruta.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57641
+Miércoles, 28 de agosto de 2013
+–	 Técnicas operativas de arranque de viruta: torneado, taladrado, aserrado y 
+fresado.
+–	 Control y verificación de las características de la pieza.
+–	 Empleo de útiles de verificación y control.
+–	 Control del desgaste de las herramientas.
+–	 Corrección de las desviaciones.
+–	 Actitud ordenada y metódica en la realización de tareas.
+7. Soldadura en atmósfera natural y proyección:
+–	 Funcionamiento de las máquinas de soldadura y proyección.
+–	 Técnicas de soldeo y proyección. Normativa de soldadura.
+–	 Parámetros de soldeo y proyección.
+–	 Procedimientos operativos de las técnicas de soldeo y proyección:
+–	 Soldadura por proyección.
+–	 Soldadura por resistencia.
+–	 Soldadura oxiacetilénica.
+–	 Soldadura por electrodo revestido.
+–	 Soldadura en atmósfera protegida.
+–	 Regulación de intensidades.
+–	 Velocidades de avance.
+–	 Posiciones relativas del útil de soldeo.
+–	 Ajuste de presiones.
+–	 Útiles de verificación y medición en función de la medida o aspecto a 
+comprobar.
+–	 Verificación de piezas: tipos de defectos.
+–	 Métodos no destructivos de detección de defectos.
+–	 Corrección de las desviaciones: efectos del calor al soldar. Técnicas de enderezado 
+de las deformaciones.
+–	 Métodos de localización de tensiones residuales.
+–	 Medidas para reducir tensiones residuales.
+–	 Actitud ordenada y metódica en la realización de las tareas.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57642
+Miércoles, 28 de agosto de 2013
+8. Prevención de riesgos laborales y protección ambiental:
+–	 Identificación de riesgos.
+–	 Prevención de riesgos laborales en las operaciones de mecanizado por arranque 
+de viruta.
+–	 Sistemas de seguridad aplicados a las máquinas empleadas para el mecanizado 
+por arranque de viruta.
+–	 Equipos de protección individual.
+–	 Cumplimiento de la normativa de prevención de riesgos laborales.
+–	 Cumplimiento de la normativa de protección ambiental.
+–	 Factores físicos del entorno de trabajo.
+–	 Factores químicos del entorno de trabajo.
+–	 Reglas de orden y limpieza durante las fases del proceso.
+–	 Determinación de las medidas de prevención de riesgos laborales.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar las 
+funciones de mantenimiento y reparación de maquinaria, equipo industrial y líneas 
+automatizadas, y se aplica en los procesos de las instalaciones electromecánicas.
+La función de reparación y mantenimiento de las instalaciones electromecánicas 
+incluye aspectos como:
+–	 La identificación de los diferentes tipos de maquinaria y equipo industrial 
+empleados para la fabricación de piezas metálicas.
+–	 La asociación de los procedimientos de fabricación con las características 
+dimensionales, geométricas y acabado del producto.
+–	 La fabricación de piezas, bien a través de mecanizado manual, o bien, por medio 
+de máquinas herramientas.
+–	 La ejecución de uniones metálicas permanentes por medio de soldaduras.
+Las actividades profesionales asociadas a estas funciones se aplican en:
+–	 Instalación de maquinaria, equipos e instalaciones industriales.
+–	 Montaje de elementos electromecánicos presentes en maquinaria y equipo 
+industrial.
+–	 Mantenimiento electromecánico de maquinaria, equipos e instalaciones 
+industriales.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57643
+Miércoles, 28 de agosto de 2013
+–	 Ejecución de modificaciones en planta de maquinaria, equipos e instalaciones.
+–	 La fabricación y/o reparación de elementos que se van a emplear en los trabajos 
+de montaje y mantenimiento.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+a), g), i), j) y t) del ciclo formativo, y las competencias a), d), i), o) y r) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+–	 La identificación de los diferentes procedimientos de mecanizado y conformado 
+por medio de máquinas-herramientas junto con los útiles y herramientas 
+utilizadas.
+–	 La identificación de los diferentes procesos de soldadura metálica junto con sus 
+equipos, útiles y características. 
+–	 La selección de los procesos de fabricación más adecuados a las características 
+dimensionales, geométricas y superficiales del producto que se va a fabricar.  
+–	 La realización de operaciones básicas de mecanizado, tanto manuales como con 
+máquinas-herramienta.
+–	 La realización de uniones metálicas permanentes por medio de soldaduras 
+eléctricas, de resistencia, de proyección y oxiacetilénicas.
+–	 La definición de los elementos de protección de máquinas y equipos de protección 
+individual que se va a emplear en cada uno de los trabajos previstos.
+–	 La definición de los protocolos de actuación en materia medioambiental a seguir 
+durante la ejecución de los trabajos previstos.
+Por el carácter práctico del módulo, se recomienda la fabricación de conjuntos 
+mecánicos, que tengan una aplicación real, de forma que el alumnado pueda comprender 
+la importancia de las relaciones dimensionales y geométricas, aplicadas sobre elementos 
+mecatrónicos.
+Las unidades de trabajo de este módulo deben coordinarse con las unidades de trabajo 
+de los módulos de «Representación gráfica en sistemas mecatrónicos» y «Elementos de 
+máquinas».  
+La metodología aplicada en este módulo profesional debe favorecer experiencias 
+de aprendizaje fundamentadas en el manejo de herramientas manuales y máquinas 
+de fabricación, así como los diferentes sistemas de unión por soldadura, realizando su 
+implementación en el aula para la consecución de los objetivos específicos relacionados 
+con la fabricación de conjuntos mecánicos.
+Se propone que las TIC sean un instrumento habitual, tanto por parte del profesorado 
+como por parte del alumnado, de forma que éste adopte actitudes activas respecto de 
+su propio aprendizaje mediante la búsqueda y consulta en páginas Web de simuladores 
+de procesos de fabricación, y métodos empleados en los procesos de fabricación 
+industriales.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57644
+Miércoles, 28 de agosto de 2013
+Módulo profesional: Representación gráfica de sistemas mecatrónicos.
+Equivalencia en créditos ECTS: 8
+Código: 0940
+Duración: 96 horas
+Contenidos:
+1. Representación de productos mecánicos:
+–	 Técnicas de croquización.
+–	 Sistemas de representación.
+–	 Líneas normalizadas.
+–	 Escalas.
+–	 Normas de dibujo industrial.
+–	 Planos de conjunto y despiece.
+–	 Sistemas de representación gráfica.
+–	 Vistas.
+–	 Cortes, secciones y roturas.
+–	 Plegado de planos.
+–	 Desarrollo metódico del trabajo.
+–	 Orden y limpieza.
+–	 Valoración del trabajo en equipo.
+2. Especificación de las características de productos mecánicos:
+–	 Identificación de componentes en conjuntos mecánicos.
+–	 Simbología en sistemas mecánicos.
+–	 Simbología de tratamientos.
+–	 Acotación.
+–	 Representación de tolerancias dimensionales, geométricas y superficiales.
+–	 Representación de materiales.
+–	 Representación de tratamientos térmicos, termoquímicos y electroquímicos.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57645
+Miércoles, 28 de agosto de 2013
+–	 Representación de formas y elementos normalizados (chavetas, roscas, guías,  
+soldaduras y otros).
+–	 Utilización de catálogos comerciales.
+–	 Listas de materiales.
+–	 Representación de sistemas mecatrónicos mecanizados y soldados.
+3. Representación de sistemas de automatización:
+–	 Identificación de componentes en esquemas neumáticos e hidráulicos.
+–	 Identificación de componentes en esquemas eléctricos y programables.
+–	 Simbología de elementos neumáticos hidráulicos y eléctricos.
+–	 Simbología de elementos eléctricos, electrónicos y programables.
+–	 Simbología de conexiones entre componentes.
+–	 Etiquetas de conexiones.
+–	 Desarrollo metódico del trabajo.
+–	 Tipos de esquemas: de funcionamiento, topográficos y de montaje, entre otros.
+–	 Normalizado de los sistemas mecatrónicos en representación gráfica.
+4. Elaboración de documentación gráfica:
+–	 Programas de CAD.
+–	 Configuración del software.
+–	 Gestión de capas.
+–	 Órdenes de dibujo.
+–	 Órdenes de modificación.
+–	 Órdenes de acotación.
+–	 Opciones y órdenes de superficies.
+–	 Opciones y órdenes de sólidos.
+–	 Librerías de productos.
+–	 Asignación de materiales y propiedades.
+–	 Asignación de restricciones.
+–	 Impresión.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57646
+Miércoles, 28 de agosto de 2013
+–	 Gestión de archivos de dibujo. Importar/exportar.
+–	 Creación de planos en 2 dimensiones.
+–	 Creación de prototipos en 3 dimensiones.
+–	 Creación de conjuntos mecánicos en 3 dimensiones.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar la función 
+de diseño aplicada en los procesos de mantenimiento industrial.
+La función de diseño incluye aspectos como:
+–	 El croquizado de productos mecánicos.
+–	 Aplicación de técnicas de dibujo asistido por ordenador (CAD) para la realización 
+gráfica en planos de piezas y conjuntos de fabricación mecánica.
+–	 La representación gráfica según la normativa para la acotación, elementos 
+normalizados, acabados superficiales y representación de esquemas de 
+automatización, entre otros.
+Las actividades profesionales asociadas a esta función se aplican en:
+–	 Representación de piezas y conjuntos mecánicos.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+a), b) y c) del ciclo formativo, y las competencias a), b) y m) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+–	 La interpretación de información técnica.
+–	 La representación gráfica de productos de fabricación mecánica, utilizando útiles 
+de dibujo y programas de diseño asistido por ordenador (CAD).
+Este módulo profesional tiene relación con otros módulos profesionales del currículo 
+asociados a unidades de competencia, en tanto que sirve de instrumento de base para 
+el desarrollo de capacidades específicas relacionadas con estos módulos profesionales. 
+Por ello, es conveniente establecer una especial coordinación y secuenciación de las 
+unidades de trabajo, de acuerdo con el desarrollo previsto en el módulo profesional  
+«Procesos de fabricación», «Sistemas Mecánicos», «Sistemas eléctricos y electrónicos», 
+«Sistemas hidráulicos y neumáticos» dada la importancia de la interpretación de símbolos 
+y esquemas. 
+La metodología aplicada en este módulo profesional debe favorecer experiencias 
+de aprendizaje fundamentadas  en el análisis, desarrollo y resolución de supuestos 
+prácticos sencillos y el empleo de aplicaciones, software, utilidades y otros, realizando su 
+implementación en el aula para la consecución de los objetivos específicos relacionados 
+con el diseño de prototipos y sistemas mecatrónicos.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57647
+Miércoles, 28 de agosto de 2013
+En la medida de lo posible, se recomienda emplear software de representación 
+gráfica de sólidos.
+Se propone que las TIC sean un instrumento habitual, tanto por parte del profesorado 
+como por parte del alumnado, de forma que éste adopte actitudes activas respecto de su 
+propio aprendizaje mediante la búsqueda y consulta en páginas Web de normativa de 
+representación gráfica. Simbología, planos y conjuntos mecánicos.
+Módulo profesional: Configuración de sistemas mecatrónicos.
+Equivalencia en créditos ECTS: 9
+Código: 0941
+Duración: 147 horas
+Contenidos:
+1. Determinación de las características de sistemas mecatrónicos:
+–	 Replanteo y ubicación de equipos y líneas, entre otros.
+–	 Tipos de cimentaciones y bancadas de equipos.
+–	 Cuadros, instalaciones mecánicas, eléctricas, neumáticas e hidráulicas.
+–	 Requerimientos ergonómicos.
+–	 Interpretación de esquemas mecánicos, eléctricos, neumáticos e hidráulicos 
+eléctricos y electrónicos.
+–	 Condiciones de la puesta en marcha de sistemas mecatrónicos.
+–	 Cadenas cinemáticas.
+–	 Regímenes de funcionamiento.
+–	 Puntos de lubricación.
+–	 Especificaciones técnicas de sistemas automatizados.
+–	 Procedimientos de puesta en marcha.
+–	 Cumplimentación de documentación reglamentaria.
+–	 Técnicas de desmontaje, verificación, reparación y montaje.
+–	 Catálogos comerciales.
+2. Configuración de sistemas:
+–	 Características de los procesos productivos.
+–	 Desarrollo de soluciones constructivas de productos mecatrónicos.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57648
+Miércoles, 28 de agosto de 2013
+–	 Dimensionado y selección de elementos.
+–	 Planos necesarios para la modificación del sistema.
+–	 Integración de sistemas de adquisición de datos.
+–	 Normas de seguridad y medio ambiente aplicables a la configuración de sistemas 
+mecatrónicos.
+–	 Selección de los elementos de seguridad y control.
+3. Elaboración de planos de conjunto y de detalle:
+–	 Croquización.
+–	 Diseño asistido por ordenador. CAD/CAM/CIM/CAE.
+–	 Los dibujos de conjunto: características. Cuadro de rotulación. Marcas y lista de 
+materiales.
+–	 Tolerancias dimensionales. Calidad y posición de la zona de tolerancia. Ajustes. 
+Sistemas ISO de ajuste. Elección de los ajustes. Determinación del ajuste 
+normalizado. Verificación. Tolerancias geométricas.
+–	 Esquemas de distribución. Planos generales.
+–	 Planos de detalle. Planos de montaje.
+–	 Programas informáticos. Impresión de planos.
+4. Elaboración de presupuestos:
+–	 Mediciones. Criterios de medición.
+–	 Presupuestos. Capítulos. Unidades de obra. Criterios para la valoración.
+–	 Aplicaciones informáticas. Uso de bases de datos de precios.
+5. Elaboración de documentación técnica:
+–	 Elaboración de documentación técnica.
+–	 Componentes de un proyecto. Normas exigidas. Especificaciones requeridas.
+–	 Interpretación de la documentación.
+–	 Dossier de máquina.
+–	 Revisión de documentación.
+–	 Plan de obra.
+–	 Manual de funcionamiento.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57649
+Miércoles, 28 de agosto de 2013
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar la función 
+de configuración aplicada en los procesos de mantenimiento de sistemas mecatrónicos 
+industriales.
+La función de configuración incluye aspectos como:
+–	 El cálculo de elementos del sistema.
+–	 La selección de equipos y elementos del sistema.
+–	 La representación gráfica  según  normativa  para  la  acotación,  elementos 
+normalizados, acabados superficiales y representación de esquemas de 
+automatización, entre otros.
+Las actividades profesionales asociadas a esta función se aplican en:
+–	 La configuración de sistemas.
+–	 La elaboración de presupuestos.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+a), b), c), m), ñ) y p) del ciclo formativo, y las competencias a), b), m) y o) del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+–	 La interpretación de información técnica.
+–	 Aportar propuestas y soluciones constructivas, interviniendo en el diseño de 
+nuevos productos, versiones y adaptaciones de los mismos.
+–	 La realización de cálculos técnicos para el dimensionado de elementos.
+–	 El uso de sistemas informáticos y manuales de diseño.
+–	 La propuesta de modificaciones y sugerencias de mejoras técnicas, reducción de 
+costes y asesoramiento técnico en fabricación y montaje.
+Este módulo profesional tiene relación con otros módulos profesionales del currículo 
+asociados a unidades de competencia, en tanto que sirve de instrumento de base para el 
+desarrollo de capacidades específicas relacionadas con estos módulos profesionales. Por 
+ello es conveniente establecer una especial coordinación y secuenciación de las unidades 
+de trabajo, de acuerdo con el desarrollo previsto en el módulo profesional «Representación 
+gráfica de sistemas mecatrónicos».
+También es conveniente la elaboración coordinada de programaciones con los 
+siguientes módulos profesionales de primer curso «Sistemas mecánicos», «Sistemas 
+hidráulicos y neumáticos», «Sistemas eléctricos y electrónicos», y «Elementos de 
+máquinas».
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57650
+Miércoles, 28 de agosto de 2013
+La metodología aplicada en este módulo profesional debe favorecer experiencias 
+de aprendizaje fundamentadas en el conocimiento de la terminología específica utilizada, 
+el estudio de documentación técnica como recurso educativo, la consulta de la normativa 
+de aplicación, el análisis, desarrollo y resolución de supuestos prácticos, el empleo de 
+aplicaciones, realizando su implementación en el aula para la consecución de los objetivos 
+específicos relacionados con los sistemas mecatrónicos.
+El desarrollo de los contenidos se realizará de forma secuenciada a los procesos 
+mismos de la configuración de sistemas mecatrónicos, organizando los contenidos 
+jerárquicamente hasta los más específicos.
+Se propone que las TIC sea instrumento habitual, tanto por parte del profesorado 
+como del alumnado de forma que éste adopte actitudes activas respecto a su propio 
+aprendizaje mediante consulta en páginas web de normativa, catálogos técnicos y otros.
+Módulo profesional: Procesos y gestión del mantenimiento y de la calidad.
+Equivalencia en créditos ECTS: 7
+Código: 0942
+Duración: 126 horas
+Contenidos:
+1. Establecimiento de procesos de montaje y mantenimiento:
+–	 Fases: diagramas, características y relación entre ellas.
+–	 Diagrama de Gantt.
+–	 Procesos de montaje y de mantenimiento.
+–	 Hojas de proceso.
+–	 Listas de materiales.
+–	 Especificaciones técnicas de equipos y materiales.
+–	 Condiciones técnicas de las instalaciones.
+–	 Planos de conjunto y detalle de instalaciones.
+–	 Planificación y programación del montaje y mantenimiento de instalaciones 
+térmicas.
+–	 Equipos, utillajes y herramientas.
+–	 Operaciones de ensamblado y unión.
+–	 Sistemas informatizados de gestión de procesos.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57651
+Miércoles, 28 de agosto de 2013
+2. Elaboración de planes de montaje y de gamas de mantenimiento:
+–	 Especificación y secuenciación de las operaciones.
+–	 Cargas de trabajo.
+–	 Recursos materiales y humanos necesarios para realizar la instalación.
+–	 Relación de actividades y tiempos de ejecución.
+–	 Diagramas de planificación de la mano de obra, materiales y medios.
+–	 Control del plan de montaje.
+–	 Especificaciones técnicas del montaje.
+–	 Memoria de las intervenciones de mantenimiento.
+–	 Normativa de seguridad durante la ejecución del proceso.
+–	 Normas de utilización de los equipos, material e instalaciones.
+–	 Aplicación de la normativa y reglamentación vigente.
+–	 Documentación técnica de referencia.
+–	 Sistemas informatizados de gestión.
+3. Elaboración del catálogo de repuestos y el programa de gestión y 
+aprovisionamiento:
+–	 Homologación de proveedores. 
+–	 Especificaciones técnicas de las compras.
+–	 Medios de suministro de material.
+–	 Plazos de entrega y calidad en el suministro.
+–	 Condiciones de almacenamiento.
+–	 Sistemas de organización del almacén de mantenimiento.
+–	 Control de existencias y de preparación de pedidos.
+–	 Sistemas informatizados de aprovisionamiento y almacenamiento.
+4. Elaboración del presupuesto de montaje y mantenimiento de instalaciones:
+–	 Unidades de obra. Mediciones. 
+–	 Cálculos parciales y totales de las instalaciones.
+–	 Coste del mantenimiento integral.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57652
+Miércoles, 28 de agosto de 2013
+–	 Costes de la fiabilidad, sostenibilidad y disponibilidad de las instalaciones.
+–	 Presupuestos generales. 
+–	 Sistemas informatizados de elaboración de presupuestos.
+5. Determinación de las acciones para la implantación y mantenimiento de sistemas 
+de aseguramiento de la calidad:
+–	 Definición de calidad. Normativa básica de calidad. Reconocimiento de calidad: 
+homologación y certificación.
+–	 Control dimensional y estadístico del proceso. Técnicas metrológicas. Control de 
+calibración de equipos y elementos de medición.
+–	 Sistemas de aseguramiento de calidad.
+–	 Herramientas para el aseguramiento y gestión de la calidad:
+–	 Diagramas o gráficos de gestión.
+–	 Diagrama de Pareto.
+–	 Diagrama de Ishikawa (causa efecto).
+–	 Diagrama de dispersión.
+–	 AMFEC.
+–	 Registro de datos en los documentos de calidad.
+–	 Procesos de mejora continua. 
+–	 Acciones correctoras que permitan la mejora de la calidad.
+–	 Plan de calidad del control de la producción.
+–	 Parámetros de una auditoría interna de calidad del proceso.
+–	 Aplicación de las TIC en el control de calidad. Programas informáticos en la 
+planificación de la gestión de calidad.
+–	 Aseguramiento de la calidad.
+–	 Análisis de las principales normas de aseguramiento de la gestión de la calidad.
+–	 Manual de calidad y de procesos. 
+–	 Normas ISO 9001-2008 para procesos industriales y de servicios.
+6. Aplicación de planes para el establecimiento y mantenimiento de los modelos de 
+excelencia empresarial:
+–	 Principios de la calidad total.
+–	 Conceptos fundamentales del sistema europeo EFQM.
+–	 Mapa de los criterios del modelo de EFQM.
+–	 Gestión de una empresa sobre un modelo de excelencia.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57653
+Miércoles, 28 de agosto de 2013
+–	 Descripción de los requisitos del sistema de gestión de la calidad.
+–	 Modelos de excelencia empresarial.
+–	 Planes de mejora continua de los procesos.
+–	 Identificación de las fases para el establecimiento de un sistema de gestión de la 
+calidad.
+–	 Utilización e integración de equipos para la optimización de rendimientos.
+–	 Sistematización de los procesos claves y relevantes que intervienen en las 
+empresas.
+7. Preparación de registros de calidad:
+–	 Reconocimiento de los registros del sistema de gestión de la calidad.
+–	 Costes de calidad: estructura de costes, valoración y obtención de datos de 
+costes.
+–	 Medición de la calidad del servicio.
+–	 Herramientas estadísticas de calidad para el control del proceso:
+–	 Representación gráfica de frecuencias.
+–	 Distribución de frecuencias: tendencia, variabilidad, etc.
+–	 Distribución normal o de Gauss.
+–	 Gráficos de control por variables.
+–	 Control por atributos.
+–	 Procedimientos de muestreo.
+–	 Planes de gestión de las no conformidades.
+–	 Control dimensional y estadístico del proceso. Técnicas de metrología. Control 
+de calibración de elementos y equipos de medición.
+–	 Sistemas y procesos de autoevaluación. Regla de evaluación por lógica REDER 
+(Resultados, Enfoque, Despliegue, Evaluación y Revisión).
+–	 Tratamiento de resultados (cuadros de mando, evaluación de proveedores, 
+satisfacción de clientes y diagnóstico externo).
+–	 Control de existencias y organización del almacén de mantenimiento.
+–	 Aplicación de las TIC en el control de los resultados.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57654
+Miércoles, 28 de agosto de 2013
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar la 
+función de desarrollo de procesos operacionales y de gestión y calidades del montaje y 
+del mantenimiento aplicadas a la mecatrónica industrial.
+La función de desarrollar los procesos operacionales, de gestión y de calidad del 
+montaje y del mantenimiento incluye aspectos como:
+–	 La elaboración de procesos operacionales de intervención para el mantenimiento 
+preventivo y correctivo de máquinas, equipos y elementos de las instalaciones de 
+mecatrónica.
+–	 El desarrollo de procesos de fabricación para la reconstrucción de elementos del 
+equipo electromecánico de las instalaciones.
+–	 La elaboración de gamas de chequeo de máquinas y equipos para el diagnóstico 
+de su estado.
+–	 La realización del dossier de repuestos sobre niveles de almacenamiento 
+necesarios para garantizar el mantenimiento de las instalaciones.
+–	 La realización del seguimiento del control y costes del montaje de las 
+instalaciones.
+–	 La realización de programas de mantenimiento preventivo de los equipos e 
+instalaciones.
+–	 El control de la ejecución y el seguimiento de costes de mantenimiento.
+–	 El aseguramiento de la calidad en los procesos de montaje y mantenimiento de 
+las instalaciones de mecatrónica.
+–	 La realización de planes de pruebas de puesta en marcha de las instalaciones de 
+mecatrónica.
+–	 La aplicación de planes y normas de prevención de riesgos laborales.
+–	 El ahorro de energía y protección del medio ambiente en el mantenimiento de las 
+instalaciones industriales de mecatrónica.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+a), d), h), i), j) y t) del ciclo formativo, y las competencias a), b), e), g), h), l), n), p), q) y r) 
+del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+–	 La identificación de elementos, máquinas y desarrollo de procesos de montaje 
+y mantenimiento, utilizando como recurso la documentación técnica de la 
+instalación.
+–	 La elaboración de planes de montaje, teniendo en cuenta la normativa vigente de 
+control de calidad, de prevención de riesgos y de gestión e impacto medioambiental, 
+utilizando como recurso los diagramas de programación y control.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57655
+Miércoles, 28 de agosto de 2013
+–	 La elaboración de presupuestos del montaje y mantenimiento de las instalaciones 
+industriales, a partir del uso de la documentación técnica del proyecto.
+–	 Las especificaciones técnicas de montaje y mantenimiento y el seguimiento del 
+protocolo de pruebas de las instalaciones, de acuerdo a las condiciones del 
+proyecto.
+–	 Análisis del sistema de calidad y el uso de los planes de calidad para efectuar el 
+control y gestión de la calidad.
+–	 El análisis de las técnicas metrológicas que permitan garantizar la correcta 
+evaluación de la calidad de un producto o proceso productivo.
+Este módulo, teniendo en cuenta los resultados de aprendizaje y los criterios de 
+evaluación, es teórico-práctico, por lo que es adecuado que se emplee una metodología 
+activa, de tal manera que el aprendizaje se vea reforzado mediante la realización de 
+ejercicios, problemas y prácticas.
+El desarrollo de los contenidos se realizará de forma secuenciada a los procesos 
+y gestión del mantenimiento y de la calidad, organizando los contenidos desde los 
+jerárquicamente más importantes hasta los más específicos.
+Ya que este módulo está orientado a la realización de procedimientos y gestión, se 
+recomienda que el uso de las TIC sea instrumento habitual, tanto por parte del profesorado 
+como del alumnado de forma que éste adopte actitudes positivas respecto a su propio 
+aprendizaje mediante consulta en páginas web de normativa, catálogos técnicos y otros. 
+Se recomienda que los trabajos se lleven a cabo de forma individual. El alumnado deberá 
+ser capaz de trabajar con autonomía y creatividad bajo los parámetros de la calidad exigida, 
+siempre bajo la orientación del profesorado.
+Módulo profesional: Integración de sistemas.
+Equivalencia en créditos ECTS: 13
+Código: 0943
+Duración: 231 horas
+Contenidos:
+1. Identificación y funciones de los elementos del lazo de regulación:
+–	 Componentes de un sistema de regulación y control.
+–	 Tipos de control (lazo abierto y cerrado).
+–	 Control de procesos de eventos discretos.
+–	 Control de procesos continuos.
+–	 Función de transferencia. Estabilidad.
+–	 Elementos de los sistemas controlados. Reguladores.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57656
+Miércoles, 28 de agosto de 2013
+–	 Tipología y características funcionales.
+–	 Modos de control (P, PI, PID).
+2. Integración de autómatas programables:
+–	 El autómata programable como elemento de control en los sistemas 
+automáticos.
+–	 Estructura funcional de un autómata.
+–	 Constitución. Funciones. Características.
+–	 Entradas y salidas: digitales, analógicas y especiales.
+–	 Programación de autómatas: lenguaje literal, de contactos, GRAFCET y otros.
+–	 Resolución de automatismos mediante la utilización de autómatas programables 
+y automatismos discretos y continuos de distintas tecnologías.
+–	 Técnicas de programación para autómatas programables.
+–	 La comunicación del autómata con su entorno. Procedimientos.
+–	 El autómata en el control electro-fluídico.
+–	 Simbología y representación gráfica.
+–	 Aplicaciones a los sistemas de producción automatizados.
+3. Integración de manipuladores y robots:
+–	 Los dispositivos de actuación en los procesos secuenciales: manipuladores y 
+robots. Tipología y características. Campos de aplicación.
+–	 Elementos de máquinas. Transformaciones y características.
+–	 Transformaciones.
+–	 Cinemática y dinámica de robots.
+–	 Sensores, actuadores neumáticos, hidráulicos y eléctricos y sistemas de control 
+para robots y manipuladores.
+–	 La comunicación del robot con su entorno. Características y procedimientos.
+–	 Lenguaje de programación de robots.
+–	 Aplicaciones e implantación de robots.
+–	 Conceptos generales sobre fabricación flexible y entornos CIM.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57657
+Miércoles, 28 de agosto de 2013
+4. Integración de comunicaciones Industriales: 
+–	 Comunicaciones industriales y control distribuido: elementos de la comunicación, 
+redes de comunicación, comunicaciones industriales y normalización.
+–	 El control integral de los procesos. Fundamentos CIM. Pirámide de 
+automatización.
+–	 Protocolos de comunicación: funciones y características, normalización, niveles.
+–	 Redes industriales y buses de campo más extendidos en el mercado europeo 
+(AS-i, Profibus, Ethenet Industrial, PROFInet, entre otros).
+–	 Configuraciones físicas: programación de las comunicaciones. Diagnóstico de 
+averías.
+–	 Interfaz máquina-usuario: diferentes tipologías de interfaz HMI como paneles de 
+operación o pantallas táctiles.
+–	 Sistemas SCADA: descripción del sistema.
+5. Montaje, puesta en marcha y el mantenimiento de sistemas mecatrónicos:
+–	 Diseño de sistemas de control automático: elaboración de especificaciones y 
+cuadernos de carga. Cálculos. Selección de tecnologías, equipos y dispositivos
+–	 Montaje de líneas de producción automatizadas: técnica operativa.
+–	 Análisis funcional de sistemas automáticos cableados.
+–	 Análisis funcional de sistemas automáticos programados.
+–	 Medidas en los sistemas automáticos. Instrumentos y procedimientos.
+–	 Mantenimiento de líneas de producción automatizadas: aplicación de técnicas 
+preventivas y correctivas tipo. 
+–	 Normas de práctica profesional comúnmente aceptadas en el sector.
+6. Diagnosis de averías en sistemas mecatrónicos:
+–	 Averías tipo en los sistemas mecatrónicos.
+–	 Procesos de diagnóstico y localización de averías. Sistemas monitorizados.
+–	 Procesos de reparación de averías y corrección de disfunciones.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar 
+las funciones de configuración, montaje y mantenimiento, y se aplica a los sistemas 
+mecatrónicos (maquinaria, equipo industrial y líneas de producción automatizadas) de 
+diversos sectores productivos.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57658
+Miércoles, 28 de agosto de 2013
+La función de configuración, montaje y mantenimiento incluye aspectos como: 
+–	 La definición/elección de las tecnologías de automatización que se van a 
+implementar.
+–	 La definición de las secuencias/modos de funcionamiento y la programación de 
+los mismos.
+–	 El montaje de todos los sistemas (mecánicos, eléctricos/electrónico y 
+comunicaciones, entre otros).
+–	 La puesta en marcha de los sistemas mecatrónicos (máquinas, equipos o líneas 
+de producción automatizadas).
+–	 El mantenimiento y mejora de los sistemas mecatrónicos (máquinas, equipos o 
+líneas de producción automatizadas).
+Las actividades profesionales asociadas a esta función se aplican en:
+–	 La instalación/montaje global de los sistemas mecatrónicos (máquinas, equipos 
+y líneas automatizadas de producción).
+–	 La programación y puesta en marcha de los sistemas mecatrónicos (máquinas, 
+equipos y líneas automatizadas de producción).
+–	 El mantenimiento y mejora de los sistemas mecatrónicos (máquinas, equipos y 
+líneas automatizadas de producción). 
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+d), e), f), g), h), i), k), l), m), ñ), n) y q) del ciclo formativo, y las competencias d), e), f), g), 
+h), i), j), k), l), n), o) y p) del título. 
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+–	 El análisis de instalaciones automatizadas de los sistemas mecatrónicos, 
+describiendo su funcionamiento, componentes, estructura y tipología.
+–	 El gobierno del funcionamiento de las instalaciones automatizadas de los sistemas 
+mecatrónicos a través de PLC.
+–	 La integración de los manipuladores/robot y comunicaciones industriales para la 
+mejora de los procesos productivos automatizados.
+–	 El montaje global de los sistemas mecatrónicos (máquina, equipo o línea 
+automatizada), consiguiendo la adecuada integración entre las partes lógica y 
+física del sistema.
+–	 El diagnóstico y corrección de disfunciones de los sistemas mecatrónicos 
+(máquinas, equipos y líneas automatizadas).
+Este módulo, teniendo en cuenta los resultados de aprendizaje y los criterios de 
+evaluación, es práctico, por lo que es adecuado que se emplee una metodología activa, de 
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57659
+Miércoles, 28 de agosto de 2013
+tal manera que el aprendizaje se produzca mediante la realización de ejercicios, problemas 
+y prácticas.
+El carácter integrador de la mayoría de las competencias adquiridas en los módulos 
+de primer curso, y por adquirir en éste, le requiere al alumno la utilización multidisciplinar 
+de conocimientos, técnicas y destrezas sobradamente consolidadas y reconocidas en la 
+práctica laboral del mantenimiento mecatrónico industrial, por lo que se recomienda que el 
+profesorado, después de la exposición teórica del procedimiento a desarrollar, realice una 
+demostración práctica de la viabilidad real del mismo.
+Dada la naturaleza de los resultados de aprendizaje a alcanzar habrá trabajos a 
+realizar sobre soporte informático para los que se recomienda que se lleven a cabo de 
+forma individual. El alumnado deberá ser capaz de trabajar con autonomía y creatividad 
+bajo los parámetros de la calidad exigida, siempre bajo la orientación del profesorado.
+También será necesario la realización del montaje físico de sistemas mecatrónicos 
+(máquinas, equipos o líneas automatizadas de producción), su puesta en marcha, 
+el mantenimiento y mejora del los mismos y para ello se recomienda utilizar una 
+metodología basada en agrupamientos de varios alumnos para la resolución de estos 
+trabajos, fomentando así el trabajo en equipo, la cooperación, la distribución de tareas y 
+responsabilidades, la transferencia de conocimientos y las relaciones entre iguales.
+Módulo profesional: Simulación de sistemas mecatrónicos.
+Equivalencia en créditos ECTS: 5
+Código: 0944
+Duración: 63 horas
+Contenidos:
+1. Diseño de prototipos mecatrónicos:
+–	 Diseño de elementos en 3D.
+–	 Diseño de superficies en 3D.
+–	 Importación/exportación de elementos.
+–	 Ensamblaje de sistemas.
+–	 Diseño explosionado.
+–	 Análisis de esfuerzos de los elementos diseñados.
+–	 Análisis de colisiones en los ensamblajes.
+–	 Movimientos (deslizamiento, rodadura y pivotante, y otros).
+–	 Tolerancias dimensionales y geométricas.
+–	 Calidades superficiales.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57660
+Miércoles, 28 de agosto de 2013
+–	 Utillajes.
+–	 Interpretación de catálogos.
+–	 Concepción tecnológica de órganos y elementos de máquinas.
+2. Simulación del funcionamiento de una célula robotizada:
+–	 Importación de datos de sistemas CAD.
+–	 Generación de posiciones de un robot usando modelos CAD.
+–	 Generación de programas de robot.
+–	 Instrucciones de control de flujo y de entradas/salidas.
+–	 Sistemas de referencia de la base y de la posición final.
+–	 Sistemas de posicionado de robots.
+–	 Representación gráfica de una programación virtual/programación real.
+–	 Verificación de los estados de las entradas/salidas (E/S) de la célula de trabajo.
+–	 Detección de colisiones.
+–	 Ejes controlados.
+–	 Análisis de alcances.
+–	 Software.
+–	 Optimización de trayectorias, aceleraciones y singularidades.
+–	 Interfaz de comunicación.
+3. Simulación y validación de sistemas mecatrónicos:
+–	 Aplicación de software para la simulación de los sistemas mecatrónicos 
+diseñados.
+–	 Validación mediante la comprobación de trayectorias, colisiones y alcances entre 
+otros, de los sistemas mecatrónicos.
+–	 Comprobación de los sistemas y controles de seguridad adoptados, antes de la 
+puesta en marcha.
+–	 Puesta en marcha en una situación virtual de los sistemas mecatrónicos.
+4. Integración de sistemas de adquisición de datos:
+–	 Proceso de adquisición de datos.
+–	 Esquema de bloques de un SAD (sistema de adquisición de datos). Transductores 
+y convertidores. Acondicionamiento de la señal.
+–	 Visión artificial.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57661
+Miércoles, 28 de agosto de 2013
+–	 Elementos de los sistemas de visión artificial: lentes, cámaras, software e interfaz 
+de comunicación.
+–	 Procesado y preprocesado de imágenes.
+–	 Segmentación de imágenes.
+–	 Reconocimiento de escenas.
+–	 Monitorización del estado del sistema.
+–	 Verificación del funcionamiento.
+5. Simulación de procesos mecatrónicos complejos:
+–	 Características de los procesos que se van a simular.
+–	 Selección de subsistemas. Tipos. Integración de subsistemas. 
+–	 Desviaciones del funcionamiento. 
+–	 Análisis y corrección de disfunciones.
+–	 Documentación de resultados.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desempeñar la función 
+de diseño aplicada en los procesos relativos a sistemas mecatrónicos industriales.
+La función de diseño incluye aspectos como:
+–	 El croquizado de productos mecatrónicos.
+–	 Aplicación de técnicas de dibujo asistido por ordenador (CAD), para la realización 
+gráfica en planos de piezas y conjuntos, tanto en 2D como en 3D.
+–	 La simulación de estaciones tanto automatizadas como robotizadas.
+Las actividades profesionales asociadas a esta función se aplican en:
+–	 Diseño de soluciones mecatrónicos a requerimientos concretos.
+–	 Simulación de prototipos mecatrónicos
+–	 Simulación de prototipos robóticos.
+–	 Simulación y validación de dichos prototipos.
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+a), b), e), k), l), m), n) y q) del ciclo formativo y las competencias a), b), f), j), k), ñ) y o) del 
+título.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57662
+Miércoles, 28 de agosto de 2013
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional versarán sobre:
+–	 La interpretación de información técnica.
+–	 Aportar propuestas y soluciones constructivas, interviniendo en el diseño de 
+nuevos productos, versiones y adaptaciones de los mismos.
+–	 La realización de cálculos técnicos para el dimensionado de elementos.
+–	 El uso de sistemas informáticos y manuales de diseño.
+–	 La propuesta de modificaciones y sugerencias de mejoras técnicas, reducción de 
+costes y asesoramiento técnico en fabricación y montaje.
+Este módulo profesional tiene relación con otros módulos profesionales del currículo 
+asociados a unidades de competencia, en tanto que sirve de instrumento de base para el 
+desarrollo de capacidades específicas relacionadas con este módulo profesional. Por ello, 
+es conveniente establecer una especial coordinación y secuenciación de las unidades de 
+trabajo, de acuerdo con el desarrollo previsto en el  módulo profesional  «Integración de 
+Sistemas». 
+La metodología aplicada en este módulo profesional debe favorecer experiencias 
+de aprendizaje fundamentadas en el análisis, desarrollo y resolución de  supuestos 
+prácticos sencillos y el empleo de aplicaciones, software, utilidades y otros, realizando su 
+implementación en el aula para la consecución de los objetivos específicos relacionados 
+con la simulación de sistemas mecatrónicos.
+En la medida de lo posible, se recomienda emplear software de simulaciones 
+didácticas, que utilizan como herramientas de enseñanza, los sistemas mecatrónicos 
+similares a los que se emplean en los centros de formación. Se conseguirán mejores 
+resultados, al emplear similares elementos en el simulador, y en las actividades prácticas 
+del módulo de «Integración de Sistemas».
+Se propone que las TIC sean un instrumento habitual, tanto por parte del profesorado 
+como por parte del alumnado, de forma que éste adopte actitudes activas respecto de su 
+propio aprendizaje mediante la búsqueda y consulta en páginas Web de programación de 
+robots, comunicaciones industriales, y simulación de procesos industriales.
+Módulo profesional: Proyecto de mecatrónica industrial.
+Equivalencia en créditos ECTS: 5
+Código: 0945
+Duración: 30 horas
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional complementa la formación establecida para el resto de los 
+módulos profesionales que integran el título en las funciones de análisis del contexto, 
+diseño del proyecto y organización de la ejecución.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57663
+Miércoles, 28 de agosto de 2013
+La función de análisis del contexto incluye las subfunciones de recopilación de 
+información, identificación de necesidades y estudio de viabilidad.
+La función de diseño del proyecto tiene como objetivo establecer las líneas generales 
+para dar respuesta a las necesidades planteadas, concretando los aspectos relevantes 
+para su realización. Incluye las subfunciones de reconocimiento del proyecto, planificación 
+de la intervención y elaboración de la documentación.
+La función de organización de la ejecución incluye las subfunciones de programación, 
+definiendo la secuencia cronológica de las etapas de trabajo, con previsión y coordinación 
+de los recursos, y de logística, determinando la provisión, transporte y almacenamiento 
+de los materiales de la instalación y de los equipos que se deben utilizar en su ejecución, 
+tanto desde su origen como en su recorrido en la obra.
+Las actividades profesionales asociadas a estas funciones se desarrollan en los 
+subsectores de montaje y mantenimiento de sistemas mecatrónicos en los sectores 
+industriales.
+La formación del módulo profesional se relaciona con la totalidad de los objetivos 
+generales del ciclo y las competencias profesionales, personales y sociales del título.
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten 
+alcanzar los objetivos del módulo profesional están relacionadas con:
+–	 La responsabilidad y la autoevaluación del trabajo realizado.
+–	 La autonomía y la iniciativa personal.
+–	 El uso de las Tecnologías de la Información y de la Comunicación.
+–	 La identificación de las necesidades del sector productivo y de la organización 
+empresarial.
+–	 El diseño de proyectos relacionados con el sector de actividad.
+–	 Planificación y desarrollo de proyectos.
+–	 La definición de los procedimientos de control y evaluación en la ejecución de los 
+proyectos.
+La metodología aplicada en este módulo profesional debe favorecer experiencias de 
+aprendizaje fundamentadas en el conocimiento de las técnicas de análisis, investigación, 
+búsqueda y recopilación de información, búsqueda de recursos bibliográficos, planificación 
+del proyecto, matriz del proyecto, diseño del proyecto, viabilidad y oportunidad del proyecto, 
+conclusiones y aportaciones personales al proyecto, manejo de normativa aplicable, 
+desarrollo del proyecto y utilización de software específico, como procesadores de texto, 
+hojas de cálculo, programas de diseño asistido por ordenador, programas de cálculo 
+específicos y otros en la redacción del documento final; realizando su implementación en 
+el módulo profesional, para la consecución de los objetivos específicos relacionados con 
+el tipo de proyecto que desarrolle el alumnado. 
+El alumnado deberá ser capaz de trabajar con autonomía y creatividad bajo los 
+parámetros de la calidad exigida, siempre bajo la orientación del profesor-tutor. 
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57664
+Miércoles, 28 de agosto de 2013
+Se propone que las TIC sean un instrumento habitual, tanto por parte del profesor-
+tutor como por parte del alumnado, de forma que éste adopte actitudes activas respecto 
+de su propio aprendizaje mediante la búsqueda bibliográfica y consulta en páginas Web 
+de toda la información necesaria para el desarrollo del proyecto y como herramienta para 
+facilitar la acción tutorial. 
+El proyecto será realizado por el alumnado, de forma individual, preferentemente 
+durante el tercer trimestre del segundo curso. El alumnado será tutorizado preferentemente  
+por un profesor que imparta docencia en segundo curso del ciclo formativo, de la 
+especialidad de «Organización y Proyectos de Fabricación Mecánica» o «Mecanizado 
+y Mantenimiento de Máquinas», de acuerdo con lo establecido en el Anexo III A) del  
+Real Decreto 1576/2011, de 4 de noviembre, no obstante, dado que los resultados de 
+aprendizaje y criterios de evaluación de este módulo profesional complementan los del 
+resto de los módulos profesionales y tiene un carácter integrador de todos los módulos 
+profesionales del ciclo, sería conveniente la colaboración de todos los profesores con 
+atribución docente en el ciclo formativo.
+Módulo profesional: Formación y orientación laboral.
+Equivalencia en créditos ECTS: 5
+Código: 0946
+Duración: 96 horas 
+Contenidos:
+BLOQUE A: Formación, Legislación y Relaciones Laborales. 
+Duración: 46 horas
+1. Búsqueda activa de empleo:
+–	 Valoración de la importancia de la formación permanente para la trayectoria 
+laboral y profesional del Técnico Superior en Mecatrónica Industrial.
+–	 Análisis de los intereses, aptitudes y motivaciones personales para la carrera 
+profesional.
+–	 Identificación de los itinerarios formativos relacionados con el Técnico Superior 
+en Mecatrónica Industrial.
+–	 Definición y análisis del sector profesional del título de Técnico Superior en 
+Mecatrónica Industrial. Yacimientos de empleo.
+–	 Proceso de búsqueda de empleo en pequeñas, medianas y grandes empresas 
+del sector.
+–	 Oportunidades de aprendizaje y empleo en Europa. Programas europeos.
+–	 Valoración de la empleabilidad y adaptación como factores clave para responder 
+a las exigencias del mercado laboral.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57665
+Miércoles, 28 de agosto de 2013
+–	 Características personales y profesionales más apreciadas por empresas del 
+sector en Castilla y León. 
+–	 Técnicas e instrumentos de búsqueda de empleo. Fuentes de información. El 
+proceso de selección.
+–	 Oportunidades de autoempleo.
+–	 El proceso de toma de decisiones.
+–	 Reconocimiento del acceso al empleo en igualdad de oportunidades y sin 
+discriminación de cualquier tipo.
+2. Gestión del conflicto y equipos de trabajo:
+–	 Valoración de las ventajas e inconvenientes del trabajo en equipo para la eficacia 
+de la organización.
+–	 Concepto y tipos de equipos de trabajo. Formación y funcionamiento de equipos 
+eficaces.
+–	 Equipos de trabajo en las empresas del sector de la mecatrónica industrial, según 
+las funciones que desempeñan.
+–	 La participación en el equipo de trabajo. Los roles grupales. Barreras a la 
+participación en el equipo.
+–	 Técnicas de participación y dinámicas de grupo.
+–	 Conflicto: características, fuentes y etapas.
+–	 Métodos para la resolución o supresión del conflicto.
+–	 La comunicación en la empresa. El lenguaje asertivo. La toma de decisiones y la 
+negociación como habilidades sociales para el trabajo en equipo.
+3. Contrato de trabajo:
+–	 La organización política del Estado Español. Organismos laborales existentes en 
+España.
+–	 El Derecho del Trabajo. Normas fundamentales.
+–	 Órganos de la administración y jurisdicción laboral.
+–	 Análisis de la relación laboral individual.
+–	 Modalidades del contrato de trabajo y medidas de fomento de la contratación.
+–	 Derechos y deberes derivados de la relación laboral. El tiempo de trabajo. Análisis 
+del recibo de salarios. Liquidación de haberes.
+–	 Modificación, suspensión y extinción del contrato de trabajo.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57666
+Miércoles, 28 de agosto de 2013
+–	 Valoración de las medidas para la conciliación familiar y profesional.
+–	 Representación de los trabajadores en la empresa.
+–	 Negociación colectiva como medio para la conciliación de los intereses de 
+trabajadores y empresarios. 
+–	 Medidas de conflicto colectivo. Procedimientos de solución.
+–	 Análisis de un convenio colectivo aplicable al ámbito profesional del Técnico 
+Superior en Mecatrónica Industrial.
+–	 Beneficios para los trabajadores en las nuevas organizaciones: flexibilidad, 
+beneficios sociales, entre otros.
+4. Seguridad Social, empleo y desempleo:
+–	 La Seguridad Social como pilar del Estado social e derecho.
+–	 Estructura del sistema de la Seguridad Social.
+–	 Determinación de las principales obligaciones de empresarios y trabajadores en 
+materia de Seguridad Social: afiliación, altas, bajas y cotización. Cálculo de bases 
+de cotización a la seguridad social y determinación de cuotas en un supuesto 
+sencillo.
+–	 Prestaciones de la Seguridad Social. Situaciones protegibles en la protección 
+por desempleo. Cálculo de una prestación por desempleo de nivel contributivo 
+básico.
+BLOQUE B: Prevención de Riesgos Laborales.
+Duración: 50 horas
+5. Evaluación de riesgos profesionales:
+–	 Importancia de la cultura preventiva en todas las fases de la actividad. 
+Sensibilización, a través de las estadísticas de siniestralidad nacional y en Castilla 
+y León, de la necesidad de hábitos y actuaciones seguras.
+–	 Valoración de la relación entre trabajo y salud.
+–	 El riesgo profesional. Mapa de riesgos. Análisis de factores de riesgo.
+–	 Análisis de riesgos ligados a las condiciones de seguridad.
+–	 Análisis de riesgos ligados a las condiciones ambientales. Agentes físicos, 
+químicos y biológicos.
+–	 Análisis de riesgos ligados a las condiciones ergonómicas y psicosociales.
+–	 Riesgos específicos en el sector de la mecatrónica industrial.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57667
+Miércoles, 28 de agosto de 2013
+–	 La evaluación de riesgos en la empresa como elemento básico de la actividad 
+preventiva.
+–	 Técnicas de evaluación de riesgos.
+–	 Condiciones de seguridad y salud en los lugares de trabajo. 
+–	 Determinación de los posibles daños a la salud del trabajador que pueden 
+derivarse de las situaciones de riesgo detectadas. 
+–	 Los accidentes de trabajo, las enfermedades profesionales y otras patologías.
+6. Planificación de la prevención de riesgos en la empresa. Prevención integrada:
+–	 Marco normativo en materia de prevención de riesgos laborales.
+–	 Derechos y deberes en materia de prevención de riesgos laborales. 
+Responsabilidades legales.
+–	 Gestión de la prevención en la empresa. Documentación.
+–	 Organismos públicos relacionados con la prevención de riesgos laborales.
+–	 Planificación de la prevención en la empresa. Secuenciación de actuaciones.
+–	 Definición del contenido del Plan de Prevención de un centro de trabajo relacionado 
+con el sector profesional.
+–	 Planes de emergencia y de evacuación en entornos de trabajo.
+–	 Elaboración de un plan de emergencia en una empresa del sector. 
+–	 Representación de los trabajadores en materia preventiva. 
+7. Aplicación de medidas de prevención y protección en la empresa:
+–	 Técnicas de lucha contra los daños profesionales. Seguridad en el trabajo. 
+Higiene industrial y otros.
+–	 Determinación de las medidas de prevención y protección individual y colectiva.
+–	 Señalización de seguridad y salud.
+–	 Protocolo de actuación ante una situación de emergencias.
+–	 Primeros auxilios. Conceptos básicos. Aplicación de técnicas de primeros 
+auxilios.
+–	 Vigilancia de la salud de los trabajadores.
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para que el alumnado 
+pueda insertarse laboralmente y desarrollar su carrera profesional en el sector. 
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57668
+Miércoles, 28 de agosto de 2013
+La formación del módulo profesional contribuye a alcanzar los objetivos generales 
+p), q), r), s), t) y x) del ciclo formativo y las competencias profesionales, personales y 
+sociales l), ñ), o), p), q) y v) del título. 
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar 
+los objetivos del módulo profesional versarán sobre: 
+–	 El manejo de las fuentes de información sobre el sistema educativo y laboral, en 
+especial en lo referente a las empresas.
+–	 La realización de pruebas de orientación y dinámicas sobre la propia personalidad 
+y el desarrollo de las habilidades sociales. 
+–	 La preparación y realización de modelos de currículum vital (CV) y entrevistas de 
+trabajo. 
+–	 Identificación de la normativa laboral que afecta a los trabajadores del sector, 
+manejo de los contratos más comúnmente utilizados, lectura comprensiva de los 
+convenios colectivos de aplicación. 
+–	 La cumplimentación de recibos de salario de diferentes características y otros 
+documentos relacionados. 
+–	 El análisis de la Ley de Prevención de Riesgos Laborales que le permita evaluar 
+los riesgos derivados de las actividades desarrolladas en el sector productivo 
+y que le permita colaborar en la definición de un plan de prevención para una 
+pequeña empresa, así como en la elaboración de las medidas necesarias para 
+su puesta en funcionamiento.
+Módulo profesional: Empresa e iniciativa emprendedora.
+Equivalencia en créditos ECTS: 4
+Código: 0947
+Duración: 63 horas
+Contenidos:
+1. Iniciativa emprendedora:
+–	 Innovación y desarrollo económico. Principales características de la innovación 
+en mecatrónica industrial (materiales, tecnología, organización de la producción, 
+entre otros).
+–	 El trabajo por cuenta propia como fuente de creación de empleo y bienestar 
+social.
+–	 Responsabilidad social de la empresa.
+–	 La cultura emprendedora. El emprendedor. Factores claves de los emprendedores: 
+iniciativa, creatividad y formación.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57669
+Miércoles, 28 de agosto de 2013
+–	 Desarrollo del espíritu emprendedor a través del fomento de las actitudes de 
+creatividad, iniciativa, autonomía y responsabilidad.
+–	 La actuación de los emprendedores como empleados de una pyme relacionada 
+con la mecatrónica industrial. 
+–	 Fomento de las capacidades emprendedoras de un trabajador por cuenta 
+ajena.
+–	 La actuación de los emprendedores como empresarios en el sector de la 
+mecatrónica industrial.
+–	 Análisis de las oportunidades de negocio en el sector.
+–	 El empresario. Requisitos para el ejercicio de la actividad empresarial. Aptitudes 
+y actitudes.
+–	 Plan de empresa: la idea de negocio en el ámbito de la mecatrónica industrial. 
+–	 Búsqueda de ideas de negocio. Análisis y viabilidad de las mismas.
+2. La empresa y su entorno:
+–	 Concepto de empresa. Funciones básicas de la empresa. Comercial, técnica, 
+social, financiera y administrativa.
+–	 Estructura organizativa de la empresa. Organigrama.
+–	 La empresa como sistema.
+–	 El entorno general de la empresa en los aspectos económico, social, demográfico 
+y cultural.
+–	 Competencia. Barreras de entrada.
+–	 El estudio de mercado. Variables del marketing mix: precio, producto, comunicación 
+y distribución.
+–	 Análisis del entorno general  y específico de una pyme relacionada con la 
+mecatrónica industrial. Relaciones con clientes y proveedores.
+–	 Análisis DAFO.
+–	 Relaciones de una pyme de mecatrónica industrial con su entorno.
+–	 Cultura empresarial e Imagen corporativa.
+–	 Relaciones de una pyme en el ámbito de la mecatrónica industrial con el conjunto 
+de la sociedad. La ética empresarial en empresas del sector.
+–	 El balance social: los costes y los beneficios sociales.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57670
+Miércoles, 28 de agosto de 2013
+3. Creación y puesta en marcha de una empresa:
+–	 Tipos de empresa. La organización de la empresa. El organigrama.
+–	 Elección de la forma jurídica. Ventajas e inconvenientes de las distintas formas 
+jurídicas con especial atención a la responsabilidad legal.
+–	 La franquicia como forma de empresa.
+–	 La fiscalidad en las empresas.
+–	 Trámites administrativos para la constitución de una empresa del sector. Relación 
+con organismos oficiales.
+–	 Subvenciones y ayudas destinadas a la creación de empresas  del sector.
+–	 Viabilidad económica y viabilidad financiera de una pyme relacionada con la 
+mecatrónica industrial.
+–	 Plan de empresa: elección de la forma jurídica, estudio de viabilidad económico 
+y financiera, trámites administrativos y gestión de ayudas y subvenciones.
+–	 Vías externas de asesoramiento y gestión. La ventanilla única empresarial.
+4. Función administrativa:
+–	 Concepto de contabilidad y nociones básicas.
+–	 Cuentas anuales obligatorias.
+–	 Análisis de la información contable.
+–	 Ratios. Cálculo de coste, beneficio y umbral de rentabilidad.
+–	 Obligaciones fiscales de las empresas. Principales impuestos aplicables a las 
+empresas del sector.
+–	 Gestión administrativa de una empresa de mecatrónica industrial. Documentos 
+básicos utilizados en la actividad económica de la empresa: nota de pedido, 
+albarán, factura, letra de cambio, cheque y otros.
+–	 Gestión de aprovisionamiento. Valoración de existencias. Volumen óptimo de 
+pedido.
+–	 Elaboración de un plan de empresa. 
+Orientaciones pedagógicas y metodológicas.
+Este módulo profesional contiene la formación necesaria para desarrollar la propia 
+iniciativa en el ámbito empresarial, tanto hacia el autoempleo como hacia la asunción de 
+responsabilidades y funciones en el empleo por cuenta ajena. 
+La formación del módulo profesional permite alcanzar los objetivos generales u), w) 
+y x) del ciclo formativo y las competencias p), q), r) y t) del título.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+Pág. 57671
+Miércoles, 28 de agosto de 2013
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar 
+los objetivos del módulo profesional versarán sobre:
+–	 El manejo de las fuentes de información sobre el sector de la mecatrónica 
+industrial, incluyendo el análisis de los procesos de innovación sectorial en 
+marcha.
+–	 La realización de casos y dinámicas de grupo que permitan comprender y valorar 
+las actitudes de los emprendedores y ajustar la necesidad de los mismos al sector 
+industrial relacionado con los procesos de mecatrónica industrial.
+–	 La realización de un proyecto de plan de empresa relacionada con los sistemas 
+electrotécnicos y automatizados que incluya todas las facetas de puesta en marcha 
+de un negocio: viabilidad, organización de la producción y los recursos humanos, 
+acción comercial, control administrativo y financiero, así como justificación de su 
+responsabilidad social.
+–	 La utilización de programas de gestión administrativa para pymes del sector.
+–	 La utilización de la herramienta «Aprende a Emprender».
+Módulo profesional: Formación en centros de trabajo.
+Equivalencia en créditos ECTS: 22
+Código: 0948
+Duración: 380 horas
+Este módulo profesional contribuye a completar las competencias propias de este 
+título y los objetivos generales del ciclo, tanto aquellos que se han alcanzado en el centro 
+educativo, como los que son difíciles de conseguir en el mismo.
+CV: BOCYL-D-28082013-2
+
+Boletín Oficial de Castilla y León
+Núm. 165
+http://bocyl.jcyl.es
+D.L.: BU 10-1979 - ISSN 1989-8959
+Pág. 57672
+Miércoles, 28 de agosto de 2013
+ANEXO III
+ORGANIZACIÓN Y DISTRIBUCIÓN HORARIA
+Módulos profesionales
+Duración 
+del 
+currículo
+(horas)
+Centro Educativo
+Centro de 
+Trabajo
+Curso 1.º
+horas/semanales
+Curso 2.º
+1.º y 2.º
+trimestres
+horas/semanales
+3er 
+trimestre
+horas
+0935. Sistemas mecánicos.
+160
+5
+0936. Sistemas hidráulicos y neumáticos.
+128
+4
+0937. Sistemas eléctricos y electrónicos.
+256
+8
+0938. Elementos de máquinas.
+64
+2
+0939. Procesos de fabricación.
+160
+5
+0940. Representación gráfica de 
+sistemas mecatrónicos.
+96
+3
+0941. Configuración de sistemas 
+mecatrónicos.
+147
+7
+0942. Procesos y gestión de 
+mantenimiento y calidad.
+126
+6
+0943. Integración de sistemas.
+231
+11
+0944. Simulación de sistemas 
+mecatrónicos.
+63
+3
+0945. Proyecto de mecatrónica industrial.
+30
+30
+0946. Formación y orientación laboral.
+96
+3
+0947. Empresa e iniciativa 
+emprendedora.
+63
+3
+0948. Formación en centros de trabajo.
+380
+ 
+380
+TOTAL
+2.000
+30
+30
+410
+CV: BOCYL-D-28082013-2
