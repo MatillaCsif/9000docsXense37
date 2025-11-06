@@ -1,0 +1,17 @@
+﻿# Entorno local
+.venv/
+__pycache__/
+*.log
+
+# Ficheros de Office pesados
+*.xlsx
+*.xls
+*.xlsm
+
+# Binarios temporales
+*.part
+*.tmp
+
+# Sistema
+Thumbs.db
+.DS_Store
