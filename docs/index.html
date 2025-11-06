@@ -1,8 +1,43 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Buscador Normativo (Xense37)</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;margin:24px;max-width:1100px}
+  h1{margin:0 0 12px}
+  .controls{display:grid;grid-template-columns:1fr 140px 140px;gap:8px;margin:12px 0}
+  input,select{padding:8px;font-size:16px}
+  .card{border:1px solid #ddd;padding:12px;border-radius:12px;margin:10px 0}
+  .badge{display:inline-block;background:#f2f2f2;border:1px solid #e5e5e5;padding:2px 8px;border-radius:999px;margin-right:6px}
+  mark{background:#fff3b0}
+  .small{color:#666;font-size:13px}
+</style>
+</head>
+<body>
+
+<h1>Buscador Normativo</h1>
+<div class="controls">
+  <input id="q" placeholder='Buscar (usa "frase exacta", -excluir)…'>
+  <select id="year"><option value="">Todos los años</option></select>
+  <select id="limit">
+    <option value="50">Top 50</option>
+    <option value="100">Top 100</option>
+    <option value="200">Top 200</option>
+  </select>
+</div>
+<p class="small" id="count">Cargando índice…</p>
+<div id="results"></div>
+
+<!-- Lunr + español -->
 <script src="https://unpkg.com/lunr/lunr.js"></script>
 <script src="https://unpkg.com/lunr-languages/lunr.stemmer.support.js"></script>
 <script src="https://unpkg.com/lunr-languages/lunr.es.js"></script>
+
 <script>
 let DATA=[], IDX=null, YEARS=new Set();
+// RUTA raw a tu repo para servir los .txt directamente
 const RAW_BASE = "https://raw.githubusercontent.com/MatillaCsif/9000docsXense37/main/";
 
 function tokensFromQuery(raw){
@@ -17,42 +52,65 @@ function highlight(text, needles){
   let out=text, seen=new Set();
   needles.filter(Boolean).forEach(n=>{
     const key=n.toLowerCase(); if (seen.has(key)) return; seen.add(key);
-    try{ out=out.replace(new RegExp("("+n.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+")","ig"),"<mark>$1</mark>"); }catch{}
+    try{
+      const re = new RegExp("("+n.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+")","ig");
+      out = out.replace(re,"<mark>$1</mark>");
+    }catch{}
   });
   return out;
 }
 function showDate(s){ if(!s) return ""; return String(s).slice(0,10); }
+function buildViewerUrl(fileUrl, q){
+  const p = new URLSearchParams();
+  p.set('u', fileUrl);
+  if(q) p.set('q', q);
+  return 'pdf.html?'+p.toString();
+}
 
 async function load(){
+  // index.json está junto a este archivo (en /docs)
   const res = await fetch('docs_index.json');
   DATA = await res.json();
+
+  // normaliza datos y recoge años
   DATA.forEach(d=>{
     d.date = (d.date||"").toString();
     const y = (d.date.match(/\d{4}/)||[])[0]; if (y) YEARS.add(y);
-    d._snippet = (d.snippet||"").replace(/\s+/g," ").trim();   // guardamos snippet limpio
-    d._snipLC  = d._snippet.toLowerCase();                      // caché en minúsculas para filtros
+    d._snippet = (d.snippet||"").replace(/\s+/g," ").trim(); // snippet limpio
+    d._snipLC  = d._snippet.toLowerCase();                    // cache minúsculas
   });
+
+  // llena el selector de año
   const sel = document.getElementById('year');
-  [...YEARS].sort().forEach(y=>{ const o=document.createElement('option'); o.value=y; o.textContent=y; sel.appendChild(o); });
-  IDX = lunr(function(){ this.use(lunr.es); this.ref('id'); this.field('snippet'); this.field('date'); DATA.forEach(d=>this.add(d), this); });
+  [...YEARS].sort().forEach(y=>{
+    const o=document.createElement('option'); o.value=y; o.textContent=y; sel.appendChild(o);
+  });
+
+  // índice Lunr en español
+  IDX = lunr(function(){
+    this.use(lunr.es);
+    this.ref('id');
+    this.field('snippet');
+    this.field('date');
+    DATA.forEach(d=>this.add(d), this);
+  });
+
   document.getElementById('count').textContent = `Ítems indexados: ${DATA.length}`;
 }
-load();
 
 function runSearch(){
   if (!DATA.length) return;
-  const q = document.getElementById('q').value.trim();
+
+  const qRaw = document.getElementById('q').value.trim();
   const year = document.getElementById('year').value;
   const limit = parseInt(document.getElementById('limit').value,10) || 50;
 
-  const {phrases, minus, terms} = tokensFromQuery(q);
+  if (!qRaw){ render([]); return; }
+
+  const {phrases, minus, terms} = tokensFromQuery(qRaw);
   let rows = [];
 
-  if (!q){
-    render([]); return;
-  }
-
-  // Si hay comillas => búsqueda de frase exacta pura (sin Lunr)
+  // Si hay comillas => prioriza coincidencia literal (sin Lunr)
   if (phrases.length){
     const need = phrases.map(p=>p.toLowerCase());
     rows = DATA.filter(d=>{
@@ -61,25 +119,32 @@ function runSearch(){
       return need.every(p=> d._snipLC.includes(p));
     });
   } else {
-    // Sin comillas => Lunr + filtros cliente
+    // Sin comillas => Lunr + filtros de cliente
     let hits=[];
-    try{ hits = IDX.search(q.replace(/[-]/g,' ')); }
-    catch(e){ hits = IDX.search(q.replace(/[-~*:^+?]/g,' ')); }
+    try{ hits = IDX.search(qRaw.replace(/[-]/g,' ')); }
+    catch(e){ hits = IDX.search(qRaw.replace(/[-~*:^+?]/g,' ')); }
     rows = hits.map(h=>DATA.find(d=>d.id===h.ref)).filter(Boolean);
     if (year) rows = rows.filter(r=> (r.date||'').includes(year));
     if (minus.length){ rows = rows.filter(r=> !minus.some(m=> r._snipLC.includes(m))); }
   }
 
-  // Prep render
+  const phraseForViewer = (phrases[0] || terms.join(' ').trim() || '').slice(0,200);
   const needles = [...terms, ...phrases];
+
   rows = rows.slice(0, limit).map(r=>{
-    const txtUrl  = r.text_relpath ? (RAW_BASE + r.text_relpath) : "";
-    const visorUrl = `pdf.html?u=${encodeURIComponent(r.pdf_url)}`;
-    return {...r, _hl: highlight(r._snippet.slice(0, 400), needles), _txt: txtUrl, _visor: visorUrl};
+    const txtUrl    = r.text_relpath ? (RAW_BASE + r.text_relpath) : "";
+    const viewerUrl = buildViewerUrl(r.pdf_url, phraseForViewer);
+    return {
+      ...r,
+      _hl: highlight(r._snippet.slice(0, 400), needles),
+      _txt: txtUrl,
+      _viewer: viewerUrl
+    };
   });
 
   render(rows);
 }
+
 function render(list){
   const out=document.getElementById('results'), count=document.getElementById('count');
   count.textContent=`${list.length} resultado(s)`;
@@ -91,13 +156,22 @@ function render(list){
       </div>
       <div style="margin:6px 0">${d._hl||''}</div>
       <div class="small">
-        <a href="${d._visor}" target="_blank">Ver PDF en visor</a>
+        <a href="${d.pdf_url}" target="_blank">Abrir PDF original</a>
+        ${d._viewer ? ` | <a href="${d._viewer}" target="_blank">Ver con búsqueda</a>` : ``}
         ${d.text_relpath ? ` | <a href="${d._txt}" target="_blank">Abrir texto (.txt)</a>` : ``}
       </div>
     </div>
   `).join('');
 }
-document.getElementById('q').addEventListener('input', runSearch);
-document.getElementById('year').addEventListener('change', runSearch);
-document.getElementById('limit').addEventListener('change', runSearch);
+
+document.addEventListener('DOMContentLoaded', ()=>{
+  load().then(()=>{
+    document.getElementById('q').addEventListener('input', runSearch);
+    document.getElementById('year').addEventListener('change', runSearch);
+    document.getElementById('limit').addEventListener('change', runSearch);
+  });
+});
 </script>
+
+</body>
+</html>
