@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="es">
+<meta charset="utf-8">
+<title>Visor PDF</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  body{margin:0}
+  .bar{padding:8px;background:#f7f7f7;border-bottom:1px solid #ddd;font-family:system-ui}
+  iframe{border:0;width:100vw;height:calc(100vh - 44px)}
+</style>
+<div class="bar">
+  <a id="open" target="_blank">Abrir PDF original</a>
+</div>
+<iframe id="viewer"></iframe>
+<script>
+  // Recoge parámetros
+  const p   = new URLSearchParams(location.search);
+  const url = p.get('u') || '';
+  const q   = (p.get('q') || '').trim();
+
+  // Enlace directo
+  document.getElementById('open').href = url;
+
+  // Carga PDF.js en iframe
+  const iframe = document.getElementById('viewer');
+  const viewerSrc = 'https://mozilla.github.io/pdf.js/web/viewer.html?file=' + encodeURIComponent(url);
+  iframe.src = viewerSrc;
+
+  // Intento robusto de resaltar mediante postMessage (el visor escucha 'find')
+  function sendFind() {
+    if (!q) return;
+    try {
+      iframe.contentWindow.postMessage({
+        type: 'find',
+        query: q,
+        caseSensitive: false,
+        highlightAll: true,
+        findPrevious: false,
+        phraseSearch: true
+      }, '*');
+    } catch (e) { /* silencioso */ }
+  }
+
+  // Dispara varias veces tras la carga para asegurar que el visor está listo
+  iframe.addEventListener('load', () => {
+    setTimeout(sendFind, 500);
+    setTimeout(sendFind, 1200);
+    setTimeout(sendFind, 2500);
+  });
+</script>
+</html>

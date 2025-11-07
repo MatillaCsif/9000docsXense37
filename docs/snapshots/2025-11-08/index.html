@@ -1,0 +1,348 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Buscador Normativo (Xense37)</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  :root{--bg:#ffffff;--muted:#666;--chip:#f2f2f2;--chipb:#e5e5e5;--hl:#fff3b0}
+  body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;margin:0;background:var(--bg);color:#111}
+  header{padding:20px 24px;border-bottom:1px solid #eee}
+  h1{margin:0 0 8px}
+  .wrap{display:grid;grid-template-columns:2fr 1fr;gap:18px;max-width:1200px;margin:0 auto;padding:16px 24px}
+  .controls{display:grid;grid-template-columns:1fr 140px 140px;gap:8px;margin:8px 0 0}
+  input,select{padding:8px;font-size:16px}
+  .small{color:var(--muted);font-size:13px}
+  .card{border:1px solid #ddd;padding:12px;border-radius:12px;margin:10px 0;background:#fff}
+  .badge{display:inline-block;background:var(--chip);border:1px solid var(--chipb);padding:2px 8px;border-radius:999px;margin-right:6px}
+  mark{background:var(--hl)}
+  aside .box{border:1px solid #eee;border-radius:12px;background:#fff;margin-bottom:14px}
+  aside .box h3{margin:0;padding:10px 12px;border-bottom:1px solid #eee;font-size:16px}
+  aside .box .body{padding:10px 12px}
+  .chips{display:flex;flex-wrap:wrap;gap:6px}
+  .chip{background:var(--chip);border:1px solid var(--chipb);border-radius:999px;padding:3px 10px;cursor:pointer}
+  .chip.active{outline:2px solid #888}
+  .chip:hover{filter:brightness(0.97)}
+  .row{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+  .muted{color:var(--muted)}
+  .split{display:flex;gap:12px;align-items:center;flex-wrap:wrap}
+  .kv{display:flex;gap:6px;align-items:center}
+  .kv input{width:100%}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="split">
+    <h1>Buscador Normativo</h1>
+    <div id="summary" class="small muted"></div>
+  </div>
+  <div class="controls">
+    <input id="q" placeholder='Buscar (usa "frase exacta", -excluir). Ej.: "Federico" "Martín Mata" educación'>
+    <select id="year"><option value="">Todos los años</option></select>
+    <select id="limit">
+      <option value="50">Top 50</option>
+      <option value="100">Top 100</option>
+      <option value="200">Top 200</option>
+    </select>
+  </div>
+</header>
+
+<div class="wrap">
+  <main>
+    <p class="small muted" id="count" style="margin:8px 0 0 0">Cargando índice…</p>
+    <div id="results"></div>
+  </main>
+  <aside>
+    <div class="box">
+      <h3>Rango de fechas</h3>
+      <div class="body">
+        <div class="kv"><span class="small">Desde</span><input type="date" id="dateFrom"></div>
+        <div class="kv" style="margin-top:6px"><span class="small">Hasta</span><input type="date" id="dateTo"></div>
+        <div class="row" style="margin-top:8px">
+          <button id="applyDates">Aplicar</button>
+          <button id="clearDates">Limpiar</button>
+        </div>
+        <p class="small muted" id="dateInfo" style="margin-top:6px"></p>
+      </div>
+    </div>
+
+    <div class="box">
+      <h3>Distribución por año</h3>
+      <div class="body">
+        <div id="facetYears" class="chips"></div>
+      </div>
+    </div>
+
+    <div class="box">
+      <h3>Temáticas</h3>
+      <div class="body">
+        <div id="facetTopics" class="chips"></div>
+        <p class="small muted" style="margin-top:6px">Consejo: puedes combinar varias. Se filtra por cualquier coincidencia en el texto.</p>
+      </div>
+    </div>
+
+    <div class="box">
+      <h3>Ayuda de búsqueda</h3>
+      <div class="body small">
+        <ul>
+          <li><b>Frase exacta</b>: "Titulado Superior"</li>
+          <li><b>Excluir</b>: -maternidad</li>
+          <li><b>AND implícito</b>: excedencia voluntaria educación</li>
+          <li><b>Insensible a acentos</b>: José = Jose</li>
+          <li><b>Ver con búsqueda</b>: abre el PDF con la frase resaltada</li>
+        </ul>
+      </div>
+    </div>
+  </aside>
+</div>
+
+<!-- Lunr + español -->
+<script src="https://unpkg.com/lunr/lunr.js"></script>
+<script src="https://unpkg.com/lunr-languages/lunr.stemmer.support.js"></script>
+<script src="https://unpkg.com/lunr-languages/lunr.es.js"></script>
+
+<script>
+let DATA=[], IDX=null, YEARS=new Set();
+const RAW_BASE = "https://raw.githubusercontent.com/MatillaCsif/9000docsXense37/main/";
+
+// === Utilidades ===
+function fold(s){ return (s||"").normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase(); }
+function showDate(s){ if(!s) return ""; return String(s).slice(0,10); }
+function parseISO(s){ try{ return new Date(s); }catch{return null;} }
+function withinDateRange(d, from, to){
+  if(!d) return true;
+  const dd = parseISO(d);
+  if(from && dd < from) return false;
+  if(to   && dd > to)   return false;
+  return true;
+}
+function tokensFromQuery(raw){
+  const phrases=[...raw.matchAll(/"([^"]+)"/g)].map(m=>m[1].trim()).filter(Boolean);
+  const cleaned=raw.replace(/"[^"]+"/g,' ').trim();
+  const parts=cleaned.split(/\s+/).filter(Boolean);
+  const minus=parts.filter(w=>w.startsWith('-')).map(w=>w.slice(1));
+  const terms=parts.filter(w=>!w.startsWith('-') && w.toUpperCase()!=="AND" && w.toUpperCase()!=="OR");
+  return {phrases, minus, terms};
+}
+function highlight(text, needles){
+  let out=text, seen=new Set();
+  needles.filter(Boolean).forEach(n=>{
+    const key=fold(n); if (seen.has(key)) return; seen.add(key);
+    try{
+      const esc = n.replace(/[.*+?^${}()|[\]\\]/g,'\\$&');
+      out = out.replace(new RegExp("("+esc+")","ig"),"<mark>$1</mark>");
+    }catch{}
+  });
+  return out;
+}
+function buildViewerUrl(fileUrl, q){
+  const p = new URLSearchParams(); p.set('u', fileUrl); if(q) p.set('q', q);
+  return 'pdf.html?'+p.toString();
+}
+function countsByYear(list){
+  const m=new Map();
+  for(const d of list){
+    const y = (d.date||'').match(/\d{4}/)?.[0];
+    if(!y) continue;
+    m.set(y, (m.get(y)||0)+1);
+  }
+  return [...m.entries()].sort((a,b)=>a[0].localeCompare(b[0]));
+}
+
+// === Temáticas (heurística por palabras clave) ===
+const TOPICS = {
+  "Educación": ["educación","educativa","docente","profesorado","alumno","orientación","consejería de educación","orden edu","ies","ceip","cifp"],
+  "Sanidad": ["sanidad","sacyl","salud","gerencia regional de salud","hospital","atención primaria","enfermería","médico"],
+  "Función Pública": ["función pública","empleados públicos","trebep","ebep","dirección general de función pública","jornada","teletrabajo","evaluación del desempeño","carrera profesional"],
+  "Personal Laboral": ["personal laboral","convenio colectivo","cuage","iv cuage","laboral"],
+  "Prisiones": ["instituciones penitenciarias","prisiones","centros penitenciarios","agente de la autoridad"],
+  "Hacienda/AEAT": ["agencia tributaria","aeat","hacienda","tributos","gestha"],
+  "Justicia": ["administración de justicia","juzgado","magistrado","auxilio judicial","laj"],
+  "Universidades": ["universidad","campus","rectorado","profesor titular","contratado doctor"],
+  "MUFACE": ["muface"],
+  "Accidente Laboral": ["accidente laboral","riesgos laborales","prevención de riesgos"],
+  "Permisos": ["permiso","licencia","maternidad","paternidad","lactancia","exámenes","asuntos propios"],
+  "Excedencias": ["excedencia","excedencias"],
+  "Conciliación": ["conciliación","teletrabajo","flexibilidad horaria"]
+};
+const SELECTED_TOPICS = new Set();
+
+function computeTopicsRow(row){
+  const f = row._fold;
+  const hits = [];
+  for(const [topic, list] of Object.entries(TOPICS)){
+    if (list.some(k=> f.includes(fold(k)))) hits.push(topic);
+  }
+  row._topics = hits;
+}
+function renderTopicsFacet(){
+  const box = document.getElementById('facetTopics');
+  box.innerHTML = Object.keys(TOPICS).map(t=>{
+    const active = SELECTED_TOPICS.has(t) ? 'active' : '';
+    return `<span class="chip ${active}" data-topic="${t}">${t}</span>`;
+  }).join('');
+  box.querySelectorAll('.chip').forEach(el=>{
+    el.addEventListener('click', ()=>{
+      const t = el.getAttribute('data-topic');
+      if (SELECTED_TOPICS.has(t)) SELECTED_TOPICS.delete(t); else SELECTED_TOPICS.add(t);
+      renderTopicsFacet();
+      runSearch();
+    });
+  });
+}
+
+// === Estado de fechas ===
+let DATE_FROM = null, DATE_TO = null;
+function bindDateControls(){
+  const df = document.getElementById('dateFrom');
+  const dt = document.getElementById('dateTo');
+  const info = document.getElementById('dateInfo');
+  document.getElementById('applyDates').addEventListener('click', ()=>{
+    DATE_FROM = df.value ? parseISO(df.value) : null;
+    DATE_TO   = dt.value ? parseISO(dt.value) : null;
+    info.textContent = (DATE_FROM||DATE_TO) ? `Filtro: ${df.value||'—'} a ${dt.value||'—'}` : '';
+    runSearch();
+  });
+  document.getElementById('clearDates').addEventListener('click', ()=>{
+    df.value=''; dt.value=''; DATE_FROM=null; DATE_TO=null; info.textContent='';
+    runSearch();
+  });
+}
+
+// === Carga e índice ===
+async function load(){
+  const res = await fetch('docs_index.json');
+  DATA = await res.json();
+
+  DATA.forEach(d=>{
+    d.date = (d.date||"").toString();
+    const y = (d.date.match(/\d{4}/)||[])[0]; if (y) YEARS.add(y);
+    d._snippet = (d.snippet||"").replace(/\s+/g," ").trim();
+    d._fold    = fold(d._snippet);
+    computeTopicsRow(d);
+  });
+
+  // selector de años
+  const sel = document.getElementById('year');
+  [...YEARS].sort().forEach(y=>{
+    const o=document.createElement('option'); o.value=y; o.textContent=y; sel.appendChild(o);
+  });
+
+  // Índice lunr
+  IDX = lunr(function(){
+    this.use(lunr.es);
+    this.ref('id');
+    this.field('snippet');
+    this.field('date');
+    DATA.forEach(d=>this.add(d), this);
+  });
+
+  document.getElementById('count').textContent = `Ítems indexados: ${DATA.length}`;
+  updateSummary(DATA.length, countsByYear(DATA));
+  renderFacetYears(DATA);
+  renderTopicsFacet();
+  bindDateControls();
+}
+
+function updateSummary(total, pairs){
+  const s = document.getElementById('summary');
+  const tail = pairs.slice(-5).map(([y,c])=>`${y}: ${c}`).join(' · ');
+  s.textContent = `Total: ${total}${tail? "  |  Últimos años → " + tail : ""}`;
+}
+
+function renderFacetYears(list){
+  const el = document.getElementById('facetYears');
+  const pairs = countsByYear(list);
+  const ysel  = document.getElementById('year').value;
+  el.innerHTML = pairs.map(([y,c])=>{
+    const active = (ysel===y);
+    return `<span class="chip ${active?'active':''}" data-y="${y}" title="Filtrar por ${y}">${y} (${c})</span>`;
+  }).join('') || '<span class="small muted">Sin datos</span>';
+  el.querySelectorAll('.chip').forEach(ch=>{
+    ch.addEventListener('click', ()=>{
+      const y = ch.getAttribute('data-y');
+      const sel = document.getElementById('year');
+      sel.value = (sel.value===y? "": y);
+      runSearch();
+    });
+  });
+}
+
+function runSearch(){
+  if (!DATA.length) return;
+
+  const qRaw = document.getElementById('q').value.trim();
+  const year = document.getElementById('year').value;
+  const limit = parseInt(document.getElementById('limit').value,10) || 50;
+
+  const resultsNode = document.getElementById('results');
+  const countNode   = document.getElementById('count');
+
+  const {phrases, minus, terms} = tokensFromQuery(qRaw);
+  const phrasesFold = phrases.map(fold);
+  const termsFold   = terms.map(fold);
+  const minusFold   = minus.map(fold);
+
+  let rows = [];
+
+  // Base de candidatos (rápida con Lunr; si queda vacío por comillas, usamos todo)
+  let hits=[];
+  if (qRaw){
+    try{ hits = IDX.search(qRaw.replace(/[-]/g,' ')); }
+    catch(e){ hits = IDX.search(qRaw.replace(/[-~*:^+?]/g,' ')); }
+  }
+  rows = hits.length ? hits.map(h=>DATA.find(d=>d.id===h.ref)).filter(Boolean) : DATA.slice();
+
+  // Filtros
+  if (year) rows = rows.filter(r=> (r.date||'').includes(year));
+  if (DATE_FROM || DATE_TO) rows = rows.filter(r=> withinDateRange(r.date, DATE_FROM, DATE_TO));
+  if (minusFold.length) rows = rows.filter(r=> !minusFold.some(m=> r._fold.includes(m)));
+  if (phrasesFold.length) rows = rows.filter(r=> phrasesFold.every(p=> r._fold.includes(p)));
+  if (termsFold.length) rows = rows.filter(r=> termsFold.every(t=> r._fold.includes(t)));
+  if (SELECTED_TOPICS.size){
+    rows = rows.filter(r=> r._topics && r._topics.some(t=> SELECTED_TOPICS.has(t)));
+  }
+
+  // Resumen y facetas
+  renderFacetYears(rows);
+  updateSummary(rows.length, countsByYear(rows));
+
+  // Render resultados
+  const phraseForViewer = (phrases[0] || terms.join(' ').trim() || '').slice(0,200);
+  const needles = [...terms, ...phrases];
+  const limited = rows.slice(0, limit).map(r=>{
+    const txtUrl    = r.text_relpath ? (RAW_BASE + r.text_relpath) : "";
+    const viewerUrl = buildViewerUrl(r.pdf_url, phraseForViewer);
+    return {...r, _hl: highlight(r._snippet.slice(0, 400), needles), _txt: txtUrl, _viewer: viewerUrl};
+  });
+
+  countNode.textContent = `${rows.length} resultado(s)`;
+  resultsNode.innerHTML = limited.map(d=>`
+    <div class="card">
+      <div class="small">
+        ${d.date ? `<span class="badge">${showDate(d.date)}</span>` : ``}
+        ${d.text_relpath ? `<span class="badge">TXT</span>` : ``}
+        ${d._topics?.length ? d._topics.map(t=>`<span class="badge">${t}</span>`).join(' ') : ``}
+      </div>
+      <div style="margin:6px 0">${d._hl||''}</div>
+      <div class="small">
+        <a href="${d.pdf_url}" target="_blank">Abrir PDF original</a>
+        ${d._viewer ? ` | <a href="${d._viewer}" target="_blank">Ver con búsqueda</a>` : ``}
+        ${d.text_relpath ? ` | <a href="${d._txt}" target="_blank">Abrir texto (.txt)</a>` : ``}
+      </div>
+    </div>
+  `).join('');
+}
+
+document.addEventListener('DOMContentLoaded', ()=>{
+  load().then(()=>{
+    document.getElementById('q').addEventListener('input', runSearch);
+    document.getElementById('year').addEventListener('change', runSearch);
+    document.getElementById('limit').addEventListener('change', runSearch);
+  });
+});
+</script>
+
+</body>
+</html>
